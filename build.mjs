@@ -278,7 +278,7 @@ prose('../', 'about/', 'About', 'What Poster Atlas is, how its notes are sourced
 <p class="lead">${posters.length} posters and book covers from ${Math.min(...posters.map(p => p.yearNumber))} to ${Math.max(...posters.map(p => p.yearNumber))}, each opened up detail by detail. Posters, book covers and more: it is an independent educational project by King.</p>
 <h2 id="began">How this began</h2>
 <p>I was reading <i>Zen and Ghibli</i> by Toshio Suzuki, the producer at Studio Ghibli. He mentions the line on the poster for The Wind Rises, &ldquo;You must live&rdquo;, and says: &ldquo;I happened to write it with a brush, and the advertising producer said, &lsquo;Let&rsquo;s go with that.&rsquo;&rdquo;</p>
-<p>That made me curious. I had AI build a site to take posters apart and mark them up, to help me understand the craft that went into different posters. The site it built was beautiful, but lacked the X-factor. I then had the idea of pulling a poster into its layers, so I can better see and understand how it is put together.</p>
+<p>That made me curious. I had AI build a site to tease posters apart and mark them up, to help me understand the craft that went into different posters. The site it built was beautiful, but lacked the X-factor. I then had the idea of pulling a poster into its layers, so I can better see and understand how it is put together.</p>
 <p><a class="tgo" href="../posters/${BEGAN.poster}/#${BEGAN.region}"><span>See the brush-written line on The Wind Rises</span><i aria-hidden="true"></i></a></p>
 <p class="sig">&mdash; King</p>
 <div class="photos">
