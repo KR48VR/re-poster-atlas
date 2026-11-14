@@ -290,6 +290,7 @@ async function viewPoster(id, firstLook) {
         el('p', { class: 'lead' }, 'Tap that spot on the poster. There is no wrong place to start.'),
         el('p', { class: 'meta' }, el('strong', null, p.title), el('br'), [p.creator, p.country, p.when].filter(Boolean).join(' · ')),
         S.held ? null : el('p', { class: 'meta' }, p.blurb),
+        p.began && !S.held ? el('p', { class: 'began' }, 'This is the poster that started Poster Atlas. ', el('a', { href: url('about/') + '#began' }, 'How it began')) : null,
         S.held ? null : extras()];
     } else {
       const r = region(l.rid), here = P.gridRef(l.x, l.y);
@@ -302,6 +303,7 @@ async function viewPoster(id, firstLook) {
           el('p', { class: 'where' }, l.exact ? `Look ${mem.trail.length} · you went to ${here}`
             : `Look ${mem.trail.length} · you went to ${here}. Nothing is written about that exact spot yet. The nearest detail is at ${P.gridRef(r.x, r.y)}.`),
           el('h2', { class: 'name' }, r.label), el('p', { class: 'sum' }, r.sum),
+          p.began === r.id && !S.held ? el('p', { class: 'began' }, 'Reading about this brush-written line is what started Poster Atlas. ', el('a', { href: url('about/') + '#began' }, 'How it began')) : null,
           S.held ? null : r.threads.map(t => el('div', { class: 'follow' },          // right under the detail's name, where it is seen without scrolling
             el('p', { class: 'ft' }, el('span', { class: 'ev interpretation' }, el('i', { 'aria-hidden': 'true' }), 'Thread'), el('strong', null, t.name), el('span', null, t.idea)),
             el('p', { class: 'fn' }, tgo(`posters/${t.next.poster}/#${t.next.region}`, `Next: ${t.next.title}`),

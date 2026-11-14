@@ -12,6 +12,7 @@ const C = join(ROOT, 'content');
 const OUT = join(ROOT, 'dist');
 const SITE_URL = (process.env.SITE_URL || 'https://kr48vr.github.io/re-poster-atlas').replace(/\/$/, '');
 const RECORD_URL = 'https://claude.ai/artifact/6b8VcjxP12aoZZqoQekWxo';
+const BEGAN = { poster: 'the-wind-rises', region: 'calligraphy' };   // the detail King read about, which started the whole project
 const TAGLINE = ['Look by layers.', 'See more worlds.'];
 const QUESTION = 'Where does your eye go first?';
 
@@ -99,6 +100,7 @@ const posters = home.order.map((id, i) => {
     layers: L ? L.labels.map((label, k) => ({ label, desc: (L.descriptions || [])[k] || '', file: L.sources[k].split('/').pop().replace('.png', '.webp') })) : [],
     tones: L && tones[id] && tones[id].film.length === L.labels.length ? tones[id] : null,
     readings: (s.connections || []).map(c => ({ label: c.label, title: c.title, text: c.text, layers: [...new Set((c.anchors || []).map(a => a[0]))] })),
+    began: id === BEGAN.poster ? BEGAN.region : null,
     palette: (s.palette || []).map(c => ({ name: c.name, hex: c.hex, role: c.role || '' })), paletteNote: s.paletteNote || null,
     transcript: (s.transcript || []).map(t => ({ heading: t.heading, rows: (t.rows || []).map(r => ({ text: r.text || r.jp || '', meaning: r.meaning || r.en || '', lang: r.lang || (r.jp ? 'ja' : null) })) })),
     transcriptNote: s.transcriptNote || null,
@@ -150,6 +152,7 @@ write(join(OUT, 'data', 'threads.json'), JSON.stringify(threads));
 
 cpSync(join(C, 'images', 'catalogue'), join(OUT, 'img', 'poster'), { recursive: true });
 cpSync(join(C, 'images', 'thumb'), join(OUT, 'img', 'thumb'), { recursive: true });
+cpSync(join(C, 'images', 'about'), join(OUT, 'img', 'about'), { recursive: true });   // King's own photographs for the About page
 for (const p of posters) {
   if (!p.layers.length) continue;
   mkdirSync(join(OUT, 'img', 'layers', p.id), { recursive: true });
@@ -248,8 +251,12 @@ prose('../', 'teachers/', 'For teachers', 'How to use Poster Atlas with a class:
 <p>Press the key at the top again to go back to showing notes straight away. The key stays as you set it while you move between posters.</p>
 <h2>Where does your eye go first?</h2>
 <p>Every poster opens with the same question. Ask a student to point, then tap that spot. Each tap is numbered and joined to the last one, so the class can see the path their eyes took and compare it with someone else's.</p>
+<h2>The finger and the moon</h2>
+<p>A second question works well after the first: what is this poster pointing you towards?</p>
+<p>It comes from the book that started Poster Atlas. In <i>Zen and Ghibli</i>, the priest Shinsuke Hosokawa tells the producer Toshio Suzuki that a film's advertising is like a finger pointing at the moon: &ldquo;the way you point your finger is so that the eye can aim toward the moon.&rdquo;</p>
+<p>The poster is the finger. The film, the book or the idea behind it is the moon. Ask the class where the finger sends their eye, and then what they think the moon is. <a href="../about/#began">How Poster Atlas began</a>.</p>
 <h2>Pull the poster apart</h2>
-<p>The bar under each poster runs from Together to Apart. Drag it to separate the poster into its layers. The list beside it names each layer, and choosing one lights it up.</p>
+<p>The bar under each poster runs from Together to Apart. Drag it to pull the poster into its layers. On a wide screen the sheets stand side by side across the page, each with its name under it. Choose a name, or touch a sheet, to see that layer on its own.</p>
 <p>The layers show what is visible in the artwork. They are not the original production separations.</p>
 <h2>Threads</h2>
 <p>A thread is one idea, such as scale or gesture, followed across many posters. Under a detail's note you will find the thread it belongs to and the next poster on it. The <a href="../threads/">threads page</a> shows all ${threads.length} at once, which makes a ready-made lesson: one idea, a dozen posters, several countries and decades.</p>
@@ -269,6 +276,19 @@ prose('../', 'teachers/', 'For teachers', 'How to use Poster Atlas with a class:
 prose('../', 'about/', 'About', 'What Poster Atlas is, how its notes are sourced, and how it was made.', `
 <h1>About Poster Atlas</h1>
 <p class="lead">${posters.length} posters and book covers from ${Math.min(...posters.map(p => p.yearNumber))} to ${Math.max(...posters.map(p => p.yearNumber))}, each opened up detail by detail. Posters, book covers and more: it is an independent educational project by King.</p>
+<h2 id="began">How this began</h2>
+<p>I was reading <i>Zen and Ghibli</i> by Toshio Suzuki, the producer at Studio Ghibli. He mentions the line on the poster for The Wind Rises, &ldquo;You must live&rdquo;, and says: &ldquo;I happened to write it with a brush, and the advertising producer said, &lsquo;Let&rsquo;s go with that.&rsquo;&rdquo;</p>
+<p>That made me curious. I had AI build a site to take posters apart and mark them up, to help me understand the craft that went into different posters. The site it built was beautiful, but lacked the X-factor. I then had the idea of pulling a poster into its layers, so I can better see and understand how it is put together.</p>
+<p><a class="tgo" href="../posters/${BEGAN.poster}/#${BEGAN.region}"><span>See the brush-written line on The Wind Rises</span><i aria-hidden="true"></i></a></p>
+<p class="sig">&mdash; King</p>
+<div class="photos">
+<figure><img src="../img/about/zen-and-ghibli-cover.webp" width="1050" height="1400" loading="lazy" alt="A copy of the book Zen and Ghibli by Toshio Suzuki, lying on a green table. Its cover shows Totoro holding an umbrella above the treetops under a blue sky."><figcaption>The book.</figcaption></figure>
+<figure><img src="../img/about/zen-and-ghibli-page-21.webp" width="1050" height="1400" loading="lazy" alt="Page 21 of the book, held open with a thumb, with a yellow page marker at its edge. The last paragraph begins: The tagline for The Wind Rises was You must live. I happened to write it with a brush."><figcaption>Page 21. The brush is in the last paragraph.</figcaption></figure>
+</div>
+<p class="credit">Photographs by King. The book is <i>Zen and Ghibli: Life Lessons for Lasting Happiness from the Legendary Studio</i> by Toshio Suzuki, translated by Beth Cary, published in 2026. Its cover and text belong to their rights holders and are shown here only to say where this project began.</p>
+<h2>The finger and the moon</h2>
+<p>On that same page, the priest Shinsuke Hosokawa tells Suzuki that a film's advertising is like a finger pointing at the moon: &ldquo;the way you point your finger is so that the eye can aim toward the moon.&rdquo;</p>
+<p>A poster is that finger. Poster Atlas looks closely at the finger to see how it points. That is why every poster here opens with the same question: where does your eye go first?</p>
 <h2>What the notes are</h2>
 <p>Each poster has between ten and eighteen details. Every detail has a short note, a mark that says how sure the note is, and a question to take away. Sources, edition details and image credits are inside each poster's page.</p>
 <h2>What the layers are</h2>
@@ -276,7 +296,7 @@ prose('../', 'about/', 'About', 'What Poster Atlas is, how its notes are sourced
 <h2>Images</h2>
 <p>Each poster page names the edition shown and credits its source. The images are reproduced for study and teaching.</p>
 <h2>How this was made</h2>
-<p>King built the first Poster Atlas and rebuilt it here with Claude, an AI model. A record of every step, who did what, and how the work was checked is kept on a private page. <a href="${RECORD_URL}">How this was made</a> opens only for people King has shared it with.</p>`);
+<p>King had the first Poster Atlas built with an AI tool, added the idea of pulling posters into layers, and rebuilt it here with Claude, an AI model. A record of every step, who did what, and how the work was checked is kept on a private page. <a href="${RECORD_URL}">How this was made</a> opens only for people King has shared it with.</p>`);
 
 write(join(OUT, '404.html'), page({ root: '/re-poster-atlas/', path: '404.html', title: 'Not found · Poster Atlas', description: 'That page is not in the Atlas.', image: 'img/full/' + share[first.id], ground: '#f3f2ee', ink: '#141414', view: 'page',
   body: `<article class="prose"><h1>That page is not in the Atlas.</h1><p><a href="/re-poster-atlas/">Go to the opening page</a> or <a href="/re-poster-atlas/collection/">browse the collection</a>.</p></article>` }));
