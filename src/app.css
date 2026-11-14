@@ -306,10 +306,10 @@ a.tab.more { display: block; text-decoration: none; padding-right: 6px; }
 .prose ul { padding-left: 22px; }
 /* ---- search: one large line to type on, then the Atlas's own words ---- */
 .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
-body[data-view="search"] { height: auto; --soft: color-mix(in srgb, var(--ink) 70%, var(--ground)); }
-body[data-view="search"] #app { height: auto; min-height: 100%; display: flex; flex-direction: column; }
-body[data-view="search"] .sub-mark, body[data-view="search"] .bar-nav a { color: var(--soft); }
-body[data-view="search"] .bar-nav a:hover { color: var(--ink); }
+body:is([data-view="search"], [data-view="map"], [data-view="timeline"], [data-view="colour"]) { height: auto; --soft: color-mix(in srgb, var(--ink) 70%, var(--ground)); }
+body:is([data-view="search"], [data-view="map"], [data-view="timeline"], [data-view="colour"]) #app { height: auto; min-height: 100%; display: flex; flex-direction: column; }
+body:is([data-view="search"], [data-view="map"], [data-view="timeline"], [data-view="colour"]) :is(.sub-mark, .bar-nav a) { color: var(--soft); }
+body:is([data-view="search"], [data-view="map"], [data-view="timeline"], [data-view="colour"]) .bar-nav a:hover { color: var(--ink); }
 .srch { display: flex; flex-direction: column; padding: clamp(14px, 3vw, 40px) 0 96px; }
 .sq { font-size: 16px; color: var(--soft); }
 #sq { width: 100%; margin: 2px 0 0; padding: 0 0 6px; border: 0; border-bottom: 2px solid var(--rule); border-radius: 0; background: transparent; color: var(--ink); caret-color: var(--ink); -webkit-appearance: none; appearance: none;
@@ -345,6 +345,98 @@ body[data-view="search"] .bar-nav a:hover { color: var(--ink); }
   #sq { font-size: clamp(27px, 8.2vw, 40px); }
   .sres .wall { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 34px 16px; }
   .sres .tile .t { font-size: 16px; }
+}
+
+/* ---- four ways to see the collection ---- */
+.ways { display: flex; flex-wrap: wrap; align-items: baseline; gap: 2px 22px; font-size: 16px; }
+.ways span { color: var(--soft, inherit); opacity: .85; }
+.ways a { font-weight: 700; text-decoration: none; padding: 6px 0; border-bottom: 2px solid transparent; }
+.ways a:hover { border-bottom-color: var(--rule); }
+.ways a[aria-current="page"] { border-bottom-color: var(--ink); }
+
+/* ---- the map: a globe, a flat map, or the continents as layers ---- */
+.wmap, .tline, .colr { display: flex; flex-direction: column; gap: 14px; padding: 8px 0 80px; }
+.wbody { display: grid; grid-template-columns: minmax(0, 1fr) minmax(270px, 27%); gap: 20px clamp(20px, 3vw, 48px); align-items: start; }
+.wstage { position: relative; height: min(72vh, 700px); min-height: 340px; display: grid; place-items: center; --sea: #1d1d1d; --rule: color-mix(in srgb, var(--ink) 30%, var(--ground)); }
+.wplate { position: relative; --open: 0; touch-action: pan-y; outline-offset: 6px; }
+.wstage[data-mode="globe"] .wplate { cursor: grab; }
+.wstage[data-mode="globe"] .wplate:active { cursor: grabbing; }
+.wplane { position: absolute; inset: 0; pointer-events: none; transition: transform 1.2s cubic-bezier(.3, .7, .2, 1), opacity .4s ease;
+  transform: translateY(calc(var(--open) * var(--dy, 0) * 1px)) scale(calc(1 - var(--open) * var(--shrink, .3))) perspective(2400px) rotateX(calc(var(--open) * 62deg)) rotateZ(calc(var(--open) * -7deg)); }
+.wplane canvas, .wone { position: absolute; inset: 0; width: 100%; height: 100%; display: block; }
+.wplate:not(.wsplit) .wplane canvas, .wplate.wsplit .wone { visibility: hidden; }   /* together they are one picture; apart, one each */
+.wopen .wplane { pointer-events: auto; cursor: pointer; box-shadow: 0 0 0 1px var(--rule); background: color-mix(in srgb, var(--ink) 3%, transparent); }
+.wopen .wplane.sea { cursor: default; }
+.wfocus .wplane:not(.on):not(.sea) { opacity: .18; }
+.wpin { position: absolute; left: 0; top: 0; width: var(--d, 14px); height: var(--d, 14px); margin: calc(var(--d, 14px) / -2) 0 0 calc(var(--d, 14px) / -2); padding: 0; display: grid; place-items: center; pointer-events: auto;
+  border-radius: 50%; border: 2px solid var(--casing); background: var(--route); color: var(--casing); font-size: 11px; font-weight: 700; line-height: 1; text-align: center; }
+.wpin::after { content: ""; position: absolute; inset: -7px; border-radius: 50%; }
+.wpin:hover, .wpin.on { background: var(--casing); color: var(--route); border-color: var(--route); z-index: 2; }
+.wpin:focus-visible { outline: 3px solid var(--route); outline-offset: 2px; z-index: 2; }
+.wtags { list-style: none; margin: 0; padding: 0; position: absolute; left: 0; top: 0; bottom: 0; width: 150px; opacity: 0; visibility: hidden; transition: opacity .4s ease; }
+.wapart .wtags { opacity: 1; visibility: visible; transition-delay: .7s; }
+.wtags li { position: absolute; left: 0; transform: translateY(-50%); }
+.wtags button { padding: 4px 0; font-size: 14px; font-weight: 600; line-height: 1.2; }
+.wtags button[aria-pressed="true"] { text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 4px; }
+.wtags button:disabled { color: var(--soft); cursor: default; font-weight: 400; }
+.wpanel { display: flex; flex-direction: column; gap: 14px; min-width: 0; }
+.wpanel .name { font-size: clamp(28px, 3vw, 44px); }
+.wpanel .meta, .wpanel .small { color: var(--soft); }
+.wpanel .link { align-self: flex-start; padding: 2px 0; font-size: 15px; }
+.wgroup h3 { margin: 0 0 2px; display: flex; align-items: center; gap: 9px; font-size: 16px; font-weight: 700; }
+.wgroup h3 i { width: 12px; height: 12px; flex: none; }
+.wgroup h3 span, .wplace span { color: var(--soft); font-weight: 400; font-size: 13px; font-variant-numeric: tabular-nums; }
+.wgroup p { margin: 0; max-width: none; display: flex; flex-wrap: wrap; gap: 0 16px; }
+.wplace { padding: 4px 0; font-size: 16px; display: inline-flex; align-items: baseline; gap: 5px; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 4px; }
+.wplace:hover { text-decoration-thickness: 2px; }
+.wpanel .wall { grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 26px 14px; padding-top: 0; }
+.wpanel .tile { gap: 10px; }
+.wpanel .tile .t { font-size: 15px; }
+.wpanel .tile .m { font-size: 13px; margin-top: -6px; color: var(--soft); }
+
+/* ---- the timeline: decade by decade ---- */
+.tbars { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(0, 1fr); gap: 6px; align-items: end; margin-top: 8px; }
+.tbars a { display: flex; flex-direction: column; justify-content: flex-end; height: 100%; text-decoration: none; min-width: 0; }
+.tbars .tcol { display: flex; align-items: flex-end; }
+.tbars .stack2 { width: 100%; display: flex; flex-direction: column-reverse; gap: 1px; }
+.tbars .stack2 i { flex: 1 1 0; min-height: 0; display: block; }
+.tbars .yr { margin-top: 6px; padding-top: 5px; border-top: 2px solid var(--rule); font-size: 13px; font-weight: 600; color: var(--soft); white-space: nowrap; overflow: hidden; }
+.tbars a:hover .yr, .tbars a:focus-visible .yr { color: var(--ink); border-top-color: var(--ink); }
+.tkey { margin: 0; max-width: none; display: flex; flex-wrap: wrap; gap: 4px 18px; font-size: 14px; color: var(--soft); }
+.tkey span { display: inline-flex; align-items: center; gap: 7px; }
+.tkey i, .dot { width: 10px; height: 10px; flex: none; display: inline-block; }
+.tkey .note { margin-left: auto; }
+.trow2 { display: grid; grid-template-columns: minmax(150px, 15%) minmax(0, 1fr); gap: 16px clamp(18px, 3vw, 44px); padding: clamp(24px, 3vw, 40px) 0; border-top: 1px solid var(--rule); scroll-margin-top: 12px; }
+.thead h2 { margin: 0; font-family: var(--display); font-weight: 800; font-size: clamp(40px, 5vw, 76px); line-height: .92; letter-spacing: -0.012em; font-optical-sizing: none; font-variation-settings: "opsz" 22; }
+.thead p { margin: 10px 0 0; font-size: 15px; color: var(--soft); }
+.tstrip { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(150px, 44%), 1fr)); gap: 30px 20px; }
+.tstrip .tile { gap: 10px; }
+.tstrip .tile .t { font-size: 15px; }
+.tstrip .tile .m { font-size: 13px; margin-top: -6px; color: var(--soft); display: flex; align-items: center; gap: 7px; }
+
+/* ---- colour: the collection as a spectrum ---- */
+.spectrum { display: flex; height: clamp(40px, 7vw, 92px); margin-top: 8px; }
+.spectrum i { flex: 1 1 0; display: block; }
+.chips { flex: 1 1 400px; display: flex; flex-wrap: wrap; gap: 6px 8px; }
+.chip2 { display: inline-flex; align-items: center; gap: 8px; padding: 7px 12px 7px 9px; border: 1px solid var(--rule); border-radius: 999px; font-size: 15px; font-weight: 600; text-transform: capitalize; }
+.chip2 i { width: 14px; height: 14px; border-radius: 50%; flex: none; box-shadow: 0 0 0 1px var(--rule); }
+.chip2 span { font-weight: 400; font-size: 13px; color: var(--soft); }
+.chip2[aria-pressed="true"] { background: var(--ink); color: var(--ground); border-color: var(--ink); }
+.chip2[aria-pressed="true"] span { color: inherit; }
+.colr .wall { gap: 48px 26px; grid-template-columns: repeat(auto-fill, minmax(min(190px, 44%), 1fr)); }
+.colr .tile .m { color: var(--soft); }
+.pal { display: flex; height: 10px; margin-top: -6px; }
+.pal i { flex: 1 1 0; display: block; }
+.colr > .small { color: var(--soft); max-width: 52em; }
+@media (max-width: 820px) {
+  .wbody { grid-template-columns: 1fr; }
+  .wstage { height: 58vh; min-height: 300px; }
+  .wtags { width: 104px; }
+  .wtags button { font-size: 12px; }
+  .trow2 { grid-template-columns: 1fr; }
+  .tbars { gap: 3px; }
+  .tbars .yr { font-size: 10px; }
+  .tkey .note { margin-left: 0; }
 }
 
 /* ---- the About page: bands of colour, each taken from a poster, like the colour fields on the opening page ---- */

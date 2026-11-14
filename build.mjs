@@ -131,7 +131,7 @@ for (const t of threads) t.links.forEach((l, i) => {
 
 /* A short stamp of everything a visitor's browser might have kept from last time. It changes whenever the site does,
    so a returning visitor always gets the new files and never a mix of old and new. */
-const VER = createHash('sha1').update(readFileSync(join(ROOT, 'src', 'app.js'))).update(readFileSync(join(ROOT, 'src', 'app.css'))).update(readFileSync(join(ROOT, 'src', 'search.js')))
+const VER = createHash('sha1').update(readFileSync(join(ROOT, 'src', 'app.js'))).update(readFileSync(join(ROOT, 'src', 'app.css'))).update(readFileSync(join(ROOT, 'src', 'search.js'))).update(readFileSync(join(ROOT, 'src', 'atlas.js'))).update(readFileSync(join(C, 'world.json'))).update(readFileSync(join(C, 'places.json')))
   .update(existsSync(join(C, 'ideas.json')) ? readFileSync(join(C, 'ideas.json')) : '')
   .update(JSON.stringify(posters)).update(JSON.stringify(threads)).update(JSON.stringify(home)).digest('hex').slice(0, 10);
 
@@ -139,9 +139,49 @@ const VER = createHash('sha1').update(readFileSync(join(ROOT, 'src', 'app.js')))
 rmSync(OUT, { recursive: true, force: true });
 mkdirSync(OUT, { recursive: true });
 
+/* ---------- the map: every place named in the records gets a pin; every continent a sheet and a colour ---------- */
+const world = read(join(C, 'world.json')), placeList = read(join(C, 'places.json')).places;
+const placeOf = Object.fromEntries(placeList.map(p => [p.name, p.same ? placeList.find(q => q.name === p.same) : p]));
+const pinAt = new Map();
+for (const p of posters) {
+  const names = p.countries && p.countries.length ? p.countries : [p.country];
+  for (const name of names) {
+    const pl = placeOf[name];
+    if (!pl) throw new Error(`No place on the map for "${name}" (${p.id}). Add it to content/places.json`);
+    const key = pl.at.join(',');
+    let pin = pinAt.get(key); if (!pin) pinAt.set(key, pin = { names: [], at: pl.at, on: pl.on, notes: [], posters: [] });
+    if (!pin.names.includes(pl.name)) { pin.names.push(pl.name); if (pl.note) pin.notes.push(pl.note); }
+    if (!pin.posters.includes(p.id)) pin.posters.push(p.id);
+  }
+  p.on = placeOf[names[0]].on;                                             // the continent of the first place named, for the timeline
+}
+const pins = [...pinAt.values()].map(p => ({ ...p, label: p.names.join(' and ') })).sort((a, b) => a.label.localeCompare(b.label));
+const wear = spectrum(6, [byId[BEGAN.poster]]).map(x => x.p), WEARS = { europe: 0, asia: 1, africa: 2, 'south-america': 3, 'north-america': 4, oceania: 5 };
+const continents = world.continents.map(c => {
+  const mine = pins.filter(p => p.on === c.id), from = wear[WEARS[c.id]];
+  return { id: c.id, name: c.name, colour: from ? from.ground : '#d8d4ca', from: from ? { id: from.id, title: from.title } : null, count: new Set(mine.flatMap(p => p.posters)).size, places: mine.length };
+});
+
+/* ---------- colour: which families of colour each poster's palette holds, and where its page colour sits in the spectrum ---------- */
+const FAMILIES = ['red', 'orange', 'yellow', 'green', 'teal', 'blue', 'purple', 'pink', 'brown', 'black', 'grey', 'white'];
+function family(hex) {
+  const { L, C } = oklch(hex), h = hueOf(hex);
+  if (C < 0.035) return L > 0.9 ? 'white' : L < 0.3 ? 'black' : 'grey';
+  if (h >= 25 && h < 95 && L < 0.56 && C < 0.13) return 'brown';
+  return h < 10 || h >= 335 ? 'pink' : h < 45 ? 'red' : h < 75 ? 'orange' : h < 112 ? 'yellow' : h < 170 ? 'green' : h < 215 ? 'teal' : h < 280 ? 'blue' : h < 325 ? 'purple' : 'pink';
+}
+for (const p of posters) {
+  p.pal = p.palette.map(c => c.hex).filter(h => /^#[0-9a-f]{6}$/i.test(h)).slice(0, 7);
+  p.fams = FAMILIES.filter(f => p.pal.some(h => family(h) === f));
+  const { L, C } = oklch(p.ground);
+  p.sort = C < 0.045 ? 1000 + Math.round((1 - L) * 100) : Math.round((hueOf(p.ground) + 340) % 360);     // the spectrum from red round to pink, then the greys from light to dark
+}
+
 const catalogue = {
   total: posters.length, tagline: TAGLINE, question: QUESTION, record: RECORD_URL,
-  posters: posters.map(p => ({ id: p.id, n: p.n, title: p.title, when: p.when, yearNumber: p.yearNumber, country: p.country, countries: p.countries, category: p.category, creator: p.creator, ratio: p.ratio, ground: p.ground, ink: p.ink, dark: onDark(p.ground), blurb: p.blurb, alt: p.alt, layers: p.layers.length })),
+  posters: posters.map(p => ({ id: p.id, n: p.n, title: p.title, when: p.when, yearNumber: p.yearNumber, country: p.country, countries: p.countries, category: p.category, creator: p.creator, ratio: p.ratio, ground: p.ground, ink: p.ink, dark: onDark(p.ground), blurb: p.blurb, alt: p.alt, layers: p.layers.length, on: p.on, pal: p.pal, fams: p.fams, sort: p.sort })),
+  continents: continents.map(c => ({ id: c.id, name: c.name, colour: c.colour, dark: onDark(c.colour) })),
+  families: FAMILIES,
   themes: home.themes.map(t => ({ title: t.title, short: t.short, description: t.description, ids: t.ids, labels: t.labels, thread: (threads.find(x => x.name === t.short) || {}).id || null })),
   threads: threads.map(t => ({ id: t.id, name: t.name, headline: t.headline, count: t.links.length,
     posters: new Set(t.links.map(l => l.poster)).size,
@@ -151,6 +191,7 @@ const catalogue = {
 write(join(OUT, 'data', 'catalogue.json'), JSON.stringify(catalogue));
 for (const p of posters) write(join(OUT, 'data', 'posters', p.id + '.json'), JSON.stringify(p));
 write(join(OUT, 'data', 'threads.json'), JSON.stringify(threads));
+write(join(OUT, 'data', 'world.json'), JSON.stringify({ source: world.source, continents: continents.map(c => ({ ...c, rings: world.continents.find(w => w.id === c.id).rings })), pins }));
 /* Everything search reads: every note in full, the threads, and the hand-made list of which words sit close to which idea. */
 const ideas = existsSync(join(C, 'ideas.json')) ? read(join(C, 'ideas.json')).ideas : [];
 const searchData = {
@@ -178,7 +219,7 @@ const share = {};                                   // a picture for link previe
 for (const f of readdirSync(join(C, 'images', 'full'))) { share[f.replace(/\.[^.]+$/, '')] = f; }
 cpSync(join(C, 'images', 'full'), join(OUT, 'img', 'full'), { recursive: true });
 cpSync(join(ROOT, 'src', 'fonts'), join(OUT, 'fonts'), { recursive: true });
-for (const f of ['app.css', 'app.js', 'search.js', 'favicon.svg']) cpSync(join(ROOT, 'src', f), join(OUT, f));
+for (const f of ['app.css', 'app.js', 'search.js', 'atlas.js', 'favicon.svg']) cpSync(join(ROOT, 'src', f), join(OUT, f));
 write(join(OUT, '.nojekyll'), '');
 
 const page = ({ root, path, title, description, image, ground, ink, view, id, body, cls = 'plain' }) => `<!doctype html>
@@ -277,6 +318,9 @@ prose('../', 'teachers/', 'For teachers', 'How to use Poster Atlas with a class:
 <h2>Threads</h2>
 <p>A thread is one idea, such as scale or gesture, followed across many posters. Under a detail's note you will find the thread it belongs to and the next poster on it. The <a href="../threads/">threads page</a> shows all ${threads.length} at once, which makes a ready-made lesson: one idea, a dozen posters, several countries and decades.</p>
 <p>Threads are visual readings. They are a way of seeing details together, and students can argue with them.</p>
+<h2>A map, a timeline and colours</h2>
+<p>The <a href="../collection/">collection</a> can be seen four ways. As a <a href="../map/">map</a>, the world is a globe you can turn and pause, a flat map, or a stack of layers with one sheet for each continent, and it changes from one to the next as a poster does when it is pulled apart. Choose a pin to see the posters from that place.</p>
+<p>The <a href="../timeline/">timeline</a> sets the posters out decade by decade, so a class can see what was being made in different places at the same time. <a href="../colour/">Colours</a> sets them out as a spectrum and can show every poster that uses, say, teal.</p>
 <h2>Search by idea</h2>
 <p><a href="../search/">Search</a> looks through every note on every poster. Type an idea, such as loneliness, hand-drawn lettering or the colour red, and it shows the details that match, each outlined on its poster. It also finds titles, makers, countries and decades.</p>
 <p>Under the search line there is an index of ${searchData.ideas.length} ideas to start from. Search reads only the Atlas's own words. It needs no sign-in, and nothing a student types leaves the page. Each result shows the sentence that put it there, so a class can judge whether it belongs.</p>
@@ -292,6 +336,20 @@ prose('../', 'teachers/', 'For teachers', 'How to use Poster Atlas with a class:
 <p>Each poster has letters along the top and numbers down the side, like a map. "Look at D4" gets a whole room looking at the same place.</p>
 <p><a href="../collection/">Browse the collection</a></p>`);
 
+/* Posters whose page colours sit as far apart as the collection allows, set out in the order of the rainbow.
+   The About page's tiles and the map's continents both wear them. */
+function hueOf(hex) { return ((oklch(hex).H * 180 / Math.PI) + 360) % 360; }
+function hueGap(x, y) { return Math.min(Math.abs(x - y), 360 - Math.abs(x - y)); }
+function spectrum(n, leaveOut) {
+  const vivid = posters.filter(p => !leaveOut.includes(p)).map(p => ({ p, ...oklch(p.ground), h: hueOf(p.ground) })).filter(x => x.C > 0.075 && x.L > 0.45 && x.L < 0.86);
+  const picked = [vivid.slice().sort((x, y) => y.C - x.C)[0]];
+  while (picked.length < n) {
+    const far = x => Math.min(...picked.map(q => hueGap(x.h, q.h)));
+    picked.push(vivid.filter(x => !picked.includes(x)).sort((x, y) => (far(y) + y.C * 60) - (far(x) + x.C * 60))[0]);
+  }
+  return picked.sort((x, y) => x.h - y.h);
+}
+
 /* ---------- the About page: bands of colour, each taken from a poster, like the opening's colour fields ---------- */
 {
   const WR = byId[BEGAN.poster], line = WR.regions.find(r => r.id === BEGAN.region);
@@ -299,23 +357,16 @@ prose('../', 'teachers/', 'For teachers', 'How to use Poster Atlas with a class:
   const places = new Set(posters.flatMap(p => (p.countries && p.countries.length ? p.countries : [p.country]).map(place))).size;
   const years = [Math.min(...posters.map(p => p.yearNumber)), Math.max(...posters.map(p => p.yearNumber))];
   const nf = n => n.toLocaleString('en-GB');
-  const hue = hex => ((oklch(hex).H * 180 / Math.PI) + 360) % 360;
-  const gap = (x, y) => Math.min(Math.abs(x - y), 360 - Math.abs(x - y));
+  const gap = hueGap;
   const last = byId['the-piano'] || posters[7];                              // the closing band borrows this poster's colour
-  const vivid = posters.filter(p => p !== WR && p !== last).map(p => ({ p, ...oklch(p.ground), h: hue(p.ground) })).filter(x => x.C > 0.075 && x.L > 0.45 && x.L < 0.86);
-  const picked = [vivid.slice().sort((x, y) => y.C - x.C)[0]];              // six posters whose colours sit as far apart as the collection allows
-  while (picked.length < 6) {
-    const far = x => Math.min(...picked.map(q => gap(x.h, q.h)));
-    picked.push(vivid.filter(x => !picked.includes(x)).sort((x, y) => (far(y) + y.C * 60) - (far(x) + x.C * 60))[0]);
-  }
-  picked.sort((x, y) => x.h - y.h);                                          // then set out in the order of the rainbow
+  const picked = spectrum(6, [WR, last]);                                    // six posters whose colours sit as far apart as the collection allows
   const tiles = [
     [nf(posters.length), 'posters and book covers', '../collection/'],
     [nf(posters.reduce((n, p) => n + p.regions.length, 0)), 'details, each with a note and a question', null],
     [nf(posters.reduce((n, p) => n + p.layers.length, 0)), 'layers to pull apart', null],
     [String(threads.length), 'threads to follow between posters', '../threads/'],
-    [String(places), 'countries and territories', null],
-    [String(years[1] - years[0]), `years, from ${years[0]} to ${years[1]}`, null],
+    [String(places), 'countries and territories', '../map/'],
+    [String(years[1] - years[0]), `years, from ${years[0]} to ${years[1]}`, '../timeline/'],
   ];
   const band = (cls, c, html, id) => `<section class="band ${cls}"${id ? ` id="${id}"` : ''} style="--ground:${c[0]};--ink:${c[1]}">${html}</section>`;
   const go = (href, text) => `<a class="tgo" href="${href}"><span>${text}</span><i aria-hidden="true"></i></a>`;
@@ -383,9 +434,20 @@ write(join(OUT, 'search', 'index.html'), page({ root: '../', path: 'search/', ti
   image: 'img/full/' + share[first.id], ground: '#101010', ink: '#ffffff', view: 'search',
   body: `<article class="prose"><h1>Search</h1><p>Look something up: an idea, a colour, a name. Search reads the Atlas's own notes.</p><h2>Index of ideas</h2><ul>${searchData.ideas.map(g => `<li><a href="./?q=${encodeURIComponent(g.name)}">${esc(g.name)}</a> (${g.n})</li>`).join('')}</ul></article>` }));
 
+/* Map, timeline and colour: the app draws them. These are what a reader without scripts, or a search engine, gets. */
+const plainList = ps => `<ul>${ps.map(p => `<li><a href="../posters/${p.id}/">${esc(p.title)}</a>, ${esc(p.country)}, ${esc(p.when)}</li>`).join('')}</ul>`;
+for (const [path, title, description, html] of [
+  ['map/', 'Map', 'Where the posters in Poster Atlas come from: a globe, a flat map, or the continents as layers.',
+    `<h1>The map</h1><p>Where the posters come from.</p>${pins.map(p => `<h2>${esc(p.label)}</h2>${plainList(p.posters.map(id => byId[id]))}`).join('')}`],
+  ['timeline/', 'Timeline', 'Poster Atlas decade by decade, from the 1890s to the 2020s.',
+    `<h1>The timeline</h1>${plainList([...posters].sort((a, b) => a.yearNumber - b.yearNumber))}`],
+  ['colour/', 'Colour', 'Poster Atlas set out as a spectrum, and filtered by the colours each poster uses.',
+    `<h1>The colours</h1>${plainList([...posters].sort((a, b) => a.sort - b.sort))}`],
+]) write(join(OUT, path, 'index.html'), page({ root: '../', path, title: `${title} · Poster Atlas`, description, image: 'img/full/' + share[first.id], ground: '#101010', ink: '#ffffff', view: path.slice(0, -1), body: `<article class="prose">${html}</article>` }));
+
 write(join(OUT, '404.html'), page({ root: '/re-poster-atlas/', path: '404.html', title: 'Not found · Poster Atlas', description: 'That page is not in the Atlas.', image: 'img/full/' + share[first.id], ground: '#f3f2ee', ink: '#141414', view: 'page',
   body: `<article class="prose"><h1>That page is not in the Atlas.</h1><p><a href="/re-poster-atlas/">Go to the opening page</a> or <a href="/re-poster-atlas/collection/">browse the collection</a>.</p></article>` }));
-write(join(OUT, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${['', 'collection/', 'threads/', ...threads.map(t => `threads/${t.id}/`), 'search/', 'teachers/', 'about/', ...posters.map(p => `posters/${p.id}/`)].map(u => `<url><loc>${SITE_URL}/${u}</loc></url>`).join('\n')}\n</urlset>\n`);
+write(join(OUT, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${['', 'collection/', 'threads/', ...threads.map(t => `threads/${t.id}/`), 'search/', 'map/', 'timeline/', 'colour/', 'teachers/', 'about/', ...posters.map(p => `posters/${p.id}/`)].map(u => `<url><loc>${SITE_URL}/${u}</loc></url>`).join('\n')}\n</urlset>\n`);
 write(join(OUT, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${SITE_URL}/sitemap.xml\n`);
 
 const low = posters.filter(p => contrast(p.ground, p.ink) < 4.5).map(p => p.id);

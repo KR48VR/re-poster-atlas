@@ -476,7 +476,7 @@ async function viewCollection() {
       el('span', { class: 'sw', style: `--g:${p.ground}` }, el('img', { src: url(`img/thumb/${p.id}.webp`), alt: '', loading: 'lazy' })),
       el('span', { class: 't' }, p.title), el('span', { class: 'm' }, `${p.country} · ${p.when}`))));
   }
-  mount('collection', el('div', { class: 'coll' },
+  mount('collection', el('div', { class: 'coll' }, waysIn('collection/'),
     el('h1', null, 'The collection'),
     el('div', { class: 'filters' }, groups, search,
       select('Decade', 'decade', [['', 'Any decade'], ...decades.map(d => [String(d), d + 's'])]),
@@ -530,6 +530,106 @@ async function viewThread(id) {
           el('i', { style: `left:${l.b[0]}%;top:${l.b[1]}%;width:${l.b[2]}%;height:${l.b[3]}%`, 'aria-hidden': 'true' })))),
       el('span', { class: 't' }, l.label), el('span', { class: 'm' }, l.sum), el('span', { class: 'm' }, `${l.title} · ${l.country} · ${l.when}`)))),
     el('p', { class: 'between' }, link(`threads/${before.id}/`, { class: 'link' }, `‹ ${before.name}`), link(`threads/${after.id}/`, { class: 'link' }, `${after.name} ›`))), null, false);
+}
+
+/* ---------- four ways to see the whole collection: a wall, a map, a timeline, colours ---------- */
+const waysIn = here => el('nav', { class: 'ways', 'aria-label': 'Ways to see the collection' }, el('span', null, 'The collection as'),
+  [['collection/', 'a wall'], ['map/', 'a map'], ['timeline/', 'a timeline'], ['colour/', 'colours']].map(([p, t]) => link(p, here === p ? { 'aria-current': 'page' } : null, t)));
+const smallTile = p => link(`posters/${p.id}/`, { class: 'tile' },
+  el('span', { class: 'sw', style: `--g:${p.ground}` }, el('img', { src: url(`img/thumb/${p.id}.webp`), alt: '', loading: 'lazy' })),
+  el('span', { class: 't' }, p.title), el('span', { class: 'm' }, `${p.country} · ${p.when}`));
+
+/* The map: a globe, a flat map, or the continents as layers. The drawing lives in atlas.js. */
+let mapping = null;
+const loadMap = () => (mapping ||= Promise.all([import(url('atlas.js') + (VER ? '?v=' + VER : '')), getJSON('data/world.json')]));
+async function viewMap() {
+  const cat = S.cat, byId = Object.fromEntries(cat.posters.map(p => [p.id, p]));
+  colours('#101010', '#ffffff');
+  document.title = 'Map · Poster Atlas';
+  const stage = el('div', { class: 'wstage' }), panel = el('section', { class: 'wpanel', 'aria-live': 'polite' });
+  const modes = el('div', { class: 'tabs', role: 'group', 'aria-labelledby': 'wlabel' }), spin = el('button', { class: 'link tab-toggle', type: 'button' });
+  mount('map', el('div', { class: 'wmap' }, waysIn('map/'), el('h1', { class: 'sr-only' }, 'The map'),
+    el('div', { class: 'chooser manual' }, el('span', { class: 'chooser-label', id: 'wlabel' }, 'See the world as'), modes, spin),
+    el('div', { class: 'wbody' }, stage, panel)), null, false);
+  const [mod, world] = await loadMap();
+  if (document.body.dataset.view !== 'map' || !stage.isConnected) return;
+  const sheets = world.continents.slice().reverse().filter(c => c.count > 0);        // north first, as on the page
+  let A = null;
+  const place = p => on(el('button', { type: 'button', class: 'wplace' }, p.label, el('span', null, String(p.posters.length))), 'click', () => A.pick(p.k));
+  function show(pin, sheet) {
+    if (pin) {
+      panel.replaceChildren(...[
+        on(el('button', { class: 'link', type: 'button' }, '‹ All places'), 'click', () => A.pick(null)),
+        el('h2', { class: 'name' }, pin.label), pin.notes.map(n => el('p', { class: 'meta' }, n)),
+        el('p', { class: 'where' }, pin.posters.length === 1 ? 'One poster names this place in its record.' : `${pin.posters.length} posters name this place in their records.`),
+        el('div', { class: 'wall' }, pin.posters.map(id => smallTile(byId[id])))].flat().filter(Boolean));
+    } else {
+      const list = sheet ? sheets.filter(c => c.id === sheet.id) : sheets;
+      panel.replaceChildren(...[
+        sheet ? on(el('button', { class: 'link', type: 'button' }, '‹ All continents'), 'click', () => A.focus(null)) : null,
+        el('h2', { class: 'name' }, sheet ? sheet.name : 'Where they come from'),
+        el('p', { class: 'meta' }, sheet ? `${many(sheet.count, 'poster')} from ${many(sheet.places, 'place')}.` : 'Each pin is a place named in a poster’s record, set at its capital. Choose a pin, or a place below.'),
+        list.map(c => el('div', { class: 'wgroup' }, sheet ? null : el('h3', null, el('i', { style: `background:${c.colour}`, 'aria-hidden': 'true' }), c.name, el('span', null, String(c.count))),
+          el('p', null, world.pins.filter(p => p.on === c.id).map(place)))),
+        sheet && sheet.from ? el('p', { class: 'small' }, 'This sheet wears the colour of ', link(`posters/${sheet.from.id}/`, null, sheet.from.title), '.') : null,
+        sheet ? null : el('p', { class: 'small' }, 'A poster made in several places has a pin in each. Former states keep the names the records give them.')].flat().filter(Boolean));
+    }
+  }
+  const drawSpin = () => { spin.hidden = !A || A.mode !== 'globe' || calm; spin.textContent = A && A.spinning ? 'Pause' : 'Play'; spin.setAttribute('aria-label', A && A.spinning ? 'Stop the globe turning' : 'Let the globe turn'); };
+  const drawModes = () => { modes.replaceChildren(...[['globe', 'A globe'], ['flat', 'A flat map'], ['layers', 'Layers']].map(([id, t]) => on(
+    el('button', { class: 'tab', type: 'button', 'aria-pressed': String(A.mode === id) }, el('span', null, t), el('i', { 'aria-hidden': 'true' })), 'click', () => A.setMode(id)))); drawSpin(); };
+  A = mod.makeAtlas(stage, { continents: world.continents, pins: world.pins, calm, onPick: show, onMode: () => drawModes(), onSpin: drawSpin });
+  on(spin, 'click', () => A.spin(!A.spinning));
+  const again = () => A.resize();
+  addEventListener('resize', again);
+  S.leave = () => { A.destroy(); removeEventListener('resize', again); };
+  drawModes(); show(null, null);
+}
+
+/* The timeline: the collection decade by decade, oldest first. */
+async function viewTimeline() {
+  const cat = S.cat, land = Object.fromEntries(cat.continents.map(c => [c.id, c]));
+  colours('#101010', '#ffffff');
+  document.title = 'Timeline · Poster Atlas';
+  const decades = new Map();
+  for (const p of [...cat.posters].sort((a, b) => a.yearNumber - b.yearNumber)) { const d = Math.floor(p.yearNumber / 10) * 10; if (!decades.has(d)) decades.set(d, []); decades.get(d).push(p); }
+  const most = Math.max(...[...decades.values()].map(v => v.length));
+  mount('timeline', el('div', { class: 'tline' }, waysIn('timeline/'), el('h1', { class: 'sr-only' }, 'The timeline'),
+    el('nav', { class: 'tbars', 'aria-label': 'Jump to a decade' }, [...decades].map(([d, ps]) => el('a', { href: `#d${d}`, 'aria-label': `${d}s, ${many(ps.length, 'poster')}` },
+      el('span', { class: 'tcol' }, el('span', { class: 'stack2', style: `height:${Math.max(6, Math.round(ps.length / most * 104))}px` }, ps.map(p => el('i', { style: `background:${land[p.on].colour}` })))), el('span', { class: 'yr' }, `${d}s`)))),
+    el('p', { class: 'tkey' }, cat.continents.filter(c => cat.posters.some(p => p.on === c.id)).reverse().map(c => el('span', null, el('i', { style: `background:${c.colour}` }), c.name)),
+      el('span', { class: 'note' }, 'Each block is one poster, coloured by where it was first made.')),
+    [...decades].map(([d, ps]) => el('section', { class: 'trow2', id: `d${d}` },
+      el('div', { class: 'thead' }, el('h2', null, `${d}s`), el('p', null, `${many(ps.length, 'poster')} from ${many(new Set(ps.flatMap(p => p.countries)).size, 'place')}`)),
+      el('div', { class: 'tstrip' }, ps.map(p => link(`posters/${p.id}/`, { class: 'tile' },
+        el('span', { class: 'sw', style: `--g:${p.ground}` }, el('img', { src: url(`img/thumb/${p.id}.webp`), alt: '', loading: 'lazy' })),
+        el('span', { class: 't' }, p.title), el('span', { class: 'm' }, el('i', { class: 'dot', style: `background:${land[p.on].colour}`, 'aria-hidden': 'true' }), `${p.country} · ${p.when}`))))))), null, false);
+}
+
+/* Colour: the collection set out as a spectrum, and filtered by the colours each poster uses. */
+async function viewColour() {
+  const cat = S.cat, sorted = [...cat.posters].sort((a, b) => a.sort - b.sort);
+  colours('#101010', '#ffffff');
+  document.title = 'Colour · Poster Atlas';
+  const SHOW = { red: '#d5281c', orange: '#ef7d1a', yellow: '#f2c61f', green: '#3d8b45', teal: '#1b9a94', blue: '#2a61c9', purple: '#7d4bb5', pink: '#ee4f9a', brown: '#7b5234', black: '#161616', grey: '#8d8d8d', white: '#f4f1e8' };
+  let want = null;
+  const wall = el('div', { class: 'wall' }), chips = el('div', { class: 'chips', role: 'group', 'aria-label': 'Show posters that use a colour' }), count = el('p', { class: 'sline', 'aria-live': 'polite' });
+  const strip = el('div', { class: 'spectrum', 'aria-hidden': 'true' }, sorted.map(p => el('i', { style: `background:${p.ground}`, title: p.title })));
+  function draw() {
+    const list = sorted.filter(p => !want || p.fams.includes(want));
+    chips.replaceChildren(...cat.families.filter(f => cat.posters.some(p => p.fams.includes(f))).map(f => on(
+      el('button', { type: 'button', class: 'chip2', 'aria-pressed': String(want === f) }, el('i', { style: `background:${SHOW[f]}`, 'aria-hidden': 'true' }), f, el('span', null, String(cat.posters.filter(p => p.fams.includes(f)).length))),
+      'click', () => { want = want === f ? null : f; draw(); })));
+    count.textContent = want ? `${many(list.length, 'poster')} with ${want} in ${list.length === 1 ? 'its' : 'their'} palette, in the order of the spectrum.` : `All ${cat.total}, from red round to pink, then the greys. Each stands on its own colour.`;
+    wall.replaceChildren(...list.map(p => link(`posters/${p.id}/`, { class: 'tile' },
+      el('span', { class: 'sw', style: `--g:${p.ground}` }, el('img', { src: url(`img/thumb/${p.id}.webp`), alt: '', loading: 'lazy' })),
+      el('span', { class: 'pal', 'aria-hidden': 'true' }, p.pal.map(h => el('i', { style: `background:${h}` }))),
+      el('span', { class: 't' }, p.title), el('span', { class: 'm' }, `${p.country} · ${p.when}`))));
+  }
+  mount('colour', el('div', { class: 'colr' }, waysIn('colour/'), el('h1', { class: 'sr-only' }, 'The colours'), strip,
+    el('div', { class: 'chooser' }, el('span', { class: 'chooser-label' }, 'Show posters that use'), chips), count, wall,
+    el('p', { class: 'small' }, 'The colours under each poster are the ones named in its study. Sorting them into families such as red or teal is done by rule, so a colour near a boundary may sit in either.')), null, false);
+  draw();
 }
 
 /* ---------- search: the Atlas's own words, and an index of ideas ---------- */
@@ -612,6 +712,7 @@ function where() {
   if (seg[0] === 'posters' && seg[1]) return { view: 'poster', id: seg[1] };
   if (seg[0] === 'collection') return { view: 'collection' };
   if (seg[0] === 'search') return { view: 'search' };
+  if (['map', 'timeline', 'colour'].includes(seg[0])) return { view: seg[0] };
   if (seg[0] === 'threads') return seg[1] ? { view: 'thread', id: seg[1] } : { view: 'threads' };
   return { view: 'home' };
 }
@@ -623,6 +724,9 @@ async function route(state, first) {
     if (w.view === 'poster' && S.cat.posters.some(p => p.id === w.id)) await viewPoster(w.id, state?.look || null);
     else if (w.view === 'collection') await viewCollection();
     else if (w.view === 'search') await viewSearch();
+    else if (w.view === 'map') await viewMap();
+    else if (w.view === 'timeline') await viewTimeline();
+    else if (w.view === 'colour') await viewColour();
     else if (w.view === 'thread' && S.cat.threads.some(t => t.id === w.id)) await viewThread(w.id);
     else if (w.view === 'threads' || w.view === 'thread') await viewThreads();
     else await viewHome();
