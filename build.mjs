@@ -70,6 +70,7 @@ function onDark(hex) {
 const home = read(join(C, 'home.json'));
 const layersAll = read(join(C, 'layers.json')).layers;
 const overrides = existsSync(join(C, 'colours.json')) ? read(join(C, 'colours.json')) : {};
+const tones = existsSync(join(C, 'layer-tones.json')) ? read(join(C, 'layer-tones.json')).posters : {};   // what each layer needs behind it to be seen (scripts/layer_tones.py)
 const EV = { documented: 'Documented', observation: 'In the image', interpretation: 'Visual reading', uncertain: 'Uncertain' };
 
 const posters = home.order.map((id, i) => {
@@ -95,6 +96,7 @@ const posters = home.order.map((id, i) => {
       })),
     })),
     layers: L ? L.labels.map((label, k) => ({ label, desc: (L.descriptions || [])[k] || '', file: L.sources[k].split('/').pop().replace('.png', '.webp') })) : [],
+    tones: L && tones[id] && tones[id].film.length === L.labels.length ? tones[id] : null,
     readings: (s.connections || []).map(c => ({ label: c.label, title: c.title, text: c.text, layers: [...new Set((c.anchors || []).map(a => a[0]))] })),
     palette: (s.palette || []).map(c => ({ name: c.name, hex: c.hex, role: c.role || '' })), paletteNote: s.paletteNote || null,
     transcript: (s.transcript || []).map(t => ({ heading: t.heading, rows: (t.rows || []).map(r => ({ text: r.text || r.jp || '', meaning: r.meaning || r.en || '', lang: r.lang || (r.jp ? 'ja' : null) })) })),

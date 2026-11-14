@@ -16,6 +16,7 @@
   --ground: #101010;
   --ink: #ffffff;
   --rule: color-mix(in srgb, var(--ink) 36%, var(--ground));
+  --night: #141312; --paper: #f1ede4;   /* the two quiet grounds a pulled-apart poster can stand on */
   --route: #ffffff;
   --casing: #111111;
   --face: "Instrument Sans", "Segoe UI", system-ui, sans-serif;   /* reading text */
@@ -76,11 +77,27 @@ body[data-view="collection"] #app, body[data-view="page"] #app, body[data-view="
 .is-open .plane { box-shadow: 0 0 0 1px var(--rule); }
 .is-open .plane img { filter: drop-shadow(-12px 14px 12px rgba(0, 0, 0, .3)); }
 .flat { position: absolute; inset: 0; transition: opacity .3s ease; box-shadow: 0 0 0 1px var(--rule); }
-.is-open .flat, .spot .flat { opacity: 0; }
-.spot .plane, .focus .plane { opacity: .2; }
-.spot .plane.on, .focus .plane.on { opacity: 1; }
-.spot .plane.on { transform: translateZ(44px); }
-.spot .plane.on img { filter: drop-shadow(0 16px 20px rgba(0, 0, 0, .45)); }
+.is-open .flat, .spot .flat { opacity: 0; pointer-events: none; }
+/* Lighting a layer: the rest of the poster goes behind a veil, and the lit layer comes to the front of it.
+   The veil is near black or off white, whichever shows that layer best, so it never fades into its own colour. */
+.veil { position: absolute; inset: 0; background: var(--veil, var(--night)); opacity: 0; pointer-events: none; transform: translateZ(calc(var(--open) * var(--zf, 0) * 1px + 20px)); transition: opacity .45s ease, transform var(--dur) cubic-bezier(.3, .7, .2, 1); }
+.spot .veil, .focus .veil { opacity: .8; }
+.spot .plane.on, .focus .plane.on { transform: translateZ(calc(var(--open) * var(--zf, 0) * 1px + 40px)); }
+.spot .plane.on img, .focus .plane.on img { filter: drop-shadow(0 16px 20px rgba(0, 0, 0, .45)); }
+/* A film behind one sheet whose marks would be lost on the stage (pale marks on a pale stage, dark on dark). */
+.plane::before { content: ""; position: absolute; inset: 0; opacity: 0; transition: opacity .3s ease; }
+.plane.film-night::before { background: var(--night); }
+.plane.film-paper::before { background: var(--paper); }
+/* Pulled apart across the page: every sheet turns the same way and stands beside the next, first layer on the left. */
+.plate.wide { perspective: none; }
+.plate.wide .stack { transform-style: flat; transform: translate(calc(var(--open) * var(--sx, 0) * 1px), calc(var(--open) * var(--sy, 0) * 1px)); }
+.plate.wide .plane, .plate.wide.focus .plane.on { transform: translateX(calc(var(--open) * var(--x, 0) * 1px)) scale(calc(1 - var(--open) * var(--shrink))) perspective(2400px) rotateY(calc(var(--open) * var(--turn, 38deg))); }
+.plate.wide .veil { display: none; }
+.plate.wide .plane::before { opacity: clamp(0, calc((var(--open) - .5) * 1.64), .82); }
+.plate.wide.is-open .plane { pointer-events: auto; cursor: pointer; }
+.plate.wide.is-open .plane img { filter: drop-shadow(0 12px 14px rgba(0, 0, 0, .28)); }
+.plate.wide.focus .plane { opacity: .2; }
+.plate.wide.focus .plane.on { opacity: 1; box-shadow: 0 0 0 2px var(--ink); }
 .plate svg.trail { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; overflow: visible; transition: opacity .3s; }
 .plate polyline { fill: none; stroke-linejoin: round; stroke-linecap: round; vector-effect: non-scaling-stroke; }
 .marks { transition: opacity .3s; }
@@ -99,7 +116,32 @@ body[data-view="collection"] #app, body[data-view="page"] #app, body[data-view="
 
 /* ---- a poster page ---- */
 main { min-height: 0; min-width: 0; }
-.sheet { height: 100%; display: flex; gap: clamp(24px, 4.5vw, 72px); min-height: 0; min-width: 0; }
+.sheet { position: relative; height: 100%; display: flex; gap: clamp(24px, 4.5vw, 72px); min-height: 0; min-width: 0; }
+/* Pulled apart on a wide screen: the sheets take the top of the page and their names stand under them. */
+.ticks-top, .ticks-left { transition: opacity .3s ease; }
+.sheet.apart { --soft: color-mix(in srgb, var(--ink) 66%, var(--ground)); }
+.frame:has(.plate.is-open) .ticks-top, .frame:has(.plate.is-open) .ticks-left { opacity: 0; }   /* map references mean nothing once the sheets have moved */
+.pull { transition: transform .35s ease; }
+.sheet.apart .pull { transform: translateY(var(--pully, 0px)); }
+.sheet.apart .panel { position: absolute; left: 0; right: 0; top: var(--ptop, 60%); bottom: 46px; padding: 0; gap: 16px; visibility: hidden; opacity: 0; transition: opacity .35s ease; }
+.sheet.apart.settled .panel { visibility: visible; opacity: 1; }
+.tags { list-style: none; margin: 0; padding: 0; display: flex; justify-content: center; }
+.tags li { flex: 0 0 var(--pitch, 200px); min-width: 0; }
+.tags button { display: grid; justify-items: center; gap: 2px; width: 100%; padding: 6px 8px 8px; text-align: center; }
+.tags .num { font-family: var(--display); font-weight: 800; font-size: 22px; line-height: 1; font-optical-sizing: none; font-variation-settings: "opsz" 8; }
+.tags strong { font-size: 15px; font-weight: 500; line-height: 1.25; text-wrap: balance; }
+.tags button[aria-pressed="true"] strong { font-weight: 700; text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 4px; }
+.afoot { display: grid; grid-template-columns: minmax(0, .9fr) minmax(0, 1.8fr) minmax(0, .95fr); gap: 12px clamp(24px, 4vw, 64px); align-items: start; padding-top: 6px; border-top: 1px solid var(--rule); }
+.afoot > div { display: flex; flex-direction: column; gap: 6px; padding-top: 12px; min-width: 0; }
+.afoot .name { font-size: clamp(24px, 2.6vw, 42px); }
+.afoot .sum { font-size: 19px; line-height: 1.35; max-width: 36em; }
+/* The caution about layers sits level with the pull bar, at the foot of the page. */
+.caveat { display: none; position: absolute; right: 0; bottom: 8px; margin: 0; max-width: none; font-size: 13px; text-align: right; color: var(--soft); }
+.sheet.apart.settled .caveat { display: block; }
+.afoot .quiet { color: var(--soft); }
+.aways ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 0; }
+.aways button { padding: 5px 0; text-align: left; font-size: 17px; line-height: 1.3; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 4px; }
+.aways button[aria-pressed="true"] { font-weight: 700; text-decoration-thickness: 2px; }
 .stage { flex: 0 0 auto; min-width: 0; }
 .panel { flex: 1 1 0; min-width: 0; overflow-y: auto; display: flex; flex-direction: column; gap: 22px; padding: 22px 6px 8px 0; }
 .ask { margin: 0; font-size: clamp(42px, 5.8vw, 92px); line-height: 1; text-wrap: balance; max-width: 11em; }

@@ -6,7 +6,8 @@ const BASE = ROOT.pathname;
 const url = p => BASE + p;
 const calm = matchMedia('(prefers-reduced-motion: reduce)').matches;
 const narrow = () => matchMedia('(max-width: 820px)').matches;
-const COLS = 6, LETTERS = 'ABCDEF', GAP = 62;
+const COLS = 6, LETTERS = 'ABCDEF', GAP = 62, TURN = 38, FAR = 2400;
+const CAVEAT = 'Layers analyse the visible artwork. They are not original production separations.';
 const COUNT = ['No', 'One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine'];
 const EV = { documented: 'Documented', observation: 'In the image', interpretation: 'Visual reading', uncertain: 'Uncertain' };
 const SVG = 'http://www.w3.org/2000/svg';
@@ -46,9 +47,10 @@ function colours(ground, ink) {
 function makePlate(p, { ticks = true, pull = false } = {}) {
   const count = Array.isArray(p.layers) ? p.layers.length : (p.layers || 0);
   const rows = Math.round(COLS / p.ratio);
-  const stack = el('div', { class: 'stack', 'aria-hidden': 'true' },
-    Array.from({ length: count }, (_, k) => el('div', { class: 'plane', style: `--z:${(k - (count - 1) / 2) * GAP}` },
-      el('img', { src: url(`img/layers/${p.id}/${k}.webp`), alt: '', draggable: 'false' }))));
+  const tones = p.tones || null;                    // what each layer needs behind it to be seen
+  const planes = Array.from({ length: count }, (_, k) => el('div', { class: 'plane' + (tones && tones.film[k] ? ' film-' + tones.film[k] : ''), style: `--z:${(k - (count - 1) / 2) * GAP}` },
+    el('img', { src: url(`img/layers/${p.id}/${k}.webp`), alt: '', draggable: 'false' })));
+  const stack = el('div', { class: 'stack', 'aria-hidden': 'true', style: `--zf:${(count - 1) / 2 * GAP}` }, planes, el('div', { class: 'veil' }));
   const flat = el('img', { class: 'flat', src: url(`img/poster/${p.id}.webp`), alt: p.alt, draggable: 'false' });
   const casing = sv('polyline', { stroke: '#111111', 'stroke-width': '6' }), route = sv('polyline', { stroke: '#ffffff', 'stroke-width': '2.5' });
   const trail = sv('svg', { class: 'trail', viewBox: '0 0 100 100', preserveAspectRatio: 'none', 'aria-hidden': 'true' }); trail.append(casing, route);
@@ -63,7 +65,7 @@ function makePlate(p, { ticks = true, pull = false } = {}) {
   let timers = [], closing = null, busy = false;
   const later = (fn, ms) => { timers.push(setTimeout(fn, ms)); };
   const api = {
-    p, frame, plate, marks, ref, casing, route, input, count,
+    p, frame, plate, planes, marks, ref, casing, route, input, count,
     get busy() { return busy; },
     gridRef: (x, y) => LETTERS[Math.min(COLS - 1, Math.floor(x / 100 * COLS))] + (Math.min(rows - 1, Math.floor(y / 100 * rows)) + 1),
     size(pw, ph) { plate.style.setProperty('--pw', Math.round(pw) + 'px'); plate.style.setProperty('--ph', Math.round(ph) + 'px'); },
@@ -73,14 +75,19 @@ function makePlate(p, { ticks = true, pull = false } = {}) {
       if (v > 0 && count) { plate.classList.add('is-open'); plate.style.setProperty('--open', v); }
       else { plate.style.setProperty('--open', 0); closing = setTimeout(() => plate.classList.remove('is-open'), dur * 1000); }
     },
-    light(cls, ks) {                       // show some layers and dim the rest: "spot" when flat, "focus" when apart
+    light(cls, ks) {                       // light some layers and quieten the rest: "spot" when flat, "focus" when apart
       const set = new Set([].concat(ks ?? []));
       plate.classList.remove('spot', 'focus');
-      [...stack.children].forEach((pl, i) => pl.classList.toggle('on', set.has(i)));
-      if (cls && count) plate.classList.add(cls);
+      planes.forEach((pl, i) => pl.classList.toggle('on', set.has(i)));
+      if (!cls || !count) return;
+      const tone = tones ? tones.veil[[...set][0]] : 'night';      // the rest is veiled in the ground that shows the lit layer best
+      plate.style.setProperty('--veil', tone === 'paper' ? 'var(--paper)' : 'var(--night)');
+      plate.classList.add(cls);
     },
+    wide(v) { plate.classList.toggle('wide', !!v); },   // pulled apart across the page, not stacked in place
     flourish(level, hold, dur, k, done) {  // open, hold, close
       if (calm || !count) { done && done(); return; }
+      api.wide(false);
       busy = true; if (input) input.value = Math.round(level * 100);
       if (k !== null && k !== undefined) api.light('focus', k);
       api.setOpen(level, dur);
@@ -89,14 +96,14 @@ function makePlate(p, { ticks = true, pull = false } = {}) {
         later(() => { api.light(null); busy = false; done && done(); }, dur * 1000);
       }, dur * 1000 + hold);
     },
-    openNow(level) { if (!count) return; busy = true; if (input) input.value = Math.round(level * 100); api.setOpen(level, 0); },   // start layered
+    openNow(level) { if (!count) return; api.wide(false); busy = true; if (input) input.value = Math.round(level * 100); api.setOpen(level, 0); },   // start layered
     collapse(hold, dur, done) {            // then come together
       later(() => {
         api.setOpen(0, dur); if (input) input.value = 0;
         later(() => { api.light(null); busy = false; done && done(); }, dur * 1000);
       }, hold);
     },
-    spot(k, ms) { api.stop(); api.light('spot', k); later(() => api.light(null), ms); },
+    spot(k, ms) { api.stop(); api.wide(false); api.light('spot', k); later(() => api.light(null), ms); },
     stop() { timers.forEach(clearTimeout); timers = []; busy = false; },
     settle() { api.stop(); api.light(null); if (input) input.value = 0; api.setOpen(0, 0.4); },
     ready: () => Promise.race([
@@ -127,15 +134,22 @@ async function viewPoster(id, firstLook) {
   document.title = `${p.title} · Poster Atlas`;
   const T = S.cat.total, P = makePlate(p, { ticks: true, pull: true });
   const panel = el('section', { class: 'panel', 'aria-live': 'polite' });
-  const sheet = el('div', { class: 'sheet' }, el('div', { class: 'stage' }, P.frame), panel);
+  const sheet = el('div', { class: 'sheet' }, el('div', { class: 'stage' }, P.frame), panel, el('p', { class: 'small caveat' }, CAVEAT));
   mount('poster', sheet, [
     link(`posters/${p.prev.id}/`, { class: 'step', 'aria-label': `Previous plate: ${p.prev.title}` }, '‹'),
     el('span', { id: 'plateno' }, `Plate ${String(p.n).padStart(2, '0')} of ${T} · ${p.title}`),
     link(`posters/${p.next.id}/`, { class: 'step', 'aria-label': `Next plate: ${p.next.title}` }, '›')], true);
 
   const mem = (S.memory[id] ||= { trail: [], found: new Set() });
-  let revealed = false, welcomed = !!firstLook || mem.trail.length > 0 || calm, layersOn = null;
+  let revealed = false, welcomed = !!firstLook || mem.trail.length > 0 || calm, layersOn = null, geo = null, staged = false;
   const apart = () => P.input && +P.input.value > 0;
+  const GROUNDS = { night: ['#141312', '#f1ede4'], paper: ['#f1ede4', '#141312'] };
+  function stage(on) {                                // pulled apart, the poster stands on a quiet ground of its own, not on its own colour
+    on = !!on && !!p.tones;
+    if (on === staged) return; staged = on;
+    const [g, i] = on ? GROUNDS[p.tones.stage] : [p.ground, p.ink];
+    colours(g, i); sheet.classList.toggle('apart', on && !narrow());
+  }
   const region = rid => p.regions.find(r => r.id === rid);
   const last = () => mem.trail[mem.trail.length - 1];
 
@@ -154,6 +168,28 @@ async function viewPoster(id, firstLook) {
       if (pw > maxW) { pw = maxW; ph = pw / p.ratio; }
     }
     P.size(pw, ph);
+    spread(pw, ph);
+    if (staged && sheet.classList.contains('apart') === narrow()) {       // the window crossed between wide and narrow while apart
+      sheet.classList.toggle('apart', !narrow()); P.wide(!narrow()); render();
+    }
+  }
+  function spread(pw, ph) {                           // where each sheet stands when the poster is pulled fully apart
+    const n = P.count; geo = null;
+    if (!n || narrow()) { P.plate.style.removeProperty('--shrink'); return; }
+    const W = sheet.clientWidth, H = sheet.clientHeight, pad = 24;
+    const turn = Math.max(TURN, Math.min(54, TURN + (p.ratio - 0.8) * 22));     // a wide poster turns further, so its sheets can stay large
+    const rad = turn * Math.PI / 180, cos = Math.cos(rad), near = FAR / (FAR - pw / 2 * Math.sin(rad));   // the near edge of a turned sheet stands taller
+    const widest = (W - pad * 2) / (1 + 0.8 * (n - 1));                    // a sheet may hide at most a fifth of its neighbour
+    const room = Math.min(H * 0.56, H - 352);                              // leave space under the sheets for their names, the note and the pull bar
+    const s = Math.min(room / (ph * near), widest / (pw * cos)), face = pw * s * cos, hs = ph * s, ext = hs * (near - 1) / 2;
+    const pitch = Math.min(face * 1.07, (W - pad * 2 - face) / Math.max(1, n - 1));
+    const set = (k, v) => P.plate.style.setProperty(k, v);
+    set('--shrink', (1 - s).toFixed(4)); set('--turn', turn.toFixed(1) + 'deg');
+    set('--sx', (W / 2 - 22 - pw / 2).toFixed(1)); set('--sy', (ext + 4 + hs / 2 - ph / 2).toFixed(1));
+    P.planes.forEach((pl, k) => pl.style.setProperty('--x', ((k - (n - 1) / 2) * pitch).toFixed(1)));
+    geo = { pitch, top: 22 + 4 + hs + ext * 2 + 14 };
+    sheet.style.setProperty('--ptop', Math.round(geo.top) + 'px'); sheet.style.setProperty('--pitch', Math.round(pitch) + 'px');
+    sheet.style.setProperty('--pully', Math.max(0, Math.round(H - 38 - 22 - ph)) + 'px');   // the pull bar goes to the foot of the page with the sheets' names above it
   }
   function drawMarks() {
     const pts = mem.trail.map(t => t.x + ',' + t.y).join(' ');
@@ -212,12 +248,14 @@ async function viewPoster(id, firstLook) {
         el('summary', null, s.src.length === 1 ? '1 source' : `${s.src.length} sources`),
         s.src.map(q => el('p', null, q.url ? el('a', { href: q.url, target: '_blank', rel: 'noopener' }, q.title) : q.title, q.kind ? ` (${q.kind}). ` : '. ', q.note || q.summary || '')))));
 
+  const same = ks => JSON.stringify(layersOn) === JSON.stringify(ks);
+  function pick(ks) { layersOn = same(ks) ? null : ks; P.light(layersOn ? 'focus' : null, layersOn); render(); }
   function renderApart() {
-    const pick = ks => { const same = JSON.stringify(layersOn) === JSON.stringify(ks); layersOn = same ? null : ks; P.light(layersOn ? 'focus' : null, layersOn); render(); };
-    const is = ks => String(JSON.stringify(layersOn) === JSON.stringify(ks));
-    return [
-      el('p', { class: 'where' }, `${p.title}, pulled apart`),
-      el('h2', { class: 'name' }, `${COUNT[p.layers.length] || p.layers.length} layers make this poster.`),
+    const is = ks => String(same(ks)), n = p.layers.length;
+    const head = [el('p', { class: 'where' }, `${p.title}, pulled apart`), el('h2', { class: 'name' }, `${COUNT[n] || n} layers make this poster.`)];
+    const small = el('p', { class: 'small' }, CAVEAT);
+    if (!sheet.classList.contains('apart')) return [                       // a narrow screen: the layers stay stacked, with a list beside them
+      ...head,
       el('ol', { class: 'rows' }, p.layers.map((l, k) => el('li', null, on(
         el('button', { type: 'button', 'aria-pressed': is([k]) }, el('span', { class: 'num' }, String(k + 1)), el('strong', null, l.label), el('span', { class: 'd' }, l.desc)),
         'click', () => pick([k]))))),
@@ -225,7 +263,19 @@ async function viewPoster(id, firstLook) {
       p.readings.length > 0 && el('ul', { class: 'rows' }, p.readings.map(r => el('li', null, on(
         el('button', { type: 'button', 'aria-pressed': is(r.layers) }, el('span', { class: 'num', 'aria-hidden': 'true' }, '+'), el('strong', null, r.title), el('span', { class: 'd' }, r.text)),
         'click', () => pick(r.layers))))),
-      el('p', { class: 'small' }, 'Layers analyse the visible artwork. They are not original production separations.')];
+      small];
+    const one = layersOn && layersOn.length === 1 ? layersOn[0] : null, way = layersOn && one === null ? p.readings.find(r => same(r.layers)) : null;
+    return [                                                                // a wide screen: each sheet is named where it stands
+      el('ol', { class: 'tags' }, p.layers.map((l, k) => el('li', null, on(
+        el('button', { type: 'button', 'aria-pressed': is([k]) }, el('span', { class: 'num' }, String(k + 1)), el('strong', null, l.label)),
+        'click', () => pick([k]))))),
+      el('div', { class: 'afoot' },
+        el('div', { class: 'ahead' }, head[1]),
+        el('div', { class: 'anote' }, one !== null ? [el('p', { class: 'where' }, `Layer ${one + 1} of ${n} · ${p.layers[one].label}`), el('p', { class: 'sum' }, p.layers[one].desc)]
+          : way ? [el('p', { class: 'where' }, way.title), el('p', { class: 'sum' }, way.text)]
+          : el('p', { class: 'sum quiet' }, 'Choose a layer to see it on its own.')),
+        p.readings.length > 0 && el('div', { class: 'aways' }, el('p', { class: 'where' }, 'Read layers together'),
+          el('ul', null, p.readings.map(r => el('li', null, on(el('button', { type: 'button', 'aria-pressed': is(r.layers) }, r.title), 'click', () => pick(r.layers)))))))];
   }
 
   function render() {
@@ -269,7 +319,7 @@ async function viewPoster(id, firstLook) {
   }
 
   function look(x, y, known) {
-    if (P.busy) { P.settle(); }
+    if (P.busy || apart()) { P.settle(); stage(false); layersOn = null; }
     const hit = known ? { r: known, exact: true } : regionAt(x, y);
     mem.trail.push({ x: +x.toFixed(1), y: +y.toFixed(1), rid: hit.r.id, exact: hit.exact });
     mem.found.add(hit.r.id); revealed = false; welcomed = true; render();
@@ -293,9 +343,12 @@ async function viewPoster(id, firstLook) {
   if (P.input) on(P.input, 'input', () => {
     P.stop(); welcomed = true;
     const v = +P.input.value / 100;
+    if (v > 0) P.wide(!narrow());
+    stage(v > 0); sheet.classList.toggle('settled', v >= 0.72);            // the names appear once the sheets have room
     if (v === 0) { layersOn = null; P.light(null); } else if (layersOn) P.light('focus', layersOn);
     P.setOpen(v, 0.18); render();
   });
+  P.planes.forEach((pl, k) => on(pl, 'click', e => { if (sheet.classList.contains('apart')) { e.stopPropagation(); pick([k]); } }));   // a sheet can be chosen by touching it
   const onKey = () => { revealed = false; welcomed = true; if (!P.busy) render(); };
   document.addEventListener('pa-key', onKey);
   addEventListener('resize', size);
