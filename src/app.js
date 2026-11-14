@@ -124,7 +124,7 @@ function makePlate(p, { ticks = true, pull = false, loupe = false } = {}) {
 }
 
 /* ---------- a closer look: the poster on its own, as large as our picture of it allows ---------- */
-function closer(p, grey = false) {
+function closer(p, grey = false, spot = null) {     // spot: the detail being read, to go straight to it
   const img = el('img', { src: url(`img/poster/${p.id}.webp`), alt: p.alt, draggable: 'false' });
   const view = el('div', { class: 'cview' }, img);
   const zin = el('input', { type: 'range', min: '0', max: '100', value: '0', 'aria-label': 'How close to look' });
@@ -196,7 +196,12 @@ function closer(p, grey = false) {
   document.body.append(dlg); dlg.showModal(); fit(); addEventListener('resize', fit);
   if (p.full) {                                                     // the page's own picture shows at once; the largest one takes its place when it has arrived
     const big = new Image(); big.src = url('img/full/' + p.full);
-    big.decode().then(() => { if (!dlg.isConnected) return; tall = big.naturalHeight; img.src = big.src; fit(); }).catch(() => {});
+    big.decode().then(() => {
+      if (!dlg.isConnected) return; tall = big.naturalHeight; img.src = big.src; fit();
+      if (!spot || !can()) return;                                  // then move in on the detail, leaving some of its surroundings in view
+      const [x, y, w, h] = spot.b, nz = Math.max(1, Math.min(zmax, 0.62 * Math.min(view.clientWidth / (w / 100 * fw), view.clientHeight / (h / 100 * fh))));
+      setTimeout(() => set(nz, -((x + w / 2) / 100 - 0.5) * fw * nz, -((y + h / 2) / 100 - 0.5) * fh * nz, true), 350);
+    }).catch(() => {});
   }
   return dlg;
 }
@@ -530,7 +535,10 @@ async function viewPoster(id, firstLook) {
     if (v === 0) { layersOn = null; P.light(null); unturn(); } else if (layersOn) P.light('focus', layersOn);
     P.setOpen(v, 0.18); render();
   });
-  if (P.glass) on(P.glass, 'click', () => closer(p));
+  if (P.glass) on(P.glass, 'click', () => {             // the magnifier goes to the detail being read, when there is one in view
+    const l = last(), r = tour !== null ? along()[tour] : l ? region(l.rid) : null;
+    closer(p, false, r && !(S.held && !revealed) ? r : null);
+  });
   /* turning the layers by hand: drag across them once the poster is apart */
   on(sheet, 'pointerdown', e => {
     if (!apart() || P.busy || e.button > 0 || !e.isPrimary || e.target.closest('.panel, .pull, a, button, input')) return;
