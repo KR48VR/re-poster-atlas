@@ -23,13 +23,13 @@
   --display: "Bodoni Moda", Georgia, "Times New Roman", serif;    /* the big lines */
 }
 .tag, .ask, .name, .bigq, .ask2, .about strong, .question, .coll h1, .trow h2, .prose h1, .prose h2, .plain h1, .mark { font-family: var(--display); }
-.sub-mark, .ask2 .hint, .question small { font-family: var(--face); font-style: normal; font-variation-settings: normal; }
+.ask2 .hint, .question small { font-family: var(--face); font-style: normal; font-variation-settings: normal; }
 /* The fat face is used in its sturdier cuts so that its thin strokes survive a projector. */
 .tag, .ask, .name, .bigq, .ask2, .question, .coll h1, .prose h1, .prose h2, .plain h1, .trow h2 { font-weight: 800; letter-spacing: -0.012em; font-optical-sizing: none; font-variation-settings: "opsz" 8; }
 .tag, .ask { font-variation-settings: "opsz" 22; }
 .ask2, .bigq, .question { font-style: italic; font-weight: 700; }
 .about strong, .mark { font-weight: 700; font-optical-sizing: none; font-variation-settings: "opsz" 8; }
-.mark { font-size: 19px; }
+.mark { font-size: 25px; line-height: 1.2; }   /* the name leads; the line beside it follows in small italics, like the thread links */
 * { box-sizing: border-box; }
 html, body { height: 100%; margin: 0; }
 body { background: var(--ground); color: var(--ink); font-family: var(--face); font-size: 18px; line-height: 1.5; transition: background-color .6s ease, color .6s ease; -webkit-text-size-adjust: 100%; }
@@ -49,8 +49,8 @@ body[data-view="collection"] #app, body[data-view="page"] #app, body[data-view="
 
 /* ---- the bar across the top ---- */
 .bar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 0 28px; font-size: 16px; min-height: 48px; }
-.mark { font-weight: 700; text-decoration: none; padding: 10px 0; }
-.sub-mark { font-weight: 400; margin-left: 12px; }
+.mark { font-weight: 800; text-decoration: none; padding: 8px 0; }
+.sub-mark { font-style: italic; font-weight: 500; font-size: 17px; letter-spacing: .01em; font-variation-settings: "opsz" 10; margin-left: 14px; }
 .mid { display: inline-flex; align-items: center; gap: 6px; min-width: 0; }
 .mid .step { display: inline-grid; place-items: center; width: 40px; height: 44px; text-decoration: none; font-size: 22px; line-height: 1; }
 .bar-nav { display: flex; gap: 22px; align-items: baseline; }
@@ -605,7 +605,8 @@ main.full { min-width: 0; }
   .ask2 { text-align: left; }
   .bar-nav { flex-wrap: wrap; gap: 0 16px; }
   .bar-nav a { white-space: nowrap; padding: 6px 0; }
-  .sub-mark { display: block; margin-left: 0; font-size: 14px; }
+  .mark { font-size: 23px; }
+  .sub-mark { display: block; margin-left: 0; font-size: 15px; }
 }
 @media (prefers-reduced-motion: reduce) {
   body, .stage, .col { transition: none; }
