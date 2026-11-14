@@ -1,0 +1,551 @@
+{
+ "poster": {
+  "id": "book-for-the-voice",
+  "title": "For the Voice",
+  "year": "1923",
+  "yearNumber": 1923,
+  "coverYear": "1923",
+  "bookFirstPublication": "1923",
+  "bookAuthor": "Vladimir Mayakovsky",
+  "bookPublisher": "Gosizdat, Moscow–Berlin",
+  "bookOrigin": "Russian-language poems by Vladimir Mayakovsky; the displayed book was published in Berlin by Gosizdat, Moscow–Berlin.",
+  "creator": "El Lissitzky",
+  "country": "Germany",
+  "countries": [
+   "Germany"
+  ],
+  "primaryOrigin": "Germany",
+  "region": "Europe",
+  "category": "Book cover",
+  "image": "images/full/book-for-the-voice.jpg",
+  "ratio": 0.7372222222222222,
+  "alt": "An orange cover with a huge black M, small Cyrillic lettering across it, a red vertical title strip, a dark outlined ring and three diagonal bars.",
+  "blurb": "A letter, a ring and a vertical title make reading feel spatial.",
+  "source": "https://spencerart.ku.edu/art/collections-online/object/25629",
+  "credit": "Spencer Museum identifies Vladimir Mayakovsky as author and El Lissitzky as artist. The museum reproduces the actual orange cover.",
+  "reproduction": "The reproduced object is 1327 × 1800 pixels. Physical wear, visible image texture and edges are retained; small uncertain lettering is not reconstructed.",
+  "anchor": [
+   0.66,
+   0.66
+  ],
+  "accent": "#b35727",
+  "edition": "The 1923 Berlin publication designed by El Lissitzky, reproduced from Spencer Museum object 2003.0123. Russian literary and avant-garde context; Berlin publishing context.",
+  "imageSource": "https://spencerart.ku.edu/art/collections-online/object/25629",
+  "imageCredit": "Spencer Museum identifies Vladimir Mayakovsky as author and El Lissitzky as artist. The museum reproduces the actual orange cover.",
+  "posterYear": "1923",
+  "posterTerritory": "Germany",
+  "posterDateStatus": "The displayed edition or explicitly qualified catalogue date. The original work date is recorded separately.",
+  "originNote": "Country and region describe the displayed edition’s publishing context, not the nationality of the cover designer.",
+  "originSources": [
+   {
+    "title": "Displayed object record",
+    "url": "https://spencerart.ku.edu/art/collections-online/object/25629"
+   }
+  ],
+  "notes": [
+   {
+    "title": "The displayed edition",
+    "body": "The 1923 Berlin publication designed by El Lissitzky, reproduced from Spencer Museum object 2003.0123. Russian literary and avant-garde context; Berlin publishing context."
+   },
+   {
+    "title": "Writing and image-making",
+    "body": "Spencer Museum identifies Vladimir Mayakovsky as author and El Lissitzky as artist. The museum reproduces the actual orange cover."
+   },
+   {
+    "title": "A visible design relationship",
+    "body": "A letter, a ring and a vertical title make reading feel spatial."
+   }
+  ],
+  "downloadURL": "https://sma-search-api.ku.edu/271eaba00a5896ad7d382f6b3cfa5eeedb2599d8ed4071cc8fc9bad7b36fd308/2003.0123.jpg",
+  "creditSources": [
+   {
+    "title": "Source for the displayed object and recorded credits",
+    "url": "https://spencerart.ku.edu/art/collections-online/object/25629"
+   }
+  ],
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-for-the-voice.webp"
+ },
+ "studyData": {
+  "intro": "The cover makes language behave like architecture: an enormous initial, a crossing name and a vertical title share an orange surface. Follow the reading directions before deciding what the ring or bars might suggest.",
+  "initial": "initial",
+  "regions": [
+   {
+    "id": "initial",
+    "label": "Monumental M",
+    "shortLabel": "Monumental M",
+    "kicker": "A TALL PAIR OF UPRIGHTS",
+    "summary": "A letter becomes the largest structure.",
+    "x": 20.00754,
+    "y": 30.02778,
+    "bounds": {
+     "x": 17,
+     "y": 13,
+     "w": 29,
+     "h": 38
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A tall pair of uprights",
+      "body": "Two broad black vertical strokes support a much thinner pair of diagonals. That contrast makes the letter both legible and structural: its outside is heavy, while the open middle allows the orange field to remain visible.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "An author’s initial",
+      "body": "Spencer Museum identifies the book as Mayakovsky’s For the Voice, designed by El Lissitzky in 1923. Reading the large M with the smaller surname connects a familiar letterform to a specific author, rather than to an unnamed abstract symbol.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cover"
+       }
+      ]
+     }
+    ],
+    "question": "Where does the M stop feeling like a letter and start feeling like a constructed object?",
+    "related": [
+     "name",
+     "crossing"
+    ],
+    "layerIndex": 1,
+    "number": 1
+   },
+   {
+    "id": "diagonals",
+    "label": "Thin inner diagonals",
+    "shortLabel": "Thin inner diagonals",
+    "kicker": "A LIGHT CENTRE",
+    "summary": "Thin lines change the weight of the initial.",
+    "x": 28.44763,
+    "y": 20.75,
+    "bounds": {
+     "x": 23,
+     "y": 14,
+     "w": 15,
+     "h": 13
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A light centre",
+      "body": "The diagonal strokes are far thinner than the upright stems. They meet at a low point inside the top of the M, producing a small angular descent rather than filling the letter with a broad black wedge.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Weight without a solid block",
+      "body": "The open centre makes the initial feel large without making it uniformly dark. Compare the narrow diagonals with the ring’s continuous outline: both give shape to orange space, but their directions and proportions are different.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What would happen to the cover’s balance if the diagonals were as thick as the uprights?",
+    "related": [
+     "initial",
+     "ring"
+    ],
+    "layerIndex": 1,
+    "number": 2
+   },
+   {
+    "id": "name",
+    "label": "Horizontal surname",
+    "shortLabel": "Horizontal surname",
+    "kicker": "A NAME IN CYRILLIC",
+    "summary": "Small letters extend the large initial.",
+    "x": 58.51545,
+    "y": 46.02778,
+    "bounds": {
+     "x": 24,
+     "y": 42,
+     "w": 58,
+     "h": 9
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A name in Cyrillic",
+      "body": "The complete cover reads МАЯКОВСКИЙ. The large M and smaller continuation work together, and the Я at the crossing also participates in ДЛЯ, the opening word of the vertical title. A shared letter therefore connects two reading directions.",
+      "evidence": "observation",
+      "originalText": "МАЯКОВСКИЙ",
+      "lang": "ru"
+     },
+     {
+      "kind": "design",
+      "heading": "A line across the page",
+      "body": "The compact letters run horizontally away from the large initial. They are neither centred beneath it nor enclosed in a separate label; their baseline cuts across the lower area of the M and draws attention toward the right.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Can you read the name in one movement, or do you first see the large M and then the smaller letters?",
+    "related": [
+     "initial",
+     "crossing"
+    ],
+    "layerIndex": 2,
+    "number": 3
+   },
+   {
+    "id": "title",
+    "label": "Vertical title",
+    "shortLabel": "Vertical title",
+    "kicker": "FOR THE VOICE",
+    "summary": "The title follows a different direction.",
+    "x": 34.02411,
+    "y": 66.02778,
+    "bounds": {
+     "x": 30,
+     "y": 29,
+     "w": 10,
+     "h": 55
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "For the voice",
+      "body": "ДЛЯ ГОЛОСА is the title rendered in English as For the Voice. Its words occupy a narrow vertical red field; the cover therefore asks the reader to connect lettering arranged in more than one direction.",
+      "evidence": "observation",
+      "originalText": "ДЛЯ ГОЛОСА",
+      "lang": "ru"
+     },
+     {
+      "kind": "business",
+      "heading": "A book shaped around language",
+      "body": "MoMA records Mayakovsky as author and the Moscow–Berlin State Publishing House as publisher of the 1923 book. The cover’s strong verbal identity serves that publication; an exact intended meaning for every geometric mark is not established by the catalogue.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "moma"
+       }
+      ]
+     }
+    ],
+    "question": "Which order do you choose: large initial, horizontal surname or vertical title?",
+    "related": [
+     "name",
+     "strip"
+    ],
+    "layerIndex": 3,
+    "number": 4
+   },
+   {
+    "id": "strip",
+    "label": "Red title field",
+    "shortLabel": "Red title field",
+    "kicker": "A FIELD WITHIN A FIELD",
+    "summary": "A quiet colour shift makes a narrow lane.",
+    "x": 33.04446,
+    "y": 79.02778,
+    "bounds": {
+     "x": 30,
+     "y": 51,
+     "w": 10,
+     "h": 33
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A field within a field",
+      "body": "The red-orange strip is close in colour to the wider orange surface. It is visible without becoming a separate loud block, and its narrow width helps hold the vertically arranged letters together as a unit.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Direction through enclosure",
+      "body": "The title receives a coloured boundary while the surname is left open on the paper. That difference can make the vertical words feel like a route through the cover, even before the language is understood.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "If the red strip disappeared but its letters remained, would the reading direction still be as clear?",
+    "related": [
+     "title",
+     "orange"
+    ],
+    "layerIndex": 3,
+    "number": 5
+   },
+   {
+    "id": "ring",
+    "label": "Open ring",
+    "shortLabel": "Open ring",
+    "kicker": "A CONTOUR WITH AN INTERIOR",
+    "summary": "A rounded form balances the initial.",
+    "x": 76.07385,
+    "y": 66.02778,
+    "bounds": {
+     "x": 50,
+     "y": 55,
+     "w": 32,
+     "h": 24
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A contour with an interior",
+      "body": "A dark circular outline encloses warm orange. Its width gives it visible weight, but the interior remains largely open. Unlike a solid disc, the ring lets the ground participate in its appearance.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A counterweight at the right",
+      "body": "The ring occupies the lower right while the large M dominates the upper left. Their different shapes and positions make a diagonal relationship across the cover; this is a compositional reading, not a claim that the ring represents a named object.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does the ring feel equally heavy as the M even though it occupies less dark area?",
+    "related": [
+     "initial",
+     "bars"
+    ],
+    "layerIndex": 4,
+    "number": 6
+   },
+   {
+    "id": "bars",
+    "label": "Three sloping bars",
+    "shortLabel": "Three sloping bars",
+    "kicker": "THREE PARALLEL MARKS",
+    "summary": "A small repeated gesture adds another angle.",
+    "x": 22.0422,
+    "y": 65.02778,
+    "bounds": {
+     "x": 17,
+     "y": 58,
+     "w": 11,
+     "h": 15
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Three parallel marks",
+      "body": "The short dark bars lean in the same direction, with orange intervals between them. Their repetition forms a compact group rather than a single thick stroke, and their oblique direction differs from the main vertical and horizontal lettering.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A small directional interruption",
+      "body": "Placed below the surname, the bars introduce a local rhythm between the heavy initial and open ring. Their small scale invites a closer look without competing with the title. No musical or phonetic meaning is assigned without evidence.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does their effect change if you imagine one bar instead of three?",
+    "related": [
+     "ring",
+     "title"
+    ],
+    "layerIndex": 5,
+    "number": 7
+   },
+   {
+    "id": "orange",
+    "label": "Orange surface",
+    "shortLabel": "Orange surface",
+    "kicker": "MORE THAN UNUSED SPACE",
+    "summary": "A warm ground remains visibly present.",
+    "x": 82.02713,
+    "y": 31.02778,
+    "bounds": {
+     "x": 46,
+     "y": 6,
+     "w": 48,
+     "h": 34
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "More than unused space",
+      "body": "A broad orange area survives at the upper right and between the printed elements. Subtle differences in tone and surface texture belong to the photographed object, so the ground does not behave like a perfectly flat digital swatch.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "This museum object",
+      "body": "Spencer’s record identifies the 1923 object and credits Lissitzky and Mayakovsky. The orange reproduction is the evidence for this reading; another copy or a modern facsimile could show different wear or colour without changing the basic arrangement.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cover"
+       }
+      ]
+     }
+    ],
+    "question": "Which printed element becomes more noticeable when you attend to the space around it?",
+    "related": [
+     "margin",
+     "ring"
+    ],
+    "layerIndex": 0,
+    "number": 8
+   },
+   {
+    "id": "margin",
+    "label": "Physical cover edge",
+    "shortLabel": "Physical cover edge",
+    "kicker": "A ROUNDED OUTER BOUNDARY",
+    "summary": "The book remains a physical object.",
+    "x": 94.00904,
+    "y": 85.02778,
+    "bounds": {
+     "x": 88,
+     "y": 9,
+     "w": 10,
+     "h": 86
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A rounded outer boundary",
+      "body": "The orange cover ends at softened corners and a slightly uneven edge, with a pale photographed surround. These features distinguish the reproduced book from the flat geometric marks printed inside its perimeter.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Two kinds of edge",
+      "body": "The clean inner geometry and the worn outer edge invite different kinds of attention. One belongs to the designed arrangement; the other records the condition of this copy. Neither should be mistaken for an additional symbol in the composition.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which edges look printed, and which appear to belong to the object or photograph?",
+    "related": [
+     "orange",
+     "strip"
+    ],
+    "layerIndex": 0,
+    "number": 9
+   },
+   {
+    "id": "crossing",
+    "label": "The reading junction",
+    "shortLabel": "The reading junction",
+    "kicker": "THREE SCALES MEET",
+    "summary": "Horizontal and vertical words share a tight centre.",
+    "x": 39.0731,
+    "y": 46.02778,
+    "bounds": {
+     "x": 29,
+     "y": 40,
+     "w": 20,
+     "h": 13
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Three scales meet",
+      "body": "Near the foot of the large M, Я participates in both the horizontal surname and vertical ДЛЯ. The shared glyph, large stem and narrow coloured strip make this junction denser than the open upper-right field; the words are interlocked rather than simply adjacent.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A deliberate moment of slowing",
+      "body": "That local density can interrupt a quick scan. Instead of a conventional centred stack of author and title, the reader must resolve directions and scale. The effect comes from visible relationships, without requiring a single compulsory reading order.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "At the crossing, what helps you separate the title from the author’s name?",
+    "related": [
+     "name",
+     "title"
+    ],
+    "layerIndex": 2,
+    "number": 10
+   }
+  ],
+  "sources": [
+   {
+    "id": "cover",
+    "title": "The displayed cover",
+    "url": "https://spencerart.ku.edu/art/collections-online/object/25629",
+    "kind": "Visual and edition source",
+    "summary": "The 1923 Berlin publication designed by El Lissitzky, reproduced from Spencer Museum object 2003.0123. Russian literary and avant-garde context; Berlin publishing context."
+   },
+   {
+    "id": "moma",
+    "title": "MoMA: For the Voice",
+    "url": "https://www.moma.org/collection/works/14473",
+    "kind": "Museum object record",
+    "summary": "Identifies Lissitzky, Mayakovsky, the 1923 book and its Moscow–Berlin publisher; it does not establish an exact symbolism for every cover mark."
+   }
+  ],
+  "tour": [
+   "initial",
+   "name",
+   "title",
+   "ring",
+   "bars",
+   "orange"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected cover wording",
+    "rows": [
+     {
+      "text": "ДЛЯ ГОЛОСА",
+      "meaning": "For the Voice — title",
+      "lang": "ru"
+     },
+     {
+      "text": "МАЯКОВСКИЙ",
+      "meaning": "Mayakovsky — surname",
+      "lang": "ru"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected clearly legible cover wording. Line breaks and casing may be regularized. Small uncertain print is omitted rather than guessed.",
+  "palette": [
+   {
+    "name": "Orange field",
+    "hex": "#F07735",
+    "role": "The warm ground around the printed marks.",
+    "region": "orange"
+   },
+   {
+    "name": "Dark initial",
+    "hex": "#3A2C24",
+    "role": "The large upright letter stem.",
+    "region": "initial"
+   },
+   {
+    "name": "Warm inner band",
+    "hex": "#E75F34",
+    "role": "The warm band inside the dark circular contour.",
+    "region": "ring"
+   }
+  ],
+  "paletteNote": "Samples come from individual pixels in this reproduction. They describe its visible colour, not original printing inks or an exact historical colour standard."
+ }
+}

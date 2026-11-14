@@ -1,0 +1,622 @@
+{
+ "poster": {
+  "id": "book-dekada-70",
+  "title": "Dekada ’70",
+  "year": "2019",
+  "yearNumber": 2019,
+  "coverYear": "2019",
+  "posterYear": "2019",
+  "posterDateStatus": "2019 reprint; title refers to the 1970s, not this edition’s publication year.",
+  "bookFirstPublication": "1983",
+  "bookAuthor": "Lualhati Bautista",
+  "bookPublisher": "Anvil Publishing",
+  "bookOrigin": "Filipino-language novel by Lualhati Bautista",
+  "category": "Book cover",
+  "country": "Philippines",
+  "countries": [
+   "Philippines"
+  ],
+  "primaryOrigin": "Philippines",
+  "region": "Southeast Asia",
+  "creator": "Cover designer not independently established",
+  "image": "images/full/book-dekada-70.jpg",
+  "ratio": 0.7364568081991215,
+  "alt": "Tall cream Dekada ’70 lettering above eight illustrated figures moving together through a pale cloud, with author name near the base.",
+  "blurb": "A decade becomes a huge heading above a compact group of moving figures.",
+  "notes": [
+   {
+    "title": "A date at picture scale",
+    "body": "The huge ’70 dominates the upper half. It is part of the title and the period being named; it is not an edition date."
+   },
+   {
+    "title": "A group with individual rhythms",
+    "body": "Eight figures appear side by side, with bent arms and feet at differing heights. Their poses suggest movement without proving that every figure is running."
+   },
+   {
+    "title": "Three dates to keep apart",
+    "body": "The novel dates to 1983, this reprint to 2019, and the title names the 1970s. These dates answer different questions."
+   }
+  ],
+  "source": "https://shop.ayalamuseum.org/products/dekada-70",
+  "credit": "Ayala Museum Shop supplies Anvil’s 2019 reprint, ISBN 9789712733987. The checked record does not identify the cover designer.",
+  "edition": "2019 reprint; title refers to the 1970s, not this edition’s publication year.",
+  "originNote": "Country describes this edition’s publishing/design context, not the author’s nationality. Philippine Filipino-language edition.",
+  "originSources": [
+   {
+    "title": "Ayala Museum Shop: Anvil 2019 reprint",
+    "url": "https://shop.ayalamuseum.org/products/dekada-70"
+   },
+   {
+    "title": "Cultural Center of the Philippines: novel and adaptation dates",
+    "url": "https://culturalcenter.gov.ph/post-release/ccp-arthouse-cinema-revisits-the-past-with-free-screening-of-dekada-70/"
+   }
+  ],
+  "creditSources": [
+   {
+    "title": "Ayala Museum Shop: Anvil 2019 reprint",
+    "url": "https://shop.ayalamuseum.org/products/dekada-70"
+   },
+   {
+    "title": "Cultural Center of the Philippines: novel and adaptation dates",
+    "url": "https://culturalcenter.gov.ph/post-release/ccp-arthouse-cinema-revisits-the-past-with-free-screening-of-dekada-70/"
+   }
+  ],
+  "imageSource": "https://shop.ayalamuseum.org/products/dekada-70",
+  "imageCredit": "Ayala Museum Shop supplies Anvil’s 2019 reprint, ISBN 9789712733987. The checked record does not identify the cover designer.",
+  "accent": "#62272D",
+  "anchor": [
+   0.49,
+   0.64
+  ],
+  "reproduction": "Source reproduction retained without generative reconstruction. Analytical layers partition visible source pixels; printing colours and hidden artwork cannot be recovered.",
+  "downloadURL": "https://shop.ayalamuseum.org/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaHdFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ec105a191f88a320bf638bc0d3eced9ff4b9dfca/Deakada%2070.jpg",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-dekada-70.webp"
+ },
+ "studyData": {
+  "intro": "A decade becomes a huge heading above a compact group of moving figures. Follow the details to compare what is visible, what can be interpreted and what the edition record establishes.",
+  "initial": "date",
+  "regions": [
+   {
+    "id": "date",
+    "number": 1,
+    "label": "Two huge numerals name a decade",
+    "shortLabel": "Large ’70",
+    "kicker": "DESIGN",
+    "summary": "The numerals ’70 occupy much of the upper-middle cover in pale thin strokes.",
+    "layerIndex": 1,
+    "x": 55.96,
+    "y": 31.96,
+    "bounds": {
+     "x": 24,
+     "y": 20,
+     "w": 55,
+     "h": 24
+    },
+    "question": "What changes if you mistake ’70 for the date this copy was published?",
+    "related": [
+     "group",
+     "feet"
+    ],
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Large ’70 in the image",
+      "body": "The numerals ’70 occupy much of the upper-middle cover in pale thin strokes. Their large open spaces allow the taupe field to remain visible. The apostrophe and sweeping 7 give this enormous title element a more fluid rhythm than a compact date stamp.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A decade towers above individual bodies",
+      "body": "The number refers to the decade named by the book, not the printing date. Its enormous size gives historical time visual weight. Compare the numerals with the small human figures below: the cover places a broad period above individual bodies.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "context",
+      "heading": "A novel and a later adaptation",
+      "body": "The Cultural Center of the Philippines dates Bautista’s novel to 1983 and the film adaptation to 2002. These are separate historical events from the 1970s named in the title and the 2019 reprint shown here. The large numerals should therefore be read as subject matter, not production metadata.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "dekadawork"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "word",
+    "number": 2,
+    "label": "A long word forms the upper line",
+    "shortLabel": "Dekada lettering",
+    "kicker": "LANGUAGE",
+    "summary": "Dekada stretches almost the full width near the top.",
+    "layerIndex": 1,
+    "x": 47,
+    "y": 13,
+    "bounds": {
+     "x": 4,
+     "y": 6,
+     "w": 91,
+     "h": 15
+    },
+    "question": "Can a thin line be visually dominant, and what does this title show you about that?",
+    "related": [
+     "date",
+     "group"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Dekada lettering in the image",
+      "body": "Dekada stretches almost the full width near the top. Its pale strokes are slender, with rounded endings and generous internal spaces. The lettering occupies a large area while leaving much of the background visible through and around its forms.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Thin strokes claim a large space",
+      "body": "Dekada means decade. Its long horizontal line and the tall numerals beneath work together as a title rather than two unrelated labels. Compare the lightness of the thin strokes with the amount of space the title claims on the page.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "group",
+    "number": 3,
+    "label": "Eight figures share a direction",
+    "shortLabel": "Eight figures",
+    "kicker": "DESIGN",
+    "summary": "Eight illustrated figures stand or move side by side below the title.",
+    "layerIndex": 2,
+    "x": 47.89264,
+    "y": 63.99707,
+    "bounds": {
+     "x": 16,
+     "y": 51,
+     "w": 72,
+     "h": 27
+    },
+    "question": "What makes these eight figures feel connected without making them identical?",
+    "related": [
+     "date",
+     "feet"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Eight figures in the image",
+      "body": "Eight illustrated figures stand or move side by side below the title. Their heads, shoulders and bent arms make an uneven line. Differing clothes and body positions keep them distinct even where neighbouring outlines touch or overlap.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A group moves without becoming uniform",
+      "body": "Their repeated forward-facing orientation suggests a group, while their unequal poses resist perfect uniformity. Some feet are raised and some legs look more upright, so movement is clearer than a claim that everyone is running in exactly the same way.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "feet",
+    "number": 4,
+    "label": "Different foot heights create rhythm",
+    "shortLabel": "Feet and steps",
+    "kicker": "DESIGN",
+    "summary": "The lower silhouettes alternate between long straight legs, bent rear legs and feet at different heights.",
+    "layerIndex": 2,
+    "x": 47.5,
+    "y": 72.99,
+    "bounds": {
+     "x": 18,
+     "y": 66,
+     "w": 65,
+     "h": 12
+    },
+    "question": "Which pair of legs gives the clearest evidence of a step or stride?",
+    "related": [
+     "date",
+     "group"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Feet and steps in the image",
+      "body": "The lower silhouettes alternate between long straight legs, bent rear legs and feet at different heights. Shoes and stockings vary in tone. The ground remains visible between the bodies, and those irregular gaps help distinguish one pose from the next.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Read the movement through the shoes",
+      "body": "The changes in height create a rhythm that can suggest movement across a still image. Looking only at the shoes produces a different reading from looking only at the faces. Compare both before naming a specific action for the entire group.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "clothing",
+    "number": 5,
+    "label": "Colour distinguishes neighbours",
+    "shortLabel": "Clothing colours",
+    "kicker": "DESIGN",
+    "summary": "Blue, red, grey and dark garments alternate across the group.",
+    "layerIndex": 2,
+    "x": 31,
+    "y": 61,
+    "bounds": {
+     "x": 17,
+     "y": 52,
+     "w": 70,
+     "h": 17
+    },
+    "question": "Which two neighbouring figures would be hardest to separate if their clothes had the same colour?",
+    "related": [
+     "date",
+     "group"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Clothing colours in the image",
+      "body": "Blue, red, grey and dark garments alternate across the group. Some figures wear jackets, others short sleeves, shorts or long trousers. These colour blocks are small compared with the title but contain much of the cover’s concentrated variation.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Clothes distinguish bodies, not fixed identities",
+      "body": "Clothes help the eye separate adjacent bodies. They do not, on their own, establish occupation, class or a precise identity for each person. Describe the visible differences first, then distinguish any story-based interpretation from what the picture actually supplies.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "clouds",
+    "number": 6,
+    "label": "A pale field opens behind the group",
+    "shortLabel": "Pale background",
+    "kicker": "DESIGN",
+    "summary": "Pale cloud-like sweeps spread outward behind the figures.",
+    "layerIndex": 0,
+    "x": 13,
+    "y": 50,
+    "bounds": {
+     "x": 3,
+     "y": 39,
+     "w": 93,
+     "h": 28
+    },
+    "question": "Where does the pale background most clearly reveal a person’s outline?",
+    "related": [
+     "date",
+     "group"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Pale background in the image",
+      "body": "Pale cloud-like sweeps spread outward behind the figures. Their soft, mottled edges differ from the darker outlined bodies. The pale shapes rise at the sides while leaving a quieter central area beneath the huge numerals.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A pale field makes the figures stand out",
+      "body": "The background can suggest atmosphere or movement without becoming a precisely identified weather event. Its strongest practical effect is contrast: the darker group becomes easier to recognise. Compare the figures against the pale area and against the darker ground below.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "phrase",
+    "number": 7,
+    "label": "A small line describes the edition",
+    "shortLabel": "Edition wording",
+    "kicker": "LANGUAGE",
+    "summary": "Ang Orihinal at Kumpletong Edisyon appears between the large title and the figures.",
+    "layerIndex": 5,
+    "x": 50.04,
+    "y": 47.86,
+    "bounds": {
+     "x": 26,
+     "y": 45,
+     "w": 49,
+     "h": 5
+    },
+    "question": "Why does this phrase not automatically make the shown copy a first edition?",
+    "related": [
+     "date",
+     "group"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Edition wording in the image",
+      "body": "Ang Orihinal at Kumpletong Edisyon appears between the large title and the figures. The phrase means the original and complete edition. Its modest size and straight baseline distinguish it from the more expressive title lettering above.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An original text can appear in a later reprint",
+      "body": "The line is a statement printed on this cover, not proof that this copy is the first printing. A later reprint can present an original and complete text. Separating wording about the text from publication metadata prevents two different senses of original from being confused.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "author",
+    "number": 8,
+    "label": "The writer’s name forms a lower anchor",
+    "shortLabel": "Author name",
+    "kicker": "LANGUAGE",
+    "summary": "LUALHATI BAUTISTA appears in two large pale lines near the bottom.",
+    "layerIndex": 3,
+    "x": 51.78926,
+    "y": 88.50659,
+    "bounds": {
+     "x": 27,
+     "y": 81,
+     "w": 47,
+     "h": 13
+    },
+    "question": "How does the author block differ in weight from the title despite sharing a pale colour?",
+    "related": [
+     "date",
+     "group"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Author name in the image",
+      "body": "LUALHATI BAUTISTA appears in two large pale lines near the bottom. Broad capital letters contrast with the thin, flowing title above. A sizeable area of ground separates the name from the figures, giving it its own clear block.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A steady name beneath an uneven group",
+      "body": "The name stabilises the lower cover after the uneven rhythm of the group. Its pale colour links it back to the title while its heavier forms provide a different emphasis. This hierarchy gives authorship a substantial presence without adding another illustration.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "imprint",
+    "number": 9,
+    "label": "A burgundy corner identifies a series",
+    "shortLabel": "Anvil Classics",
+    "kicker": "DESIGN",
+    "summary": "A burgundy rectangle occupies the upper-right corner, containing a pale emblem and ANVIL CLASSICS wording.",
+    "layerIndex": 4,
+    "x": 94,
+    "y": 4,
+    "bounds": {
+     "x": 88,
+     "y": 0,
+     "w": 12,
+     "h": 9
+    },
+    "question": "What does the corner tell a browsing reader that the main title does not?",
+    "related": [
+     "date",
+     "group"
+    ],
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Anvil Classics in the image",
+      "body": "A burgundy rectangle occupies the upper-right corner, containing a pale emblem and ANVIL CLASSICS wording. Its straight edges and dense colour distinguish it from the thin title strokes. The device is partly aligned with the outer border rather than the central group.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Separate the 1970s, the 1983 novel and the 2019 reprint",
+      "body": "Ayala Museum Shop identifies the shown book as Anvil’s 2019 reprint, ISBN 9789712733987. The Cultural Center of the Philippines dates the novel to 1983. Neither record makes the large ’70 an edition date or identifies this cover’s designer.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "dekada"
+       },
+       {
+        "id": "dekadawork"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "border",
+    "number": 10,
+    "label": "A pale edge holds the composition",
+    "shortLabel": "Pale border",
+    "kicker": "DESIGN",
+    "summary": "A light border surrounds the taupe central panel.",
+    "layerIndex": 0,
+    "x": 2,
+    "y": 70,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 5,
+     "h": 100
+    },
+    "question": "Which edge details belong to the reproduced object rather than clearly to its designed layout?",
+    "related": [
+     "date",
+     "group"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Pale border in the image",
+      "body": "A light border surrounds the taupe central panel. Its width is not perfectly even in this photographed copy, and a narrow crease-like line is visible near the left side. The edge separates the printed composition from the image boundary.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A printed enclosure and a physical copy",
+      "body": "The border gives the large title and small group a shared enclosure. Visible surface marks also remind us that this is a reproduction of a copy, not a pristine design file. Avoid treating every crease or tonal variation as an intentional graphic decision.",
+      "evidence": "interpretation"
+     }
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "visual",
+    "title": "Exact reproduced cover: Dekada ’70",
+    "url": "https://shop.ayalamuseum.org/products/dekada-70",
+    "kind": "Visual source",
+    "summary": "Ayala Museum Shop supplies Anvil’s 2019 reprint, ISBN 9789712733987. The checked record does not identify the cover designer."
+   },
+   {
+    "id": "dekada",
+    "title": "Ayala Museum Shop: Anvil 2019 reprint",
+    "url": "https://shop.ayalamuseum.org/products/dekada-70",
+    "kind": "Museum shop edition record",
+    "summary": "Ayala Museum Shop identifies the shown book as Anvil’s 2019 reprint, ISBN 9789712733987. The Cultural Center of the Philippines dates the novel to 1983. Neither record makes the large ’70 an edition date or identifies this cover’s designer."
+   },
+   {
+    "id": "dekadawork",
+    "title": "Cultural Center of the Philippines: novel and adaptation dates",
+    "url": "https://culturalcenter.gov.ph/post-release/ccp-arthouse-cinema-revisits-the-past-with-free-screening-of-dekada-70/",
+    "kind": "Cultural institution record",
+    "summary": "Cultural Center of the Philippines: novel and adaptation dates. Supports the specific history distinguished in the edition note."
+   }
+  ],
+  "tour": [
+   "date",
+   "group",
+   "feet",
+   "clothing",
+   "phrase",
+   "imprint"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected legible cover wording",
+    "rows": [
+     {
+      "text": "Dekada ’70",
+      "meaning": "The decade of the 1970s",
+      "lang": "fil"
+     },
+     {
+      "text": "Ang Orihinal at Kumpletong Edisyon",
+      "meaning": "The original and complete edition",
+      "lang": "fil"
+     },
+     {
+      "text": "LUALHATI BAUTISTA",
+      "meaning": "Author’s name",
+      "lang": "fil"
+     },
+     {
+      "text": "ANVIL CLASSICS",
+      "meaning": "Publisher’s series mark",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected wording only. Line breaks and typographic case may be regularized. Fine print and endorsement prose are omitted where not needed for this reading. English meanings are editorial translations, not a claim of native-language reader testing.",
+  "palette": [
+   {
+    "name": "Letter cream",
+    "hex": "#DBD3AE",
+    "role": "A screen sample from dekada lettering. Compare this local colour with its surrounding shapes.",
+    "region": "word"
+   },
+   {
+    "name": "Taupe field",
+    "hex": "#8C7C6F",
+    "role": "A screen sample from pale background. Compare this local colour with its surrounding shapes.",
+    "region": "clouds"
+   },
+   {
+    "name": "Imprint burgundy",
+    "hex": "#62272D",
+    "role": "A screen sample from anvil classics. Compare this local colour with its surrounding shapes.",
+    "region": "imprint"
+   },
+   {
+    "name": "Shirt blue",
+    "hex": "#2C4564",
+    "role": "A screen sample from clothing colours. Compare this local colour with its surrounding shapes.",
+    "region": "clothing"
+   }
+  ],
+  "paletteNote": "Samples are exact pixels from the installed reproduction, chosen within the named feature for perceptual agreement. They describe this screen image, not original ink specifications, paper stock or universal colour meanings.",
+  "connections": [
+   {
+    "title": "A decade above individual bodies",
+    "anchors": [
+     [
+      1,
+      0.5596421471172962,
+      0.31961932650073205
+     ],
+     [
+      2,
+      0.47892644135188867,
+      0.6399707174231333
+     ]
+    ],
+    "id": "book-dekada-70-connection-0",
+    "colour": "#be3d74",
+    "label": "Decade / people",
+    "text": "Huge thin numerals name a historical period above eight much smaller figures, contrasting the scale of a decade with individual bodies."
+   },
+   {
+    "title": "Two scales of identity",
+    "anchors": [
+     [
+      2,
+      0.3099403578528827,
+      0.6101024890190336
+     ],
+     [
+      3,
+      0.5178926441351889,
+      0.8850658857979502
+     ]
+    ],
+    "id": "book-dekada-70-connection-1",
+    "colour": "#496f80",
+    "label": "Group / author",
+    "text": "Distinct clothing separates people within the small group, while the large pale author name supplies a different kind of identification below."
+   }
+  ]
+ }
+}

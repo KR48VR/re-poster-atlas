@@ -1,0 +1,655 @@
+{
+ "poster": {
+  "id": "book-frankenstein-in-baghdad",
+  "title": "Frankenstein in Baghdad",
+  "year": "2022 (catalogued)",
+  "yearNumber": 2022,
+  "coverYear": "2022 (catalogued)",
+  "bookFirstPublication": "2013",
+  "bookAuthor": "Ahmed Saadawi",
+  "bookPublisher": "Nabu",
+  "bookOrigin": "Iraqi Arabic-language novel first published in 2013; this displayed Nabu reissue uses the publisher’s Baghdad context, not an inferred printing location.",
+  "creator": "Cover designer unverified",
+  "country": "Iraq",
+  "countries": [
+   "Iraq"
+  ],
+  "primaryOrigin": "Iraq",
+  "region": "West Asia & Caucasus",
+  "category": "Book cover",
+  "image": "images/full/book-frankenstein-in-baghdad.jpg",
+  "ratio": 0.6812278630460449,
+  "alt": "A pale torn-looking field holds a red outlined arm, green English title, black Arabic author and title with red thread and a needle, above a dark city silhouette.",
+  "blurb": "An interrupted arm and a threaded title make fragmentation visible.",
+  "source": "https://daroueya.com/product/فرانكشتاين-في-بغداد/",
+  "credit": "Ahmed Saadawi is the author; this cover’s designer is not established. Nabu’s Baghdad publishing context is independently documented, but physical printing location is not inferred.",
+  "reproduction": "The reproduced object is 577 × 847 pixels. Physical wear, visible image texture and edges are retained; small uncertain lettering is not reconstructed.",
+  "anchor": [
+   0.6,
+   0.51
+  ],
+  "accent": "#aa2e31",
+  "edition": "Nabu Arabic reissue, catalogued 2022 by distributor Dar Roueya. Actual printing and design dates are unverified and other listings differ. The conflicting retail ISBN is omitted. This is not the 2013 Al-Jamal first edition.",
+  "imageSource": "https://daroueya.com/product/فرانكشتاين-في-بغداد/",
+  "imageCredit": "Ahmed Saadawi is the author; this cover’s designer is not established. Nabu’s Baghdad publishing context is independently documented, but physical printing location is not inferred.",
+  "posterYear": "2022 (catalogued)",
+  "posterTerritory": "Iraq",
+  "posterDateStatus": "The displayed edition or explicitly qualified catalogue date. The original work date is recorded separately.",
+  "originNote": "Country and region describe the displayed edition’s publishing context, not the nationality of the cover designer.",
+  "originSources": [
+   {
+    "title": "Displayed object record",
+    "url": "https://daroueya.com/product/فرانكشتاين-في-بغداد/"
+   },
+   {
+    "title": "Sharjah Book Authority: Nabu publications in Baghdad, printed page 28",
+    "url": "https://xsi.sibf.com/Content/Uploads/Downloads/1_151d3e6e1ac944a9948eabc3fab7db.pdf"
+   }
+  ],
+  "notes": [
+   {
+    "title": "The displayed edition",
+    "body": "Nabu Arabic reissue, catalogued 2022 by distributor Dar Roueya. Actual printing and design dates are unverified and other listings differ. The conflicting retail ISBN is omitted. This is not the 2013 Al-Jamal first edition."
+   },
+   {
+    "title": "Writing and image-making",
+    "body": "Ahmed Saadawi is the author; this cover’s designer is not established. Nabu’s Baghdad publishing context is independently documented, but physical printing location is not inferred."
+   },
+   {
+    "title": "A visible design relationship",
+    "body": "An interrupted arm and a threaded title make fragmentation visible."
+   }
+  ],
+  "downloadURL": "https://daroueya.com/wp-content/uploads/2025/01/%D9%81%D8%B1%D8%A7%D9%86%D9%83%D8%B4%D8%AA%D8%A7%D9%8A%D9%86-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF.jpg",
+  "creditSources": [
+   {
+    "title": "Source for the displayed object and recorded credits",
+    "url": "https://daroueya.com/product/فرانكشتاين-في-بغداد/"
+   }
+  ],
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-frankenstein-in-baghdad.webp"
+ },
+ "studyData": {
+  "intro": "An interrupted arm, a torn-looking field and a needle threaded through the title turn fragmentation into visible form. This is a Nabu reissue catalogued 2022 by a distributor; its actual printing and design date are unverified, and it is not presented as the 2013 first-edition cover.",
+  "initial": "arm",
+  "regions": [
+   {
+    "id": "arm",
+    "label": "Interrupted red arm",
+    "shortLabel": "Interrupted red arm",
+    "kicker": "AN OUTLINED FRAGMENT",
+    "summary": "An isolated limb enters from the upper left.",
+    "x": 30.06932,
+    "y": 10.09445,
+    "bounds": {
+     "x": 0,
+     "y": 2,
+     "w": 57,
+     "h": 16
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An outlined fragment",
+      "body": "A red arm and hand extend into the pale field, with open spaces between the fingers and many thin internal marks. The arm is interrupted by the edge rather than joined to a visible full body, making the fragment immediately legible.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A visual opening into fragmentation",
+      "body": "The separated limb can suggest parts of a body before the title is read. That association is strengthened by the needle and thread below, but the cover does not show a complete creature whose hidden anatomy could be reconstructed.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does an outlined hand feel different from a solid red silhouette?",
+    "related": [
+     "needle",
+     "pale"
+    ],
+    "layerIndex": 1,
+    "number": 1
+   },
+   {
+    "id": "english",
+    "label": "Small English title",
+    "shortLabel": "Small English title",
+    "kicker": "ENGLISH IN A COMPACT BLOCK",
+    "summary": "A second language offers another entrance.",
+    "x": 34.40208,
+    "y": 23.19953,
+    "bounds": {
+     "x": 11,
+     "y": 16,
+     "w": 48,
+     "h": 16
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "English in a compact block",
+      "body": "The English wording gives Ahmed Saadawi and Frankenstein in Baghdad in a small left-aligned block. Green dominates, with a red initial drawing attention to the start of the title. It is much smaller than the Arabic title below.",
+      "evidence": "observation",
+      "originalText": "Ahmed saadawi / Frankenstein in Baghdad",
+      "lang": "en"
+     },
+     {
+      "kind": "design",
+      "heading": "Two scales of naming",
+      "body": "The English block can be read quickly as a compact group, while the Arabic title occupies a much wider and heavier area. Their unequal sizes create hierarchy without requiring both languages to use the same line arrangement.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "How does the red initial help organize the otherwise green English block?",
+    "related": [
+     "arabic-author",
+     "title"
+    ],
+    "layerIndex": 2,
+    "number": 2
+   },
+   {
+    "id": "arabic-author",
+    "label": "Arabic author name",
+    "shortLabel": "Arabic author name",
+    "kicker": "AHMED SAADAWI",
+    "summary": "A dark line sits immediately above the title.",
+    "x": 55.89255,
+    "y": 35.59622,
+    "bounds": {
+     "x": 28,
+     "y": 29,
+     "w": 60,
+     "h": 13
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Ahmed Saadawi",
+      "body": "أحمد سعداوي names the author in Arabic. Its smaller scale distinguishes authorship from the broad title below. The dots and other letter marks belong to the name and should not be removed as incidental specks in a close reading.",
+      "evidence": "observation",
+      "originalText": "أحمد سعداوي",
+      "lang": "ar"
+     },
+     {
+      "kind": "design",
+      "heading": "Separation through size and position",
+      "body": "The author line is dark like the title but occupies a shallower band. Its position above the framed title keeps the two roles connected, while the surrounding pale space prevents them from becoming a single undifferentiated block.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "What would make the author and title harder to distinguish if they shared the same size?",
+    "related": [
+     "english",
+     "title"
+    ],
+    "layerIndex": 3,
+    "number": 3
+   },
+   {
+    "id": "title",
+    "label": "Large Arabic title",
+    "shortLabel": "Large Arabic title",
+    "kicker": "FRANKENSTEIN IN BAGHDAD",
+    "summary": "Heavy letters establish the central statement.",
+    "x": 52.07972,
+    "y": 52.00708,
+    "bounds": {
+     "x": 16,
+     "y": 39,
+     "w": 71,
+     "h": 22
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Frankenstein in Baghdad",
+      "body": "The Arabic title reads فرانكشتاين في بغداد. Its broad black letterforms carry much more visual weight than the smaller English block. The words name both the Frankenstein reference and Baghdad, without requiring an English translation to dominate the cover.",
+      "evidence": "observation",
+      "originalText": "فرانكشتاين في بغداد",
+      "lang": "ar"
+     },
+     {
+      "kind": "design",
+      "heading": "Weight inside a thin frame",
+      "body": "The title’s thick strokes contrast with the very fine reddish rectangular outline around it. This difference keeps the words forceful while the frame remains a light organizing device rather than a heavy competing box.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Which is more important to the title’s prominence: thick strokes, large scale or the surrounding pale area?",
+    "related": [
+     "baghdad",
+     "thread"
+    ],
+    "layerIndex": 4,
+    "number": 4
+   },
+   {
+    "id": "baghdad",
+    "label": "Baghdad on the lower line",
+    "shortLabel": "Baghdad on the lower line",
+    "kicker": "A NAMED PLACE, NOT A GUESSED SKYLINE",
+    "summary": "The place name gives the title a second step.",
+    "x": 58.14558,
+    "y": 59.09091,
+    "bounds": {
+     "x": 34,
+     "y": 54,
+     "w": 47,
+     "h": 9
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A named place, not a guessed skyline",
+      "body": "في بغداد means “in Baghdad.” The wording supplies the place explicitly, while the city silhouette beneath remains a stylized collection of shapes rather than a reliably identified set of individual buildings.",
+      "evidence": "observation",
+      "originalText": "في بغداد",
+      "lang": "ar"
+     },
+     {
+      "kind": "design",
+      "heading": "Words and image reinforce a setting",
+      "body": "The place wording and the urban silhouette can support one another: one names a city, the other gives the lower cover an urban appearance. That relationship does not make every pictured dome or tower a documented Baghdad landmark.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What can the words establish that the silhouette alone cannot?",
+    "related": [
+     "city",
+     "title"
+    ],
+    "layerIndex": 4,
+    "number": 5
+   },
+   {
+    "id": "needle",
+    "label": "Tall needle and hook",
+    "shortLabel": "Tall needle and hook",
+    "kicker": "A CONTINUOUS THIN FORM",
+    "summary": "A narrow object rises through the verbal area.",
+    "x": 70.10399,
+    "y": 43.03424,
+    "bounds": {
+     "x": 66,
+     "y": 38,
+     "w": 8,
+     "h": 20
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A continuous thin form",
+      "body": "A tall black needle-like form extends upward from the title, with a curved hook or eye at its top. Its slender vertical differs from the broad Arabic strokes, making it visible even though both use dark ink.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Joining becomes a graphic action",
+      "body": "Set beside the interrupted arm and red thread, the needle can suggest sewing or joining fragments. This is a visible association between objects and marks; it is not a claim that the title letters themselves document a literal scene.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How would the idea of joining change if the needle disappeared but the red thread remained?",
+    "related": [
+     "arm",
+     "thread"
+    ],
+    "layerIndex": 4,
+    "number": 6
+   },
+   {
+    "id": "thread",
+    "label": "Red thread and title frame",
+    "shortLabel": "Red thread and title frame",
+    "kicker": "A THIN LINE WITH CHANGING DIRECTION",
+    "summary": "Fine warm lines cross heavier black forms.",
+    "x": 76.16984,
+    "y": 43.03424,
+    "bounds": {
+     "x": 14,
+     "y": 39,
+     "w": 75,
+     "h": 25
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A thin line with changing direction",
+      "body": "Red curves travel around the upper title area and relate to the needle, while a fine reddish frame encloses the wording. Their narrow strokes contrast with the much heavier black letters and recall the outlined red arm above.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A repeated colour of connection",
+      "body": "The red reappears in the arm, title detail and small labels. Its repetition links otherwise separate parts of the cover, while the line’s curves introduce a sense of continuity among fragmented or interrupted forms.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does red connect two areas that are far apart on the page?",
+    "related": [
+     "arm",
+     "needle"
+    ],
+    "layerIndex": 4,
+    "number": 7
+   },
+   {
+    "id": "city",
+    "label": "Layered city silhouette",
+    "shortLabel": "Layered city silhouette",
+    "kicker": "UNEVEN ROOFLINES AND TOWERS",
+    "summary": "An urban band establishes the lower boundary.",
+    "x": 53.11958,
+    "y": 78.09917,
+    "bounds": {
+     "x": 0,
+     "y": 68,
+     "w": 100,
+     "h": 15
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Uneven rooflines and towers",
+      "body": "The skyline contains low roofs, slender towers and rounded forms in several dark blue-green tones. Their changing heights create an irregular upper boundary, while overlap suggests more than one row of buildings.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "No landmark inventory is claimed",
+      "body": "The cover names Baghdad, but the reproduced silhouette is too stylized to identify each building securely. The study therefore describes towers, roofs and layered shapes without attaching unsupported landmark names or architectural dates.",
+      "evidence": "uncertain"
+     }
+    ],
+    "question": "Which forms make this read as a city even when individual buildings remain unnamed?",
+    "related": [
+     "baghdad",
+     "awards"
+    ],
+    "layerIndex": 5,
+    "number": 8
+   },
+   {
+    "id": "awards",
+    "label": "Small lower award lines",
+    "shortLabel": "Small lower award lines",
+    "kicker": "A QUIETER BAND OF WORDING",
+    "summary": "Several fine lines add credentials beneath the city.",
+    "x": 52.07972,
+    "y": 87.07202,
+    "bounds": {
+     "x": 10,
+     "y": 81,
+     "w": 82,
+     "h": 12
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A quieter band of wording",
+      "body": "Small pale lines occupy the dark lower area, creating a different reading scale from the large title. Their spacing turns them into a compact group, but some fine wording remains limited by the reproduction’s size.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Credentials without invented detail",
+      "body": "The lower wording visibly presents recognition and award information. Rather than guessing every tiny line or converting it into a complete prize history, this reading notes its role as supporting endorsement beneath the book’s main identity.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Why might an award statement be placed below the city instead of beside the main title?",
+    "related": [
+     "city",
+     "labels"
+    ],
+    "layerIndex": 5,
+    "number": 9
+   },
+   {
+    "id": "labels",
+    "label": "Small upper labels",
+    "shortLabel": "Small upper labels",
+    "kicker": "A SMALL COUNTERWEIGHT",
+    "summary": "Compact text occupies the otherwise pale upper right.",
+    "x": 80.15598,
+    "y": 8.08737,
+    "bounds": {
+     "x": 61,
+     "y": 1,
+     "w": 38,
+     "h": 21
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A small counterweight",
+      "body": "Several short dark and red lines sit opposite the interrupted arm, with a narrow red strip at the edge. Their small scale keeps them secondary while preventing the upper-right corner from remaining entirely empty.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Information at the periphery",
+      "body": "These compact labels provide a closer-reading area around the cover’s main image and title. Their placement at the edge allows the large central wording to dominate while still making room for genre or edition-related information.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does the red edge strip help you notice the small wording, or mainly frame the page?",
+    "related": [
+     "arm",
+     "imprint"
+    ],
+    "layerIndex": 6,
+    "number": 10
+   },
+   {
+    "id": "imprint",
+    "label": "Nabu mark at the foot",
+    "shortLabel": "Nabu mark at the foot",
+    "kicker": "A BRIGHT LOWER SIGNATURE",
+    "summary": "A compact publisher mark closes the cover.",
+    "x": 71.14385,
+    "y": 95.10035,
+    "bounds": {
+     "x": 64,
+     "y": 90,
+     "w": 14,
+     "h": 10
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A bright lower signature",
+      "body": "A small red-and-pale Nabu mark sits near the bottom, interrupting the darker lower area. Its compact shape and position distinguish it from both the city silhouette and the longer award lines above.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Publisher and distributor are separate",
+      "body": "Dar Roueya’s page is the distributor source for this Nabu cover and its catalogued 2022 date. Institutional evidence places Nabu in Baghdad; that supports Iraqi publishing context, not the physical printing location or an independently verified design year.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cover"
+       },
+       {
+        "id": "nabu"
+       }
+      ]
+     }
+    ],
+    "question": "Why is a distributor’s catalogue date weaker evidence for a design date than a dated publisher production record?",
+    "related": [
+     "awards",
+     "labels"
+    ],
+    "layerIndex": 6,
+    "number": 11
+   },
+   {
+    "id": "pale",
+    "label": "Torn-looking pale field",
+    "shortLabel": "Torn-looking pale field",
+    "kicker": "A SURFACE WITH A BROKEN EDGE",
+    "summary": "An irregular diagonal interrupts the background.",
+    "x": 88.12825,
+    "y": 30.04723,
+    "bounds": {
+     "x": 60,
+     "y": 22,
+     "w": 38,
+     "h": 14
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A surface with a broken edge",
+      "body": "The pale background changes tone across an irregular diagonal, giving the appearance of layered or torn paper. It remains quiet enough to support the dark lettering, while its uneven edge adds another kind of fragmentation to the composition.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A qualified reissue identification",
+      "body": "The shown Nabu object is catalogued 2022 by Dar Roueya; other retail listings differ, and the actual printing and design dates remain unverified. The conflicting retail ISBN is omitted. The work’s original 2013 publication is a separate fact.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cover"
+       }
+      ]
+     }
+    ],
+    "question": "How does the torn-looking field relate to the isolated arm without depicting the same kind of fragment?",
+    "related": [
+     "arm",
+     "thread"
+    ],
+    "layerIndex": 0,
+    "number": 12
+   }
+  ],
+  "sources": [
+   {
+    "id": "cover",
+    "title": "The displayed cover",
+    "url": "https://daroueya.com/product/فرانكشتاين-في-بغداد/",
+    "kind": "Visual and edition source",
+    "summary": "Nabu Arabic reissue, catalogued 2022 by distributor Dar Roueya. Actual printing and design dates are unverified and other listings differ. The conflicting retail ISBN is omitted. This is not the 2013 Al-Jamal first edition."
+   },
+   {
+    "id": "nabu",
+    "title": "Sharjah Book Authority: Nabu publishing context",
+    "url": "https://xsi.sibf.com/Content/Uploads/Downloads/1_151d3e6e1ac944a9948eabc3fab7db.pdf",
+    "kind": "Institutional publishing periodical",
+    "summary": "Al Nasher Al Osboui, issue 16, February 2020, printed page 28 (PDF page 17), identifies Nabu publications in Baghdad in a review of another Ahmed Saadawi book. This supports publisher context, not this cover’s printing or design date."
+   }
+  ],
+  "tour": [
+   "arm",
+   "english",
+   "title",
+   "needle",
+   "city",
+   "imprint"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected cover wording",
+    "rows": [
+     {
+      "text": "فرانكشتاين في بغداد",
+      "meaning": "Frankenstein in Baghdad — title",
+      "lang": "ar"
+     },
+     {
+      "text": "أحمد سعداوي",
+      "meaning": "Ahmed Saadawi — author",
+      "lang": "ar"
+     },
+     {
+      "text": "Frankenstein in Baghdad",
+      "meaning": "English title as printed",
+      "lang": "en"
+     },
+     {
+      "text": "نابو",
+      "meaning": "Nabu — publisher mark",
+      "lang": "ar"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected clearly legible cover wording. Line breaks and casing may be regularized. Small uncertain print is omitted rather than guessed.",
+  "palette": [
+   {
+    "name": "Red thread",
+    "hex": "#D41827",
+    "role": "A fine warm line beside the needle.",
+    "region": "thread"
+   },
+   {
+    "name": "Dark city",
+    "hex": "#2E4E4D",
+    "role": "The lower urban silhouette.",
+    "region": "city"
+   },
+   {
+    "name": "Pale field",
+    "hex": "#D8DBD2",
+    "role": "Quiet background around the wording.",
+    "region": "pale"
+   },
+   {
+    "name": "Black title",
+    "hex": "#000000",
+    "role": "Heavy central letter strokes.",
+    "region": "title"
+   }
+  ],
+  "paletteNote": "Samples come from individual pixels in this reproduction. They describe its visible colour, not original printing inks or an exact historical colour standard."
+ }
+}

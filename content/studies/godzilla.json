@@ -1,0 +1,629 @@
+{
+ "poster": {
+  "id": "godzilla",
+  "title": "Godzilla",
+  "year": "1954",
+  "yearNumber": 1954,
+  "country": "Japan",
+  "region": "East Asia",
+  "category": "Film",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Ishirō Honda",
+  "edition": "Japanese theatrical poster",
+  "image": "images/full/godzilla.jpg",
+  "ratio": 0.712,
+  "alt": "Japanese Godzilla poster showing the monster breathing fire over a city, with a giant red vertical title and smaller human faces along the bottom.",
+  "blurb": "A colossal creature and colossal red letters compete for the same narrow sheet.",
+  "notes": [
+   {
+    "title": "Two giants share the page",
+    "body": "Godzilla fills the right side while the red title fills the left. Creature and lettering act like two equally forceful shapes, making the name almost as physical as the monster."
+   },
+   {
+    "title": "People become a measure of size",
+    "body": "Small faces and city details sit beneath the creature. Their reduced scale makes the monster feel enormous even before the image tells us what it is doing."
+   },
+   {
+    "title": "Fire cuts across the darkness",
+    "body": "A pale orange beam crosses the dark, heavily textured body. It gives the eye a clear direction through a composition crowded with text and detail."
+   }
+  ],
+  "source": "https://www.criterion.com/films/27755",
+  "imageSource": "https://en.wikipedia.org/wiki/File:Gojira_1954_Japanese_poster.jpg",
+  "imageCredit": "Toho. Image reproduced via Wikimedia Commons; see the source record for territorial rights information.",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/9/95/Gojira_1954_Japanese_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+  "anchor": [
+   0.48,
+   0.35
+  ],
+  "accent": "#c92422",
+  "yearNote": "Year refers to the film’s first release; the poster edition is identified separately.",
+  "credit": "Toho. Image reproduced via Wikimedia Commons; see the source record for territorial rights information.",
+  "anchorLayer": 1,
+  "countries": [
+   "Japan"
+  ],
+  "primaryOrigin": "Japan",
+  "thumb": "images/catalogue/godzilla.webp"
+ },
+ "studyData": {
+  "intro": "A huge creature and an almost equally forceful title share a crowded sheet. Follow the collision between scale, lettering and small human faces. The saturated colour belongs to this Japanese poster reproduction; the 1954 film itself is black and white.",
+  "initial": "godzilla-title",
+  "regions": [
+   {
+    "id": "godzilla-head",
+    "number": 1,
+    "label": "A head above the title",
+    "shortLabel": "A head above the title",
+    "kicker": "A FACE MADE FROM CONTRASTING EDGES",
+    "summary": "Teeth, an eye and a rough outline make the monster readable.",
+    "x": 58,
+    "y": 12,
+    "bounds": {
+     "x": 43,
+     "y": 1,
+     "w": 30,
+     "h": 22
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A face made from contrasting edges",
+      "body": "The open mouth cuts a dark opening below the bright upper teeth. Highlights pick out the eye and rough head surface, while the outer contour separates from the smoky sky. The head leans towards the left, bringing the creature into the space occupied by its name.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "The original Japanese film",
+      "body": "Criterion identifies Ishiro Honda’s Godzilla as a Japanese film from 1954 and distinguishes it from the altered American release of 1956. This study concerns the Japanese-language poster shown here. The source does not establish who designed or painted this particular campaign image.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "Which details survive when you step back from the image?",
+    "related": [
+     "godzilla-body",
+     "godzilla-beam"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "godzilla-body",
+    "number": 2,
+    "label": "A textured body fills the centre",
+    "shortLabel": "A textured body fills the centre",
+    "kicker": "TEXTURE AGAINST FLAT COLOUR",
+    "summary": "The giant figure has weight as well as height.",
+    "x": 62,
+    "y": 48.5,
+    "bounds": {
+     "x": 35,
+     "y": 21,
+     "w": 54,
+     "h": 55
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Texture against flat colour",
+      "body": "Small bright ridges cover the dark chest, arms and legs. These mottled surfaces contrast with the much flatter red title. The body remains recognisable as one large silhouette despite its internal detail, with bent arms breaking the outline on either side.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A scale assembled by comparison",
+      "body": "The creature feels enormous because aircraft and buildings appear tiny beside it, not because the poster supplies a measurement. Its body overlaps parts of the city and reaches almost to the credits. That constructed comparison matters more here than a physically consistent perspective.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Compare the chest and the large red letters: which has the busier surface?",
+    "related": [
+     "godzilla-head",
+     "godzilla-spines"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "godzilla-spines",
+    "number": 3,
+    "label": "A serrated back against the smoke",
+    "shortLabel": "A serrated back against the smoke",
+    "kicker": "AN OUTLINE WITH REPEATED POINTS",
+    "summary": "Small bright points make a distinctive outer edge.",
+    "x": 78.5,
+    "y": 28,
+    "bounds": {
+     "x": 69,
+     "y": 14,
+     "w": 19,
+     "h": 28
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An outline with repeated points",
+      "body": "A succession of pointed forms rises behind the head and along the right side of the upper body. Their lit edges catch against the darker smoke. This repeated jagged contour gives the back a different rhythm from the rounded face and bent forearms.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Recognition through a boundary",
+      "body": "The spines offer a recognisable feature even where details within the torso become dark. You can compare recognition from the outer edge with recognition from texture. This is a close-looking exercise; it does not establish which feature original viewers noticed first.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Cover the dorsal spines: how much does the silhouette change?",
+    "related": [
+     "godzilla-body",
+     "godzilla-smoke"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "godzilla-title",
+    "number": 4,
+    "label": "Three huge red characters",
+    "shortLabel": "Three huge red characters",
+    "kicker": "THE JAPANESE TITLE",
+    "summary": "The name is another towering presence.",
+    "x": 23,
+    "y": 45,
+    "bounds": {
+     "x": 0,
+     "y": 5,
+     "w": 46,
+     "h": 80
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "The Japanese title",
+      "body": "ゴジラ is written in katakana and read Gojira, the Japanese name rendered as Godzilla in English. Its three main characters descend down the left side. Small detached marks belong to the script; they are part of the lettering rather than debris in the scene.",
+      "evidence": "observation",
+      "originalText": "ゴジラ",
+      "lang": "ja",
+      "reading": "Gojira",
+      "translation": "Godzilla"
+     },
+     {
+      "kind": "design",
+      "heading": "Letters with a broken rhythm",
+      "body": "The red forms vary in angle and fill most of the left side. Pale outlines separate them from the dark scene, while narrow gaps prevent the word becoming one solid column. Their heavy geometry competes with the monster’s irregular body without copying its texture.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Does the title feel as solid as the monster, or more unstable?",
+    "related": [
+     "godzilla-head",
+     "godzilla-small-copy"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "godzilla-beam",
+    "number": 5,
+    "label": "A diagonal from the open mouth",
+    "shortLabel": "A diagonal from the open mouth",
+    "kicker": "A BRIGHT ROUTE THROUGH THE COLLAGE",
+    "summary": "An orange streak cuts across the upright forms.",
+    "x": 34,
+    "y": 32.5,
+    "bounds": {
+     "x": 14,
+     "y": 14,
+     "w": 40,
+     "h": 37
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A bright route through the collage",
+      "body": "The pale orange streak runs from the mouth towards the lower left, partly disappearing behind the title. It introduces a long diagonal between the vertical creature and descending letters. Dark smoke and red-orange light around it make its narrow bright centre stand out.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Nuclear anxiety as context",
+      "body": "Criterion places the film in the aftermath of nuclear attack and Pacific hydrogen-bomb testing. That documented context helps explain why the poster’s top line names the hydrogen bomb. The colour of the painted streak alone is not evidence about a real weapon or physical process.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "Trace the streak in both directions. Where does your eye stop?",
+    "related": [
+     "godzilla-head",
+     "godzilla-aircraft"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "godzilla-aircraft",
+    "number": 6,
+    "label": "Small aircraft beside an enormous figure",
+    "shortLabel": "Small aircraft beside an enormous figure",
+    "kicker": "SEVERAL DIRECTIONS OF APPROACH",
+    "summary": "A familiar machine becomes a measure of size.",
+    "x": 83.5,
+    "y": 5,
+    "bounds": {
+     "x": 74,
+     "y": 0,
+     "w": 19,
+     "h": 10
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Several directions of approach",
+      "body": "One pale aircraft enters at the upper right, another appears within the opening of the top red character, and a third sits near the raised hand. Their different positions surround the creature. Bright wings and small markings keep these machines readable against the darker background.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Threat is a relationship",
+      "body": "The contrast between small machines and the monster’s body can suggest an unequal confrontation. It depends on relative size and placement, rather than a caption explaining the outcome. The montage cannot tell us a real aircraft model’s dimensions or whether the pictured moments occur together.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How would the scale change if this aircraft were twice as large?",
+    "related": [
+     "godzilla-body",
+     "godzilla-city"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "godzilla-city",
+    "number": 7,
+    "label": "Architecture beneath the giant",
+    "shortLabel": "Architecture beneath the giant",
+    "kicker": "STRAIGHT LINES UNDER A ROUGH SURFACE",
+    "summary": "Buildings provide a second scale comparison.",
+    "x": 33,
+    "y": 54.5,
+    "bounds": {
+     "x": 20,
+     "y": 43,
+     "w": 26,
+     "h": 23
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Straight lines under a rough surface",
+      "body": "Pale façades, repeated windows and a stepped roof occupy a narrow area below the raised hand. Their straight edges differ from smoke and the creature’s skin. They remain partly hidden by the title and body, making the built environment feel compressed between larger forms.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A place at risk",
+      "body": "The combination of fire, tiny architecture and a towering figure can imply danger to a populated place. It does not document destruction at an actual location. The scene is a promotional arrangement, and overlapping elements need not reproduce one continuous film frame.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which building edges help you judge the creature’s size?",
+    "related": [
+     "godzilla-body",
+     "godzilla-aircraft"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "godzilla-smoke",
+    "number": 8,
+    "label": "Fire and smoke behind the figure",
+    "shortLabel": "Fire and smoke behind the figure",
+    "kicker": "AN UNEVEN FIELD",
+    "summary": "The background keeps changing between light and dark.",
+    "x": 40.5,
+    "y": 47,
+    "bounds": {
+     "x": 29,
+     "y": 36,
+     "w": 23,
+     "h": 22
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An uneven field",
+      "body": "Dark billows and red-orange light fill the gaps around the creature, title and city. Some areas are almost black; others glow against the body’s edge. This changing field prevents the busy composition from depending on one uniform background colour.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A colour poster for a monochrome film",
+      "body": "Criterion lists the 1954 film as black and white. The reds, yellows and blues here belong to this colour advertising image. They should not be treated as samples of the film’s cinematography or evidence that the original release was photographed in colour.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "Where does the smoke make an object clearer, and where does it make an object harder to see?",
+    "related": [
+     "godzilla-spines",
+     "godzilla-city"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "godzilla-faces",
+    "number": 9,
+    "label": "Human faces at the lower edge",
+    "shortLabel": "Human faces at the lower edge",
+    "kicker": "A CLUSTER OF DIFFERENTLY SIZED PORTRAITS",
+    "summary": "Small portraits give the spectacle human witnesses.",
+    "x": 19,
+    "y": 88.5,
+    "bounds": {
+     "x": 0,
+     "y": 77,
+     "w": 38,
+     "h": 23
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A cluster of differently sized portraits",
+      "body": "Two faces occupy the lower-left corner, while a larger man’s head turns upward nearby. Cropped bodies and overlapping heads form a compact group below the red title. Their smoother skin and clothing introduce another scale of detail beside the monster’s textured body.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Reaction without a complete scene",
+      "body": "The upward looks can be read as responses to danger above them, though the poster does not prove all these figures share the same moment or viewpoint. Their assembly supplies human stakes while leaving the actual relationships and sequence for the film.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Compare the directions of the three faces. Do they point towards the same place?",
+    "related": [
+     "godzilla-eye-patch",
+     "godzilla-head"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "godzilla-eye-patch",
+    "number": 10,
+    "label": "A separate face in the opposite corner",
+    "shortLabel": "A separate face in the opposite corner",
+    "kicker": "A DARK MARK WITHIN A WARM FACE",
+    "summary": "An eye patch makes a small portrait distinctive.",
+    "x": 90,
+    "y": 92.5,
+    "bounds": {
+     "x": 80,
+     "y": 85,
+     "w": 20,
+     "h": 15
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A dark mark within a warm face",
+      "body": "The lower-right portrait is cut by two edges of the sheet. A black eye patch makes a strong shape against the lit skin, and the head turns towards the centre. Its placement balances the larger group of portraits on the opposite side.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A detail that invites a question",
+      "body": "The eye patch offers a specific visual clue without explaining its story. It can encourage curiosity about the character, but we should not infer injury, personality or motive beyond what is visible. The study leaves those narrative questions open rather than treating costume as biography.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Why might separating this face from the group matter to the balance?",
+    "related": [
+     "godzilla-faces",
+     "godzilla-credits"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "godzilla-small-copy",
+    "number": 11,
+    "label": "A headline and a vertical sales pitch",
+    "shortLabel": "A headline and a vertical sales pitch",
+    "kicker": "A HYDROGEN-BOMB MONSTER FILM",
+    "summary": "Smaller words surround the monster’s name.",
+    "x": 94,
+    "y": 32,
+    "bounds": {
+     "x": 84,
+     "y": 0,
+     "w": 16,
+     "h": 86
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A hydrogen-bomb monster film",
+      "body": "The pale line along the top reads 水爆大怪獣映画, meaning a hydrogen-bomb giant-monster film. Tall yellow promotional columns run down the right edge. This selective transcript preserves the legible headline without attempting a complete translation of every crowded column.",
+      "evidence": "observation",
+      "originalText": "水爆大怪獣映画",
+      "lang": "ja",
+      "translation": "Hydrogen-bomb giant-monster film"
+     },
+     {
+      "kind": "business",
+      "heading": "Different distances of address",
+      "body": "The enormous name can be seen before the narrower promotional copy. Moving closer reveals claims and explanatory wording around the creature. The poster combines a striking image with a fuller sales pitch, although this reproduction alone does not establish how it was displayed or who read every line.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How do the yellow columns differ from the huge red title in pace and direction?",
+    "related": [
+     "godzilla-title",
+     "godzilla-credits"
+    ],
+    "layerIndex": 5
+   },
+   {
+    "id": "godzilla-credits",
+    "number": 12,
+    "label": "Names and a studio line below",
+    "shortLabel": "Names and a studio line below",
+    "kicker": "SEVERAL SCALES OF SMALL LETTERING",
+    "summary": "The lower zone turns spectacle into a named production.",
+    "x": 60.5,
+    "y": 85,
+    "bounds": {
+     "x": 37,
+     "y": 70,
+     "w": 47,
+     "h": 30
+    },
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Several scales of small lettering",
+      "body": "White, yellow and red columns gather across the monster’s lower body. A light blue production-and-distribution line runs along the bottom. These finer words share the sheet with the enormous title, creating a dense reading zone below the most immediately recognisable shapes.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "A visible production credit",
+      "body": "The bottom line reads 東宝株式会社製作配給, identifying production and distribution by Toho Co., Ltd. It supplies a company attribution, not the name of this poster’s artist. Other fine credits remain available visually but are not reconstructed from incomplete letters in this reproduction.",
+      "evidence": "observation",
+      "originalText": "東宝株式会社製作配給",
+      "lang": "ja",
+      "translation": "Produced and distributed by Toho Co., Ltd."
+     }
+    ],
+    "question": "What changes when you look at the poster as a record of work rather than only an image?",
+    "related": [
+     "godzilla-small-copy",
+     "godzilla-faces"
+    ],
+    "layerIndex": 5
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed Godzilla poster reproduction",
+    "url": "https://en.wikipedia.org/wiki/File:Gojira_1954_Japanese_poster.jpg",
+    "kind": "Visual source",
+    "summary": "The exact edition shown is the evidence for visible shapes, wording, positions and reproduction samples. The linked record identifies the image; readings of its visual effects are supplied by Poster Atlas."
+   },
+   {
+    "id": "record",
+    "title": "Criterion: Godzilla (1954)",
+    "url": "https://www.criterion.com/films/27755",
+    "kind": "Official distributor",
+    "summary": "Verifies the Japanese 1954 film, director Ishiro Honda, black-and-white photography and nuclear-testing context. Its current cover credit is not an attribution for this Japanese poster."
+   }
+  ],
+  "tour": [
+   "godzilla-title",
+   "godzilla-head",
+   "godzilla-beam",
+   "godzilla-aircraft",
+   "godzilla-city",
+   "godzilla-faces",
+   "godzilla-small-copy"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected wording in this edition",
+    "rows": [
+     {
+      "text": "ゴジラ",
+      "meaning": "Godzilla; read Gojira",
+      "lang": "ja"
+     },
+     {
+      "text": "水爆大怪獣映画",
+      "meaning": "Hydrogen-bomb giant-monster film",
+      "lang": "ja"
+     },
+     {
+      "text": "東宝株式会社製作配給",
+      "meaning": "Produced and distributed by Toho Co., Ltd.",
+      "lang": "ja"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected title, top headline and company line only. Dense side copy and individual billing are not fully transcribed. Human portraits are described without assigning unverified identities.",
+  "palette": [
+   {
+    "name": "Title red",
+    "hex": "#DB0B01",
+    "role": "A flat mass beside textured skin",
+    "region": "godzilla-title"
+   },
+   {
+    "name": "Smoky dark",
+    "hex": "#0F0F0D",
+    "role": "Sets off bright objects",
+    "region": "godzilla-smoke"
+   },
+   {
+    "name": "Beam orange",
+    "hex": "#E7AF76",
+    "role": "A diagonal route from the mouth",
+    "region": "godzilla-beam"
+   },
+   {
+    "name": "Credit blue",
+    "hex": "#65A6DC",
+    "role": "Distinguishes the company line",
+    "region": "godzilla-credits"
+   }
+  ],
+  "paletteNote": "Approximate screen samples from the installed reproduction. These describe image pixels, not original inks, paper colours or calibrated printing specifications."
+ }
+}

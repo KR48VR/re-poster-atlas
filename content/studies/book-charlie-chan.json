@@ -1,0 +1,684 @@
+{
+ "poster": {
+  "id": "book-charlie-chan",
+  "title": "The Art of Charlie Chan Hock Chye",
+  "year": "2026",
+  "yearNumber": 2026,
+  "coverYear": "2026",
+  "bookFirstPublication": "2015",
+  "bookAuthor": "Sonny Liew",
+  "bookPublisher": "Epigram Books",
+  "bookOrigin": "Singapore graphic novel by Sonny Liew, first published in 2015; this is Epigram’s updated Singapore paperback.",
+  "creator": "Sonny Liew; separate layout credit unverified",
+  "country": "Singapore",
+  "countries": [
+   "Singapore"
+  ],
+  "primaryOrigin": "Singapore",
+  "region": "Southeast Asia",
+  "category": "Book cover",
+  "image": "images/full/book-charlie-chan.jpg",
+  "ratio": 0.6666666666666666,
+  "alt": "A comic-style boy holds a radio beneath an English title balloon and beside black Chinese lettering, award seals, two comic panels and a painted older face.",
+  "blurb": "One cover stages several drawing styles around a bright comic figure.",
+  "source": "https://epigrambookshop.sg/products/the-art-of-charlie-chan-hock-chye-updated-edition",
+  "credit": "Sonny Liew is the author and artist. The displayed cover contains several drawn styles; a separate jacket-layout credit has not been established.",
+  "reproduction": "The reproduced object is 1200 × 1800 pixels. Physical wear, visible image texture and edges are retained; small uncertain lettering is not reconstructed.",
+  "anchor": [
+   0.57,
+   0.38
+  ],
+  "accent": "#d94825",
+  "edition": "Epigram Books updated paperback, catalogued 2026, ISBN 9789815348477. The original graphic novel appeared in 2015; this displayed updated cover is not labelled 2015.",
+  "imageSource": "https://epigrambookshop.sg/products/the-art-of-charlie-chan-hock-chye-updated-edition",
+  "imageCredit": "Sonny Liew is the author and artist. The displayed cover contains several drawn styles; a separate jacket-layout credit has not been established.",
+  "posterYear": "2026",
+  "posterTerritory": "Singapore",
+  "posterDateStatus": "The displayed edition or explicitly qualified catalogue date. The original work date is recorded separately.",
+  "originNote": "Country and region describe the displayed edition’s publishing context, not the nationality of the cover designer.",
+  "originSources": [
+   {
+    "title": "Displayed object record",
+    "url": "https://epigrambookshop.sg/products/the-art-of-charlie-chan-hock-chye-updated-edition"
+   }
+  ],
+  "notes": [
+   {
+    "title": "The displayed edition",
+    "body": "Epigram Books updated paperback, catalogued 2026, ISBN 9789815348477. The original graphic novel appeared in 2015; this displayed updated cover is not labelled 2015."
+   },
+   {
+    "title": "Writing and image-making",
+    "body": "Sonny Liew is the author and artist. The displayed cover contains several drawn styles; a separate jacket-layout credit has not been established."
+   },
+   {
+    "title": "A visible design relationship",
+    "body": "One cover stages several drawing styles around a bright comic figure."
+   }
+  ],
+  "downloadURL": "https://epigrambookshop.sg/cdn/shop/files/CharlieChan_15th_CVF_300_1200x1800.jpg?v=1777090246",
+  "creditSources": [
+   {
+    "title": "Source for the displayed object and recorded credits",
+    "url": "https://epigrambookshop.sg/products/the-art-of-charlie-chan-hock-chye-updated-edition"
+   }
+  ],
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-charlie-chan.webp"
+ },
+ "studyData": {
+  "intro": "A bright comic figure, several lower drawing styles and two award seals make this updated paperback unusually dense. Follow how the cover separates storytelling, authorship and endorsement without treating its fictional artist as a documented historical person.",
+  "initial": "title",
+  "regions": [
+   {
+    "id": "title",
+    "label": "Red English title",
+    "shortLabel": "Red English title",
+    "kicker": "A BOOK ABOUT AN ARTIST’S WORK",
+    "summary": "Large warm letters establish the main name.",
+    "x": 35.04167,
+    "y": 11.02778,
+    "bounds": {
+     "x": 5,
+     "y": 5,
+     "w": 57,
+     "h": 12
+    },
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A book about an artist’s work",
+      "body": "The wording names The Art of Charlie Chan Hock Chye. The smaller opening phrase and much larger red name create two levels of reading, allowing the proper name to dominate while preserving the book’s stated focus on art.",
+      "evidence": "observation",
+      "originalText": "THE ART OF CHARLIE CHAN HOCK CHYE",
+      "lang": "en"
+     },
+     {
+      "kind": "context",
+      "heading": "An updated 2026 object",
+      "body": "Epigram identifies this updated paperback as published in 2026, ISBN 9789815348477. The graphic novel originally appeared in 2015. The displayed cover’s additional material and award language belong to this later presentation rather than establishing a 2015 jacket date.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cover"
+       }
+      ]
+     }
+    ],
+    "question": "What expectation does the phrase “The Art of” create before you look at the different drawings?",
+    "related": [
+     "balloon",
+     "author"
+    ],
+    "layerIndex": 1,
+    "number": 1
+   },
+   {
+    "id": "balloon",
+    "label": "Title speech balloon",
+    "shortLabel": "Title speech balloon",
+    "kicker": "A CREAM ENCLOSURE WITH A TAIL",
+    "summary": "An actual comic device holds the book’s name.",
+    "x": 23.04167,
+    "y": 20.02778,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 68,
+     "h": 25
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A cream enclosure with a tail",
+      "body": "The English title sits in a large cream speech balloon with a dark outline and a pointed lower extension. Its curved boundary differs from the rectangular lower panels, giving the top a recognizable comic-page device.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "The cover seems to speak",
+      "body": "Using a balloon for the title can make the book’s name feel voiced within its own visual world. This is a reading of the graphic convention, not evidence that a specific pictured character is literally speaking those words.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How would a plain cream rectangle change the title’s relationship to the illustration?",
+    "related": [
+     "title",
+     "burst"
+    ],
+    "layerIndex": 1,
+    "number": 2
+   },
+   {
+    "id": "face",
+    "label": "Comic boy’s face",
+    "shortLabel": "Comic boy’s face",
+    "kicker": "A FEW LARGE SHAPES",
+    "summary": "Bold contours hold a bright face together.",
+    "x": 61.04167,
+    "y": 34.02778,
+    "bounds": {
+     "x": 29,
+     "y": 15,
+     "w": 56,
+     "h": 33
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A few large shapes",
+      "body": "The boy’s yellow face has thick black outlines, large dark eyes and an open red-and-black mouth. Small red halftone dots remain inside the face, adding printed texture without replacing the clear outline that defines the head.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Expression at cover scale",
+      "body": "The large eyes and open mouth remain legible from a distance, while fine dots reward closer viewing. The figure therefore works at two scales: broad expression first, then the texture of its printed comic style.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which feature carries the expression most strongly when the cover is reduced?",
+    "related": [
+     "hands",
+     "portrait"
+    ],
+    "layerIndex": 2,
+    "number": 3
+   },
+   {
+    "id": "hands",
+    "label": "Hands around a radio",
+    "shortLabel": "Hands around a radio",
+    "kicker": "OVERLAPPING FORMS REMAIN DISTINCT",
+    "summary": "An object and two gestures extend the figure.",
+    "x": 62.04167,
+    "y": 57.02778,
+    "bounds": {
+     "x": 10,
+     "y": 47,
+     "w": 73,
+     "h": 18
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Overlapping forms remain distinct",
+      "body": "One hand rests across the torso while the other grips a dark radio-like object with an antenna. Curving fingers overlap its harder edges, and the pale shirt provides a quieter field behind these smaller shapes.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Action within a portrait-like figure",
+      "body": "The hands prevent the boy from reading as a static head alone. Their different positions and the angled object create a small sequence of movement, contrasting with the more still, tightly cropped painted face below.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the antenna continue the directional energy of the hands?",
+    "related": [
+     "face",
+     "burst"
+    ],
+    "layerIndex": 2,
+    "number": 4
+   },
+   {
+    "id": "chinese",
+    "label": "Chinese name column",
+    "shortLabel": "Chinese name column",
+    "kicker": "THE SAME NAME IN CHINESE",
+    "summary": "A second script forms a dark vertical accent.",
+    "x": 10.125,
+    "y": 33.41667,
+    "bounds": {
+     "x": 3,
+     "y": 20,
+     "w": 15,
+     "h": 25
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "The same name in Chinese",
+      "body": "The three visible characters read 陳福財, the Chinese name associated with Chan Hock Chye. They form a compact vertical column beside the boy, giving the cover a second verbal entrance without matching the English title’s width or colour.",
+      "evidence": "observation",
+      "originalText": "陳福財",
+      "lang": "zh-Hant"
+     },
+     {
+      "kind": "design",
+      "heading": "Dense glyphs against radiating dots",
+      "body": "The black characters are much denser than the surrounding halftone and thin ray lines. Their compact shapes remain distinct even where the background pattern changes colour, so the column can function as a strong local anchor.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "How do script, direction and colour distinguish this name from the English one?",
+    "related": [
+     "title",
+     "burst"
+    ],
+    "layerIndex": 3,
+    "number": 5
+   },
+   {
+    "id": "green-award",
+    "label": "Green award rosette",
+    "shortLabel": "Green award rosette",
+    "kicker": "A COMPACT EMBLEM IN A WARM FIELD",
+    "summary": "A scalloped seal adds an institutional voice.",
+    "x": 87.04167,
+    "y": 10.02778,
+    "bounds": {
+     "x": 75,
+     "y": 1,
+     "w": 24,
+     "h": 17
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A compact emblem in a warm field",
+      "body": "The teal-green rosette has a scalloped edge and pale lettering. Its cool colour stands apart from the red-orange burst, while the round form contrasts with the title balloon and long vertical Chinese column.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "An endorsement on the displayed cover",
+      "body": "The seal visibly promotes a Book of the Year award and names the Singapore Book Awards. That is a claim printed on this cover; its presence is described here without inferring sales impact or treating every award as a separate publisher.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Why might a cool green seal remain noticeable within such a warm, crowded cover?",
+    "related": [
+     "red-award",
+     "title"
+    ],
+    "layerIndex": 4,
+    "number": 6
+   },
+   {
+    "id": "red-award",
+    "label": "Red award circle",
+    "shortLabel": "Red award circle",
+    "kicker": "ROUND, WARM AND TIGHTLY PACKED",
+    "summary": "A second seal echoes the warm title.",
+    "x": 87.04167,
+    "y": 58.02778,
+    "bounds": {
+     "x": 77,
+     "y": 51,
+     "w": 20,
+     "h": 13
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Round, warm and tightly packed",
+      "body": "The lower red circle carries white BEST FICTION wording and smaller award information. Its simple round boundary makes it a discrete unit beside the boy’s hand, even though the surrounding illustration is much more irregular.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Another kind of reassurance",
+      "body": "The printed award statement offers an evaluative cue alongside the title and drawings. It can help a browsing reader recognize that the work has been publicly recognized, but the cover alone cannot show how much that cue influenced purchases.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Do the two award seals feel equally prominent, or does position matter more than size?",
+    "related": [
+     "green-award",
+     "bonus"
+    ],
+    "layerIndex": 4,
+    "number": 7
+   },
+   {
+    "id": "bonus",
+    "label": "Yellow bonus-content strip",
+    "shortLabel": "Yellow bonus-content strip",
+    "kicker": "WHAT IS BEING ADDED",
+    "summary": "A small rectangle announces added material.",
+    "x": 21.04167,
+    "y": 61.02778,
+    "bounds": {
+     "x": 3,
+     "y": 58,
+     "w": 36,
+     "h": 6
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "What is being added",
+      "body": "The visible strip announces bonus content, including a foreword by Chip Kidd. Its compact black wording is less prominent than the main name but gives a specific reason for the updated presentation rather than simply repeating the title.",
+      "evidence": "observation",
+      "originalText": "BONUS CONTENT, INCLUDING FOREWORD BY CHIP KIDD",
+      "lang": "en"
+     },
+     {
+      "kind": "business",
+      "heading": "A later edition has a different task",
+      "body": "Epigram’s updated-edition description explicitly promotes exclusive bonus material. This supports reading the strip as an edition-specific invitation to returning and new readers; it does not turn the later cover into the first publication of the original work.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cover"
+       }
+      ]
+     }
+    ],
+    "question": "Which reader might care most about this strip: someone new to the book or someone who already owns it?",
+    "related": [
+     "title",
+     "red-award"
+    ],
+    "layerIndex": 4,
+    "number": 8
+   },
+   {
+    "id": "robot-panel",
+    "label": "Colour comic panel",
+    "shortLabel": "Colour comic panel",
+    "kicker": "A PANEL WITH ITS OWN BOUNDARY",
+    "summary": "A printed frame introduces another visual register.",
+    "x": 13.04167,
+    "y": 81.02778,
+    "bounds": {
+     "x": 0,
+     "y": 66,
+     "w": 29,
+     "h": 34
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A panel with its own boundary",
+      "body": "The lower-left rectangle contains a colourful robot-like figure and a busy comic scene. Its black border is an actual printed panel edge, separating this dense miniature world from the large boy and radio above.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Different scales of storytelling",
+      "body": "The cover moves from one large expressive figure to a much smaller scene containing many details. That change suggests a book with varied visual material, without requiring the viewer to identify a specific episode from the small excerpt.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the panel border help you change scale without losing your place?",
+    "related": [
+     "crowd-panel",
+     "face"
+    ],
+    "layerIndex": 5,
+    "number": 9
+   },
+   {
+    "id": "crowd-panel",
+    "label": "Monochrome crowd panel",
+    "shortLabel": "Monochrome crowd panel",
+    "kicker": "MANY BODIES IN A LIMITED PALETTE",
+    "summary": "Repeated small figures make a different texture.",
+    "x": 44.04167,
+    "y": 81.02778,
+    "bounds": {
+     "x": 30,
+     "y": 66,
+     "w": 31,
+     "h": 34
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Many bodies in a limited palette",
+      "body": "The middle lower panel uses a restricted brown-purple and cream range. Numerous small figures overlap and repeat, producing a fine, busy texture that differs from both the large upper boy and the colourful left panel.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Variety within a common page",
+      "body": "Placing the two panels side by side emphasizes differences in palette and drawing rhythm. Their shared rectangular format holds them together while allowing the internal styles to remain visibly distinct.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which difference is stronger between these panels: colour, scale or density?",
+    "related": [
+     "robot-panel",
+     "portrait"
+    ],
+    "layerIndex": 5,
+    "number": 10
+   },
+   {
+    "id": "portrait",
+    "label": "Painted lower face",
+    "shortLabel": "Painted lower face",
+    "kicker": "A TIGHTLY CROPPED OLDER FACE",
+    "summary": "Modelling replaces the upper figure’s flat brightness.",
+    "x": 85.04167,
+    "y": 87.02778,
+    "bounds": {
+     "x": 62,
+     "y": 77,
+     "w": 38,
+     "h": 23
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A tightly cropped older face",
+      "body": "The lower-right portrait uses shaded browns, reds and olive tones, with a prominent eye and facial creases. The head is cropped by the panel edges, creating a close encounter unlike the more complete comic figure above.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A change of register",
+      "body": "The more modelled face contrasts with the flat yellow and bold black of the upper boy. That contrast may suggest time, seriousness or different artistic approaches, but the image alone does not establish a literal biography of a real artist.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the change in drawing style alter the tone even before you identify anyone?",
+    "related": [
+     "face",
+     "author"
+    ],
+    "layerIndex": 6,
+    "number": 11
+   },
+   {
+    "id": "author",
+    "label": "Sonny Liew balloon",
+    "shortLabel": "Sonny Liew balloon",
+    "kicker": "PRESENTED BY SONNY LIEW",
+    "summary": "A small lower balloon names the actual creator.",
+    "x": 73.04167,
+    "y": 72.02778,
+    "bounds": {
+     "x": 62,
+     "y": 66,
+     "w": 21,
+     "h": 13
+    },
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Presented by Sonny Liew",
+      "body": "The lower balloon says presented by SONNY LIEW. Its pale enclosure and green name create a small authorial statement within the portrait panel, distinct from the much larger fictional artist’s name in the main title.",
+      "evidence": "observation",
+      "originalText": "presented by SONNY LIEW",
+      "lang": "en"
+     },
+     {
+      "kind": "context",
+      "heading": "A work blending fact and fiction",
+      "body": "Epigram identifies Sonny Liew as author and describes a graphic novel that blends fact and fiction while reimagining Singapore history. The cover’s multiple drawing styles are visible evidence; they are not proof that Charlie Chan Hock Chye was a real historical artist.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cover"
+       }
+      ]
+     }
+    ],
+    "question": "Why is distinguishing the actual author from the named fictional artist important on this cover?",
+    "related": [
+     "title",
+     "portrait"
+    ],
+    "layerIndex": 6,
+    "number": 12
+   },
+   {
+    "id": "burst",
+    "label": "Radiating halftone field",
+    "shortLabel": "Radiating halftone field",
+    "kicker": "LINES CONVERGE BEHIND THE FIGURE",
+    "summary": "Dots and rays energize the gaps.",
+    "x": 88.04167,
+    "y": 35.02778,
+    "bounds": {
+     "x": 84,
+     "y": 20,
+     "w": 16,
+     "h": 30
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Lines converge behind the figure",
+      "body": "Thin dark rays and changing fields of halftone dots occupy the spaces around the boy. Their directions suggest outward movement, while small pale marks near the head add another set of localized accents.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A busy ground with clear ownership",
+      "body": "The rays increase energy but remain behind the face, glyphs and seals. The composition works because those major forms retain legible outlines; treating every neighbouring dot as part of a figure would weaken that separation.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does the background’s energy help a focal point, and where might it compete with one?",
+    "related": [
+     "face",
+     "chinese"
+    ],
+    "layerIndex": 0,
+    "number": 13
+   }
+  ],
+  "sources": [
+   {
+    "id": "cover",
+    "title": "The displayed cover",
+    "url": "https://epigrambookshop.sg/products/the-art-of-charlie-chan-hock-chye-updated-edition",
+    "kind": "Visual and edition source",
+    "summary": "Epigram Books updated paperback, catalogued 2026, ISBN 9789815348477. The original graphic novel appeared in 2015; this displayed updated cover is not labelled 2015."
+   }
+  ],
+  "tour": [
+   "title",
+   "face",
+   "chinese",
+   "robot-panel",
+   "crowd-panel",
+   "portrait",
+   "author"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected cover wording",
+    "rows": [
+     {
+      "text": "THE ART OF CHARLIE CHAN HOCK CHYE",
+      "meaning": "Book title",
+      "lang": "en"
+     },
+     {
+      "text": "陳福財",
+      "meaning": "Chan Hock Chye — Chinese name",
+      "lang": "zh-Hant"
+     },
+     {
+      "text": "SONNY LIEW",
+      "meaning": "Actual author and artist",
+      "lang": "en"
+     },
+     {
+      "text": "BEST FICTION",
+      "meaning": "Printed award wording",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected clearly legible cover wording. Line breaks and casing may be regularized. Small uncertain print is omitted rather than guessed.",
+  "palette": [
+   {
+    "name": "Red title",
+    "hex": "#DF0001",
+    "role": "Large warm title glyphs.",
+    "region": "title"
+   },
+   {
+    "name": "Yellow face",
+    "hex": "#EFDA1F",
+    "role": "The upper comic figure’s bright field.",
+    "region": "face"
+   },
+   {
+    "name": "Green rosette",
+    "hex": "#006E68",
+    "role": "A cool endorsement mark.",
+    "region": "green-award"
+   },
+   {
+    "name": "Cream balloon",
+    "hex": "#FBEDBC",
+    "role": "A pale reading space.",
+    "region": "balloon"
+   }
+  ],
+  "paletteNote": "Samples come from individual pixels in this reproduction. They describe its visible colour, not original printing inks or an exact historical colour standard."
+ }
+}

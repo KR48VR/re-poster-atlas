@@ -1,0 +1,647 @@
+{
+ "poster": {
+  "id": "jaws",
+  "title": "Jaws",
+  "year": "1975",
+  "yearNumber": 1975,
+  "country": "United States",
+  "region": "North America",
+  "creator": "Roger Kastel",
+  "filmCreator": "Steven Spielberg",
+  "edition": "English-language 1975 theatrical poster",
+  "alt": "The Jaws poster shows a small swimmer on a waterline above a giant shark rising from dark blue water, beneath a large red title.",
+  "blurb": "A tiny swimmer and an enormous mouth share one vertical axis, revealing a danger the swimmer cannot see.",
+  "notes": [
+   {
+    "title": "Two worlds divided by one line",
+    "body": "The thin water surface separates the swimmer’s bright space from the shark’s dark one. The viewer can see both at once, creating the image’s central tension."
+   },
+   {
+    "title": "Scale does the storytelling",
+    "body": "The shark’s open jaws are much larger than the human body above them. That imbalance communicates vulnerability without needing a scene of contact."
+   },
+   {
+    "title": "The title repeats the threat",
+    "body": "Heavy red letters sit above the water and dominate the white header. Their blunt shapes and strong contrast prepare the eye for the teeth below."
+   }
+  ],
+  "source": "https://www.bfi.org.uk/film/98b20662-5754-5b8a-8e69-38fbec0d85c2/jaws",
+  "imageCredit": "Poster illustration by Roger Kastel for Universal Pictures; reproduction via Wikimedia Commons, credited there to the Everett Collection. Consult source for rights details.",
+  "anchor": [
+   0.49,
+   0.56
+  ],
+  "accent": "#a64a40",
+  "category": "Film",
+  "image": "images/full/jaws.jpg",
+  "imageSource": "https://en.wikipedia.org/wiki/File:Jaws_movie_poster.jpg",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/4/40/Jaws_movie_poster.jpg",
+  "ratio": 0.665,
+  "imageWidth": 665,
+  "imageHeight": 1000,
+  "credit": "Poster illustration by Roger Kastel for Universal Pictures; reproduction via Wikimedia Commons, credited there to the Everett Collection. Consult source for rights details.",
+  "anchorLayer": 1,
+  "posterYear": "1975",
+  "countries": [
+   "United States"
+  ],
+  "primaryOrigin": "United States",
+  "thumb": "images/catalogue/jaws.webp"
+ },
+ "studyData": {
+  "intro": "A swimmer crosses a calm-looking strip of water while a much larger shark rises below. Explore how the poster gives the viewer information its tiny human figure does not appear to have, then compare that image with the promises in the advertising text.",
+  "initial": "swimmer",
+  "regions": [
+   {
+    "id": "title",
+    "label": "The red title",
+    "shortLabel": "The red title",
+    "kicker": "Words and meaning",
+    "summary": "Four letters sit above the water.",
+    "layerIndex": 4,
+    "x": 49.925,
+    "y": 20.5,
+    "bounds": {
+     "x": 24,
+     "y": 15,
+     "w": 52,
+     "h": 11
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A short, heavy name",
+      "body": "JAWS is printed in broad red capitals, with the final letter sharing the same strong block weight as the others. The short word sits on the pale upper panel. Its colour separates it from both the black frame and the blue water below.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A verbal and visual threat",
+      "body": "The title names a part of an animal rather than showing a complete creature. Lower down, the open mouth gives that word a visible counterpart. Cover the shark and read the title again: the connection is less explicit, but the word still directs attention towards biting.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the title change when the shark is covered?",
+    "related": [
+     "mouth",
+     "surface",
+     "tagline"
+    ],
+    "number": 1
+   },
+   {
+    "id": "swimmer",
+    "label": "The small swimmer",
+    "shortLabel": "The small swimmer",
+    "kicker": "Look closely",
+    "summary": "A horizontal body crosses a vertical threat.",
+    "layerIndex": 3,
+    "x": 60,
+    "y": 28,
+    "bounds": {
+     "x": 36,
+     "y": 26,
+     "w": 31,
+     "h": 6
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A narrow human scale",
+      "body": "The swimmer is a small, pale horizontal form close to the surface. One arm reaches outward, extending the body along the waterline. Compared with the shark below, this figure occupies very little of the picture, making the difference in scale easy to see.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Unequal knowledge",
+      "body": "We can see the animal underneath, while the swimmer is depicted facing along the surface. This arrangement can create suspense through unequal knowledge. That is a reading of the pictured relationship; it does not tell us the figure’s thoughts or prove a precise moment from the film.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What can the viewer see that the swimmer’s position does not reveal?",
+    "related": [
+     "snout",
+     "surface",
+     "mouth"
+    ],
+    "number": 2
+   },
+   {
+    "id": "surface",
+    "label": "The waterline",
+    "shortLabel": "The waterline",
+    "kicker": "Look closely",
+    "summary": "A thin horizontal boundary divides two worlds.",
+    "layerIndex": 1,
+    "x": 24.06,
+    "y": 30,
+    "bounds": {
+     "x": 16,
+     "y": 28,
+     "w": 68,
+     "h": 5
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Above and below together",
+      "body": "The surface is shown as a narrow rippling strip, with a pale field above and deep blue below. It allows the poster to present two viewpoints in a single image: the swimmer’s level and an underwater view of the approaching animal.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A line that delays contact",
+      "body": "Most of the danger is still separated from the swimmer by blue water. The thin boundary keeps the two areas distinct, while their alignment makes the remaining gap feel consequential. Trace the distance rather than imagining movement that the picture itself does not show.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which gap matters more: swimmer to waterline, or snout to swimmer?",
+    "related": [
+     "swimmer",
+     "snout",
+     "water"
+    ],
+    "number": 3
+   },
+   {
+    "id": "snout",
+    "label": "The rising snout",
+    "shortLabel": "The rising snout",
+    "kicker": "Look closely",
+    "summary": "The animal points towards the surface.",
+    "layerIndex": 2,
+    "x": 52.481,
+    "y": 47.5,
+    "bounds": {
+     "x": 37,
+     "y": 39,
+     "w": 31,
+     "h": 17
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An upward wedge",
+      "body": "The shark’s upper head narrows towards a rounded point beneath the swimmer. Its sides widen as they descend. This wedge creates a clear upward direction, even though the image is still, and places the animal on nearly the same vertical axis as the human figure.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Alignment carries the story",
+      "body": "Moving the shark mentally far to one side weakens the direct relationship between the two bodies. Here the central alignment makes approach legible without arrows or a sequence of frames. The poster relies on position and scale to suggest what could happen next.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would the image feel as direct if the shark were placed at the far left?",
+    "related": [
+     "swimmer",
+     "mouth",
+     "water"
+    ],
+    "number": 4
+   },
+   {
+    "id": "mouth",
+    "label": "The open mouth",
+    "shortLabel": "The open mouth",
+    "kicker": "Look closely",
+    "summary": "Pale teeth interrupt a dark opening.",
+    "layerIndex": 2,
+    "x": 53.985,
+    "y": 59,
+    "bounds": {
+     "x": 41,
+     "y": 51,
+     "w": 26,
+     "h": 16
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Detail at the point of danger",
+      "body": "The mouth is a dark hollow bordered by pale pointed teeth. It occupies a smaller area than the blue field but contains sharper contrasts and more abrupt shapes. Those local details make it a distinct stopping point within the large silhouette of the animal.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "The film’s central threat",
+      "body": "Universal’s synopsis identifies a great white shark attacking the seaside community of Amity, and a police chief, marine biologist and shark hunter pursuing it. That establishes the narrative premise; it does not make the poster a scientific diagram of shark anatomy or behaviour.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "universal"
+       }
+      ]
+     }
+    ],
+    "question": "Which draws you first: the overall head shape or the individual teeth?",
+    "related": [
+     "snout",
+     "title",
+     "cast"
+    ],
+    "number": 5
+   },
+   {
+    "id": "water",
+    "label": "The blue interval",
+    "shortLabel": "The blue interval",
+    "kicker": "Look closely",
+    "summary": "Open water gives the approach room.",
+    "layerIndex": 1,
+    "x": 26.466,
+    "y": 52,
+    "bounds": {
+     "x": 17,
+     "y": 34,
+     "w": 19,
+     "h": 36
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Space around the animal",
+      "body": "Blue water surrounds the shark, with lighter areas nearer the surface and darker tones lower down. The left side contains a substantial open interval. It makes the animal’s outline readable and keeps the scene from becoming a close-up of teeth alone.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Distance is part of the tension",
+      "body": "The empty water can be read as a remaining distance to travel. Cropping tightly around the mouth would make the image more immediate but remove this interval. Compare the two ideas by covering the side and lower water with your hands.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does a tighter crop feel more immediate or less suspenseful?",
+    "related": [
+     "surface",
+     "snout",
+     "frame"
+    ],
+    "number": 6
+   },
+   {
+    "id": "tagline",
+    "label": "The bestseller promise",
+    "shortLabel": "The bestseller promise",
+    "kicker": "Words and meaning",
+    "summary": "Advertising words prepare the image.",
+    "layerIndex": 5,
+    "x": 51.128,
+    "y": 8.4,
+    "bounds": {
+     "x": 18,
+     "y": 4,
+     "w": 65,
+     "h": 7
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A repeated adjective",
+      "body": "The upper tagline calls both the motion picture and the number-one bestseller terrifying. Repeating the adjective connects the book’s reputation with the film being promoted. The wording is an advertising claim; the poster alone cannot establish a sales ranking or every viewer’s response.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A novel becomes a film",
+      "body": "The BFI identifies Jaws as a 1975 film directed by Steven Spielberg and based on Peter Benchley’s novel. This supports the adaptation relationship invoked by the tagline. It does not independently verify the particular ranking asserted in the poster’s promotional wording.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "bfi"
+       }
+      ]
+     }
+    ],
+    "question": "What does repeating “terrifying” ask you to carry from the book to the film?",
+    "related": [
+     "title",
+     "credits",
+     "mouth"
+    ],
+    "number": 7
+   },
+   {
+    "id": "cast",
+    "label": "Three prominent names",
+    "shortLabel": "Three prominent names",
+    "kicker": "Look closely",
+    "summary": "People return below the animal image.",
+    "layerIndex": 5,
+    "x": 51.128,
+    "y": 78,
+    "bounds": {
+     "x": 25,
+     "y": 74,
+     "w": 52,
+     "h": 8
+    },
+    "tags": [
+     "business",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "Names after the picture",
+      "body": "Roy Scheider, Robert Shaw and Richard Dreyfuss appear in larger lettering than most of the lower credits. They form a compact block below the illustration. The layout offers the image first, then recognisable performers, then more detailed production information at a smaller scale.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A different grouping",
+      "body": "Universal lists those three performers among the film’s stars. Their prominent billing belongs to the film’s human story, while the illustration singles out a swimmer and shark. The names and image therefore advertise different aspects of the same film rather than illustrating every billed person.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "universal"
+       }
+      ]
+     }
+    ],
+    "question": "How would putting these names above the title change your first impression?",
+    "related": [
+     "tagline",
+     "credits",
+     "swimmer"
+    ],
+    "number": 8
+   },
+   {
+    "id": "credits",
+    "label": "The production block",
+    "shortLabel": "The production block",
+    "kicker": "Words and meaning",
+    "summary": "Dense small type changes the reading distance.",
+    "layerIndex": 5,
+    "x": 50.075,
+    "y": 88.5,
+    "bounds": {
+     "x": 15,
+     "y": 84,
+     "w": 70,
+     "h": 9
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "From glance to inspection",
+      "body": "Below the larger names, many narrow lines gather into a dense white block. The individual words require a closer look than the title or shark. Their scale creates a second reading distance: the poster can register quickly, while still carrying detailed acknowledgements.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Several jobs on one sheet",
+      "body": "The large image attracts attention, the title identifies the film, and the lower block records production information. These are distinct communication tasks. A hierarchy can make them coexist, although this reproduction is too small to support a trustworthy transcription of every credit.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which information can you read at a glance, and which asks you to come closer?",
+    "related": [
+     "cast",
+     "frame",
+     "rating"
+    ],
+    "number": 9
+   },
+   {
+    "id": "rating",
+    "label": "The PG box",
+    "shortLabel": "The PG box",
+    "kicker": "Look closely",
+    "summary": "A small rating sits beside a caution.",
+    "layerIndex": 5,
+    "x": 24.962,
+    "y": 95,
+    "bounds": {
+     "x": 15,
+     "y": 93,
+     "w": 20,
+     "h": 4
+    },
+    "tags": [
+     "business",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "Guidance at the bottom",
+      "body": "A boxed PG mark appears in the lower strip beside a small caution about intensity for younger children. This is practical viewing guidance placed after the attraction of the central image. The box gives the rating a different shape from the surrounding lines of credits.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A checked classification",
+      "body": "Universal’s film page also lists a PG rating. That supports reading the visible mark as a classification, not as another production company logo. It does not make an old promotional sheet a substitute for current, local viewing guidance in every country.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "universal"
+       }
+      ]
+     }
+    ],
+    "question": "Why might a rating use a box when the adjacent credits do not?",
+    "related": [
+     "credits",
+     "tagline"
+    ],
+    "number": 10
+   },
+   {
+    "id": "frame",
+    "label": "The black surround",
+    "shortLabel": "The black surround",
+    "kicker": "Look closely",
+    "summary": "A dark border encloses a much lighter image.",
+    "layerIndex": 0,
+    "x": 9.023,
+    "y": 51.5,
+    "bounds": {
+     "x": 3,
+     "y": 12,
+     "w": 12,
+     "h": 79
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An image inside the sheet",
+      "body": "The white-and-blue illustration is inset within a wide black surround. The black provides room for the tagline above and credits below, while the pale image panel becomes a clearly bounded scene. A narrow outer pale margin separates that structure from the edge of the reproduction.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Two kinds of darkness",
+      "body": "The black frame is flat and graphic; the shark’s mouth is dark within a depicted space. Their tones relate, but their jobs differ. Cover the frame and notice whether the illustration feels more like an isolated picture than part of an advertisement.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What does the frame do that the darkness inside the mouth cannot?",
+    "related": [
+     "mouth",
+     "water",
+     "credits"
+    ],
+    "number": 11
+   }
+  ],
+  "sources": [
+   {
+    "id": "universal",
+    "title": "Universal Pictures: Jaws",
+    "url": "https://www.universalpicturesathome.com/movies/jaws",
+    "kind": "Primary source",
+    "summary": "Verifies the 1975 film, shark-attack premise, principal cast, director and PG classification."
+   },
+   {
+    "id": "bfi",
+    "title": "BFI: Jaws (1975)",
+    "url": "https://www.bfi.org.uk/film/98b20662-5754-5b8a-8e69-38fbec0d85c2/jaws",
+    "kind": "Primary source",
+    "summary": "Identifies Spielberg’s film and its adaptation from Peter Benchley’s novel; not evidence for the poster’s bestseller ranking."
+   }
+  ],
+  "tour": [
+   "swimmer",
+   "surface",
+   "snout",
+   "mouth",
+   "title",
+   "tagline"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected wording on this edition",
+    "rows": [
+     {
+      "text": "JAWS",
+      "meaning": "Film title; the plural of jaw",
+      "lang": "en"
+     },
+     {
+      "text": "Roy Scheider · Robert Shaw · Richard Dreyfuss",
+      "meaning": "Prominently billed performers",
+      "lang": "en"
+     },
+     {
+      "text": "PG",
+      "meaning": "Rating mark printed on this edition",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected large wording only. Fine credits and the full small-print caution are not transcribed; the promotional ranking is treated as a claim on the sheet.",
+  "palette": [
+   {
+    "name": "Title red",
+    "hex": "#b40816",
+    "role": "Four letters sit above the water.",
+    "region": "title"
+   },
+   {
+    "name": "Water blue",
+    "hex": "#2287a5",
+    "role": "Open water gives the approach room.",
+    "region": "water"
+   },
+   {
+    "name": "Black surround",
+    "hex": "#02020c",
+    "role": "A dark border encloses a much lighter image.",
+    "region": "frame"
+   },
+   {
+    "name": "Pale panel",
+    "hex": "#ffffff",
+    "role": "Four letters sit above the water.",
+    "region": "title"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in this installed reproduction. They describe this image, not original printing inks or a colour standard.",
+  "connections": [
+   {
+    "label": "Scale of threat",
+    "title": "A tiny horizontal body above a rising mass",
+    "text": "The swimmer extends sideways at the surface. Far below, the shark points straight upward and grows much wider toward the lower edge.",
+    "anchors": [
+     [
+      3,
+      0.5406015037593985,
+      0.2875
+     ],
+     [
+      2,
+      0.5045112781954887,
+      0.4305
+     ],
+     [
+      2,
+      0.5180451127819549,
+      0.6205
+     ]
+    ],
+    "id": "jaws-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Red above blue",
+    "title": "The title announces the collision",
+    "text": "The dense red word sits immediately over the narrow waterline. Its compact shape contrasts with the deep blue space that separates swimmer and shark.",
+    "anchors": [
+     [
+      4,
+      0.5030075187969925,
+      0.2035
+     ],
+     [
+      3,
+      0.5496240601503759,
+      0.2875
+     ],
+     [
+      1,
+      0.7195488721804512,
+      0.4005
+     ]
+    ],
+    "id": "jaws-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

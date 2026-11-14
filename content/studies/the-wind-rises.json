@@ -1,0 +1,1982 @@
+{
+ "poster": {
+  "id": "the-wind-rises",
+  "title": "The Wind Rises",
+  "year": "2013",
+  "yearNumber": 2013,
+  "country": "Japan",
+  "countries": [
+   "Japan"
+  ],
+  "primaryOrigin": "Japan",
+  "category": "Film",
+  "image": "images/full/the-wind-rises.jpg",
+  "thumb": "images/catalogue/the-wind-rises.webp",
+  "imageWidth": 1064,
+  "imageHeight": 1500,
+  "ratio": 0.7093,
+  "alt": "The Wind Rises: blue sky and clouds above a man in a lavender jacket, with black calligraphy and a pink Japanese title.",
+  "blurb": "An expanse of blue. A human gesture. A vivid pink title. Eighteen ways into one image.",
+  "credit": "Poster © 2013 Nibariki · GNDHDDTK."
+ },
+ "studyData": {
+  "intro": "Follow a word, a colour, a gesture. There is a whole world inside this image.",
+  "initial": "calligraphy",
+  "regions": [
+   {
+    "id": "studio",
+    "number": 1,
+    "label": "The studio signs the image",
+    "shortLabel": "Studio signature",
+    "kicker": "A FAMILIAR NAME",
+    "summary": "A small mark brings a whole set of expectations.",
+    "x": 7,
+    "y": 5,
+    "bounds": {
+     "x": 2,
+     "y": 2,
+     "w": 13,
+     "h": 6
+    },
+    "tags": [
+     "language",
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A Studio Ghibli film",
+      "body": "作品 means a work or creation; here, “film” is the natural English choice.",
+      "japanese": "スタジオジブリ作品 / STUDIO GHIBLI",
+      "reading": "Sutajio Jiburi sakuhin",
+      "translation": "A Studio Ghibli film / Studio Ghibli",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "poster",
+        "note": "The upper-left signature reads スタジオジブリ作品 / STUDIO GHIBLI. The English rendering here translates that visible inscription."
+       }
+      ]
+     },
+     {
+      "kind": "design",
+      "heading": "Recognition without taking over",
+      "body": "White lettering stands out on dark blue. Its modest size leaves the illustration dominant while letting an informed viewer recognise the studio.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "business",
+      "heading": "Authorship is also a signal",
+      "body": "A studio name can help viewers decide what to expect. The poster itself does not tell us how much this recognition affected ticket sales.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What do you expect before reading the title, simply from seeing this name?",
+    "related": [
+     "director",
+     "production"
+    ]
+   },
+   {
+    "id": "calligraphy",
+    "number": 2,
+    "label": "The brush-written call to live",
+    "shortLabel": "We must live",
+    "kicker": "THE SLOGAN",
+    "summary": "Four forceful syllables make the sky speak.",
+    "x": 51,
+    "y": 18,
+    "bounds": {
+     "x": 41,
+     "y": 5,
+     "w": 19,
+     "h": 29
+    },
+    "tags": [
+     "language",
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A compact statement of resolve",
+      "body": "The subject is unstated. This shortened literary expression means “must live”; the longer English rendering conveys persistence.",
+      "japanese": "生きねば。",
+      "reading": "Iki neba.",
+      "translation": "We must live. / We must go on living.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "poster",
+        "note": "The poster supplies the exact wording 生きねば。 The English wording is a translation; the Japanese leaves its subject unstated."
+       }
+      ]
+     },
+     {
+      "kind": "design",
+      "heading": "A hand, not an identified font",
+      "body": "Producer Toshio Suzuki wrote the slogan. Thick and thin strokes, rough edges and uneven spacing preserve the movement of the brush.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "lettering",
+        "note": "Miyazaki identifies Suzuki as the writer of 生きねば and comments on its size relative to the title."
+       },
+       {
+        "id": "lettering-report",
+        "note": "The contemporary announcement also credits the slogan to Suzuki. These accounts establish authorship, rather than a font name."
+       }
+      ]
+     },
+     {
+      "kind": "context",
+      "heading": "Resolve above a hopeful scene",
+      "body": "The words can make the beautiful sky feel less carefree: living becomes something to undertake with determination. This is a reading of the juxtaposition.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would the message feel equally urgent in a perfectly even sans-serif?",
+    "related": [
+     "title",
+     "dedication",
+     "sky"
+    ]
+   },
+   {
+    "id": "dedication",
+    "number": 3,
+    "label": "Two names, two kinds of legacy",
+    "shortLabel": "The dedication",
+    "kicker": "ENGINEER × WRITER",
+    "summary": "The two names reveal the film’s unusual starting point.",
+    "x": 63,
+    "y": 13,
+    "bounds": {
+     "x": 59,
+     "y": 4,
+     "w": 9,
+     "h": 20
+    },
+    "tags": [
+     "language",
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Read down, then across",
+      "body": "Start with the right-hand column, then move to the left. と links the names; 敬意を込めて means “with respect.”",
+      "japanese": "堀越二郎と堀辰雄に 敬意を込めて。",
+      "reading": "Horikoshi Jirō to Hori Tatsuo ni, keii o komete.",
+      "translation": "In tribute to Jirō Horikoshi and Tatsuo Hori.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "poster",
+        "note": "The two vertical columns contain the names Horikoshi Jirō and Hori Tatsuo and the expression 敬意を込めて."
+       },
+       {
+        "id": "layout",
+        "note": "The reading order follows the standard convention for vertical Japanese: down each column, moving from the right-hand column to the left."
+       }
+      ]
+     },
+     {
+      "kind": "context",
+      "heading": "Two lives, one fictional protagonist",
+      "body": "Ghibli says Miyazaki combined elements of aircraft designer Horikoshi and writer Hori. The result is imaginative historical storytelling, rather than a literal biography.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "era",
+        "note": "Ghibli explicitly describes bringing Horikoshi and Hori together in one fictional Jirō. The protagonist should not be treated as a literal biography of either man."
+       }
+      ]
+     },
+     {
+      "kind": "design",
+      "heading": "A quieter inscription",
+      "body": "Fine, restrained lettering sits beside the much heavier slogan. The exact typeface cannot be identified reliably from this image.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "What changes when an aircraft story is dedicated to both an engineer and a writer?",
+    "related": [
+     "aircraft",
+     "portrait",
+     "title"
+    ]
+   },
+   {
+    "id": "aircraft",
+    "number": 4,
+    "label": "Flight, beauty and responsibility",
+    "shortLabel": "The aircraft",
+    "kicker": "DESIGN IN MOTION",
+    "summary": "A diagonal machine opens a question about making.",
+    "x": 30,
+    "y": 25,
+    "bounds": {
+     "x": 0,
+     "y": 17,
+     "w": 73,
+     "h": 21
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "The picture extends beyond the sheet",
+      "body": "A wing runs off the left edge; pale surfaces separate from the blue; the blurred propeller suggests movement. The diagonal gives the otherwise vertical poster energy.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Beautiful design, difficult consequences",
+      "body": "Miyazaki’s proposal describes an engineer devoted to beautiful aircraft while warning that beauty can carry a cost. ",
+      "interpretation": "This invites a question about responsibility for the uses of one’s work.",
+      "note": "This explorer does not identify the pictured aircraft as a particular model.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "proposal",
+        "note": "The proposal links the pursuit of beautiful aircraft with the cost that beauty can carry. The question about responsibility is our reading, not a quoted statement of the poster’s intent."
+       }
+      ]
+     }
+    ],
+    "question": "Does excellence in making something settle whether it ought to be made?",
+    "related": [
+     "glasses",
+     "dedication",
+     "clouds"
+    ]
+   },
+   {
+    "id": "sky",
+    "number": 5,
+    "label": "Blue space to look into",
+    "shortLabel": "The blue sky",
+    "kicker": "COLOUR & OPEN SPACE",
+    "summary": "The emptiest part does some of the most important work.",
+    "x": 86,
+    "y": 16,
+    "bounds": {
+     "x": 74,
+     "y": 2,
+     "w": 24,
+     "h": 41
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Room for the eye",
+      "body": "The broad blue field keeps the smaller forms legible. Openness can suggest possibility here, but blue has no single universal emotional meaning.",
+      "facts": [
+       {
+        "label": "Approximate screen sample",
+        "value": "#195D94"
+       }
+      ],
+      "note": "Samples come from a JPEG, not original printing specifications.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "context",
+      "heading": "History in living colour",
+      "body": "For the film, Miyazaki asked for beautiful skies and white clouds and rejected sepia treatment of period architecture. ",
+      "interpretation": "This vivid poster is consistent with that direction; its precise intention is not documented.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "proposal",
+        "note": "The visual direction calls for beautiful skies and white clouds and rejects sepia period architecture. This concerns the film; the connection to the poster is an interpretation."
+       }
+      ]
+     }
+    ],
+    "question": "What becomes harder to notice if this open sky is filled with more objects?",
+    "related": [
+     "clouds",
+     "calligraphy",
+     "title"
+    ]
+   },
+   {
+    "id": "clouds",
+    "number": 6,
+    "label": "Clouds that make space",
+    "shortLabel": "Clouds & depth",
+    "kicker": "LIGHT, SHADOW, SCALE",
+    "summary": "Soft forms give the aircraft a world to move through.",
+    "x": 48,
+    "y": 40,
+    "bounds": {
+     "x": 24,
+     "y": 28,
+     "w": 57,
+     "h": 26
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A cloud is more than white",
+      "body": "Blue-grey shadows and light edges create volume. Rounded forms contrast with straight wings and bridge the upper aircraft and lower figure.",
+      "facts": [
+       {
+        "label": "Light screen sample",
+        "value": "#CBD8DE"
+       }
+      ],
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Beauty is a selective view",
+      "body": "The expansive cloud can feel dreamlike. The poster offers one beautiful view of a story whose setting also includes disaster, illness and war; it cannot contain the whole story.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What happens to the sense of distance if you mentally remove the cloud?",
+    "related": [
+     "sky",
+     "aircraft",
+     "portrait"
+    ]
+   },
+   {
+    "id": "portrait",
+    "number": 7,
+    "label": "A human point of entry",
+    "shortLabel": "Jirō’s portrait",
+    "kicker": "PERSON & PERIOD",
+    "summary": "A calm face draws us into an unsettled world.",
+    "x": 77,
+    "y": 68,
+    "bounds": {
+     "x": 55,
+     "y": 56,
+     "w": 33,
+     "h": 20
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Looking up rather than out",
+      "body": "Warm skin and dark contours stand out against cool surroundings. The raised chin directs attention upwards. Curiosity or anticipation are plausible readings, not certain emotions.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "context",
+      "heading": "Modern ambitions, difficult conditions",
+      "body": "The film moves from Taishō Japan into early Shōwa. Its setting includes the 1923 Great Kantō Earthquake, economic depression, tuberculosis and Japan’s movement towards war.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "disney",
+        "note": "The official synopsis places Jirō’s story in Taishō and early Shōwa Japan, amid hardship and upheaval."
+       },
+       {
+        "id": "notes",
+        "note": "The production notes describe the earthquake, depression, illness and approach of war that frame the story."
+       }
+      ]
+     }
+    ],
+    "question": "Would a direct gaze at you tell a different story from this upward gaze?",
+    "related": [
+     "glasses",
+     "dedication",
+     "aircraft"
+    ]
+   },
+   {
+    "id": "glasses",
+    "number": 8,
+    "label": "Another way to follow a dream",
+    "shortLabel": "The spectacles",
+    "kicker": "A SMALL CHARACTER CLUE",
+    "summary": "The spectacles connect appearance with a life choice.",
+    "x": 72,
+    "y": 61,
+    "bounds": {
+     "x": 59,
+     "y": 57,
+     "w": 25,
+     "h": 12
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A recognisable rhythm",
+      "body": "Two dark circular frames give the face a strong identifying feature. Their weight keeps them visible even when the whole poster is small.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "From flying to designing",
+      "body": "The official synopsis says Jirō’s nearsightedness prevents him becoming a pilot, so he pursues aircraft design. ",
+      "interpretation": "Connecting the visible glasses with this theme is an interpretive step.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "notes",
+        "note": "The synopsis in the production notes links Jirō’s nearsightedness to his choice of aircraft design rather than piloting. Reading the pictured glasses as a sign of that choice is interpretive."
+       }
+      ]
+     }
+    ],
+    "question": "When one path closes, what other role might still serve the same ambition?",
+    "related": [
+     "aircraft",
+     "portrait",
+     "clothing"
+    ]
+   },
+   {
+    "id": "hat",
+    "number": 9,
+    "label": "Making the wind visible",
+    "shortLabel": "Hat & gesture",
+    "kicker": "AN INVISIBLE FORCE",
+    "summary": "A hand and a brim can suggest what we cannot see.",
+    "x": 78,
+    "y": 49,
+    "bounds": {
+     "x": 53,
+     "y": 45,
+     "w": 42,
+     "h": 17
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A frame for the face",
+      "body": "The broad curved hat frames the dark hair. The raised arm and hand near the brim can be read as steadying it outdoors.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A gesture with a possible story",
+      "body": "That reading makes wind visible through its effect on a person. It connects pose, sky and title. The picture alone does not establish an exact hat model or its owner’s social class.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How can a still picture suggest a force you cannot actually see?",
+    "related": [
+     "title",
+     "clothing",
+     "sky"
+    ]
+   },
+   {
+    "id": "clothing",
+    "number": 10,
+    "label": "The soft foreground silhouette",
+    "shortLabel": "Jacket & tie",
+    "kicker": "COLOUR & CHARACTER",
+    "summary": "Muted clothing leaves room for a vivid title.",
+    "x": 32,
+    "y": 62,
+    "bounds": {
+     "x": 17,
+     "y": 51,
+     "w": 39,
+     "h": 27
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Lavender, then a blue echo",
+      "body": "The pale jacket creates a large, gentle foreground shape. The blue tie repeats the sky within the figure and gives the pink title a quieter background.",
+      "facts": [
+       {
+        "label": "Jacket sample",
+        "value": "#CDBED3"
+       },
+       {
+        "label": "Tie sample",
+        "value": "#3A7896"
+       }
+      ],
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Dressed for a modern professional life?",
+      "body": "Jacket, collared shirt and tie make the figure look formally dressed. A professional identity is a plausible reading in this story; clothing alone cannot establish occupation, wealth or rank.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How would the image change if the jacket were saturated red?",
+    "related": [
+     "title",
+     "portrait",
+     "hat"
+    ]
+   },
+   {
+    "id": "director",
+    "number": 11,
+    "label": "A name as a promise",
+    "shortLabel": "The director",
+    "kicker": "AUTHORSHIP",
+    "summary": "The creator’s name becomes part of the invitation.",
+    "x": 48,
+    "y": 75,
+    "bounds": {
+     "x": 33,
+     "y": 73,
+     "w": 34,
+     "h": 5
+    },
+    "tags": [
+     "language",
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A film by Hayao Miyazaki",
+      "body": "監督 means director; 作品 means work. Ghibli also credits Miyazaki with the original work and screenplay.",
+      "japanese": "宮崎 駿 監督作品",
+      "reading": "Miyazaki Hayao kantoku sakuhin",
+      "translation": "A film directed by Hayao Miyazaki.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "ghibli",
+        "note": "The official record credits Miyazaki with the original work, screenplay and direction, supporting the authorship described in this note."
+       }
+      ]
+     },
+     {
+      "kind": "design",
+      "heading": "Compact and authoritative",
+      "body": "Heavy Gothic/sans-serif-style Japanese lettering contrasts with the irregular title. Its position makes authorship prominent. The exact font family is unidentified.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A creator can be a recognition cue",
+      "body": "For viewers familiar with his work, a director’s name may carry expectations before they know the plot. This is a marketing reading, not a measured sales effect.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "When is a creator’s name as persuasive as the story being advertised?",
+    "related": [
+     "studio",
+     "title",
+     "production"
+    ]
+   },
+   {
+    "id": "title",
+    "number": 12,
+    "label": "The title rises in pink",
+    "shortLabel": "The pink title",
+    "kicker": "LANGUAGE & LETTERING",
+    "summary": "Literary words become the poster’s boldest colour accent.",
+    "x": 47,
+    "y": 85,
+    "bounds": {
+     "x": 4,
+     "y": 77,
+     "w": 92,
+     "h": 15
+    },
+    "tags": [
+     "language",
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "The wind has risen",
+      "body": "風 means wind. Here ぬ is a classical completion ending, giving the title an older literary register.",
+      "japanese": "風立ちぬ",
+      "reading": "Kaze tachinu",
+      "translation": "The Wind Rises; more literally, “The wind has risen.”",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "ghibli",
+        "note": "Ghibli’s record confirms the Japanese film title, 風立ちぬ."
+       },
+       {
+        "id": "grammar",
+        "note": "PDF page 38 explains the completion ending ぬ: the wind has arisen and continues. This supports the literal reading, rather than treating ぬ as a negative."
+       }
+      ]
+     },
+     {
+      "kind": "design",
+      "heading": "Custom lettering with a vivid accent",
+      "body": "Miyazaki wrote the title lettering. Irregular contours and a dark outline hold the large pink forms together over clothing and cloud.",
+      "facts": [
+       {
+        "label": "Approximate pink sample",
+        "value": "#E8528F"
+       }
+      ],
+      "note": "Pink alone does not establish an intended audience’s gender.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "lettering",
+        "note": "Miyazaki says he wrote 風立ちぬ. The transcript establishes who made the lettering, not why pink was chosen."
+       },
+       {
+        "id": "lettering-report",
+        "note": "The April 2013 report corroborates Miyazaki’s title-lettering credit. The colour and outline described above can be inspected in the poster itself."
+       }
+      ]
+     },
+     {
+      "kind": "context",
+      "heading": "A phrase travels between art forms",
+      "body": "The title comes from Hori’s novel. Miyazaki’s proposal traces the phrase to Hori’s Japanese rendering of a line by French poet Paul Valéry.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "proposal",
+        "note": "The proposal connects the title to Hori’s novel and Hori’s rendering of Valéry’s line, establishing its literary route into the film."
+       }
+      ]
+     }
+    ],
+    "question": "Where does your eye go first: the title, the face or the calligraphy?",
+    "related": [
+     "calligraphy",
+     "dedication",
+     "sky"
+    ]
+   },
+   {
+    "id": "cast",
+    "number": 13,
+    "label": "The voices behind the faces",
+    "shortLabel": "Voice cast",
+    "kicker": "THE FIRST CREDIT LINE",
+    "summary": "The smallest names make human performance visible.",
+    "x": 18,
+    "y": 93,
+    "bounds": {
+     "x": 7,
+     "y": 92,
+     "w": 85,
+     "h": 1.5
+    },
+    "tags": [
+     "language",
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "The voice performers",
+      "body": "These are people’s names, read left to right. The full transcription appears in the transcript.",
+      "japanese": "庵野秀明・瀧本美織・西島秀俊 …",
+      "translation": "Hideaki Anno · Miori Takimoto · Hidetoshi Nishijima …",
+      "facts": [
+       {
+        "label": "Anno",
+        "value": "Jirō"
+       },
+       {
+        "label": "Takimoto",
+        "value": "Nahoko"
+       },
+       {
+        "label": "Nishijima",
+        "value": "Honjō"
+       }
+      ],
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "disney",
+        "note": "The official credits pair Hideaki Anno with Jirō, Miori Takimoto with Nahoko and Hidetoshi Nishijima with Honjō."
+       }
+      ]
+     },
+     {
+      "kind": "design",
+      "heading": "A second reading speed",
+      "body": "The compressed horizontal line rewards a closer look. Image and title work at a distance; these names ask the viewer to slow down.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Whose labour is visible in large letters, and whose appears only in small print?",
+    "related": [
+     "music",
+     "director",
+     "production"
+    ]
+   },
+   {
+    "id": "music",
+    "number": 14,
+    "label": "The poster hints at a soundtrack",
+    "shortLabel": "Music & creators",
+    "kicker": "WORDS YOU CANNOT HEAR",
+    "summary": "One short line connects image, music and publishing.",
+    "x": 47,
+    "y": 94.5,
+    "bounds": {
+     "x": 13,
+     "y": 93.7,
+     "w": 75,
+     "h": 1.3
+    },
+    "tags": [
+     "language",
+     "context",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Music and theme song",
+      "body": "サントラ abbreviates “soundtrack.” The same line credits Miyazaki’s original work, screenplay and direction, and its magazine serialisation.",
+      "japanese": "音楽／久石 譲　主題歌／「ひこうき雲」荒井由実",
+      "translation": "Music: Joe Hisaishi. Theme song: “Hikōki-gumo” (“Vapor Trail” or “Contrail”) by Yumi Arai.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "disney",
+        "note": "The credits name Joe Hisaishi for music and Yumi Arai’s “Hikōki-gumo” as the theme song. They also list Miyazaki’s roles and the magazine serialisation."
+       }
+      ]
+     },
+     {
+      "kind": "business",
+      "heading": "Several media meet in one line",
+      "body": "The printed credits connect a film with Model Graphix magazine, Tokuma Japan Communications and EMI Records Japan. They reveal a broader creative and commercial network without disclosing its contracts.",
+      "evidence": "observation",
+      "sources": [
+       {
+        "id": "poster",
+        "note": "Model Graphix, Tokuma Japan Communications and EMI Records Japan are printed in the creative-credit line. The image does not disclose their contractual arrangements."
+       }
+      ]
+     }
+    ],
+    "question": "How much can a silent poster make you anticipate a film’s sound?",
+    "related": [
+     "cast",
+     "title",
+     "production"
+    ]
+   },
+   {
+    "id": "production",
+    "number": 15,
+    "label": "A coalition behind the film",
+    "shortLabel": "Production partners",
+    "kicker": "THE INDUSTRY IN SMALL PRINT",
+    "summary": "A single artwork carries many organisations.",
+    "x": 30,
+    "y": 95.8,
+    "bounds": {
+     "x": 17,
+     "y": 95,
+     "w": 43,
+     "h": 1.3
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Made in association with…",
+      "body": "The partner line names Studio Ghibli, Nippon Television, Dentsu, Hakuhodo DYMP, Disney, Mitsubishi Corporation, Toho and KDDI.",
+      "japanese": "… 提携作品",
+      "translation": "A film made in association with the listed companies.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "jfdb",
+        "note": "The industry record lists the eight production partners named in this note, providing a check against the compact company-credit line."
+       }
+      ]
+     },
+     {
+      "kind": "business",
+      "heading": "Different jobs in the same ecosystem",
+      "body": "UNIJAPAN identifies Studio Ghibli as the production studio and Toho as Japanese distributor. A company credit does not disclose its investment, revenue share or creative control.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "jfdb",
+        "note": "The record distinguishes Studio Ghibli as production studio and Toho as Japanese distributor. It provides no basis for assigning investment shares or creative control."
+       }
+      ]
+     }
+    ],
+    "question": "What expertise is needed between a creative idea and a cinema release?",
+    "related": [
+     "director",
+     "sponsors",
+     "release"
+    ]
+   },
+   {
+    "id": "sponsors",
+    "number": 16,
+    "label": "From cinema to the phone shop",
+    "shortLabel": "Sponsors & reach",
+    "kicker": "PARTNERSHIP IN ACTION",
+    "summary": "A tiny credit opens a much bigger marketing story.",
+    "x": 71,
+    "y": 95.8,
+    "bounds": {
+     "x": 58,
+     "y": 95,
+     "w": 27,
+     "h": 1.3
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Sponsor, supporters, distributor",
+      "body": "These labels distinguish the roles printed on the poster.",
+      "japanese": "特別協賛／KDDI　特別協力／ローソン、読売新聞　配給／東宝",
+      "translation": "Special sponsor: KDDI. Special cooperation: Lawson and Yomiuri Shimbun. Distributor: Toho.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "poster",
+        "note": "The lower credit line separates special sponsorship, special cooperation and distribution. These are the roles printed on this poster."
+       }
+      ]
+     },
+     {
+      "kind": "business",
+      "heading": "A real 2013 campaign",
+      "body": "KDDI’s au loves Ghibli campaign collected fan letters, offered special videos and gave limited folding-fan gifts to new au Smart Pass subscribers. The credit connects to activity beyond the cinema.",
+      "note": "This was a historical campaign, not a current offer.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "kddi",
+        "note": "KDDI announced a July–September 2013 campaign with fan letters and special videos. Limited folding fans were offered to eligible new au Smart Pass subscribers while stocks lasted."
+       }
+      ]
+     }
+    ],
+    "question": "What might a film studio and a telecom company each gain from a partnership?",
+    "related": [
+     "production",
+     "release",
+     "studio"
+    ]
+   },
+   {
+    "id": "release",
+    "number": 17,
+    "label": "An invitation with a date",
+    "shortLabel": "Opening day",
+    "kicker": "FROM ATTENTION TO ACTION",
+    "summary": "The bottom line tells the viewer what to do next.",
+    "x": 48,
+    "y": 98,
+    "bounds": {
+     "x": 31,
+     "y": 96.5,
+     "w": 37,
+     "h": 2.5
+    },
+    "tags": [
+     "language",
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Saturday, 20 July",
+      "body": "The date is the Japanese cinema opening in 2013. 全国 means nationwide; ロードショー here announces a theatrical release.",
+      "japanese": "7月20日(土)全国ロードショー",
+      "translation": "In cinemas nationwide from Saturday, 20 July.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "ghibli",
+        "note": "The official release date is 20 July 2013. It supplies the year omitted from the poster’s opening-day line."
+       }
+      ]
+     },
+     {
+      "kind": "business",
+      "heading": "A practical answer after an emotional image",
+      "body": "The imagery attracts attention; the release line supplies a time and place to act. Its bold, orderly type makes the information quick to retrieve.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does an advertisement turn curiosity into a real-world action?",
+    "related": [
+     "sponsors",
+     "footer",
+     "title"
+    ]
+   },
+   {
+    "id": "footer",
+    "number": 18,
+    "label": "The poster’s small-print edge",
+    "shortLabel": "Website & marks",
+    "kicker": "WHAT WE CAN VERIFY",
+    "summary": "Addresses, ownership and the limits of a small image.",
+    "x": 90,
+    "y": 98,
+    "bounds": {
+     "x": 85,
+     "y": 96.2,
+     "w": 14,
+     "h": 3.5
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Website and copyright",
+      "body": "The website is transcribed as printed. Nibariki is a company name; the letter sequence is retained unchanged.",
+      "japanese": "kazetachinu.jp　©2013 二馬力・GNDHDDTK　東宝",
+      "translation": "kazetachinu.jp · © 2013 Nibariki · GNDHDDTK · Toho",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "poster",
+        "note": "The web address and copyright sequence are transcribed from the original image. The printed address is historical; it is not a recommendation to visit it today."
+       },
+       {
+        "id": "toho",
+        "note": "TOHO identifies its reprint as the second theatrical poster and retains the original 2013 copyright credit, providing an official cross-check."
+       }
+      ]
+     },
+     {
+      "kind": "language",
+      "heading": "Two details remain unresolved",
+      "body": "Only グループ (“group”) is securely readable in the caption beside the pig-shaped mark. The fine details and number of the far-right certification mark remain unclear.",
+      "note": "A sharper original is needed. Missing characters have not been supplied by guesswork.",
+      "evidence": "uncertain"
+     },
+     {
+      "kind": "business",
+      "heading": "A route beyond the paper",
+      "body": "The printed web address gives viewers a route from a physical poster to further film information. It makes the poster an entry point into a larger promotion.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "When should a careful reader record uncertainty instead of completing a pattern?",
+    "related": [
+     "studio",
+     "production",
+     "release"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The original Japanese theatrical poster, version 2",
+    "url": "https://www.impawards.com/intl/japan/2013/kaze_tachinu_ver2.html",
+    "kind": "Visual source",
+    "summary": "The reproduced poster is the visual record for its Japanese wording, credits, colours and layout. English translations and visual readings are supplied by Poster Atlas."
+   },
+   {
+    "id": "toho",
+    "title": "TOHO: official reprint of the second theatrical poster",
+    "url": "https://tohoentertainmentonline.com/shop/g/gTASG02732b/",
+    "kind": "Official distributor",
+    "summary": "TOHO describes this product as a reprint of the second theatrical poster. Its listing helps identify the poster edition and the original 2013 copyright line."
+   },
+   {
+    "id": "ghibli",
+    "title": "Studio Ghibli: The Wind Rises",
+    "url": "https://www.ghibli.jp/works/kazetachinu/",
+    "kind": "Official film record",
+    "summary": "Ghibli’s film record lists the principal creators, cast, running time, Japanese distributor and 20 July 2013 opening date."
+   },
+   {
+    "id": "era",
+    "title": "Studio Ghibli: July 2013 studio newsletter",
+    "url": "https://www.ghibli.jp/info/009338/",
+    "kind": "Studio statement",
+    "summary": "The studio’s July 2013 newsletter explains how Miyazaki brought together aircraft designer Jirō Horikoshi and writer Tatsuo Hori in a fictional protagonist."
+   },
+   {
+    "id": "disney",
+    "title": "Disney Japan: synopsis and complete credits",
+    "url": "https://www.waltdisneystudios.jp/studio/ghibli/1265",
+    "kind": "Official distributor",
+    "summary": "Disney Japan provides the film’s synopsis and credits, including character–performer pairings, music, theme song and publishing credits."
+   },
+   {
+    "id": "proposal",
+    "title": "Miyazaki’s project proposal, reproduced on the theatrical flyer (page 2)",
+    "url": "https://eiga-chirashi.jp/130704/130704000002.pdf#page=2",
+    "kind": "Primary document",
+    "summary": "Miyazaki’s proposal discusses beautiful aircraft, the costs of that pursuit, the film’s literary roots and its intended visual world. It does not document every choice in this poster."
+   },
+   {
+    "id": "notes",
+    "title": "Studio Ghibli / Wild Bunch production notes, reproduced by SciFi Japan",
+    "url": "https://www.scifijapan.com/events/637-the-wind-rises-production-notes",
+    "kind": "Studio notes reproduced",
+    "summary": "These studio production notes describe Jirō’s nearsightedness, his path into aircraft design and the film’s historical setting. They are a historical publicity document."
+   },
+   {
+    "id": "jfdb",
+    "title": "UNIJAPAN: The Wind Rises production and distribution record",
+    "url": "https://jfdb.jp/en/title/3834",
+    "kind": "Industry film record",
+    "summary": "UNIJAPAN identifies the production partners, production studio and Japanese distributor. These credits do not disclose investment shares or creative control."
+   },
+   {
+    "id": "kddi",
+    "title": "KDDI: au loves Ghibli campaign, 4 July 2013",
+    "url": "https://prtimes.jp/main/html/rd/p/000000072.000001475.html",
+    "kind": "Company press release",
+    "summary": "KDDI’s July 2013 announcement describes the au loves Ghibli campaign, including fan letters, special videos and limited folding-fan gifts. It is a historical promotion."
+   },
+   {
+    "id": "lettering",
+    "title": "Miyazaki’s 2013 press conference: title lettering and Suzuki’s slogan",
+    "url": "https://www.itmedia.co.jp/news/article/1309/06/1130906133/8",
+    "kind": "First-person testimony",
+    "summary": "In the September 2013 press-conference transcript, Miyazaki says he wrote the title and Toshio Suzuki wrote the larger “must live” slogan."
+   },
+   {
+    "id": "lettering-report",
+    "title": "CinemaToday: announcement and lettering credits, April 2013",
+    "url": "https://www.cinematoday.jp/news/N0052465",
+    "kind": "Contemporary reporting",
+    "summary": "This April 2013 report independently records the lettering credits: the title by Hayao Miyazaki and the slogan by Toshio Suzuki."
+   },
+   {
+    "id": "grammar",
+    "title": "Otemae University: the classical grammar of 風立ちぬ",
+    "url": "https://www.otemae.ac.jp/wp-content/uploads/2016/01/7d7ada1e3fadba8384c39acdebd42bb4.pdf#page=38",
+    "kind": "University teaching material",
+    "summary": "The teaching material explains that ぬ in 風立ちぬ marks completion in classical Japanese. Here it is not a negative ending; see PDF page 38."
+   },
+   {
+    "id": "layout",
+    "title": "W3C: Requirements for Japanese Text Layout",
+    "url": "https://www.w3.org/TR/jlreq/",
+    "kind": "Language-layout reference",
+    "summary": "W3C describes Japanese text-layout conventions, including vertical columns read top to bottom and from right to left. It does not identify the poster’s typefaces."
+   }
+  ],
+  "palette": [
+   {
+    "name": "Deep sky blue",
+    "hex": "#195D94",
+    "role": "An open field around the words and aircraft."
+   },
+   {
+    "name": "Vivid pink",
+    "hex": "#E8528F",
+    "role": "The title’s strong, warm accent."
+   },
+   {
+    "name": "Pale lavender",
+    "hex": "#CDBED3",
+    "role": "A soft foreground shape in the jacket."
+   },
+   {
+    "name": "Cloud blue-white",
+    "hex": "#CBD8DE",
+    "role": "Light and volume within the cloud."
+   },
+   {
+    "name": "Near-black ink",
+    "hex": "#030910",
+    "role": "Calligraphy, outlines and compact credits."
+   },
+   {
+    "name": "Muted blue tie",
+    "hex": "#3A7896",
+    "role": "A link between figure and sky."
+   }
+  ],
+  "transcript": [
+   {
+    "heading": "Main words & calligraphy",
+    "rows": [
+     {
+      "jp": "スタジオジブリ作品 / STUDIO GHIBLI",
+      "en": "A Studio Ghibli film / Studio Ghibli"
+     },
+     {
+      "jp": "堀越二郎と堀辰雄に 敬意を込めて。",
+      "en": "In tribute to Jirō Horikoshi and Tatsuo Hori."
+     },
+     {
+      "jp": "生きねば。",
+      "en": "We must live. / We must go on living."
+     },
+     {
+      "jp": "宮崎 駿 監督作品",
+      "en": "A film directed by Hayao Miyazaki."
+     },
+     {
+      "jp": "風立ちぬ",
+      "en": "The Wind Rises; more literally, “The wind has risen.”"
+     }
+    ]
+   },
+   {
+    "heading": "Voice cast — left to right",
+    "rows": [
+     {
+      "jp": "庵野秀明",
+      "en": "Hideaki Anno"
+     },
+     {
+      "jp": "瀧本美織",
+      "en": "Miori Takimoto"
+     },
+     {
+      "jp": "西島秀俊",
+      "en": "Hidetoshi Nishijima"
+     },
+     {
+      "jp": "西村雅彦",
+      "en": "Masahiko Nishimura"
+     },
+     {
+      "jp": "スティーブン・アルパート",
+      "en": "Stephen Alpert"
+     },
+     {
+      "jp": "風間杜夫",
+      "en": "Morio Kazama"
+     },
+     {
+      "jp": "竹下景子",
+      "en": "Keiko Takeshita"
+     },
+     {
+      "jp": "志田未来",
+      "en": "Mirai Shida"
+     },
+     {
+      "jp": "國村隼",
+      "en": "Jun Kunimura"
+     },
+     {
+      "jp": "大竹しのぶ",
+      "en": "Shinobu Otake"
+     },
+     {
+      "jp": "野村萬斎",
+      "en": "Mansai Nomura"
+     }
+    ]
+   },
+   {
+    "heading": "Creative & music credits",
+    "rows": [
+     {
+      "jp": "原作・脚本・監督／宮崎 駿",
+      "en": "Original work, screenplay and direction: Hayao Miyazaki"
+     },
+     {
+      "jp": "（「月刊モデルグラフィックス」連載）",
+      "en": "[Original work] serialised in Monthly Model Graphix"
+     },
+     {
+      "jp": "音楽／久石 譲",
+      "en": "Music: Joe Hisaishi"
+     },
+     {
+      "jp": "（サントラ／徳間ジャパンコミュニケーションズ）",
+      "en": "Soundtrack: Tokuma Japan Communications"
+     },
+     {
+      "jp": "主題歌／「ひこうき雲」荒井由実",
+      "en": "Theme song: “Hikōki-gumo” (“Vapor Trail” or “Contrail”) by Yumi Arai"
+     },
+     {
+      "jp": "（EMI Records Japan）",
+      "en": "EMI Records Japan"
+     }
+    ]
+   },
+   {
+    "heading": "Partners, sponsorship & distribution",
+    "rows": [
+     {
+      "jp": "スタジオジブリ",
+      "en": "Studio Ghibli"
+     },
+     {
+      "jp": "日本テレビ",
+      "en": "Nippon Television"
+     },
+     {
+      "jp": "電通",
+      "en": "Dentsu"
+     },
+     {
+      "jp": "博報堂DYMP",
+      "en": "Hakuhodo DYMP"
+     },
+     {
+      "jp": "ディズニー",
+      "en": "Disney"
+     },
+     {
+      "jp": "三菱商事",
+      "en": "Mitsubishi Corporation"
+     },
+     {
+      "jp": "東宝",
+      "en": "Toho"
+     },
+     {
+      "jp": "KDDI",
+      "en": "KDDI"
+     },
+     {
+      "jp": "提携作品",
+      "en": "A film made in association with the listed companies"
+     },
+     {
+      "jp": "特別協賛／KDDI",
+      "en": "Special sponsorship: KDDI"
+     },
+     {
+      "jp": "特別協力／ローソン、読売新聞",
+      "en": "Special cooperation: Lawson and Yomiuri Shimbun"
+     },
+     {
+      "jp": "配給／東宝",
+      "en": "Distributed by Toho"
+     }
+    ]
+   },
+   {
+    "heading": "Release, website & smallest marks",
+    "rows": [
+     {
+      "jp": "7月20日(土)全国ロードショー",
+      "en": "In cinemas nationwide from Saturday, 20 July [2013]"
+     },
+     {
+      "jp": "kazetachinu.jp",
+      "en": "The film website address as printed"
+     },
+     {
+      "jp": "©2013 二馬力・GNDHDDTK",
+      "en": "© 2013 Nibariki · GNDHDDTK"
+     },
+     {
+      "jp": "東宝（circular logo）",
+      "en": "Toho"
+     },
+     {
+      "jp": "［unclear］グループ",
+      "en": "[Unclear] group — preceding characters cannot be verified"
+     },
+     {
+      "jp": "［certification mark: fine lettering / number unclear］",
+      "en": "Appears to be an Eirin mark; its complete details cannot be verified"
+     }
+    ]
+   }
+  ],
+  "connections": [
+   {
+    "id": "gaze",
+    "label": "Follow the gaze",
+    "title": "A face, a machine, a few words",
+    "text": "Follow Jirō’s upward gaze towards the aircraft and the calligraphy. Bring the poster together and see how that upward movement carries through the whole composition.",
+    "colour": "#b95b3c",
+    "anchors": [
+     [
+      3,
+      0.72,
+      0.61
+     ],
+     [
+      2,
+      0.35,
+      0.26
+     ],
+     [
+      4,
+      0.5,
+      0.17
+     ]
+    ]
+   },
+   {
+    "id": "colour",
+    "label": "Trace blue & pink",
+    "title": "Two colours hold the image apart",
+    "text": "The broad blue field and the bright pink title sit far apart in the flat image. Opening the stack makes their different roles visible; assembling it brings the contrast back into one field.",
+    "colour": "#be3d74",
+    "anchors": [
+     [
+      0,
+      0.2,
+      0.15
+     ],
+     [
+      5,
+      0.52,
+      0.85
+     ]
+    ]
+   },
+   {
+    "id": "words",
+    "label": "Connect the words",
+    "title": "Two voices in one poster",
+    "text": "The compact black slogan and the expansive pink title differ in scale, placement and lettering. Watch them settle around the picture as you bring the layers together.",
+    "colour": "#496f80",
+    "anchors": [
+     [
+      4,
+      0.5,
+      0.17
+     ],
+     [
+      5,
+      0.53,
+      0.85
+     ]
+    ]
+   }
+  ],
+  "layers": [
+   {
+    "id": "sky",
+    "label": "Sky & open space",
+    "shortLabel": "Sky",
+    "colour": "#195d94",
+    "description": "The blue field gives the image its scale and makes the lighter forms easy to distinguish."
+   },
+   {
+    "id": "clouds",
+    "label": "Clouds & depth",
+    "shortLabel": "Clouds",
+    "colour": "#b6ccd8",
+    "description": "Light and shadow give the clouds volume. Notice the contrast between soft cloud forms and straight wings."
+   },
+   {
+    "id": "aircraft",
+    "label": "Aircraft & motion",
+    "shortLabel": "Aircraft",
+    "colour": "#8a9c98",
+    "description": "The cropped wing and diagonal flight path bring motion into a still image."
+   },
+   {
+    "id": "portrait",
+    "label": "Portrait & clothing",
+    "shortLabel": "Portrait",
+    "colour": "#b8a9bd",
+    "description": "The face, raised arm and clothing bring a human scale to the expanse of sky."
+   },
+   {
+    "id": "calligraphy",
+    "label": "Upper lettering & logo",
+    "shortLabel": "Lettering",
+    "colour": "#243c35",
+    "description": "The slogan, dedication and studio mark create a second way of reading the space above the figure."
+   },
+   {
+    "id": "title",
+    "label": "Title & small print",
+    "shortLabel": "Title + credits",
+    "colour": "#c43d70",
+    "description": "A vivid title works from a distance; cast, music and production credits reward a closer look."
+   }
+  ],
+  "layerShapes": {
+   "we": [
+    [
+     0.172,
+     0.571
+    ],
+    [
+     0.183,
+     0.562
+    ],
+    [
+     0.211,
+     0.55
+    ],
+    [
+     0.25,
+     0.534
+    ],
+    [
+     0.3,
+     0.521
+    ],
+    [
+     0.365,
+     0.512
+    ],
+    [
+     0.453,
+     0.508
+    ],
+    [
+     0.46,
+     0.502
+    ],
+    [
+     0.474,
+     0.499
+    ],
+    [
+     0.487,
+     0.502
+    ],
+    [
+     0.493,
+     0.506
+    ],
+    [
+     0.51,
+     0.502
+    ],
+    [
+     0.525,
+     0.499
+    ],
+    [
+     0.536,
+     0.502
+    ],
+    [
+     0.539,
+     0.507
+    ],
+    [
+     0.552,
+     0.506
+    ],
+    [
+     0.568,
+     0.512
+    ],
+    [
+     0.584,
+     0.493
+    ],
+    [
+     0.609,
+     0.476
+    ],
+    [
+     0.64,
+     0.463
+    ],
+    [
+     0.676,
+     0.456
+    ],
+    [
+     0.714,
+     0.452
+    ],
+    [
+     0.746,
+     0.454
+    ],
+    [
+     0.779,
+     0.46
+    ],
+    [
+     0.806,
+     0.46
+    ],
+    [
+     0.824,
+     0.464
+    ],
+    [
+     0.837,
+     0.477
+    ],
+    [
+     0.851,
+     0.493
+    ],
+    [
+     0.871,
+     0.512
+    ],
+    [
+     0.889,
+     0.534
+    ],
+    [
+     0.908,
+     0.551
+    ],
+    [
+     0.924,
+     0.576
+    ],
+    [
+     0.934,
+     0.604
+    ],
+    [
+     0.937,
+     0.627
+    ],
+    [
+     0.934,
+     0.65
+    ],
+    [
+     0.921,
+     0.674
+    ],
+    [
+     0.9,
+     0.698
+    ],
+    [
+     0.876,
+     0.716
+    ],
+    [
+     0.842,
+     0.728
+    ],
+    [
+     0.823,
+     0.729
+    ],
+    [
+     0.852,
+     0.739
+    ],
+    [
+     0.877,
+     0.746
+    ],
+    [
+     0.888,
+     0.756
+    ],
+    [
+     0.873,
+     0.767
+    ],
+    [
+     0.902,
+     0.768
+    ],
+    [
+     0.915,
+     0.779
+    ],
+    [
+     0.915,
+     0.79
+    ],
+    [
+     0.936,
+     0.795
+    ],
+    [
+     0.946,
+     0.811
+    ],
+    [
+     0.947,
+     0.834
+    ],
+    [
+     0.961,
+     0.85
+    ],
+    [
+     0.979,
+     0.866
+    ],
+    [
+     0.981,
+     0.885
+    ],
+    [
+     1,
+     0.911
+    ],
+    [
+     1,
+     1
+    ],
+    [
+     0.353,
+     1
+    ],
+    [
+     0.355,
+     0.8
+    ],
+    [
+     0.336,
+     0.781
+    ],
+    [
+     0.309,
+     0.76
+    ],
+    [
+     0.278,
+     0.737
+    ],
+    [
+     0.248,
+     0.711
+    ],
+    [
+     0.22,
+     0.682
+    ],
+    [
+     0.2,
+     0.651
+    ],
+    [
+     0.184,
+     0.621
+    ],
+    [
+     0.174,
+     0.595
+    ]
+   ],
+   "N": [
+    [
+     [
+      0,
+      0.164
+     ],
+     [
+      0.201,
+      0.246
+     ],
+     [
+      0.313,
+      0.26
+     ],
+     [
+      0.355,
+      0.249
+     ],
+     [
+      0.458,
+      0.306
+     ],
+     [
+      0.726,
+      0.31
+     ],
+     [
+      0.728,
+      0.315
+     ],
+     [
+      0.46,
+      0.322
+     ],
+     [
+      0.375,
+      0.286
+     ],
+     [
+      0.327,
+      0.28
+     ],
+     [
+      0.209,
+      0.271
+     ],
+     [
+      0,
+      0.185
+     ]
+    ],
+    [
+     [
+      0.194,
+      0.227
+     ],
+     [
+      0.309,
+      0.246
+     ],
+     [
+      0.313,
+      0.252
+     ],
+     [
+      0.193,
+      0.234
+     ]
+    ],
+    [
+     [
+      0.307,
+      0.246
+     ],
+     [
+      0.335,
+      0.187
+     ],
+     [
+      0.339,
+      0.185
+     ],
+     [
+      0.328,
+      0.232
+     ],
+     [
+      0.32,
+      0.252
+     ]
+    ],
+    [
+     [
+      0.214,
+      0.267
+     ],
+     [
+      0.231,
+      0.269
+     ],
+     [
+      0.224,
+      0.289
+     ],
+     [
+      0.222,
+      0.31
+     ],
+     [
+      0.21,
+      0.33
+     ],
+     [
+      0.2,
+      0.327
+     ],
+     [
+      0.205,
+      0.304
+     ],
+     [
+      0.211,
+      0.287
+     ]
+    ],
+    [
+     [
+      0.425,
+      0.311
+     ],
+     [
+      0.439,
+      0.315
+     ],
+     [
+      0.429,
+      0.336
+     ],
+     [
+      0.426,
+      0.35
+     ],
+     [
+      0.414,
+      0.372
+     ],
+     [
+      0.402,
+      0.369
+     ],
+     [
+      0.407,
+      0.349
+     ],
+     [
+      0.416,
+      0.328
+     ]
+    ]
+   ],
+   "Te": [
+    [
+     0.35,
+     0.623
+    ],
+    [
+     0.394,
+     0.622
+    ],
+    [
+     0.445,
+     0.62
+    ],
+    [
+     0.493,
+     0.615
+    ],
+    [
+     0.548,
+     0.61
+    ],
+    [
+     0.557,
+     0.614
+    ],
+    [
+     0.559,
+     0.637
+    ],
+    [
+     0.571,
+     0.657
+    ],
+    [
+     0.586,
+     0.668
+    ],
+    [
+     0.608,
+     0.684
+    ],
+    [
+     0.622,
+     0.7
+    ],
+    [
+     0.635,
+     0.713
+    ],
+    [
+     0.65,
+     0.721
+    ],
+    [
+     0.628,
+     0.729
+    ],
+    [
+     0.607,
+     0.734
+    ],
+    [
+     0.583,
+     0.721
+    ],
+    [
+     0.562,
+     0.711
+    ],
+    [
+     0.549,
+     0.699
+    ],
+    [
+     0.533,
+     0.689
+    ],
+    [
+     0.515,
+     0.687
+    ],
+    [
+     0.496,
+     0.69
+    ],
+    [
+     0.482,
+     0.689
+    ],
+    [
+     0.475,
+     0.681
+    ],
+    [
+     0.462,
+     0.675
+    ],
+    [
+     0.433,
+     0.675
+    ],
+    [
+     0.418,
+     0.662
+    ],
+    [
+     0.406,
+     0.643
+    ],
+    [
+     0.389,
+     0.632
+    ]
+   ]
+  }
+ }
+}

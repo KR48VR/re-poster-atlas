@@ -1,0 +1,493 @@
+{
+ "poster": {
+  "id": "tokyo-1964-first-poster",
+  "title": "Tokyo 1964 — First Official Poster",
+  "year": "1961",
+  "yearNumber": 1961,
+  "creator": "Kamekura Yusaku",
+  "country": "Japan",
+  "countries": [
+   "Japan"
+  ],
+  "region": "East Asia",
+  "category": "Sport",
+  "edition": "First official poster for the 1964 Tokyo Olympics, designed and issued in 1961; offset lithograph, M+ 2014.84, 102 × 55 cm.",
+  "image": "images/full/tokyo-1964-first-poster.jpg",
+  "ratio": 0.546,
+  "imageWidth": 546,
+  "imageHeight": 1000,
+  "alt": "A large red sun fills the top of a white sheet, with five gold Olympic rings below and tall gold Tokyo 1964 lettering at the bottom.",
+  "blurb": "One red disc, five gold rings and an event name give an international occasion an unmistakable identity.",
+  "notes": [
+   {
+    "title": "One disc carries the weight",
+    "body": "The red sun occupies almost the full width of the sheet. Its simple outline and saturated colour make it the first thing seen, before any language is read."
+   },
+   {
+    "title": "Different circles, different roles",
+    "body": "The solid sun contrasts with the open Olympic rings. Repeating circular geometry connects national identity and the international event while keeping them visually distinct."
+   },
+   {
+    "title": "The event year is not the design date",
+    "body": "The lettering announces Tokyo 1964, but M+ dates this first poster to 1961. The tall gold type completes a three-part stack of national symbol, Olympic emblem and event information."
+   }
+  ],
+  "source": "https://www.mplus.org.hk/en/collection/objects/poster-tokyo-olympics-1964-201484/",
+  "imageSource": "https://www.mplus.org.hk/en/collection/objects/poster-tokyo-olympics-1964-201484/",
+  "credit": "Kamekura Yusaku, 1961. M+, Hong Kong, 2014.84. © Collections Musée Olympique/21820-001/N.",
+  "imageCredit": "Kamekura Yusaku, 1961. M+, Hong Kong, 2014.84. © Collections Musée Olympique/21820-001/N.",
+  "downloadURL": "https://res.cloudinary.com/mplustms/image/upload/w_546/v1650809264/v2/prod/small/002001_002500/002037_001.jpg",
+  "anchor": [
+   0.5,
+   0.27
+  ],
+  "accent": "#d74742",
+  "primaryOrigin": "Japan",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/tokyo-1964-first-poster.webp"
+ },
+ "studyData": {
+  "intro": "A red disc, five gold rings and one line of event information form a deliberately spare sequence. M+ dates Kamekura Yusaku’s first Tokyo 1964 poster to 1961: the year printed on the sheet names the Games, not the year this design was issued.",
+  "initial": "disc",
+  "regions": [
+   {
+    "id": "disc",
+    "number": 1,
+    "label": "One solid red disc",
+    "shortLabel": "One solid red disc",
+    "kicker": "A SHAPE WITH VISUAL WEIGHT",
+    "summary": "The largest shape contains almost no internal division.",
+    "x": 50,
+    "y": 27,
+    "bounds": {
+     "x": 2,
+     "y": 1,
+     "w": 96,
+     "h": 53
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A shape with visual weight",
+      "body": "The disc nearly spans the sheet’s width and occupies most of its upper half. Its saturated red contrasts with the pale surrounding paper. With no internal lettering or illustration, its scale and outline do almost all of the work of establishing a dominant shape.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A national sign in a larger sequence",
+      "body": "The red disc can be read in relation to Japan’s flag, while the rings and Tokyo lettering locate the event below it. This comparison follows the visible arrangement; it does not require assigning the designer an undocumented psychological intention for the colour red.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What holds your attention when the largest shape has neither a face nor a word?",
+    "related": [
+     "edge",
+     "rings",
+     "field"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "edge",
+    "number": 2,
+    "label": "The disc’s curved boundary",
+    "shortLabel": "The disc’s curved boundary",
+    "kicker": "A CURVE MEASURED AGAINST A RECTANGLE",
+    "summary": "The outline is the main detail of the upper field.",
+    "x": 90,
+    "y": 18,
+    "bounds": {
+     "x": 2,
+     "y": 1,
+     "w": 96,
+     "h": 53
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A curve measured against a rectangle",
+      "body": "The round edge approaches the straight sides closely while leaving pale corners above and below. The contrast between circular shape and rectangular sheet gives the simple composition tension. Small changes in the surrounding gaps would noticeably alter that relationship.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Look at the reproduced edge",
+      "body": "The image shows texture and small variations within the red field. These belong to the photographed reproduction available here. They should not be treated as a separate intentional pattern or used to infer an exact ink formulation from a screen image.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "How does the gap at the side compare with the gap above the circle?",
+    "related": [
+     "disc",
+     "margin"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "rings",
+    "number": 3,
+    "label": "Five open rings",
+    "shortLabel": "Five open rings",
+    "kicker": "REPETITION WITH A DIFFERENT CONSTRUCTION",
+    "summary": "Open circles answer the solid circle above.",
+    "x": 50,
+    "y": 65,
+    "bounds": {
+     "x": 2,
+     "y": 52,
+     "w": 96,
+     "h": 26
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Repetition with a different construction",
+      "body": "Each ring is an outline with pale space at its centre, unlike the filled red disc. The five circles overlap in two rows and span almost the same width as the upper shape. Repetition connects the elements while their different density keeps their roles distinct.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A documented Olympic poster",
+      "body": "M+ identifies this work as Kamekura Yusaku’s Tokyo Olympics poster, dates it 1961 and records an offset lithograph measuring 102 by 55 centimetres. Those facts identify the museum object; the small screen reproduction does not reproduce its physical scale.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "mplus"
+       }
+      ]
+     }
+    ],
+    "question": "Why do the rings feel lighter than the disc even though they repeat its geometry?",
+    "related": [
+     "disc",
+     "interlock",
+     "year"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "interlock",
+    "number": 4,
+    "label": "Where the rings cross",
+    "shortLabel": "Where the rings cross",
+    "kicker": "INTERSECTIONS REQUIRE CLOSE LOOKING",
+    "summary": "Small breaks clarify a system of overlapping outlines.",
+    "x": 36,
+    "y": 64,
+    "bounds": {
+     "x": 21,
+     "y": 60,
+     "w": 59,
+     "h": 14
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Intersections require close looking",
+      "body": "At the points where ring strokes meet, narrow pale separations help distinguish one contour from another. These small details matter more when the image is enlarged. They prevent the gold emblem from reading simply as a continuous tangled band.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An emblem at two scales",
+      "body": "From a distance the group reads as one recognisable sign; closer viewing reveals its individual circles and crossings. This difference in scale is the study opportunity. No additional historical meaning is assigned to the exact position of a particular ring.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Follow one ring through an intersection: where does it appear to pass in front?",
+    "related": [
+     "rings",
+     "field"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "tokyo",
+    "number": 5,
+    "label": "The city in tall capitals",
+    "shortLabel": "The city in tall capitals",
+    "kicker": "A PLACE RATHER THAN A SLOGAN",
+    "summary": "A compact word anchors the lower-left area.",
+    "x": 27,
+    "y": 92,
+    "bounds": {
+     "x": 2,
+     "y": 85,
+     "w": 51,
+     "h": 14
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A place rather than a slogan",
+      "body": "TOKYO supplies the host city in Roman letters. Its short, direct wording contains no descriptive promise or sentence. Paired with the date and rings, it identifies an event through a small amount of information after the large visual symbols have been encountered.",
+      "evidence": "observation",
+      "originalText": "TOKYO",
+      "lang": "en"
+     },
+     {
+      "kind": "design",
+      "heading": "Height instead of decoration",
+      "body": "Tall, tightly spaced capitals form a heavy rectangular block. Their straight strokes contrast with the circles above, while the O offers a small geometric echo. The exact typeface is not identified by the image or the museum record used here.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Compare the round O with the red disc: how does a letter change the role of a circle?",
+    "related": [
+     "year",
+     "rings"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "year",
+    "number": 6,
+    "label": "1964 names the event",
+    "shortLabel": "1964 names the event",
+    "kicker": "READ THE NUMBER IN CONTEXT",
+    "summary": "The numerals carry a date distinct from the design’s date.",
+    "x": 80,
+    "y": 92,
+    "bounds": {
+     "x": 59,
+     "y": 85,
+     "w": 39,
+     "h": 14
+    },
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Read the number in context",
+      "body": "1964 sits on the same baseline and at nearly the same height as TOKYO. In combination with the Olympic rings, it names the Games. A date printed prominently on an event poster need not identify when the sheet was designed or first distributed.",
+      "evidence": "observation",
+      "originalText": "1964",
+      "lang": "en"
+     },
+     {
+      "kind": "context",
+      "heading": "A three-year difference",
+      "body": "M+ gives 1961 as the object’s date, although the poster announces Tokyo 1964. Keeping both dates visible prevents the catalogue’s event label from becoming a false design date. The study does not infer an exact day of issue beyond that documented year.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "mplus"
+       }
+      ]
+     }
+    ],
+    "question": "Which date would you use to study this poster’s design history, and why?",
+    "related": [
+     "tokyo",
+     "disc"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "field",
+    "number": 7,
+    "label": "Pale space between the signs",
+    "shortLabel": "Pale space between the signs",
+    "kicker": "SPACE SEPARATES WITHOUT A RULE",
+    "summary": "The empty bands control the pace of reading.",
+    "x": 50,
+    "y": 82,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 100,
+     "h": 100
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Space separates without a rule",
+      "body": "A narrow pale gap lies between disc and rings, while a larger open band precedes the lettering. These intervals separate the three main elements without boxes or arrows. Their differing sizes give the downward reading a pace despite the lack of a narrative image.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "The field remains visible inside forms",
+      "body": "The same pale ground surrounds the disc, fills the ring centres and appears inside letter counters. Those repeated openings keep the sheet connected. Empty space is therefore part of several shapes, rather than merely unused area left after the symbols were placed.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which gap would change the sequence most if it were reduced by half?",
+    "related": [
+     "rings",
+     "tokyo",
+     "margin"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "margin",
+    "number": 8,
+    "label": "A tall sheet with narrow sides",
+    "shortLabel": "A tall sheet with narrow sides",
+    "kicker": "THE RECTANGLE IS PART OF THE DESIGN",
+    "summary": "The format controls how the simple stack fits.",
+    "x": 98,
+    "y": 80,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 100,
+     "h": 100
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "The rectangle is part of the design",
+      "body": "The long vertical sheet holds one large disc, a lower ring group and a bottom line. Narrow lateral margins make the signs feel generous in size. The photographed edge is visible, reminding us that this composition belongs to a bounded physical sheet.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Public information with few components",
+      "body": "The city, year and emblem together identify the advertised event with very little text. That economy can make the design easy to scan, but it is not proof of measured public recognition. Its purpose is documented as an Olympic poster, not inferred as a film campaign.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would this arrangement work unchanged in a square format, or which gaps would need to move?",
+    "related": [
+     "edge",
+     "field",
+     "year"
+    ],
+    "layerIndex": 0
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed poster edition",
+    "url": "https://www.mplus.org.hk/en/collection/objects/poster-tokyo-olympics-1964-201484/",
+    "kind": "Visual source",
+    "summary": "The reproduced sheet supports observations of visible wording, colour, composition and marks; it does not establish the designer’s intention."
+   },
+   {
+    "id": "mplus",
+    "title": "M+: Poster, Tokyo Olympics 1964",
+    "url": "https://www.mplus.org.hk/en/collection/objects/poster-tokyo-olympics-1964-201484/",
+    "kind": "Museum object record",
+    "summary": "Identifies Kamekura Yusaku, the 1961 date, offset-lithograph medium, dimensions and object 2014.84."
+   }
+  ],
+  "tour": [
+   "disc",
+   "rings",
+   "interlock",
+   "field",
+   "tokyo",
+   "year"
+  ],
+  "transcript": [
+   {
+    "heading": "Readable wording on this edition",
+    "rows": [
+     {
+      "text": "TOKYO 1964",
+      "meaning": "The host city and Olympic event year; the design is dated 1961.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "The main event line is transcribed. Tiny marks near the sheet edge are not silently treated as absent; they are too faint for confident transcription.",
+  "palette": [
+   {
+    "name": "Red disc",
+    "hex": "#D8433D",
+    "region": "disc",
+    "role": "The largest filled shape."
+   },
+   {
+    "name": "Gold ring",
+    "hex": "#AB8852",
+    "region": "rings",
+    "role": "An open circular outline."
+   },
+   {
+    "name": "Gold lettering",
+    "hex": "#A78859",
+    "region": "tokyo",
+    "role": "The bottom information block."
+   },
+   {
+    "name": "Pale paper",
+    "hex": "#E8E5E0",
+    "region": "field",
+    "role": "Open intervals and counters."
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in the installed reproduction. These are not original ink specifications; scan, lighting and compression can alter colour.",
+  "connections": [
+   {
+    "label": "Circles with different roles",
+    "title": "Solid disc and open rings",
+    "text": "The large filled disc and the smaller open rings repeat circular geometry while differing in weight, scale and colour.",
+    "anchors": [
+     [
+      1,
+      0.5009157509157509,
+      0.3005
+     ],
+     [
+      2,
+      0.5119047619047619,
+      0.7045
+     ]
+    ],
+    "id": "tokyo-1964-first-poster-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "A three-part stack",
+    "title": "Symbol, emblem and event",
+    "text": "The broad disc narrows into the ring group, then the tall event lettering forms a firm base at the bottom.",
+    "anchors": [
+     [
+      2,
+      0.5393772893772893,
+      0.7415
+     ],
+     [
+      3,
+      0.5009157509157509,
+      0.9615
+     ]
+    ],
+    "id": "tokyo-1964-first-poster-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

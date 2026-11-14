@@ -1,0 +1,617 @@
+{
+ "poster": {
+  "id": "book-bumi-manusia",
+  "title": "Bumi Manusia",
+  "year": "1980",
+  "yearNumber": 1980,
+  "coverYear": "1980",
+  "posterYear": "1980",
+  "posterDateStatus": "1980 third printing according to the library record.",
+  "bookFirstPublication": "1980",
+  "bookAuthor": "Pramoedya Ananta Toer",
+  "bookPublisher": "Hasta Mitra",
+  "bookOrigin": "Indonesian-language novel by Pramoedya Ananta Toer",
+  "category": "Book cover",
+  "country": "Indonesia",
+  "countries": [
+   "Indonesia"
+  ],
+  "primaryOrigin": "Indonesia",
+  "region": "Southeast Asia",
+  "creator": "Cover designer not independently established",
+  "image": "images/full/book-bumi-manusia.jpg",
+  "ratio": 0.6458333333333334,
+  "alt": "Cream paper with enormous green BUMI MANUSIA lettering edged in olive, red author lettering and small Hasta Mitra imprint.",
+  "blurb": "Large green words and a red name make typography the entire landscape.",
+  "notes": [
+   {
+    "title": "Two colours in one title",
+    "body": "Dark green letter faces sit beside olive offsets. The effect gives depth without turning the words into literal objects in a scene."
+   },
+   {
+    "title": "A name given room",
+    "body": "The author’s long name occupies two red lines. Its width nearly matches the title, producing two substantial blocks rather than a small signature."
+   },
+   {
+    "title": "A precisely identified printing",
+    "body": "The source library records this as the third printing in 1980. That record supports the edition context, while leaving the cover designer unknown."
+   }
+  ],
+  "source": "https://lms.dpk.kepriprov.go.id/opac/detail/b8326",
+  "credit": "Riau Islands library record identifies Jakarta: Hasta Mitra, 1980, third printing. Cover designer not identified.",
+  "edition": "1980 third printing according to the library record.",
+  "originNote": "Country describes this edition’s publishing/design context, not the author’s nationality. Indonesian-language Jakarta edition.",
+  "originSources": [
+   {
+    "title": "Riau Islands library: Bumi Manusia, third printing",
+    "url": "https://lms.dpk.kepriprov.go.id/opac/detail/b8326"
+   }
+  ],
+  "creditSources": [
+   {
+    "title": "Riau Islands library: Bumi Manusia, third printing",
+    "url": "https://lms.dpk.kepriprov.go.id/opac/detail/b8326"
+   }
+  ],
+  "imageSource": "https://lms.dpk.kepriprov.go.id/opac/detail/b8326",
+  "imageCredit": "Riau Islands library record identifies Jakarta: Hasta Mitra, 1980, third printing. Cover designer not identified.",
+  "accent": "#133E35",
+  "anchor": [
+   0.68,
+   0.33
+  ],
+  "reproduction": "Source reproduction retained without generative reconstruction. Analytical layers partition visible source pixels; printing colours and hidden artwork cannot be recovered.",
+  "downloadURL": "https://lms.dpk.kepriprov.go.id/resources/cover/2021-01-21_BUMI-MANUSIA-SEBUAH-ROMAN-PRAMOEDYA-ANANTA-TOER_022541.jpg",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-bumi-manusia.webp"
+ },
+ "studyData": {
+  "intro": "Large green words and a red name make typography the entire landscape. Follow the details to compare what is visible, what can be interpreted and what the edition record establishes.",
+  "initial": "title",
+  "regions": [
+   {
+    "id": "title",
+    "number": 1,
+    "label": "Two large green words",
+    "shortLabel": "Green title",
+    "kicker": "LANGUAGE",
+    "summary": "BUMI and MANUSIA form two tightly stacked lines.",
+    "layerIndex": 1,
+    "x": 68,
+    "y": 33,
+    "bounds": {
+     "x": 3,
+     "y": 24,
+     "w": 93,
+     "h": 34
+    },
+    "question": "What can you learn from the title’s shape before knowing what its words mean?",
+    "related": [
+     "offset",
+     "author"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Green title in the image",
+      "body": "BUMI and MANUSIA form two tightly stacked lines. Dark green strokes occupy much of the central area, with tall letters and broad feet. The words dominate without needing a separate illustration, while pale spaces remain visible inside and between them.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A title read as language and shape",
+      "body": "The title can function as both language and shape. Even before someone understands Indonesian, the stacked masses establish the centre of the cover. Reading the words adds another layer: Bumi Manusia is commonly rendered in English as This Earth of Mankind.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "offset",
+    "number": 2,
+    "label": "Olive edges give the letters depth",
+    "shortLabel": "Olive offsets",
+    "kicker": "DESIGN",
+    "summary": "Olive-coloured areas sit beside the dark green letter faces.",
+    "layerIndex": 2,
+    "x": 81.13,
+    "y": 50.1,
+    "bounds": {
+     "x": 18,
+     "y": 24,
+     "w": 78,
+     "h": 34
+    },
+    "question": "Cover the olive areas mentally. What kind of depth disappears?",
+    "related": [
+     "title",
+     "author"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Olive offsets in the image",
+      "body": "Olive-coloured areas sit beside the dark green letter faces. They are especially noticeable along long strokes and around the broad bases. The second colour follows the title’s geometry instead of forming an unrelated picture behind it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Flat colour suggests depth",
+      "body": "The offset makes the letters appear to have thickness or a shadow, although the cover remains a flat image. Because both colours are relatively muted, the effect adds structure without competing with the brighter red author block below.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "serifs",
+    "number": 3,
+    "label": "Broad feet anchor tall strokes",
+    "shortLabel": "Letter serifs",
+    "kicker": "DESIGN",
+    "summary": "The large title letters end in wide horizontal feet and projecting terminals.",
+    "layerIndex": 1,
+    "x": 28,
+    "y": 36,
+    "bounds": {
+     "x": 19,
+     "y": 25,
+     "w": 28,
+     "h": 18
+    },
+    "question": "Which letter gives you the clearest example of a broad foot supporting a tall stroke?",
+    "related": [
+     "title",
+     "offset"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Letter serifs in the image",
+      "body": "The large title letters end in wide horizontal feet and projecting terminals. These small extensions repeat along the two lines, joining tall vertical movement to short horizontal movement. Their pale surrounding spaces are as important as their green surfaces.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Wide feet give the letters weight",
+      "body": "The repeated feet can make the title feel planted on the page. Compare that impression with the narrow upper parts of the letters. This is a description of visible forms, not an identification of a specific typeface or its historical lineage.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "roman",
+    "number": 4,
+    "label": "A small word identifies the form",
+    "shortLabel": "Roman",
+    "kicker": "LANGUAGE",
+    "summary": "ROMAN appears near the upper-left corner in a small warm-coloured line.",
+    "layerIndex": 4,
+    "x": 10.48,
+    "y": 8.02,
+    "bounds": {
+     "x": 1,
+     "y": 5,
+     "w": 25,
+     "h": 7
+    },
+    "question": "Would a reader who missed this small word still understand what kind of object was being offered?",
+    "related": [
+     "title",
+     "offset"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Roman in the image",
+      "body": "ROMAN appears near the upper-left corner in a small warm-coloured line. It is far less prominent than the title but occupies an early place in the reading order. It labels the work as a novel rather than supplying another title.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A small label sets expectations",
+      "body": "The label gives a reader practical information before the large central words. Its modest scale lets it serve that purpose without competing for attention. Compare how much space a genre label receives here with the space given to the author’s name.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "buru",
+    "number": 5,
+    "label": "A second heading names a connection",
+    "shortLabel": "Buru wording",
+    "kicker": "LANGUAGE",
+    "summary": "KARYA PULAU BURU stretches across the upper area in green.",
+    "layerIndex": 4,
+    "x": 52.1,
+    "y": 15.3,
+    "bounds": {
+     "x": 3,
+     "y": 11,
+     "w": 93,
+     "h": 7
+    },
+    "question": "What does this line tell you directly, and what would require another source?",
+    "related": [
+     "title",
+     "offset"
+    ],
+    "tags": [
+     "language",
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Buru wording in the image",
+      "body": "KARYA PULAU BURU stretches across the upper area in green. Its letters are smaller and less decorative than the central title. The phrase names work associated with Buru Island; it should not be mistaken for the name of the publisher.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A place name opens a historical question",
+      "body": "The wording adds context through a place name while leaving the title visually dominant. This cover alone cannot establish the circumstances in which the novel was composed. Distinguish what the phrase states from any historical knowledge a reader brings to it.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "context",
+      "heading": "Why Buru matters",
+      "body": "Penguin’s reading guide identifies this novel as the first volume of the Buru Quartet and links its composition to Pramoedya’s imprisonment on Buru. That source adds historical context to the visible place name; it is a record for the work, not evidence about this cover’s unknown designer.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "bumiwork"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "author",
+    "number": 6,
+    "label": "A long name becomes a red block",
+    "shortLabel": "Red author name",
+    "kicker": "LANGUAGE",
+    "summary": "PRAMOEDYA ANANTA TOER occupies two large red lines below the green title.",
+    "layerIndex": 3,
+    "x": 45,
+    "y": 68,
+    "bounds": {
+     "x": 1,
+     "y": 61,
+     "w": 96,
+     "h": 18
+    },
+    "question": "If the author name were reduced by half, what would become the cover’s main balance point?",
+    "related": [
+     "title",
+     "offset"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Red author name in the image",
+      "body": "PRAMOEDYA ANANTA TOER occupies two large red lines below the green title. The letters are close together and fill nearly the same width. Warm colour separates the name from the cooler title without removing it from the central vertical arrangement.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Title and author share the centre",
+      "body": "The two blocks give title and authorship comparable visual importance. A viewer may switch between reading a work and recognising a person. The cover’s hierarchy supports that possibility, but it does not show how familiar any particular audience was with the author.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "logo",
+    "number": 7,
+    "label": "A small emblem closes the left edge",
+    "shortLabel": "Publisher emblem",
+    "kicker": "DESIGN",
+    "summary": "A small dark green square mark sits near the lower-left corner.",
+    "layerIndex": 5,
+    "x": 8,
+    "y": 88,
+    "bounds": {
+     "x": 2,
+     "y": 83,
+     "w": 12,
+     "h": 10
+    },
+    "question": "How does the emblem’s light-inside-dark structure differ from the title’s dark-on-light letters?",
+    "related": [
+     "title",
+     "offset"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Publisher emblem in the image",
+      "body": "A small dark green square mark sits near the lower-left corner. Pale shapes cut into its dark field, reversing the cover’s usual dark-on-light relationship. The mark is compact enough to be recognised as a unit before its internal forms are resolved.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An identity mark at a smaller scale",
+      "body": "The emblem provides a different scale of looking after the large title and name. Its enclosed pale shapes echo the title’s internal spaces, but the mark’s role is identification rather than another illustrated scene. Avoid guessing a symbolic meaning from the small reproduction.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "imprint",
+    "number": 8,
+    "label": "The publisher signs quietly",
+    "shortLabel": "Hasta Mitra imprint",
+    "kicker": "DESIGN",
+    "summary": "HASTA MITRA appears beside the small emblem, with a much smaller line beneath it.",
+    "layerIndex": 5,
+    "x": 34.03,
+    "y": 87.4,
+    "bounds": {
+     "x": 14,
+     "y": 84,
+     "w": 51,
+     "h": 7
+    },
+    "question": "Which information belongs to the visible imprint, and which comes from the library record?",
+    "related": [
+     "title",
+     "offset"
+    ],
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Hasta Mitra imprint in the image",
+      "body": "HASTA MITRA appears beside the small emblem, with a much smaller line beneath it. The imprint occupies only a modest strip near the bottom. It is separated from the author by a substantial area of pale paper.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "The library records a third printing",
+      "body": "The Riau Islands library record identifies this copy as a 1980 third printing from Hasta Mitra in Jakarta. That record supports the publishing context and printing statement. It does not identify the designer of this particular cover, so the maker remains explicitly unknown here.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "bumi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "paper",
+    "number": 9,
+    "label": "The paper is not an empty colour",
+    "shortLabel": "Paper surface",
+    "kicker": "DESIGN",
+    "summary": "The pale field varies in warmth and texture, especially near the edges.",
+    "layerIndex": 0,
+    "x": 80,
+    "y": 87,
+    "bounds": {
+     "x": 67,
+     "y": 79,
+     "w": 30,
+     "h": 19
+    },
+    "question": "Which marks would you hesitate to attribute to the original designer?",
+    "related": [
+     "title",
+     "offset"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Paper surface in the image",
+      "body": "The pale field varies in warmth and texture, especially near the edges. Small mottled marks interrupt its surface. These variations belong to the reproduced copy as we see it; the image does not establish when they appeared or how the original paper looked.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A worn copy changes how colour feels",
+      "body": "Age and reproduction can change how a design is perceived. A cream field may feel warmer than an imagined clean white one, but that response should not be turned into a claim that the designer intentionally chose every stain or uneven patch.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "spacing",
+    "number": 10,
+    "label": "A pause before the title",
+    "shortLabel": "Space above title",
+    "kicker": "DESIGN",
+    "summary": "A clear band of pale space separates the upper wording from the large green title.",
+    "layerIndex": 0,
+    "x": 49,
+    "y": 21,
+    "bounds": {
+     "x": 3,
+     "y": 18,
+     "w": 93,
+     "h": 6
+    },
+    "question": "Which gap groups information, and which gap separates it?",
+    "related": [
+     "title",
+     "offset"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Space above title in the image",
+      "body": "A clear band of pale space separates the upper wording from the large green title. Similar pauses occur before the author and imprint. These gaps organise the cover into readable blocks without the use of ruled lines or boxes.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Gaps group words and separate roles",
+      "body": "The pauses help words of different sizes coexist. Compare the narrow interval between the two title lines with the larger interval above them: one groups words together, while the other separates kinds of information. Spacing does some of the work that colour also performs.",
+      "evidence": "interpretation"
+     }
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "visual",
+    "title": "Exact reproduced cover: Bumi Manusia",
+    "url": "https://lms.dpk.kepriprov.go.id/opac/detail/b8326",
+    "kind": "Visual source",
+    "summary": "Riau Islands library record identifies Jakarta: Hasta Mitra, 1980, third printing. Cover designer not identified."
+   },
+   {
+    "id": "bumi",
+    "title": "Riau Islands library: Bumi Manusia, third printing",
+    "url": "https://lms.dpk.kepriprov.go.id/opac/detail/b8326",
+    "kind": "Institutional library record",
+    "summary": "The Riau Islands library record identifies this copy as a 1980 third printing from Hasta Mitra in Jakarta. That record supports the publishing context and printing statement. It does not identify the designer of this particular cover, so the maker remains explicitly unknown here."
+   },
+   {
+    "id": "bumiwork",
+    "title": "Penguin Random House: Buru Quartet reading guide",
+    "url": "https://www.penguinrandomhouse.com/books/328806/this-earth-of-mankind-by-pramoedya-ananta-toer/9780140256352/readers-guide/",
+    "kind": "Publisher reading guide",
+    "summary": "Penguin’s reading guide identifies this novel as the first volume of the Buru Quartet and links its composition to Pramoedya’s imprisonment on Buru. That source adds historical context to the visible place name; it is a record for the work, not evidence about this cover’s unknown designer."
+   }
+  ],
+  "tour": [
+   "title",
+   "offset",
+   "author",
+   "buru",
+   "imprint",
+   "paper"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected legible cover wording",
+    "rows": [
+     {
+      "text": "BUMI MANUSIA",
+      "meaning": "This Earth of Mankind",
+      "lang": "id"
+     },
+     {
+      "text": "ROMAN",
+      "meaning": "Novel",
+      "lang": "id"
+     },
+     {
+      "text": "KARYA PULAU BURU",
+      "meaning": "Work of Buru Island",
+      "lang": "id"
+     },
+     {
+      "text": "PRAMOEDYA ANANTA TOER",
+      "meaning": "Author’s name",
+      "lang": "id"
+     },
+     {
+      "text": "HASTA MITRA",
+      "meaning": "Publisher’s name",
+      "lang": "id"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected wording only. Line breaks and typographic case may be regularized. Fine print and endorsement prose are omitted where not needed for this reading. English meanings are editorial translations, not a claim of native-language reader testing.",
+  "palette": [
+   {
+    "name": "Cream paper",
+    "hex": "#F1E6C8",
+    "role": "A screen sample from paper surface. Compare this local colour with its surrounding shapes.",
+    "region": "paper"
+   },
+   {
+    "name": "Title green",
+    "hex": "#133E35",
+    "role": "A screen sample from green title. Compare this local colour with its surrounding shapes.",
+    "region": "title"
+   },
+   {
+    "name": "Olive offset",
+    "hex": "#949128",
+    "role": "A screen sample from olive offsets. Compare this local colour with its surrounding shapes.",
+    "region": "offset"
+   },
+   {
+    "name": "Author red",
+    "hex": "#B93A19",
+    "role": "A screen sample from red author name. Compare this local colour with its surrounding shapes.",
+    "region": "author"
+   }
+  ],
+  "paletteNote": "Samples are exact pixels from the installed reproduction, chosen within the named feature for perceptual agreement. They describe this screen image, not original ink specifications, paper stock or universal colour meanings.",
+  "connections": [
+   {
+    "title": "Two colours build one title",
+    "anchors": [
+     [
+      1,
+      0.6790322580645162,
+      0.3302083333333333
+     ],
+     [
+      2,
+      0.8112903225806452,
+      0.5010416666666667
+     ]
+    ],
+    "id": "book-bumi-manusia-connection-0",
+    "colour": "#be3d74",
+    "label": "Face / offset",
+    "text": "Green letter faces and olive offsets follow the same contours, making the flat title appear to have thickness."
+   },
+   {
+    "title": "A title balanced by its author",
+    "anchors": [
+     [
+      1,
+      0.35,
+      0.5302083333333333
+     ],
+     [
+      3,
+      0.45,
+      0.6802083333333333
+     ]
+    ],
+    "id": "book-bumi-manusia-connection-1",
+    "colour": "#496f80",
+    "label": "Title / name",
+    "text": "The green title and red author name form two broad stacked blocks; colour separates them while similar widths connect them."
+   }
+  ]
+ }
+}

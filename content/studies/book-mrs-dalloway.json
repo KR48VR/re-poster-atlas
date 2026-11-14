@@ -1,0 +1,544 @@
+{
+ "poster": {
+  "id": "book-mrs-dalloway",
+  "title": "Mrs Dalloway",
+  "year": "1925",
+  "yearNumber": 1925,
+  "coverYear": "1925",
+  "bookFirstPublication": "1925",
+  "bookAuthor": "Virginia Woolf",
+  "bookPublisher": "The Hogarth Press",
+  "bookOrigin": "British English-language novel by Virginia Woolf, first published by the Hogarth Press in London in 1925.",
+  "creator": "Vanessa Bell",
+  "country": "United Kingdom",
+  "countries": [
+   "United Kingdom"
+  ],
+  "primaryOrigin": "United Kingdom",
+  "region": "Europe",
+  "category": "Book cover",
+  "image": "images/full/book-mrs-dalloway.jpg",
+  "ratio": 0.6590909090909091,
+  "alt": "A cream and yellow jacket with a dark irregular title panel, a row of dark ovals, a broad dark middle band and a fanlike floral drawing below.",
+  "blurb": "Letters, ovals and a spreading lower ornament alternate dark mass and pale space.",
+  "source": "https://library.vicu.utoronto.ca/exhibitions/bloomsbury/covers/vbell/dalloway.htm",
+  "credit": "Victoria University Library includes this jacket in its collection of dust jackets designed by Vanessa Bell. Virginia Woolf wrote the novel.",
+  "reproduction": "The reproduced object is 290 × 440 pixels. Physical wear, visible image texture and edges are retained; small uncertain lettering is not reconstructed.",
+  "anchor": [
+   0.48,
+   0.42
+  ],
+  "accent": "#a68d39",
+  "edition": "1925 Hogarth Press, London, jacket reproduced by Victoria University Library. The particular printing is not separately established.",
+  "imageSource": "https://library.vicu.utoronto.ca/exhibitions/bloomsbury/covers/vbell/dalloway.htm",
+  "imageCredit": "Victoria University Library includes this jacket in its collection of dust jackets designed by Vanessa Bell. Virginia Woolf wrote the novel.",
+  "posterYear": "1925",
+  "posterTerritory": "United Kingdom",
+  "posterDateStatus": "The displayed edition or explicitly qualified catalogue date. The original work date is recorded separately.",
+  "originNote": "Country and region describe the displayed edition’s publishing context, not the nationality of the cover designer.",
+  "originSources": [
+   {
+    "title": "Displayed object record",
+    "url": "https://library.vicu.utoronto.ca/exhibitions/bloomsbury/covers/vbell/dalloway.htm"
+   }
+  ],
+  "notes": [
+   {
+    "title": "The displayed edition",
+    "body": "1925 Hogarth Press, London, jacket reproduced by Victoria University Library. The particular printing is not separately established."
+   },
+   {
+    "title": "Writing and image-making",
+    "body": "Victoria University Library includes this jacket in its collection of dust jackets designed by Vanessa Bell. Virginia Woolf wrote the novel."
+   },
+   {
+    "title": "A visible design relationship",
+    "body": "Letters, ovals and a spreading lower ornament alternate dark mass and pale space."
+   }
+  ],
+  "downloadURL": "https://library.vicu.utoronto.ca/exhibitions/bloomsbury/covers/vbell/dalloway.jpg",
+  "creditSources": [
+   {
+    "title": "Source for the displayed object and recorded credits",
+    "url": "https://library.vicu.utoronto.ca/exhibitions/bloomsbury/covers/vbell/dalloway.htm"
+   }
+  ],
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-mrs-dalloway.webp"
+ },
+ "studyData": {
+  "intro": "Vanessa Bell’s jacket alternates heavy dark forms with pale intervals and yellow loops. Its image invites close looking without requiring every oval or flourish to be identified as a literal object.",
+  "initial": "title",
+  "regions": [
+   {
+    "id": "title",
+    "label": "Large title wording",
+    "shortLabel": "Large title wording",
+    "kicker": "A FAMILIAR NAME IN TWO SIZES",
+    "summary": "Pale letters sit inside a dark irregular field.",
+    "x": 49.48276,
+    "y": 18.06818,
+    "bounds": {
+     "x": 13,
+     "y": 13,
+     "w": 75,
+     "h": 10
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A familiar name in two sizes",
+      "body": "MRS appears above the much larger DALLOWAY. The smaller word introduces the name while the broader surname fills the panel’s width, creating a hierarchy within the title before the reader reaches the author below.",
+      "evidence": "observation",
+      "originalText": "MRS DALLOWAY",
+      "lang": "en"
+     },
+     {
+      "kind": "design",
+      "heading": "Letters share the panel’s irregularity",
+      "body": "The pale letterforms vary in width and spacing rather than forming a rigid mechanical line. Their uneven rhythm relates to the dark panel’s curved edges, making the wording and surrounding ornament feel part of the same drawn surface.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Would a perfectly uniform typeface feel at home within this panel?",
+    "related": [
+     "panel",
+     "author"
+    ],
+    "layerIndex": 3,
+    "number": 1
+   },
+   {
+    "id": "panel",
+    "label": "Dark title panel",
+    "shortLabel": "Dark title panel",
+    "kicker": "A BORDER WITH MOVEMENT",
+    "summary": "An irregular enclosure gives the title weight.",
+    "x": 49.13793,
+    "y": 29.20455,
+    "bounds": {
+     "x": 4,
+     "y": 3,
+     "w": 92,
+     "h": 33
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A border with movement",
+      "body": "The panel’s sides and top curve around pale and yellow interruptions. Its bottom is more nearly horizontal but still uneven, so the title sits in a substantial dark shape without being enclosed by a simple rectangular box.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A strong opening mass",
+      "body": "The panel is the first large dark area encountered from the top. Its weight establishes an upper anchor that the oval row, central band and lower ornament can answer at different scales farther down the jacket.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which part of the panel feels most stable, and which edge seems to move?",
+    "related": [
+     "title",
+     "band"
+    ],
+    "layerIndex": 2,
+    "number": 2
+   },
+   {
+    "id": "author",
+    "label": "Virginia Woolf line",
+    "shortLabel": "Virginia Woolf line",
+    "kicker": "A SEPARATE AUTHOR CREDIT",
+    "summary": "The author fits beneath the larger name.",
+    "x": 50.51724,
+    "y": 24.88636,
+    "bounds": {
+     "x": 13,
+     "y": 22,
+     "w": 74,
+     "h": 6
+    },
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A separate author credit",
+      "body": "VIRGINIA WOOLF appears as a smaller pale line under the title. Its horizontal position and colour connect it to DALLOWAY, while its reduced size distinguishes the writer from the named subject of the book.",
+      "evidence": "observation",
+      "originalText": "VIRGINIA WOOLF",
+      "lang": "en"
+     },
+     {
+      "kind": "context",
+      "heading": "Writer and jacket artist",
+      "body": "Victoria University Library places this 1925 jacket in its collection of dust jackets designed by Vanessa Bell. Virginia Woolf wrote the novel. Keeping those roles separate avoids treating the visible author line as a cover-design signature.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cover"
+       }
+      ]
+     }
+    ],
+    "question": "How would the hierarchy change if the author’s line were moved outside the dark panel?",
+    "related": [
+     "title",
+     "paper"
+    ],
+    "layerIndex": 3,
+    "number": 3
+   },
+   {
+    "id": "top-loops",
+    "label": "Yellow upper loops",
+    "shortLabel": "Yellow upper loops",
+    "kicker": "SEVERAL SHALLOW ARCS",
+    "summary": "Warm curves soften the upper boundary.",
+    "x": 50.17241,
+    "y": 4.20455,
+    "bounds": {
+     "x": 3,
+     "y": 0,
+     "w": 94,
+     "h": 15
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Several shallow arcs",
+      "body": "Yellow loops run around pale openings at the top of the dark panel. Their uneven widths and curves interrupt the otherwise heavy upper mass, introducing a warmer colour without forming an independent title or emblem.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Ornament that shapes a field",
+      "body": "The loops do more than sit beside the wording: they change the apparent contour of its enclosure. The pale openings and yellow edges can be read together as ornament, while the dark panel remains continuous around them.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Do you see the yellow shapes first as lines, or as borders around pale holes?",
+    "related": [
+     "side-loops",
+     "panel"
+    ],
+    "layerIndex": 1,
+    "number": 4
+   },
+   {
+    "id": "side-loops",
+    "label": "Yellow side ornament",
+    "shortLabel": "Yellow side ornament",
+    "kicker": "A LOOSE VERTICAL REPETITION",
+    "summary": "Repeated curves carry the eye down the edge.",
+    "x": 94.31034,
+    "y": 42.15909,
+    "bounds": {
+     "x": 85,
+     "y": 23,
+     "w": 14,
+     "h": 66
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A loose vertical repetition",
+      "body": "Yellow hooks and loops recur down the sides, with different lengths and spacing. They frame the central oval row and band without becoming straight rules, giving the outer edges a rhythm distinct from the middle of the jacket.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A connection across separate zones",
+      "body": "Because the yellow reappears above, beside and below the dark forms, it links areas that otherwise have different densities. The relationship comes from repeated colour and curvature, not from perfect bilateral symmetry.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which repeated yellow curve makes you look back toward an earlier part of the cover?",
+    "related": [
+     "top-loops",
+     "flower"
+    ],
+    "layerIndex": 1,
+    "number": 5
+   },
+   {
+    "id": "ovals",
+    "label": "Dark oval row",
+    "shortLabel": "Dark oval row",
+    "kicker": "A SEQUENCE WITH DIFFERENCES",
+    "summary": "A pale interval contains separate dark shapes.",
+    "x": 47.06897,
+    "y": 42.15909,
+    "bounds": {
+     "x": 11,
+     "y": 35,
+     "w": 79,
+     "h": 14
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A sequence with differences",
+      "body": "The middle row consists of dark rounded shapes that vary in size and outline. Pale gaps keep them separate, producing a slower rhythm than the continuous title panel above and the broad dark band below.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Description before identification",
+      "body": "These forms may invite associations with windows, beads or other objects, but the consulted institutional caption does not establish a literal subject for each one. The reading therefore stays with the visible sequence of dark ovals and pale gaps.",
+      "evidence": "uncertain",
+      "sources": [
+       {
+        "id": "cover"
+       }
+      ]
+     }
+    ],
+    "question": "What can you say confidently about the row without deciding what the ovals represent?",
+    "related": [
+     "band",
+     "panel"
+    ],
+    "layerIndex": 5,
+    "number": 6
+   },
+   {
+    "id": "band",
+    "label": "Broad dark band",
+    "shortLabel": "Broad dark band",
+    "kicker": "A CONTINUOUS DARK SPAN",
+    "summary": "A large mass interrupts the lighter middle.",
+    "x": 48.10345,
+    "y": 61.02273,
+    "bounds": {
+     "x": 8,
+     "y": 49,
+     "w": 84,
+     "h": 24
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A continuous dark span",
+      "body": "Below the ovals, a broad dark area crosses the jacket and bends into side extensions. Its upper and lower edges are not parallel, so the band changes depth as it travels across the page. It is a shaped field, not a plain stripe.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A pause before fine detail",
+      "body": "The band’s relative lack of internal detail provides a visual pause between the separated ovals and the intricate lower ornament. Its weight can make the fine strokes beneath seem more delicate by comparison.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does the dark band separate the upper and lower halves, or hold them together?",
+    "related": [
+     "ovals",
+     "fan"
+    ],
+    "layerIndex": 4,
+    "number": 7
+   },
+   {
+    "id": "fan",
+    "label": "Spreading lower strokes",
+    "shortLabel": "Spreading lower strokes",
+    "kicker": "A FANLIKE SPREAD",
+    "summary": "Fine lines open outward near the foot.",
+    "x": 39.13793,
+    "y": 85.11364,
+    "bounds": {
+     "x": 8,
+     "y": 73,
+     "w": 56,
+     "h": 21
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A fanlike spread",
+      "body": "Several dark strokes converge and then spread across a pale area at the bottom. Smaller curves and irregular marks surround them, making the lower drawing much more intricate than the broad band immediately above.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A change in pace",
+      "body": "The eye can cross the broad band quickly but tends to slow at the clustered lower lines. This change in density creates a final close-looking area after the title and oval rhythm have established the larger structure.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where do the lower lines appear to gather, and where do they open out?",
+    "related": [
+     "band",
+     "flower"
+    ],
+    "layerIndex": 6,
+    "number": 8
+   },
+   {
+    "id": "flower",
+    "label": "Rounded lower ornament",
+    "shortLabel": "Rounded lower ornament",
+    "kicker": "CURVES BESIDE THE SPREADING LINES",
+    "summary": "Yellow and dark loops form a second lower focus.",
+    "x": 73.62069,
+    "y": 83.75,
+    "bounds": {
+     "x": 55,
+     "y": 69,
+     "w": 36,
+     "h": 25
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Curves beside the spreading lines",
+      "body": "At the lower right, rounded pale and yellow shapes are edged by dark curves. Their compact loops sit beside the longer fanlike strokes, giving the bottom ornament two different kinds of movement within the same small area.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An answer to the border",
+      "body": "The yellow here recalls the loops around the upper and side edges. That recurrence gives the lower flourish a connection to the rest of the jacket even when its literal subject remains open to interpretation.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does the repeated yellow help you connect this small detail to the top of the jacket?",
+    "related": [
+     "fan",
+     "side-loops"
+    ],
+    "layerIndex": 6,
+    "number": 9
+   },
+   {
+    "id": "paper",
+    "label": "Pale paper and wear",
+    "shortLabel": "Pale paper and wear",
+    "kicker": "PALE SPACE HAS AN ACTIVE ROLE",
+    "summary": "The ground separates the dark groups.",
+    "x": 52.24138,
+    "y": 52.15909,
+    "bounds": {
+     "x": 16,
+     "y": 48,
+     "w": 69,
+     "h": 8
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Pale space has an active role",
+      "body": "Cream areas around the ovals and lower ornament keep the dark marks distinct. Uneven tone and small worn edges belong to this reproduction, so the pale ground is not an entirely uniform digital colour.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A specific surviving jacket",
+      "body": "The institutional source identifies a 1925 Hogarth Press jacket; this modest 290 × 440 image supports the major design relationships but not microscopic lettering claims. The exact printing is not separately established, and no modern cleaned facsimile is substituted.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cover"
+       }
+      ]
+     }
+    ],
+    "question": "Which pale interval is most necessary for keeping the composition readable?",
+    "related": [
+     "ovals",
+     "title"
+    ],
+    "layerIndex": 0,
+    "number": 10
+   }
+  ],
+  "sources": [
+   {
+    "id": "cover",
+    "title": "The displayed cover",
+    "url": "https://library.vicu.utoronto.ca/exhibitions/bloomsbury/covers/vbell/dalloway.htm",
+    "kind": "Visual and edition source",
+    "summary": "1925 Hogarth Press, London, jacket reproduced by Victoria University Library. The particular printing is not separately established."
+   }
+  ],
+  "tour": [
+   "title",
+   "panel",
+   "ovals",
+   "band",
+   "fan",
+   "flower"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected cover wording",
+    "rows": [
+     {
+      "text": "MRS DALLOWAY",
+      "meaning": "Title",
+      "lang": "en"
+     },
+     {
+      "text": "VIRGINIA WOOLF",
+      "meaning": "Author",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected clearly legible cover wording. Line breaks and casing may be regularized. Small uncertain print is omitted rather than guessed.",
+  "palette": [
+   {
+    "name": "Yellow ornament",
+    "hex": "#B79D3C",
+    "role": "Warm repeated loops around the edges.",
+    "region": "side-loops"
+   },
+   {
+    "name": "Cream paper",
+    "hex": "#DCC287",
+    "role": "Pale separation between the dark groups.",
+    "region": "paper"
+   },
+   {
+    "name": "Dark printed field",
+    "hex": "#232E26",
+    "role": "The broad middle band.",
+    "region": "band"
+   }
+  ],
+  "paletteNote": "Samples come from individual pixels in this reproduction. They describe its visible colour, not original printing inks or an exact historical colour standard."
+ }
+}

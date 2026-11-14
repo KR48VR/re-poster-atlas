@@ -1,0 +1,667 @@
+{
+ "poster": {
+  "id": "delftsche-slaolie",
+  "title": "Delftsche Slaolie",
+  "year": "1894",
+  "yearNumber": 1894,
+  "country": "Netherlands",
+  "region": "Europe",
+  "category": "Advertising",
+  "creator": "Jan Toorop",
+  "edition": "1894 advertising poster for the Nederlandsche Oliefabriek in Delft; lithographic design by Jan Toorop.",
+  "image": "images/full/delftsche-slaolie.jpg",
+  "ratio": 0.656,
+  "width": 656,
+  "height": 1000,
+  "alt": "Two women with flowing hair and patterned dresses prepare and taste salad beneath tall decorative lettering advertising Delft salad oil.",
+  "blurb": "An everyday bottle of salad oil enters an elaborate world of flowing hair, patterned cloth and rhythmic line.",
+  "notes": [
+   {
+    "title": "Line dissolves the boundaries",
+    "body": "Hair, clothing and background share winding black contours. Figure and ornament are distinguishable, but they seem to flow into one another."
+   },
+   {
+    "title": "The product enters the scene",
+    "body": "The seated figure pours oil onto a large salad. This small practical action gives the ornate composition its specific advertising purpose."
+   },
+   {
+    "title": "A label becomes a border",
+    "body": "The long product name stretches across the top between two bottle drawings. The commercial message functions as an architectural edge to the scene."
+   }
+  ],
+  "source": "https://www.rijksmuseum.nl/en/collection/object/Poster-for-Delft-Salad-Oil--ae832e88fb6f53506d08db16cfd2d6ef",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Delftsche_Slaolie.jpeg",
+  "imageCredit": "Jan Toorop, 1894. Public-domain artwork; reproduction via Wikimedia Commons. Rijksmuseum record RP-P-1912-2395.",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Delftsche_Slaolie.jpeg",
+  "accent": "#af983c",
+  "anchor": [
+   0.45,
+   0.69
+  ],
+  "credit": "Jan Toorop, 1894. Public-domain artwork; reproduction via Wikimedia Commons. Rijksmuseum record RP-P-1912-2395.",
+  "countries": [
+   "Netherlands"
+  ],
+  "primaryOrigin": "Netherlands",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/delftsche-slaolie.webp"
+ },
+ "studyData": {
+  "intro": "A practical act—pouring oil over salad—takes place inside an elaborate field of hair, fabric and line. Start with the product name, find the small pouring bottle, and ask how an advertisement balances the thing it sells with a world of ornament.",
+  "initial": "name",
+  "regions": [
+   {
+    "id": "name",
+    "label": "Delftsche Slaolie",
+    "shortLabel": "Delftsche Slaolie",
+    "kicker": "Words and meaning",
+    "summary": "Tall letters form the upper border.",
+    "layerIndex": 4,
+    "x": 48.78,
+    "y": 8,
+    "bounds": {
+     "x": 8,
+     "y": 2,
+     "w": 83,
+     "h": 12
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Delft salad oil",
+      "body": "Delftsche Slaolie means “Delft salad oil.” The tall, narrow letters extend across the top between two small bottle drawings. Dark outlines and yellow interiors make the wording part of the same limited colour system as the figures and ornament below.",
+      "evidence": "observation",
+      "originalText": "DELFTSCHE SLAOLIE",
+      "lang": "nl",
+      "translation": "Delft salad oil"
+     },
+     {
+      "kind": "business",
+      "heading": "A commissioned advertisement",
+      "body": "The Rijksmuseum records that the Nederlandsche Oliefabriek in Delft commissioned this poster from Jan Toorop in 1894. The ornate scene therefore has a specific commercial purpose: advertising salad oil. Its decorative richness does not make the product name incidental to the object’s history.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "rijks"
+       }
+      ]
+     }
+    ],
+    "question": "How does the product name behave like an architectural edge above the scene?",
+    "related": [
+     "bottles",
+     "pour",
+     "crest"
+    ],
+    "number": 1
+   },
+   {
+    "id": "bottles",
+    "label": "Two bottles at the top",
+    "shortLabel": "Two bottles at the top",
+    "kicker": "Look closely",
+    "summary": "Small product images bracket the name.",
+    "layerIndex": 0,
+    "x": 5.488,
+    "y": 8,
+    "bounds": {
+     "x": 2,
+     "y": 2,
+     "w": 7,
+     "h": 12
+    },
+    "tags": [
+     "business",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "A repeated package",
+      "body": "Bottle drawings stand at both ends of the upper title band. Each has a narrow neck, broad body and tiny label, though the label wording is not fully legible here. Their repeated placement brackets the long name and gives the advertisement a concrete packaged object.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Product at two scales",
+      "body": "The bottles are small compared with the women, yet their repetition gives them a clear role. A third bottle appears in use lower down. The sheet therefore offers both a compact product sign and an action involving that product, connected by shared bottle shape.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which communicates the product more clearly: a bottle at the top or the bottle being poured?",
+    "related": [
+     "name",
+     "pour",
+     "bowl"
+    ],
+    "number": 2
+   },
+   {
+    "id": "crest",
+    "label": "The central N O F emblem",
+    "shortLabel": "The central N O F emblem",
+    "kicker": "Words and meaning",
+    "summary": "A geometric badge interrupts the flowing lines.",
+    "layerIndex": 5,
+    "x": 48.933,
+    "y": 24,
+    "bounds": {
+     "x": 40,
+     "y": 15,
+     "w": 18,
+     "h": 18
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Letters inside a badge",
+      "body": "The letters N, O and F occupy separate divisions of a central shield-like emblem beneath a crown. Straight stripes and angular compartments distinguish it from the surrounding waves. The letters are securely visible; the drawing is not evidence that every decorative crown implies royal endorsement.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "An institutional counterweight",
+      "body": "The badge gives the scene a compact organisational sign beneath the long product name. Its orderly geometry contrasts with the women’s flowing hair and clothing. Compare the badge with the act of pouring: one identifies through a mark, while the other explains through use.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What changes when a geometric badge is placed inside a field of curves?",
+    "related": [
+     "name",
+     "hair",
+     "pour"
+    ],
+    "number": 3
+   },
+   {
+    "id": "hair",
+    "label": "The flowing line field",
+    "shortLabel": "The flowing line field",
+    "kicker": "Look closely",
+    "summary": "Hair and ornament share one rhythm.",
+    "layerIndex": 0,
+    "x": 32.012,
+    "y": 41.5,
+    "bounds": {
+     "x": 3,
+     "y": 32,
+     "w": 58,
+     "h": 19
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Boundaries become hard to separate",
+      "body": "Long black and yellow curves run around the figures and into their hair. Some strands clearly belong to a head; others behave like background ornament. The shared spacing and direction make the transition between person and surrounding pattern deliberately difficult to resolve at a glance.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A world made of one line language",
+      "body": "Using related curves across different objects can make the whole sheet feel continuous. It also makes individual silhouettes less immediate. Trace one strand and notice where your certainty ends: the difficulty is part of the visible design, not a reason to invent an unseen object.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "At what point does a strand stop reading as hair and become background?",
+    "related": [
+     "seated-face",
+     "standing-face",
+     "fabric"
+    ],
+    "number": 4
+   },
+   {
+    "id": "seated-face",
+    "label": "The lowered face",
+    "shortLabel": "The lowered face",
+    "kicker": "Look closely",
+    "summary": "A quiet profile sits inside sweeping hair.",
+    "layerIndex": 1,
+    "x": 37.5,
+    "y": 47.5,
+    "bounds": {
+     "x": 28,
+     "y": 42,
+     "w": 19,
+     "h": 11
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A small calm shape",
+      "body": "The seated woman’s face tilts down towards the bowl. Its pale area contains only a few dark features and is framed by much more elaborate hair. Compared with the surrounding ornament, the face is relatively quiet, giving a clear human point of attention.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Direction explains an action",
+      "body": "The lowered head helps connect the upper body with the preparation below. It need not prove a particular emotion or social role. Following the gaze towards the hands is enough to begin reading the scene as an activity rather than a pair of decorative portraits.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does the lowered face lead your eye next?",
+    "related": [
+     "pour",
+     "hands",
+     "hair"
+    ],
+    "number": 5
+   },
+   {
+    "id": "pour",
+    "label": "The tilted pouring bottle",
+    "shortLabel": "The tilted pouring bottle",
+    "kicker": "Look closely",
+    "summary": "The product becomes part of an action.",
+    "layerIndex": 1,
+    "x": 41.463,
+    "y": 73.5,
+    "bounds": {
+     "x": 25,
+     "y": 69,
+     "w": 32,
+     "h": 11
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A small horizontal object",
+      "body": "The seated figure holds a bottle tilted over the salad bowl. Its long body and narrow neck create a nearly horizontal shape among the curved garments and leaves. A thin downward stream or line near the mouth links the bottle to the food below.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Use made visible",
+      "body": "The Rijksmuseum describes one of the women as dressing a salad. That supports the action identified here. The advertisement connects a packaged oil with a practical use, while the much larger figures and ornament compete with that modest product demonstration for attention.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "rijks"
+       }
+      ]
+     }
+    ],
+    "question": "How quickly can you find the actual product-use action after reading the title?",
+    "related": [
+     "bottles",
+     "hands",
+     "bowl"
+    ],
+    "number": 6
+   },
+   {
+    "id": "hands",
+    "label": "Hands around the bottle",
+    "shortLabel": "Hands around the bottle",
+    "kicker": "Look closely",
+    "summary": "Fingers organise a crowded meeting of objects.",
+    "layerIndex": 1,
+    "x": 46.494,
+    "y": 70,
+    "bounds": {
+     "x": 29,
+     "y": 63,
+     "w": 35,
+     "h": 14
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Several contours converge",
+      "body": "Hands meet the bottle and the rim area above the bowl. Fingers, fabric edges and the bottle neck overlap, but their outlined shapes separate the roles of holding, tilting and approaching the food. This small area contains more practical information than much of the surrounding ornament.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "The useful centre is not the geometric centre",
+      "body": "The activity that explains the advertisement sits low on the page, away from the large crest and headline. A viewer must move through the decorative scene to find it. That placement creates a question about whether atmosphere or immediate product clarity receives greater emphasis.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which contour tells you most clearly that the bottle is being used?",
+    "related": [
+     "pour",
+     "bowl",
+     "seated-face"
+    ],
+    "number": 7
+   },
+   {
+    "id": "bowl",
+    "label": "The salad bowl",
+    "shortLabel": "The salad bowl",
+    "kicker": "Look closely",
+    "summary": "Leaf shapes gather inside a broad oval.",
+    "layerIndex": 3,
+    "x": 41.006,
+    "y": 84.5,
+    "bounds": {
+     "x": 14,
+     "y": 75,
+     "w": 54,
+     "h": 19
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An everyday object enlarged",
+      "body": "The bowl occupies a wide area near the bottom. Curled leaf shapes fill its upper surface, while bands around the vessel give it a broad oval form. Its rim provides a stable horizontal enclosure beneath the more vertical and flowing figures.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Ornament meets its subject",
+      "body": "The curling leaves resemble the surrounding hair and textile rhythms, but the bowl and pouring bottle anchor them to a specific food preparation. The poster can make an ordinary subject decorative without dissolving it completely into abstraction. Compare the salad’s contours with the hair above.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which details stop the salad from becoming just another ornamental pattern?",
+    "related": [
+     "pour",
+     "hair",
+     "fabric"
+    ],
+    "number": 8
+   },
+   {
+    "id": "standing-face",
+    "label": "The upright profile",
+    "shortLabel": "The upright profile",
+    "kicker": "Look closely",
+    "summary": "A second face looks across the scene.",
+    "layerIndex": 2,
+    "x": 75,
+    "y": 25.5,
+    "bounds": {
+     "x": 66,
+     "y": 19,
+     "w": 18,
+     "h": 13
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Two different head positions",
+      "body": "The standing woman’s head is upright and turned in profile, unlike the seated figure’s downward tilt. Her pale face sits beneath a large sweep of striped hair. The two head positions give the figures different directions within the otherwise shared ornamental system.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Avoiding a fixed role",
+      "body": "The poster shows an interaction around food, but it does not establish each woman’s social identity or inner state. The useful comparison is visible: one bends towards preparation while the other remains upright. Let the poses guide observation without inventing a domestic hierarchy.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How do the two head positions divide attention between preparation and interaction?",
+    "related": [
+     "seated-face",
+     "raised-hand",
+     "hair"
+    ],
+    "number": 9
+   },
+   {
+    "id": "raised-hand",
+    "label": "The hand near the mouth",
+    "shortLabel": "The hand near the mouth",
+    "kicker": "Look closely",
+    "summary": "A vertical gesture answers the pouring action.",
+    "layerIndex": 2,
+    "x": 66.616,
+    "y": 31,
+    "bounds": {
+     "x": 60,
+     "y": 21,
+     "w": 10,
+     "h": 18
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Long fingers beside a profile",
+      "body": "The standing figure raises a slender hand near her mouth, with fingers extending vertically. The wrist and forearm continue the long lines of the body. This gesture is separate from the hands handling the bottle, giving the scene a second small centre of activity.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Gesture without overclaiming",
+      "body": "The hand may invite a reading of tasting or response, but the exact action is not fully resolved in this reproduction. Its position near the mouth is secure. Compare what can be described visually with what would require a caption or stronger documentary evidence.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What is visible about the gesture, and what remains an interpretation?",
+    "related": [
+     "standing-face",
+     "hands",
+     "pour"
+    ],
+    "number": 10
+   },
+   {
+    "id": "fabric",
+    "label": "The patterned robe",
+    "shortLabel": "The patterned robe",
+    "kicker": "Look closely",
+    "summary": "Repeated flowers hold a tall silhouette together.",
+    "layerIndex": 2,
+    "x": 82.47,
+    "y": 68,
+    "bounds": {
+     "x": 68,
+     "y": 38,
+     "w": 29,
+     "h": 60
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Pattern follows the body",
+      "body": "Small yellow floral motifs repeat over the standing figure’s pale robe. Dark contour lines describe folds and the long outer edge. The flowers remain distinct from the striped hair even though both belong to the same restricted palette, helping separate neighbouring textures.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A decorative hierarchy",
+      "body": "The robe’s small motifs are regular enough to become a texture from a distance. Closer up, individual flowers emerge. Compare that reading with the oversized letters above: the poster shifts repeatedly between small repeated detail and large immediately recognisable forms.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which pattern remains easiest to distinguish at a distance: flowers or hair stripes?",
+    "related": [
+     "hair",
+     "name",
+     "standing-face"
+    ],
+    "number": 11
+   },
+   {
+    "id": "initials",
+    "label": "The small J. T. initials",
+    "shortLabel": "The small J. T. initials",
+    "kicker": "Words and meaning",
+    "summary": "A tiny signature closes the ornamental field.",
+    "layerIndex": 0,
+    "x": 94.055,
+    "y": 97,
+    "bounds": {
+     "x": 90,
+     "y": 95,
+     "w": 8,
+     "h": 4
+    },
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A quiet mark at the edge",
+      "body": "The initials J. T. appear at the lower-right edge, far smaller than the product name. They occupy a small interval beside the robe and border. Their scale makes them a detail for close looking rather than a competing headline within the advertisement.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Attribution checked separately",
+      "body": "The Rijksmuseum attributes the 1894 poster to Jan Toorop and records it as a colour lithograph. Those documentary facts support authorship and medium. The small initials alone would not establish all details of attribution, and the reproduction’s yellow tones are not original ink specifications.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "rijks"
+       }
+      ]
+     }
+    ],
+    "question": "Why should a visible signature still be checked against a collection record?",
+    "related": [
+     "name",
+     "fabric",
+     "crest"
+    ],
+    "number": 12
+   }
+  ],
+  "sources": [
+   {
+    "id": "rijks",
+    "title": "Rijksmuseum: Poster for Delft Salad Oil",
+    "url": "https://www.rijksmuseum.nl/en/collection/object/Poster-for-Delft-Salad-Oil--ae832e88fb6f53506d08db16cfd2d6ef",
+    "kind": "Primary source",
+    "summary": "Documents Jan Toorop, 1894, the Nederlandsche Oliefabriek commission, salad preparation and colour lithography; object RP-P-1912-2395."
+   }
+  ],
+  "tour": [
+   "name",
+   "bottles",
+   "hair",
+   "seated-face",
+   "pour",
+   "bowl"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected wording on this edition",
+    "rows": [
+     {
+      "text": "DELFTSCHE SLAOLIE",
+      "meaning": "Delft salad oil",
+      "lang": "nl"
+     },
+     {
+      "text": "N O F",
+      "meaning": "Letters within the central emblem",
+      "lang": "nl"
+     },
+     {
+      "text": "J. T.",
+      "meaning": "Initials printed at the lower-right edge",
+      "lang": "nl"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Large title, emblem letters and visible initials only. Tiny bottle-label wording is not transcribed. The raised hand is described without claiming a securely verified tasting action.",
+  "palette": [
+   {
+    "name": "Yellow accent",
+    "hex": "#d1ba48",
+    "role": "Tall letters form the upper border.",
+    "region": "name"
+   },
+   {
+    "name": "Dark contour",
+    "hex": "#2d2a23",
+    "role": "Hair and ornament share one rhythm.",
+    "region": "hair"
+   },
+   {
+    "name": "Pale robe",
+    "hex": "#ccc4ad",
+    "role": "Repeated flowers hold a tall silhouette together.",
+    "region": "fabric"
+   },
+   {
+    "name": "Grey modelling",
+    "hex": "#9c9a8d",
+    "role": "A quiet profile sits inside sweeping hair.",
+    "region": "seated-face"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in this installed reproduction. They describe this image, not original printing inks or a colour standard.",
+  "connections": [
+   {
+    "label": "Lines become gestures",
+    "title": "Hair, fabric and background share a rhythm",
+    "text": "The curved ornamental lines continue visually into the clothing and the bent posture of the seated woman.",
+    "anchors": [
+     [
+      0,
+      0.20045731707317074,
+      0.3505
+     ],
+     [
+      1,
+      0.31021341463414637,
+      0.6405
+     ]
+    ],
+    "id": "delftsche-slaolie-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "From name to use",
+    "title": "A product title above a domestic action",
+    "text": "The tall lettering names the product while the bowl and hands show a small scene of preparation and tasting.",
+    "anchors": [
+     [
+      4,
+      0.45960365853658536,
+      0.0805
+     ],
+     [
+      3,
+      0.43064024390243905,
+      0.8605
+     ]
+    ],
+    "id": "delftsche-slaolie-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

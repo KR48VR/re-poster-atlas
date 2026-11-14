@@ -1,0 +1,568 @@
+{
+ "poster": {
+  "id": "visit-palestine",
+  "title": "Visit Palestine",
+  "year": "1936",
+  "yearNumber": 1936,
+  "creator": "Franz Kraus",
+  "country": "Mandatory Palestine",
+  "countries": [
+   "Mandatory Palestine"
+  ],
+  "region": "West Asia & Caucasus",
+  "category": "Advertising",
+  "edition": "1936 tourism design commissioned by the Tourist Development Association of Palestine. Reproduction of the original design, from the Palestine Poster Project Archives via Wikimedia Commons.",
+  "image": "images/full/visit-palestine.jpg",
+  "ratio": 0.6750572082379863,
+  "imageWidth": 590,
+  "imageHeight": 874,
+  "alt": "A dark olive tree frames a golden view of Jerusalem, with the Dome of the Rock above orange terrain and large blue Palestine lettering at the bottom.",
+  "blurb": "A dark tree becomes a frame around a luminous city, turning a landscape into an invitation.",
+  "notes": [
+   {
+    "title": "A tree doubles as a frame",
+    "body": "The trunk occupies the left edge while dense foliage spreads across the top. Looking past this dark foreground makes the sunlit city feel like a view discovered through an opening."
+   },
+   {
+    "title": "A landmark holds the middle distance",
+    "body": "The dark dome and blue architectural details stand out among pale buildings. Warm orange land in front and pale yellow sky behind give the landmark a clear position between near and far."
+   },
+   {
+    "title": "The original invitation and its afterlife",
+    "body": "The Tourist Development Association commissioned this image in British Mandatory Palestine. Its 1936 tourism context precedes the poster’s later reprints and political reuse; the large place name acquired new readings as history changed."
+   }
+  ],
+  "source": "https://www.tamuseum.art/en/exhibition/the-square-19322022/",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Visit_Palestine_by_Franz_Kraus_for_the_Tourist_Development_Association_of_Palestine.jpg",
+  "credit": "Franz Kraus / Tourist Development Association of Palestine, 1936. Image from the Palestine Poster Project Archives via Wikimedia Commons; underlying rights may vary by jurisdiction.",
+  "imageCredit": "Franz Kraus / Tourist Development Association of Palestine, 1936. Image from the Palestine Poster Project Archives via Wikimedia Commons; underlying rights may vary by jurisdiction.",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Visit_Palestine_by_Franz_Kraus_for_the_Tourist_Development_Association_of_Palestine.jpg",
+  "anchor": [
+   0.7,
+   0.45
+  ],
+  "accent": "#b56f26",
+  "anchorLayer": 0,
+  "primaryOrigin": "Mandatory Palestine",
+  "thumb": "images/catalogue/visit-palestine.webp"
+ },
+ "studyData": {
+  "intro": "A dark olive tree frames a luminous view of Jerusalem, while two very different lines of lettering turn the landscape into an invitation. This is a 1936 tourism design with a later political afterlife; those contexts deserve to be distinguished.",
+  "initial": "canopy",
+  "regions": [
+   {
+    "id": "canopy",
+    "label": "A canopy with openings",
+    "shortLabel": "A canopy with openings",
+    "kicker": "An irregular upper frame",
+    "summary": "Dark foliage makes many small windows of light.",
+    "x": 50,
+    "y": 17.5,
+    "bounds": {
+     "x": 3,
+     "y": 2,
+     "w": 94,
+     "h": 31
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An irregular upper frame",
+      "body": "The canopy covers almost the whole top edge. Small yellow openings break its dark mass into clusters, while larger gaps reveal the sky below. The foliage is highly simplified, yet its uneven outline feels less rigid than the printed border around the sheet.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A view through something",
+      "body": "The tree makes the landscape a view through a foreground object rather than an unobstructed panorama. Its shade can create a sense of shelter or invitation. That is a possible response to the framing, not evidence of what every visitor was expected to feel.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Do the yellow gaps read as leaves, sky or both?",
+    "related": [
+     "trunk",
+     "sky"
+    ],
+    "number": 1
+   },
+   {
+    "id": "trunk",
+    "label": "The tree as a side frame",
+    "shortLabel": "The tree as a side frame",
+    "kicker": "One connected dark shape",
+    "summary": "A dark trunk links canopy and lower title field.",
+    "x": 19.5,
+    "y": 51,
+    "bounds": {
+     "x": 3,
+     "y": 19,
+     "w": 33,
+     "h": 64
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "One connected dark shape",
+      "body": "The trunk widens at the lower left and merges with the dark band behind VISIT. This makes the foreground tree part of the poster’s lettering structure as well as its landscape. The blue oval marks near its base are small interruptions in that continuous dark area.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Weight on one side",
+      "body": "Most of the heavy foreground mass sits on the left. The distant dome and dense architectural group toward the right help counter it. This unequal arrangement is a balance of different shapes, not a mirror image or a requirement that both sides contain equal detail.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Follow the tree downward: where does it become a graphic base?",
+    "related": [
+     "canopy",
+     "visit"
+    ],
+    "number": 2
+   },
+   {
+    "id": "sky",
+    "label": "A golden opening",
+    "shortLabel": "A golden opening",
+    "kicker": "A pause between busy areas",
+    "summary": "Yellow sky lies between the tree and city.",
+    "x": 55.5,
+    "y": 29,
+    "bounds": {
+     "x": 15,
+     "y": 20,
+     "w": 81,
+     "h": 18
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A pause between busy areas",
+      "body": "The sky is more open than the foliage above or buildings below. Near the horizon, several pale horizontal streaks cross its yellow field. This calmer band gives the eye a place to pause before moving into the many small rectangles and domes of the city.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "An idealized invitation",
+      "body": "The Tel Aviv Museum identifies Franz Kraus’s 1936 commission for the Tourist Development Association of Palestine. Its account sets the peaceful view against the tensions of British Mandatory Palestine in that year. The image is a selective tourism presentation, not a complete record of everyday conditions.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "museum"
+       }
+      ]
+     }
+    ],
+    "question": "Where do thin horizontal lines interrupt the broad colour?",
+    "related": [
+     "city",
+     "paths"
+    ],
+    "number": 3
+   },
+   {
+    "id": "city",
+    "label": "A city built from small shapes",
+    "shortLabel": "A city built from small shapes",
+    "kicker": "Repetition with variation",
+    "summary": "Pale roofs and walls form a dense middle band.",
+    "x": 55.5,
+    "y": 42.5,
+    "bounds": {
+     "x": 15,
+     "y": 36,
+     "w": 81,
+     "h": 13
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Repetition with variation",
+      "body": "The city is assembled from many small light blocks, arches, flat roofs and rounded forms. Warm and cool shadows distinguish neighbouring structures. Most are much smaller than the tree in front, which establishes distance without requiring a fully naturalistic rendering of every building.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Detail after the first glance",
+      "body": "From a distance the city reads as a pale band. At close range it becomes a sequence of individual shapes. This second scale rewards inspection while preserving the large tree-and-sky composition that makes the poster legible before those details are recognized.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How many different roof shapes can you find without naming buildings?",
+    "related": [
+     "dome",
+     "wall"
+    ],
+    "number": 4
+   },
+   {
+    "id": "dome",
+    "label": "The prominent domed building",
+    "shortLabel": "The prominent domed building",
+    "kicker": "A rounded focal point",
+    "summary": "A dark dome rises above a blue base.",
+    "x": 73,
+    "y": 43.5,
+    "bounds": {
+     "x": 66,
+     "y": 38,
+     "w": 14,
+     "h": 11
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A rounded focal point",
+      "body": "The dome’s curved silhouette differs from the many low rectangular buildings behind it. Its dark blue-black surface and lighter highlight give it more volume than much of the surrounding city. The blue base also introduces a concentrated cool area among cream and ochre architecture.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Naming a visible landmark",
+      "body": "The museum’s account identifies the Dome of the Rock among the Jerusalem landmarks shown. That identification is supported by the source, rather than inferred solely from a generic dome shape. The poster’s viewpoint gathers selected features into a designed image; it is not a measured architectural map.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "museum"
+       }
+      ]
+     }
+    ],
+    "question": "Which contrasts make this small landmark stand apart from the other roofs?",
+    "related": [
+     "city",
+     "trunk"
+    ],
+    "number": 5
+   },
+   {
+    "id": "wall",
+    "label": "The long city wall",
+    "shortLabel": "The long city wall",
+    "kicker": "A boundary across the image",
+    "summary": "A pale wall separates city and foreground.",
+    "x": 56,
+    "y": 53,
+    "bounds": {
+     "x": 16,
+     "y": 49,
+     "w": 80,
+     "h": 8
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A boundary across the image",
+      "body": "The wall runs almost the full width of the open landscape. Repeating small marks along its top suggest a crenellated edge, while darker faces create depth at a projecting section on the right. Its long pale strip separates detailed city from broad, warm ground.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A useful visual threshold",
+      "body": "The wall can be read as a threshold between approach and destination. The eye crosses it after following the foreground paths. This is a compositional relationship; the image alone cannot tell us who could enter, how access worked or which route a visitor would actually take.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does a vertical projection break the wall’s long horizontal rhythm?",
+    "related": [
+     "paths",
+     "city"
+    ],
+    "number": 6
+   },
+   {
+    "id": "paths",
+    "label": "Forking pale routes",
+    "shortLabel": "Forking pale routes",
+    "kicker": "Angular rather than flowing",
+    "summary": "Light lines divide an orange foreground.",
+    "x": 56,
+    "y": 63.5,
+    "bounds": {
+     "x": 16,
+     "y": 55,
+     "w": 80,
+     "h": 17
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Angular rather than flowing",
+      "body": "The foreground is divided into ochre, rust and pale-yellow pieces. Light paths branch and change direction across those broad shapes. Their angular rhythm differs from the leafy canopy and curved dome, giving the lower landscape a more faceted, graphic appearance.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "An invitation with a route",
+      "body": "The paths can make the destination seem approachable, complementing the command to visit. Yet their role is visual rather than navigational: no scale, route labels or transport instructions are supplied. The poster offers an imagined approach to a place, not practical directions through it.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Can you trace one path continuously, or do the shapes interrupt it?",
+    "related": [
+     "wall",
+     "visit"
+    ],
+    "number": 7
+   },
+   {
+    "id": "visit",
+    "label": "The smaller invitation",
+    "shortLabel": "The smaller invitation",
+    "kicker": "A verb before a place",
+    "summary": "Cream letters sit in the dark tree base.",
+    "x": 51.5,
+    "y": 77.5,
+    "bounds": {
+     "x": 34,
+     "y": 73,
+     "w": 35,
+     "h": 9
+    },
+    "layerIndex": 4,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A verb before a place",
+      "body": "VISIT is a compact line of pale capitals set against a nearly black ground. It supplies the action in the message. Its smaller size leaves the place-name below as the dominant verbal element, while the strong contrast keeps the invitation from disappearing.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "The address to a viewer",
+      "body": "The imperative speaks directly to someone outside the depicted scene. It asks for a future action rather than describing the landscape. Reading the word alongside the paths shows how writing and image can reinforce a tourism appeal without supplying details about cost, travel or accommodation.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Why does this smaller word remain clear beside the much larger one below?",
+    "related": [
+     "palestine",
+     "paths"
+    ],
+    "number": 8
+   },
+   {
+    "id": "palestine",
+    "label": "A place-name as the base",
+    "shortLabel": "A place-name as the base",
+    "kicker": "A broad typographic foundation",
+    "summary": "Large blue capitals hold the lower edge.",
+    "x": 50,
+    "y": 91,
+    "bounds": {
+     "x": 3,
+     "y": 84,
+     "w": 94,
+     "h": 14
+    },
+    "layerIndex": 5,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A broad typographic foundation",
+      "body": "The place-name stretches almost edge to edge in dense blue capitals. Its upright strokes and even baseline contrast with the tree’s irregular shape above. A pale surrounding band keeps the dark letters distinct from the dark foreground, making the bottom read as a separate, stable zone.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A later life for the image",
+      "body": "The museum records a 1995 reprint by David Tartakover with Kraus’s permission, followed by circulation in Palestinian settings. That later use differs from the original tourism commission. The same wording can acquire new meanings over time without erasing the conditions in which the first design was made.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "museum"
+       }
+      ]
+     }
+    ],
+    "question": "What changes if the place-name is hidden but the landscape remains?",
+    "related": [
+     "visit",
+     "border"
+    ],
+    "number": 9
+   },
+   {
+    "id": "border",
+    "label": "The sheet and its margin",
+    "shortLabel": "The sheet and its margin",
+    "kicker": "A frame outside the tree",
+    "summary": "A thin pale edge contains the image and type.",
+    "x": 1.5,
+    "y": 51,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 100,
+     "h": 100
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A frame outside the tree",
+      "body": "A narrow pale border encloses both the landscape and the large lower lettering. It provides a second kind of frame, more regular than the living tree. Fine texture and uneven colour in the margin remind us that this is a reproduction of a physical printed object.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Object date and reproduction",
+      "body": "The museum dates the design to 1936 and records it as a lithograph. The installed digital image is a later reproduction of that design; its worn surface does not by itself establish the date of this particular physical copy. No additional printer or edition identity is inferred from tiny marginal text.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "museum"
+       }
+      ]
+     }
+    ],
+    "question": "Where can you distinguish the printed border from wear in the reproduction?",
+    "related": [
+     "palestine",
+     "canopy"
+    ],
+    "number": 10
+   }
+  ],
+  "sources": [
+   {
+    "id": "museum",
+    "title": "Tel Aviv Museum: Visit Palestine in The Square",
+    "url": "https://www.tamuseum.art/en/exhibition/the-square-19322022/",
+    "kind": "Museum collection research",
+    "summary": "Verifies Kraus, 1936, lithograph, tourism commissioner, depicted Jerusalem landmarks, British Mandatory context and the 1995 reprint/later circulation."
+   }
+  ],
+  "tour": [
+   "canopy",
+   "dome",
+   "paths",
+   "visit",
+   "palestine",
+   "border"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected readable wording",
+    "rows": [
+     {
+      "text": "VISIT PALESTINE",
+      "meaning": "English tourism invitation and place-name printed on the design.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "This is a partial transcript of securely readable wording in the installed reproduction. Small credits, logos and review attributions are not fully transcribed; enlargement cannot restore missing source detail.",
+  "palette": [
+   {
+    "name": "Sky gold",
+    "hex": "#DBC355",
+    "role": "Light within the tree frame.",
+    "region": "sky"
+   },
+   {
+    "name": "Canopy dark",
+    "hex": "#010409",
+    "role": "The heavy foreground silhouette.",
+    "region": "canopy"
+   },
+   {
+    "name": "Ground orange",
+    "hex": "#D0610F",
+    "role": "Warm foreground against cooler architecture.",
+    "region": "paths"
+   },
+   {
+    "name": "Title blue",
+    "hex": "#263560",
+    "role": "The large lower place-name.",
+    "region": "palestine"
+   }
+  ],
+  "paletteNote": "These are individual screen-pixel samples from the installed digital reproduction, not specifications for the original inks or paper. Texture, lighting, scanning and screen settings affect their appearance.",
+  "connections": [
+   {
+    "label": "A view through a frame",
+    "title": "Tree and distant city",
+    "text": "The dark trunk and canopy surround a much lighter city. The opening makes the buildings feel farther away than the foreground tree.",
+    "anchors": [
+     [
+      3,
+      0.10932203389830508,
+      0.41018306636155605
+     ],
+     [
+      1,
+      0.690677966101695,
+      0.4559496567505721
+     ]
+    ],
+    "id": "visit-palestine-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Two kinds of blue",
+    "title": "Landmark and place name",
+    "text": "The dome and blue architecture create a compact dark accent in the city; the large blue place name repeats that weight at the bottom.",
+    "anchors": [
+     [
+      1,
+      0.7177966101694915,
+      0.4502288329519451
+     ],
+     [
+      5,
+      0.55,
+      0.915903890160183
+     ]
+    ],
+    "id": "visit-palestine-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

@@ -1,0 +1,644 @@
+{
+ "poster": {
+  "id": "book-human-acts",
+  "title": "Human Acts",
+  "year": "2014",
+  "yearNumber": 2014,
+  "coverYear": "2014",
+  "bookFirstPublication": "2014",
+  "bookAuthor": "Han Kang",
+  "bookPublisher": "Changbi",
+  "bookOrigin": "Korean novel by Han Kang, first published by Changbi in 2014; its historical context includes the 1980 Gwangju uprising.",
+  "creator": "Cover designer and photographer unverified",
+  "country": "South Korea",
+  "countries": [
+   "South Korea"
+  ],
+  "primaryOrigin": "South Korea",
+  "region": "East Asia",
+  "category": "Book cover",
+  "image": "images/full/book-human-acts.jpg",
+  "ratio": 0.6891666666666667,
+  "alt": "Many small pale flowers and green stems on a dark field surround an orange panel with vertical Korean title and author lettering.",
+  "blurb": "A calm orange label interrupts a restless field of tiny flowers.",
+  "source": "https://library.ltikorea.or.kr/originalworks/101593?currentLanguageCd=CO-LAN-ENG",
+  "credit": "Han Kang is the author. LTI Korea identifies Changbi’s 2014 Korean edition; no separate cover artist or photographer is asserted.",
+  "reproduction": "The reproduced object is 827 × 1200 pixels. Physical wear, visible image texture and edges are retained; small uncertain lettering is not reconstructed.",
+  "anchor": [
+   0.48,
+   0.4
+  ],
+  "accent": "#d68c24",
+  "edition": "Korean Changbi edition catalogued 2014, ISBN 9788936434120. LTI Korea supplies this cover through the Yes24 Open API. Exact printing and cover-design date are not separately established.",
+  "imageSource": "https://library.ltikorea.or.kr/originalworks/101593?currentLanguageCd=CO-LAN-ENG",
+  "imageCredit": "Han Kang is the author. LTI Korea identifies Changbi’s 2014 Korean edition; no separate cover artist or photographer is asserted.",
+  "posterYear": "2014",
+  "posterTerritory": "South Korea",
+  "posterDateStatus": "The displayed edition or explicitly qualified catalogue date. The original work date is recorded separately.",
+  "originNote": "Country and region describe the displayed edition’s publishing context, not the nationality of the cover designer.",
+  "originSources": [
+   {
+    "title": "Displayed object record",
+    "url": "https://library.ltikorea.or.kr/originalworks/101593?currentLanguageCd=CO-LAN-ENG"
+   }
+  ],
+  "notes": [
+   {
+    "title": "The displayed edition",
+    "body": "Korean Changbi edition catalogued 2014, ISBN 9788936434120. LTI Korea supplies this cover through the Yes24 Open API. Exact printing and cover-design date are not separately established."
+   },
+   {
+    "title": "Writing and image-making",
+    "body": "Han Kang is the author. LTI Korea identifies Changbi’s 2014 Korean edition; no separate cover artist or photographer is asserted."
+   },
+   {
+    "title": "A visible design relationship",
+    "body": "A calm orange label interrupts a restless field of tiny flowers."
+   }
+  ],
+  "downloadURL": "https://image.yes24.com/goods/13137546?target=default",
+  "creditSources": [
+   {
+    "title": "Source for the displayed object and recorded credits",
+    "url": "https://library.ltikorea.or.kr/originalworks/101593?currentLanguageCd=CO-LAN-ENG"
+   }
+  ],
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-human-acts.webp"
+ },
+ "studyData": {
+  "intro": "Pale flowers crowd a dark field around a calm orange title panel. The visual study follows scale, overlap and reading order, while the documented context remains distinct from any proposed symbolism for a flower.",
+  "initial": "flowers",
+  "regions": [
+   {
+    "id": "flowers",
+    "label": "Small pale flower heads",
+    "shortLabel": "Small pale flower heads",
+    "kicker": "A FIELD OF REPEATED SMALL SHAPES",
+    "summary": "Many tiny forms make a dense surface.",
+    "x": 19.16566,
+    "y": 20.04167,
+    "bounds": {
+     "x": 3,
+     "y": 3,
+     "w": 27,
+     "h": 30
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A field of repeated small shapes",
+      "body": "The flower heads vary in orientation, size and brightness. Some appear as tiny pale points, others as larger clusters with visible petal shapes. Their repetition creates density without arranging them into a regular printed grid.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Pattern that remains organic",
+      "body": "From a distance the flowers can become a pattern, while close viewing reveals individual differences. The cover can therefore move between a broad texture and many small living-looking forms without changing its overall arrangement.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "At what viewing distance do you stop seeing individual flowers and begin seeing a pattern?",
+    "related": [
+     "stems",
+     "panel"
+    ],
+    "layerIndex": 2,
+    "number": 1
+   },
+   {
+    "id": "stems",
+    "label": "Green stems and buds",
+    "shortLabel": "Green stems and buds",
+    "kicker": "DARK CONNECTIONS WITHIN THE PATTERN",
+    "summary": "Fine green lines connect the pale clusters.",
+    "x": 12.63603,
+    "y": 43.875,
+    "bounds": {
+     "x": 2,
+     "y": 26,
+     "w": 28,
+     "h": 41
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Dark connections within the pattern",
+      "body": "Slender stems and buds occupy the spaces between brighter heads. Their green is less conspicuous than the pale flowers, so they become easier to follow when attention shifts away from the orange panel toward the left side.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "No botanical identity is asserted",
+      "body": "The reproduction clearly shows stems, buds and flower heads, but the consulted edition records do not identify a species or explain its selection. A visual description can remain specific without turning resemblance into a botanical or symbolic claim.",
+      "evidence": "uncertain",
+      "sources": [
+       {
+        "id": "cover"
+       }
+      ]
+     }
+    ],
+    "question": "Which stems can you actually follow, and where do they disappear into the dark?",
+    "related": [
+     "flowers",
+     "gaps"
+    ],
+    "layerIndex": 1,
+    "number": 2
+   },
+   {
+    "id": "panel",
+    "label": "Orange title panel",
+    "shortLabel": "Orange title panel",
+    "kicker": "A LARGE, COMPARATIVELY QUIET FIELD",
+    "summary": "One orderly shape interrupts the busy flowers.",
+    "x": 61.00363,
+    "y": 41.04167,
+    "bounds": {
+     "x": 32,
+     "y": 20,
+     "w": 37,
+     "h": 42
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A large, comparatively quiet field",
+      "body": "The orange panel is much larger than any single flower head. Its relatively flat colour and broad interior create a calm area for reading, sharply contrasting with the many orientations and tonal changes in the surrounding photograph.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A deliberate pause",
+      "body": "The panel can be read as a pause within the floral density. It does not remove the flowers from the cover; instead, its distinct scale and simpler surface make the title accessible while leaving the pattern visible on every side.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would the title remain equally easy to find if its letters sat directly over the flowers?",
+    "related": [
+     "title",
+     "edge"
+    ],
+    "layerIndex": 3,
+    "number": 3
+   },
+   {
+    "id": "edge",
+    "label": "Shaped panel corners",
+    "shortLabel": "Shaped panel corners",
+    "kicker": "A BORDER THAT TURNS INWARD AND OUTWARD",
+    "summary": "Small curves give the label a particular outline.",
+    "x": 35.00605,
+    "y": 24.04167,
+    "bounds": {
+     "x": 32,
+     "y": 20,
+     "w": 8,
+     "h": 9
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A border that turns inward and outward",
+      "body": "The panel’s corners have small ornamental changes rather than simple right angles. These changes are modest compared with the panel’s overall size, but they keep the orange area from feeling like an arbitrary rectangular overlay.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A bridge between order and irregularity",
+      "body": "The shaped corners soften the transition between the panel’s orderly reading space and the irregular flower field. They offer a controlled kind of curvature alongside the less predictable curves of stems and petals.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What relationship do the panel’s small corner curves have to the flowers around them?",
+    "related": [
+     "panel",
+     "left-overlap"
+    ],
+    "layerIndex": 3,
+    "number": 4
+   },
+   {
+    "id": "title",
+    "label": "Vertical Korean title",
+    "shortLabel": "Vertical Korean title",
+    "kicker": "THE KOREAN WORDING",
+    "summary": "A narrow dark column anchors the label.",
+    "x": 49.87908,
+    "y": 40.625,
+    "bounds": {
+     "x": 45,
+     "y": 25,
+     "w": 11,
+     "h": 33
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "The Korean wording",
+      "body": "소년이 온다 literally means “the boy is coming.” Human Acts is the published English title of the novel, not a word-for-word rendering of this cover’s Korean phrase. The vertical arrangement separates the words within a narrow central route.",
+      "evidence": "observation",
+      "originalText": "소년이 온다",
+      "lang": "ko"
+     },
+     {
+      "kind": "design",
+      "heading": "Dark marks on warm colour",
+      "body": "The title’s dark strokes have strong contrast against orange and little visual competition inside the panel. Their scale is smaller than the panel itself, so orange space continues to surround the wording rather than being filled edge to edge.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "How does the literal Korean phrase invite a different first expectation from the English title?",
+    "related": [
+     "author",
+     "panel"
+    ],
+    "layerIndex": 4,
+    "number": 5
+   },
+   {
+    "id": "author",
+    "label": "Author and novel line",
+    "shortLabel": "Author and novel line",
+    "kicker": "HAN KANG’S NOVEL",
+    "summary": "A smaller column identifies the writer.",
+    "x": 38.02902,
+    "y": 40.04167,
+    "bounds": {
+     "x": 35,
+     "y": 30,
+     "w": 6,
+     "h": 23
+    },
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Han Kang’s novel",
+      "body": "The smaller vertical wording identifies 한강 and 장편소설: Han Kang and a full-length novel. Its position beside the larger title makes it clearly secondary while keeping the essential book information together within the orange panel.",
+      "evidence": "observation",
+      "originalText": "한강 장편소설",
+      "lang": "ko"
+     },
+     {
+      "kind": "context",
+      "heading": "A Korean edition with a documented context",
+      "body": "LTI Korea identifies the Korean Changbi book as published in 2014 and relates the novel to the May 1980 Gwangju uprising. That establishes literary context; it does not prove that a particular flower stands for a named person or event.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cover"
+       }
+      ]
+     }
+    ],
+    "question": "Why is it useful to distinguish documented historical context from a visual association with flowers?",
+    "related": [
+     "title",
+     "flowers"
+    ],
+    "layerIndex": 5,
+    "number": 6
+   },
+   {
+    "id": "left-overlap",
+    "label": "Flowers at the left edge",
+    "shortLabel": "Flowers at the left edge",
+    "kicker": "AN IMPERFECTLY SEALED BOUNDARY",
+    "summary": "The pattern touches the reading panel.",
+    "x": 35.00605,
+    "y": 29.875,
+    "bounds": {
+     "x": 30,
+     "y": 27,
+     "w": 9,
+     "h": 8
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An imperfectly sealed boundary",
+      "body": "Small pale flowers interrupt the left edge of the orange area. Their presence prevents the panel from appearing completely detached from the surrounding photograph, while its main interior remains clear enough to hold the wording.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Contact between two visual systems",
+      "body": "The overlap lets organic detail and the orderly label meet locally. Because it happens near the edge rather than through the title’s main strokes, it adds complexity without making the central reading path equally busy.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would the effect be the same if the flowers crossed the centre of the title instead of the edge?",
+    "related": [
+     "edge",
+     "right-overlap"
+    ],
+    "layerIndex": 2,
+    "number": 7
+   },
+   {
+    "id": "right-overlap",
+    "label": "Flowers at the lower right",
+    "shortLabel": "Flowers at the lower right",
+    "kicker": "PALE FORMS BESIDE ORANGE",
+    "summary": "Another overlap loosens the panel’s lower boundary.",
+    "x": 64.38936,
+    "y": 57.54167,
+    "bounds": {
+     "x": 57,
+     "y": 48,
+     "w": 13,
+     "h": 15
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Pale forms beside orange",
+      "body": "At the lower-right part of the panel, pale flower shapes and green details approach or interrupt the orange outline. Their small scale contrasts with the large field, making this a close-looking detail rather than a second main focal point.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Asymmetry within a stable label",
+      "body": "The unequal overlaps on the two sides keep the panel from feeling perfectly isolated or mirrored. Its overall shape remains stable, but the contact points suggest that the flower field continues around it.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which overlap do you notice first, and is that because of size, brightness or position?",
+    "related": [
+     "left-overlap",
+     "panel"
+    ],
+    "layerIndex": 2,
+    "number": 8
+   },
+   {
+    "id": "publisher",
+    "label": "Small publisher mark",
+    "shortLabel": "Small publisher mark",
+    "kicker": "A QUIET SIGNATURE BELOW THE PATTERN",
+    "summary": "A pale mark closes the cover near the foot.",
+    "x": 50.84643,
+    "y": 93.95833,
+    "bounds": {
+     "x": 45,
+     "y": 90,
+     "w": 13,
+     "h": 7
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A quiet signature below the pattern",
+      "body": "The small pale Changbi mark sits near the bottom centre. It is far smaller than the orange panel and separated from it by a substantial area of flowers, so it serves as a secondary closing detail.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "The displayed Korean publication",
+      "body": "LTI Korea’s record identifies Changbi and ISBN 9788936434120, and explicitly supplies the cover via the Yes24 Open API. This links the image to a particular Korean publication; it does not independently date every printing of the same artwork.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cover"
+       }
+      ]
+     }
+    ],
+    "question": "Why might a publisher’s mark remain small even on a very recognisable book?",
+    "related": [
+     "title",
+     "bottom"
+    ],
+    "layerIndex": 6,
+    "number": 9
+   },
+   {
+    "id": "gaps",
+    "label": "Near-black flower gaps",
+    "shortLabel": "Near-black flower gaps",
+    "kicker": "THE PATTERN CONTAINS REAL SPACES",
+    "summary": "Dark intervals make pale forms legible.",
+    "x": 5.01814,
+    "y": 29.04167,
+    "bounds": {
+     "x": 1,
+     "y": 20,
+     "w": 11,
+     "h": 18
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "The pattern contains real spaces",
+      "body": "The spaces between stems and flower heads are very dark. These intervals separate the pale clusters and prevent them from merging into one continuous light mass, particularly along the outer sides of the orange panel.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Brightness depends on its neighbour",
+      "body": "The flowers appear especially luminous beside the dark gaps. That relationship is more informative than calling every pale area white: the reproduction contains cream, grey and greenish tones whose apparent brightness changes with their surroundings.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How would the flowers change if the gaps behind them became a medium grey?",
+    "related": [
+     "flowers",
+     "stems"
+    ],
+    "layerIndex": 0,
+    "number": 10
+   },
+   {
+    "id": "bottom",
+    "label": "Flower field beneath the label",
+    "shortLabel": "Flower field beneath the label",
+    "kicker": "A SUBSTANTIAL LOWER CONTINUATION",
+    "summary": "The pattern continues after the title is read.",
+    "x": 25.21161,
+    "y": 77.95833,
+    "bounds": {
+     "x": 3,
+     "y": 64,
+     "w": 40,
+     "h": 27
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A substantial lower continuation",
+      "body": "Below the orange panel, the flower field occupies a large uninterrupted area before the publisher mark. The title therefore does not end the visual experience; the eye can return to the smaller pale clusters and fine green connections.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A second pace of attention",
+      "body": "After the clearly organised title, the lower flowers offer slower, less directed looking. There is no single compulsory route through them, so the cover can alternate between identifying a book and lingering on its surface.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does your eye go once you have finished reading the title?",
+    "related": [
+     "publisher",
+     "flowers"
+    ],
+    "layerIndex": 2,
+    "number": 11
+   },
+   {
+    "id": "reproduction",
+    "label": "A photographed texture",
+    "shortLabel": "A photographed texture",
+    "kicker": "SOFT AND SHARP DETAILS COEXIST",
+    "summary": "The visible image supports limited claims.",
+    "x": 90.99154,
+    "y": 49.04167,
+    "bounds": {
+     "x": 82,
+     "y": 26,
+     "w": 16,
+     "h": 50
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Soft and sharp details coexist",
+      "body": "Some flowers are crisp enough to show distinct petals while others blur into the dark. This variation is visible in the reproduction and helps distinguish the floral image from the more consistently edged lettering and panel.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Credits left open",
+      "body": "The consulted records establish author, publisher, language and edition context but do not name this cover’s designer or photographer. Those roles remain unverified; the close reading describes the shown image without assigning an unsupported maker or technique.",
+      "evidence": "uncertain",
+      "sources": [
+       {
+        "id": "cover"
+       }
+      ]
+     }
+    ],
+    "question": "Which observations remain secure even when the photographer’s identity is unknown?",
+    "related": [
+     "gaps",
+     "panel"
+    ],
+    "layerIndex": 0,
+    "number": 12
+   }
+  ],
+  "sources": [
+   {
+    "id": "cover",
+    "title": "The displayed cover",
+    "url": "https://library.ltikorea.or.kr/originalworks/101593?currentLanguageCd=CO-LAN-ENG",
+    "kind": "Visual and edition source",
+    "summary": "Korean Changbi edition catalogued 2014, ISBN 9788936434120. LTI Korea supplies this cover through the Yes24 Open API. Exact printing and cover-design date are not separately established."
+   }
+  ],
+  "tour": [
+   "flowers",
+   "panel",
+   "title",
+   "author",
+   "right-overlap",
+   "publisher"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected cover wording",
+    "rows": [
+     {
+      "text": "소년이 온다",
+      "meaning": "The boy is coming — literal title; published in English as Human Acts",
+      "lang": "ko"
+     },
+     {
+      "text": "한강",
+      "meaning": "Han Kang — author",
+      "lang": "ko"
+     },
+     {
+      "text": "장편소설",
+      "meaning": "Full-length novel",
+      "lang": "ko"
+     },
+     {
+      "text": "창비",
+      "meaning": "Changbi — publisher",
+      "lang": "ko"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected clearly legible cover wording. Line breaks and casing may be regularized. Small uncertain print is omitted rather than guessed.",
+  "palette": [
+   {
+    "name": "Near-black gap",
+    "hex": "#080808",
+    "role": "Dark separation between pale heads.",
+    "region": "gaps"
+   },
+   {
+    "name": "Pale flower",
+    "hex": "#F1EFDA",
+    "role": "One light flower surface.",
+    "region": "flowers"
+   },
+   {
+    "name": "Green stem",
+    "hex": "#444F24",
+    "role": "A darker connecting plant detail.",
+    "region": "stems"
+   },
+   {
+    "name": "Orange panel",
+    "hex": "#EF8702",
+    "role": "The calm reading field.",
+    "region": "panel"
+   }
+  ],
+  "paletteNote": "Samples come from individual pixels in this reproduction. They describe its visible colour, not original printing inks or an exact historical colour standard."
+ }
+}

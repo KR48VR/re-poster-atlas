@@ -1,0 +1,668 @@
+{
+ "poster": {
+  "id": "the-third-man",
+  "title": "The Third Man",
+  "year": "1949",
+  "yearNumber": 1949,
+  "creator": "Selznick Releasing Organization · US poster",
+  "filmCreator": "Carol Reed",
+  "country": "United Kingdom / United States",
+  "countries": [
+   "United Kingdom",
+   "United States"
+  ],
+  "region": "Europe",
+  "ratio": 0.6589516678012253,
+  "accent": "#bc3023",
+  "anchor": [
+   0.3,
+   0.25
+  ],
+  "edition": "US theatrical one-sheet, copyright 1949. A different design was used for the UK release.",
+  "alt": "The Third Man poster with an enormous red numeral 3 and title on black, a green stairway and distant man above a large woman’s face, with smaller armed figures around her.",
+  "blurb": "An oversized red numeral descends into a green city of shadows, while a face fills the foreground.",
+  "notes": [
+   {
+    "title": "The number becomes architecture",
+    "body": "The red 3 is much taller than the adjacent words. It breaks through the title band into the picture below, joining the typography to the vertical space of the stairway."
+   },
+   {
+    "title": "Colour divides the drama",
+    "body": "Red belongs to the title and the woman’s hair; green and yellow describe the stairs and smaller scenes. These distinct zones keep an intricate montage readable."
+   },
+   {
+    "title": "One sheet, several distances",
+    "body": "A distant standing figure appears high on the stairs. The enlarged foreground face and smaller surrounding figures compress several scales into one image, giving the eye places to approach and retreat."
+   }
+  ],
+  "source": "https://www.bfi.org.uk/film/66989662-47c2-5fc6-9085-b0107ca99723/the-third-man",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:The_Third_Man_(1949_American_theatrical_poster).jpg",
+  "credit": "1949 US one-sheet, Selznick Releasing Organization; scan from Heritage Auctions via Wikimedia Commons. The Commons reproduction was cropped and lightly retouched to repair a torn corner. British film / British–US production context; US campaign artwork.",
+  "category": "Film",
+  "image": "images/full/the-third-man.jpg",
+  "posterYear": "1949",
+  "posterTerritory": "United States",
+  "primaryOrigin": "United Kingdom",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/the-third-man.webp"
+ },
+ "studyData": {
+  "intro": "This US sheet turns a numeral into an oversized architectural interruption, then compresses portraits, a gun and a distant stairway into one window. Its black surround and coloured montage are specific to this edition, rather than a claim that all campaigns for the 1949 film looked alike.",
+  "initial": "three",
+  "regions": [
+   {
+    "id": "three",
+    "number": 1,
+    "label": "The enormous red 3",
+    "shortLabel": "The enormous red 3",
+    "kicker": "TYPE BREAKS ITS ALLOTTED BAND",
+    "summary": "A numeral crosses the boundary of the picture.",
+    "x": 34,
+    "y": 23,
+    "bounds": {
+     "x": 27,
+     "y": 12,
+     "w": 13,
+     "h": 22
+    },
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Type breaks its allotted band",
+      "body": "The red numeral extends from the black title area into the pale upper corner of the image. Its height far exceeds the neighbouring words. That crossing makes the title part of the picture’s vertical structure rather than a label placed entirely outside it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "A number inside a word",
+      "body": "The title uses 3RD in place of the fully written ordinal third. The enlarged number gains independence as a shape, yet the smaller RD keeps it grammatically connected to the phrase. This is a typographic construction visible on the sheet, not a hidden numerical code.",
+      "evidence": "observation",
+      "originalText": "THE 3RD MAN",
+      "lang": "en"
+     }
+    ],
+    "question": "What changes when you cover the lower part of the 3 that enters the illustration?",
+    "related": [
+     "title",
+     "stairs",
+     "frame"
+    ],
+    "layerIndex": 5
+   },
+   {
+    "id": "title",
+    "number": 2,
+    "label": "A red line across black",
+    "shortLabel": "A red line across black",
+    "kicker": "THE LETTERS SHARE A BRIGHT FIELD OF COLOUR",
+    "summary": "Compact capitals hold the title together.",
+    "x": 66,
+    "y": 20,
+    "bounds": {
+     "x": 11,
+     "y": 12,
+     "w": 77,
+     "h": 23
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "The letters share a bright field of colour",
+      "body": "THE, RD and MAN use the same saturated red as the huge numeral, helping them remain one title despite their different sizes. Tight spacing and tall strokes create a firm horizontal band across the otherwise dark upper sheet.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An echo in the portrait",
+      "body": "The red-orange hair below repeats part of the title’s warm emphasis. The correspondence links word and portrait through colour without making them identical. It does not establish an intentional symbolism for red or a direct relationship between the numeral and the woman.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which element would you read first if the numeral were the same height as the other letters?",
+    "related": [
+     "three",
+     "hair"
+    ],
+    "layerIndex": 5
+   },
+   {
+    "id": "stairs",
+    "number": 3,
+    "label": "A diagonal stairway",
+    "shortLabel": "A diagonal stairway",
+    "kicker": "ARCHITECTURE SUPPLIES A ROUTE",
+    "summary": "Sloping lines lead toward a distant standing figure.",
+    "x": 70,
+    "y": 41,
+    "bounds": {
+     "x": 14,
+     "y": 25,
+     "w": 74,
+     "h": 29
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Architecture supplies a route",
+      "body": "Dark railing lines and stair edges rise through green and yellow areas toward the upper-right figure. The diagonals contrast with the title’s straight baseline. They provide a route through the montage even where painted shadows make the exact architecture hard to reconstruct.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A city shaped by the story",
+      "body": "BFI identifies the film as Carol Reed’s 1949 thriller set in postwar Vienna. That supports the urban and historical context, but it does not identify this painted staircase as a particular real location or prove that the montage is a single continuous scene.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "bfi"
+       }
+      ]
+     }
+    ],
+    "question": "Trace the handrail: where does its direction take your eye?",
+    "related": [
+     "silhouette",
+     "three",
+     "right-group"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "silhouette",
+    "number": 4,
+    "label": "The distant figure above",
+    "shortLabel": "The distant figure above",
+    "kicker": "A SMALL PERSON WITH STRONG CONTRAST",
+    "summary": "A small dark body stands against a yellow strip.",
+    "x": 66,
+    "y": 35,
+    "bounds": {
+     "x": 60,
+     "y": 30,
+     "w": 11,
+     "h": 16
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A small person with strong contrast",
+      "body": "The standing figure is mostly dark, placed against a narrow bright opening. Its small scale and limited detail differ sharply from the large foreground face. The light behind it makes the silhouette legible without requiring much facial information.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A question rather than an answer",
+      "body": "The distant figure can invite curiosity about who is waiting above the stairs. The poster gives a location and a shadowy human presence, but the image alone does not securely identify the character or explain the encounter. The study leaves that question open.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does this figure’s size compare with the face below, and what does that do to the sense of distance?",
+    "related": [
+     "stairs",
+     "face"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "face",
+    "number": 5,
+    "label": "A face larger than the scene",
+    "shortLabel": "A face larger than the scene",
+    "kicker": "A CLOSE PORTRAIT IN A DISTANT WORLD",
+    "summary": "The central portrait brings a human scale forward.",
+    "x": 47,
+    "y": 59,
+    "bounds": {
+     "x": 28,
+     "y": 44,
+     "w": 39,
+     "h": 34
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A close portrait in a distant world",
+      "body": "The pale face and dark eyebrows occupy much more area than the small stairway figure. The head overlaps the surrounding montage and looks outward at an angle. Warm skin highlights distinguish it from the green architecture and darker lower-right grouping.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Montage is not literal scale",
+      "body": "The enlarged portrait does not mean a giant person stands in the stairway. It combines a close view with smaller narrative fragments on one sheet. Recognising that change in scale allows the design to be read without forcing every element into one physical space.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which painted edge separates the face most strongly from the smaller people behind?",
+    "related": [
+     "hair",
+     "silhouette",
+     "gun"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "hair",
+    "number": 6,
+    "label": "Red curls around the portrait",
+    "shortLabel": "Red curls around the portrait",
+    "kicker": "A CONTINUOUS WARM SURROUND",
+    "summary": "A broad warm contour makes the head a strong shape.",
+    "x": 59,
+    "y": 66,
+    "bounds": {
+     "x": 30,
+     "y": 43,
+     "w": 38,
+     "h": 36
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A continuous warm surround",
+      "body": "The hair forms curved red-orange bands with dark internal shadows. It encloses the face on several sides and extends downward into a large rounded mass. The repeated curls provide texture while the overall contour remains readable as one broad shape.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Colour groups the montage",
+      "body": "The hair shares warmth with the left-hand figure and the title, while greens dominate the upper and right scenes. These colour groupings help the crowded image remain navigable. They are compositional observations rather than evidence of a documented colour-coding system for characters.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Follow the outer hair edge: where does it make the portrait feel separate from the background?",
+    "related": [
+     "face",
+     "title"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "left-man",
+    "number": 7,
+    "label": "The figure at left",
+    "shortLabel": "The figure at left",
+    "kicker": "A SECONDARY FACE WITH A DIRECTION",
+    "summary": "A hat and angled gaze form a smaller portrait.",
+    "x": 20,
+    "y": 58,
+    "bounds": {
+     "x": 11,
+     "y": 46,
+     "w": 21,
+     "h": 31
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A secondary face with a direction",
+      "body": "The left figure’s brim makes a strong diagonal above a pale face. His gaze points across the sheet toward the larger portrait and right-hand scene. The brown-yellow clothing keeps him distinct from the green architecture while connecting him to the warm foreground.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A glance can join fragments",
+      "body": "The direction of the face creates a possible visual link to the central group, even though the montage does not prove a single shared moment. Following that glance is an interpretive way to move through the poster, not a claim about the exact film scene.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Compare this hat’s straight brim with the central hair’s curved outline.",
+    "related": [
+     "gun",
+     "face"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "gun",
+    "number": 8,
+    "label": "A small weapon at the lower left",
+    "shortLabel": "A small weapon at the lower left",
+    "kicker": "A DARK LINE WITH CONCENTRATED DETAIL",
+    "summary": "A sharp horizontal shape interrupts the warm portraits.",
+    "x": 36,
+    "y": 73,
+    "bounds": {
+     "x": 23,
+     "y": 70,
+     "w": 24,
+     "h": 7
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A dark line with concentrated detail",
+      "body": "The pictured handgun projects horizontally from the left figure’s hand toward the centre. Its barrel is straighter and darker than the nearby skin and hair. The small shape becomes conspicuous because it interrupts a group of mostly rounded human forms.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A genre cue in little space",
+      "body": "The weapon can suggest danger within a poster otherwise dominated by faces. That is a reading of its presence and direction, not evidence of a particular act being committed in the depicted moment. A small object can alter the larger scene’s tone without explaining the plot.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does this small object change the invitation made by the large face?",
+    "related": [
+     "left-man",
+     "face",
+     "right-group"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "right-group",
+    "number": 9,
+    "label": "Several people in one narrow strip",
+    "shortLabel": "Several people in one narrow strip",
+    "kicker": "COMPRESSED DEPTHS AT THE EDGE",
+    "summary": "Different scales make a second montage inside the first.",
+    "x": 77,
+    "y": 65,
+    "bounds": {
+     "x": 65,
+     "y": 49,
+     "w": 24,
+     "h": 29
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Compressed depths at the edge",
+      "body": "Small standing figures appear above two larger heads in the lower-right strip. Yellow-green highlights and dark outlines separate them from one another. The shifts in scale create a sequence of fragments rather than a single straightforward group portrait.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Identification has limits",
+      "body": "The arrangement invites close inspection, but naming every person from the stylised painting alone would be unreliable. The study therefore follows overlap, gaze and scale. The film’s credited cast can be read below without assuming a one-to-one identification for each painted face.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How many distinct head shapes can you locate without trying to name the characters?",
+    "related": [
+     "stairs",
+     "gun",
+     "face"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "frame",
+    "number": 10,
+    "label": "A black surround and pale window",
+    "shortLabel": "A black surround and pale window",
+    "kicker": "A FRAME WITH SEVERAL JOBS",
+    "summary": "The montage is held within a strongly bounded sheet.",
+    "x": 6,
+    "y": 54,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 100,
+     "h": 100
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A frame with several jobs",
+      "body": "Black occupies the title band, sides and lower credit area, while a pale rectangle contains the montage. That division keeps the dense picture from covering the entire sheet. The cream outer margin adds another boundary around the dark field.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A physical reproduction remains visible",
+      "body": "Folds and surface variations can be seen across the reproduced sheet. They should not automatically be described as intentional painted marks. The study distinguishes the poster’s black-and-cream layout from physical or digital traces that may belong to this particular surviving reproduction.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Would the smaller scenes be easier or harder to read if the black surround were filled with more illustration?",
+    "related": [
+     "three",
+     "cast"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "cast",
+    "number": 11,
+    "label": "Names as a lower block",
+    "shortLabel": "Names as a lower block",
+    "kicker": "FOUR NAMES IN TWO ROWS",
+    "summary": "Tall pale lettering creates order after the montage.",
+    "x": 49,
+    "y": 84,
+    "bounds": {
+     "x": 12,
+     "y": 79,
+     "w": 76,
+     "h": 11
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Four names in two rows",
+      "body": "The billing names Joseph Cotten, Valli, Orson Welles and Trevor Howard in large pale capitals. Red separators echo the title above. The arranged rows present recognisable performers after the image, without supplying a caption for every character shown.",
+      "evidence": "observation",
+      "originalText": "JOSEPH COTTEN · VALLI / ORSON WELLES · TREVOR HOWARD",
+      "lang": "en"
+     },
+     {
+      "kind": "business",
+      "heading": "A second route into the film",
+      "body": "The cast block can attract readers through names even when the montage’s story is unclear. Its orderly rows contrast with the picture’s many distances. That is an observed promotional structure, not evidence of how much any one performer contributed to ticket sales.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the lower credit block differ from the title in colour, size and spacing?",
+    "related": [
+     "frame",
+     "director"
+    ],
+    "layerIndex": 6
+   },
+   {
+    "id": "director",
+    "number": 12,
+    "label": "The director and release line",
+    "shortLabel": "The director and release line",
+    "kicker": "DIFFERENT CREDITS, DIFFERENT ROLES",
+    "summary": "The bottom closes with authorship and distribution.",
+    "x": 53,
+    "y": 93,
+    "bounds": {
+     "x": 20,
+     "y": 90,
+     "w": 59,
+     "h": 7
+    },
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Different credits, different roles",
+      "body": "The lower wording attributes production and direction to Carol Reed and identifies a Selznick release. The distinction matters: a distribution line does not name the poster artist. Likewise, the film’s by Graham Greene credit higher up is not an artwork signature.",
+      "evidence": "observation",
+      "originalText": "PRODUCED AND DIRECTED BY CAROL REED / A SELZNICK RELEASE",
+      "lang": "en"
+     },
+     {
+      "kind": "context",
+      "heading": "A British film in a US campaign",
+      "body": "BFI records The Third Man as a 1949 film directed by Carol Reed. This particular US sheet carries its own release organisation and design. The film’s origin should not be confused with the territory of the campaign or with an unverified poster-artist nationality.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "bfi"
+       }
+      ]
+     }
+    ],
+    "question": "Which words identify the filmmaker, and which identify the release organisation?",
+    "related": [
+     "cast",
+     "title"
+    ],
+    "layerIndex": 6
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed poster edition",
+    "url": "https://commons.wikimedia.org/wiki/File:The_Third_Man_(1949_American_theatrical_poster).jpg",
+    "kind": "Visual source",
+    "summary": "The reproduced sheet supports observations of visible wording, colour, composition and marks; it does not establish the designer’s intention."
+   },
+   {
+    "id": "bfi",
+    "title": "BFI: The Third Man",
+    "url": "https://www.bfi.org.uk/film/66989662-47c2-5fc6-9085-b0107ca99723/the-third-man",
+    "kind": "Film institute record",
+    "summary": "Supports Carol Reed, the 1949 film and its postwar Vienna setting, not the identity of each painted figure or staircase."
+   }
+  ],
+  "tour": [
+   "three",
+   "stairs",
+   "silhouette",
+   "face",
+   "gun",
+   "cast"
+  ],
+  "transcript": [
+   {
+    "heading": "Readable wording on this edition",
+    "rows": [
+     {
+      "text": "THE 3RD MAN",
+      "meaning": "The title uses a numeral for third.",
+      "lang": "en"
+     },
+     {
+      "text": "by GRAHAM GREENE",
+      "meaning": "A film-writing attribution, not the poster artist.",
+      "lang": "en"
+     },
+     {
+      "text": "A SELZNICK RELEASE",
+      "meaning": "Release organisation named on the sheet.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Main title and selected credits are transcribed. The tiny copyright and printer line is not reconstructed from uncertain letters.",
+  "palette": [
+   {
+    "name": "Black surround",
+    "hex": "#060503",
+    "region": "frame",
+    "role": "Separates title, image and billing."
+   },
+   {
+    "name": "Red title",
+    "hex": "#FF0000",
+    "region": "three",
+    "role": "The dominant verbal accent."
+   },
+   {
+    "name": "Green stairway",
+    "hex": "#007209",
+    "region": "stairs",
+    "role": "A contrasting architectural zone."
+   },
+   {
+    "name": "Warm face",
+    "hex": "#F6C384",
+    "region": "face",
+    "role": "The large human focal area."
+   },
+   {
+    "name": "Cream margin",
+    "hex": "#FEF7DF",
+    "region": "frame",
+    "role": "The outer sheet boundary."
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in the installed reproduction. These are not original ink specifications; scan, lighting and compression can alter colour.",
+  "connections": [
+   {
+    "label": "Three scales",
+    "title": "A large face, small figures and a distant shadow",
+    "text": "The large portrait sits close to us, the right-hand figures are smaller, and the stairway silhouette is smaller still. Scale changes turn one flat window into several depths.",
+    "anchors": [
+     [
+      2,
+      0.4495661605206074,
+      0.6153571428571428
+     ],
+     [
+      1,
+      0.663232104121475,
+      0.36678571428571427
+     ]
+    ],
+    "id": "the-third-man-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "A falling numeral",
+    "title": "The title enters the picture",
+    "text": "The red 3 drops below the rest of the title into the pale top of the picture. The diagonal stair rail then carries the eye toward the distant silhouette.",
+    "anchors": [
+     [
+      5,
+      0.34544468546637747,
+      0.2732142857142857
+     ],
+     [
+      1,
+      0.6664859002169198,
+      0.3632142857142857
+     ]
+    ],
+    "id": "the-third-man-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

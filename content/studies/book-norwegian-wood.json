@@ -1,0 +1,474 @@
+{
+ "poster": {
+  "id": "book-norwegian-wood",
+  "title": "Norwegian Wood, lower volume",
+  "year": "2004",
+  "yearNumber": 2004,
+  "coverYear": "2004",
+  "bookFirstPublication": "1987",
+  "bookAuthor": "Haruki Murakami",
+  "bookPublisher": "Kodansha",
+  "bookOrigin": "Japanese novel first published in 1987; this is the 2004 Japanese lower-volume paperback.",
+  "creator": "Cover designer unverified",
+  "country": "Japan",
+  "countries": [
+   "Japan"
+  ],
+  "primaryOrigin": "Japan",
+  "region": "East Asia",
+  "category": "Book cover",
+  "image": "images/full/book-norwegian-wood.jpg",
+  "ratio": 0.7079646017699115,
+  "alt": "A dark green cover with one narrow central column of red Japanese title, a circled lower-volume marker and the author’s name.",
+  "blurb": "A single red column makes a broad green field feel deliberate.",
+  "source": "https://www.kodansha.co.jp/book/products/0000203589",
+  "credit": "Haruki Murakami is the author. A separate designer credit for this displayed paperback has not been verified.",
+  "reproduction": "The reproduced object is 480 × 678 pixels. Physical wear, visible image texture and edges are retained; small uncertain lettering is not reconstructed.",
+  "anchor": [
+   0.5,
+   0.44
+  ],
+  "accent": "#d02d4b",
+  "edition": "Kodansha lower-volume paperback, 14 September 2004, ISBN 9784062748698. The novel first appeared in 1987. This is not described as the original 1987 hardcover.",
+  "imageSource": "https://www.kodansha.co.jp/book/products/0000203589",
+  "imageCredit": "Haruki Murakami is the author. A separate designer credit for this displayed paperback has not been verified.",
+  "posterYear": "2004",
+  "posterTerritory": "Japan",
+  "posterDateStatus": "The displayed edition or explicitly qualified catalogue date. The original work date is recorded separately.",
+  "originNote": "Country and region describe the displayed edition’s publishing context, not the nationality of the cover designer.",
+  "originSources": [
+   {
+    "title": "Displayed object record",
+    "url": "https://www.kodansha.co.jp/book/products/0000203589"
+   }
+  ],
+  "notes": [
+   {
+    "title": "The displayed edition",
+    "body": "Kodansha lower-volume paperback, 14 September 2004, ISBN 9784062748698. The novel first appeared in 1987. This is not described as the original 1987 hardcover."
+   },
+   {
+    "title": "Writing and image-making",
+    "body": "Haruki Murakami is the author. A separate designer credit for this displayed paperback has not been verified."
+   },
+   {
+    "title": "A visible design relationship",
+    "body": "A single red column makes a broad green field feel deliberate."
+   }
+  ],
+  "downloadURL": "https://dvs-cover.kodansha.co.jp/0000203589/RjpJJaMbVN7Z3lZNtsBFYObMdLsarP0TF9crHx0I.jpg",
+  "creditSources": [
+   {
+    "title": "Source for the displayed object and recorded credits",
+    "url": "https://www.kodansha.co.jp/book/products/0000203589"
+   }
+  ],
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-norwegian-wood.webp"
+ },
+ "studyData": {
+  "intro": "Four planes are enough for this deliberately spare lower-volume paperback: green field, title, volume marker and author. Look at how a narrow red column carries several kinds of information without introducing another illustration.",
+  "initial": "opening",
+  "regions": [
+   {
+    "id": "opening",
+    "label": "Opening title characters",
+    "shortLabel": "Opening title characters",
+    "kicker": "READ DOWN THE CENTRAL COLUMN",
+    "summary": "The first characters begin a vertical path.",
+    "x": 50.52083,
+    "y": 16.74041,
+    "bounds": {
+     "x": 43,
+     "y": 5,
+     "w": 14,
+     "h": 26
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Read down the central column",
+      "body": "The title begins ノルウェイ, the Japanese rendering of Norway. Its katakana characters are stacked vertically, so a reader follows the column downward rather than scanning a horizontal title across the cover.",
+      "evidence": "observation",
+      "originalText": "ノルウェイ",
+      "lang": "ja"
+     },
+     {
+      "kind": "design",
+      "heading": "Space around a thin red path",
+      "body": "The column occupies little of the cover’s width. Large green areas on both sides allow the red strokes to remain prominent without bold borders, pictures or a second competing block of text.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "What directs your first movement more strongly: the red colour or the vertical arrangement?",
+    "related": [
+     "title-ending",
+     "green"
+    ],
+    "layerIndex": 1,
+    "number": 1
+   },
+   {
+    "id": "title-ending",
+    "label": "The title’s lower words",
+    "shortLabel": "The title’s lower words",
+    "kicker": "NORWEGIAN WOOD",
+    "summary": "The column changes character shapes as it descends.",
+    "x": 50.10417,
+    "y": 49.33628,
+    "bounds": {
+     "x": 43,
+     "y": 30,
+     "w": 15,
+     "h": 30
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Norwegian Wood",
+      "body": "The complete title is ノルウェイの森, commonly published in English as Norwegian Wood. The lower の森 continues the same column, bringing a curved hiragana character and a denser kanji form into the sequence of katakana above.",
+      "evidence": "observation",
+      "originalText": "ノルウェイの森",
+      "lang": "ja"
+     },
+     {
+      "kind": "design",
+      "heading": "Different densities in one line",
+      "body": "The characters do not all occupy the same amount of red area. The dense strokes near the title’s foot form a stronger local cluster than some of the more open characters above, producing variation within an otherwise simple arrangement.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Which character looks darkest when you step back from the cover?",
+    "related": [
+     "opening",
+     "volume"
+    ],
+    "layerIndex": 1,
+    "number": 2
+   },
+   {
+    "id": "volume",
+    "label": "Circled lower-volume marker",
+    "shortLabel": "Circled lower-volume marker",
+    "kicker": "THE LOWER VOLUME",
+    "summary": "A small sign distinguishes this part of the book.",
+    "x": 50.10417,
+    "y": 62.16814,
+    "bounds": {
+     "x": 43,
+     "y": 58,
+     "w": 14,
+     "h": 10
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "The lower volume",
+      "body": "The circled 下 identifies the lower or second volume in this two-part paperback presentation. It is smaller than the surrounding name characters, but its circular boundary gives it a distinct role within the vertical column.",
+      "evidence": "observation",
+      "originalText": "下",
+      "lang": "ja"
+     },
+     {
+      "kind": "business",
+      "heading": "Selecting the correct volume",
+      "body": "Kodansha’s record identifies ISBN 9784062748698 as the lower volume of the 2004 paperback. The small marker therefore helps a reader choose the intended part; it is useful publication information, not merely an ornamental punctuation mark.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cover"
+       }
+      ]
+     }
+    ],
+    "question": "Could a reader overlook this marker if it used the same size and spacing as the title?",
+    "related": [
+     "title-ending",
+     "author"
+    ],
+    "layerIndex": 2,
+    "number": 3
+   },
+   {
+    "id": "author",
+    "label": "Vertical author name",
+    "shortLabel": "Vertical author name",
+    "kicker": "HARUKI MURAKAMI",
+    "summary": "A second name continues below the volume sign.",
+    "x": 50.10417,
+    "y": 79.12979,
+    "bounds": {
+     "x": 43,
+     "y": 68,
+     "w": 15,
+     "h": 23
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Haruki Murakami",
+      "body": "村上春樹 is the author’s name, read Murakami Haruki in Japanese name order. It is arranged vertically beneath the volume marker, keeping authorship within the same central route while distinguishing it by position.",
+      "evidence": "observation",
+      "originalText": "村上春樹",
+      "lang": "ja"
+     },
+     {
+      "kind": "design",
+      "heading": "A quiet continuation",
+      "body": "The author line uses the same red as the title rather than introducing a new accent. The small gap and intervening volume sign do the separating work, so the cover maintains a single colour relationship throughout its wording.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "How do position and spacing tell you that this is a new piece of information?",
+    "related": [
+     "volume",
+     "red"
+    ],
+    "layerIndex": 3,
+    "number": 4
+   },
+   {
+    "id": "green",
+    "label": "Broad green field",
+    "shortLabel": "Broad green field",
+    "kicker": "A LARGE UNINTERRUPTED COLOUR AREA",
+    "summary": "Most of the cover remains green.",
+    "x": 24.0625,
+    "y": 50.07375,
+    "bounds": {
+     "x": 4,
+     "y": 8,
+     "w": 34,
+     "h": 82
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A large uninterrupted colour area",
+      "body": "The left side contains no large illustration or additional text. Subtle surface variation remains visible within the green, but it does not interrupt the overall impression of a broad field around the thin red column.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Emphasis through restraint",
+      "body": "Because so much of the surface remains quiet, the small amount of red can command attention. This is a relationship between area and contrast: increasing the red text’s width would also change the apparent scale of the surrounding green.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How much of the cover could remain green before the title began to feel too small?",
+    "related": [
+     "red",
+     "opening"
+    ],
+    "layerIndex": 0,
+    "number": 5
+   },
+   {
+    "id": "red",
+    "label": "Red against green",
+    "shortLabel": "Red against green",
+    "kicker": "ONE WARM PRINTED COLOUR",
+    "summary": "The shared text colour makes separate roles belong together.",
+    "x": 50.10417,
+    "y": 78.09735,
+    "bounds": {
+     "x": 44,
+     "y": 72,
+     "w": 13,
+     "h": 17
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "One warm printed colour",
+      "body": "Title, volume marker and author all use a red-pink hue against dark green. The contrast is visible throughout the column, although fine stroke edges reflect the limitations and texture of the reproduction rather than a perfectly clean vector outline.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Unity without identical meaning",
+      "body": "A shared colour makes the three verbal groups feel related, while spacing and the circled marker distinguish their functions. The design demonstrates that information does not need a separate colour for every category to remain organised.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "If the author changed to white, would the column feel more legible or less unified?",
+    "related": [
+     "author",
+     "volume"
+    ],
+    "layerIndex": 3,
+    "number": 6
+   },
+   {
+    "id": "upper-space",
+    "label": "Room above the wording",
+    "shortLabel": "Room above the wording",
+    "kicker": "A SMALL BREATHING INTERVAL",
+    "summary": "The title does not touch the top edge.",
+    "x": 65.10417,
+    "y": 6.12094,
+    "bounds": {
+     "x": 59,
+     "y": 1,
+     "w": 31,
+     "h": 15
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A small breathing interval",
+      "body": "Green remains visible above and around the first title character. That margin gives the opening stroke a defined position within the object rather than making it look cropped by the edge of the reproduction.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A beginning without a frame",
+      "body": "The cover does not use a top rule or coloured panel to announce where reading starts. The first isolated red stroke and the remaining green margin establish that beginning through placement alone.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would moving the first character closer to the top make the design feel more urgent?",
+    "related": [
+     "opening",
+     "green"
+    ],
+    "layerIndex": 0,
+    "number": 7
+   },
+   {
+    "id": "edition",
+    "label": "The specific paperback surface",
+    "shortLabel": "The specific paperback surface",
+    "kicker": "2004 COVER, 1987 WORK",
+    "summary": "The work’s date and this object’s date differ.",
+    "x": 77.1875,
+    "y": 83.11209,
+    "bounds": {
+     "x": 64,
+     "y": 66,
+     "w": 30,
+     "h": 28
+    },
+    "tags": [
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "context",
+      "heading": "2004 cover, 1987 work",
+      "body": "Kodansha identifies this lower-volume paperback as published on 14 September 2004. The novel first appeared in 1987; the displayed object is therefore dated 2004 rather than being presented as the original hardcover simply because the work is older.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cover"
+       }
+      ]
+     },
+     {
+      "kind": "context",
+      "heading": "An unverified design credit",
+      "body": "The consulted product record does not establish a separate designer credit for this displayed cover. Its visual restraint can be described precisely without attributing the arrangement to a named person or claiming a particular printing technique.",
+      "evidence": "uncertain",
+      "sources": [
+       {
+        "id": "cover"
+       }
+      ]
+     }
+    ],
+    "question": "Why should a catalogue distinguish the date of a novel from the date of the cover being shown?",
+    "related": [
+     "volume",
+     "green"
+    ],
+    "layerIndex": 0,
+    "number": 8
+   }
+  ],
+  "sources": [
+   {
+    "id": "cover",
+    "title": "The displayed cover",
+    "url": "https://www.kodansha.co.jp/book/products/0000203589",
+    "kind": "Visual and edition source",
+    "summary": "Kodansha lower-volume paperback, 14 September 2004, ISBN 9784062748698. The novel first appeared in 1987. This is not described as the original 1987 hardcover."
+   }
+  ],
+  "tour": [
+   "opening",
+   "title-ending",
+   "volume",
+   "author",
+   "green"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected cover wording",
+    "rows": [
+     {
+      "text": "ノルウェイの森",
+      "meaning": "Norwegian Wood — title",
+      "lang": "ja"
+     },
+     {
+      "text": "下",
+      "meaning": "Lower volume",
+      "lang": "ja"
+     },
+     {
+      "text": "村上春樹",
+      "meaning": "Haruki Murakami — author",
+      "lang": "ja"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected clearly legible cover wording. Line breaks and casing may be regularized. Small uncertain print is omitted rather than guessed.",
+  "palette": [
+   {
+    "name": "Green field",
+    "hex": "#12491F",
+    "role": "The large area surrounding the words.",
+    "region": "green"
+   },
+   {
+    "name": "Red lettering",
+    "hex": "#E01743",
+    "role": "The common colour of title and author.",
+    "region": "red"
+   },
+   {
+    "name": "Green surface variation",
+    "hex": "#0C4B1E",
+    "role": "A nearby darker area within the reproduced field.",
+    "region": "edition"
+   }
+  ],
+  "paletteNote": "Samples come from individual pixels in this reproduction. They describe its visible colour, not original printing inks or an exact historical colour standard."
+ }
+}

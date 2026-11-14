@@ -1,0 +1,581 @@
+{
+ "poster": {
+  "id": "touki-bouki",
+  "title": "Touki Bouki",
+  "year": "1973",
+  "yearNumber": 1973,
+  "creator": "Poster artist uncredited",
+  "country": "Senegal",
+  "countries": [
+   "Senegal"
+  ],
+  "region": "Africa",
+  "category": "Film",
+  "filmCreator": "Djibril Diop Mambéty",
+  "edition": "Graphic poster held by African Design Archive; printing date unknown",
+  "image": "images/full/touki-bouki.jpg",
+  "ratio": 0.6666666666666666,
+  "alt": "Touki Bouki poster: yellow-tinted riders and broad cattle horns over a red field, with a white title and a jagged yellow border.",
+  "blurb": "A motorcycle, a pair of horns and a border that seems to vibrate around them.",
+  "notes": [
+   {
+    "title": "A border with a pulse",
+    "body": "The alternating red and yellow teeth run across the top and down the sides of the red field. Their regular rhythm makes the irregular photographic shapes inside feel more restless."
+   },
+   {
+    "title": "Horns draw across the photograph",
+    "body": "The sweeping horns extend beyond the riders and cut a broad curve across the middle of the poster. That single outline links the faces above to the motorcycle below."
+   },
+   {
+    "title": "One palette joins separate materials",
+    "body": "Yellow tinting brings the photographic figures close to the colour of the border. The white title remains a separate, clear band above the collage."
+   }
+  ],
+  "source": "https://www.criterion.com/films/28412-touki-bouki",
+  "credit": "Poster artist and printing date uncredited. Reproduction: African Design Archive. Copyright remains with the respective rights holders; no public-domain status is claimed.",
+  "imageCredit": "Poster artist and printing date uncredited. Reproduction: African Design Archive. Copyright remains with the respective rights holders; no public-domain status is claimed.",
+  "imageSource": "https://www.africandesignarchive.com/item/touki-bouki-film-poster",
+  "downloadURL": "https://cdn.sanity.io/images/3sck4ltv/production/ed049cf07494e156903d0242b1cf289e8aa41a00-320x480.png",
+  "anchor": [
+   0.55,
+   0.49
+  ],
+  "accent": "#be1735",
+  "yearNote": "The catalogue year is the film year. The reproduced poster edition is identified separately.",
+  "reproduction": "African Design Archive dates this poster as unknown. The film is from 1973; this image is not presented as a verified 1973 printing. The source is a small 320 × 480 reproduction, retained without enlargement.",
+  "posterDateStatus": "Unknown; do not count the film date as the design or printing date.",
+  "primaryOrigin": "Senegal",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/touki-bouki.webp"
+ },
+ "studyData": {
+  "intro": "A red panel, yellow photographic montage and a horned motorcycle create an unusually forceful entrance. Separate the rider, passenger, skull and road before deciding how much story the poster actually gives away.",
+  "initial": "title",
+  "regions": [
+   {
+    "id": "red",
+    "label": "The red field",
+    "shortLabel": "The red field",
+    "kicker": "A field without a horizon",
+    "summary": "A flat colour block makes the figures project forward.",
+    "x": 49.5,
+    "y": 31,
+    "bounds": {
+     "x": 5,
+     "y": 6,
+     "w": 89,
+     "h": 50
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A field without a horizon",
+      "body": "The upper red area has almost no internal detail. It holds the white title and surrounds the heads, so the photographic figures interrupt a graphic block rather than a realistic sky. The change from flat colour to grainy photograph is easy to see around the shoulders.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Space with pressure",
+      "body": "The red field can make the lower image feel crowded toward the viewer because there is little distant scenery above it. That reading comes from the arrangement of shapes, not from a universal rule that red always means danger or from evidence of a named printing process.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What remains visible if the photographic half is covered?",
+    "related": [
+     "border",
+     "riders"
+    ],
+    "number": 1
+   },
+   {
+    "id": "border",
+    "label": "The toothed edge",
+    "shortLabel": "The toothed edge",
+    "kicker": "A repeated small shape",
+    "summary": "Yellow triangles run along three sides.",
+    "x": 3,
+    "y": 20,
+    "bounds": {
+     "x": 1,
+     "y": 2,
+     "w": 98,
+     "h": 56
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A repeated small shape",
+      "body": "A serrated yellow edge runs along the top and sides of the red panel. Its points repeat at a much smaller scale than the motorcycle and faces. The bottom is interrupted by the photographic scene rather than closed by a matching row of teeth.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A frame that opens",
+      "body": "The border initially contains the image, but the lower photographic forms loosen that enclosure. A viewer can move from the tightly bounded title into the less orderly road scene. Calling the edge stamp-like describes a resemblance; it does not establish that this was made as a stamp.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does this border stop behaving like a frame?",
+    "related": [
+     "red",
+     "road"
+    ],
+    "number": 2
+   },
+   {
+    "id": "title",
+    "label": "White title, red ground",
+    "shortLabel": "White title, red ground",
+    "kicker": "One clear reading line",
+    "summary": "A short line stretches almost from side to side.",
+    "x": 49.5,
+    "y": 19,
+    "bounds": {
+     "x": 5,
+     "y": 14,
+     "w": 89,
+     "h": 10
+    },
+    "layerIndex": 4,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "One clear reading line",
+      "body": "The title uses large white capitals on red, with very little competition from other writing. Its narrow internal spaces and wide overall span produce a firm horizontal line. The two words remain distinct because of the gap between them, not a change of size or colour.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Recognition before explanation",
+      "body": "This edition gives the title much more space than production information. The name can be recognized before any story is understood. That is a visible hierarchy, not evidence that the original audience already knew the film or that missing small credits never existed elsewhere in its campaign.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which matters more here: the thickness of a letter or the space around it?",
+    "related": [
+     "red",
+     "horns"
+    ],
+    "number": 3
+   },
+   {
+    "id": "riders",
+    "label": "Two faces in depth",
+    "shortLabel": "Two faces in depth",
+    "kicker": "Overlap orders the pair",
+    "summary": "The passenger appears behind the rider.",
+    "x": 52,
+    "y": 42.5,
+    "bounds": {
+     "x": 30,
+     "y": 28,
+     "w": 44,
+     "h": 29
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Overlap orders the pair",
+      "body": "The front rider’s head and shoulder cover part of the second figure. Both faces are turned toward the camera, but one is larger and lower. Their irregular yellow outlines pull them away from the red field and make the photographic group read as a cut-out.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A journey with a context",
+      "body": "Criterion identifies Anta and Mory as young lovers in Dakar who imagine leaving for France. Its record dates Djibril Diop Mambéty’s film to Senegal in 1973. That narrative context helps explain why travel is a useful question here, but does not prove the poster’s precise design intention.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "film"
+       }
+      ]
+     }
+    ],
+    "question": "What tells you who is nearer without needing to know either character’s name?",
+    "related": [
+     "hands",
+     "road"
+    ],
+    "number": 4
+   },
+   {
+    "id": "horns",
+    "label": "A wide arc of horns",
+    "shortLabel": "A wide arc of horns",
+    "kicker": "A curve wider than a face",
+    "summary": "Curving horns cut across the upright bodies.",
+    "x": 59,
+    "y": 55,
+    "bounds": {
+     "x": 19,
+     "y": 44,
+     "w": 80,
+     "h": 22
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A curve wider than a face",
+      "body": "The pale horns extend much farther sideways than either head. Their outward curve interrupts the vertical riders and the more mechanical lines below. At the right edge, a horn nearly meets the border, tightening the space between the photographic object and the surrounding graphic field.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "An object before a symbol",
+      "body": "The horns invite symbolic readings, but the image first shows an animal skull fixed to a motorcycle. That visible combination brings organic and manufactured forms together. It is more precise to compare those forms than to assign a single traditional or religious meaning without supporting evidence.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Follow the curve from tip to tip: which shapes does it cross?",
+    "related": [
+     "skull",
+     "headlamp"
+    ],
+    "number": 5
+   },
+   {
+    "id": "skull",
+    "label": "The skull at the centre",
+    "shortLabel": "The skull at the centre",
+    "kicker": "Long against round",
+    "summary": "A pale, long form sits above the lamp.",
+    "x": 57,
+    "y": 67.5,
+    "bounds": {
+     "x": 44,
+     "y": 56,
+     "w": 26,
+     "h": 23
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Long against round",
+      "body": "The skull narrows downward between the horns. Dark cavities break up its pale surface, while the nearby lamp forms a much simpler circle. Those two shapes stack on the central axis, giving the vehicle a face-like arrangement without turning the skull into an actual human face.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A point of friction",
+      "body": "The skull is simultaneously a photographed object and an interruption to an ordinary vehicle outline. Covering it leaves a much more familiar motorcycle scene. That contrast offers a concrete way to discuss the poster’s strangeness without making the entire culture represented by the film seem exotic.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does this shape differ from the round mechanical part beneath it?",
+    "related": [
+     "horns",
+     "headlamp"
+    ],
+    "number": 6
+   },
+   {
+    "id": "hands",
+    "label": "Hands on the handlebars",
+    "shortLabel": "Hands on the handlebars",
+    "kicker": "Contact makes the montage legible",
+    "summary": "Small hands connect the bodies to the machine.",
+    "x": 27,
+    "y": 69,
+    "bounds": {
+     "x": 19,
+     "y": 63,
+     "w": 78,
+     "h": 18
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Contact makes the montage legible",
+      "body": "The rider’s hands sit near opposite sides of the motorcycle. Fingers, grips and metal parts overlap in a dark cluster, but these contact points establish how the body occupies the vehicle. They keep the figure from reading only as a portrait pasted above a machine.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Scale changes the reading",
+      "body": "At a distance the hands become dark marks. Closer inspection turns those marks into actions and gives the rider a physical role. This change shows why a poster can offer different kinds of information at different viewing distances even when its largest message is extremely simple.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which hand is easier to distinguish, and what background helps it?",
+    "related": [
+     "riders",
+     "headlamp"
+    ],
+    "number": 7
+   },
+   {
+    "id": "headlamp",
+    "label": "The circular lamp",
+    "shortLabel": "The circular lamp",
+    "kicker": "A circle among diagonals",
+    "summary": "A round mechanical shape stabilizes the lower centre.",
+    "x": 61,
+    "y": 84,
+    "bounds": {
+     "x": 47,
+     "y": 74,
+     "w": 28,
+     "h": 20
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A circle among diagonals",
+      "body": "The headlamp sits below the skull, with its rounded rim clearly separated from the surrounding handlebars and shadows. A small rectangular mark appears inside it near the bottom. The circle offers an easily grasped shape within a much more complicated photographic area.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A second visual anchor",
+      "body": "The lamp gives the lower part of the poster a centre of its own. Looking between it and the title reveals two stable horizontal or circular anchors, connected by the irregular riders and horns. This is an arrangement you can trace, rather than a claim about intended symbolism.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the lamp’s symmetry compare with the uneven horns above it?",
+    "related": [
+     "skull",
+     "title"
+    ],
+    "number": 8
+   },
+   {
+    "id": "road",
+    "label": "Road and vegetation",
+    "shortLabel": "Road and vegetation",
+    "kicker": "Fragments of a setting",
+    "summary": "The background returns around the vehicle.",
+    "x": 11,
+    "y": 76,
+    "bounds": {
+     "x": 0,
+     "y": 57,
+     "w": 100,
+     "h": 43
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Fragments of a setting",
+      "body": "Grass, shrubs and road surface remain visible beside and behind the motorcycle. Their grainy texture differs from the uninterrupted red above. The landscape is easiest to read at the outer edges, where fewer mechanical parts and clothing folds overlap it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Not the whole of Senegal",
+      "body": "This fragment of outdoor setting belongs to a particular film image. It should not stand in for an entire country or imply that Senegal is only rural. Criterion’s synopsis locates the protagonists’ lives and ambitions in relation to Dakar, giving a more specific frame than the scenery alone.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "film"
+       }
+      ]
+     }
+    ],
+    "question": "Where can you still see a landscape between the vehicle’s edges?",
+    "related": [
+     "red",
+     "riders"
+    ],
+    "number": 9
+   },
+   {
+    "id": "yellow",
+    "label": "One colour across materials",
+    "shortLabel": "One colour across materials",
+    "kicker": "Texture carries the difference",
+    "summary": "Skin, road and metal share a yellow cast.",
+    "x": 50,
+    "y": 92.5,
+    "bounds": {
+     "x": 4,
+     "y": 85,
+     "w": 92,
+     "h": 15
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Texture carries the difference",
+      "body": "The photographic area uses yellow and dark tones across skin, clothing, vegetation and machinery. Because colour no longer separates these materials naturally, edges, grain and light-dark differences do more of the work. The white title is one of the few large elements outside that colour treatment.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "An edition with limits",
+      "body": "The African Design Archive records this graphic, but the installed reproduction does not securely establish its artist or printing date. The film’s 1973 date belongs to the film. Describing the poster’s actual colours is safer than labeling its process, designer or original release status from appearance alone.",
+      "evidence": "uncertain",
+      "sources": [
+       {
+        "id": "archive"
+       }
+      ]
+     }
+    ],
+    "question": "Which objects can still be distinguished after their natural colours are removed?",
+    "related": [
+     "title",
+     "road"
+    ],
+    "number": 10
+   }
+  ],
+  "sources": [
+   {
+    "id": "film",
+    "title": "Criterion: Touki bouki",
+    "url": "https://www.criterion.com/films/28412-touki-bouki",
+    "kind": "Distributor / film record",
+    "summary": "Verifies Mambéty, Senegal, 1973, Wolof and the protagonists’ Dakar-to-France ambitions; does not identify this poster designer."
+   },
+   {
+    "id": "archive",
+    "title": "African Design Archive: Touki Bouki poster",
+    "url": "https://www.africandesignarchive.com/item/touki-bouki-film-poster",
+    "kind": "Design archive",
+    "summary": "Provenance lead for the selected graphic; designer and printing date remain unresolved."
+   }
+  ],
+  "tour": [
+   "title",
+   "riders",
+   "horns",
+   "skull",
+   "headlamp",
+   "road"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected readable wording",
+    "rows": [
+     {
+      "text": "TOUKI BOUKI",
+      "meaning": "Film title, retained in its original form.",
+      "lang": "wo"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "This is a partial transcript of securely readable wording in the installed reproduction. Small credits, logos and review attributions are not fully transcribed; enlargement cannot restore missing source detail.",
+  "palette": [
+   {
+    "name": "Panel red",
+    "hex": "#BF162B",
+    "role": "A flat field around the faces.",
+    "region": "red"
+   },
+   {
+    "name": "Border yellow",
+    "hex": "#EED95C",
+    "role": "The bright serrated margin.",
+    "region": "border"
+   },
+   {
+    "name": "Title cream-white",
+    "hex": "#F6FCEE",
+    "role": "High contrast lettering.",
+    "region": "title"
+   },
+   {
+    "name": "Road olive",
+    "hex": "#BDAD58",
+    "role": "Photographic shadow under the yellow treatment.",
+    "region": "road"
+   }
+  ],
+  "paletteNote": "These are individual screen-pixel samples from the installed digital reproduction, not specifications for the original inks or paper. Texture, lighting, scanning and screen settings affect their appearance.",
+  "connections": [
+   {
+    "label": "A broad curve",
+    "title": "The horns link the two halves",
+    "text": "The pale horns sweep across the riders and beyond their shoulders. Their width links the red upper panel to the motorcycle photograph below.",
+    "anchors": [
+     [
+      2,
+      0.3796875,
+      0.5302083333333333
+     ],
+     [
+      2,
+      0.8390625,
+      0.559375
+     ],
+     [
+      3,
+      0.5890625,
+      0.8510416666666667
+     ]
+    ],
+    "id": "touki-bouki-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "One tint, one headline",
+    "title": "Yellow binds, white names",
+    "text": "The yellow treatment connects the riders, horns and serrated edge. The white title remains the cleanest, least photographic element.",
+    "anchors": [
+     [
+      1,
+      0.5609375,
+      0.409375
+     ],
+     [
+      0,
+      0.0265625,
+      0.20104166666666667
+     ],
+     [
+      4,
+      0.5109375,
+      0.190625
+     ]
+    ],
+    "id": "touki-bouki-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

@@ -1,0 +1,619 @@
+{
+ "poster": {
+  "id": "cairo-station",
+  "title": "Cairo Station",
+  "year": "1958",
+  "yearNumber": 1958,
+  "country": "Egypt",
+  "region": "Africa",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Youssef Chahine",
+  "edition": "English-language theatrical poster; territory and printing date unverified",
+  "alt": "A sepia Cairo Station poster with a locomotive, converging tracks, looming faces and an angled English title.",
+  "blurb": "Railway lines and oversized figures compress a public station into an intimate, uneasy encounter.",
+  "notes": [
+   {
+    "title": "Tracks lead into the people",
+    "body": "The rails converge through the lower scene toward the crowded figures. Infrastructure supplies both a setting and a route for the eye."
+   },
+   {
+    "title": "Faces exceed the station’s scale",
+    "body": "The large head above the train belongs to a different scale from the smaller figures below. This overlap gives emotion more space than realistic perspective would."
+   },
+   {
+    "title": "A title set on a slant",
+    "body": "Dark angled title bands cut across the pale upper-left field. Their tilt introduces movement into the otherwise heavy sepia composition."
+   }
+  ],
+  "source": "https://www.janusfilms.com/films/2280",
+  "imageCredit": "English-language release poster; artist uncredited in the consulted source. Reproduction via Wikipedia; copyright remains with the respective rights holders.",
+  "anchor": [
+   0.69,
+   0.35
+  ],
+  "accent": "#987447",
+  "category": "Film",
+  "image": "images/full/cairo-station.jpg",
+  "imageSource": "https://en.wikipedia.org/wiki/File:Irongateposter.jpg",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/en/4/47/Irongateposter.jpg",
+  "ratio": 0.764543,
+  "imageWidth": 276,
+  "imageHeight": 361,
+  "credit": "English-language release poster; artist uncredited in the consulted source. Reproduction via Wikipedia; copyright remains with the respective rights holders.",
+  "countries": [
+   "Egypt"
+  ],
+  "primaryOrigin": "Egypt",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/cairo-station.webp"
+ },
+ "studyData": {
+  "intro": "This English-language sheet compresses a railway station, a locomotive and three large figures into one sepia scene. Follow the rails and tilted title bands, then consider how language and credit placement present an Egyptian film to another reading audience.",
+  "initial": "title",
+  "regions": [
+   {
+    "id": "title",
+    "label": "The tilted title band",
+    "shortLabel": "The tilted title band",
+    "kicker": "Words and meaning",
+    "summary": "A place name becomes a strong graphic shape.",
+    "layerIndex": 4,
+    "x": 39.13,
+    "y": 29.086,
+    "bounds": {
+     "x": 4,
+     "y": 22,
+     "w": 70,
+     "h": 14
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Cairo Station",
+      "body": "The English title sits in pale capitals inside a dark, slightly tilted band. The uneven rectangle separates the name from the detailed station behind it. The word Station also supplies a direct label for the rails, engine and roof structures visible elsewhere on the sheet.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A translated point of entry",
+      "body": "An English title makes the film identifiable to an English-reading audience. That is observable here; it does not establish where this particular impression was printed or first displayed. The film’s Egyptian origin and this sheet’s language are distinct pieces of information.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How much of the setting remains clear if you cover the title?",
+    "related": [
+     "roof",
+     "names",
+     "engine"
+    ],
+    "number": 1
+   },
+   {
+    "id": "names",
+    "label": "The cast-name strips",
+    "shortLabel": "The cast-name strips",
+    "kicker": "Look closely",
+    "summary": "Two performers are named before the film.",
+    "layerIndex": 4,
+    "x": 39.855,
+    "y": 12.465,
+    "bounds": {
+     "x": 3,
+     "y": 7,
+     "w": 74,
+     "h": 11
+    },
+    "tags": [
+     "business",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "Separate strips, linked names",
+      "body": "Farid Chawky and Hend Rostom appear on separate dark bands above the title. Their angle and pale capitals repeat the title’s treatment at a smaller scale. The bands make individual names stand out from the busy roof lines rather than blending into the illustration.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A family of labels",
+      "body": "The repeated dark strips give a consistent graphic voice to otherwise separate pieces of information. Their slight changes of angle make the upper area less rigid than a centred list. Compare them with the straight, full-width credit panel at the bottom.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What links these two bands visually to the title?",
+    "related": [
+     "title",
+     "director",
+     "credits"
+    ],
+    "number": 2
+   },
+   {
+    "id": "director",
+    "label": "Youssef Chahine",
+    "shortLabel": "Youssef Chahine",
+    "kicker": "Words and meaning",
+    "summary": "A small name bridges cast and title.",
+    "layerIndex": 4,
+    "x": 36.594,
+    "y": 19.114,
+    "bounds": {
+     "x": 17,
+     "y": 16,
+     "w": 39,
+     "h": 6
+    },
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A compact director line",
+      "body": "Youssef Chahine’s name appears in a small dark strip between the larger cast bands and the title. Its position gives it prominence without matching their scale. The spelling is part of this English-language edition and should not be silently replaced by another transliteration.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A director who also acts",
+      "body": "Janus Films identifies the film as an Egyptian production from 1958 directed by Youssef Chahine, who also plays the newspaper seller Kenawi. That documents his dual film role. It does not prove which pictured figure corresponds to him from this small reproduction alone.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "janus"
+       }
+      ]
+     }
+    ],
+    "question": "How does this small strip stay noticeable between two larger text groups?",
+    "related": [
+     "names",
+     "title",
+     "standing"
+    ],
+    "number": 3
+   },
+   {
+    "id": "roof",
+    "label": "The station roof",
+    "shortLabel": "The station roof",
+    "kicker": "Look closely",
+    "summary": "Diagonal beams cross behind the words.",
+    "layerIndex": 0,
+    "x": 50,
+    "y": 10.249,
+    "bounds": {
+     "x": 1,
+     "y": 0,
+     "w": 98,
+     "h": 24
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A framework overhead",
+      "body": "Large diagonal beams form triangles across the upper background. The lighter spaces between them keep the roof readable behind the dark title strips. These structural lines give the sheet a setting while also introducing the diagonal rhythm repeated by the printed bands.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Words join the structure",
+      "body": "Because the text strips tilt, they can seem to participate in the roof’s angled system. They remain graphic labels rather than literal station signs. Comparing the two makes it easier to see how a poster can organise information through a depicted environment.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which angles belong to the station, and which belong to the poster’s lettering?",
+    "related": [
+     "title",
+     "rails",
+     "names"
+    ],
+    "number": 4
+   },
+   {
+    "id": "rails",
+    "label": "The converging rails",
+    "shortLabel": "The converging rails",
+    "kicker": "Look closely",
+    "summary": "A narrow route leads towards the engine.",
+    "layerIndex": 0,
+    "x": 20.652,
+    "y": 79.501,
+    "bounds": {
+     "x": 0,
+     "y": 69,
+     "w": 42,
+     "h": 21
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Lines into depth",
+      "body": "Several rails and track edges run diagonally from the lower left towards the locomotive. Their convergence creates depth in a relatively small portion of the page. The repeated lines contrast with the broad dark shapes of clothing in the nearby foreground figures.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A route into the scene",
+      "body": "The tracks offer a path for the eye before the figures interrupt it. Cover the rails and the engine becomes more like an isolated emblem. Restore them and its position within a railway setting becomes more spatially convincing, even within the compressed montage.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where do the rails lead your eye before a figure stops it?",
+    "related": [
+     "engine",
+     "wheel",
+     "pair"
+    ],
+    "number": 5
+   },
+   {
+    "id": "engine",
+    "label": "The locomotive front",
+    "shortLabel": "The locomotive front",
+    "kicker": "Look closely",
+    "summary": "A circular machine faces the viewer.",
+    "layerIndex": 1,
+    "x": 36.594,
+    "y": 57.064,
+    "bounds": {
+     "x": 16,
+     "y": 40,
+     "w": 41,
+     "h": 34
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A circle among diagonals",
+      "body": "The locomotive’s large round front is one of the clearest shapes in the middle-left area. Pale highlights and a dark rim distinguish it from the receding engine body. Its near-frontal orientation contrasts with the diagonal rails and the leaning human figures beside it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A station as a social setting",
+      "body": "Janus’s account centres the film on a newspaper seller and a drink seller in Cairo, connecting the railway setting with people working there. This provides narrative context for the station. It does not establish that every detail of this montage depicts one specific scene.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "janus"
+       }
+      ]
+     }
+    ],
+    "question": "What changes when you compare the engine’s frontal circle with the angled human bodies?",
+    "related": [
+     "rails",
+     "wheel",
+     "standing"
+    ],
+    "number": 6
+   },
+   {
+    "id": "wheel",
+    "label": "The engine’s lower machinery",
+    "shortLabel": "The engine’s lower machinery",
+    "kicker": "Look closely",
+    "summary": "Small circles and rods add mechanical detail.",
+    "layerIndex": 1,
+    "x": 22.826,
+    "y": 72.022,
+    "bounds": {
+     "x": 4,
+     "y": 62,
+     "w": 38,
+     "h": 20
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A second scale of machinery",
+      "body": "Below and beside the large circular front, smaller wheels, rods and fittings make a dense mechanical cluster. These details distinguish the locomotive from a simple round symbol. Their repeated curves also provide a quieter echo of its dominant front shape.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Detail under a landmark",
+      "body": "The big circle is easy to recognise quickly, while the smaller parts reward a closer look. This hierarchy resembles the title and credits: a clear first signal is followed by denser information. The comparison concerns visual structure, not a documented design intention.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which mechanical detail remains visible when you step back from the image?",
+    "related": [
+     "engine",
+     "rails",
+     "credits"
+    ],
+    "number": 7
+   },
+   {
+    "id": "standing",
+    "label": "The upright figure",
+    "shortLabel": "The upright figure",
+    "kicker": "Look closely",
+    "summary": "One body holds the right-hand side.",
+    "layerIndex": 2,
+    "x": 80.435,
+    "y": 45.983,
+    "bounds": {
+     "x": 61,
+     "y": 17,
+     "w": 39,
+     "h": 58
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A vertical counterweight",
+      "body": "The standing man occupies the upper right, with a striped or patterned shirt, open outer garment and hands near his waist. His upright body contrasts with the bent foreground figures. The head sits near the title band, creating a second focal point beside the words.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Posture before identity",
+      "body": "The hands and broad stance can suggest firmness or watchfulness, but that is an interpretation of posture. This reproduction is not used to assign a character name confidently. Describe the body’s position first, then compare it with the compressed pair below.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What does the upright posture contribute beside the leaning pair?",
+    "related": [
+     "pair",
+     "hands",
+     "title"
+    ],
+    "number": 8
+   },
+   {
+    "id": "pair",
+    "label": "The foreground pair",
+    "shortLabel": "The foreground pair",
+    "kicker": "Look closely",
+    "summary": "Two bodies lean together at the bottom.",
+    "layerIndex": 3,
+    "x": 68.841,
+    "y": 75.623,
+    "bounds": {
+     "x": 38,
+     "y": 58,
+     "w": 62,
+     "h": 35
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A close overlapping group",
+      "body": "Two figures overlap in the lower-right area, their heads close and their bodies angled across the sheet. One arm extends towards the lower left. Dark clothing joins parts of their silhouettes, while pale faces and hands keep important gestures distinguishable.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A relationship left open",
+      "body": "Closeness and overlapping arms can indicate support, struggle or urgency depending on context. The still image does not settle the whole action. Its compressed arrangement makes a relationship visible while leaving the viewer to investigate what that relationship is in the film.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which parts of the bodies are clear, and where does overlap make the action ambiguous?",
+    "related": [
+     "standing",
+     "hands",
+     "rails"
+    ],
+    "number": 9
+   },
+   {
+    "id": "hands",
+    "label": "The forward hand",
+    "shortLabel": "The forward hand",
+    "kicker": "Look closely",
+    "summary": "A small gesture reaches towards the tracks.",
+    "layerIndex": 3,
+    "x": 47.464,
+    "y": 85.042,
+    "bounds": {
+     "x": 36,
+     "y": 77,
+     "w": 23,
+     "h": 16
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An outward extension",
+      "body": "A hand and forearm extend from the foreground group towards the lower-left rail area. Their lighter tone separates them from the dark clothing behind. This small extension prevents the pair from reading as one closed mass and links the human action with the space around it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A bridge between areas",
+      "body": "Follow the hand’s direction towards the rails, then return to the two heads. The gesture can function as a visual bridge without being an actual point of contact with the engine. A relationship between shapes need not imply a literal action in the story.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does the extended arm draw you out towards the tracks or back towards the faces?",
+    "related": [
+     "pair",
+     "rails",
+     "standing"
+    ],
+    "number": 10
+   },
+   {
+    "id": "credits",
+    "label": "The bottom credit panel",
+    "shortLabel": "The bottom credit panel",
+    "kicker": "Look closely",
+    "summary": "A dark strip gives production roles a home.",
+    "layerIndex": 5,
+    "x": 50,
+    "y": 95.014,
+    "bounds": {
+     "x": 0,
+     "y": 90,
+     "w": 100,
+     "h": 10
+    },
+    "tags": [
+     "business",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "Roles in three groups",
+      "body": "The lower panel separates direction, photography, and production/distribution into compact groups. Its straight edge and full width differ from the tilted title bands above. The poster therefore reserves a stable information zone after the more crowded image and name strips.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "Edition-specific spelling",
+      "body": "The visible English lettering includes variant transliterations of personal names. Retaining a secure wording is more accurate than normalising every spelling from memory. The small reproduction does not justify a complete fine-print transcript, even when the broad production roles can be identified.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the straight bottom strip differ in tone from the tilted labels above?",
+    "related": [
+     "director",
+     "names",
+     "wheel"
+    ],
+    "number": 11
+   }
+  ],
+  "sources": [
+   {
+    "id": "janus",
+    "title": "Janus Films: Cairo Station",
+    "url": "https://www.janusfilms.com/films/2280",
+    "kind": "Primary source",
+    "summary": "Verifies Egypt, 1958, Chahine’s direction and performance as Kenawi, and the railway workers central to the film. Does not identify this poster’s printing territory or date."
+   }
+  ],
+  "tour": [
+   "title",
+   "roof",
+   "rails",
+   "engine",
+   "standing",
+   "pair"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected wording on this edition",
+    "rows": [
+     {
+      "text": "CAIRO STATION",
+      "meaning": "English film title",
+      "lang": "en"
+     },
+     {
+      "text": "FARID CHAWKY",
+      "meaning": "Performer name as printed",
+      "lang": "en"
+     },
+     {
+      "text": "HEND ROSTOM",
+      "meaning": "Performer name as printed",
+      "lang": "en"
+     },
+     {
+      "text": "YOUSSEF CHAHINE",
+      "meaning": "Filmmaker name as printed above the title",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected large English wording only. Fine production lettering is not fully transcribed. Printing territory and edition date are unverified; 1958 is the film year.",
+  "palette": [
+   {
+    "name": "Pale paper",
+    "hex": "#f6e6c5",
+    "role": "Diagonal beams cross behind the words.",
+    "region": "roof"
+   },
+   {
+    "name": "Dark title band",
+    "hex": "#312227",
+    "role": "A place name becomes a strong graphic shape.",
+    "region": "title"
+   },
+   {
+    "name": "Sepia clothing",
+    "hex": "#6f5b52",
+    "role": "One body holds the right-hand side.",
+    "region": "standing"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in this installed reproduction. They describe this image, not original printing inks or a colour standard.",
+  "connections": [
+   {
+    "label": "Two kinds of diagonal",
+    "title": "Title bands and track lines",
+    "text": "The slanted dark title bands introduce a direction that returns in the receding rails below.",
+    "anchors": [
+     [
+      4,
+      0.4148550724637681,
+      0.2756232686980609
+     ],
+     [
+      0,
+      0.21920289855072464,
+      0.871191135734072
+     ]
+    ],
+    "id": "cairo-station-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Scale tells the story",
+    "title": "Faces dominate the engine",
+    "text": "The enlarged upper portrait and foreground pair occupy more visual space than a realistic station view would allow, bringing emotion forward.",
+    "anchors": [
+     [
+      2,
+      0.8242753623188406,
+      0.30055401662049863
+     ],
+     [
+      1,
+      0.40398550724637683,
+      0.5554016620498615
+     ]
+    ],
+    "id": "cairo-station-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

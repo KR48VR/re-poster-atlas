@@ -1,0 +1,481 @@
+{
+ "poster": {
+  "id": "book-macunaima",
+  "title": "Macunaíma",
+  "year": "1928",
+  "yearNumber": 1928,
+  "coverYear": "1928",
+  "bookFirstPublication": "1928",
+  "bookAuthor": "Mário de Andrade",
+  "bookPublisher": "Oficinas gráficas de E. Cupolo",
+  "bookOrigin": "Brazilian Portuguese-language work by Mário de Andrade, published in São Paulo in 1928.",
+  "creator": "Wrapper designer unverified",
+  "country": "Brazil",
+  "countries": [
+   "Brazil"
+  ],
+  "primaryOrigin": "Brazil",
+  "region": "Latin America & Caribbean",
+  "category": "Book cover",
+  "image": "images/full/book-macunaima.png",
+  "ratio": 0.7198327359617682,
+  "alt": "A spotted tan wrapper with small black author lettering at the top, a large red Macunaíma title, a small subtitle and São Paulo 1928 at the foot.",
+  "blurb": "One red word interrupts a quiet vertical arrangement of black type.",
+  "source": "https://digital.bbm.usp.br/handle/bbm/8935",
+  "credit": "Mário de Andrade is the author. USP identifies the 1928 first edition; this wrapper’s designer is not named in the consulted record.",
+  "reproduction": "The reproduced object is 1205 × 1674 pixels. Physical wear, visible image texture and edges are retained; small uncertain lettering is not reconstructed.",
+  "anchor": [
+   0.4,
+   0.41
+  ],
+  "accent": "#9f3029",
+  "edition": "First edition, São Paulo, 1928, USP Brasiliana item bbm/8935. The displayed wrapper is PDF page 7. The record’s e.2 denotes the second copy, not a second edition.",
+  "imageSource": "https://digital.bbm.usp.br/handle/bbm/8935",
+  "imageCredit": "Mário de Andrade is the author. USP identifies the 1928 first edition; this wrapper’s designer is not named in the consulted record.",
+  "posterYear": "1928",
+  "posterTerritory": "Brazil",
+  "posterDateStatus": "The displayed edition or explicitly qualified catalogue date. The original work date is recorded separately.",
+  "originNote": "Country and region describe the displayed edition’s publishing context, not the nationality of the cover designer.",
+  "originSources": [
+   {
+    "title": "Displayed object record",
+    "url": "https://digital.bbm.usp.br/handle/bbm/8935"
+   }
+  ],
+  "notes": [
+   {
+    "title": "The displayed edition",
+    "body": "First edition, São Paulo, 1928, USP Brasiliana item bbm/8935. The displayed wrapper is PDF page 7. The record’s e.2 denotes the second copy, not a second edition."
+   },
+   {
+    "title": "Writing and image-making",
+    "body": "Mário de Andrade is the author. USP identifies the 1928 first edition; this wrapper’s designer is not named in the consulted record."
+   },
+   {
+    "title": "A visible design relationship",
+    "body": "One red word interrupts a quiet vertical arrangement of black type."
+   }
+  ],
+  "downloadURL": "https://digital.bbm.usp.br/bitstream/bbm/8935/1/45000000442_Output.o.pdf",
+  "creditSources": [
+   {
+    "title": "Source for the displayed object and recorded credits",
+    "url": "https://digital.bbm.usp.br/handle/bbm/8935"
+   }
+  ],
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-macunaima.webp"
+ },
+ "studyData": {
+  "intro": "A single red word gives this spare wrapper its centre of gravity. Compare the small black lines above and below, and keep the first-edition wrapper distinct from the later binding and internal title page included in the same library scan.",
+  "initial": "author",
+  "regions": [
+   {
+    "id": "author",
+    "label": "Small author line",
+    "shortLabel": "Small author line",
+    "kicker": "MÁRIO DE ANDRADE",
+    "summary": "The author begins at a quiet scale.",
+    "x": 39.46058,
+    "y": 8.03465,
+    "bounds": {
+     "x": 12,
+     "y": 5,
+     "w": 53,
+     "h": 6
+    },
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Mário de Andrade",
+      "body": "The author’s name appears in small black capitals near the top. The spacing and modest scale create a narrow line rather than a large block, leaving the red title much stronger farther down the wrapper.",
+      "evidence": "observation",
+      "originalText": "MÁRIO DE ANDRADE",
+      "lang": "pt"
+     },
+     {
+      "kind": "context",
+      "heading": "The first edition in São Paulo",
+      "body": "USP Brasiliana identifies this as the 1928 first edition of Mário de Andrade’s work, published in São Paulo. Its e.2 notation identifies the library’s second copy, not a second edition of the book.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cover"
+       }
+      ]
+     }
+    ],
+    "question": "What changes if you imagine the author’s name enlarged to match the title?",
+    "related": [
+     "title",
+     "upper-rule"
+    ],
+    "layerIndex": 2,
+    "number": 1
+   },
+   {
+    "id": "upper-rule",
+    "label": "Rule under the author",
+    "shortLabel": "Rule under the author",
+    "kicker": "A SHORT DARK SUPPORT",
+    "summary": "A small line gives the opening a base.",
+    "x": 39.04564,
+    "y": 9.05018,
+    "bounds": {
+     "x": 13,
+     "y": 8,
+     "w": 51,
+     "h": 3
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A short dark support",
+      "body": "A narrow horizontal rule sits with the author line. It gives that small area a clear lower edge, separating the opening credit from the long interval of paper leading toward the red title.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A measured opening",
+      "body": "The rule can make the author credit feel deliberately placed rather than simply floating. Its thinness matters: a heavier bar would compete with the title, while this one quietly establishes a horizontal reference.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does the rule make the author line feel more formal or more separated from the rest?",
+    "related": [
+     "author",
+     "imprint"
+    ],
+    "layerIndex": 2,
+    "number": 2
+   },
+   {
+    "id": "title",
+    "label": "Red Macunaíma",
+    "shortLabel": "Red Macunaíma",
+    "kicker": "A NAME WITH AN ACCENT",
+    "summary": "The only large red word establishes the centre.",
+    "x": 40.04149,
+    "y": 41.00956,
+    "bounds": {
+     "x": 1,
+     "y": 36,
+     "w": 79,
+     "h": 11
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A name with an accent",
+      "body": "The title reads Macunaíma, including the accent on í. Its capital M and lower-case continuation form a recognisable word shape; the accent is part of the written name, not a decorative fleck to remove.",
+      "evidence": "observation",
+      "originalText": "Macunaíma",
+      "lang": "pt"
+     },
+     {
+      "kind": "design",
+      "heading": "Colour and size reinforce one another",
+      "body": "The title is both substantially larger and warmer in colour than the other wording. Because those two signals agree, it dominates without needing an enclosing panel or an accompanying illustration.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Which contributes more to the title’s prominence: its red colour or its scale?",
+    "related": [
+     "accent",
+     "subtitle"
+    ],
+    "layerIndex": 1,
+    "number": 3
+   },
+   {
+    "id": "accent",
+    "label": "The accent over í",
+    "shortLabel": "The accent over í",
+    "kicker": "A DETAIL ABOVE THE LETTER LINE",
+    "summary": "A small mark belongs to the word.",
+    "x": 55.3112,
+    "y": 37.66428,
+    "bounds": {
+     "x": 52,
+     "y": 36,
+     "w": 6,
+     "h": 7
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A detail above the letter line",
+      "body": "The accented vowel introduces a small mark above the main lower-case forms. It breaks the title’s upper contour and rewards closer viewing, while remaining part of the continuous red word rather than a separate emblem.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Accuracy in a familiar shape",
+      "body": "A title can seem recognisable even when one small mark is missing, but that does not make the omission neutral. Preserving the accent respects the actual printed wording and keeps visual simplification from silently rewriting the name.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What other tiny marks would be easy to mistake for wear when reading an old printed cover?",
+    "related": [
+     "title",
+     "wear"
+    ],
+    "layerIndex": 1,
+    "number": 4
+   },
+   {
+    "id": "subtitle",
+    "label": "Small subtitle",
+    "shortLabel": "Small subtitle",
+    "kicker": "A COMPACT DESCRIPTION",
+    "summary": "A second phrase sits close beneath the title.",
+    "x": 40.12448,
+    "y": 51.0454,
+    "bounds": {
+     "x": 5,
+     "y": 48,
+     "w": 70,
+     "h": 6
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A compact description",
+      "body": "The displayed subtitle uses the historical spelling O heroi sem nenhum caracter, conventionally rendered “the hero without any character.” The phrase introduces a verbal ambiguity; it should not be reduced to a psychological judgement about a pictured person, since there is no portrait here.",
+      "evidence": "observation",
+      "originalText": "O heroi sem nenhum caracter",
+      "lang": "pt"
+     },
+     {
+      "kind": "design",
+      "heading": "Close enough to remain a unit",
+      "body": "The subtitle’s small black letters sit directly under the much larger red title. Their proximity joins the two lines, while their different scale and colour maintain a clear hierarchy within that compact middle group.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "How much space could you add before the subtitle began to feel unrelated to the title?",
+    "related": [
+     "title",
+     "interval"
+    ],
+    "layerIndex": 3,
+    "number": 5
+   },
+   {
+    "id": "interval",
+    "label": "Large quiet interval",
+    "shortLabel": "Large quiet interval",
+    "kicker": "AN EXTENDED UNPRINTED AREA",
+    "summary": "Paper keeps the bottom imprint distant.",
+    "x": 57.05394,
+    "y": 70.04182,
+    "bounds": {
+     "x": 17,
+     "y": 56,
+     "w": 59,
+     "h": 27
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An extended unprinted area",
+      "body": "A large area of tan paper separates the subtitle from the bottom place and date. Surface spotting remains visible through that interval, but no major printed illustration or secondary title fills it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Pacing with absence",
+      "body": "The gap lets the central name remain dominant and delays the small imprint. The viewer can move quickly from author to title, then slow down before the final publication information; that pacing is created by distance alone.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would an illustration in this interval strengthen the title or compete with it?",
+    "related": [
+     "subtitle",
+     "imprint"
+    ],
+    "layerIndex": 0,
+    "number": 6
+   },
+   {
+    "id": "imprint",
+    "label": "São Paulo and 1928",
+    "shortLabel": "São Paulo and 1928",
+    "kicker": "A SMALL HISTORICAL LINE",
+    "summary": "Place and date close the wrapper.",
+    "x": 39.95851,
+    "y": 89.03823,
+    "bounds": {
+     "x": 18,
+     "y": 85,
+     "w": 44,
+     "h": 7
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A small historical line",
+      "body": "The lower imprint gives São Paulo and 1928, beneath a short rule. Its size makes it secondary to the title, but it provides information that cannot be inferred from the colour or typography alone.",
+      "evidence": "observation",
+      "originalText": "S. PAULO — 1928",
+      "lang": "pt"
+     },
+     {
+      "kind": "business",
+      "heading": "A wrapper for a specific edition",
+      "body": "The library record supports the first-edition date and São Paulo publication context. These small printed details help distinguish this wrapper from a later reprint or from the separate internal title page in the same digitized volume.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cover"
+       }
+      ]
+     }
+    ],
+    "question": "Why is a small imprint useful when several different covers circulate for the same literary work?",
+    "related": [
+     "author",
+     "wear"
+    ],
+    "layerIndex": 4,
+    "number": 7
+   },
+   {
+    "id": "wear",
+    "label": "Paper and scan edges",
+    "shortLabel": "Paper and scan edges",
+    "kicker": "SPOTS ACROSS QUIET AREAS",
+    "summary": "The reproduction retains its physical history.",
+    "x": 75.06224,
+    "y": 75,
+    "bounds": {
+     "x": 66,
+     "y": 58,
+     "w": 27,
+     "h": 38
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Spots across quiet areas",
+      "body": "Brown spotting and uneven tan colour are especially visible where the design leaves paper exposed. A dark photographed surround and the wrapper’s slightly irregular edge remain visible, distinguishing the sheet from a newly typeset facsimile.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "The correct page in the scan",
+      "body": "The displayed image is the wrapper on PDF page 7 of USP item bbm/8935. The scan also includes an outer binding and an internal title page; substituting either would change the object being analysed.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cover"
+       }
+      ]
+     }
+    ],
+    "question": "How would a clean modern recreation conceal differences between design, paper and later wear?",
+    "related": [
+     "interval",
+     "title"
+    ],
+    "layerIndex": 0,
+    "number": 8
+   }
+  ],
+  "sources": [
+   {
+    "id": "cover",
+    "title": "The displayed cover",
+    "url": "https://digital.bbm.usp.br/handle/bbm/8935",
+    "kind": "Visual and edition source",
+    "summary": "First edition, São Paulo, 1928, USP Brasiliana item bbm/8935. The displayed wrapper is PDF page 7. The record’s e.2 denotes the second copy, not a second edition."
+   }
+  ],
+  "tour": [
+   "author",
+   "title",
+   "accent",
+   "subtitle",
+   "interval",
+   "imprint"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected cover wording",
+    "rows": [
+     {
+      "text": "Macunaíma",
+      "meaning": "Title",
+      "lang": "pt"
+     },
+     {
+      "text": "Mário de Andrade",
+      "meaning": "Author",
+      "lang": "pt"
+     },
+     {
+      "text": "O heroi sem nenhum caracter",
+      "meaning": "The hero without any character — subtitle",
+      "lang": "pt"
+     },
+     {
+      "text": "S. PAULO — 1928",
+      "meaning": "São Paulo — 1928",
+      "lang": "pt"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected clearly legible cover wording. Line breaks and casing may be regularized. Small uncertain print is omitted rather than guessed.",
+  "palette": [
+   {
+    "name": "Wrapper tan",
+    "hex": "#A48447",
+    "role": "The broad paper field.",
+    "region": "interval"
+   },
+   {
+    "name": "Title red",
+    "hex": "#7E2116",
+    "role": "The dominant title colour.",
+    "region": "title"
+   },
+   {
+    "name": "Subtitle ink",
+    "hex": "#28210E",
+    "role": "Small dark type beneath the title.",
+    "region": "subtitle"
+   }
+  ],
+  "paletteNote": "Samples come from individual pixels in this reproduction. They describe its visible colour, not original printing inks or an exact historical colour standard."
+ }
+}

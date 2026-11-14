@@ -1,0 +1,631 @@
+{
+ "poster": {
+  "id": "hope",
+  "title": "Hope",
+  "year": "2026",
+  "yearNumber": 2026,
+  "country": "South Korea",
+  "countries": [
+   "South Korea"
+  ],
+  "region": "East Asia",
+  "category": "Film",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Na Hong-jin",
+  "edition": "NEON US teaser poster",
+  "posterTerritory": "United States",
+  "image": "images/full/hope.jpg",
+  "ratio": 0.675,
+  "alt": "A huge snarling creature fills the upper right of a blue-grey Hope poster, above a dark-haired woman aiming a rifle; white title letters cross the gap between them.",
+  "blurb": "An enormous creature and a tightly cropped human figure compete across a cold blue field.",
+  "notes": [
+   {
+    "title": "Two incompatible scales",
+    "body": "The creature’s head is much larger than the armed woman beneath it. Placing both in the same shallow field turns a difference in scale into the poster’s main visual tension."
+   },
+   {
+    "title": "Two gestures point outward",
+    "body": "The creature’s snout and the rifle both project toward the left edge. Repeating that direction across two separated figures makes the whole poster feel aimed beyond its frame."
+   },
+   {
+    "title": "A calm word in a turbulent image",
+    "body": "The large white title stretches horizontally across the blue-grey space between the figures. Its clean, widely spaced capitals interrupt the rough skin, hair and smoke textures around it."
+   }
+  ],
+  "source": "https://www.festival-cannes.com/en/f/hope/",
+  "imageSource": "https://www.neonrated.com/film/hope",
+  "imageCredit": "Official NEON teaser artwork. Copyright remains with the film, distributor and artwork rights holders; poster designer uncredited.",
+  "credit": "Official NEON teaser artwork. Copyright remains with the film, distributor and artwork rights holders; poster designer uncredited.",
+  "reproduction": "Film: South Korea, 2026. Selected artwork is NEON’s US teaser campaign, with a September 9 release line.",
+  "downloadURL": "https://www.datocms-assets.com/148598/1785341902-hope-teaser-poster-27x40.jpg",
+  "anchor": [
+   0.66,
+   0.28
+  ],
+  "accent": "#47748b",
+  "posterYear": "2026",
+  "primaryOrigin": "South Korea",
+  "anchorLayer": 1,
+  "thumb": "images/catalogue/hope.webp"
+ },
+ "studyData": {
+  "intro": "A cropped creature and an armed woman occupy opposite corners, with the film’s name suspended between them. The poster makes danger visually clear while leaving the scene’s geography and the creature’s nature uncertain.",
+  "initial": "title",
+  "regions": [
+   {
+    "id": "air",
+    "label": "The blue-grey interval",
+    "shortLabel": "The blue-grey interval",
+    "kicker": "Space between threats",
+    "summary": "Open atmosphere separates the two large figures.",
+    "x": 26,
+    "y": 24.5,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 52,
+     "h": 49
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Space between threats",
+      "body": "The upper-left area is mostly blue-grey, with little sharp detail. It gives the white credits and title a quieter field while the creature enters from the opposite corner. The lower part shifts into haze and blurred buildings, joining open sky to a more crowded street scene.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An interval, not a gap to fill",
+      "body": "This space keeps the two dominant forms from merging into one mass. It can also make the distance between them feel unresolved. Adding more visual information here would change both readability and tension, so apparent emptiness is doing a specific compositional job.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How much of the poster’s drama depends on this apparently empty area?",
+    "related": [
+     "creature",
+     "title"
+    ],
+    "number": 1
+   },
+   {
+    "id": "creature",
+    "label": "A creature cut by the frame",
+    "shortLabel": "A creature cut by the frame",
+    "kicker": "Scale through cropping",
+    "summary": "Only part of an enormous head is visible.",
+    "x": 75.5,
+    "y": 18,
+    "bounds": {
+     "x": 51,
+     "y": 0,
+     "w": 49,
+     "h": 36
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Scale through cropping",
+      "body": "The creature enters from the upper and right edges, with its head and open mouth extending beyond the sheet. There is no complete body to measure. Teeth, tongue and textured skin are rendered sharply enough to contrast with the much softer atmosphere behind them.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Keep the unknown unknown",
+      "body": "NEON describes a mysterious creature threatening a remote South Korean village and warns that appearances can mislead. That supports the encounter’s broad context, but not a species name or an explanation of the creature’s motives. The poster’s visible anatomy should not be mistaken for a complete account of the film.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "neon"
+       }
+      ]
+     }
+    ],
+    "question": "Which missing edges make the creature seem larger than the page?",
+    "related": [
+     "teeth",
+     "woman"
+    ],
+    "number": 2
+   },
+   {
+    "id": "teeth",
+    "label": "Teeth and open jaws",
+    "shortLabel": "Teeth and open jaws",
+    "kicker": "A rhythm of sharp points",
+    "summary": "Pale points line a dark opening.",
+    "x": 77,
+    "y": 19,
+    "bounds": {
+     "x": 54,
+     "y": 3,
+     "w": 46,
+     "h": 32
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A rhythm of sharp points",
+      "body": "Rows of pale, uneven teeth sit against the darker mouth. Their repeated triangular forms contrast with the curved tongue and the broader folds of skin. The sharp light-dark boundary makes the opening recognizable even when individual teeth become too small to inspect.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Threat as a visible cue",
+      "body": "Exposed teeth and an open jaw provide an immediate visual cue of danger. That reading is grounded in the image’s action and scale, rather than in a universal meaning assigned to a colour. It still does not prove what the creature is doing in the exact film moment.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which repeated shapes make the mouth readable even at a distance?",
+    "related": [
+     "creature",
+     "strands"
+    ],
+    "number": 3
+   },
+   {
+    "id": "strands",
+    "label": "Fine diagonal strands",
+    "shortLabel": "Fine diagonal strands",
+    "kicker": "Small marks connect large forms",
+    "summary": "Pale lines stretch across the open space near the mouth.",
+    "x": 75,
+    "y": 16,
+    "bounds": {
+     "x": 58,
+     "y": 10,
+     "w": 34,
+     "h": 12
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Small marks connect large forms",
+      "body": "Several fine pale strands stretch diagonally from the upper jaw area toward the lower mouth. They are much thinner than the teeth and skin folds, yet their contrast against the blue ground makes them visible. Their direction extends the creature’s presence into otherwise open space.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A detail with disproportionate force",
+      "body": "The strands can make the mouth feel wet and physically immediate, unlike a clean silhouette. This is a visual effect rather than a claim about how the image was made. Their delicate edges also show why a layer separation must preserve small features, not only the large head outline.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What happens to the sense of movement if you cover these thin lines?",
+    "related": [
+     "teeth",
+     "air"
+    ],
+    "number": 4
+   },
+   {
+    "id": "woman",
+    "label": "The face beside the weapon",
+    "shortLabel": "The face beside the weapon",
+    "kicker": "An eye with an outward direction",
+    "summary": "A sharply focused eye occupies the lower-left action.",
+    "x": 35,
+    "y": 67,
+    "bounds": {
+     "x": 18,
+     "y": 55,
+     "w": 34,
+     "h": 24
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An eye with an outward direction",
+      "body": "The woman’s face turns toward the left edge beside the weapon. Loose hair crosses the forehead and cheek, while dark marks interrupt the skin. Her visible eye is sharply defined compared with the blurred street, making it a strong local focus within the larger figure.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Do not invent a direct confrontation",
+      "body": "The woman and creature share the poster but do not visibly look straight at each other. Their placement can suggest an encounter without proving that this is a single continuous shot. Comparing gaze directions guards against turning a promotional arrangement into a literal map of the scene.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where is the eye directed relative to the creature above?",
+    "related": [
+     "weapon",
+     "creature"
+    ],
+    "number": 5
+   },
+   {
+    "id": "weapon",
+    "label": "Arms and the rifle",
+    "shortLabel": "Arms and the rifle",
+    "kicker": "A strong diagonal with contact points",
+    "summary": "A dark diagonal projects beyond the left edge.",
+    "x": 20.5,
+    "y": 70.5,
+    "bounds": {
+     "x": 0,
+     "y": 56,
+     "w": 41,
+     "h": 29
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A strong diagonal with contact points",
+      "body": "The rifle reaches toward the left edge, while hands and arms hold it close to the face and torso. Dark metal, pale skin and blue clothing overlap. These changes of tone help distinguish the grip and body position even where the lower scene becomes smoky.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A role supplied by the record",
+      "body": "The Cannes record identifies Hoyeon’s character Sung-ae as a police officer involved in defending the village. That is contextual information from the film record. The poster’s weapon alone would not establish an occupation, and the image gives no basis for technical claims about the weapon’s model.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cannes"
+       }
+      ]
+     }
+    ],
+    "question": "Which overlaps show how the weapon is being held?",
+    "related": [
+     "woman",
+     "smoke"
+    ],
+    "number": 6
+   },
+   {
+    "id": "smoke",
+    "label": "Haze, sparks and fire",
+    "shortLabel": "Haze, sparks and fire",
+    "kicker": "Warmth at the lower edge",
+    "summary": "A small orange corner interrupts the cool palette.",
+    "x": 81,
+    "y": 82.5,
+    "bounds": {
+     "x": 62,
+     "y": 65,
+     "w": 38,
+     "h": 35
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Warmth at the lower edge",
+      "body": "Orange flame-like colour and small bright flecks occupy the lower-right corner. Much of the surrounding street is blurred or veiled by grey haze. The warm accent is small compared with the blue field, so it adds contrast without turning the entire poster orange.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An unstable ground",
+      "body": "The blurred environment makes the sharply rendered face and creature feel more urgent. It withholds precise spatial information while preserving a sense of disturbance. That is a reading of focus and colour; it does not establish a particular explosion, fire location or sequence of events.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does the warm area compete with the face, or lead you back toward it?",
+    "related": [
+     "air",
+     "woman"
+    ],
+    "number": 7
+   },
+   {
+    "id": "title",
+    "label": "A blurred word of hope",
+    "shortLabel": "A blurred word of hope",
+    "kicker": "A readable word with unstable edges",
+    "summary": "Large pale letters sit between two threats.",
+    "x": 50,
+    "y": 38,
+    "bounds": {
+     "x": 23,
+     "y": 30,
+     "w": 54,
+     "h": 16
+    },
+    "layerIndex": 3,
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A readable word with unstable edges",
+      "body": "HOPE appears in tall pale capitals across the centre. Some edges are sharper than others, giving parts of the word a hazy or vibrating appearance. Its open counters and broad spacing keep it readable despite that softness, especially against the darker blue background.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A title with more than one reading",
+      "body": "NEON’s synopsis names the village Hope Harbor. The English title therefore has a location-based context as well as the everyday idea of hope. The threatening imagery can complicate that positive word, but the contrast should be presented as a reading rather than a statement of the designer’s intention.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "neon"
+       }
+      ]
+     }
+    ],
+    "question": "Which letters have the softest edges, and how does that affect the word?",
+    "related": [
+     "air",
+     "release"
+    ],
+    "number": 8
+   },
+   {
+    "id": "cast",
+    "label": "Names above the image’s centre",
+    "shortLabel": "Names above the image’s centre",
+    "kicker": "A structured list",
+    "summary": "Two rows of names precede the title.",
+    "x": 50,
+    "y": 24,
+    "bounds": {
+     "x": 23,
+     "y": 20,
+     "w": 54,
+     "h": 8
+    },
+    "layerIndex": 4,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A structured list",
+      "body": "The cast names form two centred rows, using pale, condensed-looking capitals. Smaller first-name lines and joining words create a hierarchy within the list. The group is narrow enough to avoid the creature’s main mouth area, showing how credits adapt to the pictorial space available.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Several reasons to recognize a film",
+      "body": "A cast list offers recognition through people, while the large image offers recognition through genre and spectacle. Those are different entry points on the same sheet. Their presence does not prove which actor attracted a particular viewer or how successful the campaign was.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the size of a surname differ from the smaller connecting words?",
+    "related": [
+     "cannes",
+     "title"
+    ],
+    "number": 9
+   },
+   {
+    "id": "cannes",
+    "label": "The festival mark",
+    "shortLabel": "The festival mark",
+    "kicker": "A small island of authority",
+    "summary": "A small palm emblem sits above the names.",
+    "x": 51,
+    "y": 17,
+    "bounds": {
+     "x": 44,
+     "y": 14,
+     "w": 14,
+     "h": 6
+    },
+    "layerIndex": 4,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A small island of authority",
+      "body": "The oval palm mark is surrounded by relatively clear blue-grey space. Several small lines below identify the festival and selection. Its modest size contrasts with the huge creature, but its isolated placement gives it a distinct reading position above the cast list.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Selection is not a prize",
+      "body": "Cannes lists Hope as a South Korean 2026 feature in Competition. That verifies the selection claim on the poster. It does not mean the film won an award, and the study should preserve that difference even when festival emblems are used as promotional credentials.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cannes"
+       }
+      ]
+     }
+    ],
+    "question": "How is this festival mark different from a winner claim?",
+    "related": [
+     "cast",
+     "release"
+    ],
+    "number": 10
+   },
+   {
+    "id": "release",
+    "label": "A dated theatrical invitation",
+    "shortLabel": "A dated theatrical invitation",
+    "kicker": "A clear final instruction",
+    "summary": "The bottom block gives a venue type and calendar date.",
+    "x": 49.5,
+    "y": 92,
+    "bounds": {
+     "x": 35,
+     "y": 88,
+     "w": 29,
+     "h": 8
+    },
+    "layerIndex": 4,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A clear final instruction",
+      "body": "The release block uses bright capitals over the dark lower figure. It specifies theatrical viewing and a September date, followed by the distributor’s outlined name. Its small scale relative to the title makes it a final practical detail after the image has established the film’s identity.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Read it as campaign history",
+      "body": "The printed date belongs to this particular NEON campaign artwork. It should not become a live promise that the film is opening next September whenever someone visits the atlas. Keeping release wording attached to its edition is especially important for a recent film whose availability can change.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What does the release line tell you that the title cannot?",
+    "related": [
+     "title",
+     "cannes"
+    ],
+    "number": 11
+   }
+  ],
+  "sources": [
+   {
+    "id": "neon",
+    "title": "NEON: Hope",
+    "url": "https://www.neonrated.com/film/hope",
+    "kind": "Distributor",
+    "summary": "Supplies the poster, 2026 film identity, director/cast and Hope Harbor synopsis; not evidence of the poster designer’s intentions."
+   },
+   {
+    "id": "cannes",
+    "title": "Festival de Cannes: Hope",
+    "url": "https://www.festival-cannes.com/en/f/hope/",
+    "kind": "Festival record",
+    "summary": "Verifies 2026 South Korea, Competition selection and the named characters including officer Sung-ae."
+   }
+  ],
+  "tour": [
+   "title",
+   "creature",
+   "strands",
+   "woman",
+   "weapon",
+   "release"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected readable wording",
+    "rows": [
+     {
+      "text": "HOPE",
+      "meaning": "Film title.",
+      "lang": "en"
+     },
+     {
+      "text": "A FILM BY NA HONG-JIN",
+      "meaning": "Director credit.",
+      "lang": "en"
+     },
+     {
+      "text": "ONLY IN THEATERS SEPTEMBER 9TH",
+      "meaning": "Theatrical date printed on this campaign edition.",
+      "lang": "en"
+     },
+     {
+      "text": "NEON",
+      "meaning": "Distributor name.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "This is a partial transcript of securely readable wording in the installed reproduction. Small credits, logos and review attributions are not fully transcribed; enlargement cannot restore missing source detail.",
+  "palette": [
+   {
+    "name": "Atmosphere blue",
+    "hex": "#51738C",
+    "role": "Open cool space around the credits.",
+    "region": "air"
+   },
+   {
+    "name": "Title pale",
+    "hex": "#E3EEF0",
+    "role": "Light lettering in the centre.",
+    "region": "title"
+   },
+   {
+    "name": "Jacket blue",
+    "hex": "#233543",
+    "role": "The figure’s cooler clothing.",
+    "region": "woman"
+   },
+   {
+    "name": "Fire orange",
+    "hex": "#CC8543",
+    "role": "A small warm accent at the edge.",
+    "region": "smoke"
+   }
+  ],
+  "paletteNote": "These are individual screen-pixel samples from the installed digital reproduction, not specifications for the original inks or paper. Texture, lighting, scanning and screen settings affect their appearance.",
+  "connections": [
+   {
+    "label": "Opposing diagonals",
+    "title": "Two edges close in on the title",
+    "text": "The jaws descend from the upper right while the rifle rises from the left. The pale title occupies the opening between those opposing diagonals.",
+    "anchors": [
+     [
+      1,
+      0.8895061728395062,
+      0.21041666666666667
+     ],
+     [
+      2,
+      0.17962962962962964,
+      0.6895833333333333
+     ]
+    ],
+    "id": "hope-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Light at the centre",
+    "title": "The quietest shape is a word",
+    "text": "The large white title is simpler and lighter than either textured figure. The smaller white notices repeat that contrast at the top and bottom.",
+    "anchors": [
+     [
+      3,
+      0.5364197530864198,
+      0.37041666666666667
+     ],
+     [
+      4,
+      0.4734567901234568,
+      0.9004166666666666
+     ]
+    ],
+    "id": "hope-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

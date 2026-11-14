@@ -1,0 +1,622 @@
+{
+ "poster": {
+  "id": "the-goddess",
+  "title": "The Goddess",
+  "year": "1934",
+  "yearNumber": 1934,
+  "country": "China",
+  "countries": [
+   "China"
+  ],
+  "region": "East Asia",
+  "category": "Film",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Wu Yonggang",
+  "edition": "Chinese theatrical poster",
+  "posterTerritory": "China",
+  "image": "images/full/the-goddess.jpg",
+  "ratio": 0.6005586592178771,
+  "alt": "Tall Chinese poster divided into black and red, with a large halftone portrait on the right, a small standing woman and lamppost below, and white Chinese lettering above.",
+  "blurb": "A face, a street figure and a strip of red turn an unusually narrow sheet into a study in scale.",
+  "notes": [
+   {
+    "title": "A portrait and a person",
+    "body": "The close-up face occupies most of the right-hand red strip. A much smaller full-length woman stands near the bottom left, so the design lets us see a person at two very different distances."
+   },
+   {
+    "title": "Red makes an edge",
+    "body": "The narrow red panel presses against a broad black field. Its sharp vertical boundary gives the worn, textured printing a firm structure and makes the pale face immediately visible."
+   },
+   {
+    "title": "Words share the vertical rhythm",
+    "body": "Large white Chinese characters gather high on the dark side, with smaller lettering and credits below. The upright text, lamppost and standing figure all reinforce the long, narrow format."
+   }
+  ],
+  "source": "https://shop.bfi.org.uk/the-goddess-dvd/",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Goddess_1934_film_poster.jpg",
+  "imageCredit": "Lianhua Film Company poster, reproduced from the Wikimedia Commons record. Poster artist not identified; consult the source record for territorial rights information.",
+  "credit": "Lianhua Film Company poster, reproduced from the Wikimedia Commons record. Poster artist not identified; consult the source record for territorial rights information.",
+  "reproduction": "Film: China, 1934. The Commons record identifies this as a 1934 film poster; the scan retains its printing texture.",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Goddess_1934_film_poster.jpg",
+  "anchor": [
+   0.76,
+   0.37
+  ],
+  "accent": "#ab262b",
+  "posterYear": "1934",
+  "primaryOrigin": "China",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/the-goddess.webp"
+ },
+ "studyData": {
+  "intro": "A face, a standing figure and a street lamp occupy three very different scales. This worn Chinese poster also carries English wording that deserves to be read alongside, not substituted for, its main title.",
+  "initial": "portrait",
+  "regions": [
+   {
+    "id": "portrait",
+    "number": 1,
+    "label": "Large pale face",
+    "shortLabel": "Large pale face",
+    "kicker": "DESIGN",
+    "summary": "A face emerges from a tall red field.",
+    "x": 82,
+    "y": 35,
+    "bounds": {
+     "x": 62,
+     "y": 12,
+     "w": 38,
+     "h": 55
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Texture creates the likeness",
+      "body": "The portrait is built from pale and darker marks rather than a smooth photographic surface. Eyes, nose and mouth become legible when the marks are viewed together. Enlarging the reproduction reveals its texture, but cannot restore details the scan does not contain.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An intimate distance",
+      "body": "The large face brings the viewer close while the smaller woman elsewhere on the page remains distant. This contrast can make the poster hold public appearance and private attention together. It does not prove that the two images depict one exact film moment.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How far can you reduce the image before the eyes stop being readable?",
+    "related": [
+     "standing",
+     "red-panel"
+    ]
+   },
+   {
+    "id": "red-panel",
+    "number": 2,
+    "label": "Red vertical panel",
+    "shortLabel": "Red vertical panel",
+    "kicker": "DESIGN",
+    "summary": "A straight boundary organises a worn image.",
+    "x": 75,
+    "y": 79,
+    "bounds": {
+     "x": 60,
+     "y": 1,
+     "w": 40,
+     "h": 94
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "One firm division",
+      "body": "A tall red rectangle occupies the right side and stops above the bottom edge. Its straight left boundary is unusually clear beside the grain and faded printed details. This division gives the sheet a simple structure despite its many smaller marks.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An edge with emphasis",
+      "body": "The red field differentiates the large portrait from the dark street-like area. It is safer to describe this local contrast than to assign a universal meaning such as danger or passion to red. Compare how the portrait changes against the neighbouring black.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "If the red panel became grey, which distinction would become weaker?",
+    "related": [
+     "portrait",
+     "dark-field"
+    ]
+   },
+   {
+    "id": "standing",
+    "number": 3,
+    "label": "Full-length woman",
+    "shortLabel": "Full-length woman",
+    "kicker": "DESIGN",
+    "summary": "The small figure supplies a second distance.",
+    "x": 14,
+    "y": 75,
+    "bounds": {
+     "x": 3,
+     "y": 51,
+     "w": 23,
+     "h": 46
+    },
+    "layerIndex": 4,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A narrow complete body",
+      "body": "The standing woman is shown almost head to foot, with patterned clothing and hands gathered near the torso. She occupies only a small fraction of the height and width given to the large face. Her position close to the edge leaves a wide dark interval beside her.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A narrative context",
+      "body": "BFI identifies Wu Yonggang’s 1934 film and describes Ruan Lingyu’s character as a mother who supports her young son through sex work. That account supplies context for the film; a figure’s clothing or street position alone cannot establish her occupation.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "bfi"
+       }
+      ]
+     }
+    ],
+    "question": "What can you observe about the figure before reading the film synopsis?",
+    "related": [
+     "portrait",
+     "lamp"
+    ]
+   },
+   {
+    "id": "lamp",
+    "number": 4,
+    "label": "Street lamp",
+    "shortLabel": "Street lamp",
+    "kicker": "DESIGN",
+    "summary": "A thin object links words and person.",
+    "x": 8,
+    "y": 42,
+    "bounds": {
+     "x": 4,
+     "y": 35,
+     "w": 9,
+     "h": 21
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A bright head on a thin stem",
+      "body": "The lamp has a small pale lantern and a long narrow support. It sits between the upper wording and the standing woman. Its upright shape repeats the figure’s direction while its simpler outline makes it easier to recognise at small scale.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A suggested setting",
+      "body": "A lamp is enough to suggest a street without depicting a whole city. The surrounding darkness leaves that setting open. We can describe the object and its spatial role without claiming a precise district, hour or location that the image does not establish.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How much of the setting would remain recognisable if you covered the lamp?",
+    "related": [
+     "standing",
+     "dark-field"
+    ]
+   },
+   {
+    "id": "dark-field",
+    "number": 5,
+    "label": "Dark open interval",
+    "shortLabel": "Dark open interval",
+    "kicker": "DESIGN",
+    "summary": "A broad quiet area separates the scales.",
+    "x": 43,
+    "y": 56,
+    "bounds": {
+     "x": 26,
+     "y": 33,
+     "w": 32,
+     "h": 42
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Darkness contains details",
+      "body": "The left field includes grain, vertical surface traces and a circular fitting near the upper middle. It is not an untouched blank. These low-contrast details stay behind the much brighter letters, lamp and figure rather than demanding equal attention.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Space as separation",
+      "body": "The dark interval keeps the small body from merging with the large portrait. That separation lets us compare two kinds of representation. Filling the space with additional scenes would change the poster from a restrained pairing into a more crowded montage.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which low-contrast detail do you notice only after the large face?",
+    "related": [
+     "red-panel",
+     "fitting"
+    ]
+   },
+   {
+    "id": "fitting",
+    "number": 6,
+    "label": "Circular fitting",
+    "shortLabel": "Circular fitting",
+    "kicker": "DESIGN",
+    "summary": "A small ring interrupts the upright rhythms.",
+    "x": 46,
+    "y": 34,
+    "bounds": {
+     "x": 39,
+     "y": 26,
+     "w": 13,
+     "h": 12
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A curved object in shadow",
+      "body": "A circular, ring-like fitting appears near the boundary between the title area and the empty dark space. Its highlight is subdued compared with the lettering. The shape supplies a rounded interruption among the poster’s strong vertical divisions and figures.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Keep identification modest",
+      "body": "The fitting may suggest a door surface, but this reproduction does not establish the exact object, building or prop. Calling attention to a visible ring is more useful than supplying an unsupported narrative about who stands behind that door.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does the ring help you imagine a surface, or does it remain an abstract circle?",
+    "related": [
+     "lamp",
+     "dark-field"
+    ]
+   },
+   {
+    "id": "chinese-title",
+    "number": 7,
+    "label": "Chinese title",
+    "shortLabel": "Chinese title",
+    "kicker": "LANGUAGE",
+    "summary": "Large pale characters lead the upper-left area.",
+    "x": 21,
+    "y": 15,
+    "bounds": {
+     "x": 0,
+     "y": 8,
+     "w": 42,
+     "h": 15
+    },
+    "layerIndex": 5,
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A title read with care",
+      "body": "The principal characters form 神女, conventionally rendered The Goddess. The poster arranges the two large characters in the historical right-to-left order. Their broad pale strokes stand apart from the smaller names and vertical production information around them.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A title with an ironic context",
+      "body": "BFI explains that the film’s title uses goddess as an ironic euphemism in its story about a mother and sex work. This contextual meaning comes from the film record, not from the character shapes themselves or an assumption about the pictured woman.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "bfi"
+       }
+      ]
+     }
+    ],
+    "question": "How does learning the contextual meaning change your reading of the large portrait?",
+    "related": [
+     "english-line",
+     "portrait"
+    ]
+   },
+   {
+    "id": "english-line",
+    "number": 8,
+    "label": "English wording",
+    "shortLabel": "English wording",
+    "kicker": "LANGUAGE",
+    "summary": "The English line names the subject differently.",
+    "x": 21,
+    "y": 25,
+    "bounds": {
+     "x": 0,
+     "y": 22,
+     "w": 46,
+     "h": 5
+    },
+    "layerIndex": 5,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Two wordings, not a literal match",
+      "body": "The visible English line reads STREET—WALKER. It is not a word-for-word rendering of 神女. Reading both lines makes the difference visible: one uses a figurative title, while the other labels the social subject more directly.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Addressing more than one reader",
+      "body": "English lettering alongside Chinese characters offers another route into the poster. The image alone cannot establish the intended language skills or identities of all viewers. We can observe the bilingual presentation without assuming this is an English-language film.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which wording leaves more room for interpretation, and which explains more immediately?",
+    "related": [
+     "chinese-title",
+     "small-words"
+    ]
+   },
+   {
+    "id": "small-words",
+    "number": 9,
+    "label": "Names and credits",
+    "shortLabel": "Names and credits",
+    "kicker": "DESIGN",
+    "summary": "Fine vertical lines create a slower reading level.",
+    "x": 40,
+    "y": 82,
+    "bounds": {
+     "x": 25,
+     "y": 75,
+     "w": 34,
+     "h": 18
+    },
+    "layerIndex": 5,
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A compact vertical rhythm",
+      "body": "Several small vertical columns stand beside the lower figure. Their repeated narrow shapes relate to the lamp and the main panel boundary. Their fine detail contrasts with the large title, requiring a closer view before individual characters can be distinguished.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "A limit worth preserving",
+      "body": "The visible presence of writing matters even when every character cannot be read securely. Leaving uncertain credits untranscribed avoids turning a low-resolution image into false precision. The broad hierarchy—title, names and fine production details—can still be studied.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What can you learn about hierarchy without deciphering every credit?",
+    "related": [
+     "chinese-title",
+     "standing"
+    ]
+   },
+   {
+    "id": "right-imprint",
+    "number": 10,
+    "label": "Right-side imprint",
+    "shortLabel": "Right-side imprint",
+    "kicker": "DESIGN",
+    "summary": "Dark characters sit within the red panel.",
+    "x": 93,
+    "y": 84,
+    "bounds": {
+     "x": 88,
+     "y": 71,
+     "w": 9,
+     "h": 24
+    },
+    "layerIndex": 5,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Reversing the contrast",
+      "body": "Most lettering on the left is pale against dark. The narrow imprint at lower right uses darker marks on red instead. This contrast reversal helps the secondary line remain distinct while keeping it inside the portrait’s coloured field.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "More than one textual zone",
+      "body": "The imprint shows that the right panel is not reserved entirely for a face. Image and information share it at different scales. Its exact fine wording is not reconstructed here, so the interpretation concerns placement and contrast rather than an unverified production credit.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where else does the poster place small information inside an image area?",
+    "related": [
+     "small-words",
+     "red-panel"
+    ]
+   },
+   {
+    "id": "surface",
+    "number": 11,
+    "label": "Print wear and grain",
+    "shortLabel": "Print wear and grain",
+    "kicker": "DESIGN",
+    "summary": "A surviving reproduction is part of the evidence.",
+    "x": 50,
+    "y": 94,
+    "bounds": {
+     "x": 28,
+     "y": 91,
+     "w": 30,
+     "h": 8
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Marks beyond the composition",
+      "body": "Speckling and uneven density appear across the dark and red fields. Some edges are softened or broken. These marks affect how the poster looks today, but their appearance cannot by itself identify a precise printing process, date or condition history.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Read the object honestly",
+      "body": "The film year and the date of a particular poster printing are different questions. The installed edition is retained with its worn surface, and the exact printing date remains unverified. A sharper imagined replacement would erase this useful limit instead of resolving it.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which marks seem designed, and which might belong to reproduction or wear?",
+    "related": [
+     "portrait",
+     "small-words"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed poster edition",
+    "url": "https://commons.wikimedia.org/wiki/File:Goddess_1934_film_poster.jpg",
+    "kind": "Visual source",
+    "summary": "The reproduced edition is the evidence for visible wording, layout, marks and colour relationships. Translations and visual interpretations are supplied by Poster Atlas."
+   },
+   {
+    "id": "bfi",
+    "title": "BFI: The Goddess",
+    "url": "https://shop.bfi.org.uk/the-goddess-dvd/",
+    "kind": "Film archive and distributor",
+    "summary": "Identifies Wu Yonggang, the 1934 Chinese silent film and Ruan Lingyu’s mother character; explains the title’s euphemistic context. It does not date the reproduced poster printing."
+   }
+  ],
+  "tour": [
+   "portrait",
+   "standing",
+   "lamp",
+   "chinese-title",
+   "english-line",
+   "surface"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "神女",
+      "meaning": "The Goddess; the two large characters appear in right-to-left order on this sheet.",
+      "lang": "zh-Hant"
+     },
+     {
+      "text": "STREET—WALKER",
+      "meaning": "The visible English wording; it is not a literal translation of 神女.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Only securely legible title and key wording are transcribed. Small credits are not reconstructed from this reproduction.",
+  "palette": [
+   {
+    "name": "Red panel",
+    "hex": "#B5574D",
+    "role": "The portrait’s large warm field.",
+    "region": "red-panel"
+   },
+   {
+    "name": "Dark field",
+    "hex": "#1B2121",
+    "role": "Quiet space around the standing figure.",
+    "region": "dark-field"
+   },
+   {
+    "name": "Pale portrait mark",
+    "hex": "#E0E4E7",
+    "role": "A printed highlight on the large face.",
+    "region": "portrait"
+   },
+   {
+    "name": "Pale title mark",
+    "hex": "#D1D5D6",
+    "role": "A light stroke in the Chinese title.",
+    "region": "chinese-title"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in this installed reproduction. They are not original paint, ink or printing specifications.",
+  "connections": [
+   {
+    "label": "Two scales",
+    "title": "A face and a full-length figure",
+    "text": "The large face occupies much of the red panel, while the standing woman is slender and small. The contrast in scale makes the same sheet feel both intimate and distant.",
+    "anchors": [
+     [
+      2,
+      0.8197674418604651,
+      0.35963687150837986
+     ],
+     [
+      4,
+      0.14302325581395348,
+      0.7297486033519553
+     ],
+     [
+      1,
+      0.7406976744186047,
+      0.789804469273743
+     ]
+    ],
+    "id": "the-goddess-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Vertical rhythm",
+    "title": "Words, lamp and body",
+    "text": "The narrow lamp and standing figure repeat the upright direction of the Chinese lettering. The broad face interrupts those thin vertical forms.",
+    "anchors": [
+     [
+      5,
+      0.20348837209302326,
+      0.15572625698324022
+     ],
+     [
+      3,
+      0.08023255813953488,
+      0.40712290502793297
+     ],
+     [
+      4,
+      0.14069767441860465,
+      0.8442737430167597
+     ]
+    ],
+    "id": "the-goddess-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

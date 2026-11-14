@@ -1,0 +1,661 @@
+{
+ "poster": {
+  "id": "skegness-is-so-bracing",
+  "title": "Skegness is SO Bracing",
+  "year": "c. 1908",
+  "yearNumber": 1908,
+  "creator": "John Hassall",
+  "country": "United Kingdom",
+  "countries": [
+   "United Kingdom"
+  ],
+  "region": "Europe",
+  "category": "Advertising",
+  "edition": "Great Northern Railway poster, circa 1908; Science Museum Group 1992-7684. This is the early GNR sheet, not the later LNER reissue.",
+  "image": "images/full/skegness-is-so-bracing.jpg",
+  "ratio": 0.63,
+  "imageWidth": 630,
+  "imageHeight": 1000,
+  "alt": "A smiling fisherman in a green sweater and red scarf leaps over beach puddles beneath huge G.N.R. lettering; green text below reads Skegness is SO Bracing.",
+  "blurb": "A broad grin, flying scarf and improbable leap turn cold sea air into a promise of pleasure.",
+  "notes": [
+   {
+    "title": "A whole body tells the joke",
+    "body": "Outstretched hands, crossed boots and a lifted belly make the fisherman’s leap readable at once. Keeping the entire figure in view preserves the comic energy of the pose."
+   },
+   {
+    "title": "A red accent catches the breeze",
+    "body": "The scarf streams sideways between the green sweater and pale sky. Its concentrated red gives the head a focal point and suggests wind without needing a written explanation."
+   },
+   {
+    "title": "Two names frame the invitation",
+    "body": "The large G.N.R. initials identify the railway above the scene; Skegness and the underlined SO deliver the destination and promise below. A small reflection in a puddle adds a second, quieter version of the airborne figure."
+   }
+  ],
+  "source": "https://collection.sciencemuseumgroup.org.uk/objects/co228471/skegness-is-so-bracing",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Poster,_GNR._%27Skegness_is_So_Bracing%27_by_John_Hassall.jpg",
+  "credit": "John Hassall, c. 1908. Science Museum Group, 1992-7684. Public-domain artwork; museum reproduction via Wikimedia Commons. Resized for this catalogue.",
+  "imageCredit": "John Hassall, c. 1908. Science Museum Group, 1992-7684. Public-domain artwork; museum reproduction via Wikimedia Commons. Resized for this catalogue.",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Poster%2C_GNR._%27Skegness_is_So_Bracing%27_by_John_Hassall.jpg",
+  "anchor": [
+   0.48,
+   0.39
+  ],
+  "accent": "#bd3d2b",
+  "anchorLayer": 1,
+  "primaryOrigin": "United Kingdom",
+  "thumb": "images/catalogue/skegness-is-so-bracing.webp"
+ },
+ "studyData": {
+  "intro": "John Hassall’s early Great Northern Railway sheet makes a seaside invitation through one airborne body, a red scarf and an emphatic slogan. Read the railway initials as well as the destination: this is the circa-1908 GNR version, not a later LNER redesign.",
+  "initial": "leap",
+  "regions": [
+   {
+    "id": "leap",
+    "number": 1,
+    "label": "The whole airborne figure",
+    "shortLabel": "The whole airborne figure",
+    "kicker": "A POSE WITH NO PLANTED FOOT",
+    "summary": "A broad body lifts clear of the beach.",
+    "x": 48,
+    "y": 48,
+    "bounds": {
+     "x": 16,
+     "y": 29,
+     "w": 71,
+     "h": 37
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A pose with no planted foot",
+      "body": "Both boots are clear of the main beach surface, while the arms extend almost horizontally. The round torso and crossed lower legs produce a comic imbalance. Keeping the whole figure visible lets the viewer understand the movement without a sequence of images.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Energy as a destination promise",
+      "body": "The leap can make the seaside appear invigorating, especially beside the word bracing. This is a reading of pose and wording together. The picture does not demonstrate a health benefit or establish that every visitor would experience the place in the same way.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where can you see actual sand between the figure and a possible landing point?",
+    "related": [
+     "boots",
+     "hands",
+     "reflection"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "face",
+    "number": 2,
+    "label": "A face under a dark cap",
+    "shortLabel": "A face under a dark cap",
+    "kicker": "A COMPACT FOCAL CLUSTER",
+    "summary": "Small facial details sit between larger gestures.",
+    "x": 52,
+    "y": 34,
+    "bounds": {
+     "x": 44,
+     "y": 29,
+     "w": 16,
+     "h": 9
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A compact focal cluster",
+      "body": "The cap, light face and small dark features form a tight group above the green sweater. A pipe-like shape extends from the mouth area and a small lock of hair projects sideways. These details reward closer inspection after the broader leap is recognised.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Character without a biography",
+      "body": "The illustrated figure can be described as the campaign’s fisherman, consistent with the museum record. His facial expression and clothing do not establish a real person’s identity, age or occupation beyond that depicted role. The study keeps characterisation separate from biography.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which carries the mood more strongly at thumbnail size: the face or the full pose?",
+    "related": [
+     "scarf",
+     "leap"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "scarf",
+    "number": 3,
+    "label": "A red strip in the breeze",
+    "shortLabel": "A red strip in the breeze",
+    "kicker": "A SMALL COLOUR WITH A LARGE JOB",
+    "summary": "The strongest warm accent crosses the upper body.",
+    "x": 44,
+    "y": 36,
+    "bounds": {
+     "x": 35,
+     "y": 32,
+     "w": 28,
+     "h": 7
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A small colour with a large job",
+      "body": "The scarf’s vivid red stands apart from green clothing and pale blue sky. One end extends sideways, giving the upper silhouette an extra directional shape. Its limited area makes the accent concentrated rather than turning the entire figure into a red mass.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An invisible force made visible",
+      "body": "The scarf’s sideways extension can suggest wind, while the floating body and outstretched arms support a lively reading. The image cannot measure wind speed; it makes the possibility of moving air legible through the position of cloth.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How would the pose read if the scarf hung straight down?",
+    "related": [
+     "face",
+     "hands",
+     "sky"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "hands",
+    "number": 4,
+    "label": "Outstretched hands",
+    "shortLabel": "Outstretched hands",
+    "kicker": "A BROAD HORIZONTAL COUNTERWEIGHT",
+    "summary": "Two small endpoints widen the figure.",
+    "x": 80,
+    "y": 36,
+    "bounds": {
+     "x": 15,
+     "y": 31,
+     "w": 73,
+     "h": 10
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A broad horizontal counterweight",
+      "body": "The arms spread to either side and end in pale hands, with fingers separated into small shapes. Their width balances the round torso and the narrower crossing legs. The nearly horizontal reach also echoes the sea’s level line behind the figure.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Balance that appears precarious",
+      "body": "The wide arms can read as an attempt to balance during a leap. That interpretation follows their placement relative to the lifted legs, not a claim about a real photographed action. The illustrated pose exaggerates its movement while staying easy to follow.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Follow one arm from shoulder to fingertips: how does its angle compare with the horizon?",
+    "related": [
+     "leap",
+     "horizon"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "boots",
+    "number": 5,
+    "label": "Crossing boots and lifted soles",
+    "shortLabel": "Crossing boots and lifted soles",
+    "kicker": "OVERLAPPING SHAPES BELOW THE BELLY",
+    "summary": "Large footwear carries the lower half’s joke.",
+    "x": 48,
+    "y": 57,
+    "bounds": {
+     "x": 31,
+     "y": 46,
+     "w": 29,
+     "h": 20
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Overlapping shapes below the belly",
+      "body": "The trousers narrow into two large dark boots that cross at different angles. One sole faces partly toward the viewer, while the other boot drops lower at right. This overlap gives depth to a figure otherwise drawn with broad simplified colour areas.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A pause before the landing",
+      "body": "The gap below the boots makes the leap seem temporary. The beach and puddles provide possible surfaces for a landing without depicting it. The reader supplies that next moment from the visible balance and height, rather than from a written action caption.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which boot appears nearer, and which overlap gives you that clue?",
+    "related": [
+     "leap",
+     "reflection"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "horizon",
+    "number": 6,
+    "label": "A level strip of sea",
+    "shortLabel": "A level strip of sea",
+    "kicker": "LINES THAT STAY STILL",
+    "summary": "Horizontal water steadies the moving body.",
+    "x": 17,
+    "y": 44,
+    "bounds": {
+     "x": 2,
+     "y": 39,
+     "w": 96,
+     "h": 14
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Lines that stay still",
+      "body": "The sea is represented by a level horizon and several pale horizontal wave bands. These lines pass behind the lower arms and torso. Their regularity contrasts with bent limbs, helping the airborne figure read as movement against a stable outdoor setting.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Enough setting to locate the joke",
+      "body": "The narrow sea strip, sand and pools identify a shore without a detailed map or building. The advertisement can name the place through its slogan while the image supplies a broad experience of being beside water. It is not a geographical survey.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Cover the sea strip: does the figure seem as clearly located on a beach?",
+    "related": [
+     "hands",
+     "sand",
+     "sky"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "sky",
+    "number": 7,
+    "label": "Pale sky and small clouds",
+    "shortLabel": "Pale sky and small clouds",
+    "kicker": "A QUIET UPPER FIELD",
+    "summary": "Open blue-green space surrounds the upper lettering.",
+    "x": 75,
+    "y": 22,
+    "bounds": {
+     "x": 2,
+     "y": 2,
+     "w": 96,
+     "h": 39
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A quiet upper field",
+      "body": "The muted blue-green sky contains a few pale clouds and visible reproduction texture. It leaves large clear areas around the bold initials and the figure’s head. The clouds form a loose horizontal band rather than a competing focal object.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A limited palette creates room",
+      "body": "The sky is less saturated than the scarf and less dark than the initials’ shadows. Those differences organise emphasis. The poster’s weather can be read as inviting, but the artwork is an advertisement and does not establish typical weather conditions in Skegness.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the sky keep both the railway initials and the small cap legible?",
+    "related": [
+     "railway",
+     "scarf",
+     "horizon"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "reflection",
+    "number": 8,
+    "label": "A small echo in the pool",
+    "shortLabel": "A small echo in the pool",
+    "kicker": "AN IMAGE WITHIN THE IMAGE",
+    "summary": "A dark vertical trace repeats the figure below.",
+    "x": 57,
+    "y": 74,
+    "bounds": {
+     "x": 34,
+     "y": 69,
+     "w": 57,
+     "h": 10
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An image within the image",
+      "body": "The largest lower pool contains a narrow dark reflection under the airborne body. It is more compressed and less detailed than the figure above. The pale blue water gives the reflection a separate field while keeping it connected to the beach.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A second beat after the leap",
+      "body": "This small echo can make the figure’s height easier to notice and adds a quieter joke below the main pose. It does not need to be a perfectly physical reflection to work as an illustrated relationship between body and wet surface.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What can you recognise in the reflection, and what has been simplified?",
+    "related": [
+     "leap",
+     "boots",
+     "pools"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "pools",
+    "number": 9,
+    "label": "Irregular patches of beach water",
+    "shortLabel": "Irregular patches of beach water",
+    "kicker": "OPEN SHAPES WITHOUT ENCLOSING BOXES",
+    "summary": "Blue shapes punctuate the yellow sand.",
+    "x": 78,
+    "y": 61,
+    "bounds": {
+     "x": 15,
+     "y": 49,
+     "w": 77,
+     "h": 30
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Open shapes without enclosing boxes",
+      "body": "Several blue pools sit at different heights and sizes across the sand. Their irregular edges interrupt a large yellow field and carry the water colour forward from the sea. The largest lies below the figure, while smaller ones flank its boots.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Scale helps the surface recede",
+      "body": "Different pool sizes and their positions suggest a broad beach extending away from the viewer. The exact distances are not measured. The shapes give enough surface variation to keep the ground from becoming an empty yellow block under the action.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Compare the pool contours with the figure’s silhouette: which is more angular?",
+    "related": [
+     "reflection",
+     "sand"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "railway",
+    "number": 10,
+    "label": "G.N.R. above the scene",
+    "shortLabel": "G.N.R. above the scene",
+    "kicker": "INITIALS WITH INSTITUTIONAL MEANING",
+    "summary": "A transport company’s initials lead the sheet.",
+    "x": 39,
+    "y": 10,
+    "bounds": {
+     "x": 6,
+     "y": 3,
+     "w": 66,
+     "h": 13
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Initials with institutional meaning",
+      "body": "The large G.N.R. lettering names the Great Northern Railway, as confirmed by the museum’s maker record. Pale letter faces and black offset shadows give the initials a solid presence above the scene. This identifies the advertiser rather than a character in the illustration.",
+      "evidence": "documented",
+      "originalText": "G.N.R.",
+      "lang": "en",
+      "sources": [
+       {
+        "id": "smg"
+       }
+      ]
+     },
+     {
+      "kind": "business",
+      "heading": "A journey is part of the invitation",
+      "body": "The railway name and seaside destination appear on the same sheet, linking the place to a means of reaching it. That is an advertising relationship visible in the layout. The poster does not provide fares, a timetable or evidence of the campaign’s effect on passenger numbers.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What does this line add to the destination slogan below?",
+    "related": [
+     "slogan",
+     "sky"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "slogan",
+    "number": 11,
+    "label": "The emphasis falls on SO",
+    "shortLabel": "The emphasis falls on SO",
+    "kicker": "A DESTINATION AND A JUDGEMENT",
+    "summary": "Underlining makes a short promise more emphatic.",
+    "x": 53,
+    "y": 89,
+    "bounds": {
+     "x": 4,
+     "y": 79,
+     "w": 91,
+     "h": 15
+    },
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A destination and a judgement",
+      "body": "SKEGNESS names the place; IS SO BRACING makes an enthusiastic claim about it. The word SO is underlined, directing emphasis within an otherwise short sentence. The wording is advertising praise rather than a measured statement about climate or health.",
+      "evidence": "observation",
+      "originalText": "SKEGNESS IS SO BRACING",
+      "lang": "en"
+     },
+     {
+      "kind": "context",
+      "heading": "Identify the early sheet",
+      "body": "Science Museum Group identifies John Hassall, Great Northern Railway and a date of circa 1908 for this object. That record distinguishes the selected early sheet from later reinterpretations. It does not license assigning the date or railway identity of a different version to this one.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "smg"
+       }
+      ]
+     }
+    ],
+    "question": "Read the slogan aloud with and without stressing SO: what changes?",
+    "related": [
+     "railway",
+     "leap",
+     "sand"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "sand",
+    "number": 12,
+    "label": "A yellow field for the landing",
+    "shortLabel": "A yellow field for the landing",
+    "kicker": "ONE FIELD, TWO FUNCTIONS",
+    "summary": "Warm ground holds both the joke and the words.",
+    "x": 17,
+    "y": 67,
+    "bounds": {
+     "x": 2,
+     "y": 49,
+     "w": 96,
+     "h": 49
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "One field, two functions",
+      "body": "Yellow sand supports the pools and airborne figure, then continues behind the green destination wording. This connects the illustrated scene to its verbal invitation without a separate caption box. Small marks and texture keep the field from being perfectly uniform.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "The sheet’s surface remains a limit",
+      "body": "Age, photographic lighting and digitisation can contribute to the mottled appearance seen here. The image supports comparison of warm ground and cool water, but not a precise claim about the original paper colour, every stain or the printer’s ink mixture.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Why does the green slogan remain readable on this particular ground?",
+    "related": [
+     "pools",
+     "slogan",
+     "horizon"
+    ],
+    "layerIndex": 0
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed poster edition",
+    "url": "https://commons.wikimedia.org/wiki/File:Poster,_GNR._%27Skegness_is_So_Bracing%27_by_John_Hassall.jpg",
+    "kind": "Visual source",
+    "summary": "The reproduced sheet supports observations of visible wording, colour, composition and marks; it does not establish the designer’s intention."
+   },
+   {
+    "id": "smg",
+    "title": "Science Museum Group: Skegness is SO Bracing",
+    "url": "https://collection.sciencemuseumgroup.org.uk/objects/co228471/skegness-is-so-bracing",
+    "kind": "Museum object record",
+    "summary": "Identifies John Hassall, the Great Northern Railway, the Jolly Fisherman image and circa-1908 date for object 1992-7684."
+   }
+  ],
+  "tour": [
+   "leap",
+   "scarf",
+   "boots",
+   "reflection",
+   "railway",
+   "slogan"
+  ],
+  "transcript": [
+   {
+    "heading": "Readable wording on this edition",
+    "rows": [
+     {
+      "text": "G.N.R.",
+      "meaning": "Great Northern Railway initials.",
+      "lang": "en"
+     },
+     {
+      "text": "SKEGNESS IS SO BRACING",
+      "meaning": "The destination and promotional slogan.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "The two main text groups are transcribed. The small artist signature remains visible but is not used to invent a production history.",
+  "palette": [
+   {
+    "name": "Muted sky",
+    "hex": "#85977D",
+    "region": "sky",
+    "role": "Open space behind the initials."
+   },
+   {
+    "name": "Red scarf",
+    "hex": "#D73920",
+    "region": "scarf",
+    "role": "A small directional accent."
+   },
+   {
+    "name": "Green sweater",
+    "hex": "#989C79",
+    "region": "leap",
+    "role": "The body’s central mass."
+   },
+   {
+    "name": "Yellow sand",
+    "hex": "#DCBB5E",
+    "region": "sand",
+    "role": "Ground and slogan field."
+   },
+   {
+    "name": "Pool blue",
+    "hex": "#A1AA97",
+    "region": "pools",
+    "role": "Water repeated across the beach."
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in the installed reproduction. These are not original ink specifications; scan, lighting and compression can alter colour.",
+  "connections": [
+   {
+    "label": "A leap in the landscape",
+    "title": "The pools make the lifted boots legible",
+    "text": "The fisherman’s boots rise above the irregular beach pools. Those grounded shapes help us read his curved body as a leap rather than a standing pose.",
+    "anchors": [
+     [
+      1,
+      0.44047619047619047,
+      0.5505
+     ],
+     [
+      4,
+      0.65,
+      0.7455
+     ]
+    ],
+    "id": "skegness-is-so-bracing-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Green echoes",
+    "title": "The destination shares the figure’s palette",
+    "text": "The green jumper and green destination line repeat a colour already present in the sea. The small red scarf interrupts this otherwise restrained palette.",
+    "anchors": [
+     [
+      1,
+      0.48968253968253966,
+      0.4145
+     ],
+     [
+      3,
+      0.41984126984126985,
+      0.8275
+     ]
+    ],
+    "id": "skegness-is-so-bracing-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

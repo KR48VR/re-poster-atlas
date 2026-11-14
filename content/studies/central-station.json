@@ -1,0 +1,574 @@
+{
+ "poster": {
+  "id": "central-station",
+  "title": "Central Station",
+  "year": "1998",
+  "yearNumber": 1998,
+  "creator": "Poster artist uncredited",
+  "country": "Brazil / France",
+  "countries": [
+   "Brazil",
+   "France"
+  ],
+  "region": "Latin America & Caribbean",
+  "category": "Film",
+  "filmCreator": "Walter Salles",
+  "edition": "Portuguese-language Central do Brasil theatrical poster; printing date unverified",
+  "image": "images/full/central-station.jpg",
+  "ratio": 0.7204301075268817,
+  "alt": "Central do Brasil poster in pale ochre, with a huge stacked gold title above a seated boy and a woman resting her head on his lap.",
+  "blurb": "A monumental title gives way to a small, tender arrangement of two figures.",
+  "notes": [
+   {
+    "title": "The title is almost architecture",
+    "body": "Tall condensed capitals stack into a large rectangular mass. Their scale dominates the upper sheet, echoing the broad wall behind the figures."
+   },
+   {
+    "title": "An intimate triangle below",
+    "body": "The boy’s upright body and the woman’s resting head form a compact arrangement near the lower right. Their contact provides a small emotional centre beneath the oversized lettering."
+   },
+   {
+    "title": "Warmth without a loud accent",
+    "body": "Gold type, beige surfaces and skin tones stay within a close warm range. Dark clothes and the boy’s hair supply the contrast needed to hold the figures apart."
+   }
+  ],
+  "source": "https://www.sff.org.au/program/event/central-station/",
+  "credit": "Copyright in the poster remains with its respective rights holders. Image reproduced via the linked Wikimedia file record; no public-domain status is claimed.",
+  "imageCredit": "Copyright in the poster remains with its respective rights holders. Image reproduced via the linked Wikimedia file record; no public-domain status is claimed.",
+  "imageSource": "https://en.wikipedia.org/wiki/File:Central-do-brasil-poster04.jpg",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/en/1/12/Central-do-brasil-poster04.jpg",
+  "anchor": [
+   0.68,
+   0.75
+  ],
+  "accent": "#b47e2f",
+  "yearNote": "The catalogue year is the film year. The reproduced poster edition is identified separately.",
+  "reproduction": "The available source is a small 268 × 372 reproduction, retained without enlargement. It is identified as a theatrical poster; the exact printing date of this Portuguese-language version is unverified.",
+  "posterDateStatus": "Theatrical poster; printing date not independently established.",
+  "primaryOrigin": "Brazil",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/central-station.webp"
+ },
+ "studyData": {
+  "intro": "The Portuguese title towers over a small group resting against a wall. This 268 × 372 reproduction rewards attention to broad scale, contact and warm colour, while its fine credits remain limited; the exact printing date of this theatrical edition is not established.",
+  "initial": "title",
+  "regions": [
+   {
+    "id": "title",
+    "number": 1,
+    "label": "A title as large as a wall",
+    "shortLabel": "A title as large as a wall",
+    "kicker": "ARCHITECTURE MADE FROM WORDS",
+    "summary": "Tall gold capitals dominate the upper sheet.",
+    "x": 50,
+    "y": 29,
+    "bounds": {
+     "x": 16,
+     "y": 11,
+     "w": 70,
+     "h": 38
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Architecture made from words",
+      "body": "The title forms a large rectangular mass in two stacked lines. Tall narrow letters leave thin spaces between strokes, so the block can feel almost like part of the wall behind it. Its scale far exceeds the human group near the lower-right edge.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Unequal scales direct the first look",
+      "body": "The words are likely to be recognised before the smaller facial details. The photograph then offers a quieter second focal point below. This hierarchy can be observed without assuming that every viewer follows exactly the same reading order or knows Portuguese.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How many times taller is the title block than the boy’s face, approximately?",
+    "related": [
+     "wall",
+     "boy",
+     "wording"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "wording",
+    "number": 2,
+    "label": "Central do Brasil",
+    "shortLabel": "Central do Brasil",
+    "kicker": "ORIGINAL AND INTERNATIONAL TITLES",
+    "summary": "The original-language title names a place.",
+    "x": 52,
+    "y": 41,
+    "bounds": {
+     "x": 16,
+     "y": 30,
+     "w": 70,
+     "h": 18
+    },
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Original and international titles",
+      "body": "The sheet reads CENTRAL DO BRASIL in Portuguese. Sydney Film Festival records that original title alongside Central Station. The study keeps the wording printed on the poster visible rather than replacing it with the English distribution title inside the image.",
+      "evidence": "observation",
+      "originalText": "CENTRAL DO BRASIL",
+      "lang": "pt",
+      "translation": "Central Station (international English title)."
+     },
+     {
+      "kind": "context",
+      "heading": "A station in the story",
+      "body": "The festival describes a retired teacher who writes letters for others at Rio’s central railway station and an orphaned boy. That supplies a narrative context for the title and pair. It does not identify this pictured wall as a verified location or date the poster printing.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "sff"
+       }
+      ]
+     }
+    ],
+    "question": "What information is retained and changed when the catalogue calls this Central Station?",
+    "related": [
+     "title",
+     "credits"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "boy",
+    "number": 3,
+    "label": "The upright seated boy",
+    "shortLabel": "The upright seated boy",
+    "kicker": "A SMALL VERTICAL WITHIN THE LOWER SCENE",
+    "summary": "One vertical body supports a horizontal grouping.",
+    "x": 77,
+    "y": 63,
+    "bounds": {
+     "x": 64,
+     "y": 53,
+     "w": 31,
+     "h": 24
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A small vertical within the lower scene",
+      "body": "The boy’s head and torso rise above bent legs near the right edge. Dark hair and darker clothing details separate him from the pale wall. His upright position supplies a vertical point of stability beneath the much taller title block.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A gaze with limited detail",
+      "body": "His face appears directed outward, but the source is too small to establish subtle expression confidently. The useful observation is the contrast between an upright head and the reclining body beside it. Emotional interpretation should not depend on details the reproduction cannot resolve.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the boy’s upright posture change the balance of the resting figure beside him?",
+    "related": [
+     "woman",
+     "contact",
+     "wall"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "woman",
+    "number": 4,
+    "label": "The reclining figure",
+    "shortLabel": "The reclining figure",
+    "kicker": "A BODY ACROSS THE BASE",
+    "summary": "A long low shape softens the title’s vertical emphasis.",
+    "x": 47,
+    "y": 71,
+    "bounds": {
+     "x": 33,
+     "y": 65,
+     "w": 53,
+     "h": 14
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A body across the base",
+      "body": "The woman lies horizontally, with clothing extending left and her head near the boy’s lap. Pale fabric, darker folds and skin tones make one low shape. Its direction counters both the upright boy and the tall strokes of the title.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Rest is a reading of posture",
+      "body": "The reclining position may suggest rest, fatigue or dependence, but this still image does not settle the precise feeling. It shows bodily proximity and a head held low. The study begins with those visible relations before offering narrative or emotional interpretations.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Follow the figure from skirt to head: where does the line change direction?",
+    "related": [
+     "boy",
+     "contact",
+     "floor"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "contact",
+    "number": 5,
+    "label": "A head close to a lap",
+    "shortLabel": "A head close to a lap",
+    "kicker": "A RELATIONSHIP SHOWN THROUGH OVERLAP",
+    "summary": "A small overlap supplies the image’s intimate centre.",
+    "x": 71,
+    "y": 70,
+    "bounds": {
+     "x": 64,
+     "y": 64,
+     "w": 20,
+     "h": 10
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A relationship shown through overlap",
+      "body": "The reclining head meets the area of the boy’s bent legs. That overlap joins the two silhouettes into a compact group, even though their directions differ. It is the smallest of the poster’s main structural relationships, yet one of the clearest human connections.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "The picture does not prove kinship",
+      "body": "Closeness can suggest care or trust, but the photograph alone cannot establish a family relationship. The festival synopsis supplies broader character context, while the poster’s own evidence is the position of the head, seated body and nearby hands.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What changes in the scene if you imagine a gap between the two figures?",
+    "related": [
+     "woman",
+     "boy"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "wall",
+    "number": 6,
+    "label": "The broad pale wall",
+    "shortLabel": "The broad pale wall",
+    "kicker": "A SHARED FIELD FOR TEXT AND PEOPLE",
+    "summary": "An ordinary surface becomes a large field for words.",
+    "x": 15,
+    "y": 57,
+    "bounds": {
+     "x": 7,
+     "y": 6,
+     "w": 87,
+     "h": 62
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A shared field for text and people",
+      "body": "The warm wall spans most of the image, supporting the enormous title above and the seated figures below. Its limited contrast leaves room for both. Small marks and tonal changes provide a surface without drawing attention away from the people.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Setting can be sparse and specific",
+      "body": "A wall and floor can locate bodies without a panoramic view of a city. The title names a larger place while the photograph offers a small human situation. This difference between geographic wording and intimate image is visible without reconstructing the entire scene.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does the wall stop feeling like a location and begin to act as a title background?",
+    "related": [
+     "title",
+     "door",
+     "floor"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "door",
+    "number": 7,
+    "label": "A narrow dark vertical",
+    "shortLabel": "A narrow dark vertical",
+    "kicker": "A BACKGROUND LINE WITH A CLEAR POSITION",
+    "summary": "A darker panel interrupts the wall behind the group.",
+    "x": 53,
+    "y": 59,
+    "bounds": {
+     "x": 45,
+     "y": 51,
+     "w": 13,
+     "h": 15
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A background line with a clear position",
+      "body": "A narrow darker panel or opening sits behind the reclining figure and left of the boy. Its vertical edges break the broad pale wall and provide a small structural feature. The reproduction does not resolve enough detail to identify the object with certainty.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Repeating directions across different objects",
+      "body": "This vertical can be compared with the boy’s torso and the title strokes, while the resting body supplies a horizontal counterpoint. The comparison concerns orientation, not a claim that the designer intentionally made each feature correspond to a particular letter.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does this vertical compare with the upright boy and the title’s narrow letters?",
+    "related": [
+     "wall",
+     "boy",
+     "title"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "floor",
+    "number": 8,
+    "label": "Warm ground beneath the pair",
+    "shortLabel": "Warm ground beneath the pair",
+    "kicker": "A BASE WITH SOFT TRANSITIONS",
+    "summary": "A low field makes the group’s contact with the surface clear.",
+    "x": 28,
+    "y": 83,
+    "bounds": {
+     "x": 7,
+     "y": 70,
+     "w": 88,
+     "h": 24
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A base with soft transitions",
+      "body": "The lower surface shifts through warm beige and brown, with darker areas near the resting body. It provides a broad low base beneath the people. The wall-floor boundary is less emphatic than the large title’s edges, keeping the scene visually quiet.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Colour without a loud accent",
+      "body": "Gold lettering, warm walls, fabric and skin remain in a relatively close range. Dark hair and clothing supply the sharper contrast. This limited palette can unify the small reproduction without making every region identical in brightness or texture.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which shadow or edge tells you that the figures are on a floor rather than floating?",
+    "related": [
+     "woman",
+     "wall"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "credits",
+    "number": 9,
+    "label": "Small black credits at left",
+    "shortLabel": "Small black credits at left",
+    "kicker": "A THIRD TEXT SCALE",
+    "summary": "A compact block sits between title and people.",
+    "x": 29,
+    "y": 57,
+    "bounds": {
+     "x": 19,
+     "y": 49,
+     "w": 20,
+     "h": 17
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A third text scale",
+      "body": "The small black credit lines are much narrower than the title and more regular than the photograph. Their left-side placement balances the people at right. In this reproduction, the block’s shape and line spacing are easier to assess than every individual name.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Information beyond the headline",
+      "body": "Credits make the sheet an advertisement for a particular film rather than only a picture with a place name. The source is too small for a complete reliable transcription, so the study does not invent missing names, technical roles or a poster designer from blurred lettering.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Why does this text block remain visually separate even though its words are hard to read?",
+    "related": [
+     "wording",
+     "title"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "border",
+    "number": 10,
+    "label": "A frame within the digital image",
+    "shortLabel": "A frame within the digital image",
+    "kicker": "SEVERAL EDGES AT THE PERIMETER",
+    "summary": "Pale margins enclose the warm sheet.",
+    "x": 96,
+    "y": 91,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 100,
+     "h": 100
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Several edges at the perimeter",
+      "body": "A pale margin and fine inner boundary separate the poster image from the outer reproduction. These borders make the warm rectangle feel contained. Their thickness is small compared with the title, but they remain visible around all sides of the installed image.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "An edition with an unresolved print date",
+      "body": "The installed file is a small Portuguese-language theatrical-poster reproduction. The film’s 1998 date is confirmed by the festival, but the exact printing date of this version remains unverified. Preserving that distinction prevents a film record from being misused as a complete poster history.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "sff"
+       }
+      ]
+     }
+    ],
+    "question": "How would the warm colour field read if the pale border were removed?",
+    "related": [
+     "floor",
+     "wall",
+     "credits"
+    ],
+    "layerIndex": 0
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed poster edition",
+    "url": "https://en.wikipedia.org/wiki/File:Central-do-brasil-poster04.jpg",
+    "kind": "Visual source",
+    "summary": "The reproduced sheet supports observations of visible wording, colour, composition and marks; it does not establish the designer’s intention."
+   },
+   {
+    "id": "sff",
+    "title": "Sydney Film Festival: Central Station",
+    "url": "https://www.sff.org.au/program/event/central-station/",
+    "kind": "Festival film record",
+    "summary": "Records Walter Salles, 1998, original Portuguese title, Brazil/France production and the letter-writer/orphan premise; does not date this poster printing."
+   }
+  ],
+  "tour": [
+   "title",
+   "wording",
+   "boy",
+   "woman",
+   "contact",
+   "credits"
+  ],
+  "transcript": [
+   {
+    "heading": "Readable wording on this edition",
+    "rows": [
+     {
+      "text": "CENTRAL DO BRASIL",
+      "meaning": "Original Portuguese title; distributed internationally as Central Station.",
+      "lang": "pt"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Only the large title is transcribed. Fine credits are present but cannot be read reliably from the installed 268 × 372 file.",
+  "palette": [
+   {
+    "name": "Gold title",
+    "hex": "#996613",
+    "region": "title",
+    "role": "The dominant upper text."
+   },
+   {
+    "name": "Warm wall",
+    "hex": "#D0AB76",
+    "region": "wall",
+    "role": "A quiet setting for the figures."
+   },
+   {
+    "name": "Dark hair",
+    "hex": "#35241D",
+    "region": "boy",
+    "role": "A compact human accent."
+   },
+   {
+    "name": "Pale border",
+    "hex": "#F4F4F2",
+    "region": "border",
+    "role": "An outer enclosure."
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in the installed reproduction. These are not original ink specifications; scan, lighting and compression can alter colour.",
+  "connections": [
+   {
+    "label": "Two scales of intimacy",
+    "title": "A large title above a small shared space",
+    "text": "The gold title occupies almost the whole upper width, while the two people gather closely in the lower right. The difference in scale gives the quiet human scene room beneath the letters.",
+    "anchors": [
+     [
+      1,
+      0.5279850746268657,
+      0.34274193548387094
+     ],
+     [
+      3,
+      0.6735074626865671,
+      0.6948924731182796
+     ]
+    ],
+    "id": "central-station-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Warm continuity",
+    "title": "Lettering and setting share a palette",
+    "text": "The ochre title repeats the warm tones of the wall and floor. The darker figures and small black credits provide contrast within that restrained palette.",
+    "anchors": [
+     [
+      1,
+      0.5876865671641791,
+      0.2110215053763441
+     ],
+     [
+      3,
+      0.46455223880597013,
+      0.7298387096774194
+     ]
+    ],
+    "id": "central-station-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

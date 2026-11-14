@@ -1,0 +1,611 @@
+{
+ "poster": {
+  "id": "book-the-hobbit",
+  "title": "The Hobbit",
+  "year": "1937",
+  "yearNumber": 1937,
+  "coverYear": "1937",
+  "bookFirstPublication": "1937",
+  "bookAuthor": "J.R.R. Tolkien",
+  "bookPublisher": "George Allen & Unwin",
+  "bookOrigin": "English-language novel by J.R.R. Tolkien, published in London in 1937.",
+  "creator": "J.R.R. Tolkien",
+  "country": "United Kingdom",
+  "countries": [
+   "United Kingdom"
+  ],
+  "primaryOrigin": "United Kingdom",
+  "region": "Europe",
+  "category": "Book cover",
+  "image": "images/full/book-the-hobbit.png",
+  "ratio": 0.6224066390041494,
+  "alt": "A photographed Hobbit jacket with pale pointed mountains, blue skies, green foreground woods, patterned borders and large cream lettering; a strip of spine remains visible.",
+  "blurb": "Pointed peaks and smaller tree crowns repeat a rhythm at different scales.",
+  "notes": [
+   {
+    "title": "The displayed edition",
+    "body": "George Allen & Unwin, London, 1937; photographed first-issue printed jacket. This is the blue, black and green printed object, not the differently coloured original artwork."
+   },
+   {
+    "title": "Writing and image-making",
+    "body": "Tolkien wrote the novel and made its visual designs. The Tolkien Estate documents his art; the linked object record identifies the photographed printed jacket."
+   },
+   {
+    "title": "A visible design relationship",
+    "body": "The cream title shares its colour with the mountain peaks. Complete foreground trees and their roots form a nearer band beneath the mountains."
+   }
+  ],
+  "source": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/hobbit-181/325270",
+  "credit": "Tolkien wrote the novel and made its visual designs. The Tolkien Estate documents his art; the linked object record identifies the photographed printed jacket.",
+  "reproduction": "Front-and-spine crop of the documented jacket photograph: source rectangle (360,410)–(1860,2820), 1500 × 2410. Perspective and wear are retained.",
+  "anchor": [
+   0.65,
+   0.7
+  ],
+  "accent": "#356c55",
+  "edition": "George Allen & Unwin, London, 1937; photographed first-issue printed jacket. This is the blue, black and green printed object, not the differently coloured original artwork.",
+  "imageSource": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/hobbit-181/325270",
+  "imageCredit": "Tolkien wrote the novel and made its visual designs. The Tolkien Estate documents his art; the linked object record identifies the photographed printed jacket.",
+  "coverPublisher": "George Allen & Unwin",
+  "posterYear": "1937",
+  "posterTerritory": "United Kingdom",
+  "posterDateStatus": "The displayed edition or catalogued object date; the original work date is recorded separately.",
+  "originNote": "Country and region describe the displayed edition’s publishing context. The author and work context are recorded separately.",
+  "originSources": [
+   {
+    "title": "Displayed edition record",
+    "url": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/hobbit-181/325270"
+   }
+  ],
+  "creditSources": [
+   {
+    "title": "The Tolkien Estate: Tolkien’s art",
+    "url": "https://www.tolkienestate.com/writing/christina-scull-wayne-g-hammond-tolkiens-art/"
+   }
+  ],
+  "downloadURL": "https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24550_0181_000(the_hobbit_jrr_tolkien_1937073231).jpg?mode=max",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-the-hobbit.webp"
+ },
+ "studyData": {
+  "intro": "This photographed 1937 printed jacket brings mountains, woods, runes and title into one patterned landscape. Its visible spine and physical wear are retained; the study does not substitute Tolkien’s differently coloured original artwork.",
+  "initial": "title",
+  "regions": [
+   {
+    "id": "title",
+    "number": 1,
+    "label": "Pale letters among pale peaks",
+    "shortLabel": "The title",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "The large Hobbit lettering crosses blue and dark mountain faces.",
+    "layerIndex": 5,
+    "x": 63.03333,
+    "y": 39.81328,
+    "bounds": {
+     "x": 29,
+     "y": 30,
+     "w": 54,
+     "h": 17
+    },
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "The large Hobbit lettering crosses blue and dark mountain faces. Its pale strokes echo the light tips of the peaks surrounding it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The title becomes part of the landscape’s colour structure. It can remain readable because its regular letter shapes differ from the jagged ridges.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "language",
+      "heading": "A compact name",
+      "body": "The English title is split between the small The and the much larger Hobbit. Their different sizes are part of the visible hierarchy; the rune border is not transcribed from this angled photograph.",
+      "evidence": "observation",
+      "sources": [],
+      "originalText": "The Hobbit",
+      "lang": "en",
+      "translation": "The Hobbit"
+     }
+    ],
+    "question": "Which helps the title stand out more: colour, shape or size?",
+    "related": [
+     "peaks",
+     "sun"
+    ]
+   },
+   {
+    "id": "peaks",
+    "number": 2,
+    "label": "Mountains repeat without matching",
+    "shortLabel": "Mountain peaks",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "A sequence of pointed peaks rises and falls across the jacket.",
+    "layerIndex": 2,
+    "x": 78.03333,
+    "y": 30.02075,
+    "bounds": {
+     "x": 20,
+     "y": 19,
+     "w": 75,
+     "h": 28
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "A sequence of pointed peaks rises and falls across the jacket. Pale faces alternate with dark and blue slopes.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The repeated points make a continuous range, while unequal heights create destinations for the eye. The largest peaks need not be read as a literal mapped route.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the tallest peak change the balance of the whole range?",
+    "related": [
+     "birds",
+     "sky-lines"
+    ]
+   },
+   {
+    "id": "birds",
+    "number": 3,
+    "label": "Small marks in a wide sky",
+    "shortLabel": "Small birds",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Tiny dark wing-like marks cross the pale sky above the peaks.",
+    "layerIndex": 1,
+    "x": 68.03333,
+    "y": 15.41494,
+    "bounds": {
+     "x": 67,
+     "y": 14,
+     "w": 20,
+     "h": 9
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Tiny dark wing-like marks cross the pale sky above the peaks. They are much smaller and more widely separated than the mountain shapes.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "These small forms give the sky a second scale of activity. Their spacing can make the broad pale field feel more expansive.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would the sky seem equally large without these small marks?",
+    "related": [
+     "sun",
+     "trees"
+    ]
+   },
+   {
+    "id": "sun",
+    "number": 4,
+    "label": "A circle interrupts the angles",
+    "shortLabel": "The sun outline",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "A thin circular outline appears behind the mountain tips.",
+    "layerIndex": 1,
+    "x": 49.03333,
+    "y": 19.48133,
+    "bounds": {
+     "x": 47,
+     "y": 15,
+     "w": 16,
+     "h": 11
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "A thin circular outline appears behind the mountain tips. Part of the circle is concealed by the overlapping landscape.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The circle introduces a simple curved form among pointed ridges. Its partial concealment helps distinguish a farther sky from nearer mountains.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What does the hidden part of the circle contribute to a sense of depth?",
+    "related": [
+     "sky-lines",
+     "credit"
+    ]
+   },
+   {
+    "id": "sky-lines",
+    "number": 5,
+    "label": "Horizontal movement above the peaks",
+    "shortLabel": "Sky lines",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Uneven blue horizontal strokes extend into the pale upper sky.",
+    "layerIndex": 1,
+    "x": 29.7,
+    "y": 11.97095,
+    "bounds": {
+     "x": 16,
+     "y": 6,
+     "w": 49,
+     "h": 18
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Uneven blue horizontal strokes extend into the pale upper sky. They become shorter and more dispersed towards the open area.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The horizontal marks counter the upward movement of the peaks. Their changing lengths create a transition between a dense printed edge and open sky.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does the striped sky begin to feel like open space?",
+    "related": [
+     "trees",
+     "border"
+    ]
+   },
+   {
+    "id": "trees",
+    "number": 6,
+    "label": "A complete foreground woodland",
+    "shortLabel": "Foreground trees",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Green tree crowns sit above pale outlined trunks, dark gaps and exposed roots.",
+    "layerIndex": 3,
+    "x": 74.03333,
+    "y": 75.99585,
+    "bounds": {
+     "x": 17,
+     "y": 64,
+     "w": 78,
+     "h": 24
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Green tree crowns sit above pale outlined trunks, dark gaps and exposed roots. The foreground continues into bands of ground beneath them.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "Keeping crowns and roots together makes a nearer woodland distinct from the mountains. Repeated small pointed crowns echo the peaks at another scale.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the tree scale change your sense of the mountains’ distance?",
+    "related": [
+     "credit",
+     "valley"
+    ]
+   },
+   {
+    "id": "credit",
+    "number": 7,
+    "label": "The writer signs a drawn landscape",
+    "shortLabel": "Tolkien’s name",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "J.R.R.",
+    "layerIndex": 6,
+    "x": 57.16667,
+    "y": 72.17842,
+    "bounds": {
+     "x": 40,
+     "y": 69,
+     "w": 36,
+     "h": 8
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "J.R.R. Tolkien appears within the foreground woods, with a separate small by higher in the landscape. The name’s pale edges separate dark letter bodies from surrounding forms.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The author credit belongs to the picture rather than sitting in a detached white band. It asks the eye to discover a name within an already patterned setting.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "context",
+      "heading": "One person writes and draws",
+      "body": "The Tolkien Estate documents Tolkien’s visual art as well as his writing. His work on illustrations, patterns and lettering helps place this jacket within a wider practice of imagining the world of the book in both words and images.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "estate"
+       }
+      ]
+     }
+    ],
+    "question": "Does placing the author inside the woods change how you relate words to image?",
+    "related": [
+     "border",
+     "spine"
+    ]
+   },
+   {
+    "id": "border",
+    "number": 8,
+    "label": "A repeated angular frame",
+    "shortLabel": "Rune border",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "A narrow green and dark patterned border runs along the upper front panel, with matching treatment below.",
+    "layerIndex": 4,
+    "x": 61.03333,
+    "y": 4.00415,
+    "bounds": {
+     "x": 16,
+     "y": 0,
+     "w": 82,
+     "h": 10
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "A narrow green and dark patterned border runs along the upper front panel, with matching treatment below. Small angular marks repeat within it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The border presents the landscape as a designed book surface. Its regularity also makes the more varied peaks and tree crowns feel less mechanical.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How would the image feel if the patterned frame were removed?",
+    "related": [
+     "valley",
+     "title"
+    ]
+   },
+   {
+    "id": "valley",
+    "number": 9,
+    "label": "Curved bands lead between peaks",
+    "shortLabel": "The valley",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Several pale and green curved bands run through the lower mountain area.",
+    "layerIndex": 2,
+    "x": 32.03333,
+    "y": 53.0083,
+    "bounds": {
+     "x": 17,
+     "y": 44,
+     "w": 50,
+     "h": 18
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Several pale and green curved bands run through the lower mountain area. They overlap darker slopes and lead towards the foreground trees.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The curves offer a gentler directional route through the angular terrain. They can suggest passage or distance without requiring an exact identification of every form.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which curve most clearly leads your eye from mountains to woodland?",
+    "related": [
+     "spine",
+     "peaks"
+    ]
+   },
+   {
+    "id": "spine",
+    "number": 10,
+    "label": "The photographed book remains visible",
+    "shortLabel": "Visible spine",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "A narrow angled spine remains at the left of the crop.",
+    "layerIndex": 0,
+    "x": 8.03333,
+    "y": 48.9834,
+    "bounds": {
+     "x": 0,
+     "y": 2,
+     "w": 15,
+     "h": 92
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "A narrow angled spine remains at the left of the crop. Its lettering and patterns repeat parts of the front design at a different perspective.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The spine reminds us that this is a photograph of a printed object with depth. Flattening or repainting it would remove evidence of the particular copy being studied.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "business",
+      "heading": "A printed 1937 jacket",
+      "body": "The object record identifies a 1937 George Allen & Unwin first edition in an unrestored first-issue jacket printed in blue, black and green. That printed object is the source here; an original design drawing would be a different object with different colour evidence.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "object"
+       }
+      ]
+     }
+    ],
+    "question": "What do you learn from seeing the spine beside the front panel?",
+    "related": [
+     "title",
+     "birds"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "object",
+    "title": "The Hobbit: the displayed reproduction",
+    "url": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/hobbit-181/325270",
+    "kind": "Object / publisher record",
+    "summary": "George Allen & Unwin, London, 1937; photographed first-issue printed jacket. This is the blue, black and green printed object, not the differently coloured original artwork. Front-and-spine crop of the documented jacket photograph: source rectangle (360,410)–(1860,2820), 1500 × 2410. Perspective and wear are retained."
+   },
+   {
+    "id": "estate",
+    "title": "The Tolkien Estate: Tolkien’s art",
+    "url": "https://www.tolkienestate.com/writing/christina-scull-wayne-g-hammond-tolkiens-art/",
+    "kind": "Estate essay",
+    "summary": "Documents Tolkien’s activity as an artist, including illustrations, patterns, lettering and book-jacket designs."
+   }
+  ],
+  "tour": [
+   "title",
+   "peaks",
+   "sun",
+   "trees",
+   "valley",
+   "credit",
+   "spine"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "The Hobbit",
+      "meaning": "The visible English title.",
+      "lang": "en"
+     },
+     {
+      "text": "by J.R.R. Tolkien",
+      "meaning": "The author credit.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected clearly legible title and credit wording is transcribed from the displayed reproduction. Line breaks are simplified; this is not a transcription of every small mark or an identification of the typefaces.",
+  "palette": [
+   {
+    "name": "Woodland green",
+    "hex": "#3B7145",
+    "role": "The nearer tree canopy’s green.",
+    "region": "trees"
+   },
+   {
+    "name": "Mountain blue",
+    "hex": "#2E4E7B",
+    "role": "A blue mountain face behind the lettering.",
+    "region": "peaks"
+   },
+   {
+    "name": "Pale lettering",
+    "hex": "#C4B994",
+    "role": "A cream stroke within the title.",
+    "region": "title"
+   },
+   {
+    "name": "Dark woodland",
+    "hex": "#262821",
+    "role": "Dark intervals around the trunks and roots.",
+    "region": "trees"
+   }
+  ],
+  "paletteNote": "Screen colours are sampled from this exact reproduction. Age, lighting and reproduction affect the result; these are not original printing specifications.",
+  "connections": [
+   {
+    "label": "Rhythms of points",
+    "title": "Peaks meet crowns",
+    "text": "Pointed ridges and the smaller pointed tree crowns repeat an angular rhythm at different distances.",
+    "anchors": [
+     [
+      2,
+      0.6603333333333333,
+      0.35
+     ],
+     [
+      3,
+      0.6303333333333333,
+      0.6898340248962656
+     ]
+    ],
+    "id": "book-the-hobbit-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Landscape lettering",
+    "title": "A title among peaks",
+    "text": "Cream title strokes share their colour with the pale mountain tops.",
+    "anchors": [
+     [
+      5,
+      0.603,
+      0.40103734439834027
+     ],
+     [
+      2,
+      0.6603333333333333,
+      0.25
+     ]
+    ],
+    "id": "book-the-hobbit-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

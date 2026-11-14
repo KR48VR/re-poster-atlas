@@ -1,0 +1,487 @@
+{
+ "poster": {
+  "id": "priester",
+  "title": "Priester Matches",
+  "year": "c. 1905",
+  "yearNumber": 1905,
+  "country": "Germany",
+  "region": "Europe",
+  "category": "Advertising",
+  "creator": "Lucian Bernhard",
+  "edition": "Priester match-company advertising design; dated 1905 by Neue Galerie, also frequently catalogued circa 1905–06.",
+  "image": "images/full/priester.jpg",
+  "ratio": 0.978056,
+  "width": 312,
+  "height": 319,
+  "alt": "Two red matches with yellow heads lie below the pale blue word Priester on a dark brown ground.",
+  "blurb": "A brand name and two matches do almost all the work: an early landmark of the German object poster.",
+  "notes": [
+   {
+    "title": "Only the essentials",
+    "body": "Two matches establish the product without a scene, figure or explanatory paragraph. The large brand name is the only substantial text."
+   },
+   {
+    "title": "Three colours carry the message",
+    "body": "Cool lettering separates the name from the dark ground. Warm red shafts and yellow heads pull the eye down toward the goods."
+   },
+   {
+    "title": "A small diagonal",
+    "body": "The matches sit at a slight angle beneath a stable wordmark. That change of direction gives a very spare composition a little movement."
+   }
+  ],
+  "source": "https://www.neuegalerie.org/exhibitions/german-advertisting-posters",
+  "imageSource": "https://en.wikipedia.org/wiki/File:Bernhard_Priester_matches.jpg",
+  "imageCredit": "Lucian Bernhard. Low-resolution historical reproduction via English Wikipedia; underlying design copyright may vary by jurisdiction.",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/en/a/a3/Bernhard_Priester_matches.jpg",
+  "accent": "#a42a26",
+  "anchor": [
+   0.5,
+   0.69
+  ],
+  "credit": "Lucian Bernhard. Low-resolution historical reproduction via English Wikipedia; underlying design copyright may vary by jurisdiction.",
+  "countries": [
+   "Germany"
+  ],
+  "primaryOrigin": "Germany",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/priester.webp"
+ },
+ "studyData": {
+  "intro": "A brand name and two matches are almost the whole advertisement. This spare image rewards close comparison of edges, angles, colour and the distance between an object and the word that names its maker.",
+  "initial": "wordmark",
+  "regions": [
+   {
+    "id": "wordmark",
+    "label": "The blue brand name",
+    "shortLabel": "The blue brand name",
+    "kicker": "LANGUAGE",
+    "summary": "One word does the work of a headline.",
+    "layerIndex": 1,
+    "bounds": {
+     "x": 4,
+     "y": 22,
+     "w": 95,
+     "h": 25
+    },
+    "x": 50.161,
+    "y": 34.277,
+    "question": "What can you identify about the product before looking at the matches?",
+    "related": [
+     "letter-edges",
+     "upper",
+     "ground"
+    ],
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A name rather than a sentence",
+      "body": "“Priester” is presented as a brand name, with no visible descriptive slogan beside it. The large blue word does not explain why to choose the matches. Its immediate task is identification: linking a distinctive written name with the simple objects underneath.",
+      "evidence": "observation",
+      "originalText": "Priester",
+      "lang": "de"
+     },
+     {
+      "kind": "business",
+      "heading": "The documented advertising context",
+      "body": "Neue Galerie describes Lucian Bernhard entering the Priester Match Company’s poster competition in 1905 with a design consisting of the name and two matches. That supports the product and attribution. The installed reproduction is discussed as this design, not as a separately dated original impression.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "neue"
+       }
+      ]
+     }
+    ],
+    "number": 1
+   },
+   {
+    "id": "letter-edges",
+    "label": "Irregular letter edges",
+    "shortLabel": "Irregular letter edges",
+    "kicker": "DESIGN",
+    "summary": "The name’s blocky strokes are not mechanically uniform.",
+    "layerIndex": 1,
+    "bounds": {
+     "x": 4,
+     "y": 20,
+     "w": 46,
+     "h": 27
+    },
+    "x": 13.505,
+    "y": 33.019,
+    "question": "Compare the top of the P with the slanting accent-like part above the i.",
+    "related": [
+     "wordmark",
+     "upper",
+     "gap"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A compact but uneven word",
+      "body": "The letters have thick strokes, angular joins and uneven-looking contours. Some tops project upward, while the lower edges are more closely aligned. This gives the word a recognisable silhouette without requiring delicate line work or the regularity of a precisely repeated geometric alphabet.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A different rhythm from the matches",
+      "body": "The word contains many short changes of direction, whereas the match shafts are long and relatively straight. That contrast gives the two parts different textures. The lettering can remain lively while the product image stays extremely simple; neither needs a detailed surrounding scene.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 2
+   },
+   {
+    "id": "upper",
+    "label": "The upper match shaft",
+    "shortLabel": "The upper match shaft",
+    "kicker": "DESIGN",
+    "summary": "A long red form descends toward the right.",
+    "layerIndex": 2,
+    "bounds": {
+     "x": 19,
+     "y": 50,
+     "w": 60,
+     "h": 20
+    },
+    "x": 50.161,
+    "y": 59.434,
+    "question": "Trace the shaft from end to head: where does its width change?",
+    "related": [
+     "lower",
+     "upper-head",
+     "wordmark"
+    ],
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "One object in a few marks",
+      "body": "The upper match is rendered as a red shaft with a bright head at the right. Its sides are not perfectly parallel, but the long shape remains immediately distinct. The image leaves out wood grain and fine surface details, concentrating on outline, colour and proportion.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Product without demonstration",
+      "body": "The match is unlit and shown without a hand, box or scene of use. The advertisement therefore identifies the object directly rather than demonstrating an action. What a purchaser might infer about quality or reliability is not supplied as a measurable claim by this visible image.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 3
+   },
+   {
+    "id": "lower",
+    "label": "The lower match shaft",
+    "shortLabel": "The lower match shaft",
+    "kicker": "DESIGN",
+    "summary": "A second red form repeats the first with a different angle.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 4,
+     "y": 52,
+     "w": 64,
+     "h": 27
+    },
+    "x": 33,
+    "y": 66,
+    "question": "Where is the distance between the shafts widest?",
+    "related": [
+     "upper",
+     "lower-head",
+     "gap"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Repetition with a small difference",
+      "body": "The lower match begins farther left and ends earlier on the right than the upper one. Its diagonal is slightly different, so the two do not form a perfectly parallel pair. That small variation prevents the repeated objects from looking like an evenly spaced technical diagram.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A pair rather than a pile",
+      "body": "Only two matches are needed to establish repetition. Their separated ends and shafts remain easy to count, with no complex overlap obscuring the objects. Compare the result with an imagined bundle: the current design keeps attention on a relationship between two clear shapes.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 4
+   },
+   {
+    "id": "upper-head",
+    "label": "The upper yellow head",
+    "shortLabel": "The upper yellow head",
+    "kicker": "DESIGN",
+    "summary": "A small bright endpoint closes the longer match.",
+    "layerIndex": 2,
+    "bounds": {
+     "x": 74,
+     "y": 65,
+     "w": 9,
+     "h": 8
+    },
+    "x": 79,
+    "y": 69,
+    "question": "How far back can you move before this yellow mark disappears?",
+    "related": [
+     "lower-head",
+     "upper",
+     "ground"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Brightness concentrated at an end",
+      "body": "The yellow head occupies very little area, yet it is among the lightest and most saturated parts of the poster. Its position at the end of the red shaft makes the match’s orientation clear. The shaft leads the eye toward a distinct terminal accent.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Flat colour and object recognition",
+      "body": "The head is a compact irregular shape, with little modelling to suggest a rounded surface. It still identifies the end of a match through its relationship to the shaft. Recognition depends on the combination, not on a realistic description of the material.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 5
+   },
+   {
+    "id": "lower-head",
+    "label": "The lower yellow head",
+    "shortLabel": "The lower yellow head",
+    "kicker": "DESIGN",
+    "summary": "A second endpoint establishes the pair’s stagger.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 60,
+     "y": 71,
+     "w": 10,
+     "h": 9
+    },
+    "x": 65,
+    "y": 75,
+    "question": "Compare the two yellow heads: how does their spacing affect the whole image?",
+    "related": [
+     "upper-head",
+     "lower",
+     "gap"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A staggered accent pair",
+      "body": "The lower yellow head sits left of and below the upper one. Together they make a short secondary diagonal across the ends of the matches. Their unequal positions repeat the shafts’ near-parallel arrangement while keeping the pair from becoming a single merged red shape.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Two lights in a dark field",
+      "body": "Because both heads are surrounded by much darker tones, the small yellow forms are easy to compare. Their brightness does not mean they depict flame: both remain attached to intact shafts. Describing them as heads keeps the observation separate from a tempting but unsupported action narrative.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 6
+   },
+   {
+    "id": "gap",
+    "label": "The dark wedge between matches",
+    "shortLabel": "The dark wedge between matches",
+    "kicker": "DESIGN",
+    "summary": "A narrow interval keeps the objects separate.",
+    "layerIndex": 0,
+    "bounds": {
+     "x": 18,
+     "y": 57,
+     "w": 45,
+     "h": 13
+    },
+    "x": 38.907,
+    "y": 61.635,
+    "question": "Cover this dark gap: do you still see two matches as quickly?",
+    "related": [
+     "upper",
+     "lower",
+     "ground"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Empty space makes the pair",
+      "body": "The dark interval between the red shafts narrows and widens with their different angles. It is not a third object, but it is essential to keeping the two objects apart. Following this negative shape reveals the match arrangement more clearly than inspecting either shaft alone.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A boundary without an outline",
+      "body": "No additional pale stroke is needed between the matches. The background itself supplies separation because the red shapes stop at different edges. This is a useful example of how a very spare advertisement can make empty space perform precise descriptive work.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 7
+   },
+   {
+    "id": "ground",
+    "label": "The dark surrounding ground",
+    "shortLabel": "The dark surrounding ground",
+    "kicker": "DESIGN",
+    "summary": "A broad dark field removes competing information.",
+    "layerIndex": 0,
+    "bounds": {
+     "x": 0,
+     "y": 80,
+     "w": 100,
+     "h": 20
+    },
+    "x": 50,
+    "y": 91,
+    "question": "What survives if you reduce the poster to four large colour areas?",
+    "related": [
+     "wordmark",
+     "gap",
+     "upper-head"
+    ],
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Few elements, strong contrast",
+      "body": "The dark brown ground surrounds the word and objects without providing a room, landscape or packaging. It makes the pale blue name, red shafts and yellow heads distinct from one another. Small variations in the scan do not change that basic separation into four broad colour roles.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "An object-poster approach",
+      "body": "Neue Galerie places Bernhard’s work within Sachplakat, or object-poster design, which reduces wording and gives the advertised object a dominant role. That term helps describe the visible economy here. It should not be used to invent a measured sales effect or a universal rule for all advertising.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "neue"
+       }
+      ]
+     }
+    ],
+    "number": 8
+   }
+  ],
+  "sources": [
+   {
+    "id": "neue",
+    "title": "Neue Galerie: German Advertising Posters of the Early 20th Century",
+    "url": "https://www.neuegalerie.org/exhibitions/german-advertisting-posters",
+    "kind": "Museum exhibition research",
+    "summary": "Describes Bernhard’s 1905 Priester competition entry and its two-match/name design, and explains the object-poster approach; does not date this digital reproduction."
+   }
+  ],
+  "tour": [
+   "wordmark",
+   "upper",
+   "lower",
+   "upper-head",
+   "gap",
+   "ground"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "Priester",
+      "meaning": "Brand name of the advertised match company",
+      "lang": "de"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Only the visible brand name is transcribed. The catalogue uses c.1905 for the design; the museum gives 1905 for the competition. This small reproduction does not establish an impression date or exact original ink colours.",
+  "palette": [
+   {
+    "name": "Brand blue",
+    "hex": "#86aed1",
+    "role": "Only large written element",
+    "region": "wordmark"
+   },
+   {
+    "name": "Shaft red",
+    "hex": "#da1423",
+    "role": "Long object shapes",
+    "region": "upper"
+   },
+   {
+    "name": "Head yellow",
+    "hex": "#fee119",
+    "role": "Small bright endpoints",
+    "region": "upper-head"
+   },
+   {
+    "name": "Dark brown",
+    "hex": "#321108",
+    "role": "Uninterrupted surrounding contrast",
+    "region": "ground"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels of the installed reproduction; these are not original ink or paper specifications.",
+  "connections": [
+   {
+    "label": "Two nearly parallel lines",
+    "title": "A small diagonal creates movement",
+    "text": "The two matches point down toward the right at slightly different angles, giving the otherwise spare layout a gentle directional pull.",
+    "anchors": [
+     [
+      2,
+      0.48878205128205127,
+      0.6191222570532915
+     ],
+     [
+      3,
+      0.45032051282051283,
+      0.6849529780564263
+     ]
+    ],
+    "id": "priester-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Name and product",
+    "title": "Cool letters above warm objects",
+    "text": "The cool blue name forms a broad stable shape above the warmer red and yellow matches.",
+    "anchors": [
+     [
+      1,
+      0.5112179487179487,
+      0.35266457680250785
+     ],
+     [
+      2,
+      0.7836538461538461,
+      0.6974921630094044
+     ]
+    ],
+    "id": "priester-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

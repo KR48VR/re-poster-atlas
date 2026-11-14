@@ -1,0 +1,687 @@
+{
+ "poster": {
+  "id": "ignorance-equals-fear",
+  "title": "Ignorance = Fear / Silence = Death",
+  "year": "1989",
+  "yearNumber": 1989,
+  "creator": "Keith Haring",
+  "country": "United States",
+  "countries": [
+   "United States"
+  ],
+  "region": "North America",
+  "category": "Politics",
+  "edition": "Horizontal ACT UP poster, 1989, offset lithograph; Whitney Museum of American Art 2014.265. This is the Whitney edition, not a separately catalogued vertical layout.",
+  "image": "images/full/ignorance-equals-fear.jpg",
+  "ratio": 1.757469244288225,
+  "imageWidth": 1000,
+  "imageHeight": 569,
+  "alt": "Three yellow figures with pink crosses cover their eyes, ears and mouth on an orange field, between blue bands reading Ignorance = Fear and Silence = Death.",
+  "blurb": "Three repeated bodies and two forceful equations turn silence into something visible and urgent.",
+  "notes": [
+   {
+    "title": "Three bodies, three refusals",
+    "body": "The figures cover their eyes, ears and mouth. Repeating their yellow bodies makes the gestures comparable while the surrounding motion marks prevent the poses from feeling passive."
+   },
+   {
+    "title": "Colour joins image and emblem",
+    "body": "Pink crosses mark all three torsos, and a pink triangle appears beside the call to act. The repeated colour ties the bodily figures to the campaign’s symbolic language."
+   },
+   {
+    "title": "The frame speaks plainly",
+    "body": "Blue bands carry the paired slogans above and below the scene, followed by Fight AIDS and ACT UP. The lettering turns expressive figures into a direct historical call for public-health activism."
+   }
+  ],
+  "source": "https://whitney.org/collection/works/46387",
+  "imageSource": "https://whitney.org/collection/works/46387",
+  "credit": "Keith Haring, 1989. © Keith Haring Foundation. Whitney Museum of American Art, 2014.265, gift of David W. Kiehl in honor of Patrick Moore. Published by ACT-UP; museum image resized.",
+  "imageCredit": "Keith Haring, 1989. © Keith Haring Foundation. Whitney Museum of American Art, 2014.265, gift of David W. Kiehl in honor of Patrick Moore. Published by ACT-UP; museum image resized.",
+  "downloadURL": "https://whitneymedia.org/assets/artwork/46387/2014_265_cropped.jpg",
+  "anchor": [
+   0.5,
+   0.47
+  ],
+  "accent": "#d9471d",
+  "primaryOrigin": "United States",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/ignorance-equals-fear.webp"
+ },
+ "studyData": {
+  "intro": "Three nearly identical bodies perform three different acts of blocking communication. Read the figures between the two slogans, then look at the small campaign instruction: the poster turns a colourful scene into an argument for public action during the AIDS crisis.",
+  "initial": "top",
+  "regions": [
+   {
+    "id": "top",
+    "label": "The first equation",
+    "shortLabel": "The first equation",
+    "kicker": "A sentence made like an equation",
+    "summary": "Black capitals state a forceful claim on blue.",
+    "x": 46,
+    "y": 9,
+    "bounds": {
+     "x": 7,
+     "y": 3,
+     "w": 78,
+     "h": 12
+    },
+    "layerIndex": 4,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A sentence made like an equation",
+      "body": "The upper slogan places an equals sign between two words. Its dark, irregular capitals fill most of the blue band. The mathematical-looking structure makes a compressed argument, but the wording is rhetorical rather than a numerical statement that could be measured by the sign alone.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A campaign’s opening claim",
+      "body": "The National Library of Medicine places this 1989 design in Haring’s work for AIDS education and compassion. That context makes the opening claim part of an activist appeal to confront ignorance and fear. It is not a statement that illness results from an individual’s moral failure.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "nlm"
+       }
+      ]
+     }
+    ],
+    "question": "How does an equals sign change a slogan that might otherwise use the word causes?",
+    "related": [
+     "equals",
+     "bottom"
+    ],
+    "number": 1
+   },
+   {
+    "id": "eyes",
+    "label": "The figure covering its eyes",
+    "shortLabel": "The figure covering its eyes",
+    "kicker": "An action without facial detail",
+    "summary": "Crossed arms obscure the eye area.",
+    "x": 19,
+    "y": 54,
+    "bounds": {
+     "x": 3,
+     "y": 25,
+     "w": 32,
+     "h": 58
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An action without facial detail",
+      "body": "The left figure’s arms stretch across the front of its head. Its face has no separate features, so the location of the arms supplies the meaning. One leg lifts outward, while short marks around the body make the pose feel active rather than still.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Describe the action carefully",
+      "body": "The image shows an act of covering, not a diagnosis of blindness. In the surrounding argument it can be read as refusing to look at a crisis. Keeping the action distinct from disability avoids treating people who cannot see as symbols of ignorance.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How can you recognize the gesture when no eyes are drawn?",
+    "related": [
+     "ears",
+     "mouth"
+    ],
+    "number": 2
+   },
+   {
+    "id": "ears",
+    "label": "The figure covering its ears",
+    "shortLabel": "The figure covering its ears",
+    "kicker": "The central variation",
+    "summary": "Hands press beside a featureless head.",
+    "x": 50,
+    "y": 50,
+    "bounds": {
+     "x": 36,
+     "y": 17,
+     "w": 28,
+     "h": 66
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "The central variation",
+      "body": "The middle figure places both hands at the sides of its head, with elbows raised outward. Its wide bent legs give it a stable central position. The pose differs from its neighbours even though the yellow fill, black outline and pink torso mark remain similar.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Repetition makes difference legible",
+      "body": "Because colour and outline are repeated, the change in gesture becomes especially noticeable. The viewer can compare actions instead of learning a new visual style for each figure. The poster’s economy comes from variation within a shared structure rather than from three unrelated illustrations.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What changes when the same body shape uses a different hand position?",
+    "related": [
+     "eyes",
+     "mouth"
+    ],
+    "number": 3
+   },
+   {
+    "id": "mouth",
+    "label": "The figure covering its mouth",
+    "shortLabel": "The figure covering its mouth",
+    "kicker": "A third placement of the arms",
+    "summary": "Arms gather over the lower face.",
+    "x": 83,
+    "y": 53.5,
+    "bounds": {
+     "x": 68,
+     "y": 23,
+     "w": 30,
+     "h": 61
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A third placement of the arms",
+      "body": "The right figure brings its arms and hands across the lower part of its head. Its legs bend in a different arrangement from the others. The repeated figure language makes the mouth-covering action readable through position, even though there is no drawn mouth beneath the hands.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Silence as a chosen response",
+      "body": "Placed above the lower slogan, this gesture can be read as withholding speech or public response. That interpretation concerns a social action in the campaign. It should not equate speech disability, quiet temperament or an individual’s need for privacy with responsibility for a public-health crisis.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which part of the gesture connects most directly to the lower slogan?",
+    "related": [
+     "bottom",
+     "eyes"
+    ],
+    "number": 4
+   },
+   {
+    "id": "crosses",
+    "label": "Three pink X marks",
+    "shortLabel": "Three pink X marks",
+    "kicker": "A shared sign on different poses",
+    "summary": "The same mark appears on each torso.",
+    "x": 49,
+    "y": 49,
+    "bounds": {
+     "x": 11,
+     "y": 42,
+     "w": 77,
+     "h": 22
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A shared sign on different poses",
+      "body": "Each yellow body carries a bright pink X on its torso. The marks are similar in scale but follow slightly different body positions. Their repeated colour connects the three figures and also links them to the separate pink triangle in the lower band.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Do not diagnose a symbol",
+      "body": "The X marks visibly group the figures, but the image alone does not identify anyone’s medical status. Their meaning should remain a question within the campaign’s visual language. It is possible to discuss repetition, emphasis and connection without treating a graphic mark as a clinical sign.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What relationship is established by repeating the mark in exactly the same colour?",
+    "related": [
+     "triangle",
+     "ears"
+    ],
+    "number": 5
+   },
+   {
+    "id": "motion",
+    "label": "Marks outside the bodies",
+    "shortLabel": "Marks outside the bodies",
+    "kicker": "Lines that are not objects",
+    "summary": "Short black strokes radiate and curve around the figures.",
+    "x": 63,
+    "y": 53,
+    "bounds": {
+     "x": 34,
+     "y": 18,
+     "w": 32,
+     "h": 64
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Lines that are not objects",
+      "body": "Short strokes radiate around the heads and curve beside limbs. They do not describe a separate physical object in the scene. Their changing lengths and directions create a visual rhythm around the bodies, adding activity to forms that would otherwise be still silhouettes.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A comparison you can test",
+      "body": "Cover the outer strokes while leaving the central body visible, then uncover them. The pose remains recognizable, but its energy changes. That experiment ties a reading of movement to actual marks rather than assuming that every bright cartoon-like image must feel cheerful.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which marks suggest a shake, a pulse or a step?",
+    "related": [
+     "ears",
+     "orange"
+    ],
+    "number": 6
+   },
+   {
+    "id": "orange",
+    "label": "The hot middle band",
+    "shortLabel": "The hot middle band",
+    "kicker": "Three horizontal zones",
+    "summary": "An orange field separates two blue text bands.",
+    "x": 96,
+    "y": 18,
+    "bounds": {
+     "x": 1,
+     "y": 16,
+     "w": 98,
+     "h": 68
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Three horizontal zones",
+      "body": "The central orange area is much taller than either blue strip. Heavy black lines divide the zones. Yellow bodies contrast with the orange, while the same black used for their contours carries the writing above and below, linking image and language across the colour changes.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Colour and outline work together",
+      "body": "The figures are not distinguished by colour alone: their heavy outlines and gestures remain important. Trying a grayscale view reveals which boundaries survive without hue. This does not make the design universally accessible, but it shows how more than one visual cue can carry its structure.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the colour boundary organize the order in which you read?",
+    "related": [
+     "top",
+     "bottom"
+    ],
+    "number": 7
+   },
+   {
+    "id": "equals",
+    "label": "Two small connecting bars",
+    "shortLabel": "Two small connecting bars",
+    "kicker": "A compact hinge",
+    "summary": "A simple sign makes words into a relationship.",
+    "x": 59.5,
+    "y": 8,
+    "bounds": {
+     "x": 56,
+     "y": 4,
+     "w": 7,
+     "h": 8
+    },
+    "layerIndex": 4,
+    "tags": [
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A compact hinge",
+      "body": "The equals sign consists of two uneven dark strokes. It is much smaller than the neighbouring words, but it determines their relationship. The same device appears again below, making the upper and lower slogans formally parallel even though they name different consequences.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "Certainty through compression",
+      "body": "The sign can lend the claim the apparent certainty of an equation. Here it compresses a political and ethical argument, not a calculation. Reading the form critically means asking what connections have been made forceful by simplification and what complexity the slogan leaves outside its short wording.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would replacing the sign with an arrow make the claim feel different?",
+    "related": [
+     "top",
+     "bottom"
+    ],
+    "number": 8
+   },
+   {
+    "id": "bottom",
+    "label": "The second equation",
+    "shortLabel": "The second equation",
+    "kicker": "A matching structure with greater stakes",
+    "summary": "A parallel slogan closes the left side of the lower band.",
+    "x": 35,
+    "y": 91,
+    "bounds": {
+     "x": 3,
+     "y": 85,
+     "w": 64,
+     "h": 12
+    },
+    "layerIndex": 5,
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A matching structure with greater stakes",
+      "body": "The lower slogan repeats the upper line’s capital letters and equals sign, but changes both terms. It stretches beneath the first two figures before the triangle and action words take over. The parallel structure encourages the two statements to be read as parts of one argument.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "An appeal against silence",
+      "body": "The National Library of Medicine interprets Haring’s AIDS-related imagery through education and compassion. In that context the slogan urges a response to a collective crisis. It should be studied as historical activist rhetoric rather than as a literal prediction about any person who does or does not speak.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "nlm"
+       }
+      ]
+     }
+    ],
+    "question": "How does reading the bottom line change your view of the three gestures?",
+    "related": [
+     "mouth",
+     "act-up"
+    ],
+    "number": 9
+   },
+   {
+    "id": "triangle",
+    "label": "A pink interruption",
+    "shortLabel": "A pink interruption",
+    "kicker": "A sharp, solid shape",
+    "summary": "A solid triangle separates slogan and call to action.",
+    "x": 70.5,
+    "y": 91,
+    "bounds": {
+     "x": 67,
+     "y": 85,
+     "w": 7,
+     "h": 12
+    },
+    "layerIndex": 5,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A sharp, solid shape",
+      "body": "The triangle points upward and is filled with the same bright pink used for the torso crosses. Its straight edges contrast with the rounded bodies and irregular lettering. It occupies a narrow gap in the lower strip, providing a visual pause before the smaller action words.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A campaign emblem",
+      "body": "The Smithsonian’s record of the earlier Silence = Death poster identifies the pink triangle as a gay-rights symbol and explains the emblem’s adoption by ACT UP. That supplies context for its appearance here. Haring’s 1989 artwork is not presented as the origin of the entire emblem.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "smithsonian"
+       }
+      ]
+     }
+    ],
+    "question": "How does this geometric shape differ from the pink marks on the bodies?",
+    "related": [
+     "crosses",
+     "act-up"
+    ],
+    "number": 10
+   },
+   {
+    "id": "act-up",
+    "label": "The explicit call to act",
+    "shortLabel": "The explicit call to act",
+    "kicker": "From claim to imperative",
+    "summary": "Two short lines turn an argument into an instruction.",
+    "x": 86,
+    "y": 91,
+    "bounds": {
+     "x": 74,
+     "y": 84,
+     "w": 24,
+     "h": 14
+    },
+    "layerIndex": 5,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "From claim to imperative",
+      "body": "The lower-right wording names AIDS and calls for action in two short lines. It is smaller than the main slogans but remains bold and dark against blue. The shift from an equation to an imperative changes the reader’s role from considering a statement to being addressed directly.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A named publisher and campaign",
+      "body": "The Whitney records this horizontal 1989 print as an offset lithograph published by ACT-UP. The organizational name is therefore more than a decorative phrase in the corner. It connects the artwork with a specific publisher and activist campaign, rather than with an unspecified message about fear.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "whitney"
+       }
+      ]
+     }
+    ],
+    "question": "What does this corner add that the two equations leave unstated?",
+    "related": [
+     "triangle",
+     "bottom"
+    ],
+    "number": 11
+   },
+   {
+    "id": "signature",
+    "label": "A vertical name and date",
+    "shortLabel": "A vertical name and date",
+    "kicker": "Credit on another axis",
+    "summary": "Small writing runs beside the right figure.",
+    "x": 96.75,
+    "y": 70,
+    "bounds": {
+     "x": 95,
+     "y": 58,
+     "w": 3.5,
+     "h": 24
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Credit on another axis",
+      "body": "The signature and year run vertically along the right edge of the central band. Their scale is far smaller than the slogans, yet the black marks remain visible against orange. This orientation keeps the credit near the artwork without inserting another horizontal line into the argument.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "The record identifies the object",
+      "body": "The Whitney identifies Keith Haring as the artist and dates this work to 1989, accession 2014.265. Those details secure the attribution and edition under discussion. Other institutions may describe other impressions differently; the selected horizontal reproduction is tied to this particular collection record.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "whitney"
+       }
+      ]
+     }
+    ],
+    "question": "Why might a signature be readable only after you rotate your attention?",
+    "related": [
+     "act-up",
+     "mouth"
+    ],
+    "number": 12
+   }
+  ],
+  "sources": [
+   {
+    "id": "whitney",
+    "title": "Whitney: Ignorance = Fear / Silence = Death",
+    "url": "https://whitney.org/collection/works/46387",
+    "kind": "Museum collection",
+    "summary": "Verifies Haring, 1989, horizontal object 2014.265, offset lithograph and ACT-UP publication."
+   },
+   {
+    "id": "nlm",
+    "title": "National Library of Medicine: Haring and AIDS education",
+    "url": "https://www.nlm.nih.gov/exhibition/surviving-and-thriving/digitalgallery-nojs-detail107.html",
+    "kind": "Public-health history collection",
+    "summary": "Contexts the image in AIDS education and compassion; not used for present-day medical advice."
+   },
+   {
+    "id": "smithsonian",
+    "title": "Smithsonian: Silence = Death poster",
+    "url": "https://www.americanhistory.si.edu/collections/object/nmah_1051178",
+    "kind": "Museum collection",
+    "summary": "Documents the earlier emblem, pink triangle and ACT UP adoption; distinguishes that history from Haring’s later design."
+   }
+  ],
+  "tour": [
+   "top",
+   "eyes",
+   "ears",
+   "mouth",
+   "bottom",
+   "act-up"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected readable wording",
+    "rows": [
+     {
+      "text": "IGNORANCE = FEAR",
+      "meaning": "Upper activist slogan.",
+      "lang": "en"
+     },
+     {
+      "text": "SILENCE = DEATH",
+      "meaning": "Lower activist slogan.",
+      "lang": "en"
+     },
+     {
+      "text": "FIGHT AIDS / ACT UP",
+      "meaning": "Call to action and organizational name.",
+      "lang": "en"
+     },
+     {
+      "text": "© K. Haring 89",
+      "meaning": "Artist signature and date.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "This is a partial transcript of securely readable wording in the installed reproduction. Small credits, logos and review attributions are not fully transcribed; enlargement cannot restore missing source detail.",
+  "palette": [
+   {
+    "name": "Field orange",
+    "hex": "#FE4E02",
+    "role": "The broad central ground.",
+    "region": "orange"
+   },
+   {
+    "name": "Figure yellow",
+    "hex": "#FFE900",
+    "role": "A repeated body colour.",
+    "region": "ears"
+   },
+   {
+    "name": "Campaign pink",
+    "hex": "#FE1E98",
+    "role": "The emblem and torso marks.",
+    "region": "triangle"
+   },
+   {
+    "name": "Band blue",
+    "hex": "#01A0E2",
+    "role": "The two text grounds.",
+    "region": "top"
+   },
+   {
+    "name": "Outline black",
+    "hex": "#1D1814",
+    "role": "A strong contour around the body.",
+    "region": "ears"
+   }
+  ],
+  "paletteNote": "These are individual screen-pixel samples from the installed digital reproduction, not specifications for the original inks or paper. Texture, lighting, scanning and screen settings affect their appearance.",
+  "connections": [
+   {
+    "label": "Repeated gestures",
+    "title": "Three bodies make a visual sequence",
+    "text": "The figures repeat a shared yellow-and-pink treatment while changing the gesture from eyes to ears to mouth.",
+    "anchors": [
+     [
+      1,
+      0.1905,
+      0.48945518453427067
+     ],
+     [
+      3,
+      0.8405,
+      0.47012302284710017
+     ]
+    ],
+    "id": "ignorance-equals-fear-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Words frame the bodies",
+    "title": "The message is held above and below",
+    "text": "The top declaration and lower call to act bracket the three gestures, turning the figures into a linked argument.",
+    "anchors": [
+     [
+      4,
+      0.4575,
+      0.08875219683655536
+     ],
+     [
+      5,
+      0.4585,
+      0.9094903339191565
+     ]
+    ],
+    "id": "ignorance-equals-fear-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

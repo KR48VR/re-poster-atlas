@@ -1,0 +1,765 @@
+{
+ "poster": {
+  "id": "breathless",
+  "title": "Breathless",
+  "year": "1960",
+  "yearNumber": 1960,
+  "country": "France",
+  "region": "Europe",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Jean-Luc Godard",
+  "edition": "French-language theatrical poster",
+  "alt": "A cream Breathless poster with large blue and pink title letters, a cropped woman’s face at upper right and a dark running figure.",
+  "blurb": "Letter fragments and cropped figures make the page feel quick, restless and deliberately unfinished.",
+  "notes": [
+   {
+    "title": "A title built from interruptions",
+    "body": "Large coloured initials anchor smaller black words. Reading the title requires jumps between different sizes and directions instead of following one calm line."
+   },
+   {
+    "title": "Two bodies, two visual speeds",
+    "body": "The close face at the top holds the eye, while the smaller running figure supplies a sudden diagonal movement. The contrast makes stillness and action share the sheet."
+   },
+   {
+    "title": "Cream space as an active element",
+    "body": "Wide areas of pale paper separate the coloured blocks and figures. These gaps keep the busy arrangement legible and give each fragment a distinct edge."
+   }
+  ],
+  "source": "https://www.criterion.com/films/268-breathless",
+  "imageCredit": "French theatrical poster; artist uncredited in the consulted source. Reproduction via Wikipedia; copyright remains with the respective rights holders.",
+  "anchor": [
+   0.78,
+   0.24
+  ],
+  "accent": "#48749a",
+  "category": "Film",
+  "image": "images/full/breathless.jpg",
+  "imageSource": "https://en.wikipedia.org/wiki/File:À_bout_de_souffle_(movie_poster).jpg",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/en/3/3f/%C3%80_bout_de_souffle_%28movie_poster%29.jpg",
+  "ratio": 0.714286,
+  "imageWidth": 220,
+  "imageHeight": 308,
+  "credit": "French theatrical poster; artist uncredited in the consulted source. Reproduction via Wikipedia; copyright remains with the respective rights holders.",
+  "countries": [
+   "France"
+  ],
+  "primaryOrigin": "France",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/breathless.webp"
+ },
+ "studyData": {
+  "intro": "A cropped face, a small moving figure and a title broken into coloured initials share an uneven page. Follow the changes of scale and reading order without assuming that a film’s editing style automatically explains its poster.",
+  "initial": "face",
+  "regions": [
+   {
+    "id": "face",
+    "label": "The cropped upper face",
+    "shortLabel": "The cropped upper face",
+    "kicker": "DESIGN",
+    "summary": "A giant face meets the edge before the title begins.",
+    "layerIndex": 1,
+    "bounds": {
+     "x": 27,
+     "y": 0,
+     "w": 70,
+     "h": 31
+    },
+    "x": 60,
+    "y": 12,
+    "question": "How much of the head is missing, and does that weaken recognition?",
+    "related": [
+     "eyes",
+     "lips",
+     "runner"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A portrait with no enclosing head",
+      "body": "The upper face is cut by the top and sides of its rectangular image area. It is much larger than the running figure below, so the sheet offers incompatible scales rather than one continuous scene. The crop keeps attention on expression and colour instead of a complete body.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A picture assembled from fragments",
+      "body": "The face and figure do not share a believable common space or perspective. They can be read as fragments brought together for the advertisement. This visible construction is worth examining on its own, without claiming a documented correspondence between each fragment and a particular film-editing technique.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 1
+   },
+   {
+    "id": "eyes",
+    "label": "The sideways eyes",
+    "shortLabel": "The sideways eyes",
+    "kicker": "DESIGN",
+    "summary": "Dark horizontal accents cut through the warm face.",
+    "layerIndex": 1,
+    "bounds": {
+     "x": 35,
+     "y": 7,
+     "w": 51,
+     "h": 9
+    },
+    "x": 58,
+    "y": 10,
+    "question": "Compare the eyes’ direction with the runner’s movement.",
+    "related": [
+     "face",
+     "lips",
+     "names"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A glance across the sheet",
+      "body": "The dark eyes and brows form a horizontal band within the brightly coloured face. Their sideways direction creates a line of attention across the crop. Small black and pale contrasts make them readable even though the image contains very little room around the head.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Attention without a fixed explanation",
+      "body": "The glance can appear watchful or detached, but the small painted reproduction does not settle a single emotional reading. Compare it with the tilted head of the moving figure. The difference in posture gives the page two kinds of attention rather than one coherent action.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 2
+   },
+   {
+    "id": "lips",
+    "label": "The saturated mouth",
+    "shortLabel": "The saturated mouth",
+    "kicker": "DESIGN",
+    "summary": "A red-orange accent ends the face’s downward path.",
+    "layerIndex": 1,
+    "bounds": {
+     "x": 51,
+     "y": 20,
+     "w": 21,
+     "h": 9
+    },
+    "x": 61,
+    "y": 25,
+    "question": "What changes if you cover the mouth but leave the eyes visible?",
+    "related": [
+     "face",
+     "eyes",
+     "yellow-d"
+    ],
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Colour concentrated in features",
+      "body": "The lips are strongly outlined and warmer than the surrounding yellow-orange face. They make a compact accent near the bottom of the cropped portrait. This colour treatment is visibly stylised: it is not a neutral record of skin or an indication of the film’s photographed palette.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A colour poster for a monochrome film",
+      "body": "Criterion records Breathless as a French black-and-white film from 1960, directed by Jean-Luc Godard. The poster’s bright face and coloured letters belong to the advertisement’s treatment. They should not be taken as evidence that the film itself uses the same colour scheme.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "criterion"
+       }
+      ]
+     }
+    ],
+    "number": 3
+   },
+   {
+    "id": "runner",
+    "label": "The small moving torso",
+    "shortLabel": "The small moving torso",
+    "kicker": "DESIGN",
+    "summary": "A smaller figure crosses the open middle.",
+    "layerIndex": 2,
+    "bounds": {
+     "x": 56,
+     "y": 27,
+     "w": 36,
+     "h": 31
+    },
+    "x": 75,
+    "y": 43,
+    "question": "Which body angles most strongly suggest movement?",
+    "related": [
+     "legs",
+     "face",
+     "blue-a"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A body defined by slant",
+      "body": "The torso tilts, the arms extend at different angles and the clothing is described in dark blue and pale patches. The figure sits far below the scale of the face above. Its oblique posture gives the otherwise typographic middle a clear suggestion of bodily movement.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An action without a complete scene",
+      "body": "No detailed street explains the figure’s route, and the isolated pose does not establish whether this is running, stumbling or a particular instant from the film. The useful evidence is the angled body and displaced limbs. Narrative identification would require a securely matched source image.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 4
+   },
+   {
+    "id": "legs",
+    "label": "The separated legs and shadow",
+    "shortLabel": "The separated legs and shadow",
+    "kicker": "DESIGN",
+    "summary": "Bent limbs make the lower silhouette irregular.",
+    "layerIndex": 2,
+    "bounds": {
+     "x": 64,
+     "y": 53,
+     "w": 30,
+     "h": 24
+    },
+    "x": 84.018,
+    "y": 65.798,
+    "question": "Trace both legs: where does the printed title interrupt your reading?",
+    "related": [
+     "runner",
+     "black-words",
+     "gray-s"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Movement through separated shapes",
+      "body": "The legs bend in different directions and leave pale gaps between them. Small dark and coloured patches extend the figure’s unstable outline. Those openings matter as much as the solid limbs: they keep the lower body from becoming a single static vertical column.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Figure and title share space",
+      "body": "The moving body sits close to the title fragments, with some letter areas competing for the same middle zone. This crowding makes the figure feel inserted into a graphic arrangement rather than safely framed in a separate illustration. Follow the silhouette before reading the words again.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 5
+   },
+   {
+    "id": "blue-a",
+    "label": "The blue opening A",
+    "shortLabel": "The blue opening A",
+    "kicker": "LANGUAGE",
+    "summary": "A tall pale letter starts the title in its own block.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 4,
+     "y": 28,
+     "w": 25,
+     "h": 23
+    },
+    "x": 16,
+    "y": 39,
+    "question": "What tells you this isolated A belongs to the title rather than the actor billing?",
+    "related": [
+     "pink-b",
+     "yellow-d",
+     "black-words"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A title begins away from its continuation",
+      "body": "The large A begins “À bout de souffle,” the French title conventionally released in English as Breathless. Its separation from the following words turns reading into an assembly task. The visible enlarged initial is unaccented in this layout; the standard French title supplies the accent.",
+      "evidence": "observation",
+      "originalText": "A",
+      "lang": "fr",
+      "translation": "Opening initial of À bout de souffle"
+     },
+     {
+      "kind": "design",
+      "heading": "A block with a clear contrast",
+      "body": "The tall pale A sits inside a blue rectangle, giving the opening a strong, self-contained shape. Its thin and thick strokes differ from the dark lower title words. The box therefore establishes both a starting point and a distinct typographic texture.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 6
+   },
+   {
+    "id": "pink-b",
+    "label": "The pink B block",
+    "shortLabel": "The pink B block",
+    "kicker": "DESIGN",
+    "summary": "A second coloured initial lowers the reading path.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 28,
+     "y": 51,
+     "w": 21,
+     "h": 16
+    },
+    "x": 39,
+    "y": 59,
+    "question": "How do you connect this B to the small letters beside it?",
+    "related": [
+     "blue-a",
+     "black-words",
+     "yellow-d"
+    ],
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A step in colour and position",
+      "body": "The B appears in a vivid pink square lower and farther right than the A. Its pale letterform is large enough to read independently, yet the adjacent dark continuation makes it part of a longer word. Position and proximity help reconnect what the colour blocks have separated.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "An initial needs its remainder",
+      "body": "Reading the B with the nearby “out” produces “bout,” rather than treating the block as a freestanding decorative letter. The poster asks the viewer to cross a change in scale and colour to complete the word. This is a visible reading operation, not an encrypted message.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 7
+   },
+   {
+    "id": "yellow-d",
+    "label": "The yellow D block",
+    "shortLabel": "The yellow D block",
+    "kicker": "DESIGN",
+    "summary": "A warm square creates another stop in the title.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 47,
+     "y": 66,
+     "w": 18,
+     "h": 16
+    },
+    "x": 55,
+    "y": 74,
+    "question": "Which nearby small letter completes the word begun here?",
+    "related": [
+     "pink-b",
+     "gray-s",
+     "lips"
+    ],
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A warm middle accent",
+      "body": "The yellow square and red D occupy a compact central area between the figure and the large lower S. Their warm colours echo the portrait above while contrasting with the blue A. The title’s blocks are therefore related by a limited palette as well as by reading order.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "The small connecting word",
+      "body": "The D combines with the adjacent lowercase e to make “de.” This short word receives a disproportionately large initial because the title’s graphic system emphasises beginnings. Compare the size of the word’s two letters: grammatical importance and visual area are not the same thing here.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 8
+   },
+   {
+    "id": "gray-s",
+    "label": "The enormous pale S",
+    "shortLabel": "The enormous pale S",
+    "kicker": "DESIGN",
+    "summary": "The last initial is also the largest low anchor.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 0,
+     "y": 65,
+     "w": 29,
+     "h": 32
+    },
+    "x": 14,
+    "y": 82,
+    "question": "How does this S balance the cropped face above?",
+    "related": [
+     "black-words",
+     "yellow-d",
+     "blue-a"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A curved ending to the sequence",
+      "body": "The pale S fills a gray rectangle near the lower left, nearly reaching the image edge. Its broad curves differ from the straight sides of the coloured blocks. This large low shape gives the fragmented title enough weight to balance the imposing portrait at the top.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A quieter colour, a larger area",
+      "body": "The S block is less saturated than the pink or yellow blocks, but it occupies more space. Its prominence therefore comes mainly from size and light-dark contrast. Comparing these initials shows several ways to establish emphasis without making every element equally bright.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 9
+   },
+   {
+    "id": "black-words",
+    "label": "The title’s smaller continuations",
+    "shortLabel": "The title’s smaller continuations",
+    "kicker": "LANGUAGE",
+    "summary": "Dark fragments reconnect the colourful initials.",
+    "layerIndex": 4,
+    "bounds": {
+     "x": 29,
+     "y": 56,
+     "w": 64,
+     "h": 35
+    },
+    "x": 60.274,
+    "y": 86.971,
+    "question": "Can you read the title while ignoring the big coloured letters?",
+    "related": [
+     "blue-a",
+     "pink-b",
+     "gray-s"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Reassembling the phrase",
+      "body": "The fragments “out,” “e” and “ouffle…” complete the oversized B, D and S. Rejoining them gives the phrase “À bout de souffle,” literally at the end of one’s breath, with Breathless as the established English title. The trailing dots extend the visible phrase beyond a firm stop.",
+      "evidence": "observation",
+      "originalText": "À bout de souffle",
+      "lang": "fr",
+      "translation": "Breathless; literally at the end of one’s breath"
+     },
+     {
+      "kind": "design",
+      "heading": "One title in several voices",
+      "body": "The smaller dark words use a different scale and weight from the pale initials. Their placement keeps the title readable while preserving its broken surface. The design depends on viewers making connections across those differences; without the continuations, the coloured blocks would no longer fully identify the film.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 10
+   },
+   {
+    "id": "names",
+    "label": "The upper-left actor list",
+    "shortLabel": "The upper-left actor list",
+    "kicker": "BUSINESS",
+    "summary": "Compact names occupy a quiet strip beside the face.",
+    "layerIndex": 5,
+    "bounds": {
+     "x": 3,
+     "y": 5,
+     "w": 23,
+     "h": 14
+    },
+    "x": 12.329,
+    "y": 11.726,
+    "question": "Why does this list remain separate from the giant A below it?",
+    "related": [
+     "face",
+     "director",
+     "blue-a"
+    ],
+    "tags": [
+     "business",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "Billing beside a dominant portrait",
+      "body": "The small left-hand list names Jean Seberg and Jean-Paul Belmondo. Criterion confirms both as the film’s principal stars. Their names occupy much less area than the cropped face and moving figure, showing how a poster can combine textual recognition with images that work at quite different scales.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "criterion"
+       }
+      ]
+     },
+     {
+      "kind": "design",
+      "heading": "A narrow ordered counterpoint",
+      "body": "The name list uses short, stacked dark lines against a pale ground. Its compact vertical order contrasts with the larger title’s irregular steps. This quiet strip helps the upper image remain legible without requiring a full-width banner across the portrait.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 11
+   },
+   {
+    "id": "director",
+    "label": "The small Godard credit",
+    "shortLabel": "The small Godard credit",
+    "kicker": "LANGUAGE",
+    "summary": "A clear maker’s name sits in the open middle.",
+    "layerIndex": 5,
+    "bounds": {
+     "x": 29,
+     "y": 31,
+     "w": 29,
+     "h": 7
+    },
+    "x": 42.922,
+    "y": 34.528,
+    "question": "Compare this credit’s scale with the title initials: what does each ask you to do?",
+    "related": [
+     "names",
+     "billing",
+     "runner"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A simple authorship line",
+      "body": "The visible line names Jean-Luc Godard as the filmmaker. Criterion independently records him as director of the 1960 film. This is different from identifying the poster artist, who is not established by the film credit or by the modern home-video cover attribution on the distributor’s page.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "criterion"
+       }
+      ]
+     },
+     {
+      "kind": "design",
+      "heading": "An island of ordinary reading",
+      "body": "The director’s name is small, dark and nearly level, placed in pale space between the large A and the moving figure. Its ordinary reading direction offers a brief pause within a design otherwise driven by abrupt changes of scale, colour and position.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 12
+   },
+   {
+    "id": "billing",
+    "label": "The fine bottom lines",
+    "shortLabel": "The fine bottom lines",
+    "kicker": "DESIGN",
+    "summary": "A conventional information band closes an unconventional title.",
+    "layerIndex": 5,
+    "bounds": {
+     "x": 2,
+     "y": 92,
+     "w": 96,
+     "h": 7
+    },
+    "x": 61.187,
+    "y": 94.463,
+    "question": "At what point does this text become texture rather than readable words?",
+    "related": [
+     "director",
+     "names",
+     "gray-s"
+    ],
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A final horizontal baseline",
+      "body": "Several tiny lines and marks run along the bottom edge, much more evenly than the title above. Their compact arrangement gives the page a conventional informational ending. This makes the title’s broken layout more noticeable by comparison, rather than allowing every part of the poster to be equally irregular.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "What this small edition can support",
+      "body": "The installed image is 220 by 308 pixels, so the smallest credit text cannot all be transcribed confidently. The study retains the secure title and main names, and does not infer an exact printing date or poster creator from marks that are unclear at this scale.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 13
+   },
+   {
+    "id": "paper",
+    "number": 14,
+    "label": "The pale intervals",
+    "shortLabel": "The pale intervals",
+    "kicker": "DESIGN",
+    "summary": "Quiet spaces keep the fragments from becoming one dense block.",
+    "layerIndex": 0,
+    "bounds": {
+     "x": 29,
+     "y": 38,
+     "w": 28,
+     "h": 12
+    },
+    "x": 40,
+    "y": 43,
+    "question": "Compare this interval with the crowded lower title: where is reading easiest?",
+    "related": [
+     "blue-a",
+     "runner",
+     "names"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A framework made from gaps",
+      "body": "The pale ground remains visible between the large initials, small credits and isolated figure. These intervals do not all have equal widths, but they keep separate elements from collapsing into one crowded image. The open area beneath the director’s name is especially quiet beside the moving torso.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Separation makes recombination possible",
+      "body": "The title asks you to connect fragments across changes of size and colour. That task is possible partly because pale gaps make the fragments distinct in the first place. Covering an interval or imagining it filled with another image shows how much organisation comes from the unprinted-looking ground.",
+      "evidence": "interpretation"
+     }
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "criterion",
+    "title": "Criterion: Breathless",
+    "url": "https://www.criterion.com/films/268-breathless",
+    "kind": "Film distributor record",
+    "summary": "Supports the 1960 French black-and-white film, Godard’s direction and stars Jean Seberg and Jean-Paul Belmondo; its modern cover credit is not this poster’s attribution."
+   }
+  ],
+  "tour": [
+   "face",
+   "runner",
+   "blue-a",
+   "pink-b",
+   "yellow-d",
+   "gray-s",
+   "black-words"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "À bout de souffle",
+      "meaning": "Breathless; literally at the end of one’s breath",
+      "lang": "fr"
+     },
+     {
+      "text": "JEAN SEBERG / JEAN-PAUL BELMONDO",
+      "meaning": "Printed performer names",
+      "lang": "und"
+     },
+     {
+      "text": "JEAN-LUC GODARD",
+      "meaning": "Filmmaker’s name",
+      "lang": "und"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "The standard title is supplied with its French accent; the enlarged printed A does not visibly carry it in this layout. Main names are readable; fine billing is not transcribed completely. No poster artist, exact impression date or direct equivalence between poster layout and film editing is claimed.",
+  "palette": [
+   {
+    "name": "A blue",
+    "hex": "#015486",
+    "role": "Opening title block",
+    "region": "blue-a"
+   },
+   {
+    "name": "B pink",
+    "hex": "#fc166c",
+    "role": "Second stepped initial",
+    "region": "pink-b"
+   },
+   {
+    "name": "D yellow",
+    "hex": "#ffc908",
+    "role": "Warm central title block",
+    "region": "yellow-d"
+   },
+   {
+    "name": "S gray",
+    "hex": "#76827e",
+    "role": "Large lower anchor",
+    "region": "gray-s"
+   },
+   {
+    "name": "Face orange",
+    "hex": "#f36213",
+    "role": "Stylised portrait colour",
+    "region": "face"
+   },
+   {
+    "name": "Paper pale",
+    "hex": "#faf7e8",
+    "role": "Quiet intervals around fragments",
+    "region": "paper"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels of the installed reproduction; these are not original ink or paper specifications.",
+  "connections": [
+   {
+    "label": "Scales collide",
+    "title": "A huge face above a small runner",
+    "text": "The cropped face and the running figure bring two very different scales into the same tight composition.",
+    "anchors": [
+     [
+      1,
+      0.5886363636363636,
+      0.16071428571428573
+     ],
+     [
+      2,
+      0.7522727272727273,
+      0.4496753246753247
+     ]
+    ],
+    "id": "breathless-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "A title assembled in pieces",
+    "title": "Initials become coloured signs",
+    "text": "Oversized letters in coloured blocks join smaller black words, making the title move across several uneven lines.",
+    "anchors": [
+     [
+      3,
+      0.17954545454545454,
+      0.400974025974026
+     ],
+     [
+      4,
+      0.6022727272727273,
+      0.8814935064935064
+     ]
+    ],
+    "id": "breathless-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

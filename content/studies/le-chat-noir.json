@@ -1,0 +1,823 @@
+{
+ "poster": {
+  "id": "le-chat-noir",
+  "title": "Le Chat Noir — Prochainement",
+  "year": "1896",
+  "yearNumber": 1896,
+  "creator": "Théophile Alexandre Steinlen",
+  "country": "France",
+  "countries": [
+   "France"
+  ],
+  "primaryOrigin": "France",
+  "region": "Europe",
+  "category": "Performance",
+  "image": "images/full/le-chat-noir.jpg",
+  "ratio": 0.645,
+  "alt": "A large seated black cat with long whiskers and a curled tail overlaps a fine red circular medallion and a red lower panel. French black and red lettering announces the company of the Chat Noir, shadow plays, poets, composers and Rodolphe Salis.",
+  "blurb": "A black silhouette, a lace-like red circle and several scales of lettering turn a performance notice into a commanding portrait.",
+  "notes": [
+   {
+    "title": "A face made from small interruptions",
+    "body": "The pale eyes and fine facial lines interrupt an otherwise dark cat. Long whiskers reach into the surrounding ground, making the head feel wider than its solid silhouette."
+   },
+   {
+    "title": "Two circles, two kinds of line",
+    "body": "The patterned red medallion opens behind the head, while the heavy tail curls across the lower panel. Their related curves connect distant parts of the sheet without repeating the same texture."
+   },
+   {
+    "title": "A notice in several voices",
+    "body": "The large black company name sits beside the cat. Smaller red lines describe the programme, while the lower red panel gives Rodolphe Salis a separate, widely spread name."
+   }
+  ],
+  "source": "https://www.nga.gov/artworks/166147-prochainement-la-tres-illustre-compagnie-du-chat-noir-poster-company-black-cat",
+  "credit": "Théophile Alexandre Steinlen, artist; Charles Verneau, printer. National Gallery of Art, Washington, Purchased for the Virginia and Ira Jackson Collection, 2014.100.1. Public-domain media.",
+  "edition": "1896 Prochainement la très illustre Compagnie du Chat Noir variant, NGA 2014.100.1; not the differently worded Tournée du Chat Noir edition.",
+  "posterYear": "1896",
+  "posterTerritory": "France",
+  "posterDateStatus": "documented",
+  "reproduction": "NGA colour reproduction, installed at 516 × 800 pixels. The museum describes a colour lithograph on wove paper mounted on muslin; no original production layers are supplied.",
+  "imageSource": "https://www.nga.gov/artworks/166147-prochainement-la-tres-illustre-compagnie-du-chat-noir-poster-company-black-cat",
+  "imageCredit": "National Gallery of Art, Washington, 2014.100.1; media identified by the museum as public domain.",
+  "downloadURL": "https://api.nga.gov/iiif/e2476c59-f6ff-47a1-b721-499efc8a3025/full/!800,800/0/default.jpg",
+  "originNote": "France describes the poster's Paris printing and French-language campaign context. NGA identifies Steinlen as Swiss; the designer's nationality is distinct from this poster-origin bucket.",
+  "originSources": [
+   {
+    "title": "NGA object record and Paris printer inscription",
+    "url": "https://www.nga.gov/artworks/166147-prochainement-la-tres-illustre-compagnie-du-chat-noir-poster-company-black-cat"
+   }
+  ],
+  "creditSources": [
+   {
+    "title": "NGA: artist, printer, date, medium and accession",
+    "url": "https://www.nga.gov/artworks/166147-prochainement-la-tres-illustre-compagnie-du-chat-noir-poster-company-black-cat"
+   }
+  ],
+  "anchor": [
+   0.438,
+   0.344
+  ],
+  "anchorLayer": 1,
+  "accent": "#b33a32",
+  "thumb": "images/catalogue/le-chat-noir.webp"
+ },
+ "studyData": {
+  "intro": "A black cat makes a performance notice feel like a portrait. Follow the shifts from silhouette to fine line, from company name to programme, and from a red circle above the head to the heavy curl below.",
+  "initial": "head",
+  "regions": [
+   {
+    "id": "head",
+    "number": 1,
+    "label": "The face inside the silhouette",
+    "shortLabel": "Face",
+    "kicker": "DESIGN",
+    "summary": "A frontal face interrupts a body turned sideways.",
+    "layerIndex": 1,
+    "x": 45.736,
+    "y": 35.25,
+    "bounds": {
+     "x": 32,
+     "y": 27,
+     "w": 27,
+     "h": 17
+    },
+    "question": "Which small lines let you distinguish the face from the surrounding black shape?",
+    "related": [
+     "eyes",
+     "whiskers",
+     "medallion"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Front and side at once",
+      "body": "The body bends towards the right, but the face looks straight out from the sheet. Two broad ears stretch sideways above a narrow muzzle. A few lighter lines separate cheeks, nose and neck within a dark area that could otherwise read as one continuous shape.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An image that meets the reader",
+      "body": "The frontal face gives the animal a different relationship to the viewer from the lettering alongside it. You may read the gaze as watchful, stern or comic; compare those possibilities against the lowered upper eye edges and the unusually wide spread of the ears.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "eyes",
+    "number": 2,
+    "label": "Two pale eyes",
+    "shortLabel": "Eyes",
+    "kicker": "DESIGN",
+    "summary": "Tiny light areas have unusual power inside the dark head.",
+    "layerIndex": 1,
+    "x": 42.829,
+    "y": 32.375,
+    "bounds": {
+     "x": 40,
+     "y": 30.8,
+     "w": 12,
+     "h": 3.6
+    },
+    "question": "How does the face change when you cover the two pale shapes?",
+    "related": [
+     "head",
+     "sheet",
+     "company"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Light enclosed by dark",
+      "body": "The pale eyes are small compared with the ears and head. Each contains a narrow dark vertical pupil, while the upper edges slope towards the nose. Their enclosed light shapes remain legible even when the finer lines describing the muzzle become difficult to distinguish.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A local contrast reversal",
+      "body": "Most black marks on this poster sit against a warm light ground. In the eyes that arrangement reverses: light sits inside black. This concentrated reversal can pull attention into the face without adding another colour or making the eyes physically larger.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "whiskers",
+    "number": 3,
+    "label": "Lines reaching beyond the head",
+    "shortLabel": "Whiskers",
+    "kicker": "DESIGN",
+    "summary": "Fine strokes cross the red ornament and enter the surrounding space.",
+    "layerIndex": 1,
+    "x": 26.357,
+    "y": 35.5,
+    "bounds": {
+     "x": 20,
+     "y": 19.5,
+     "w": 44,
+     "h": 21.5
+    },
+    "question": "Where can you follow a whisker continuously, and where does the red pattern make it harder?",
+    "related": [
+     "head",
+     "medallion",
+     "fur"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A silhouette with extensions",
+      "body": "Long dark strokes rise from the forehead and sweep out from the cheeks. Several cross the red circular pattern; others reach into the open ground. These extensions make the cat occupy more space than the solid outline of its ears and body alone would suggest.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Fine against fine",
+      "body": "The whiskers and medallion both use thin lines, but their directions differ. The whiskers travel outward in loose arcs while the red pattern repeatedly turns back on itself. Following one whisker through that busy area is a useful way to distinguish overlapping systems of drawing.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "fur",
+    "number": 4,
+    "label": "The rough back and drawn haunch",
+    "shortLabel": "Fur",
+    "kicker": "DESIGN",
+    "summary": "A bristled edge gives the heavy silhouette a different rhythm from the lettering.",
+    "layerIndex": 1,
+    "x": 17.054,
+    "y": 52.5,
+    "bounds": {
+     "x": 6,
+     "y": 41.5,
+     "w": 50,
+     "h": 33
+    },
+    "question": "Compare the back with the right side of the chest: where is the contour most irregular?",
+    "related": [
+     "head",
+     "claws",
+     "company"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An edge made of interruptions",
+      "body": "Small points, curls and changes of direction roughen the cat’s back. The right side of its chest descends in a smoother curve. Inside the broad body, faint warm lines describe the haunch and leg without breaking the larger impression of a dark, seated animal.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Texture without filling every space",
+      "body": "The drawing gives some areas far more detail than others. A viewer can infer fur from the jagged outer edge and a few internal marks, while much of the body stays nearly solid. Compare this economy with the medallion, where fine detail is spread much more evenly.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "claws",
+    "number": 5,
+    "label": "The small points on the red edge",
+    "shortLabel": "Claws",
+    "kicker": "DESIGN",
+    "summary": "The animal meets the announcement panel through a repeated row of dark tips.",
+    "layerIndex": 1,
+    "x": 46.318,
+    "y": 73.375,
+    "bounds": {
+     "x": 32,
+     "y": 70.5,
+     "w": 20,
+     "h": 5.5
+    },
+    "question": "What makes the red shape feel like a support here, even though it also holds lettering?",
+    "related": [
+     "panel",
+     "fur",
+     "tail"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A row of small contacts",
+      "body": "At the base of the foreleg, rounded dark toes and pointed tips meet the top of the red panel. The little rises interrupt an otherwise long horizontal edge. Compare their scale with the large body above: the contact is described with surprisingly small marks.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A surface with two jobs",
+      "body": "The red panel can be read both as a flat printed announcement and as something beneath the cat. The paws help that second reading by meeting its upper edge. There is no detailed perspective construction, so the suggestion of support depends on contact and overlap.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "tail",
+    "number": 6,
+    "label": "The tail crossing the name",
+    "shortLabel": "Tail",
+    "kicker": "DESIGN",
+    "summary": "A heavy curl interrupts the lower announcement.",
+    "layerIndex": 1,
+    "x": 25.581,
+    "y": 91.25,
+    "bounds": {
+     "x": 5,
+     "y": 73.8,
+     "w": 38,
+     "h": 20.2
+    },
+    "question": "Trace the tail from the body to its tip: which letter fragments become interrupted?",
+    "related": [
+     "salis",
+     "medallion",
+     "claws"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "One continuous sweep",
+      "body": "The tail descends along the left of the red panel and curls back up towards its centre. Its width changes around the bend, and its dark mass passes across parts of the name. The curve stays attached to the body rather than becoming a separate decorative flourish.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Overlap before complete legibility",
+      "body": "Some of the lower name remains visible inside the curl, and a small diagonal letter stroke appears below it. The interruption makes the name and animal share the same space. The separated view preserves only visible fragments; it does not draw the covered letters back in.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "medallion",
+    "number": 7,
+    "label": "The red patterned circle",
+    "shortLabel": "Medallion",
+    "kicker": "DESIGN",
+    "summary": "A delicate ring frames a dense black head.",
+    "layerIndex": 2,
+    "x": 31.202,
+    "y": 25.375,
+    "bounds": {
+     "x": 25,
+     "y": 20.3,
+     "w": 40,
+     "h": 26.8
+    },
+    "question": "How does the circle change the prominence of the head without becoming another solid shape?",
+    "related": [
+     "head",
+     "whiskers",
+     "tail"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Many small turns around one centre",
+      "body": "The red medallion combines an outer lattice-like band, curling letterforms and inward-turning curves. Its fine lines leave much of the warm ground visible. The cat obscures the lower centre, so the visible pattern frames the head without forming an uninterrupted disc.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A frame rather than a second subject",
+      "body": "The circle can suggest a halo-like frame because it is centred behind the head. That is a visual comparison, not evidence of a specific religious intention. Compare its delicate repeated turns with the heavy single turn of the tail: both curves give the cat added emphasis.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "headline",
+    "number": 8,
+    "label": "The promise of something coming",
+    "shortLabel": "Coming soon",
+    "kicker": "LANGUAGE & CONTEXT",
+    "summary": "The first word announces time before giving a programme.",
+    "layerIndex": 3,
+    "x": 18.023,
+    "y": 8.375,
+    "bounds": {
+     "x": 4,
+     "y": 5,
+     "w": 90,
+     "h": 19.5
+    },
+    "question": "How do the size and colour changes divide the announcement into different voices?",
+    "related": [
+     "company",
+     "programme",
+     "salis"
+    ],
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "An announcement in stages",
+      "body": "Prochainement means “coming soon.” Below it, the smaller red phrase describes the company as “very illustrious.” The lettering changes scale and colour before reaching the largest company name. Read the lines in that sequence and notice how the promise of an event precedes its identity.",
+      "evidence": "observation",
+      "originalText": "Prochainement — la très illustre Compagnie",
+      "lang": "fr",
+      "translation": "Coming soon — the very illustrious Company"
+     },
+     {
+      "kind": "context",
+      "heading": "This particular printed notice",
+      "body": "The National Gallery of Art dates this sheet to 1896 and attributes it to Théophile Alexandre Steinlen. Its title records the phrase “la très illustre Compagnie du Chat Noir.” Those words and the programme below identify the specific notice discussed here.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "nga"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "company",
+    "number": 9,
+    "label": "The company named beside its animal",
+    "shortLabel": "Chat Noir",
+    "kicker": "LANGUAGE & DESIGN",
+    "summary": "Two large words and one large silhouette give the name different forms.",
+    "layerIndex": 3,
+    "x": 75.969,
+    "y": 35.5,
+    "bounds": {
+     "x": 55.2,
+     "y": 25.8,
+     "w": 39.7,
+     "h": 30.6
+    },
+    "question": "Which seems heavier at first glance: the name or the animal, and what creates that weight?",
+    "related": [
+     "head",
+     "headline",
+     "fur"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A name that can also be pictured",
+      "body": "Chat noir means “black cat.” Here the words belong to the company name announced above, while the animal supplies a literal image of the phrase. The large lettering lets the name remain prominent even for a reader who first notices the silhouette.",
+      "evidence": "observation",
+      "originalText": "CHAT NOIR",
+      "lang": "fr",
+      "translation": "BLACK CAT; here, the company name"
+     },
+     {
+      "kind": "design",
+      "heading": "Unequal letters, shared weight",
+      "body": "The C sweeps around the smaller letters of CHAT, while the tall N begins a second line below. Those changes of proportion make the name more varied than a regular block of capitals. Its dense black strokes balance the much larger but mostly undivided body on the left.",
+      "evidence": "observation"
+     }
+    ]
+   },
+   {
+    "id": "programme",
+    "number": 10,
+    "label": "What the company offers",
+    "shortLabel": "Programme",
+    "kicker": "LANGUAGE & BUSINESS",
+    "summary": "Smaller red lines turn a striking image into a performance notice.",
+    "layerIndex": 4,
+    "x": 72.093,
+    "y": 64.875,
+    "bounds": {
+     "x": 44,
+     "y": 53.8,
+     "w": 51,
+     "h": 20.5
+    },
+    "question": "Which parts of the programme would still be legible if the image were viewed from farther away?",
+    "related": [
+     "company",
+     "headline",
+     "salis"
+    ],
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Plays, poets and composers",
+      "body": "The wording offers celebrated shadow plays, poets and composers. “Pièces d’ombres” names shadow plays; it is not a description of the shadows in the cat illustration. The repeated “ses” means “its,” linking the different offerings back to the company named above.",
+      "evidence": "observation",
+      "originalText": "ses Pièces d’Ombres Célèbres, ses Poëtes, ses Compositeurs",
+      "lang": "fr",
+      "translation": "its celebrated shadow plays, its poets, its composers"
+     },
+     {
+      "kind": "business",
+      "heading": "Information at a closer distance",
+      "body": "These lines use smaller lettering than the company name and fit into the space to the right of the animal. The hierarchy allows the picture and name to attract attention first, then offers programme details to someone who stays long enough to read more closely.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "panel",
+    "number": 11,
+    "label": "The red announcement panel",
+    "shortLabel": "Red panel",
+    "kicker": "DESIGN & BUSINESS",
+    "summary": "A broad printed shape gathers the lower information.",
+    "layerIndex": 5,
+    "x": 86.434,
+    "y": 92.75,
+    "bounds": {
+     "x": 5,
+     "y": 73.6,
+     "w": 88,
+     "h": 22.5
+    },
+    "question": "Where does the panel behave like a flat colour area, and where does overlap give it another role?",
+    "related": [
+     "claws",
+     "salis",
+     "sheet"
+    ],
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A change from line to area",
+      "body": "Above this panel, red is mostly used for fine ornament and small lettering. Here it becomes a broad coloured area with a slightly irregular edge. That shift gives the bottom of the poster a strong visual base without requiring another large black shape.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A separate place for a name",
+      "body": "The panel groups the small word AVEC with the much larger Rodolphe Salis name. Its boundary separates that announcement from the programme above, while the tail crosses directly into it. The layout distinguishes the information without isolating it from the central image.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "salis",
+    "number": 12,
+    "label": "A name in two colours and scales",
+    "shortLabel": "Salis name",
+    "kicker": "LANGUAGE & DESIGN",
+    "summary": "Large dark initials work with thinner pale letters.",
+    "layerIndex": 6,
+    "x": 62.209,
+    "y": 82.75,
+    "bounds": {
+     "x": 17,
+     "y": 76,
+     "w": 74,
+     "h": 19.3
+    },
+    "question": "Which letters disappear first when you reduce the image, and which continue to signal the name?",
+    "related": [
+     "tail",
+     "panel",
+     "programme"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "With a named participant",
+      "body": "AVEC means “with,” introducing RODOLPHE SALIS beneath the programme. The large R and S begin the two parts of the name; the other letters are thinner and lighter. Reading the name requires looking around the tail where it passes across the lower panel.",
+      "evidence": "observation",
+      "originalText": "AVEC RODOLPHE SALIS",
+      "lang": "fr",
+      "translation": "WITH RODOLPHE SALIS"
+     },
+     {
+      "kind": "design",
+      "heading": "Legibility through difference",
+      "body": "The initials borrow the dark colour of the cat and large headline, while the pale smaller letters contrast with the red panel. Their irregular heights prevent the name from becoming one uniform line. The tail makes the first part more interrupted than the second.",
+      "evidence": "observation"
+     }
+    ]
+   },
+   {
+    "id": "printer",
+    "number": 13,
+    "label": "The vertical printer line",
+    "shortLabel": "Printer line",
+    "kicker": "DESIGN & CONTEXT",
+    "summary": "A small edge inscription records a different role from the large advertised names.",
+    "layerIndex": 3,
+    "x": 94.38,
+    "y": 84.75,
+    "bounds": {
+     "x": 92.8,
+     "y": 72.5,
+     "w": 3.5,
+     "h": 23.5
+    },
+    "question": "How does the direction and scale of this line distinguish it from the advertised programme?",
+    "related": [
+     "salis",
+     "sheet",
+     "headline"
+    ],
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A line at the edge of attention",
+      "body": "The printer inscription runs vertically beside the right edge of the red panel. It is much smaller than the company and participant names, and it requires a change of reading direction. Its placement keeps a production detail visible without competing with the central announcement.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Artist and printer are different roles",
+      "body": "The museum identifies Steinlen as the artist and Charles Verneau as the printer. The edge inscription supplies Verneau’s Paris address. These credits distinguish who designed the image from the named printing role; the poster does not explain every step of their production process.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "nga",
+        "note": "The exact object record identifies artist and printer separately and transcribes the right-edge imprint."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "sheet",
+    "number": 14,
+    "label": "The warm ground and outer margin",
+    "shortLabel": "Warm ground",
+    "kicker": "DESIGN & CONTEXT",
+    "summary": "Open colour holds together several kinds of mark.",
+    "layerIndex": 0,
+    "x": 10.465,
+    "y": 30.5,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 100,
+     "h": 100
+    },
+    "question": "Compare the ground inside the medallion with the open left margin: how does the surrounding detail change its apparent brightness?",
+    "related": [
+     "eyes",
+     "medallion",
+     "panel"
+    ],
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Space that remains active",
+      "body": "Warm light colour appears around the silhouette, between the medallion’s red strokes and inside gaps in the lettering. Those repeated openings connect otherwise separate parts of the composition. A narrow pale outer margin also gives the printed field a visible boundary in this reproduction.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "The object behind the digital image",
+      "body": "The museum records a colour lithograph on wove paper mounted on muslin. The digital image shows the front surface, not the reverse or mounting structure. Its warm colour is a reproduction sample, not a measurement of the original paper or a specification for printing ink.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "nga"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "nga",
+    "title": "National Gallery of Art — Prochainement, 1896",
+    "url": "https://www.nga.gov/artworks/166147-prochainement-la-tres-illustre-compagnie-du-chat-noir-poster-company-black-cat",
+    "kind": "Museum object record",
+    "summary": "Exact-edition catalogue record and public-domain image. Supports the date, artist and printer roles, medium and imprint; the close visual readings are observations of the installed reproduction."
+   }
+  ],
+  "tour": [
+   "headline",
+   "company",
+   "head",
+   "medallion",
+   "programme",
+   "tail",
+   "salis"
+  ],
+  "transcript": [
+   {
+    "heading": "The announcement",
+    "rows": [
+     {
+      "text": "Prochainement",
+      "meaning": "Coming soon",
+      "lang": "fr"
+     },
+     {
+      "text": "la très illustre Compagnie du Chat Noir",
+      "meaning": "the very illustrious Company of the Black Cat",
+      "lang": "fr"
+     }
+    ]
+   },
+   {
+    "heading": "The programme and participant",
+    "rows": [
+     {
+      "text": "avec ses Pièces d’Ombres Célèbres, ses Poëtes, ses Compositeurs",
+      "meaning": "with its celebrated shadow plays, its poets, its composers",
+      "lang": "fr"
+     },
+     {
+      "text": "AVEC RODOLPHE SALIS",
+      "meaning": "WITH RODOLPHE SALIS",
+      "lang": "fr"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected wording from the visible sheet; line breaks and capitalization are regularized. Poëtes retains the historical diaeresis shown in the lettering. The tiny printer line and partly obscured circular lettering are omitted here. This is the Prochainement edition, not a transcription of the related Tournée poster.",
+  "palette": [
+   {
+    "name": "Warm ochre ground",
+    "hex": "#d4a476",
+    "role": "Connects the open spaces around and between the printed marks.",
+    "region": "sheet"
+   },
+   {
+    "name": "Charcoal cat",
+    "hex": "#3f3a37",
+    "role": "Gives the silhouette its dense visual weight.",
+    "region": "fur"
+   },
+   {
+    "name": "Medallion brick red",
+    "hex": "#a64f3b",
+    "role": "Draws the fine medallion behind the head.",
+    "region": "medallion"
+   },
+   {
+    "name": "Panel red",
+    "hex": "#b33a32",
+    "role": "Forms a broad lower announcement area.",
+    "region": "panel"
+   },
+   {
+    "name": "Warm eye highlight",
+    "hex": "#ceac87",
+    "role": "Creates a small light interruption within the head.",
+    "region": "eyes"
+   }
+  ],
+  "paletteNote": "Samples from individual pixels in the installed 516 × 800 digital reproduction. They describe this image, not original ink formulas; antialiasing, paper colour and digitization affect the values.",
+  "connections": [
+   {
+    "label": "Name and image",
+    "title": "One black cat, two kinds of identity",
+    "text": "The large dark silhouette and the large words CHAT NOIR occupy opposite sides. Their shared ink weight makes the pictured animal and the company name easy to compare.",
+    "anchors": [
+     [
+      1,
+      0.28972868217054265,
+      0.520625
+     ],
+     [
+      3,
+      0.750968992248062,
+      0.340625
+     ],
+     [
+      3,
+      0.750968992248062,
+      0.480625
+     ]
+    ],
+    "id": "le-chat-noir-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Two kinds of curve",
+    "title": "A fine circle above a heavy curl",
+    "text": "The red medallion wraps around the head with many fine lines, while the tail curves broadly across the lower panel. Their related directions work at very different weights.",
+    "anchors": [
+     [
+      2,
+      0.29941860465116277,
+      0.289375
+     ],
+     [
+      1,
+      0.23934108527131784,
+      0.910625
+     ],
+     [
+      5,
+      0.7897286821705426,
+      0.920625
+     ]
+    ],
+    "id": "le-chat-noir-connection-1",
+    "colour": "#496f80"
+   },
+   {
+    "label": "A named programme",
+    "title": "From company to a named participant",
+    "text": "The smaller red programme wording leads toward a separate red panel with Rodolphe Salis’s name. Changes of colour and scale divide the information into stages.",
+    "anchors": [
+     [
+      4,
+      0.7005813953488372,
+      0.610625
+     ],
+     [
+      6,
+      0.6928294573643411,
+      0.850625
+     ],
+     [
+      5,
+      0.8594961240310077,
+      0.760625
+     ]
+    ],
+    "id": "le-chat-noir-connection-2",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

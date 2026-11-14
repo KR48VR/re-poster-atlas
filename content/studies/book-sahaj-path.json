@@ -1,0 +1,633 @@
+{
+ "poster": {
+  "id": "book-sahaj-path",
+  "title": "Sahaj Path",
+  "year": "1930",
+  "yearNumber": 1930,
+  "coverYear": "1930",
+  "bookFirstPublication": "1930",
+  "bookAuthor": "Rabindranath Tagore",
+  "bookPublisher": "Visva-Bharati / Shantiniketan Press",
+  "bookOrigin": "Bengali educational writing by Rabindranath Tagore in the Santiniketan/Visva-Bharati context of Bengal, then British India.",
+  "creator": "Nandalal Bose (attributed)",
+  "country": "India",
+  "countries": [
+   "India"
+  ],
+  "primaryOrigin": "India",
+  "region": "South Asia",
+  "category": "Book cover",
+  "image": "images/full/book-sahaj-path.png",
+  "ratio": 0.8070404172099087,
+  "alt": "A monochrome Bengali outer design with huge outlined title letters over horizontal white dashes, a tall branching tree below, thin ruled panels and small part and author wording at the foot.",
+  "blurb": "White branches and outlined Bengali letters animate a black-and-white page.",
+  "notes": [
+   {
+    "title": "The displayed edition",
+    "body": "Bichitra catalogue: Bengali Part I, 1337/1930. The illustrated outer design is page 6, preceding a separate title and imprint leaf. Exact wrapper terminology and cover attribution remain qualified."
+   },
+   {
+    "title": "Writing and image-making",
+    "body": "A scholarly cover-history review attributes the 1930 cover and illustrations to Bose. The primary NGMA journal supports his Sahaj Path illustrations but does not separately identify this outer tree design."
+   },
+   {
+    "title": "A visible design relationship",
+    "body": "The wide title panel gives way to a narrow tree. Straight rules organise the two organic forms while white side panels provide a pause."
+   }
+  ],
+  "source": "https://bichitra.jdvu.ac.in/printed/printed_viewer.php?prid=b_n_sjp_1337_b_01&pageno=6",
+  "credit": "A scholarly cover-history review attributes the 1930 cover and illustrations to Bose. The primary NGMA journal supports his Sahaj Path illustrations but does not separately identify this outer tree design.",
+  "reproduction": "Original 2476 × 3068 monochrome scan retained. It cannot establish the original paper or ink colours; no colour reconstruction is attempted.",
+  "anchor": [
+   0.44,
+   0.64
+  ],
+  "accent": "#384c41",
+  "edition": "Bichitra catalogue: Bengali Part I, 1337/1930. The illustrated outer design is page 6, preceding a separate title and imprint leaf. Exact wrapper terminology and cover attribution remain qualified.",
+  "imageSource": "https://bichitra.jdvu.ac.in/printed/printed_viewer.php?prid=b_n_sjp_1337_b_01&pageno=6",
+  "imageCredit": "A scholarly cover-history review attributes the 1930 cover and illustrations to Bose. The primary NGMA journal supports his Sahaj Path illustrations but does not separately identify this outer tree design.",
+  "coverPublisher": "Visva-Bharati / Shantiniketan Press",
+  "posterYear": "1930",
+  "posterTerritory": "India",
+  "posterDateStatus": "The displayed edition or catalogued object date; the original work date is recorded separately.",
+  "originNote": "Country and region describe the displayed edition’s publishing context. The author and work context are recorded separately.",
+  "originSources": [
+   {
+    "title": "Displayed edition record",
+    "url": "https://bichitra.jdvu.ac.in/printed/printed_viewer.php?prid=b_n_sjp_1337_b_01&pageno=6"
+   }
+  ],
+  "creditSources": [
+   {
+    "title": "NGMA Art Journal: Sahaj Path illustrations",
+    "url": "https://ngmaindia.gov.in/pdf/The-NGMA-ART-JOURNAL.pdf"
+   },
+   {
+    "title": "Scholarly cover-history review",
+    "url": "https://www.parabaas.com/article.php?id=8444"
+   }
+  ],
+  "downloadURL": "https://bichitra.jdvu.ac.in/utility/image.php?fpath=Y29udGVudC9wcmludGVkL2JhbmdsYS9ub25fZmljdGlvbi9zanAvQm9va3MvYl9uX3NqcF8xMzM3X2JfMDE%3D&img=00000006.gif",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-sahaj-path.webp"
+ },
+ "studyData": {
+  "intro": "Large Bengali letters and a branching tree share a ruled monochrome page. This illustrated outer design survives in Bichitra’s 1930 Part I scan. Its exact wrapper status and the separate cover-artist attribution remain qualified.",
+  "initial": "title",
+  "regions": [
+   {
+    "id": "title",
+    "number": 1,
+    "label": "Large Bengali forms fill the upper panel",
+    "shortLabel": "Bengali title",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "The large title forms occupy nearly the whole dark upper panel.",
+    "layerIndex": 3,
+    "x": 26.99919,
+    "y": 19.99674,
+    "bounds": {
+     "x": 16,
+     "y": 12,
+     "w": 54,
+     "h": 30
+    },
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "The large title forms occupy nearly the whole dark upper panel. Broad black bodies are separated from the busy surrounding field by white outlines.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The title is both readable language and a dominant image. Its broad curves can be compared with the branching structure below without equating writing with a picture.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "language",
+      "heading": "A primer’s Bengali title",
+      "body": "সহজ পাঠ is read Sahaj Path and refers to easy or simple reading. The selected transcript gives the main title and small part and author wording; it does not reproduce the whole book’s educational text.",
+      "evidence": "observation",
+      "sources": [],
+      "originalText": "সহজ পাঠ",
+      "lang": "bn",
+      "translation": "Sahaj Path; easy or simple reading"
+     }
+    ],
+    "question": "What do you notice first in the title: words, curves or the contrast of black and white?",
+    "related": [
+     "outline",
+     "tree"
+    ]
+   },
+   {
+    "id": "outline",
+    "number": 2,
+    "label": "White contours keep letters distinct",
+    "shortLabel": "White outlines",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "White contours follow the large black title bodies.",
+    "layerIndex": 3,
+    "x": 40.04443,
+    "y": 23.97327,
+    "bounds": {
+     "x": 35,
+     "y": 14,
+     "w": 20,
+     "h": 24
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "White contours follow the large black title bodies. These continuous edges remain different from the short horizontal white marks outside the letters.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The outlines let the title stay legible inside a patterned field. Their continuity matters as much as their colour because the surrounding pattern uses white too.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How do you distinguish a letter outline from the surrounding white dashes?",
+    "related": [
+     "pattern",
+     "branches"
+    ]
+   },
+   {
+    "id": "pattern",
+    "number": 3,
+    "label": "Short marks make a dense field",
+    "shortLabel": "Horizontal marks",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Short pale horizontal dashes repeat across the dark title panel.",
+    "layerIndex": 2,
+    "x": 69.00242,
+    "y": 36.00065,
+    "bounds": {
+     "x": 14,
+     "y": 10,
+     "w": 61,
+     "h": 32
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Short pale horizontal dashes repeat across the dark title panel. Their lengths and spacing vary around the much larger lettering.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The small repeated marks establish a background rhythm. The title interrupts that rhythm with larger connected forms rather than relying on a new colour.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Why do the letters remain dominant even though the pattern covers so much area?",
+    "related": [
+     "tree",
+     "trunk"
+    ]
+   },
+   {
+    "id": "tree",
+    "number": 4,
+    "label": "A narrow tree follows a wide title",
+    "shortLabel": "The tree",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "A tall dark tree stands below the wide title panel.",
+    "layerIndex": 4,
+    "x": 46.99111,
+    "y": 59.99022,
+    "bounds": {
+     "x": 32,
+     "y": 43,
+     "w": 28,
+     "h": 41
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "A tall dark tree stands below the wide title panel. Its canopy has many rounded lobes around a white branching interior.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The change from a wide upper block to a narrow vertical tree creates a clear second movement. The tree can anchor the page without matching the title’s width.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the narrow tree balance the much wider panel above it?",
+    "related": [
+     "branches",
+     "frame"
+    ]
+   },
+   {
+    "id": "branches",
+    "number": 5,
+    "label": "White makes the branching structure",
+    "shortLabel": "White branches",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "White lines divide and turn inside the dark tree canopy.",
+    "layerIndex": 4,
+    "x": 45.01212,
+    "y": 65.00978,
+    "bounds": {
+     "x": 37,
+     "y": 51,
+     "w": 17,
+     "h": 25
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "White lines divide and turn inside the dark tree canopy. They thicken near the lower centre and narrow as they reach smaller branches.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The light interior makes a tree readable within an almost solid dark silhouette. It shows how a pale absence can do descriptive work usually assigned to a dark line.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would the tree remain as clear if the white branches were filled with black?",
+    "related": [
+     "trunk",
+     "quiet-panels"
+    ]
+   },
+   {
+    "id": "trunk",
+    "number": 6,
+    "label": "The canopy reaches the ground",
+    "shortLabel": "Trunk & base",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "A narrower trunk and small dark ground marks continue below the canopy.",
+    "layerIndex": 4,
+    "x": 44.00242,
+    "y": 83.00196,
+    "bounds": {
+     "x": 37,
+     "y": 77,
+     "w": 17,
+     "h": 11
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "A narrower trunk and small dark ground marks continue below the canopy. The tree does not end as a detached floating crown.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The taper from canopy to trunk gives the form a coherent structure. Its grounded base can make the straight surrounding rules feel like a setting rather than a cage.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which small marks most clearly make the tree feel planted?",
+    "related": [
+     "frame",
+     "part"
+    ]
+   },
+   {
+    "id": "frame",
+    "number": 7,
+    "label": "Straight rules organise organic forms",
+    "shortLabel": "Ruled frame",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Thin straight rules enclose the page and divide the lower area into narrow panels.",
+    "layerIndex": 1,
+    "x": 79.62439,
+    "y": 61.09844,
+    "bounds": {
+     "x": 9,
+     "y": 5,
+     "w": 72,
+     "h": 89
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Thin straight rules enclose the page and divide the lower area into narrow panels. Their slight skew follows the scanned physical sheet.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The rectilinear structure gives order to the curving letters and irregular canopy. The two systems remain distinct while sharing the same black-and-white vocabulary.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where is the contrast between straight rule and organic curve strongest?",
+    "related": [
+     "quiet-panels",
+     "author"
+    ]
+   },
+   {
+    "id": "quiet-panels",
+    "number": 8,
+    "label": "White side areas provide a pause",
+    "shortLabel": "Quiet side panels",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Large pale panels remain on either side of the central tree.",
+    "layerIndex": 0,
+    "x": 20.01212,
+    "y": 62.01108,
+    "bounds": {
+     "x": 13,
+     "y": 46,
+     "w": 15,
+     "h": 34
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Large pale panels remain on either side of the central tree. They contain far fewer marks than the dense title field above.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "These quieter areas let the tree retain a readable silhouette. They also slow the eye after the crowded upper panel, creating a different pace of looking.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How would the tree change if the side panels repeated the title’s dense pattern?",
+    "related": [
+     "part",
+     "title"
+    ]
+   },
+   {
+    "id": "part",
+    "number": 9,
+    "label": "A small label identifies the part",
+    "shortLabel": "Part I wording",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Small Bengali wording appears in the lower left panel beneath the tree’s height.",
+    "layerIndex": 5,
+    "x": 21.99111,
+    "y": 86.00065,
+    "bounds": {
+     "x": 12,
+     "y": 83,
+     "w": 18,
+     "h": 6
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Small Bengali wording appears in the lower left panel beneath the tree’s height. It is separated from the large title by both space and a change of scale.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The label provides an organisational cue without disturbing the dominant forms. Its smallness makes a practical detail part of a second, closer reading.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "business",
+      "heading": "The displayed leaf and its limits",
+      "body": "Bichitra catalogues this Bengali Part I volume as 1337, corresponding to 1930. The illustrated outer design is scan page 6, before a separate title and imprint leaf. The monochrome scan establishes the forms shown here, but cannot establish the original paper or ink colours.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "object"
+       }
+      ]
+     }
+    ],
+    "question": "What kind of information belongs in this quiet corner rather than the large title panel?",
+    "related": [
+     "author",
+     "outline"
+    ]
+   },
+   {
+    "id": "author",
+    "number": 10,
+    "label": "The writer’s name near the foot",
+    "shortLabel": "Tagore’s name",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Rabindranath Tagore’s name is printed in a small Bengali line at the lower right.",
+    "layerIndex": 5,
+    "x": 65.00404,
+    "y": 85.80508,
+    "bounds": {
+     "x": 51,
+     "y": 83,
+     "w": 28,
+     "h": 6
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Rabindranath Tagore’s name is printed in a small Bengali line at the lower right. It balances the shorter part wording across the base.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The paired small lines make a quiet footer below the visual drama. Their positions help complete the page while leaving the tree as the lower pictorial focus.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "context",
+      "heading": "Writing, illustration and a qualified attribution",
+      "body": "Tagore wrote Sahaj Path. The NGMA journal documents Nandalal Bose’s illustrations for the work; a scholarly cover-history review also attributes the 1930 cover to him. Because the primary journal does not individually identify this outer design, the cover attribution remains qualified here.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "ngma"
+       },
+       {
+        "id": "cover-history"
+       },
+       {
+        "id": "object"
+       }
+      ]
+     }
+    ],
+    "question": "How do the two small bottom labels balance one another?",
+    "related": [
+     "title",
+     "pattern"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "object",
+    "title": "Sahaj Path: the displayed reproduction",
+    "url": "https://bichitra.jdvu.ac.in/printed/printed_viewer.php?prid=b_n_sjp_1337_b_01&pageno=6",
+    "kind": "University digital archive",
+    "summary": "Bichitra catalogue: Bengali Part I, 1337/1930. The illustrated outer design is page 6, preceding a separate title and imprint leaf. Exact wrapper terminology and cover attribution remain qualified. Original 2476 × 3068 monochrome scan retained. It cannot establish the original paper or ink colours; no colour reconstruction is attempted."
+   },
+   {
+    "id": "ngma",
+    "title": "NGMA Art Journal: Nandalal Bose and Sahaj Path",
+    "url": "https://ngmaindia.gov.in/pdf/The-NGMA-ART-JOURNAL.pdf",
+    "kind": "National museum journal",
+    "summary": "The May–July 2022 issue discusses Bose’s Sahaj Path illustrations, their 1929–30 development and 1930 publication; it does not separately identify this tree outer design."
+   },
+   {
+    "id": "cover-history",
+    "title": "Parabaas: a scholarly cover-history review",
+    "url": "https://www.parabaas.com/article.php?id=8444",
+    "kind": "Secondary scholarly review",
+    "summary": "Discusses Bengali cover history and attributes the 1930 Sahaj Path cover and illustrations to Bose, citing Sombrata Sarkar’s study."
+   }
+  ],
+  "tour": [
+   "title",
+   "outline",
+   "pattern",
+   "tree",
+   "branches",
+   "author",
+   "part"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "সহজ পাঠ",
+      "meaning": "Sahaj Path; an easy or simple reading primer.",
+      "lang": "bn"
+     },
+     {
+      "text": "প্রথম ভাগ",
+      "meaning": "Part I.",
+      "lang": "bn"
+     },
+     {
+      "text": "রবীন্দ্রনাথ ঠাকুর",
+      "meaning": "Rabindranath Tagore.",
+      "lang": "bn"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected clearly legible title and credit wording is transcribed from the displayed reproduction. Line breaks are simplified; this is not a transcription of every small mark or an identification of the typefaces.",
+  "palette": [
+   {
+    "name": "Title black",
+    "hex": "#000000",
+    "role": "The black body of the Bengali title in this monochrome scan.",
+    "region": "title"
+   },
+   {
+    "name": "Outline white",
+    "hex": "#FFFFFF",
+    "role": "The white contour that separates title from pattern.",
+    "region": "outline"
+   },
+   {
+    "name": "Tree black",
+    "hex": "#000000",
+    "role": "The dark canopy of the scanned tree.",
+    "region": "tree"
+   },
+   {
+    "name": "Branch white",
+    "hex": "#FFFFFF",
+    "role": "The white branching interior of the tree.",
+    "region": "branches"
+   }
+  ],
+  "paletteNote": "This source is a monochrome scan. Black and white samples describe that scan only; the original cover’s colours are not established.",
+  "connections": [
+   {
+    "label": "Branching forms",
+    "title": "Letters and wood",
+    "text": "The large curves of Bengali lettering and the white tree branches both turn and divide.",
+    "anchors": [
+     [
+      3,
+      0.42992730210016156,
+      0.22995436766623206
+     ],
+     [
+      4,
+      0.45012116316639744,
+      0.6500977835723598
+     ]
+    ],
+    "id": "book-sahaj-path-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Two rhythms",
+    "title": "A tree between rules",
+    "text": "The tree’s irregular silhouette sits within a straight ruled framework.",
+    "anchors": [
+     [
+      4,
+      0.45981421647819065,
+      0.5999022164276402
+     ],
+     [
+      1,
+      0.5809773828756059,
+      0.5999022164276402
+     ]
+    ],
+    "id": "book-sahaj-path-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

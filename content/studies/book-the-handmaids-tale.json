@@ -1,0 +1,598 @@
+{
+ "poster": {
+  "id": "book-the-handmaids-tale",
+  "title": "The Handmaid’s Tale",
+  "year": "2025",
+  "yearNumber": 2025,
+  "coverYear": "2025",
+  "posterYear": "2025",
+  "posterDateStatus": "2025 anniversary paperback; publisher describes the image as original cover art. This is not a claim that the painting was made in 2025.",
+  "bookFirstPublication": "1985",
+  "bookAuthor": "Margaret Atwood",
+  "bookPublisher": "Vintage",
+  "bookOrigin": "English-language novel by Margaret Atwood",
+  "category": "Book cover",
+  "country": "United States",
+  "countries": [
+   "United States"
+  ],
+  "primaryOrigin": "United States",
+  "region": "North America",
+  "creator": "Cover artist not independently established",
+  "image": "images/full/book-the-handmaids-tale.jpg",
+  "ratio": 0.6688888888888889,
+  "alt": "A cream cover with black title and author above a tall curved brick wall, narrow blue sky and two small red-cloaked figures.",
+  "blurb": "Two tiny red figures meet an enormous wall: scale makes the scene quietly uneasy.",
+  "notes": [
+   {
+    "title": "Scale makes the encounter",
+    "body": "The brick wall towers over the red figures. Compare the size of one head with the repeated bricks before reading the scene as protective or restrictive."
+   },
+   {
+    "title": "A small opening",
+    "body": "Only a narrow strip of sky remains above the wall. Its blue contrasts with the warm masonry and offers a direction beyond the enclosed ground."
+   },
+   {
+    "title": "A later edition of an earlier novel",
+    "body": "The publisher dates this anniversary paperback to 2025 and the novel to 1985. Its statement about original cover art does not identify the artist."
+   }
+  ],
+  "source": "https://www.penguinrandomhouse.com/books/815632/the-handmaids-tale-deluxe-edition-by-margaret-atwood/",
+  "credit": "Vintage deluxe paperback, ISBN 9798217009114; Penguin Random House supplies this cover image. Artist not identified in the checked edition record.",
+  "edition": "2025 anniversary paperback; publisher describes the image as original cover art. This is not a claim that the painting was made in 2025.",
+  "originNote": "Country describes this edition’s publishing/design context, not the author’s nationality. US Vintage edition of a novel by Canadian author Margaret Atwood.",
+  "originSources": [
+   {
+    "title": "Penguin Random House: Vintage deluxe edition",
+    "url": "https://www.penguinrandomhouse.com/books/815632/the-handmaids-tale-deluxe-edition-by-margaret-atwood/"
+   }
+  ],
+  "creditSources": [
+   {
+    "title": "Penguin Random House: Vintage deluxe edition",
+    "url": "https://www.penguinrandomhouse.com/books/815632/the-handmaids-tale-deluxe-edition-by-margaret-atwood/"
+   }
+  ],
+  "imageSource": "https://www.penguinrandomhouse.com/books/815632/the-handmaids-tale-deluxe-edition-by-margaret-atwood/",
+  "imageCredit": "Vintage deluxe paperback, ISBN 9798217009114; Penguin Random House supplies this cover image. Artist not identified in the checked edition record.",
+  "accent": "#CA2C20",
+  "anchor": [
+   0.51,
+   0.82
+  ],
+  "reproduction": "Source reproduction retained without generative reconstruction. Analytical layers partition visible source pixels; printing colours and hidden artwork cannot be recovered.",
+  "downloadURL": "https://images2.penguinrandomhouse.com/cover/9798217009114",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-the-handmaids-tale.webp"
+ },
+ "studyData": {
+  "intro": "Two tiny red figures meet an enormous wall: scale makes the scene quietly uneasy. Follow the details to compare what is visible, what can be interpreted and what the edition record establishes.",
+  "initial": "red",
+  "regions": [
+   {
+    "id": "wall",
+    "number": 1,
+    "label": "A wall much larger than its figures",
+    "shortLabel": "Wall",
+    "kicker": "DESIGN",
+    "summary": "The wall fills most of the illustrated rectangle.",
+    "layerIndex": 2,
+    "x": 63,
+    "y": 53,
+    "bounds": {
+     "x": 9,
+     "y": 23,
+     "w": 83,
+     "h": 70
+    },
+    "question": "Which part of the wall makes its size clearest: its top, its bricks or the figures beside it?",
+    "related": [
+     "red",
+     "sky"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Wall in the image",
+      "body": "The wall fills most of the illustrated rectangle. Its small repeated bricks become a dense texture, while the two figures remain isolated patches of red near its base. The wall’s height is measured indirectly through those tiny bodies.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Scale and a possible sense of enclosure",
+      "body": "The disparity of scale can suggest confinement, protection or institutional power. None is a fact about the painter’s intention. Test the alternatives by looking at the wall’s uninterrupted surface and the amount of ground left for the figures.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "curve",
+    "number": 2,
+    "label": "The boundary bends away",
+    "shortLabel": "Curved boundary",
+    "kicker": "DESIGN",
+    "summary": "The wall’s upper edge slopes down towards the right in a broad curve.",
+    "layerIndex": 2,
+    "x": 72,
+    "y": 38,
+    "bounds": {
+     "x": 10,
+     "y": 22,
+     "w": 82,
+     "h": 32
+    },
+    "question": "Where does your eye go when you follow the top edge, and where does that route stop?",
+    "related": [
+     "red",
+     "wall"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Curved boundary in the image",
+      "body": "The wall’s upper edge slopes down towards the right in a broad curve. Rows of brick follow that turn. The left side appears nearer, while the far end stays beyond the right edge of the illustrated scene.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A route for the eye, with no visible exit",
+      "body": "The curve lets the eye travel, but offers no visible exit. Its smooth continuity contrasts with the small repeated brick joints. Following the upper edge slowly produces a different reading from concentrating on the individual units of masonry.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "sky",
+    "number": 3,
+    "label": "A narrow opening above the wall",
+    "shortLabel": "Sky opening",
+    "kicker": "DESIGN",
+    "summary": "A thin strip of blue sky lies between the high wall and the upper border of the illustration.",
+    "layerIndex": 1,
+    "x": 71,
+    "y": 26,
+    "bounds": {
+     "x": 8,
+     "y": 19,
+     "w": 84,
+     "h": 28
+    },
+    "question": "Cover the blue strip. How does the wall’s weight change?",
+    "related": [
+     "red",
+     "wall"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Sky opening in the image",
+      "body": "A thin strip of blue sky lies between the high wall and the upper border of the illustration. Its width changes as the wall curves down. Pale cloud patches soften this otherwise narrow, cool-coloured opening.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Relief through a change of colour and texture",
+      "body": "The sky can feel like relief because it offers a different colour and texture from the masonry. That effect comes from the local contrast; blue need not carry the same emotional meaning in every image or for every viewer.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "red",
+    "number": 4,
+    "label": "A small red silhouette",
+    "shortLabel": "Red cloak",
+    "kicker": "DESIGN",
+    "summary": "The more complete figure has a white head covering and a red cloak that widens towards the ground.",
+    "layerIndex": 3,
+    "x": 51,
+    "y": 82,
+    "bounds": {
+     "x": 39,
+     "y": 68,
+     "w": 20,
+     "h": 24
+    },
+    "question": "Would the figure still attract you if its cloak matched the brick colour?",
+    "related": [
+     "wall",
+     "sky"
+    ],
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Red cloak in the image",
+      "body": "The more complete figure has a white head covering and a red cloak that widens towards the ground. Its red is much more saturated than the wall or floor. Small folds distinguish the body from a simple triangular colour patch.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A small figure that competes with a wall",
+      "body": "The figure becomes a focal point through contrast rather than size. Red does not need a universal symbolic meaning to stand out here: its concentration and isolation already explain why this small area can compete with a much larger wall.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "context",
+      "heading": "The story behind the uniform",
+      "body": "The publisher’s synopsis places Offred in the fictional Republic of Gilead, where women assigned as Handmaids are subjected to reproductive servitude. That context gives the uniform a narrative setting; it does not identify either small painted figure as a specific character.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "handmaid"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "cropped",
+    "number": 5,
+    "label": "A second figure meets the edge",
+    "shortLabel": "Cropped figure",
+    "kicker": "DESIGN",
+    "summary": "A second red figure enters near the lower-right edge of the illustration.",
+    "layerIndex": 3,
+    "x": 64,
+    "y": 93,
+    "bounds": {
+     "x": 57,
+     "y": 85,
+     "w": 15,
+     "h": 11
+    },
+    "question": "What changes if you cover the incomplete figure at the edge?",
+    "related": [
+     "red",
+     "wall"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Cropped figure in the image",
+      "body": "A second red figure enters near the lower-right edge of the illustration. Much of its body is cut off by the border. A pale head covering links it visually with the more complete figure farther left.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Two figures, two kinds of presence",
+      "body": "The crop suggests that the scene continues beyond the printed rectangle. It also prevents the two bodies from becoming a balanced pair: one can be examined, while the other is encountered only in part. Compare the two different kinds of presence.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "ground",
+    "number": 6,
+    "label": "An open floor below the pattern",
+    "shortLabel": "Open ground",
+    "kicker": "DESIGN",
+    "summary": "The ground is relatively plain compared with the rows of small bricks.",
+    "layerIndex": 0,
+    "x": 24,
+    "y": 84,
+    "bounds": {
+     "x": 8,
+     "y": 70,
+     "w": 65,
+     "h": 25
+    },
+    "question": "Where is the least visually busy place in the illustration, and what does it help you see?",
+    "related": [
+     "red",
+     "wall"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Open ground in the image",
+      "body": "The ground is relatively plain compared with the rows of small bricks. Its warm, muted tones sit close to the masonry in colour, but without the same repeated grid. The figures interrupt this quieter lower area.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Quiet ground makes the figures legible",
+      "body": "A quiet surface can make a small object legible. Here the floor gives the red silhouettes space to register before the eye returns to the busier wall. The distinction is a matter of visual density as much as colour.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "title",
+    "number": 7,
+    "label": "The title becomes a firm upper edge",
+    "shortLabel": "Book title",
+    "kicker": "LANGUAGE",
+    "summary": "Black capital letters stretch across the pale cover above the illustration.",
+    "layerIndex": 4,
+    "x": 47,
+    "y": 8,
+    "bounds": {
+     "x": 6,
+     "y": 4,
+     "w": 87,
+     "h": 8
+    },
+    "question": "Does the title feel attached to the scene or placed above it?",
+    "related": [
+     "red",
+     "wall"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Book title in the image",
+      "body": "Black capital letters stretch across the pale cover above the illustration. Their thick vertical strokes and narrow gaps make a compact line. The title remains separate from the painted scene, with a clear boundary between words and image.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A caption or a structural beam?",
+      "body": "The title’s firmness can reinforce the wall’s sense of enclosure, but the two use different systems: one is a readable line, the other a pictorial surface. Compare their widths and ask whether the title feels like a caption or a structural beam.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "author",
+    "number": 8,
+    "label": "The author name nearly matches the title",
+    "shortLabel": "Author name",
+    "kicker": "LANGUAGE",
+    "summary": "MARGARET ATWOOD occupies another large black line directly beneath the title.",
+    "layerIndex": 4,
+    "x": 47,
+    "y": 14.33,
+    "bounds": {
+     "x": 6,
+     "y": 12,
+     "w": 88,
+     "h": 6
+    },
+    "question": "Which line do you read first, and what helps determine that order?",
+    "related": [
+     "red",
+     "wall"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Author name in the image",
+      "body": "MARGARET ATWOOD occupies another large black line directly beneath the title. Its lettering shares the title’s colour and emphatic weight. The small gap between these two lines makes them read as a paired block before the picture begins.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Recognising a name before entering the scene",
+      "body": "Giving the author comparable space makes recognition of the name part of the cover’s invitation. That is a reading of hierarchy, not evidence of sales. A reader who knows the author and one who does not may enter the cover differently.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "anniversary",
+    "number": 9,
+    "label": "Small wording dates the edition",
+    "shortLabel": "Anniversary line",
+    "kicker": "DESIGN",
+    "summary": "A small anniversary line sits above the large title.",
+    "layerIndex": 4,
+    "x": 50.33,
+    "y": 3,
+    "bounds": {
+     "x": 31,
+     "y": 1.5,
+     "w": 39,
+     "h": 2.5
+    },
+    "question": "What would go wrong if the anniversary edition’s date were treated as the painting’s creation date?",
+    "related": [
+     "red",
+     "wall"
+    ],
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Anniversary line in the image",
+      "body": "A small anniversary line sits above the large title. It is much less visually dominant than either the title or author, yet it provides a different sort of information: it describes the edition’s relationship to the book’s publication history.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A 2025 edition of a 1985 novel",
+      "body": "Penguin Random House dates this Vintage deluxe paperback to 23 September 2025 and identifies the novel as a 1985 work. The publisher describes the cover as using original cover art; the checked record does not identify its artist or independently date the painting.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "handmaid"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "frame",
+    "number": 10,
+    "label": "The pale margin keeps two worlds apart",
+    "shortLabel": "Pale frame",
+    "kicker": "DESIGN",
+    "summary": "The cream outer field surrounds the illustrated rectangle and continues behind the black lettering.",
+    "layerIndex": 0,
+    "x": 4,
+    "y": 52,
+    "bounds": {
+     "x": 0,
+     "y": 18,
+     "w": 10,
+     "h": 81
+    },
+    "question": "How would the cover feel if the painting filled the entire sheet?",
+    "related": [
+     "red",
+     "wall"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Pale frame in the image",
+      "body": "The cream outer field surrounds the illustrated rectangle and continues behind the black lettering. Its comparatively even surface contrasts with the detailed painted masonry. The visible border keeps the scene recognisable as an image placed within a designed cover.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A pause before the pictured world",
+      "body": "The border creates a pause between the edge of the physical cover and the pictured world. Try imagining the wall extended to every edge: the lettering would have to compete directly with the painting, and the sense of looking into a scene would change.",
+      "evidence": "interpretation"
+     }
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "visual",
+    "title": "Exact reproduced cover: The Handmaid’s Tale",
+    "url": "https://www.penguinrandomhouse.com/books/815632/the-handmaids-tale-deluxe-edition-by-margaret-atwood/",
+    "kind": "Visual source",
+    "summary": "Vintage deluxe paperback, ISBN 9798217009114; Penguin Random House supplies this cover image. Artist not identified in the checked edition record."
+   },
+   {
+    "id": "handmaid",
+    "title": "Penguin Random House: Vintage deluxe edition",
+    "url": "https://www.penguinrandomhouse.com/books/815632/the-handmaids-tale-deluxe-edition-by-margaret-atwood/",
+    "kind": "Publisher edition record",
+    "summary": "Penguin Random House dates this Vintage deluxe paperback to 23 September 2025 and identifies the novel as a 1985 work. The publisher describes the cover as using original cover art; the checked record does not identify its artist or independently date the painting."
+   }
+  ],
+  "tour": [
+   "red",
+   "wall",
+   "sky",
+   "curve",
+   "title",
+   "anniversary"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected legible cover wording",
+    "rows": [
+     {
+      "text": "THE HANDMAID’S TALE",
+      "meaning": "Book title",
+      "lang": "en"
+     },
+     {
+      "text": "MARGARET ATWOOD",
+      "meaning": "Author",
+      "lang": "en"
+     },
+     {
+      "text": "40TH ANNIVERSARY EDITION",
+      "meaning": "Edition statement",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected wording only. Line breaks and typographic case may be regularized. Fine print and endorsement prose are omitted where not needed for this reading. English meanings are editorial translations, not a claim of native-language reader testing.",
+  "palette": [
+   {
+    "name": "Cream paper",
+    "hex": "#F3EDC9",
+    "role": "A screen sample from pale frame. Compare this local colour with its surrounding shapes.",
+    "region": "frame"
+   },
+   {
+    "name": "Warm brick",
+    "hex": "#B79A62",
+    "role": "A screen sample from wall. Compare this local colour with its surrounding shapes.",
+    "region": "wall"
+   },
+   {
+    "name": "Cloak red",
+    "hex": "#CA2C20",
+    "role": "A screen sample from red cloak. Compare this local colour with its surrounding shapes.",
+    "region": "red"
+   },
+   {
+    "name": "Sky blue",
+    "hex": "#74A4D2",
+    "role": "A screen sample from sky opening. Compare this local colour with its surrounding shapes.",
+    "region": "sky"
+   }
+  ],
+  "paletteNote": "Samples are exact pixels from the installed reproduction, chosen within the named feature for perceptual agreement. They describe this screen image, not original ink specifications, paper stock or universal colour meanings.",
+  "connections": [
+   {
+    "title": "A small figure measures a large wall",
+    "anchors": [
+     [
+      3,
+      0.5099667774086378,
+      0.8211111111111111
+     ],
+     [
+      2,
+      0.6295681063122923,
+      0.53
+     ]
+    ],
+    "id": "book-the-handmaids-tale-connection-0",
+    "colour": "#be3d74",
+    "label": "Figure / wall",
+    "text": "The tiny red body gives the towering masonry a human scale; compare one head with the repeated bricks."
+   },
+   {
+    "title": "A narrow opening above the enclosure",
+    "anchors": [
+     [
+      1,
+      0.7093023255813954,
+      0.2611111111111111
+     ],
+     [
+      2,
+      0.7192691029900332,
+      0.3811111111111111
+     ]
+    ],
+    "id": "book-the-handmaids-tale-connection-1",
+    "colour": "#496f80",
+    "label": "Sky / wall",
+    "text": "The blue strip supplies the clearest cool contrast to the warm wall, while its changing width follows the curved upper edge."
+   }
+  ]
+ }
+}

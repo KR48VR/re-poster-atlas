@@ -1,0 +1,573 @@
+{
+ "poster": {
+  "id": "parasite",
+  "title": "Parasite",
+  "year": "2019",
+  "yearNumber": 2019,
+  "country": "South Korea",
+  "region": "East Asia",
+  "category": "Film",
+  "creator": "Kim Sang-man",
+  "filmCreator": "Bong Joon-ho",
+  "edition": "Korean theatrical release poster",
+  "image": "images/full/parasite.jpg",
+  "ratio": 0.701058201058201,
+  "alt": "Korean Parasite poster showing people spaced across a green lawn before a modern house, black and white bars over their eyes, cropped legs at lower left and a white title strip below.",
+  "blurb": "A calm lawn and ordered house become unsettling through scattered bodies and concealed eyes.",
+  "notes": [
+   {
+    "title": "Architecture organises the people",
+    "body": "The straight lines of the house divide the background into clear rectangles. People occupy separate points in front of it, creating an arrangement that feels deliberate rather than casually social."
+   },
+   {
+    "title": "Concealment creates the disturbance",
+    "body": "Bars across the eyes prevent the portraits from offering ordinary eye contact. The otherwise placid domestic image becomes difficult to read because a crucial part of each face has been withheld."
+   },
+   {
+    "title": "The edge carries a question",
+    "body": "A pair of legs enters from the lower left without its owner fully appearing. That fragment interrupts the neat view of the lawn and makes the unseen space beyond the frame part of the story."
+   }
+  ],
+  "source": "https://www.bfi.org.uk/film/08462aec-21ae-5910-98e5-6e79f4dbbc4e/parasite",
+  "imageSource": "https://en.wikipedia.org/wiki/File:Parasite_(2019_film).png",
+  "imageCredit": "Copyright in the poster remains with its respective studio, distributor or artist. Low-resolution reproduction via Wikipedia for visual commentary; see the image source record.",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/en/5/53/Parasite_%282019_film%29.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+  "anchor": [
+   0.57,
+   0.52
+  ],
+  "accent": "#4e7656",
+  "yearNote": "Year refers to the film’s first release; the poster edition is identified separately.",
+  "creatorSource": "https://www.criterion.com/films/30619-parasite",
+  "credit": "Copyright in the poster remains with its respective studio, distributor or artist. Low-resolution reproduction via Wikipedia for visual commentary; see the image source record.",
+  "countries": [
+   "South Korea"
+  ],
+  "primaryOrigin": "South Korea",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/parasite.webp"
+ },
+ "studyData": {
+  "intro": "A lawn, a modern house and carefully spaced people could make a calm domestic photograph. Covered eyes, a cropped body and an isolated ball complicate that first reading. This study follows the visible clues without revealing later plot events or pretending that a poster can fully explain the film’s class relationships.",
+  "initial": "parasite-figure",
+  "regions": [
+   {
+    "id": "parasite-figure",
+    "number": 1,
+    "label": "The standing figure at the front",
+    "shortLabel": "The standing figure at the front",
+    "kicker": "A SEPARATED UPRIGHT BODY",
+    "summary": "A full-length person gives the garden a central axis.",
+    "x": 67.5,
+    "y": 49,
+    "bounds": {
+     "x": 54,
+     "y": 25,
+     "w": 27,
+     "h": 48
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A separated upright body",
+      "body": "The dark-clothed man stands near the centre-right, facing outward with arms close to his sides. His complete vertical silhouette contrasts with the horizontal loungers and the cropped legs at the bottom. Open lawn around him makes the spacing between people especially visible.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A grouping that does not quite unite",
+      "body": "The figures share a garden but do not form a conventional smiling group portrait. Distance, posture and unequal scale keep their relationships uncertain. This is a reading of the arrangement; it should not be used to assign moral qualities to a person based on clothing alone.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How would the image change if this figure stood with the seated group?",
+    "related": [
+     "parasite-eyes",
+     "parasite-house"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "parasite-eyes",
+    "number": 2,
+    "label": "A bar interrupts eye contact",
+    "shortLabel": "A bar interrupts eye contact",
+    "kicker": "A SMALL OBSTRUCTION WITH A LARGE EFFECT",
+    "summary": "A crucial portrait feature is withheld.",
+    "x": 68,
+    "y": 30,
+    "bounds": {
+     "x": 62,
+     "y": 27,
+     "w": 12,
+     "h": 6
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A small obstruction with a large effect",
+      "body": "A horizontal dark band crosses the foreground face at eye level. The rest of the head remains visible, so the intervention does not erase the person completely. It specifically blocks the feature viewers often use to judge where someone is looking.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Concealment without a single answer",
+      "body": "The bar can suggest anonymity, concealment or an obstacle to ordinary recognition. Other figures also have obscured eyes, with different tonal treatments. These effects invite questions about relationships, but the poster alone does not establish a single official explanation for every bar.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What can you still infer from a face when its eyes are hidden?",
+    "related": [
+     "parasite-figure",
+     "parasite-doorway"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "parasite-doorway",
+    "number": 3,
+    "label": "A smaller person near the house",
+    "shortLabel": "A smaller person near the house",
+    "kicker": "A SLIM BODY AMONG UPRIGHT LINES",
+    "summary": "Scale and placement create another distance.",
+    "x": 49,
+    "y": 41.5,
+    "bounds": {
+     "x": 43,
+     "y": 31,
+     "w": 12,
+     "h": 21
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A slim body among upright lines",
+      "body": "A small figure stands near the central doorway. The pale upper clothing contrasts with the dark interior and neighbouring vertical frame. Its reduced size, together with its position closer to the building, gives a different depth from the foreground person.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A threshold as a social question",
+      "body": "Standing near an entrance can make the figure feel connected to both garden and interior. That position is visually suggestive, but it does not independently prove who owns the house or who may enter. Film context and visible placement should be kept distinct.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which architectural edges frame this figure?",
+    "related": [
+     "parasite-figure",
+     "parasite-window"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "parasite-lounge",
+    "number": 4,
+    "label": "People gathered around a lounger",
+    "shortLabel": "People gathered around a lounger",
+    "kicker": "RECLINING SHAPES AND FURNITURE",
+    "summary": "A small cluster forms a horizontal counterweight.",
+    "x": 29,
+    "y": 49,
+    "bounds": {
+     "x": 10,
+     "y": 40,
+     "w": 38,
+     "h": 18
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Reclining shapes and furniture",
+      "body": "At the left, bodies and pale outdoor furniture overlap in a compact group. Bent limbs and the long lounger produce several shallow diagonals. The cluster sits near the dark house opening, where light clothing and skin remain legible against the background.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Two families, unequal homes",
+      "body": "Criterion’s synopsis describes two Seoul families, one living in a semibasement and the other in a luxurious modern house. That context makes domestic space important to the film. It does not justify treating every posture in this publicity arrangement as a complete diagram of class.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "How do this group’s overlaps differ from the isolated standing figure?",
+    "related": [
+     "parasite-figure",
+     "parasite-lawn"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "parasite-legs",
+    "number": 5,
+    "label": "The body outside the frame",
+    "shortLabel": "The body outside the frame",
+    "kicker": "A CONSPICUOUS CROP",
+    "summary": "A pair of legs enters without an accompanying face.",
+    "x": 20.5,
+    "y": 81.5,
+    "bounds": {
+     "x": 5,
+     "y": 77,
+     "w": 31,
+     "h": 9
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A conspicuous crop",
+      "body": "Pale lower legs extend into the image from the bottom-left edge. The rest of the body is absent, unlike the complete standing figure. Their horizontal direction interrupts the open grass and points across the sheet, making the unseen outside space part of the composition.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A question rather than a spoiler",
+      "body": "The incomplete body can make the otherwise orderly garden feel difficult to interpret. The image does not identify what happened before or after this moment. The most useful question is how the crop affects our reading, rather than guessing a definitive plot event from it.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What story possibilities arise from what is missing beyond the left edge?",
+    "related": [
+     "parasite-ball",
+     "parasite-figure"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "parasite-ball",
+    "number": 6,
+    "label": "A small bright object on the lawn",
+    "shortLabel": "A small bright object on the lawn",
+    "kicker": "COLOUR CONCENTRATED IN A SMALL CIRCLE",
+    "summary": "A circle punctuates the space between people.",
+    "x": 48,
+    "y": 58,
+    "bounds": {
+     "x": 43,
+     "y": 54,
+     "w": 10,
+     "h": 8
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Colour concentrated in a small circle",
+      "body": "The ball has bright coloured segments against the relatively even green grass. Its circular outline differs from the house’s rectangles and the figures’ verticals. Because it is isolated, its small size does not prevent it becoming a clear point of attention.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An ordinary object in an uneasy arrangement",
+      "body": "A garden ball can suggest play or everyday domestic life, but its separation from a visible player makes its role uncertain here. Compare the familiar object with the concealed eyes and cropped legs. Their coexistence produces the question, rather than any single colour carrying it.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Why is the ball noticeable despite being much smaller than the figures?",
+    "related": [
+     "parasite-legs",
+     "parasite-lawn"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "parasite-house",
+    "number": 7,
+    "label": "Rectangles organise the setting",
+    "shortLabel": "Rectangles organise the setting",
+    "kicker": "A STRONG ARCHITECTURAL GRID",
+    "summary": "Architecture divides the upper half into compartments.",
+    "x": 50,
+    "y": 22,
+    "bounds": {
+     "x": 6,
+     "y": 4,
+     "w": 88,
+     "h": 36
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A strong architectural grid",
+      "body": "The roofline, wall surfaces and dark openings form large horizontal and vertical divisions. People appear at different positions within that grid rather than filling a continuous crowd. The ordered structure makes the irregular bodies and the isolated ball more conspicuous.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A designed film space",
+      "body": "Criterion identifies the wealthy family’s modern house as a key contrast with the other family’s semibasement. This supports examining architecture as part of the story. It does not establish that the poster is a literal floor plan or a documentary photograph of a real family home.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "Which line most strongly separates indoors from outdoors?",
+    "related": [
+     "parasite-window",
+     "parasite-doorway"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "parasite-window",
+    "number": 8,
+    "label": "A dark interior behind the lawn",
+    "shortLabel": "A dark interior behind the lawn",
+    "kicker": "A RECESS RATHER THAN A FLAT WALL",
+    "summary": "The house contains a less readable second space.",
+    "x": 26.5,
+    "y": 32.5,
+    "bounds": {
+     "x": 6,
+     "y": 20,
+     "w": 41,
+     "h": 25
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A recess rather than a flat wall",
+      "body": "The left opening is dark, with subdued shapes and reflections behind the garden scene. Its relative lack of detail creates a sense of interior depth. The foreground furniture remains lighter and clearer, so looking into the house requires more deliberate attention.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Withholding and invitation",
+      "body": "An opening suggests access, yet darkness limits what can be known from this single image. That mismatch can create curiosity without a dramatic action scene. The interpretation comes from visibility and concealment; it is not a claim about a hidden event beyond the photograph.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What becomes visible when you look past the bright foreground?",
+    "related": [
+     "parasite-house",
+     "parasite-lounge"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "parasite-lawn",
+    "number": 9,
+    "label": "The green interval",
+    "shortLabel": "The green interval",
+    "kicker": "A FIELD THAT SEPARATES",
+    "summary": "A quiet surface makes the spacing of objects matter.",
+    "x": 34.5,
+    "y": 69.5,
+    "bounds": {
+     "x": 16,
+     "y": 63,
+     "w": 37,
+     "h": 13
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A field that separates",
+      "body": "Green grass occupies much of the lower half, interrupted by bodies, a ball and shadows. Its comparatively small texture lets the larger shapes remain clear. The open surface does not merely fill the background: it makes their distances from one another readable.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Calm appearance, uncertain situation",
+      "body": "A tidy lawn and sunny setting may initially suggest comfort. The other visual clues complicate that impression. Their contrast is more specific than saying green always signifies peace, and it allows different viewers to test their first impressions against the visible details.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How would a crowded garden change the relationship between the figures?",
+    "related": [
+     "parasite-ball",
+     "parasite-legs"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "parasite-title",
+    "number": 10,
+    "label": "기생충 in the lower margin",
+    "shortLabel": "기생충 in the lower margin",
+    "kicker": "THE KOREAN TITLE",
+    "summary": "Green lettering carries the film’s name outside the photograph.",
+    "x": 77.5,
+    "y": 93,
+    "bounds": {
+     "x": 59,
+     "y": 88,
+     "w": 37,
+     "h": 10
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "The Korean title",
+      "body": "The large Korean wording is 기생충, read Gisaengchung and released in English as Parasite. It names a relationship through the idea of a parasite without identifying which person it describes. The title can guide a question about the image while leaving its answer unresolved.",
+      "evidence": "observation",
+      "originalText": "기생충",
+      "lang": "ko",
+      "reading": "Gisaengchung",
+      "translation": "Parasite"
+     },
+     {
+      "kind": "design",
+      "heading": "A colour repeated across the boundary",
+      "body": "The green title sits in a white lower margin, linking typographic colour with the grass above. Its irregular strokes stand apart from the photograph’s straight architecture. The margin also protects the name from competing with the already carefully spaced people.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Why might a title be placed below the picture rather than over it?",
+    "related": [
+     "parasite-lawn",
+     "parasite-cannes"
+    ],
+    "layerIndex": 5
+   },
+   {
+    "id": "parasite-cannes",
+    "number": 11,
+    "label": "A festival mark at the top",
+    "shortLabel": "A festival mark at the top",
+    "kicker": "INSTITUTIONAL RECOGNITION IN SMALL TYPE",
+    "summary": "A small emblem frames the picture as a cultural event.",
+    "x": 53,
+    "y": 9,
+    "bounds": {
+     "x": 38,
+     "y": 4,
+     "w": 30,
+     "h": 10
+    },
+    "tags": [
+     "business",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "Institutional recognition in small type",
+      "body": "A Cannes emblem and compact wording sit near the upper centre. At this reproduction size, the complete category wording is not reliably readable, so the study does not infer a specific award from this mark alone. Its presence still places a festival institution beside the image.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A film and a poster have different credits",
+      "body": "Criterion records the film as Bong Joon Ho’s 2019 work and credits its own later cover as based on the original theatrical poster by Kim Sang-man. That supports the original design attribution while keeping the later home-video artwork distinct from the Korean sheet shown here.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "What does a festival emblem tell you—and what does it not tell you?",
+    "related": [
+     "parasite-title",
+     "parasite-house"
+    ],
+    "layerIndex": 5
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed Parasite poster reproduction",
+    "url": "https://en.wikipedia.org/wiki/File:Parasite_(2019_film).png",
+    "kind": "Visual source",
+    "summary": "The exact edition shown is the evidence for visible shapes, wording, positions and reproduction samples. The linked record identifies the image; readings of its visual effects are supplied by Poster Atlas."
+   },
+   {
+    "id": "record",
+    "title": "Criterion: Parasite",
+    "url": "https://www.criterion.com/films/30619",
+    "kind": "Official distributor",
+    "summary": "Verifies the 2019 film and two-family housing contrast, and credits the original theatrical poster to Kim Sang-man in its cover-design attribution. Its present cover is not the same edition as this installed Korean poster."
+   }
+  ],
+  "tour": [
+   "parasite-figure",
+   "parasite-eyes",
+   "parasite-house",
+   "parasite-lounge",
+   "parasite-legs",
+   "parasite-ball",
+   "parasite-title"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected wording in this edition",
+    "rows": [
+     {
+      "text": "기생충",
+      "meaning": "Parasite",
+      "lang": "ko"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Only the large Korean title is transcribed. The small tagline, release line, festival category and billing require sharper verification. No plot outcome is inferred from the cropped legs.",
+  "palette": [
+   {
+    "name": "Lawn green",
+    "hex": "#75A772",
+    "role": "A quiet field separating the subjects",
+    "region": "parasite-lawn"
+   },
+   {
+    "name": "Dark clothing",
+    "hex": "#0C0F14",
+    "role": "A strong foreground silhouette",
+    "region": "parasite-figure"
+   },
+   {
+    "name": "White margin",
+    "hex": "#E5EBEB",
+    "role": "Protects the title and release information",
+    "region": "parasite-title"
+   },
+   {
+    "name": "Cool architecture",
+    "hex": "#03302B",
+    "role": "A rectilinear backdrop",
+    "region": "parasite-house"
+   }
+  ],
+  "paletteNote": "Approximate screen samples from the installed reproduction. These describe image pixels, not original inks, paper colours or calibrated printing specifications."
+ }
+}

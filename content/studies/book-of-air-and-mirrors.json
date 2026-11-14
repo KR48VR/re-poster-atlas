@@ -1,0 +1,599 @@
+{
+ "poster": {
+  "id": "book-of-air-and-mirrors",
+  "title": "Of the Air and Mirrors",
+  "year": "1974",
+  "yearNumber": 1974,
+  "coverYear": "1974",
+  "posterYear": "1974",
+  "posterDateStatus": "1974 cover-design date in the reproduced design record. Exact printing, original book-publication year and publisher are not established.",
+  "bookFirstPublication": "Not independently established",
+  "bookAuthor": "Ahmad Shamlou",
+  "bookPublisher": "Not established from the reproduced cover",
+  "bookOrigin": "Persian love-poetry collection by Ahmad Shamlou",
+  "category": "Book cover",
+  "country": "Iran",
+  "countries": [
+   "Iran"
+  ],
+  "primaryOrigin": "Iran",
+  "region": "West Asia & Caucasus",
+  "creator": "Farshid Mesghali",
+  "image": "images/full/book-of-air-and-mirrors.jpg",
+  "ratio": 0.6640625,
+  "alt": "Cream Persian cover with a red heart among thin title lettering, smaller Persian words and a black-backed outlined portrait with red and yellow facial accents.",
+  "blurb": "A tiny heart, a huge pale head and a black rectangle make very different kinds of emphasis.",
+  "notes": [
+   {
+    "title": "A heart within the title",
+    "body": "A red heart appears among fine black Persian strokes. Its solid shape contrasts with the title’s thin lines and open counters."
+   },
+   {
+    "title": "A face made of omissions",
+    "body": "Much of the hair and face remains the colour of the paper. Sparse outlines and warm fragments describe a portrait without continuous modelling."
+   },
+   {
+    "title": "Date the supported object",
+    "body": "The design record dates Mesghali’s cover to 1974. It does not establish the first publication date, the printing of this copy or the identity of the pictured person."
+   }
+  ],
+  "source": "https://www.printmag.com/international-design/book-shares-artistic-work-of-iranian-designer-farshid-mesghali/",
+  "credit": "Farshid Mesghali cover reproduced from the Nazar Art Publishing monograph in Majid Abbasi’s PRINT article; caption dates this design to 1974. The article is the retrieved design-record reproduction, not a directly retrieved Nazar archive.",
+  "edition": "1974 cover-design date in the reproduced design record. Exact printing, original book-publication year and publisher are not established.",
+  "originNote": "Country describes this edition’s publishing/design context, not the author’s nationality. Iranian Persian-language cover design; publisher not independently established.",
+  "originSources": [
+   {
+    "title": "PRINT: Farshid Mesghali monograph reproduction and dated cover caption",
+    "url": "https://www.printmag.com/international-design/book-shares-artistic-work-of-iranian-designer-farshid-mesghali/"
+   }
+  ],
+  "creditSources": [
+   {
+    "title": "PRINT: Farshid Mesghali monograph reproduction and dated cover caption",
+    "url": "https://www.printmag.com/international-design/book-shares-artistic-work-of-iranian-designer-farshid-mesghali/"
+   }
+  ],
+  "imageSource": "https://www.printmag.com/international-design/book-shares-artistic-work-of-iranian-designer-farshid-mesghali/",
+  "imageCredit": "Farshid Mesghali cover reproduced from the Nazar Art Publishing monograph in Majid Abbasi’s PRINT article; caption dates this design to 1974. The article is the retrieved design-record reproduction, not a directly retrieved Nazar archive.",
+  "accent": "#BE3926",
+  "anchor": [
+   0.44,
+   0.68
+  ],
+  "reproduction": "Source reproduction retained without generative reconstruction. Analytical layers partition visible source pixels; printing colours and hidden artwork cannot be recovered.",
+  "downloadURL": "https://www.printmag.com/wp-content/uploads/2025/03/Book-cover-Ahmad-Shamlou-1974-680x1024.jpg",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-of-air-and-mirrors.webp"
+ },
+ "studyData": {
+  "intro": "A tiny heart, a huge pale head and a black rectangle make very different kinds of emphasis. Follow the details to compare what is visible, what can be interpreted and what the edition record establishes.",
+  "initial": "title",
+  "regions": [
+   {
+    "id": "title",
+    "number": 1,
+    "label": "Thin Persian writing opens the page",
+    "shortLabel": "Persian title",
+    "kicker": "LANGUAGE",
+    "summary": "Fine black Persian strokes stretch across the upper cream field.",
+    "layerIndex": 5,
+    "x": 49.34,
+    "y": 13.82,
+    "bounds": {
+     "x": 13,
+     "y": 5,
+     "w": 70,
+     "h": 17
+    },
+    "question": "How do the open spaces within the title differ from the open areas of the portrait?",
+    "related": [
+     "heart",
+     "hair"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Persian title in the image",
+      "body": "Fine black Persian strokes stretch across the upper cream field. Tall strokes and open loops create an airy line, while a red heart interrupts the sequence. The title is much less dense than the black rectangle and large portrait below.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Script, direction and meaning are different readings",
+      "body": "The title reads از هوا و آینه‌ها, rendered here as Of the Air and Mirrors. Persian is read from right to left. A reader unfamiliar with the script can still compare its open structure with the much heavier picture, while recognising that visual description is not translation.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "heart",
+    "number": 2,
+    "label": "A red heart enters the writing",
+    "shortLabel": "Red heart",
+    "kicker": "DESIGN",
+    "summary": "A small solid red heart sits among the thin title strokes, with a narrow yellow accent along one side.",
+    "layerIndex": 5,
+    "x": 34,
+    "y": 11,
+    "bounds": {
+     "x": 27,
+     "y": 7,
+     "w": 14,
+     "h": 9
+    },
+    "question": "What happens to the title’s balance if you cover only the heart?",
+    "related": [
+     "title",
+     "hair"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Red heart in the image",
+      "body": "A small solid red heart sits among the thin title strokes, with a narrow yellow accent along one side. Its filled surface contrasts with the surrounding open loops. The heart remains recognisable at a scale where some individual letters become harder to resolve.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An image enters a line of language",
+      "body": "The shape introduces an image into a line of language. Its common association with love is consistent with the subtitle’s reference to love poems, but the exact visual pun should not be over-specified without linguistic evidence. Compare the heart’s weight with the black strokes beside it.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "subtitle",
+    "number": 3,
+    "label": "A smaller line identifies love poems",
+    "shortLabel": "Persian subtitle",
+    "kicker": "LANGUAGE",
+    "summary": "A smaller Persian line sits directly beneath the title, near the top edge of the portrait field.",
+    "layerIndex": 6,
+    "x": 28.01,
+    "y": 22.9,
+    "bounds": {
+     "x": 8,
+     "y": 21,
+     "w": 42,
+     "h": 4
+    },
+    "question": "What does the subtitle tell you that the heart alone cannot establish?",
+    "related": [
+     "title",
+     "heart"
+    ],
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Persian subtitle in the image",
+      "body": "A smaller Persian line sits directly beneath the title, near the top edge of the portrait field. Its letters are heavier and more compact than the large title strokes. The line reads مجموعه اشعار عاشقانه, rendered here as a collection of love poems.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Words and a heart give related cues",
+      "body": "The subtitle gives a genre or content cue while the picture remains open to interpretation. Its compactness makes it practical information rather than the cover’s largest visual event. Compare how the subtitle and heart communicate related ideas through different means.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "author",
+    "number": 4,
+    "label": "The author name meets the portrait outline",
+    "shortLabel": "Author line",
+    "kicker": "LANGUAGE",
+    "summary": "احمد شاملو appears beneath the subtitle in a short black line.",
+    "layerIndex": 6,
+    "x": 34.93,
+    "y": 26.9,
+    "bounds": {
+     "x": 23,
+     "y": 24,
+     "w": 24,
+     "h": 5
+    },
+    "question": "Why is a nearby author name insufficient to identify an otherwise uncaptioned portrait with certainty?",
+    "related": [
+     "title",
+     "heart"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Author line in the image",
+      "body": "احمد شاملو appears beneath the subtitle in a short black line. The thin outer hair contour passes close to this wording. The proximity makes text and picture feel connected, although the author name and the outline remain different kinds of mark.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Naming the author does not identify the portrait",
+      "body": "The line identifies Ahmad Shamlou, but that does not by itself prove that the pictured person is Shamlou. Keeping those statements separate is important: a name on a cover is a textual fact, while a portrait identification requires additional evidence.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "hair",
+    "number": 5,
+    "label": "A pale mass is held by a fine outline",
+    "shortLabel": "Pale hair shape",
+    "kicker": "DESIGN",
+    "summary": "A large pale hair-shaped mass fills much of the upper portrait.",
+    "layerIndex": 2,
+    "x": 48,
+    "y": 36,
+    "bounds": {
+     "x": 10,
+     "y": 22,
+     "w": 72,
+     "h": 42
+    },
+    "question": "Which short segment of outline is most necessary for recognising the hair shape?",
+    "related": [
+     "title",
+     "heart"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Pale hair shape in the image",
+      "body": "A large pale hair-shaped mass fills much of the upper portrait. A fine dark outline describes its irregular edge, while the inside remains close to the paper colour. The boundary changes from small angular turns to broader curves around the head.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A fine outline describes a large pale form",
+      "body": "The cover describes volume through omission rather than continuous shading. The pale hair can merge with the paper until its outline is noticed. Compare this sparse treatment with the solid black field behind it to see how little drawing can establish a large form.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "face",
+    "number": 6,
+    "label": "Warm fragments describe an incomplete face",
+    "shortLabel": "Face fragments",
+    "kicker": "DESIGN",
+    "summary": "Red and yellow fragments mark parts of the brow, eyes, nose, ears and lower face.",
+    "layerIndex": 3,
+    "x": 44,
+    "y": 68,
+    "bounds": {
+     "x": 20,
+     "y": 44,
+     "w": 57,
+     "h": 41
+    },
+    "question": "Which missing area can you still imagine most clearly from the surrounding marks?",
+    "related": [
+     "title",
+     "heart"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Face fragments in the image",
+      "body": "Red and yellow fragments mark parts of the brow, eyes, nose, ears and lower face. Broad areas remain pale. Thin dark contours join some of the fragments, but the face is not modelled with a continuous range of realistic light and shade.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Separate marks invite the eye to connect them",
+      "body": "The viewer supplies connections between separated marks. This can make the portrait feel immediate and unfinished at once. That response does not establish the subject’s identity or emotional state; compare the visible brow and mouth before choosing an expression word.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "hand",
+    "number": 7,
+    "label": "A pale hand meets the lower face",
+    "shortLabel": "Hand gesture",
+    "kicker": "DESIGN",
+    "summary": "A large pale hand rises towards the mouth and chin.",
+    "layerIndex": 3,
+    "x": 56,
+    "y": 86,
+    "bounds": {
+     "x": 39,
+     "y": 73.5,
+     "w": 34,
+     "h": 23.5
+    },
+    "question": "Which interpretation of the gesture is best supported by its visible position, and which is least certain?",
+    "related": [
+     "title",
+     "heart"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Hand gesture in the image",
+      "body": "A large pale hand rises towards the mouth and chin. Several bent fingers are separated by thin dark lines, with small yellow accents near their edges. The hand overlaps the lower face and continues towards the bottom of the black field.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A gesture joins the face to the lower edge",
+      "body": "The gesture can suggest thought, waiting or self-restraint, but these remain possible readings. Its clearest visual effect is to join face and lower edge through another large pale form. Compare the fingers’ curves with the broader outline of the head.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "red",
+    "number": 8,
+    "label": "Red moves from title to portrait",
+    "shortLabel": "Warm accents",
+    "kicker": "DESIGN",
+    "summary": "Red appears in the heart, around parts of the face and in a larger patch below the hand.",
+    "layerIndex": 4,
+    "x": 65,
+    "y": 60,
+    "bounds": {
+     "x": 17,
+     "y": 43,
+     "w": 67,
+     "h": 53
+    },
+    "question": "Which red area first catches your attention, and which one do you notice only later?",
+    "related": [
+     "title",
+     "heart"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Warm accents in the image",
+      "body": "Red appears in the heart, around parts of the face and in a larger patch below the hand. Small yellow edges accompany several warm areas. These separated accents interrupt an otherwise restricted palette of cream and black.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Warm accents connect language and portrait",
+      "body": "Repeating the warm colours connects language and portrait across the page. The areas differ greatly in size, so the relationship is a rhythm rather than a balanced set of identical patches. Compare the tiny heart with the broad lower red area.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "black",
+    "number": 9,
+    "label": "A solid field makes pale forms visible",
+    "shortLabel": "Black portrait field",
+    "kicker": "DESIGN",
+    "summary": "An irregular black rectangle sits behind the head and hand.",
+    "layerIndex": 1,
+    "x": 85,
+    "y": 76,
+    "bounds": {
+     "x": 10,
+     "y": 22,
+     "w": 78,
+     "h": 73
+    },
+    "question": "Where is the black field widest, and how does that width change the portrait’s emphasis?",
+    "related": [
+     "title",
+     "heart"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Black portrait field in the image",
+      "body": "An irregular black rectangle sits behind the head and hand. Its outer edges are slightly uneven, while the pale portrait interrupts most of its centre. Narrow strips of black remain around the silhouette, especially along the sides and lower area.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Read the black field as a shape",
+      "body": "The black field gives the pale portrait a boundary without filling it with detail. It also produces a strong contrast with the open title area above. Looking at the black as a shape of its own reveals how carefully it surrounds the figure.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "paper",
+    "number": 10,
+    "label": "The reproduction carries a design date",
+    "shortLabel": "Cream paper and date",
+    "kicker": "DESIGN",
+    "summary": "Cream paper surrounds the title and portrait, with slight edge wear visible in the reproduced copy.",
+    "layerIndex": 0,
+    "x": 97,
+    "y": 58,
+    "bounds": {
+     "x": 91,
+     "y": 0,
+     "w": 9,
+     "h": 100
+    },
+    "question": "Which date is actually supported here, and which tempting dates should remain unknown?",
+    "related": [
+     "title",
+     "heart"
+    ],
+    "tags": [
+     "design",
+     "context",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Cream paper and date in the image",
+      "body": "Cream paper surrounds the title and portrait, with slight edge wear visible in the reproduced copy. The surface is not perfectly uniform. Those physical traces do not independently identify a printing, publisher or original publication year for the poems.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A 1974 design date, with printing unresolved",
+      "body": "Majid Abbasi’s PRINT article reproduces this cover from the Nazar Art Publishing monograph on Farshid Mesghali and captions the design as 1974. The retrieved record supports that cover-design date and maker. It does not establish this copy’s printing, the book’s first publication or its publisher.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "air"
+       }
+      ]
+     },
+     {
+      "kind": "business",
+      "heading": "Two different publishing roles",
+      "body": "The retrieved design record attributes the cover to Mesghali but does not name the publisher of the pictured poetry book. Nazar Art Publishing is identified as publisher of the later design monograph. Those roles should not be merged when documenting or comparing editions.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "air"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "visual",
+    "title": "Exact reproduced cover: Of the Air and Mirrors",
+    "url": "https://www.printmag.com/international-design/book-shares-artistic-work-of-iranian-designer-farshid-mesghali/",
+    "kind": "Visual source",
+    "summary": "Farshid Mesghali cover reproduced from the Nazar Art Publishing monograph in Majid Abbasi’s PRINT article; caption dates this design to 1974. The article is the retrieved design-record reproduction, not a directly retrieved Nazar archive."
+   },
+   {
+    "id": "air",
+    "title": "PRINT: Farshid Mesghali monograph reproduction and dated cover caption",
+    "url": "https://www.printmag.com/international-design/book-shares-artistic-work-of-iranian-designer-farshid-mesghali/",
+    "kind": "Design-history publication and reproduced design record",
+    "summary": "Majid Abbasi’s PRINT article reproduces this cover from the Nazar Art Publishing monograph on Farshid Mesghali and captions the design as 1974. The retrieved record supports that cover-design date and maker. It does not establish this copy’s printing, the book’s first publication or its publisher."
+   }
+  ],
+  "tour": [
+   "title",
+   "heart",
+   "hair",
+   "face",
+   "hand",
+   "paper"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected legible cover wording",
+    "rows": [
+     {
+      "text": "از هوا و آینه‌ها",
+      "meaning": "Of the Air and Mirrors",
+      "lang": "fa"
+     },
+     {
+      "text": "مجموعه اشعار عاشقانه",
+      "meaning": "A collection of love poems",
+      "lang": "fa"
+     },
+     {
+      "text": "احمد شاملو",
+      "meaning": "Ahmad Shamlou",
+      "lang": "fa"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected wording only. Line breaks and typographic case may be regularized. Fine print and endorsement prose are omitted where not needed for this reading. English meanings are editorial translations, not a claim of native-language reader testing.",
+  "palette": [
+   {
+    "name": "Paper cream",
+    "hex": "#F4EDDD",
+    "role": "A screen sample from cream paper and date. Compare this local colour with its surrounding shapes.",
+    "region": "paper"
+   },
+   {
+    "name": "Field black",
+    "hex": "#080808",
+    "role": "A screen sample from black portrait field. Compare this local colour with its surrounding shapes.",
+    "region": "black"
+   },
+   {
+    "name": "Portrait red",
+    "hex": "#BD3827",
+    "role": "A screen sample from warm accents. Compare this local colour with its surrounding shapes.",
+    "region": "red"
+   },
+   {
+    "name": "Accent yellow",
+    "hex": "#E8D62C",
+    "role": "A screen sample from warm accents. Compare this local colour with its surrounding shapes.",
+    "region": "red"
+   }
+  ],
+  "paletteNote": "Samples are exact pixels from the installed reproduction, chosen within the named feature for perceptual agreement. They describe this screen image, not original ink specifications, paper stock or universal colour meanings.",
+  "connections": [
+   {
+    "label": "Heart / portrait",
+    "title": "Warm colour crosses words and face",
+    "text": "Red and yellow move from the small heart within the Persian title to fragments of the much larger portrait below.",
+    "anchors": [
+     [
+      5,
+      0.34044117647058825,
+      0.10986328125
+     ],
+     [
+      4,
+      0.6507352941176471,
+      0.60009765625
+     ]
+    ],
+    "id": "book-of-air-and-mirrors-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Portrait / field",
+    "title": "A pale portrait needs a dark neighbour",
+    "text": "The solid black field makes sparse pale face and hand shapes readable, even where much of their interior remains the paper colour.",
+    "anchors": [
+     [
+      3,
+      0.4404411764705882,
+      0.68017578125
+     ],
+     [
+      1,
+      0.850735294117647,
+      0.76025390625
+     ]
+    ],
+    "id": "book-of-air-and-mirrors-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

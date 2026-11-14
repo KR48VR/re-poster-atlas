@@ -1,0 +1,680 @@
+{
+ "poster": {
+  "id": "flow",
+  "title": "Flow",
+  "year": "2024",
+  "yearNumber": 2024,
+  "creator": "Janus Films / Sideshow · US campaign",
+  "filmCreator": "Gints Zilbalodis",
+  "country": "Latvia / France / Belgium",
+  "countries": [
+   "Latvia",
+   "France",
+   "Belgium"
+  ],
+  "region": "Europe",
+  "ratio": 0.675,
+  "accent": "#3c8b94",
+  "anchor": [
+   0.41,
+   0.3
+  ],
+  "anchorLayer": 1,
+  "edition": "Official English-language Janus Films / Sideshow theatrical awards-entry campaign for the 2024 film.",
+  "alt": "Flow poster with a dark cat floating among colourful fish in turquoise water, bright golden eyes, white brush-lettered title below and reviews and festival marks above.",
+  "blurb": "Two golden eyes look out from a dark silhouette, suspended in a luminous underwater world.",
+  "notes": [
+   {
+    "title": "Eyes hold the darkest shape",
+    "body": "The cat is a large dark mass, but its two golden eyes remain bright and precise. They give a clear point of attention amid the many small fish and soft underwater forms."
+   },
+   {
+    "title": "Depth comes from contrast",
+    "body": "The upper water is pale and luminous; the lower part deepens toward dark teal. Small fish appear at different scales and levels of sharpness, surrounding the cat with a sense of depth."
+   },
+   {
+    "title": "The title feels drawn, not engineered",
+    "body": "The broad white letters have rounded, uneven edges. Their informal brush-like quality offers a simple counterweight to the detailed aquatic scene and the smaller institutional text around it."
+   }
+  ],
+  "source": "https://www.janusfilms.com/films/2235",
+  "imageSource": "https://www.janusfilms.com/films/2235",
+  "credit": "Official poster supplied by Janus Films / Sideshow for the Latvian-led 2024 film, coproduced with France and Belgium. This is an English-language US campaign; individual poster designer not identified in the supplied record. Copyright remains with the respective rights holders.",
+  "category": "Film",
+  "image": "images/full/flow.jpg",
+  "posterYear": "2024",
+  "posterTerritory": "United States",
+  "primaryOrigin": "Latvia",
+  "thumb": "images/catalogue/flow.webp"
+ },
+ "studyData": {
+  "intro": "A cat floats among fish while reviews and festival marks occupy the water around it. The poster offers a close study of scale, depth and vulnerable-looking movement; its lower Academy wording identifies Latvia’s entry, not a claim that this edition already records an Oscar win.",
+  "initial": "eyes",
+  "regions": [
+   {
+    "id": "eyes",
+    "number": 1,
+    "label": "Two golden eyes",
+    "shortLabel": "Two golden eyes",
+    "kicker": "BRIGHTNESS WITHIN A DARK MASS",
+    "summary": "Small bright circles anchor the darkest figure.",
+    "x": 41,
+    "y": 30,
+    "bounds": {
+     "x": 33,
+     "y": 27,
+     "w": 17,
+     "h": 6
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Brightness within a dark mass",
+      "body": "The two warm irises stand out from the cat’s deep green-black face. Each holds a pale reflection and a dark pupil, so the eyes remain structured rather than becoming two flat dots. Their near-paired shape supplies a stable focus among many moving fish.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An expression made from a few clues",
+      "body": "Wide eyes and a forward-facing head may suggest alertness or uncertainty. Those are readings of the image, not a diagnosis of an animal’s emotion. The visible evidence is the eye size, pupil direction and contrast with the surrounding fur.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which catches your attention first when the poster is reduced: the eye colour or the head’s outline?",
+    "related": [
+     "cat",
+     "ears",
+     "water"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "cat",
+    "number": 2,
+    "label": "A body suspended in water",
+    "shortLabel": "A body suspended in water",
+    "kicker": "NO SUPPORTING SURFACE",
+    "summary": "The central silhouette has no firm ground beneath it.",
+    "x": 56,
+    "y": 47,
+    "bounds": {
+     "x": 25,
+     "y": 18,
+     "w": 57,
+     "h": 52
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "No supporting surface",
+      "body": "The cat’s torso runs diagonally down the sheet, with separate limbs extending into water. There is no ledge under the paws. Its outline is large and relatively clear while smaller fish pass around it, making the animal the nearest coherent figure.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "The flood as the film’s premise",
+      "body": "Janus describes a cat whose home is overwhelmed by a flood and who must cooperate with other animals. That establishes the aquatic setting as a narrative premise. The poster selects a swimming image rather than showing every companion or summarising the complete journey.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "janus"
+       }
+      ]
+     }
+    ],
+    "question": "Where would the cat’s weight fall if you imagined a floor under this pose?",
+    "related": [
+     "paws",
+     "tail",
+     "eyes"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "ears",
+    "number": 3,
+    "label": "Pale ears above the head",
+    "shortLabel": "Pale ears above the head",
+    "kicker": "A CLEAR UPPER CONTOUR",
+    "summary": "Two pointed shapes interrupt the bright upper water.",
+    "x": 40,
+    "y": 22,
+    "bounds": {
+     "x": 29,
+     "y": 18,
+     "w": 23,
+     "h": 11
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A clear upper contour",
+      "body": "The upright ears finish the head with two tall points. Their warm pale interiors differ from the dark fur below and the cool water around them. The space between the tips keeps the familiar head shape from merging into one rounded silhouette.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Identification at a distance",
+      "body": "These large structural features do work that tiny fur details cannot at thumbnail scale. If the eye highlights disappeared, the pointed ears and head outline would still provide an animal cue. The design combines such broad recognition with finer facial attention.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How do the ears keep the head recognisable before you inspect its facial details?",
+    "related": [
+     "eyes",
+     "water"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "paws",
+    "number": 4,
+    "label": "Separated reaching paws",
+    "shortLabel": "Separated reaching paws",
+    "kicker": "THE GAPS MATTER",
+    "summary": "The limbs create open channels of water.",
+    "x": 31,
+    "y": 46,
+    "bounds": {
+     "x": 24,
+     "y": 42,
+     "w": 32,
+     "h": 17
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "The gaps matter",
+      "body": "One foreleg reaches sideways while another drops lower, leaving water visible between them. The separation prevents the lower body from becoming a single dark block. Rounded paw ends give a sense of volume even where their internal fur detail is subdued.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Movement inferred from imbalance",
+      "body": "The limbs do not rest on a level base, which can make the pose appear caught mid-movement. The image supplies a particular configuration of paws and torso; a viewer can infer swimming without needing to invent an exact stroke sequence.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Trace the blue gap between the front legs: what does it contribute to the pose?",
+    "related": [
+     "cat",
+     "tail"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "tail",
+    "number": 5,
+    "label": "A curved line near the title",
+    "shortLabel": "A curved line near the title",
+    "kicker": "FROM BROAD MASS TO THIN CONTOUR",
+    "summary": "The tail narrows the body to a flexible endpoint.",
+    "x": 79,
+    "y": 62,
+    "bounds": {
+     "x": 72,
+     "y": 49,
+     "w": 10,
+     "h": 20
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "From broad mass to thin contour",
+      "body": "The tail descends beside the back legs, curving away from the thicker body. Its narrow shape is easiest to follow against the lighter water. This change in width makes the cat’s silhouette less compact and extends it toward the white title.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A bridge between image and lettering",
+      "body": "The tail approaches the title’s zone without behaving like a letter. Comparing their curves shows how an organic outline and a drawn word can occupy the same lower space while remaining different kinds of visual information.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Compare the tail’s curve with the upright stroke of the title’s l: how are they different?",
+    "related": [
+     "paws",
+     "title",
+     "cat"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "near-fish",
+    "number": 6,
+    "label": "The large fish at right",
+    "shortLabel": "The large fish at right",
+    "kicker": "A SECOND SCALE OF PRESENCE",
+    "summary": "A sharply shaped neighbour interrupts the cat’s empty surroundings.",
+    "x": 87,
+    "y": 46,
+    "bounds": {
+     "x": 79,
+     "y": 38,
+     "w": 18,
+     "h": 16
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A second scale of presence",
+      "body": "The fish to the right has a tall body, pointed fins and a small red eye. It is smaller than the cat but larger and clearer than many background fish. Its diagonal fins make a different rhythm from the cat’s rounded paws.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Depth through overlap and contrast",
+      "body": "The near fish helps turn the water into a space containing several distances. Overlap, relative size and sharpness provide that reading; the poster does not supply enough evidence to identify every fish species or assign a precise distance to each one.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How do size and sharpness distinguish this fish from the distant ones above?",
+    "related": [
+     "far-fish",
+     "cat"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "far-fish",
+    "number": 7,
+    "label": "Small distant silhouettes",
+    "shortLabel": "Small distant silhouettes",
+    "kicker": "DISTANCE WITH LESS INFORMATION",
+    "summary": "Faint forms give the pale water depth.",
+    "x": 15,
+    "y": 11,
+    "bounds": {
+     "x": 0,
+     "y": 6,
+     "w": 31,
+     "h": 34
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Distance with less information",
+      "body": "Near the bright surface, many fish appear small, pale or softened. Their shapes are still visible, but they carry less edge contrast and internal detail than the central cat. Some are reduced almost to directional marks within the water.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A crowd without a catalogue",
+      "body": "The mixture of tiny forms suggests a populated environment without requiring each one to be individually named. That is useful for looking at the composition: the fish can be compared by scale, direction and contrast even where species identification is not possible.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "If the faint fish were made as dark as the cat, would the depth become clearer or flatter?",
+    "related": [
+     "near-fish",
+     "water"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "water",
+    "number": 8,
+    "label": "A field that darkens downward",
+    "shortLabel": "A field that darkens downward",
+    "kicker": "ONE ENVIRONMENT, CHANGING VALUES",
+    "summary": "Light above and deep teal below support two kinds of type.",
+    "x": 8,
+    "y": 55,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 100,
+     "h": 100
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "One environment, changing values",
+      "body": "The water shifts from almost white at the top to dark teal near the lower edge. The gradient holds the picture together while changing the contrast available for each element. Dark reviews can sit above; the large white title is more distinct below.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Looking upward through a bright field",
+      "body": "The pale upper area can suggest light entering the water, but the poster does not establish an exact lighting setup or depth. The observable effect is that darker forms become easy to separate above while white lettering gains emphasis below.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Why does dark lettering work at the top while white lettering works lower down?",
+    "related": [
+     "reviews",
+     "title",
+     "far-fish"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "title",
+    "number": 9,
+    "label": "The white Flow wordmark",
+    "shortLabel": "The white Flow wordmark",
+    "kicker": "A SHORT WORD WITH A MOVING SUBJECT",
+    "summary": "Uneven edges make the title feel drawn.",
+    "x": 50,
+    "y": 70,
+    "bounds": {
+     "x": 23,
+     "y": 60,
+     "w": 55,
+     "h": 18
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A short word with a moving subject",
+      "body": "Flow names continuous movement in English, a meaning that can be compared with the suspended body and surrounding fish. The word does not describe a single direction in this scene; motion is suggested by many different shapes rather than by one arrow.",
+      "evidence": "observation",
+      "originalText": "Flow",
+      "lang": "en"
+     },
+     {
+      "kind": "design",
+      "heading": "Broad strokes after detailed life",
+      "body": "The thick white letters are simpler than the fish-filled background, with rounded ends and irregular edges. The open centre of the o keeps some water visible. Their large scale gives the lower composition a strong readable mass without needing a rectangular title panel.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Which letter contains the most obvious rough edge, and how does it affect the word’s character?",
+    "related": [
+     "water",
+     "director"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "reviews",
+    "number": 10,
+    "label": "Praise across the upper water",
+    "shortLabel": "Praise across the upper water",
+    "kicker": "DIFFERENT KINDS OF ENDORSEMENT",
+    "summary": "Three quotations frame a festival emblem.",
+    "x": 49,
+    "y": 14,
+    "bounds": {
+     "x": 13,
+     "y": 3,
+     "w": 76,
+     "h": 14
+    },
+    "tags": [
+     "business",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "Different kinds of endorsement",
+      "body": "The upper quotations are evaluative praise attributed to named publications, while the central Cannes mark identifies a selection. Those are different claims: a critic’s assessment does not itself establish an award. The poster places them together, but careful reading keeps their meanings separate.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "design",
+      "heading": "A centred cluster in clear water",
+      "body": "Teal capitals form a mostly balanced group across the pale area. The widest quote sits beneath the two smaller outer ones, with the emblem in the middle above. The clear water behind them protects legibility without obscuring the cat’s head.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "What is the difference between a quoted judgement and a festival-selection label?",
+    "related": [
+     "entry",
+     "water"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "director",
+    "number": 11,
+    "label": "The maker under the title",
+    "shortLabel": "The maker under the title",
+    "kicker": "A FILM BY GINTS ZILBALODIS",
+    "summary": "A small credit gives the drawn word an authorial companion.",
+    "x": 49,
+    "y": 80,
+    "bounds": {
+     "x": 32,
+     "y": 78,
+     "w": 36,
+     "h": 3
+    },
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A film by Gints Zilbalodis",
+      "body": "The director credit appears as a single line of spaced white capitals below Flow. Its straightforward wording attributes the film rather than the poster artwork. The exact graphic designer of the campaign is not identified by that film credit.",
+      "evidence": "observation",
+      "originalText": "A FILM BY GINTS ZILBALODIS",
+      "lang": "en"
+     },
+     {
+      "kind": "context",
+      "heading": "A Latvian film in a US campaign",
+      "body": "Janus records Flow as a 2024 film by Gints Zilbalodis and identifies Latvia. The English-language sheet belongs to its Janus/Sideshow campaign. These records provide film and distribution context without proving who designed each element or how the image was produced.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "janus"
+       }
+      ]
+     }
+    ],
+    "question": "Why is this line more readable than the much denser credits near the bottom?",
+    "related": [
+     "title",
+     "entry"
+    ],
+    "layerIndex": 5
+   },
+   {
+    "id": "entry",
+    "number": 12,
+    "label": "An awards-entry statement",
+    "shortLabel": "An awards-entry statement",
+    "kicker": "ENTRY IS NOT VICTORY",
+    "summary": "The important word is entry.",
+    "x": 48,
+    "y": 87,
+    "bounds": {
+     "x": 10,
+     "y": 85,
+     "w": 82,
+     "h": 4
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Entry is not victory",
+      "body": "The lower copy identifies Latvia’s official entry for Best International Feature Film at the 97th Academy Awards. Reading the actual wording matters: it is a campaign submission claim, not a printed statement that this poster was made after a win.",
+      "evidence": "observation",
+      "originalText": "OFFICIAL ENTRY · LATVIA · BEST INTERNATIONAL FEATURE FILM",
+      "lang": "en"
+     },
+     {
+      "kind": "business",
+      "heading": "A record of a campaign stage",
+      "body": "Festival laurels, the entry statement and compact release credits locate this sheet within promotion and circulation. Their presence can help viewers investigate the edition, but a later award cannot be silently read back into wording that records an earlier stage.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which word would have to change for this to claim an Academy Award victory?",
+    "related": [
+     "reviews",
+     "director"
+    ],
+    "layerIndex": 5
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed poster edition",
+    "url": "https://www.janusfilms.com/films/2235",
+    "kind": "Visual source",
+    "summary": "The reproduced sheet supports observations of visible wording, colour, composition and marks; it does not establish the designer’s intention."
+   },
+   {
+    "id": "janus",
+    "title": "Janus Films: Flow",
+    "url": "https://www.janusfilms.com/films/2235",
+    "kind": "Official distributor",
+    "summary": "Supplies the campaign poster and confirms the director, 2024 date, Latvian context and flood premise."
+   }
+  ],
+  "tour": [
+   "eyes",
+   "cat",
+   "paws",
+   "near-fish",
+   "water",
+   "title",
+   "entry"
+  ],
+  "transcript": [
+   {
+    "heading": "Readable wording on this edition",
+    "rows": [
+     {
+      "text": "Flow",
+      "meaning": "English title; continuous movement.",
+      "lang": "en"
+     },
+     {
+      "text": "A FILM BY GINTS ZILBALODIS",
+      "meaning": "Film director credit.",
+      "lang": "en"
+     },
+     {
+      "text": "OFFICIAL ENTRY · LATVIA",
+      "meaning": "The country’s entry statement, not an award-win claim.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected large wording only. The small laurels, review attributions and dense billing remain available to inspect, but are not fully transcribed or converted into unverified awards claims.",
+  "palette": [
+   {
+    "name": "Pale water",
+    "hex": "#E7F5F8",
+    "region": "water",
+    "role": "Contrast behind the dark review text."
+   },
+   {
+    "name": "Deep teal",
+    "hex": "#092226",
+    "region": "water",
+    "role": "Contrast behind the white title."
+   },
+   {
+    "name": "Golden iris",
+    "hex": "#DDA254",
+    "region": "eyes",
+    "role": "A warm point of attention."
+   },
+   {
+    "name": "Dark fur",
+    "hex": "#1F3936",
+    "region": "cat",
+    "role": "The main animal mass."
+   },
+   {
+    "name": "White wordmark",
+    "hex": "#FFFFFF",
+    "region": "title",
+    "role": "A broad lower anchor."
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in the installed reproduction. These are not original ink specifications; scan, lighting and compression can alter colour.",
+  "connections": [
+   {
+    "label": "Bright eyes, dark body",
+    "title": "A face held inside a large silhouette",
+    "text": "The small gold eyes make the dark cat readable against the pale water. The limbs and tail extend that compact face into a much larger suspended pose.",
+    "anchors": [
+     [
+      1,
+      0.37195767195767193,
+      0.29678571428571426
+     ],
+     [
+      1,
+      0.464021164021164,
+      0.29678571428571426
+     ],
+     [
+      1,
+      0.6365079365079365,
+      0.4760714285714286
+     ]
+    ],
+    "id": "flow-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Different kinds of curves",
+    "title": "Brush letters beneath swimming bodies",
+    "text": "The rounded white title echoes the soft curves of the cat and surrounding fish, while its bright, opaque marks sit firmly across the deep water.",
+    "anchors": [
+     [
+      3,
+      0.49047619047619045,
+      0.7082142857142857
+     ],
+     [
+      1,
+      0.7645502645502645,
+      0.6039285714285715
+     ],
+     [
+      2,
+      0.8798941798941798,
+      0.44607142857142856
+     ]
+    ],
+    "id": "flow-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

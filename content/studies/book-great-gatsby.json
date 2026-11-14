@@ -1,0 +1,548 @@
+{
+ "poster": {
+  "id": "book-great-gatsby",
+  "title": "The Great Gatsby",
+  "year": "1925",
+  "yearNumber": 1925,
+  "coverYear": "1925",
+  "bookFirstPublication": "1925",
+  "bookAuthor": "F. Scott Fitzgerald",
+  "bookPublisher": "Charles Scribner’s Sons",
+  "bookOrigin": "American English-language novel by F. Scott Fitzgerald, first published in New York in 1925.",
+  "creator": "Francis Cugat",
+  "country": "United States",
+  "countries": [
+   "United States"
+  ],
+  "primaryOrigin": "United States",
+  "region": "North America",
+  "category": "Book cover",
+  "image": "images/full/book-great-gatsby.jpg",
+  "ratio": 0.6822033898305084,
+  "alt": "A blue jacket with pale title lettering above floating eyes and red lips, a small brightly lit city at the bottom and the author’s name below.",
+  "blurb": "A nearly empty blue face hovers above a hot, crowded city.",
+  "source": "https://static-prod.lib.princeton.edu/scsites/portfolio/fs2/00gatsby.htm",
+  "credit": "Princeton identifies Francis Cugat’s design for the original 1925 jacket. The floating face is not identified here as a particular character.",
+  "reproduction": "The reproduced object is 322 × 472 pixels. Physical wear, visible image texture and edges are retained; small uncertain lettering is not reconstructed.",
+  "anchor": [
+   0.52,
+   0.577
+  ],
+  "accent": "#c84761",
+  "edition": "Original 1925 New York Scribner jacket reproduced by Princeton University Library. This study uses the printed jacket rather than a separate preparatory painting.",
+  "imageSource": "https://static-prod.lib.princeton.edu/scsites/portfolio/fs2/00gatsby.htm",
+  "imageCredit": "Princeton identifies Francis Cugat’s design for the original 1925 jacket. The floating face is not identified here as a particular character.",
+  "posterYear": "1925",
+  "posterTerritory": "United States",
+  "posterDateStatus": "The displayed edition or explicitly qualified catalogue date. The original work date is recorded separately.",
+  "originNote": "Country and region describe the displayed edition’s publishing context, not the nationality of the cover designer.",
+  "originSources": [
+   {
+    "title": "Displayed object record",
+    "url": "https://static-prod.lib.princeton.edu/scsites/portfolio/fs2/00gatsby.htm"
+   }
+  ],
+  "notes": [
+   {
+    "title": "The displayed edition",
+    "body": "Original 1925 New York Scribner jacket reproduced by Princeton University Library. This study uses the printed jacket rather than a separate preparatory painting."
+   },
+   {
+    "title": "Writing and image-making",
+    "body": "Princeton identifies Francis Cugat’s design for the original 1925 jacket. The floating face is not identified here as a particular character."
+   },
+   {
+    "title": "A visible design relationship",
+    "body": "A nearly empty blue face hovers above a hot, crowded city."
+   }
+  ],
+  "downloadURL": "https://static-prod.lib.princeton.edu/scsites/portfolio/fs2/fi/0gatsby1.jpg",
+  "creditSources": [
+   {
+    "title": "Source for the displayed object and recorded credits",
+    "url": "https://static-prod.lib.princeton.edu/scsites/portfolio/fs2/00gatsby.htm"
+   }
+  ],
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-great-gatsby.webp"
+ },
+ "studyData": {
+  "intro": "The jacket builds a face from a few floating features and lets an entire city sit beneath it. Compare enormous eyes with tiny lights, while keeping the published jacket separate from Cugat’s preparatory artwork.",
+  "initial": "title",
+  "regions": [
+   {
+    "id": "title",
+    "label": "Pale title",
+    "shortLabel": "Pale title",
+    "kicker": "TWO LINES OF DIFFERENT SHAPES",
+    "summary": "Light letters crown the blue field.",
+    "x": 49.53416,
+    "y": 15.36017,
+    "bounds": {
+     "x": 9,
+     "y": 3,
+     "w": 82,
+     "h": 22
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Two lines of different shapes",
+      "body": "The title uses large pale letters, with a more flowing small opening word. The two-line arrangement sits above the eyes, so the first verbal information and the first facial information remain distinct even though both are light against blue.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "The published 1925 jacket",
+      "body": "Princeton identifies this as the original jacket designed by Francis Cugat for Fitzgerald’s 1925 Scribner edition. The object studied here is the printed jacket rather than a separate preparatory painting; its visible lettering and city details are the basis for the reading.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cover"
+       }
+      ]
+     }
+    ],
+    "question": "How does the title’s placement affect your reading of the face without identifying that face as a particular character?",
+    "related": [
+     "eyes",
+     "author"
+    ],
+    "layerIndex": 4,
+    "number": 1
+   },
+   {
+    "id": "eyes",
+    "label": "Two floating eyes",
+    "shortLabel": "Two floating eyes",
+    "kicker": "A DARK FRAME AROUND BRIGHT CENTRES",
+    "summary": "A pair suggests a face without enclosing it.",
+    "x": 37.1118,
+    "y": 33.15678,
+    "bounds": {
+     "x": 21,
+     "y": 27,
+     "w": 63,
+     "h": 11
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A dark frame around bright centres",
+      "body": "Dark brows and lids enclose small pale, warm-toned interiors. The two groups sit at similar heights but are not perfectly symmetrical. Against the blue, they provide enough facial information for a much larger head to be imagined.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A face made by the viewer",
+      "body": "No complete head outline surrounds the eyes. Their spacing, together with the mouth below, encourages the viewer to supply that missing structure. This perceptual effect does not establish who the face represents.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How much of the imagined face disappears if you cover either eye?",
+    "related": [
+     "lips",
+     "blue"
+    ],
+    "layerIndex": 1,
+    "number": 2
+   },
+   {
+    "id": "brows",
+    "label": "Heavy brows",
+    "shortLabel": "Heavy brows",
+    "kicker": "A BROAD UPPER STROKE",
+    "summary": "Dark arcs give the eyes a strong upper limit.",
+    "x": 70.03106,
+    "y": 30.19068,
+    "bounds": {
+     "x": 57,
+     "y": 27,
+     "w": 27,
+     "h": 7
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A broad upper stroke",
+      "body": "Each brow is darker and broader than the smaller marks inside the eye. The right-hand brow stretches outward over the pale interior, giving that small group a weight that remains visible when the jacket is reduced.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Expression without certainty",
+      "body": "The heavy lids and brows can suggest watchfulness, melancholy or distance, depending on the viewer. Those are possible responses to the visible shapes; they should not be converted into a documented character emotion or designer statement.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which change would alter the expression more: lifting a brow or changing the colour of the iris?",
+    "related": [
+     "eyes",
+     "trace"
+    ],
+    "layerIndex": 1,
+    "number": 3
+   },
+   {
+    "id": "trace",
+    "label": "Slender gold trace",
+    "shortLabel": "Slender gold trace",
+    "kicker": "A SHORT WARM STROKE",
+    "summary": "A tiny vertical mark makes the blue feel bodily.",
+    "x": 32.45342,
+    "y": 51.16525,
+    "bounds": {
+     "x": 29,
+     "y": 44,
+     "w": 7,
+     "h": 15
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A short warm stroke",
+      "body": "Below the left eye is a narrow light-gold trace. It is much smaller than the eyes or lips, yet its warm colour distinguishes it from the blue field and draws attention to an otherwise nearly empty part of the face.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A mark with several possible readings",
+      "body": "The line may evoke a tear or a contour, but the reproduction alone does not fix that interpretation. Its secure visual role is to create a small vertical event between eye and mouth without enclosing the face.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Can you describe what the mark does before deciding what it represents?",
+    "related": [
+     "eyes",
+     "lips"
+    ],
+    "layerIndex": 2,
+    "number": 4
+   },
+   {
+    "id": "lips",
+    "label": "Red lips",
+    "shortLabel": "Red lips",
+    "kicker": "A COMPACT DOUBLE CURVE",
+    "summary": "One small warm shape punctuates the face.",
+    "x": 52.01863,
+    "y": 57.09746,
+    "bounds": {
+     "x": 43,
+     "y": 54,
+     "w": 19,
+     "h": 7
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A compact double curve",
+      "body": "The red mouth consists of curved upper and lower shapes with a dark division. Its saturated warmth makes it noticeable despite its small area, and it sits below the eyes with a large interval of blue between them.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A bridge toward the city",
+      "body": "The red lips introduce a warm note midway between the upper features and the orange-pink glow below. This colour relationship can guide the eye downward without forming a literal connecting line.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does the mouth feel close to the eyes or to the city, and what creates that distance?",
+    "related": [
+     "eyes",
+     "glow"
+    ],
+    "layerIndex": 2,
+    "number": 5
+   },
+   {
+    "id": "blue",
+    "label": "The open blue face",
+    "shortLabel": "The open blue face",
+    "kicker": "NO ENCLOSING HEAD",
+    "summary": "Absence gives the features their scale.",
+    "x": 50.15528,
+    "y": 45.02119,
+    "bounds": {
+     "x": 35,
+     "y": 37,
+     "w": 24,
+     "h": 16
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "No enclosing head",
+      "body": "Between eyes and mouth, the jacket leaves a broad blue interval. There is no nose drawn as a complete object and no cheek contour enclosing the features. Surface wear and tonal changes are visible, but they do not supply a conventional portrait.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "The background becomes a figure",
+      "body": "Because the features are so widely separated, the same blue can be read as surrounding space or as the surface of an enormous face. That ambiguity is central to the composition’s scale shift.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "When you focus on the city, does the blue return to being a sky or remain a face?",
+    "related": [
+     "eyes",
+     "city"
+    ],
+    "layerIndex": 0,
+    "number": 6
+   },
+   {
+    "id": "city",
+    "label": "Illuminated tower",
+    "shortLabel": "Illuminated tower",
+    "kicker": "A THIN SCAFFOLD OF LIGHT",
+    "summary": "Small vertical lights rise toward the face.",
+    "x": 68.1677,
+    "y": 70.02119,
+    "bounds": {
+     "x": 62,
+     "y": 56,
+     "w": 15,
+     "h": 27
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A thin scaffold of light",
+      "body": "The tall structure is drawn through narrow pale, pink and yellow strokes, with blue gaps between them. It rises above the denser lower lights, making a vertical link without becoming a solid rectangular building.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Scale through comparison",
+      "body": "Set beneath the enormous eyes and mouth, the tower appears very small. The size difference makes the upper features feel monumental, although neither part is rendered according to a shared realistic scale.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What changes when you compare the tower’s height with the distance between the eyes and lips?",
+    "related": [
+     "eyes",
+     "glow"
+    ],
+    "layerIndex": 3,
+    "number": 7
+   },
+   {
+    "id": "glow",
+    "label": "Hot lower glow",
+    "shortLabel": "Hot lower glow",
+    "kicker": "A DENSE BAND OF WARM MARKS",
+    "summary": "Warm light gathers near the foot.",
+    "x": 48.29193,
+    "y": 87.1822,
+    "bounds": {
+     "x": 11,
+     "y": 80,
+     "w": 78,
+     "h": 12
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A dense band of warm marks",
+      "body": "Yellow, orange and pink light clusters along the low horizon. Short verticals and overlapping bright strokes make this area much denser than the middle blue field. The brightest patch sits slightly left of the tall tower.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An energetic base",
+      "body": "The warm cluster can make the bottom feel active while the upper face feels suspended. That contrast is a reading of colour, density and scale; the small reproduction cannot securely identify every building or entertainment structure.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where is the strongest contrast: between warm and cool colour, or between crowded and open space?",
+    "related": [
+     "blue",
+     "city"
+    ],
+    "layerIndex": 3,
+    "number": 8
+   },
+   {
+    "id": "author",
+    "label": "Author at the foot",
+    "shortLabel": "Author at the foot",
+    "kicker": "A CLEARLY SEPARATED CREDIT",
+    "summary": "The writer’s name closes the image.",
+    "x": 49.84472,
+    "y": 94.80932,
+    "bounds": {
+     "x": 13,
+     "y": 91,
+     "w": 78,
+     "h": 7
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A clearly separated credit",
+      "body": "The pale line reads F. Scott Fitzgerald. It sits below the illuminated scene rather than beside the title, giving the jacket a verbal beginning at the top and an authorial closing line at the bottom.",
+      "evidence": "observation",
+      "originalText": "F. SCOTT FITZGERALD",
+      "lang": "en"
+     },
+     {
+      "kind": "business",
+      "heading": "An identifiable publication",
+      "body": "Princeton’s record ties this jacket to the 1925 New York Scribner edition. The author’s name and title allow the object to function as a specific book jacket even while its central image remains visually ambiguous.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cover"
+       }
+      ]
+     }
+    ],
+    "question": "Does the lower author line feel like part of the city or like a separate frame for it?",
+    "related": [
+     "title",
+     "glow"
+    ],
+    "layerIndex": 5,
+    "number": 9
+   },
+   {
+    "id": "surface",
+    "label": "Wear across the image",
+    "shortLabel": "Wear across the image",
+    "kicker": "MARKS CROSSING DESIGNED FORMS",
+    "summary": "This is a reproduction of a particular jacket.",
+    "x": 85.24845,
+    "y": 56.03814,
+    "bounds": {
+     "x": 79,
+     "y": 35,
+     "w": 17,
+     "h": 40
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Marks crossing designed forms",
+      "body": "Fine creases and rubbed areas travel through the blue and near the printed elements. Their irregular paths differ from the more deliberate mouth, eye and city shapes, so the image contains both design and the condition of a physical copy.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A bounded close reading",
+      "body": "The Princeton reproduction is only 322 × 472 pixels. Its major colour and compositional relationships are clear, while very small eye interiors and lettering details should remain uncertain rather than being sharpened into invented information.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cover"
+       }
+      ]
+     }
+    ],
+    "question": "Which details can you confidently compare at this size, and which should remain unresolved?",
+    "related": [
+     "blue",
+     "title"
+    ],
+    "layerIndex": 0,
+    "number": 10
+   }
+  ],
+  "sources": [
+   {
+    "id": "cover",
+    "title": "The displayed cover",
+    "url": "https://static-prod.lib.princeton.edu/scsites/portfolio/fs2/00gatsby.htm",
+    "kind": "Visual and edition source",
+    "summary": "Original 1925 New York Scribner jacket reproduced by Princeton University Library. This study uses the printed jacket rather than a separate preparatory painting."
+   }
+  ],
+  "tour": [
+   "title",
+   "eyes",
+   "blue",
+   "lips",
+   "city",
+   "glow",
+   "author"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected cover wording",
+    "rows": [
+     {
+      "text": "The Great Gatsby",
+      "meaning": "Book title",
+      "lang": "en"
+     },
+     {
+      "text": "F. Scott Fitzgerald",
+      "meaning": "Author",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected clearly legible cover wording. Line breaks and casing may be regularized. Small uncertain print is omitted rather than guessed.",
+  "palette": [
+   {
+    "name": "Blue field",
+    "hex": "#202778",
+    "role": "The open interval that can read as face or surrounding space.",
+    "region": "blue"
+   },
+   {
+    "name": "Red lips",
+    "hex": "#C63552",
+    "role": "A small warm focal point.",
+    "region": "lips"
+   },
+   {
+    "name": "City yellow",
+    "hex": "#FBE671",
+    "role": "A bright lower cluster.",
+    "region": "glow"
+   },
+   {
+    "name": "Pale title",
+    "hex": "#FFFDFF",
+    "role": "Light lettering against blue.",
+    "region": "title"
+   }
+  ],
+  "paletteNote": "Samples come from individual pixels in this reproduction. They describe its visible colour, not original printing inks or an exact historical colour standard."
+ }
+}

@@ -1,0 +1,611 @@
+{
+ "poster": {
+  "id": "book-the-whale-rider",
+  "title": "The Whale Rider",
+  "year": "2008",
+  "yearNumber": 2008,
+  "coverYear": "2008",
+  "posterYear": "2008",
+  "posterDateStatus": "2008 Raupo paperback; the novel was first published in 1987.",
+  "bookFirstPublication": "1987",
+  "bookAuthor": "Witi Ihimaera",
+  "bookPublisher": "Raupo",
+  "bookOrigin": "English-language novel by Witi Ihimaera",
+  "category": "Book cover",
+  "country": "New Zealand",
+  "countries": [
+   "New Zealand"
+  ],
+  "primaryOrigin": "New Zealand",
+  "region": "Oceania",
+  "creator": "Cover designer and depicted object’s maker not independently established",
+  "image": "images/full/book-the-whale-rider.jpg",
+  "ratio": 0.6643990929705216,
+  "alt": "A warm brown carved-looking curved form floats diagonally across dark blue and turquoise water, below white Witi Ihimaera and the whale rider lettering.",
+  "blurb": "A curled form turns water into a frame, and its opening becomes another patch of water.",
+  "notes": [
+   {
+    "title": "An object defined by its opening",
+    "body": "The warm curve encloses blue water. Its outer silhouette and inner void are equally important to recognising the form."
+   },
+   {
+    "title": "Patterns change direction",
+    "body": "Fine incisions follow the brown surface while ripples travel across the blue field. Their different directions help separate object and surroundings."
+   },
+   {
+    "title": "Identity has limits",
+    "body": "The source establishes the edition and author, but does not name the depicted object or its maker. A specific cultural motif should not be inferred from shape alone."
+   }
+  ],
+  "source": "https://www.penguin.co.nz/books/the-whale-rider-9780143011392",
+  "credit": "Penguin New Zealand supplies Raupo paperback ISBN 9780143011392, published 27 November 2008. Neither cover designer nor object maker is identified in the checked record.",
+  "edition": "2008 Raupo paperback; the novel was first published in 1987.",
+  "originNote": "Country describes this edition’s publishing/design context, not the author’s nationality. New Zealand Raupo edition of a work by Māori author Witi Ihimaera.",
+  "originSources": [
+   {
+    "title": "Penguin New Zealand: Raupo 2008 paperback",
+    "url": "https://www.penguin.co.nz/books/the-whale-rider-9780143011392"
+   },
+   {
+    "title": "Penguin New Zealand: The Whale Rider publication history",
+    "url": "https://www.penguin.co.nz/articles/4122-the-new-zealand-popular-penguin-line-up"
+   }
+  ],
+  "creditSources": [
+   {
+    "title": "Penguin New Zealand: Raupo 2008 paperback",
+    "url": "https://www.penguin.co.nz/books/the-whale-rider-9780143011392"
+   },
+   {
+    "title": "Penguin New Zealand: The Whale Rider publication history",
+    "url": "https://www.penguin.co.nz/articles/4122-the-new-zealand-popular-penguin-line-up"
+   }
+  ],
+  "imageSource": "https://www.penguin.co.nz/books/the-whale-rider-9780143011392",
+  "imageCredit": "Penguin New Zealand supplies Raupo paperback ISBN 9780143011392, published 27 November 2008. Neither cover designer nor object maker is identified in the checked record.",
+  "accent": "#237478",
+  "anchor": [
+   0.8468,
+   0.5263
+  ],
+  "reproduction": "Source reproduction retained without generative reconstruction. Analytical layers partition visible source pixels; printing colours and hidden artwork cannot be recovered.",
+  "downloadURL": "https://cdn2.penguin.com.au/covers/original/9780143011392.jpg",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-the-whale-rider.webp"
+ },
+ "studyData": {
+  "intro": "A curled form turns water into a frame, and its opening becomes another patch of water. Follow the details to compare what is visible, what can be interpreted and what the edition record establishes.",
+  "initial": "curve",
+  "regions": [
+   {
+    "id": "curve",
+    "number": 1,
+    "label": "A warm curve crosses cool water",
+    "shortLabel": "Curved object",
+    "kicker": "DESIGN",
+    "summary": "A warm brown form sweeps diagonally across the lower and middle cover.",
+    "layerIndex": 2,
+    "x": 84.68,
+    "y": 52.63,
+    "bounds": {
+     "x": 0,
+     "y": 34,
+     "w": 98,
+     "h": 60
+    },
+    "question": "Can you describe the form’s movement without deciding what the object is?",
+    "related": [
+     "tip",
+     "opening"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Curved object in the image",
+      "body": "A warm brown form sweeps diagonally across the lower and middle cover. Its outer edge rises towards a pointed right-hand tip. Changes in tone and narrow dark grooves distinguish the form from the blue water surrounding it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Follow the curve before naming the object",
+      "body": "The strong curve gives the image a route to follow before the object can be confidently named. The source does not identify the object or its maker, so this study stays with its visible shape rather than assigning a particular cultural motif.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "tip",
+    "number": 2,
+    "label": "A pointed end above an inner spiral",
+    "shortLabel": "Tip and spiral",
+    "kicker": "DESIGN",
+    "summary": "A short upturned tip sits above a curled interior ornament.",
+    "layerIndex": 2,
+    "x": 93,
+    "y": 39,
+    "bounds": {
+     "x": 86,
+     "y": 33,
+     "w": 12,
+     "h": 16
+    },
+    "question": "How does the pointed outer silhouette differ from the spiral drawn inside it?",
+    "related": [
+     "curve",
+     "opening"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Two different contours",
+      "body": "The upper-right end rises into a short pointed tip, with a pale highlight near its top. Just below, a narrow spiral-shaped line curls inside the brown surface. The outer silhouette and interior ornament are distinct features rather than one continuous curled edge.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Outline and ornament suggest different movements",
+      "body": "The pointed end terminates the long diagonal, while the interior spiral sends the eye back around a tighter curve. Comparing them shows how an object’s outline and surface decoration can suggest different movements. The source does not establish the ornament’s name or cultural meaning.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "opening",
+    "number": 3,
+    "label": "Water is visible inside the form",
+    "shortLabel": "Inner opening",
+    "kicker": "DESIGN",
+    "summary": "A blue opening lies within the warm curved structure.",
+    "layerIndex": 0,
+    "x": 55,
+    "y": 74,
+    "bounds": {
+     "x": 35,
+     "y": 63,
+     "w": 34,
+     "h": 24
+    },
+    "question": "Trace the blue opening instead of the brown outline. What new shape do you notice?",
+    "related": [
+     "curve",
+     "tip"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Inner opening in the image",
+      "body": "A blue opening lies within the warm curved structure. Its boundary is partly enclosed by the object, so the same water colour appears both outside and inside. The inner edge is darker and differently shaped from the outer edge.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Look at the opening before the object",
+      "body": "The empty area helps define the object as strongly as its material surface. Looking at the blue shape first reverses the usual figure-ground relationship. This is a useful way to test whether the form remains recognisable when attention shifts away from the brown material.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "incisions",
+    "number": 4,
+    "label": "Fine marks follow the surface",
+    "shortLabel": "Incised pattern",
+    "kicker": "DESIGN",
+    "summary": "Thin dark grooves and lighter edges run across the brown surface.",
+    "layerIndex": 2,
+    "x": 69,
+    "y": 58,
+    "bounds": {
+     "x": 50,
+     "y": 43,
+     "w": 35,
+     "h": 29
+    },
+    "question": "Which line most clearly helps you understand the surface turning?",
+    "related": [
+     "curve",
+     "tip"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Incised pattern in the image",
+      "body": "Thin dark grooves and lighter edges run across the brown surface. They bend and change direction as the form turns. These small marks differ from the looser, mottled patterns in the surrounding water and remain tied to the object’s surface.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Marks describe a worked-looking surface",
+      "body": "The marks help suggest a worked or carved surface, but the reproduction does not identify a technique, maker or symbolic system. Describing their direction is more secure than naming a cultural meaning. Compare where they reinforce the form and where they cross it.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "tail",
+    "number": 5,
+    "label": "The broad sweep narrows below",
+    "shortLabel": "Lower sweep",
+    "kicker": "DESIGN",
+    "summary": "The lower section becomes a long tapering sweep.",
+    "layerIndex": 2,
+    "x": 44.54,
+    "y": 85.92,
+    "bounds": {
+     "x": 24,
+     "y": 66,
+     "w": 45,
+     "h": 28
+    },
+    "question": "Where does the form feel heaviest, and where does it seem to release that weight?",
+    "related": [
+     "curve",
+     "tip"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Lower sweep in the image",
+      "body": "The lower section becomes a long tapering sweep. Warm highlights and darker bands travel along it before the form meets the left side of the image. The widening and narrowing prevent the object from reading as a simple uniform ring.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Changing thickness creates a visual rhythm",
+      "body": "The changing thickness creates a rhythm of expansion and release. Compare the narrow lower end with the heavier upper curve. The sense of movement comes from that variation as well as from the diagonal placement across the cover.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "water",
+    "number": 6,
+    "label": "Deep blue provides a continuous field",
+    "shortLabel": "Deep water",
+    "kicker": "DESIGN",
+    "summary": "Dark blue occupies much of the lower-right area and appears through the inner opening.",
+    "layerIndex": 0,
+    "x": 82,
+    "y": 89,
+    "bounds": {
+     "x": 66,
+     "y": 75,
+     "w": 33,
+     "h": 24
+    },
+    "question": "Which area of water best reveals the object’s edge?",
+    "related": [
+     "curve",
+     "tip"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Deep water in the image",
+      "body": "Dark blue occupies much of the lower-right area and appears through the inner opening. Its surface contains quieter tonal shifts than the turquoise ripples above. The field continues around the object instead of being divided into separate panels.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Quiet water clarifies a complex outline",
+      "body": "The continuous water keeps the object’s complex outline readable. A dark, relatively quiet area gives the warm shape contrast without adding another competing form. Compare the deep blue beside the object with the more detailed water near the title.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "ripples",
+    "number": 7,
+    "label": "Turquoise marks create a second texture",
+    "shortLabel": "Water ripples",
+    "kicker": "DESIGN",
+    "summary": "Turquoise patches and ripple-like marks cluster in the upper and middle water.",
+    "layerIndex": 1,
+    "x": 29,
+    "y": 35,
+    "bounds": {
+     "x": 0,
+     "y": 23,
+     "w": 80,
+     "h": 25
+    },
+    "question": "How can you tell a mark belongs to water rather than to the brown surface?",
+    "related": [
+     "curve",
+     "tip"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Water ripples in the image",
+      "body": "Turquoise patches and ripple-like marks cluster in the upper and middle water. They are irregular and scattered rather than evenly repeated. Some appear near the brown form, but their direction and texture remain distinguishable from its incised lines.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Two surfaces, two kinds of texture",
+      "body": "Two kinds of surface coexist: a worked-looking solid and a shifting-looking field. Their difference helps the eye separate foreground and surroundings. The image suggests water through colour and pattern, but a still reproduction cannot establish a particular current or motion.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "author",
+    "number": 8,
+    "label": "A large name spans two lines",
+    "shortLabel": "Author lettering",
+    "kicker": "LANGUAGE",
+    "summary": "WITI IHIMAERA appears in large white capitals near the top.",
+    "layerIndex": 3,
+    "x": 50.55,
+    "y": 16.76,
+    "bounds": {
+     "x": 1,
+     "y": 1,
+     "w": 98,
+     "h": 22
+    },
+    "question": "Which creates the stronger first impression at small size: the name or the curved form?",
+    "related": [
+     "curve",
+     "tip"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Author lettering in the image",
+      "body": "WITI IHIMAERA appears in large white capitals near the top. The first name sits towards the right, while the surname stretches more widely beneath it. The tall letters stand apart from the irregular textures of the scene below.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Straight letters above a curving form",
+      "body": "The large name gives the author a strong role in the cover’s hierarchy. Its straight strokes contrast with the curled object, linking two very different kinds of shape through white and warm highlights. The exact typeface is not established by this reproduction.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "title",
+    "number": 9,
+    "label": "A quiet title leaves the image room",
+    "shortLabel": "Small book title",
+    "kicker": "LANGUAGE",
+    "summary": "The whale rider appears in a smaller white line below the author’s name.",
+    "layerIndex": 4,
+    "x": 67.34,
+    "y": 25.01,
+    "bounds": {
+     "x": 47,
+     "y": 22,
+     "w": 51,
+     "h": 7
+    },
+    "question": "What does the title encourage you to see, and what does the picture itself actually establish?",
+    "related": [
+     "curve",
+     "tip"
+    ],
+    "tags": [
+     "language",
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Small book title in the image",
+      "body": "The whale rider appears in a smaller white line below the author’s name. Its lower-case appearance and modest scale distinguish it from the tall capitals above. The line remains readable against the blue field without needing a solid label behind it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A suggestive title leaves the object open",
+      "body": "The title gives verbal direction to an image that remains visually open. A reader might connect the words to the pictured form, but that association is not enough to identify the object precisely. Notice the difference between a suggestive title and a documented object label.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "context",
+      "heading": "A story about inheritance and change",
+      "body": "Penguin’s synopsis describes Kahu’s struggle to be recognised in a community where chiefly succession has been expected to pass through men. It connects her story with the legendary whale rider. This literary context does not, by itself, identify the particular carved-looking object on the cover.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "whale"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "edition",
+    "number": 10,
+    "label": "A specific New Zealand paperback",
+    "shortLabel": "Edition context",
+    "kicker": "DESIGN",
+    "summary": "The cover presents a title, author and image, but no large front-facing publication date.",
+    "layerIndex": 0,
+    "x": 7,
+    "y": 86,
+    "bounds": {
+     "x": 0,
+     "y": 78,
+     "w": 20,
+     "h": 20
+    },
+    "question": "Why is the ISBN useful when comparing several covers of the same novel?",
+    "related": [
+     "curve",
+     "tip"
+    ],
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Edition context in the image",
+      "body": "The cover presents a title, author and image, but no large front-facing publication date. Its visual arrangement therefore cannot by itself distinguish the work’s first appearance from the edition reproduced here. The source record supplies that distinction.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "The 2008 paperback and the 1987 novel",
+      "body": "Penguin New Zealand identifies the shown Raupo paperback by ISBN 9780143011392 and dates it to 27 November 2008. Its publication-history material dates the novel to 1987. Neither checked source identifies the cover designer or the maker of the pictured object.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "whale"
+       },
+       {
+        "id": "whalework"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "visual",
+    "title": "Exact reproduced cover: The Whale Rider",
+    "url": "https://www.penguin.co.nz/books/the-whale-rider-9780143011392",
+    "kind": "Visual source",
+    "summary": "Penguin New Zealand supplies Raupo paperback ISBN 9780143011392, published 27 November 2008. Neither cover designer nor object maker is identified in the checked record."
+   },
+   {
+    "id": "whale",
+    "title": "Penguin New Zealand: Raupo 2008 paperback",
+    "url": "https://www.penguin.co.nz/books/the-whale-rider-9780143011392",
+    "kind": "Publisher edition record",
+    "summary": "Penguin New Zealand identifies the shown Raupo paperback by ISBN 9780143011392 and dates it to 27 November 2008. Its publication-history material dates the novel to 1987. Neither checked source identifies the cover designer or the maker of the pictured object."
+   },
+   {
+    "id": "whalework",
+    "title": "Penguin New Zealand: The Whale Rider publication history",
+    "url": "https://www.penguin.co.nz/articles/4122-the-new-zealand-popular-penguin-line-up",
+    "kind": "Publisher publication history",
+    "summary": "Penguin New Zealand: The Whale Rider publication history. Supports the specific history distinguished in the edition note."
+   }
+  ],
+  "tour": [
+   "curve",
+   "tip",
+   "opening",
+   "incisions",
+   "title",
+   "edition"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected legible cover wording",
+    "rows": [
+     {
+      "text": "WITI IHIMAERA",
+      "meaning": "Author’s name",
+      "lang": "en"
+     },
+     {
+      "text": "the whale rider",
+      "meaning": "Book title",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected wording only. Line breaks and typographic case may be regularized. Fine print and endorsement prose are omitted where not needed for this reading. English meanings are editorial translations, not a claim of native-language reader testing.",
+  "palette": [
+   {
+    "name": "Deep water blue",
+    "hex": "#1A3553",
+    "role": "A screen sample from deep water. Compare this local colour with its surrounding shapes.",
+    "region": "water"
+   },
+   {
+    "name": "Ripple turquoise",
+    "hex": "#247378",
+    "role": "A screen sample from water ripples. Compare this local colour with its surrounding shapes.",
+    "region": "ripples"
+   },
+   {
+    "name": "Warm brown surface",
+    "hex": "#B58263",
+    "role": "A screen sample from curved object. Compare this local colour with its surrounding shapes.",
+    "region": "curve"
+   },
+   {
+    "name": "Letter white",
+    "hex": "#FFFFFF",
+    "role": "A screen sample from author lettering. Compare this local colour with its surrounding shapes.",
+    "region": "author"
+   }
+  ],
+  "paletteNote": "Samples are exact pixels from the installed reproduction, chosen within the named feature for perceptual agreement. They describe this screen image, not original ink specifications, paper stock or universal colour meanings.",
+  "connections": [
+   {
+    "title": "Warm curve against cool water",
+    "anchors": [
+     [
+      2,
+      0.8467576791808874,
+      0.5263038548752834
+     ],
+     [
+      0,
+      0.8201365187713311,
+      0.8900226757369615
+     ]
+    ],
+    "id": "book-the-whale-rider-connection-0",
+    "colour": "#be3d74",
+    "label": "Object / water",
+    "text": "Warm brown material separates from the cool blue field through colour, while the object's long outline gives the water distinct surrounding shapes."
+   },
+   {
+    "title": "Two kinds of surface pattern",
+    "anchors": [
+     [
+      2,
+      0.6897610921501707,
+      0.5798185941043084
+     ],
+     [
+      1,
+      0.28976109215017065,
+      0.34988662131519277
+     ]
+    ],
+    "id": "book-the-whale-rider-connection-1",
+    "colour": "#496f80",
+    "label": "Incisions / ripples",
+    "text": "Fine marks follow the solid object's curves, while turquoise ripples scatter across the water; direction helps separate the two surfaces."
+   }
+  ]
+ }
+}

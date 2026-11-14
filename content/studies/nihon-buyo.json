@@ -1,0 +1,611 @@
+{
+ "poster": {
+  "id": "nihon-buyo",
+  "title": "Nihon Buyo",
+  "year": "1981",
+  "yearNumber": 1981,
+  "country": "Japan",
+  "region": "East Asia",
+  "category": "Performance",
+  "creator": "Ikko Tanaka",
+  "edition": "Japanese design for the UCLA Asian Performing Arts Institute’s 1981 programme in Los Angeles, Washington, DC and New York; printed by Toppan.",
+  "image": "images/full/nihon-buyo.jpg",
+  "ratio": 0.706,
+  "width": 706,
+  "height": 1000,
+  "alt": "A stylised Japanese dancer’s face is assembled from a strict grid of black, white and coloured squares, triangles, a circle and small red facial details.",
+  "blurb": "A dancer’s face emerges from a geometric grid, balancing recognisable theatrical makeup with almost abstract colour blocks.",
+  "notes": [
+   {
+    "title": "A face from a grid",
+    "body": "Large black polygons establish the hair, while a pale central column becomes the face. Recognition depends on how simple shapes meet.",
+    "anchor": {
+     "x": 0.5,
+     "y": 0.53
+    }
+   },
+   {
+    "title": "The smallest marks matter",
+    "body": "Tiny red forms supply eyes and mouth. Against the large colour fields, these few curved details carry a disproportionate share of the expression.",
+    "anchor": {
+     "x": 0.425,
+     "y": 0.42
+    }
+   },
+   {
+    "title": "Performance crosses borders",
+    "body": "The upper-left text names a UCLA programme and three U.S. cities. The Japanese dance subject and Tanaka’s design are presented for an American performance context.",
+    "anchor": {
+     "x": 0.16,
+     "y": 0.055
+    }
+   }
+  ],
+  "source": "https://www.moma.org/collection/works/7848",
+  "imageSource": "https://www.moma.org/collection/works/7848",
+  "imageCredit": "Ikko Tanaka, 1981. Collection image courtesy of The Museum of Modern Art, New York, 649.1981. Copyright status not independently cleared.",
+  "downloadURL": "https://www.moma.org/media/W1siZiIsIjIxMTc0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=2ed987fe50ac30b3",
+  "accent": "#169da9",
+  "anchor": [
+   0.5,
+   0.62
+  ],
+  "credit": "Ikko Tanaka, 1981. Collection image courtesy of The Museum of Modern Art, New York, 649.1981. Copyright status not independently cleared.",
+  "anchorLayer": 2,
+  "countries": [
+   "Japan"
+  ],
+  "primaryOrigin": "Japan",
+  "thumb": "images/catalogue/nihon-buyo.webp"
+ },
+ "studyData": {
+  "intro": "A few geometric marks assemble into a face, but the surrounding grid never disappears. Examine how a programme poster can work as both an abstract arrangement and a recognisable figure.",
+  "initial": "grid",
+  "regions": [
+   {
+    "id": "grid",
+    "label": "The three-column structure",
+    "shortLabel": "The three-column structure",
+    "kicker": "DESIGN",
+    "summary": "Repeated divisions give different shapes a shared framework.",
+    "layerIndex": 0,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 100,
+     "h": 100
+    },
+    "x": 66.95,
+    "y": 24.825,
+    "question": "Find a boundary that continues through more than one colour.",
+    "related": [
+     "hair",
+     "face",
+     "lower"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A framework that stays visible",
+      "body": "Two long vertical divisions make three broad columns. Horizontal divisions meet them at several heights, so the upper text square, dark hair and coloured lower blocks feel related. The face is not simply placed on top of a grid; much of its outline is made from the grid itself.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Recognition by rearrangement",
+      "body": "The same rectangle can serve as a cell in an abstract layout and as part of a head or costume. Try looking only at the boundaries, then at the face again. The shift between those readings is available in the visible shapes, without needing to name a specific performer.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 1
+   },
+   {
+    "id": "hair",
+    "label": "The black geometric hair",
+    "shortLabel": "The black geometric hair",
+    "kicker": "DESIGN",
+    "summary": "Broad dark masses flank the narrow face.",
+    "layerIndex": 1,
+    "bounds": {
+     "x": 0,
+     "y": 25,
+     "w": 100,
+     "h": 50
+    },
+    "x": 14,
+    "y": 40,
+    "question": "Which edges look architectural, and which still suggest a hairstyle?",
+    "related": [
+     "grid",
+     "face",
+     "circle"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A silhouette with cut corners",
+      "body": "The dark shapes run down both sides of the face, then taper inward along long diagonals. Across the upper centre, another dark rectangle connects the mass. There are no individual hair strands; outer contour and contrast do almost all of the descriptive work.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Darkness as a frame",
+      "body": "These large dark areas make the pale face look especially long and narrow. They also keep the small red features from being lost in the otherwise pale centre. Cover one side and compare the result: the strong, nearly paired framing is part of the face’s stability.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 2
+   },
+   {
+    "id": "face",
+    "label": "The long pale face",
+    "shortLabel": "The long pale face",
+    "kicker": "DESIGN",
+    "summary": "A pale column becomes a face through a few interruptions.",
+    "layerIndex": 2,
+    "bounds": {
+     "x": 33.7,
+     "y": 37.5,
+     "w": 33,
+     "h": 62
+    },
+    "x": 50,
+    "y": 55,
+    "question": "How much of this column can be covered before the face stops reading?",
+    "related": [
+     "eyes",
+     "mouth",
+     "hair"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A face without modelling",
+      "body": "The central pale shape has almost no conventional shading around a nose, chin or cheeks. Its identity comes largely from the eyes and mouth placed within it. The unusually long continuation toward the lower edge keeps the face connected to the abstract composition rather than enclosing it neatly.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An open-ended shape",
+      "body": "Because the pale column continues into a diagonal below, it can also read as part of clothing or as a bare geometric field. That uncertainty is useful: the design does not require every boundary to describe anatomy. Recognition can survive even when several physical details are withheld.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 3
+   },
+   {
+    "id": "eyes",
+    "label": "Paired red and black eyes",
+    "shortLabel": "Paired red and black eyes",
+    "kicker": "DESIGN",
+    "summary": "Small overlapping forms provide expression.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 33.5,
+     "y": 37.4,
+     "w": 33.2,
+     "h": 6.4
+    },
+    "x": 39,
+    "y": 40,
+    "question": "Compare the two black shapes: are they exact mirror images?",
+    "related": [
+     "mouth",
+     "face",
+     "band"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Two circles interrupted",
+      "body": "Each eye area combines a red circular shape with a smaller black form that narrows toward a point. The marks sit close to the sides of the pale column. Their small scale matters because almost everything around them is much larger, straighter and less detailed.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Expression from minimal difference",
+      "body": "A slight change of overlap or direction can make these marks feel like lowered lids or a sideways glance. Those are readings of an abstract face, not a secure description of a named dance role. Notice how much expressive information you supply from very little visible material.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 4
+   },
+   {
+    "id": "mouth",
+    "label": "The small red mouth",
+    "shortLabel": "The small red mouth",
+    "kicker": "DESIGN",
+    "summary": "A compact accent anchors the otherwise empty face.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 47,
+     "y": 61.5,
+     "w": 6.5,
+     "h": 6
+    },
+    "x": 50,
+    "y": 64,
+    "question": "Move your attention between eyes and mouth: which interval feels largest?",
+    "related": [
+     "eyes",
+     "face",
+     "lower"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A tiny centre of colour",
+      "body": "The mouth consists of a rounded red shape with a small upper rise. It is much lower than the eyes and surrounded by uninterrupted pale space. That large interval makes the face feel elongated without requiring a drawn nose or a detailed lower jaw.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Scale rather than detail",
+      "body": "The mouth is one of the smallest strongly coloured features, yet it remains easy to locate. Its isolation does that work. Compare it with the large red block below: one colour serves both an intimate facial mark and a broad compositional weight.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 5
+   },
+   {
+    "id": "band",
+    "label": "The purple forehead band",
+    "shortLabel": "The purple forehead band",
+    "kicker": "DESIGN",
+    "summary": "A horizontal colour block interrupts the central dark column.",
+    "layerIndex": 4,
+    "bounds": {
+     "x": 33.7,
+     "y": 25.2,
+     "w": 33,
+     "h": 12.3
+    },
+    "x": 51,
+    "y": 31,
+    "question": "What changes when the purple band is covered?",
+    "related": [
+     "eyes",
+     "circle",
+     "hair"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A clean horizontal interruption",
+      "body": "The purple rectangle fills the middle column directly above the eyes. Its top and bottom edges are straight, and it shares its width with the face beneath. The band creates a pause between the dark upper block and the much paler facial area.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A colour with two neighbours",
+      "body": "The purple appears next to near-black above and pale cream below, so each edge has a different strength. Compare those two boundaries before assigning the shape a costume name. Its structural job is clear even when its precise representational role is left open.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 6
+   },
+   {
+    "id": "circle",
+    "label": "The cyan circle",
+    "shortLabel": "The cyan circle",
+    "kicker": "DESIGN",
+    "summary": "A complete curve balances the angular composition.",
+    "layerIndex": 4,
+    "bounds": {
+     "x": 66.8,
+     "y": 3.9,
+     "w": 30,
+     "h": 21.3
+    },
+    "x": 82,
+    "y": 14,
+    "question": "Which other curves are visible, and how much smaller are they?",
+    "related": [
+     "eyes",
+     "band",
+     "grid"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "One large complete curve",
+      "body": "The cyan circle nearly fills the upper-right pale square. Unlike the dark hair’s clipped diagonals, it is a complete, smooth shape with room around its edge. Its position balances the text block at upper left without matching the text block’s texture.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A comparison of scales",
+      "body": "The circle gives the tiny rounded eyes and mouth a much larger geometric relative. This is a formal connection, not proof that the circle represents a particular accessory. Compare the shapes as sizes first, then decide how much recognisable meaning the image actually supplies.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 7
+   },
+   {
+    "id": "lower",
+    "label": "The lower colour blocks",
+    "shortLabel": "The lower colour blocks",
+    "kicker": "DESIGN",
+    "summary": "Diagonals and rectangles keep the portrait tied to the page.",
+    "layerIndex": 5,
+    "bounds": {
+     "x": 0,
+     "y": 74.7,
+     "w": 100,
+     "h": 25.3
+    },
+    "x": 82,
+    "y": 87,
+    "question": "Follow the face’s lower diagonal into the green shape: where does the figure end?",
+    "related": [
+     "grid",
+     "mouth",
+     "face"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Weight at the bottom",
+      "body": "Blue, green and red shapes occupy the lower part of the sheet, with the pale face cutting diagonally between them. The red rectangle is broad and stable; the blue and green areas have more directional edges. Together they counter the large dark mass above.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A body suggested rather than described",
+      "body": "These blocks can suggest clothing beneath the face, but there are no carefully drawn arms or shoulders to settle that reading. Their chief visible relationship is geometric: they continue the column widths and diagonals. The poster allows a figure to emerge without abandoning abstraction.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 8
+   },
+   {
+    "id": "programme",
+    "label": "The programme heading",
+    "shortLabel": "The programme heading",
+    "kicker": "LANGUAGE",
+    "summary": "Plain dark words occupy the upper-left cell.",
+    "layerIndex": 6,
+    "bounds": {
+     "x": 2,
+     "y": 1.5,
+     "w": 30,
+     "h": 10
+    },
+    "x": 16.028,
+    "y": 8.008,
+    "question": "Why can the text stay small while remaining easy to find?",
+    "related": [
+     "cities",
+     "grid",
+     "circle"
+    ],
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A named programme",
+      "body": "The visible heading reads “Nihon Buyo,” followed by “UCLA Asian Performing Arts Institute 1981.” The words identify the programme and institution within the poster itself. The study keeps the romanised title as printed instead of inventing Japanese characters that are not shown on this edition.",
+      "evidence": "observation",
+      "originalText": "Nihon Buyo",
+      "lang": "ja-Latn"
+     },
+     {
+      "kind": "context",
+      "heading": "The documented object",
+      "body": "MoMA identifies the poster as Ikko Tanaka’s Nihon Buyo, dated 1981, and records offset lithography with Toppan Printing Co. as printer. That is evidence about the printed object. It does not establish which particular dance character, if any, the abstract face is meant to portray.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "moma"
+       }
+      ]
+     }
+    ],
+    "number": 9
+   },
+   {
+    "id": "cities",
+    "label": "Three named cities",
+    "shortLabel": "Three named cities",
+    "kicker": "BUSINESS",
+    "summary": "A short list gives the programme a geographic frame.",
+    "layerIndex": 6,
+    "bounds": {
+     "x": 2,
+     "y": 12,
+     "w": 29,
+     "h": 7
+    },
+    "x": 17.163,
+    "y": 15.315,
+    "question": "Compare the list’s left edge with the large vertical boundary beside it.",
+    "related": [
+     "programme",
+     "grid",
+     "lower"
+    ],
+    "tags": [
+     "business",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "A programme with named places",
+      "body": "Los Angeles, Washington, D.C., and New York are printed in a compact list below the institution’s name. These locations are part of the sheet’s practical information. Their presence does not turn the Japanese designer’s work into an American design attribution; commission context and authorship remain separate.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Order inside an expressive image",
+      "body": "The city names follow one left alignment and a consistent line spacing. That quiet block contrasts with the face’s unusual proportions. Because it occupies a complete pale cell, the list can perform its informational task without needing a border or a separate explanatory panel.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 10
+   }
+  ],
+  "sources": [
+   {
+    "id": "moma",
+    "title": "MoMA: Ikko Tanaka, Nihon Buyo",
+    "url": "https://www.moma.org/collection/works/7848",
+    "kind": "Museum object record",
+    "summary": "Identifies Tanaka, 1981, offset lithography and Toppan Printing Co.; record 649.1981. The programme wording is observed on the installed image."
+   }
+  ],
+  "tour": [
+   "programme",
+   "grid",
+   "hair",
+   "eyes",
+   "mouth",
+   "lower",
+   "circle"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "Nihon Buyo",
+      "meaning": "Romanised programme title, commonly rendered Japanese dance",
+      "lang": "ja-Latn"
+     },
+     {
+      "text": "UCLA Asian Performing Arts Institute 1981",
+      "meaning": "Institution and programme year",
+      "lang": "en"
+     },
+     {
+      "text": "Los Angeles / Washington, D.C. / New York",
+      "meaning": "Printed city list",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "The large romanised title and English programme information are readable. Small lower imprints are not fully transcribed. No specific dance role, makeup tradition or performer identity is inferred from the abstract face.",
+  "palette": [
+   {
+    "name": "Hair black",
+    "hex": "#131019",
+    "role": "Broad framing mass",
+    "region": "hair"
+   },
+   {
+    "name": "Face cream",
+    "hex": "#ebf1e3",
+    "role": "Long unmodelled central field",
+    "region": "face"
+   },
+   {
+    "name": "Mouth red",
+    "hex": "#c50409",
+    "role": "Small facial accent",
+    "region": "mouth"
+   },
+   {
+    "name": "Cyan circle",
+    "hex": "#58cbe0",
+    "role": "Large complete curve",
+    "region": "circle"
+   },
+   {
+    "name": "Purple band",
+    "hex": "#ac5ec4",
+    "role": "Horizontal interruption",
+    "region": "band"
+   },
+   {
+    "name": "Lower green",
+    "hex": "#25806e",
+    "role": "Diagonal base",
+    "region": "lower"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels of the installed reproduction; these are not original ink or paper specifications.",
+  "connections": [
+   {
+    "label": "Small expression",
+    "title": "A face located by three small marks",
+    "text": "Two compact eye forms and one red mouth turn a long pale shape into a face. Their scale is tiny beside the surrounding black geometry.",
+    "anchors": [
+     [
+      3,
+      0.37322946175637395,
+      0.4055
+     ],
+     [
+      3,
+      0.5007082152974505,
+      0.6455
+     ],
+     [
+      2,
+      0.48937677053824363,
+      0.5305
+     ],
+     [
+      1,
+      0.18059490084985835,
+      0.3805
+     ]
+    ],
+    "id": "nihon-buyo-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Grid and diagonal",
+    "title": "A square structure with a descending face",
+    "text": "The upper fields follow a strict grid. Lower triangles redirect that grid into diagonals, extending the pale face toward the bottom edge.",
+    "anchors": [
+     [
+      4,
+      0.8094900849858357,
+      0.1405
+     ],
+     [
+      2,
+      0.4497167138810198,
+      0.8005
+     ],
+     [
+      5,
+      0.5007082152974505,
+      0.9305
+     ]
+    ],
+    "id": "nihon-buyo-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

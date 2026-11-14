@@ -1,0 +1,561 @@
+{
+ "poster": {
+  "id": "gismonda",
+  "title": "Gismonda",
+  "year": "1894",
+  "yearNumber": 1894,
+  "country": "France",
+  "region": "Europe",
+  "category": "Performance",
+  "creator": "Alphonse Mucha",
+  "edition": "Paris theatrical poster, designed in 1894 for the production opening 4 January 1895; printed by Lemercier.",
+  "image": "images/full/gismonda.jpg",
+  "ratio": 0.341,
+  "width": 341,
+  "height": 1000,
+  "alt": "A tall Art Nouveau poster of Sarah Bernhardt in an ornate gown, holding a palm frond beneath an arch of lettering.",
+  "blurb": "A stage performance becomes a slender, almost architectural portrait: botanical ornament and theatrical lettering surround Sarah Bernhardt.",
+  "notes": [
+   {
+    "title": "A figure becomes a column",
+    "body": "The unusually narrow sheet gives Bernhardt an elongated presence. Her upright body and the palm frond carry the eye through almost the full height."
+   },
+   {
+    "title": "A name forms an arch",
+    "body": "Bernhardt’s name curves around the head like a theatrical proscenium. The lettering is part of the setting, rather than a separate caption."
+   },
+   {
+    "title": "Two dates, one production",
+    "body": "Mucha designed the poster in 1894 for a production opening in January 1895. The theatre name anchors the ornament to a specific Paris venue."
+   }
+  ],
+  "source": "https://www.muchafoundation.org/en/gallery/browse-works/object_type/posters/object/21/",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Alfons_Mucha_-_1894_-_Gismonda.jpg",
+  "imageCredit": "Alphonse Mucha, 1894. Public-domain artwork; reproduction via Wikimedia Commons.",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Alfons_Mucha_-_1894_-_Gismonda.jpg",
+  "accent": "#b69d4c",
+  "anchor": [
+   0.54,
+   0.35
+  ],
+  "credit": "Alphonse Mucha, 1894. Public-domain artwork; reproduction via Wikimedia Commons.",
+  "countries": [
+   "France"
+  ],
+  "primaryOrigin": "France",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/gismonda.webp"
+ },
+ "studyData": {
+  "intro": "A theatrical advertisement turns a performer into an architectural presence. Follow the narrow sheet from the play’s name, through Sarah Bernhardt’s curved billing and ornate costume, down to the theatre. Mucha’s 1894 design promoted a production opening in January 1895; those are different dates, not contradictory ones.",
+  "initial": "gismonda-headline",
+  "regions": [
+   {
+    "id": "gismonda-headline",
+    "number": 1,
+    "label": "The name above the arch",
+    "shortLabel": "The name above the arch",
+    "kicker": "THE PLAY’S TITLE",
+    "summary": "GISMONDA forms a broad horizontal roof.",
+    "x": 50,
+    "y": 5.5,
+    "bounds": {
+     "x": 5,
+     "y": 2,
+     "w": 90,
+     "h": 7
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "The play’s title",
+      "body": "GISMONDA names the play. The letters are spread across a long rectangle at the very top, apart from the performer’s curved name below. Keeping those two names visually distinct helps the reader separate the dramatic work from the person being advertised.",
+      "evidence": "observation",
+      "originalText": "GISMONDA",
+      "lang": "fr",
+      "translation": "Gismonda, the title of the play"
+     },
+     {
+      "kind": "design",
+      "heading": "A horizontal beginning to a vertical sheet",
+      "body": "Dark blue letters sit against a warm patterned ground. Their varied curves contrast with the square grid around them, while their shared height holds the row together. This firm horizontal opening makes the extraordinary length of the figure below even more noticeable.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Which gives the title more presence: its colour or its position?",
+    "related": [
+     "gismonda-arch",
+     "gismonda-mosaic"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "gismonda-arch",
+    "number": 2,
+    "label": "The performer’s name as architecture",
+    "shortLabel": "The performer’s name as architecture",
+    "kicker": "LETTERS FOLLOW A CURVED ROUTE",
+    "summary": "Bernhardt’s billing curves around her head.",
+    "x": 56,
+    "y": 22,
+    "bounds": {
+     "x": 16,
+     "y": 11,
+     "w": 80,
+     "h": 22
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Letters follow a curved route",
+      "body": "Large pale letters sit in an orange arch around the head. Their baselines bend with the decorative band rather than running straight across the sheet. The name becomes part of the setting and keeps attention near the face without drawing a separate portrait frame.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Star and director",
+      "body": "The Mucha Foundation identifies Sarah Bernhardt as both actor and director of the production. Her prominent billing therefore refers to more than a character in the story. That record establishes her role; the halo-like visual effect remains an interpretation of the printed arrangement.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "Does the name feel like a caption, a halo or part of a stage?",
+    "related": [
+     "gismonda-face",
+     "gismonda-headline"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "gismonda-face",
+    "number": 3,
+    "label": "A profile held within ornament",
+    "shortLabel": "A profile held within ornament",
+    "kicker": "QUIET FEATURES WITHIN BUSY SURROUNDINGS",
+    "summary": "The pale face is small but carefully framed.",
+    "x": 56,
+    "y": 26.5,
+    "bounds": {
+     "x": 45,
+     "y": 21,
+     "w": 22,
+     "h": 11
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Quiet features within busy surroundings",
+      "body": "The face turns left in profile. Its relatively smooth, pale surface contrasts with the detailed headdress, hair and robe. A small dark outline makes the nose and chin legible, creating a calm interruption in an otherwise densely ornamented upper section.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Recognition through framing",
+      "body": "The surrounding arch and flowers concentrate attention without making the face large. The poster offers an idealised stage presence rather than the neutral lighting and background of an identification photograph. That is a comparison of visual treatments, not a claim about Bernhardt’s actual personality.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Why can such a small face remain noticeable among so much pattern?",
+    "related": [
+     "gismonda-flowers",
+     "gismonda-arch"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "gismonda-flowers",
+    "number": 4,
+    "label": "An orchid headdress",
+    "shortLabel": "An orchid headdress",
+    "kicker": "A SOFT-EDGED CROWN",
+    "summary": "A cluster of petals crowns the profile.",
+    "x": 60,
+    "y": 22.5,
+    "bounds": {
+     "x": 42,
+     "y": 18,
+     "w": 36,
+     "h": 9
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A soft-edged crown",
+      "body": "Pink and lilac flower shapes spread above and beside the hair. Their uneven contours interrupt the more regular curve of the name band. Fine outlines and small shadows allow separate petals to register while the whole group remains one compact crown.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A costume for the stage",
+      "body": "The Foundation identifies the headdress as orchids and the clothing as Bernhardt’s costume for the play’s last act. This documents what the pictured adornment represents. It does not establish a universal symbolic meaning for every flower or colour in the design.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "Which petals stand apart, and which merge into a textured mass?",
+    "related": [
+     "gismonda-face",
+     "gismonda-robe"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "gismonda-palm",
+    "number": 5,
+    "label": "The branch that climbs the sheet",
+    "shortLabel": "The branch that climbs the sheet",
+    "kicker": "A REPEATED POINTED RHYTHM",
+    "summary": "A slender plant rivals the figure’s height.",
+    "x": 23.5,
+    "y": 33.5,
+    "bounds": {
+     "x": 6,
+     "y": 9,
+     "w": 35,
+     "h": 49
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A repeated pointed rhythm",
+      "body": "Long narrow leaves branch from a nearly vertical stem on the left. Their pointed shapes overlap the curved name band and extend close to the title. The cool greens and blues make a distinct route beside the warmer costume rather than merging into it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A procession within the play",
+      "body": "The Foundation relates the palm branch to the final-act Easter procession. This specific theatrical context is more reliable than assigning the branch a general meaning from appearance alone. The poster compresses that scene into a single standing figure and a recognisable prop.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "How do the directions of the leaves compare with the folds of the robe?",
+    "related": [
+     "gismonda-hand",
+     "gismonda-headline"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "gismonda-hand",
+    "number": 6,
+    "label": "Two different hand gestures",
+    "shortLabel": "Two different hand gestures",
+    "kicker": "TWO SMALL POINTS OF ARTICULATION",
+    "summary": "One hand carries the branch; the other rests near the chest.",
+    "x": 41.5,
+    "y": 42,
+    "bounds": {
+     "x": 13,
+     "y": 33,
+     "w": 57,
+     "h": 18
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Two small points of articulation",
+      "body": "The extended leftward arm ends in the hand holding the stem; the other hand is raised against the chest. Pale fingers interrupt the richly patterned sleeves. These two gestures give the otherwise column-like figure small changes in direction and establish contact with the prop.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A pose with controlled movement",
+      "body": "The hands make the body feel poised rather than motionless. The branch-holding arm reaches outward while the raised hand turns attention inward towards the upper torso. Those directional effects are visible even without knowing the dramatic action surrounding the pose.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How do the two hands connect the costume to the plant?",
+    "related": [
+     "gismonda-palm",
+     "gismonda-robe"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "gismonda-robe",
+    "number": 7,
+    "label": "An upright field of ornament",
+    "shortLabel": "An upright field of ornament",
+    "kicker": "PATTERN ORGANISED BY THE BODY",
+    "summary": "The gown carries dense pattern through most of the image.",
+    "x": 59.5,
+    "y": 55,
+    "bounds": {
+     "x": 29,
+     "y": 30,
+     "w": 61,
+     "h": 50
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Pattern organised by the body",
+      "body": "Gold-toned motifs, pale blue panels and dark outlines run down the robe. Broad vertical divisions preserve the figure’s shape despite the many small decorations. The upper sleeves extend sideways, but the long central panel keeps the eye travelling toward the base.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Richness through contrast",
+      "body": "The gown appears elaborate because its patterned areas sit beside quiet paper and the smooth face. If every surface were equally detailed, the costume would lose that distinction. Try comparing its busiest panel with the blank margin at the right before naming the overall effect.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does the pattern change enough to reveal a fold or garment edge?",
+    "related": [
+     "gismonda-hand",
+     "gismonda-hem"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "gismonda-hem",
+    "number": 8,
+    "label": "Fabric breaks the narrow column",
+    "shortLabel": "Fabric breaks the narrow column",
+    "kicker": "A GATHERED ENDING",
+    "summary": "The lower folds spread beyond the upright figure.",
+    "x": 30.5,
+    "y": 83.5,
+    "bounds": {
+     "x": 0,
+     "y": 69,
+     "w": 61,
+     "h": 29
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A gathered ending",
+      "body": "The robe’s lower fabric bends and spreads across the bottom-left area. Pale folds overlap the theatre plaque and move away from the body’s straight axis. Their irregular diagonals prevent the long figure from ending like a rigid architectural pillar.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Layering before exploded layers",
+      "body": "The garment visibly passes in front of parts of the lettering structure. That overlap makes the decorative setting and costume share a shallow space. The analytical layers reveal the same relationship; they do not recover hidden drawing behind the fabric.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Which diagonal folds interrupt the otherwise vertical composition?",
+    "related": [
+     "gismonda-robe",
+     "gismonda-theatre"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "gismonda-theatre",
+    "number": 9,
+    "label": "The theatre becomes a base",
+    "shortLabel": "The theatre becomes a base",
+    "kicker": "A VENUE BENEATH THE PERFORMER",
+    "summary": "Renaissance lettering gives the image an addressable venue.",
+    "x": 57.5,
+    "y": 87.5,
+    "bounds": {
+     "x": 18,
+     "y": 81,
+     "w": 79,
+     "h": 13
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A venue beneath the performer",
+      "body": "THÉÂTRE DE LA RENAISSANCE names the Paris theatre. The letters bend within an irregular lower plaque rather than forming a conventional straight footer. Their location completes a clear sequence: play at the top, performer around the head, venue beneath the costume.",
+      "evidence": "observation",
+      "originalText": "THÉÂTRE DE LA RENAISSANCE",
+      "lang": "fr",
+      "translation": "Renaissance Theatre"
+     },
+     {
+      "kind": "business",
+      "heading": "An artwork that still needs to advertise",
+      "body": "The Foundation records the 1894 design for the new production opening on 4 January 1895. The venue makes the ornate image useful as an advertisement. The print date, production opening and later uses should be distinguished rather than compressed into a single year.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "What practical information does this decorative plaque supply?",
+    "related": [
+     "gismonda-headline",
+     "gismonda-hem"
+    ],
+    "layerIndex": 5
+   },
+   {
+    "id": "gismonda-mosaic",
+    "number": 10,
+    "label": "A printed frame and small imprint",
+    "shortLabel": "A printed frame and small imprint",
+    "kicker": "REGULAR STRUCTURE AROUND IRREGULAR FORMS",
+    "summary": "The enclosing grid holds the ornament together.",
+    "x": 50,
+    "y": 50,
+    "bounds": {
+     "x": 3,
+     "y": 1,
+     "w": 94,
+     "h": 98
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Regular structure around irregular forms",
+      "body": "Thin rectangular borders and small mosaic-like divisions run around the title and upper setting. These measured lines contrast with leaves, flowers and fabric. The enclosing structure helps the very narrow sheet remain coherent while different kinds of ornament compete for attention.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A printer named at the bottom",
+      "body": "The lower imprint reads IMPRIMERIES LEMERCIER, PARIS. The Foundation independently names Lemercier as printer and identifies the work as a colour lithograph. Those facts concern the physical poster; the six analytical image layers here should not be mistaken for six original printing stones.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "Follow the frame: where does the figure seem to press against it?",
+    "related": [
+     "gismonda-headline",
+     "gismonda-theatre"
+    ],
+    "layerIndex": 0
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed Gismonda poster reproduction",
+    "url": "https://commons.wikimedia.org/wiki/File:Alfons_Mucha_-_1894_-_Gismonda.jpg",
+    "kind": "Visual source",
+    "summary": "The exact edition shown is the evidence for visible shapes, wording, positions and reproduction samples. The linked record identifies the image; readings of its visual effects are supplied by Poster Atlas."
+   },
+   {
+    "id": "record",
+    "title": "Mucha Foundation: Poster for Gismonda",
+    "url": "https://www.muchafoundation.org/en/gallery/browse-works/object_type/posters/object/21/",
+    "kind": "Artist foundation",
+    "summary": "Verifies the design date, January 1895 production opening, Bernhardt’s roles, final-act costume and palm, printer and lithographic medium."
+   }
+  ],
+  "tour": [
+   "gismonda-headline",
+   "gismonda-arch",
+   "gismonda-face",
+   "gismonda-palm",
+   "gismonda-robe",
+   "gismonda-theatre"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected wording in this edition",
+    "rows": [
+     {
+      "text": "GISMONDA",
+      "meaning": "Gismonda, the play title",
+      "lang": "fr"
+     },
+     {
+      "text": "BERNHARDT",
+      "meaning": "Sarah Bernhardt, the performer",
+      "lang": "fr"
+     },
+     {
+      "text": "THÉÂTRE DE LA RENAISSANCE",
+      "meaning": "Renaissance Theatre",
+      "lang": "fr"
+     },
+     {
+      "text": "IMPRIMERIES LEMERCIER, PARIS",
+      "meaning": "Lemercier printing works, Paris",
+      "lang": "fr"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected large lettering and the legible printer’s imprint. The signature is not expanded into additional wording.",
+  "palette": [
+   {
+    "name": "Title blue",
+    "hex": "#142C48",
+    "role": "Dark lettering at the top",
+    "region": "gismonda-headline"
+   },
+   {
+    "name": "Arch orange",
+    "hex": "#CE8C40",
+    "role": "A warm band around the performer",
+    "region": "gismonda-arch"
+   },
+   {
+    "name": "Palm green",
+    "hex": "#5A6962",
+    "role": "A cool vertical counterpoint",
+    "region": "gismonda-palm"
+   },
+   {
+    "name": "Gown gold",
+    "hex": "#BF9944",
+    "role": "An elaborate foreground surface",
+    "region": "gismonda-robe"
+   }
+  ],
+  "paletteNote": "Approximate screen samples from the installed reproduction. These describe image pixels, not original inks, paper colours or calibrated printing specifications."
+ }
+}

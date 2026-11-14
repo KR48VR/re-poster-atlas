@@ -1,0 +1,635 @@
+{
+ "poster": {
+  "id": "book-pedro-paramo",
+  "title": "Pedro Páramo",
+  "year": "1955",
+  "yearNumber": 1955,
+  "coverYear": "1955",
+  "bookFirstPublication": "1955",
+  "bookAuthor": "Juan Rulfo",
+  "bookPublisher": "Fondo de Cultura Económica",
+  "bookOrigin": "Mexican Spanish-language novel by Juan Rulfo, first published in Mexico City in 1955.",
+  "creator": "Ricardo Martínez (vignette)",
+  "country": "Mexico",
+  "countries": [
+   "Mexico"
+  ],
+  "primaryOrigin": "Mexico",
+  "region": "Latin America & Caribbean",
+  "category": "Book cover",
+  "image": "images/full/book-pedro-paramo.jpg",
+  "ratio": 0.7466666666666667,
+  "alt": "A worn cream jacket with a fine double ruled frame, orange italic title, black author name, and a small dark vignette of an upright draped form among long curved points.",
+  "blurb": "A small, sharp vignette interrupts a quiet structure of rules and lettering.",
+  "notes": [
+   {
+    "title": "The displayed edition",
+    "body": "Fondo de Cultura Económica, Mexico City, 1955; Letras Mexicanas 19, first edition. The jacket photograph comes from Cristian Astete’s documented copy."
+   },
+   {
+    "title": "Writing and image-making",
+    "body": "The Ricardo Martínez foundation documents his vignettes for the 1955 Pedro Páramo. This supports the illustration credit, without assigning every typographic or publishing element to him."
+   },
+   {
+    "title": "A visible design relationship",
+    "body": "The orange title is echoed by the smaller series line. Thin rectangular rules contrast with the vignette’s curved and pointed shapes."
+   }
+  ],
+  "source": "https://www.cristianastete.cl/producto/pedro-paramo-juan-rulfo/",
+  "credit": "The Ricardo Martínez foundation documents his vignettes for the 1955 Pedro Páramo. This supports the illustration credit, without assigning every typographic or publishing element to him.",
+  "reproduction": "A 336 × 450 photograph of the physical jacket, including wear, creases and surrounding book edges.",
+  "anchor": [
+   0.48,
+   0.63
+  ],
+  "accent": "#b88754",
+  "edition": "Fondo de Cultura Económica, Mexico City, 1955; Letras Mexicanas 19, first edition. The jacket photograph comes from Cristian Astete’s documented copy.",
+  "imageSource": "https://www.cristianastete.cl/producto/pedro-paramo-juan-rulfo/",
+  "imageCredit": "The Ricardo Martínez foundation documents his vignettes for the 1955 Pedro Páramo. This supports the illustration credit, without assigning every typographic or publishing element to him.",
+  "coverPublisher": "Fondo de Cultura Económica",
+  "posterYear": "1955",
+  "posterTerritory": "Mexico",
+  "posterDateStatus": "The displayed edition or catalogued object date; the original work date is recorded separately.",
+  "originNote": "Country and region describe the displayed edition’s publishing context. The author and work context are recorded separately.",
+  "originSources": [
+   {
+    "title": "Displayed edition record",
+    "url": "https://www.cristianastete.cl/producto/pedro-paramo-juan-rulfo/"
+   }
+  ],
+  "creditSources": [
+   {
+    "title": "Artist foundation: 1955 vignettes",
+    "url": "https://fundacionricardomartinez.net/resena-vinetas/"
+   },
+   {
+    "title": "ELEM edition record",
+    "url": "https://www.elem.mx/obra/datos/2838"
+   }
+  ],
+  "downloadURL": "https://www.cristianastete.cl/wp-content/uploads/2017/06/1037.jpg",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-pedro-paramo.webp"
+ },
+ "studyData": {
+  "intro": "A small vignette interrupts a restrained frame of rules and type. The whole printed vignette stays together: its thin points and interlocking figures are studied without forcing an uncertain cut through the illustration.",
+  "initial": "title",
+  "regions": [
+   {
+    "id": "figure",
+    "number": 1,
+    "label": "An interlocking central vignette",
+    "shortLabel": "The vignette",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "A compact upright form sits among long pointed shapes in the lower middle of the jacket.",
+    "layerIndex": 4,
+    "x": 48.06548,
+    "y": 62.11111,
+    "bounds": {
+     "x": 25,
+     "y": 49,
+     "w": 50,
+     "h": 26
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "A compact upright form sits among long pointed shapes in the lower middle of the jacket. Dark outlines and lighter internal marks overlap within the small illustration.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The small image gains emphasis from the paper around it. Its interlocking contours resist an instant reading, inviting closer inspection after the title.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "context",
+      "heading": "The artist’s foundation identifies the image",
+      "body": "The Ricardo Martínez foundation describes this cover vignette as two figures embracing with a large maguey behind them. That documented description adds an identification to the visible interlocking forms; it does not assign the figures an unverified narrative identity.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "martinez"
+       }
+      ]
+     }
+    ],
+    "question": "What do you notice first in the vignette: the upright centre or the long points?",
+    "related": [
+     "points",
+     "author"
+    ]
+   },
+   {
+    "id": "points",
+    "number": 2,
+    "label": "Long points extend from the centre",
+    "shortLabel": "Pointed leaves",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Several slender points reach outward from the central form.",
+    "layerIndex": 4,
+    "x": 68.00595,
+    "y": 62.33333,
+    "bounds": {
+     "x": 26,
+     "y": 54,
+     "w": 48,
+     "h": 20
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Several slender points reach outward from the central form. They narrow into sharp ends and contrast with the more rounded upright contours.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The outward points enlarge the illustration’s reach without filling its bounding area. They can make a small image feel more active than its size suggests.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How would the vignette change if the points ended bluntly?",
+    "related": [
+     "title",
+     "frame"
+    ]
+   },
+   {
+    "id": "title",
+    "number": 3,
+    "label": "A warm italic title",
+    "shortLabel": "Orange title",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Pedro Páramo appears in orange italic lettering near the top.",
+    "layerIndex": 2,
+    "x": 51.04167,
+    "y": 16.11111,
+    "bounds": {
+     "x": 17,
+     "y": 12,
+     "w": 65,
+     "h": 8
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Pedro Páramo appears in orange italic lettering near the top. The line is larger than the black author name beneath it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The warm accent gives the title priority within a mostly quiet palette. The slant of the letters also introduces movement before the sharper vignette below.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What does the orange contribute that a larger black title might not?",
+    "related": [
+     "author",
+     "divider"
+    ]
+   },
+   {
+    "id": "author",
+    "number": 4,
+    "label": "A compact author credit",
+    "shortLabel": "Juan Rulfo",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "The small word por sits above Juan Rulfo in dark capitals.",
+    "layerIndex": 3,
+    "x": 52.23214,
+    "y": 27.22222,
+    "bounds": {
+     "x": 34,
+     "y": 21,
+     "w": 32,
+     "h": 10
+    },
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "The small word por sits above Juan Rulfo in dark capitals. Both lines are centred under the wider orange title.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "A compact credit leaves a large pause before the illustration. This spacing separates the act of naming the author from the less immediately legible image.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "language",
+      "heading": "A small word assigns authorship",
+      "body": "The Spanish por introduces Juan Rulfo as the writer. Its modest size keeps the name and role readable without competing with the orange title above.",
+      "evidence": "observation",
+      "sources": [],
+      "originalText": "por Juan Rulfo",
+      "lang": "es",
+      "translation": "by Juan Rulfo"
+     }
+    ],
+    "question": "How much of the hierarchy depends on size, and how much on the surrounding paper?",
+    "related": [
+     "frame",
+     "series"
+    ]
+   },
+   {
+    "id": "frame",
+    "number": 5,
+    "label": "A double rule contains the page",
+    "shortLabel": "Double frame",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Two fine rectangular rules enclose the central design.",
+    "layerIndex": 1,
+    "x": 81.69643,
+    "y": 52.11111,
+    "bounds": {
+     "x": 13,
+     "y": 8,
+     "w": 72,
+     "h": 85
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Two fine rectangular rules enclose the central design. The lines sit close together and follow the jacket’s slightly uneven photographed surface.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The double frame creates order around an image of irregular curves and points. Its restraint lets a small change of colour or shape become noticeable.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Why might two fine lines feel different from one heavy border?",
+    "related": [
+     "divider",
+     "publisher"
+    ]
+   },
+   {
+    "id": "divider",
+    "number": 6,
+    "label": "A quiet line divides two zones",
+    "shortLabel": "Horizontal rule",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "A thin horizontal rule runs across the framed area below the author.",
+    "layerIndex": 1,
+    "x": 50.14881,
+    "y": 34.77778,
+    "bounds": {
+     "x": 15,
+     "y": 33,
+     "w": 67,
+     "h": 4
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "A thin horizontal rule runs across the framed area below the author. It separates the compact title block from the broad paper around the vignette.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The rule gives the page a simple two-part organisation without adding another image. Its lightness keeps the lower area open rather than boxed into a dense panel.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does this divider feel like a pause or a barrier?",
+    "related": [
+     "series",
+     "open-field"
+    ]
+   },
+   {
+    "id": "series",
+    "number": 7,
+    "label": "The title’s colour returns below",
+    "shortLabel": "Letras Mexicanas",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "The small italic Letras Mexicanas line appears below the illustration in a warm orange similar to the title.",
+    "layerIndex": 2,
+    "x": 53.125,
+    "y": 82.11111,
+    "bounds": {
+     "x": 28,
+     "y": 78,
+     "w": 48,
+     "h": 7
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "The small italic Letras Mexicanas line appears below the illustration in a warm orange similar to the title. It is much narrower and lighter in emphasis.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "Repeating the accent connects the top and foot of the layout. The smaller line can be read as supporting information while remaining part of the same colour system.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the return of orange affect your movement down the page?",
+    "related": [
+     "publisher",
+     "wear"
+    ]
+   },
+   {
+    "id": "publisher",
+    "number": 8,
+    "label": "A publisher inside the lower rule",
+    "shortLabel": "Publisher line",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Fondo de Cultura Económica is printed in small dark capitals near the bottom of the framed area.",
+    "layerIndex": 3,
+    "x": 48.66071,
+    "y": 87,
+    "bounds": {
+     "x": 17,
+     "y": 85,
+     "w": 66,
+     "h": 5
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Fondo de Cultura Económica is printed in small dark capitals near the bottom of the framed area. The long line balances the shorter series name above.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The footer completes the structure with information about the publisher. Its close relationship to the rule makes it feel anchored after the floating vignette.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "business",
+      "heading": "A novel in a named series",
+      "body": "The foundation identifies the 1955 first edition as Letras Mexicanas number 19, published by Fondo de Cultura Económica. The series and publisher wording on the jacket place the individual novel within that publishing programme.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "martinez"
+       },
+       {
+        "id": "object"
+       }
+      ]
+     }
+    ],
+    "question": "What makes this small footer feel more fixed than the central image?",
+    "related": [
+     "open-field",
+     "figure"
+    ]
+   },
+   {
+    "id": "open-field",
+    "number": 9,
+    "label": "Paper makes the small image matter",
+    "shortLabel": "Open field",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "A broad unprinted interval separates the horizontal rule from the top of the vignette.",
+    "layerIndex": 0,
+    "x": 51.04167,
+    "y": 44.11111,
+    "bounds": {
+     "x": 20,
+     "y": 38,
+     "w": 57,
+     "h": 10
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "A broad unprinted interval separates the horizontal rule from the top of the vignette. The paper shows uneven tone and subtle physical marks.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The pause gives the illustration room to operate at a modest scale. Adding more imagery here would reduce the force of the lone vignette.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would the same illustration feel as important in a densely filled cover?",
+    "related": [
+     "wear",
+     "points"
+    ]
+   },
+   {
+    "id": "wear",
+    "number": 10,
+    "label": "The copy has its own material history",
+    "shortLabel": "Worn edge",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "The photographed left edge shows wear, colour change and the boundary of the physical book.",
+    "layerIndex": 0,
+    "x": 7.8869,
+    "y": 54.11111,
+    "bounds": {
+     "x": 3,
+     "y": 3,
+     "w": 9,
+     "h": 92
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "The photographed left edge shows wear, colour change and the boundary of the physical book. These marks differ from the regular printed frame.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "Wear belongs to this surviving copy, not necessarily to the original design. Recognising that distinction prevents accidental readings of damage as deliberate decoration.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which marks seem printed, and which seem to come from use or ageing?",
+    "related": [
+     "figure",
+     "title"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "object",
+    "title": "Pedro Páramo: the displayed reproduction",
+    "url": "https://www.cristianastete.cl/producto/pedro-paramo-juan-rulfo/",
+    "kind": "Object / publisher record",
+    "summary": "Fondo de Cultura Económica, Mexico City, 1955; Letras Mexicanas 19, first edition. The jacket photograph comes from Cristian Astete’s documented copy. A 336 × 450 photograph of the physical jacket, including wear, creases and surrounding book edges."
+   },
+   {
+    "id": "martinez",
+    "title": "Fundación Ricardo Martínez: vignettes",
+    "url": "https://fundacionricardomartinez.net/resena-vinetas/",
+    "kind": "Artist foundation essay",
+    "summary": "Documents Martínez’s 1955 Pedro Páramo vignettes and describes the cover as two embracing figures with a large maguey behind them."
+   },
+   {
+    "id": "elem",
+    "title": "ELEM: Pedro Páramo",
+    "url": "https://www.elem.mx/obra/datos/2838",
+    "kind": "Literary reference record",
+    "summary": "Provides the novel’s publication and literary context, separate from the photographed copy."
+   }
+  ],
+  "tour": [
+   "title",
+   "frame",
+   "figure",
+   "points",
+   "open-field",
+   "author",
+   "publisher"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "Pedro Páramo",
+      "meaning": "The novel’s title, a character’s name.",
+      "lang": "es"
+     },
+     {
+      "text": "por Juan Rulfo",
+      "meaning": "by Juan Rulfo.",
+      "lang": "es"
+     },
+     {
+      "text": "letras mexicanas",
+      "meaning": "Mexican letters; the series name.",
+      "lang": "es"
+     },
+     {
+      "text": "Fondo de Cultura Económica",
+      "meaning": "The publisher’s name.",
+      "lang": "es"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected clearly legible title and credit wording is transcribed from the displayed reproduction. Line breaks are simplified; this is not a transcription of every small mark or an identification of the typefaces.",
+  "palette": [
+   {
+    "name": "Paper cream",
+    "hex": "#D4CBAA",
+    "role": "Quiet paper above the vignette.",
+    "region": "open-field"
+   },
+   {
+    "name": "Title orange",
+    "hex": "#BB9862",
+    "role": "The warm italic title.",
+    "region": "title"
+   },
+   {
+    "name": "Vignette ink",
+    "hex": "#606151",
+    "role": "A dark printed mark in the small central image.",
+    "region": "figure"
+   },
+   {
+    "name": "Worn edge",
+    "hex": "#9D8964",
+    "role": "A darker tone at the physical edge.",
+    "region": "wear"
+   }
+  ],
+  "paletteNote": "Screen colours are sampled from this exact reproduction. Age, lighting and reproduction affect the result; these are not original printing specifications.",
+  "connections": [
+   {
+    "label": "A restrained frame",
+    "title": "Curves inside rules",
+    "text": "The pointed vignette interrupts the quiet rectangle of the ruled layout.",
+    "anchors": [
+     [
+      4,
+      0.6294642857142857,
+      0.63
+     ],
+     [
+      1,
+      0.8139880952380952,
+      0.5011111111111111
+     ]
+    ],
+    "id": "book-pedro-paramo-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Two orange voices",
+    "title": "Title and series",
+    "text": "The title’s warm orange returns in the smaller italic series line.",
+    "anchors": [
+     [
+      2,
+      0.4806547619047619,
+      0.16111111111111112
+     ],
+     [
+      2,
+      0.5223214285714286,
+      0.83
+     ]
+    ],
+    "id": "book-pedro-paramo-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

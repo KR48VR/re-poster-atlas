@@ -1,0 +1,687 @@
+{
+ "poster": {
+  "id": "manila-in-the-claws-of-light",
+  "title": "Manila in the Claws of Light",
+  "year": "1975",
+  "yearNumber": 1975,
+  "country": "Philippines",
+  "countries": [
+   "Philippines"
+  ],
+  "region": "Southeast Asia",
+  "category": "Film",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Lino Brocka",
+  "edition": "2013 restoration poster",
+  "posterTerritory": "International restoration campaign",
+  "image": "images/full/manila-in-the-claws-of-light.jpg",
+  "ratio": 0.6740890688259109,
+  "alt": "Black-and-white photograph of a reclining couple above huge red Maynila lettering that climbs diagonally across a white poster, with restoration and Cannes Classics credits at the top.",
+  "blurb": "A quiet photograph is interrupted by red letters that rise sharply across the page.",
+  "notes": [
+   {
+    "title": "A title that climbs",
+    "body": "The enormous red Maynila lettering runs on an upward diagonal. Its angle turns the name into a strong physical shape and gives the lower half of the sheet its direction."
+   },
+   {
+    "title": "Stillness above the diagonal",
+    "body": "The close, reclining figures in the black-and-white photograph make a softer, more horizontal grouping. That stillness creates a clear contrast with the title’s rising movement below."
+   },
+   {
+    "title": "White space exposes the structure",
+    "body": "The unprinted-looking white field separates the photo, title and smaller black credits. Because the background is so restrained, changes in scale and angle are easy to see."
+   }
+  ],
+  "source": "https://philippinefilmarchive.ph/index.php/catalogue/maynila-sa-mga-kuko-ng-liwanag",
+  "imageSource": "https://philippinefilmarchive.ph/index.php/catalogue/maynila-sa-mga-kuko-ng-liwanag",
+  "imageCredit": "2013 restoration poster reproduced by the Philippine Film Archive. Copyright remains with the film, restoration campaign and artwork rights holders; designer uncredited.",
+  "credit": "2013 restoration poster reproduced by the Philippine Film Archive. Copyright remains with the film, restoration campaign and artwork rights holders; designer uncredited.",
+  "reproduction": "Film: Philippines, 1975. The selected design advertises the 2013 restoration and Cannes Classics presentation. It must not be read as an example of 1975 poster design.",
+  "downloadURL": "https://philippinefilmarchive.ph/sites/default/files/2020-04/MAYNILA%20SA%20KUKO%20NG%20LIWANAG_0.jpg",
+  "anchor": [
+   0.5,
+   0.63
+  ],
+  "accent": "#bc2828",
+  "posterYear": "2013",
+  "primaryOrigin": "Philippines",
+  "anchorLayer": 2,
+  "thumb": "images/catalogue/manila-in-the-claws-of-light.webp"
+ },
+ "studyData": {
+  "intro": "The 2013 restoration campaign pairs a black-and-white embrace with a forceful red diagonal. The film dates from 1975, but this sheet’s restoration heading makes its later purpose explicit; it should be studied as a new invitation to an older film.",
+  "initial": "restoration",
+  "regions": [
+   {
+    "id": "pair",
+    "number": 1,
+    "label": "Two faces within one photograph",
+    "shortLabel": "Two faces within one photograph",
+    "kicker": "CLOSENESS THROUGH OVERLAP",
+    "summary": "The upper face leans toward the lower one.",
+    "x": 46,
+    "y": 25,
+    "bounds": {
+     "x": 26,
+     "y": 8,
+     "w": 33,
+     "h": 29
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Closeness through overlap",
+      "body": "The upper head leans over the reclining woman, and the two faces occupy a compact area near the photograph’s centre. Dark hair connects their outlines while pale bedding surrounds them. Their gazes differ, so the closeness comes mainly from position and bodily overlap.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A selected moment within a larger story",
+      "body": "The Philippine Film Archive describes a young man arriving in Manila to search for his missing girlfriend amid exploitation and hardship. That context prevents the embrace from standing in for the entire film. It does not identify the exact moment pictured or explain every gesture.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "archive"
+       }
+      ]
+     }
+    ],
+    "question": "What makes the two faces feel connected even though they look in different directions?",
+    "related": [
+     "woman",
+     "left-hand",
+     "arms"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "woman",
+    "number": 2,
+    "label": "The lower upward-looking face",
+    "shortLabel": "The lower upward-looking face",
+    "kicker": "AN UPWARD TURN IN A RECLINING BODY",
+    "summary": "A pale face turns up from a dark hair shape.",
+    "x": 34,
+    "y": 33,
+    "bounds": {
+     "x": 20,
+     "y": 25,
+     "w": 28,
+     "h": 16
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An upward turn in a reclining body",
+      "body": "The woman’s head tilts upward while her shoulder and arm extend more horizontally. Her dark hair contrasts with the pale bedding and makes the facial edge legible. The turned face provides an active direction within a body otherwise arranged along the bed.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An expression left open",
+      "body": "The open eyes and slightly parted lips can invite different emotional readings. The still photograph alone does not settle them. The study compares the visible angle, contrast and proximity rather than assigning an exact thought or treating the embrace as a complete account of the relationship.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the head’s angle relate to the rising direction of the title below?",
+    "related": [
+     "pair",
+     "title",
+     "arms"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "arms",
+    "number": 3,
+    "label": "An arm across the chest",
+    "shortLabel": "An arm across the chest",
+    "kicker": "A BRIDGE MADE BY A LIMB",
+    "summary": "A long pale band joins the two people.",
+    "x": 53,
+    "y": 39,
+    "bounds": {
+     "x": 27,
+     "y": 30,
+     "w": 54,
+     "h": 16
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A bridge made by a limb",
+      "body": "The woman’s upper arm crosses the front of the man’s chest, while his hand meets it at the right. This broad diagonal-horizontal band links their silhouettes. Its light tone stands against the darker hair and the softer shadows of the torso.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Reading the order of surfaces",
+      "body": "The overlap makes a visible front-to-back relationship without requiring hidden anatomy to be invented. In the exploded study, only the photographed portions can move apart. The obscured body beneath an arm remains unknown, rather than being filled with a guessed continuation.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which overlap tells you that one arm passes in front of the other body?",
+    "related": [
+     "pair",
+     "woman",
+     "torso"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "left-hand",
+    "number": 4,
+    "label": "A hand beside the hair",
+    "shortLabel": "A hand beside the hair",
+    "kicker": "AN ENCLOSING CURVE",
+    "summary": "A curved forearm frames the photograph’s left edge.",
+    "x": 21,
+    "y": 30,
+    "bounds": {
+     "x": 15,
+     "y": 23,
+     "w": 14,
+     "h": 31
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An enclosing curve",
+      "body": "At the left side, a visible hand meets the dark hair and a forearm curves downward along the body. The pale skin is separated from the bedding by a fine darker edge. This contour helps make the pair feel enclosed within the photograph.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A small gesture within a broad embrace",
+      "body": "The fingers give specificity to the larger arrangement of arms and shoulders. They are worth looking at separately because a broad crop of the heads could miss their role. The gesture can be described without claiming a private intention not established by the image.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Follow the fingers into the forearm: how do they help enclose the pair?",
+    "related": [
+     "pair",
+     "bedding",
+     "arms"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "lower-hand",
+    "number": 5,
+    "label": "The hand on the bedding",
+    "shortLabel": "The hand on the bedding",
+    "kicker": "SIMILAR TONES, DIFFERENT CONTOURS",
+    "summary": "Fingers and forearm interrupt a pale fabric field.",
+    "x": 33,
+    "y": 49,
+    "bounds": {
+     "x": 24,
+     "y": 44,
+     "w": 34,
+     "h": 12
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Similar tones, different contours",
+      "body": "The lower hand rests across pale bedding, with fingers and a forearm distinguished by soft shadow and curved edges. Because skin and fabric are close in value, the contour carries more information than colour. This makes the detail easy to miss at small scale.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A useful limit for the exploded view",
+      "body": "Separating this visible hand with its figure clarifies bodily continuity; leaving it on the bedding would make the lifted portrait incomplete. The study treats that allocation as an analytical decision about visible anatomy, not evidence that the original photograph had separable production layers.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which edge lets you separate skin from the similarly light sheet?",
+    "related": [
+     "bedding",
+     "arms"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "torso",
+    "number": 6,
+    "label": "A pale body between the arms",
+    "shortLabel": "A pale body between the arms",
+    "kicker": "A QUIETER INTERIOR SHAPE",
+    "summary": "An exposed area links shoulder and bedding.",
+    "x": 72,
+    "y": 47,
+    "bounds": {
+     "x": 57,
+     "y": 36,
+     "w": 24,
+     "h": 19
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A quieter interior shape",
+      "body": "The exposed torso below the crossing arm is a broad light-grey area with relatively little detail. It connects the upper shoulder to the lower bedding and makes the overlap of limbs easier to understand. Darker edges distinguish it from adjacent white fabric.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Quiet areas support the detailed ones",
+      "body": "The photograph does not need equal detail everywhere. Smooth skin and open bedding give the faces and hands room to stand out. Comparing these levels of detail is more reliable than treating every pale patch as an interchangeable background area.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does its relatively plain surface contrast with the detailed hair above?",
+    "related": [
+     "arms",
+     "bedding",
+     "pair"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "bedding",
+    "number": 7,
+    "label": "White folds around the bodies",
+    "shortLabel": "White folds around the bodies",
+    "kicker": "A PHOTOGRAPH WITHOUT A HARD BOX",
+    "summary": "Fabric gives the photograph an irregular pale edge.",
+    "x": 86,
+    "y": 19,
+    "bounds": {
+     "x": 1,
+     "y": 5,
+     "w": 99,
+     "h": 58
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A photograph without a hard box",
+      "body": "Pillows and sheets surround the bodies, with folds fading into the white page. The image is not confined by a clearly printed rectangular border. Its pale edges therefore connect the photographed encounter to the open field around the diagonal typography.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Monochrome is a campaign choice here",
+      "body": "The installed photograph is black and white, while the title is red. The archive records the film itself as colour. The sheet’s restricted reproduction palette therefore must not be used to claim that the movie was originally shot or released in black and white.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "archive"
+       }
+      ]
+     }
+    ],
+    "question": "Where does bedding blend with the poster’s unprinted-looking white field?",
+    "related": [
+     "torso",
+     "left-hand",
+     "space"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "title",
+    "number": 8,
+    "label": "MAYNILA on a rising diagonal",
+    "shortLabel": "MAYNILA on a rising diagonal",
+    "kicker": "A WORD WITH A PHYSICAL SLOPE",
+    "summary": "The largest red word gives the lower sheet a strong direction.",
+    "x": 48,
+    "y": 69,
+    "bounds": {
+     "x": 15,
+     "y": 50,
+     "w": 71,
+     "h": 34
+    },
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A word with a physical slope",
+      "body": "The huge red capitals rise from lower left toward upper right. Their thick strokes form a compact mass, but the shared angle gives that mass movement. The title interrupts the otherwise quiet black-and-white palette and becomes a second dominant shape after the people.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "The city named in the original title",
+      "body": "MAYNILA is the city name in the Tagalog title. The Philippine Film Archive records the film as Maynila sa mga Kuko ng Liwanag and gives Manila in the Claws of Light among its English titles. The study keeps this original wording distinct from its English catalogue label.",
+      "evidence": "documented",
+      "originalText": "MAYNILA",
+      "lang": "tl",
+      "sources": [
+       {
+        "id": "archive"
+       }
+      ]
+     }
+    ],
+    "question": "Cover the photograph: does the title still make the page feel in motion?",
+    "related": [
+     "subtitle",
+     "pair",
+     "billing"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "subtitle",
+    "number": 9,
+    "label": "Smaller red words on the same slope",
+    "shortLabel": "Smaller red words on the same slope",
+    "kicker": "ANGLE AND COLOUR HOLD THE PHRASE TOGETHER",
+    "summary": "The rest of the title follows the large city name.",
+    "x": 65,
+    "y": 68,
+    "bounds": {
+     "x": 31,
+     "y": 56,
+     "w": 61,
+     "h": 27
+    },
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Angle and colour hold the phrase together",
+      "body": "The smaller red words follow the same upward slope as MAYNILA. Their scale is reduced, but shared colour, alignment and close spacing identify them as part of one title. The reader can discover the full phrase after recognising the large place name.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "A title rather than a literal caption",
+      "body": "SA MGA KUKO NG LIWANAG completes the title whose established English rendering is In the Claws of Light. The phrase supplies metaphorical language beside an intimate photograph; it is not a literal description of a visible claw or light source in the image.",
+      "evidence": "observation",
+      "originalText": "SA MGA KUKO NG LIWANAG",
+      "lang": "tl",
+      "translation": "In the Claws of Light (established English title)."
+     }
+    ],
+    "question": "What keeps the smaller line connected to MAYNILA despite the change in size?",
+    "related": [
+     "title",
+     "billing"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "billing",
+    "number": 10,
+    "label": "Names arranged like parallel rails",
+    "shortLabel": "Names arranged like parallel rails",
+    "kicker": "A COMPRESSED SET OF PARALLEL LINES",
+    "summary": "Black credits continue the diagonal into the bottom corner.",
+    "x": 58,
+    "y": 85,
+    "bounds": {
+     "x": 3,
+     "y": 61,
+     "w": 97,
+     "h": 39
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A compressed set of parallel lines",
+      "body": "The cast, production and director credits share the title’s angle, separated by strong black rules. Their tight spacing makes a dense lower wedge. Lino Brocka’s name is notably larger within this block, giving authorship a clear position after the film name.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Different kinds of authorship",
+      "body": "The director line credits Lino Brocka for the film, while smaller lines acknowledge other contributors. None is a verified signature for the restoration poster’s designer. Keeping film credits separate from graphic authorship prevents a prominent name from receiving an unsupported design attribution.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which text remains most prominent after the large red title?",
+    "related": [
+     "subtitle",
+     "restoration"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "restoration",
+    "number": 11,
+    "label": "A later date at the top",
+    "shortLabel": "A later date at the top",
+    "kicker": "READ THE EDITION CLUE FIRST",
+    "summary": "The heading identifies why the film is circulating again.",
+    "x": 61,
+    "y": 3,
+    "bounds": {
+     "x": 3,
+     "y": 1,
+     "w": 95,
+     "h": 9
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Read the edition clue first",
+      "body": "The top line states that the film was restored in 2013, while the Cannes Classics mark sits at left. These small elements change how the entire sheet should be dated. The large title alone could not distinguish this campaign from a poster made for the original release.",
+      "evidence": "observation",
+      "originalText": "Restored in 2013",
+      "lang": "en"
+     },
+     {
+      "kind": "business",
+      "heading": "A documented return to exhibition",
+      "body": "Cannes records the restored film’s 2013 Classics presentation. The archive dates the film itself to 1975. These are two different moments: making and releasing the film, then restoring and showing it again. The poster belongs to the latter campaign.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cannes"
+       }
+      ]
+     }
+    ],
+    "question": "What would you misunderstand if this narrow top line were cropped away?",
+    "related": [
+     "billing",
+     "title",
+     "space"
+    ],
+    "layerIndex": 5
+   },
+   {
+    "id": "space",
+    "number": 12,
+    "label": "Open white around the diagonal",
+    "shortLabel": "Open white around the diagonal",
+    "kicker": "THE BACKGROUND EXPOSES THE GEOMETRY",
+    "summary": "Empty wedges make the slope easy to see.",
+    "x": 12,
+    "y": 64,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 100,
+     "h": 100
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "The background exposes the geometry",
+      "body": "White wedges remain between the photograph, red title and lower credits. Because they contain little competing detail, the slope and relative sizes of these elements are easy to compare. The plain field helps the image and lettering remain distinct without separate panels.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A selective view of the city",
+      "body": "Despite naming Manila, the poster foregrounds an encounter between people rather than a panoramic city view. That selection can make the film approachable through intimacy. It should not be mistaken for evidence that the urban setting or social story is unimportant to the film.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How would the title’s angle read if the white field were filled with a city photograph?",
+    "related": [
+     "title",
+     "bedding",
+     "restoration"
+    ],
+    "layerIndex": 0
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed poster edition",
+    "url": "https://philippinefilmarchive.ph/index.php/catalogue/maynila-sa-mga-kuko-ng-liwanag",
+    "kind": "Visual source",
+    "summary": "The reproduced sheet supports observations of visible wording, colour, composition and marks; it does not establish the designer’s intention."
+   },
+   {
+    "id": "archive",
+    "title": "Philippine Film Archive: Maynila",
+    "url": "https://philippinefilmarchive.ph/index.php/catalogue/maynila-sa-mga-kuko-ng-liwanag",
+    "kind": "National film archive",
+    "summary": "Confirms the 1975 Tagalog-language Philippine colour film, Lino Brocka, title variants and the search-in-Manila premise; reproduces the restoration sheet."
+   },
+   {
+    "id": "cannes",
+    "title": "Cannes Classics: the 2013 restoration",
+    "url": "https://www.festival-cannes.com/en/2013/cannes-classics-senegal-and-the-philippines-restored-by-the-world-cinema-foundation/",
+    "kind": "Festival announcement",
+    "summary": "Documents the restored Maynila presentation at Cannes Classics in May 2013; does not identify the poster designer."
+   }
+  ],
+  "tour": [
+   "restoration",
+   "pair",
+   "arms",
+   "lower-hand",
+   "title",
+   "billing"
+  ],
+  "transcript": [
+   {
+    "heading": "Readable wording on this edition",
+    "rows": [
+     {
+      "text": "MAYNILA SA MGA KUKO NG LIWANAG",
+      "meaning": "Manila in the Claws of Light (established English title).",
+      "lang": "tl"
+     },
+     {
+      "text": "Restored in 2013",
+      "meaning": "Restoration date printed on this campaign.",
+      "lang": "en"
+     },
+     {
+      "text": "Directed by LINO BROCKA",
+      "meaning": "Film director credit.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Title and edition clues are transcribed. Dense billing is not reproduced in full; the monochrome poster photograph does not indicate a monochrome film.",
+  "palette": [
+   {
+    "name": "Red title",
+    "hex": "#D82125",
+    "region": "title",
+    "role": "The principal colour interruption."
+   },
+   {
+    "name": "White paper",
+    "hex": "#FFFFFF",
+    "region": "space",
+    "role": "Open wedges around the typography."
+   },
+   {
+    "name": "Dark hair",
+    "hex": "#303030",
+    "region": "pair",
+    "role": "A strong photographic contour."
+   },
+   {
+    "name": "Light-grey skin",
+    "hex": "#D3D3D3",
+    "region": "torso",
+    "role": "A tonal bridge between dark hair and pale fabric."
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in the installed reproduction. These are not original ink specifications; scan, lighting and compression can alter colour.",
+  "connections": [
+   {
+    "label": "A shared diagonal",
+    "title": "Bodies and title rise together",
+    "text": "The sloping portrait group and red title both move from the lower-left toward the upper-right.",
+    "anchors": [
+     [
+      2,
+      0.4196696696696697,
+      0.3800607287449393
+     ],
+     [
+      3,
+      0.43018018018018017,
+      0.6796558704453441
+     ]
+    ],
+    "id": "manila-in-the-claws-of-light-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Quiet image, loud name",
+    "title": "One red interruption",
+    "text": "The large red wordmark breaks the restrained black-and-white photograph and pale surrounding paper.",
+    "anchors": [
+     [
+      1,
+      0.4496996996996997,
+      0.21002024291497975
+     ],
+     [
+      3,
+      0.6193693693693694,
+      0.6300607287449392
+     ]
+    ],
+    "id": "manila-in-the-claws-of-light-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

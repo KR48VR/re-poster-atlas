@@ -1,0 +1,596 @@
+{
+ "poster": {
+  "id": "heroic-guerrilla",
+  "title": "Day of the Heroic Guerrilla",
+  "year": "1968",
+  "yearNumber": 1968,
+  "country": "Cuba",
+  "region": "Latin America & Caribbean",
+  "category": "Politics",
+  "creator": "Elena Serrano",
+  "edition": "OSPAAAL offset lithograph, 1968, commemorating 8 October; MoMA 503.1987.",
+  "image": "images/full/heroic-guerrilla.jpg",
+  "ratio": 0.68,
+  "width": 680,
+  "height": 1000,
+  "alt": "A red and white Che Guevara portrait repeats within nested rectangular fields and overlapping maps of Latin America in blue, pink, red and grey.",
+  "blurb": "A repeated portrait and expanding geographic forms turn a memorial image into a statement of international solidarity.",
+  "notes": [
+   {
+    "title": "A face repeats outward",
+    "body": "The central portrait is echoed at larger scales. Repetition makes the figure appear to reverberate across the sheet rather than remain a single isolated likeness."
+   },
+   {
+    "title": "Portrait and territory overlap",
+    "body": "The outlines of Latin America occupy the same visual space as the face. The composition proposes a relationship between one revolutionary figure and a continental cause."
+   },
+   {
+    "title": "An international address",
+    "body": "The small heading appears in several languages, while OSPAAAL’s mark sits below. Those details identify the poster’s intended circulation beyond a single national audience."
+   }
+  ],
+  "source": "https://www.moma.org/collection/works/7299",
+  "imageSource": "https://www.moma.org/collection/works/7299",
+  "imageCredit": "Elena Serrano / OSPAAAL, 1968. Collection image courtesy of The Museum of Modern Art, New York, 503.1987. Copyright status not independently cleared.",
+  "downloadURL": "https://www.moma.org/media/W1siZiIsIjIxMTU2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=1ddfa6e31783a606",
+  "accent": "#a52e47",
+  "anchor": [
+   0.5,
+   0.48
+  ],
+  "credit": "Elena Serrano / OSPAAAL, 1968. Collection image courtesy of The Museum of Modern Art, New York, 503.1987. Copyright status not independently cleared.",
+  "countries": [
+   "Cuba"
+  ],
+  "primaryOrigin": "Cuba",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/heroic-guerrilla.webp"
+ },
+ "studyData": {
+  "intro": "A portrait repeats across nested rectangles and an overlapping continental outline. Read the image’s visual argument about an individual and a larger cause, while keeping the poster’s commemorative language distinct from a neutral account of history.",
+  "initial": "portrait",
+  "regions": [
+   {
+    "id": "portrait",
+    "label": "The central portrait",
+    "shortLabel": "The central portrait",
+    "kicker": "Look closely",
+    "summary": "The smallest clear face holds the centre.",
+    "layerIndex": 4,
+    "x": 40,
+    "y": 50,
+    "bounds": {
+     "x": 34,
+     "y": 33,
+     "w": 32,
+     "h": 25
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A face in two strong tones",
+      "body": "At the centre, a red-and-pale portrait uses sharply bounded shapes rather than smooth modelling. Dark red areas define hair, brow, nose and clothing, while pale gaps supply highlights. The smaller central face is clearer than many of its larger, partially interrupted repetitions.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A named political image",
+      "body": "The V&A identifies Serrano’s 1968 design as an image connected with Che Guevara and the spread of revolutionary solidarity. This supplies historical identification. The poster presents a supportive political image; studying its form does not require accepting its commemorative judgement as neutral fact.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "va"
+       }
+      ]
+     }
+    ],
+    "question": "Why is the smallest complete face easier to read than its larger echoes?",
+    "related": [
+     "eyes",
+     "echoes",
+     "map"
+    ],
+    "number": 1
+   },
+   {
+    "id": "eyes",
+    "label": "The portrait’s eyes",
+    "shortLabel": "The portrait’s eyes",
+    "kicker": "Look closely",
+    "summary": "A few dark marks establish a gaze.",
+    "layerIndex": 4,
+    "x": 55,
+    "y": 41,
+    "bounds": {
+     "x": 42,
+     "y": 38,
+     "w": 18,
+     "h": 7
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Direction from minimal detail",
+      "body": "The eyes and brows are formed by compact red marks within a pale forehead and cheek area. There is little continuous shading. Their arrangement still gives the face a directional gaze, showing how a recognisable portrait can survive a severe reduction in tonal detail.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Looking beyond the frame",
+      "body": "The gaze can be read as directed beyond the immediate viewer rather than as a frontal encounter. Such a reading may contribute to a sense of resolve, but that is an interpretation of the image. It is not evidence of the subject’s actual thoughts.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which tiny mark most affects the direction of the gaze?",
+    "related": [
+     "portrait",
+     "star",
+     "echoes"
+    ],
+    "number": 2
+   },
+   {
+    "id": "star",
+    "label": "The small beret star",
+    "shortLabel": "The small beret star",
+    "kicker": "Look closely",
+    "summary": "A pale symbol punctuates the headwear.",
+    "layerIndex": 4,
+    "x": 49.559,
+    "y": 35.5,
+    "bounds": {
+     "x": 47,
+     "y": 34,
+     "w": 5,
+     "h": 3
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A small repeated accent",
+      "body": "A pale star sits on the central headwear, with larger echoes appearing above it in the repeated portraits. It is tiny within each face but gains visibility through repetition. The mark connects the central image with the successive enlargements around it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Symbol and likeness together",
+      "body": "The star provides a symbolic identifier within a recognisable portrait. Its repeated placement can make the political image feel consistent as it changes scale. This does not mean every star in another poster has the same meaning; the surrounding subject and historical context matter.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does repetition make this very small mark easier to notice?",
+    "related": [
+     "portrait",
+     "echoes",
+     "heading"
+    ],
+    "number": 3
+   },
+   {
+    "id": "echoes",
+    "label": "The enlarging faces",
+    "shortLabel": "The enlarging faces",
+    "kicker": "Look closely",
+    "summary": "A single portrait becomes several scales.",
+    "layerIndex": 2,
+    "x": 64.559,
+    "y": 46,
+    "bounds": {
+     "x": 23,
+     "y": 19,
+     "w": 59,
+     "h": 54
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Repetition with interruption",
+      "body": "The portrait reappears in larger versions around the central image, but rectangular boundaries and overlapping colours interrupt them. Hair, shoulders and headwear can be traced across different bands. The viewer reconstructs repeated forms rather than seeing a row of complete, separate portraits.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Expansion as a visual claim",
+      "body": "Increasing scale can suggest an image or idea spreading outward. Here that reading is reinforced by the continental shape. The relationship is an argument made by the composition, not a measured map of actual political influence or a factual record of support in each place.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which repeated feature helps you recognise a larger face when most of it is interrupted?",
+    "related": [
+     "portrait",
+     "frames",
+     "map"
+    ],
+    "number": 4
+   },
+   {
+    "id": "frames",
+    "label": "The nested rectangles",
+    "shortLabel": "The nested rectangles",
+    "kicker": "Look closely",
+    "summary": "Repeated borders pull inward and outward.",
+    "layerIndex": 3,
+    "x": 30.735,
+    "y": 45,
+    "bounds": {
+     "x": 8,
+     "y": 14,
+     "w": 83,
+     "h": 62
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A sequence of straight edges",
+      "body": "Several rectangular fields sit inside one another, with blue, pink, grey and dark bands. Their straight edges cut across the softer outlines of hair and geography. The sequence can be followed inward towards the central face or outward towards the limits of the sheet.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Two possible directions",
+      "body": "Starting at the centre makes the image appear to expand; starting at the outer border makes it seem to concentrate. Both readings are available in the same still arrangement. Try each deliberately before deciding whether the poster feels more like a broadcast or a focal point.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Can you make your eye travel outward, then reverse the route?",
+    "related": [
+     "echoes",
+     "outer",
+     "portrait"
+    ],
+    "number": 5
+   },
+   {
+    "id": "map",
+    "label": "The continental outline",
+    "shortLabel": "The continental outline",
+    "kicker": "Look closely",
+    "summary": "A geographic shape overlaps the faces.",
+    "layerIndex": 1,
+    "x": 64.559,
+    "y": 52.1,
+    "bounds": {
+     "x": 18,
+     "y": 12,
+     "w": 70,
+     "h": 80
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A long irregular silhouette",
+      "body": "An outline resembling Latin America extends from the upper-left area through the centre and down towards the bottom. It crosses the nested rectangles instead of occupying a separate map panel. Pink and red portions remain recognisable even where portrait and background colours intersect it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Person and territory compared",
+      "body": "Putting a portrait and a continental outline in the same space proposes a relationship between a person and a wider political cause. It is not a map of borders, membership or public opinion. The image makes a symbolic comparison that viewers can examine and question.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does the map remain clearest despite the overlapping portrait?",
+    "related": [
+     "echoes",
+     "heading",
+     "south"
+    ],
+    "number": 6
+   },
+   {
+    "id": "south",
+    "label": "The long southern taper",
+    "shortLabel": "The long southern taper",
+    "kicker": "Look closely",
+    "summary": "A narrow shape extends below the face.",
+    "layerIndex": 1,
+    "x": 41.912,
+    "y": 77.7,
+    "bounds": {
+     "x": 31,
+     "y": 63,
+     "w": 23,
+     "h": 29
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A downward continuation",
+      "body": "The continental silhouette narrows into a long taper below the central portrait. Its pink and red areas cross several horizontal bands. This extension prevents the geographic motif from being confined to the face and carries it towards the lower field of the poster.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A counter-direction to the frames",
+      "body": "The rectangles suggest expansion around a centre, while the taper gives a strong downward direction. That contrast makes the composition more complex than a simple target. Follow only the taper, then compare the experience of following the nested frames.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which route feels more direct: the downward taper or the surrounding rectangles?",
+    "related": [
+     "map",
+     "frames",
+     "mark"
+    ],
+    "number": 7
+   },
+   {
+    "id": "heading",
+    "label": "The multilingual heading",
+    "shortLabel": "The multilingual heading",
+    "kicker": "Words and meaning",
+    "summary": "Several languages name the same commemoration.",
+    "layerIndex": 5,
+    "x": 82.941,
+    "y": 5.1,
+    "bounds": {
+     "x": 68,
+     "y": 1,
+     "w": 29,
+     "h": 8
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "An explicitly commemorative phrase",
+      "body": "The heading repeats the event wording in Spanish, French, English and Arabic. The English line names the Day of the Heroic Guerrilla and October 8. “Heroic” belongs to the poster’s commemorative language; it is a political evaluation printed on the sheet, not a neutral description supplied by this study.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "An international communication practice",
+      "body": "The V&A explains that OSPAAAL commonly used Spanish, English, French and Arabic, and distributed removable posters through Tricontinental magazine. That documents a wider communication practice relevant to the heading. It does not prove the exact journey taken by this particular surviving sheet.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "va"
+       }
+      ]
+     }
+    ],
+    "question": "How does repeating the message in several languages change the poster’s address?",
+    "related": [
+     "mark",
+     "portrait",
+     "map"
+    ],
+    "number": 8
+   },
+   {
+    "id": "mark",
+    "label": "The OSPAAAL mark",
+    "shortLabel": "The OSPAAAL mark",
+    "kicker": "Look closely",
+    "summary": "A small organisation mark closes the sheet.",
+    "layerIndex": 5,
+    "x": 93.971,
+    "y": 93.5,
+    "bounds": {
+     "x": 89,
+     "y": 89,
+     "w": 10,
+     "h": 9
+    },
+    "tags": [
+     "business",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "A signature of publication",
+      "body": "A small pale emblem and the letters OSPAAAL appear near the bottom-right corner. They occupy little space compared with the portrait but identify an organisational presence. Their fine lines contrast with the large, flat colour areas that dominate the composition.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A checked production record",
+      "body": "MoMA attributes this 1968 poster to Elena Serrano and lists OSPAAAL as its printer, with offset lithography as the medium. These are object-record facts. The apparent flatness of the image alone would not be enough to establish that printing process.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "moma"
+       }
+      ]
+     }
+    ],
+    "question": "What information does the small mark add that the portrait cannot provide?",
+    "related": [
+     "heading",
+     "outer",
+     "south"
+    ],
+    "number": 9
+   },
+   {
+    "id": "outer",
+    "label": "The outer blue field",
+    "shortLabel": "The outer blue field",
+    "kicker": "Look closely",
+    "summary": "The sheet holds its expanding image within an edge.",
+    "layerIndex": 0,
+    "x": 2.647,
+    "y": 47,
+    "bounds": {
+     "x": 1,
+     "y": 9,
+     "w": 8,
+     "h": 76
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A border beyond the frames",
+      "body": "Blue and dark areas continue around the nested composition, bounded by a narrow outer edge. The top and bottom retain fragments of the enlarging image rather than becoming empty margins. This makes the central construction feel part of a field that reaches the sheet’s limits.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Creases are not graphic arrows",
+      "body": "Fine fold-like lines and surface variations are visible in the reproduction. They should be distinguished from the deliberately coloured rectangular boundaries. A surviving printed object can carry handling traces; those traces do not automatically express the designer’s intended geometry.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which lines belong to the colour composition, and which look like marks on the surviving sheet?",
+    "related": [
+     "frames",
+     "mark",
+     "heading"
+    ],
+    "number": 10
+   }
+  ],
+  "sources": [
+   {
+    "id": "moma",
+    "title": "MoMA: Day of the Heroic Guerrilla",
+    "url": "https://www.moma.org/collection/works/7299",
+    "kind": "Primary source",
+    "summary": "Documents Elena Serrano, 1968, offset lithography and OSPAAAL as printer; collection object 503.1987."
+   },
+   {
+    "id": "va",
+    "title": "V&A: Solidarity and design—an introduction to OSPAAAL",
+    "url": "https://www.vam.ac.uk/articles/solidarity-and-design-an-introduction-to-ospaaal",
+    "kind": "Primary source",
+    "summary": "Identifies the Guevara image and explains OSPAAAL’s multilingual headings and magazine-poster distribution. These are contextual facts, not proof of a specific copy’s circulation."
+   }
+  ],
+  "tour": [
+   "portrait",
+   "star",
+   "echoes",
+   "map",
+   "frames",
+   "heading"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected wording on this edition",
+    "rows": [
+     {
+      "text": "DIA DEL GUERRILLERO HEROICO 8 DE OCTUBRE",
+      "meaning": "Day of the Heroic Guerrilla, 8 October",
+      "lang": "es"
+     },
+     {
+      "text": "DAY OF THE HEROIC GUERRILLA OCTOBER 8",
+      "meaning": "English commemorative heading as printed",
+      "lang": "en"
+     },
+     {
+      "text": "OSPAAAL",
+      "meaning": "The publishing/printing organisation’s abbreviation",
+      "lang": "es"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected securely legible heading lines and organisation mark only. French and Arabic are visibly present, but a complete character-by-character transcription is not supplied from this reproduction. Political praise is attributed to the poster.",
+  "palette": [
+   {
+    "name": "Portrait red",
+    "hex": "#b92c25",
+    "role": "The smallest clear face holds the centre.",
+    "region": "portrait"
+   },
+   {
+    "name": "Pale portrait",
+    "hex": "#d8dbd2",
+    "role": "The smallest clear face holds the centre.",
+    "region": "portrait"
+   },
+   {
+    "name": "Blue field",
+    "hex": "#3a47b7",
+    "role": "The sheet holds its expanding image within an edge.",
+    "region": "outer"
+   },
+   {
+    "name": "Pink map",
+    "hex": "#bc5988",
+    "role": "A narrow shape extends below the face.",
+    "region": "south"
+   },
+   {
+    "name": "Dark frame",
+    "hex": "#313b54",
+    "role": "Repeated borders pull inward and outward.",
+    "region": "frames"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in this installed reproduction. They describe this image, not original printing inks or a colour standard.",
+  "connections": [
+   {
+    "label": "Inward repetition",
+    "title": "Frames pull the eye toward a face",
+    "text": "The repeated rectangles become progressively smaller around the central red-and-cream portrait.",
+    "anchors": [
+     [
+      3,
+      0.23161764705882354,
+      0.4805
+     ],
+     [
+      4,
+      0.5007352941176471,
+      0.4505
+     ]
+    ],
+    "id": "heroic-guerrilla-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Two overlapping motifs",
+    "title": "A map crosses a repeated portrait",
+    "text": "The continental silhouette travels across the rectangular image, linking a geographic shape to the face at the centre.",
+    "anchors": [
+     [
+      1,
+      0.3095588235294118,
+      0.2415
+     ],
+     [
+      2,
+      0.5301470588235294,
+      0.7405
+     ]
+    ],
+    "id": "heroic-guerrilla-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

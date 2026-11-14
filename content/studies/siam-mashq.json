@@ -1,0 +1,807 @@
+{
+ "poster": {
+  "id": "siam-mashq",
+  "title": "Siah Mashq",
+  "year": "2004",
+  "yearNumber": 2004,
+  "creator": "Reza Abedini",
+  "country": "Iran",
+  "countries": [
+   "Iran"
+  ],
+  "primaryOrigin": "Iran",
+  "region": "West Asia & Caucasus",
+  "category": "Design",
+  "image": "images/full/siam-mashq.jpg",
+  "ratio": 0.7074324324324325,
+  "alt": "An ochre poster with a dark standing figure, arms stretched to both edges. Fine writing fills the body; large Persian and English event lettering crosses the torso, and a pale face interrupts the head.",
+  "blurb": "A body becomes a surface for writing, from tiny repeated lines to a bold exhibition announcement.",
+  "notes": [
+   {
+    "title": "Writing gives the figure its surface",
+    "body": "Small lines follow several directions across the torso, arms and legs, while the large title interrupts their density."
+   },
+   {
+    "title": "Two scales of reading",
+    "body": "A standing silhouette is visible at a distance. Nearer, a face, dots, letters, dates and emblems become distinct."
+   },
+   {
+    "title": "A dated invitation",
+    "body": "The poster announces Reza Abedini’s poster exhibition in Qom, 26 August–10 September 2004. The museum catalogues this sheet as 2004."
+   }
+  ],
+  "source": "https://sbirky.moravska-galerie.cz/items/CZE:MG.GD_27935",
+  "imageSource": "https://sbirky.moravska-galerie.cz/items/CZE:MG.GD_27935",
+  "downloadURL": "https://iip.offgridlab.sk/fcgi-bin/iipsrv.fcgi?FIF=MGHQ/Graf_design/GD/GD027935_2023-11.jp2&WID=1047&CVT=jpeg",
+  "credit": "Reza Abedini, 2004. Moravian Gallery in Brno, GD 27935. Museum digital reproduction; no blanket reuse licence asserted.",
+  "imageCredit": "Moravian Gallery in Brno, GD 27935; poster by Reza Abedini.",
+  "reproduction": "Unchanged 1047×1480 JPEG from the museum’s public image service. Sheet edges, dark surround, texture and warm contour fringe are retained.",
+  "edition": "Poster for Siah Mashq, Reza Abedini’s posters in Qom, 26 August–10 September 2004. Moravian Gallery object GD 27935. The museum catalogue records the title as Siam Mashq.",
+  "posterYear": "2004",
+  "posterTerritory": "Iran",
+  "posterDateStatus": "Museum-dated 2004; event dates visible on the sheet.",
+  "originNote": "Iranian exhibition context, documented by the exact museum object and printed Qom event details; current museum location is not the poster’s origin.",
+  "originSources": [
+   {
+    "title": "Moravian Gallery: GD 27935",
+    "url": "https://sbirky.moravska-galerie.cz/items/CZE:MG.GD_27935"
+   }
+  ],
+  "creditSources": [
+   {
+    "title": "Moravian Gallery: Reza Abedini",
+    "url": "https://sbirky.moravska-galerie.cz/items/CZE:MG.GD_27935"
+   }
+  ],
+  "anchor": [
+   0.52,
+   0.28
+  ],
+  "accent": "#b49468",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/siam-mashq.webp"
+ },
+ "studyData": {
+  "intro": "A standing figure becomes a surface for writing. Follow the changes from silhouette to face, from dense small strokes to a broad exhibition title, and from visual texture to the practical dates of an invitation.",
+  "initial": "figure",
+  "regions": [
+   {
+    "id": "figure",
+    "number": 1,
+    "label": "A body spans the sheet",
+    "shortLabel": "Standing figure",
+    "kicker": "LOOKING AT THE POSTER",
+    "summary": "The outline gives a quick recognition; the writing asks for a slower look.",
+    "layerIndex": 1,
+    "x": 57.0678,
+    "y": 57.0608,
+    "bounds": {
+     "x": 2,
+     "y": 1,
+     "w": 96,
+     "h": 95
+    },
+    "question": "What lets you recognise the pose before you can read any of the writing?",
+    "related": [
+     "arms",
+     "face",
+     "feet"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A familiar shape at a distance",
+      "body": "A head rises above two extended arms. The torso narrows into two legs and crossed feet, while the arms reach both edges of the ochre sheet. These broad proportions make a person recognisable even when the dense marks inside the figure are too small to read.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A surface that can also be read",
+      "body": "The body works as both a pictured subject and a place to put words. Try looking first at the outer shape, then at one small line inside it. The image does not require those two ways of seeing to happen at the same speed.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "face",
+    "number": 2,
+    "label": "A pale interruption in the head",
+    "shortLabel": "Pale face",
+    "kicker": "LOOKING AT THE POSTER",
+    "summary": "A small light shape draws attention inside the patterned head.",
+    "layerIndex": 4,
+    "x": 48.2808,
+    "y": 5.1689,
+    "bounds": {
+     "x": 43,
+     "y": 1,
+     "w": 14,
+     "h": 11
+    },
+    "question": "Which few dark marks make the pale area read as a face?",
+    "related": [
+     "figure",
+     "fine-writing",
+     "paper"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Recognition with very little detail",
+      "body": "A pale, uneven patch occupies the middle of the dark head. Small dark marks cross its centre, and the patch narrows towards a lower point. The surrounding texture continues where hair, head and neck might otherwise be described with ordinary shading.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A different scale of attention",
+      "body": "The face is much smaller than the outstretched pose. Finding it changes the encounter from a broad silhouette to a particular-looking head. This study does not identify the sitter from appearance alone, and the museum record used here does not establish the portrait’s identity.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "arms",
+    "number": 3,
+    "label": "Writing changes direction across the arms",
+    "shortLabel": "Outstretched arms",
+    "kicker": "LOOKING AT THE POSTER",
+    "summary": "Local fields of writing turn the long horizontal pose into several rhythms.",
+    "layerIndex": 2,
+    "x": 17.9083,
+    "y": 21.1824,
+    "bounds": {
+     "x": 2,
+     "y": 13,
+     "w": 96,
+     "h": 14
+    },
+    "question": "Where do the lines change direction, and how does that change your sense of the arm?",
+    "related": [
+     "figure",
+     "fine-writing",
+     "title"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Several directions inside one pose",
+      "body": "On the left sleeve, near-vertical rows give way to diagonal lines closer to the shoulder. The right arm combines diagonal and horizontal passages. The writing is arranged in local fields rather than one continuous horizontal block laid across the whole person.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Marks suggest a surface turning",
+      "body": "Those changes can suggest folds, planes or the turn of a clothed body. That is a visual reading, not a claim that every passage describes anatomy. Compare the line direction with the outer contour and notice where the two agree and where they differ.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "fine-writing",
+    "number": 4,
+    "label": "A dense field of small writing",
+    "shortLabel": "Fine writing",
+    "kicker": "LOOKING AT THE POSTER",
+    "summary": "Fine lines reward close looking while also giving the body a textured surface.",
+    "layerIndex": 2,
+    "x": 49.3314,
+    "y": 17.3986,
+    "bounds": {
+     "x": 36,
+     "y": 12,
+     "w": 28,
+     "h": 13
+    },
+    "question": "At what viewing distance do separate lines begin to become a texture?",
+    "related": [
+     "arms",
+     "title",
+     "leg-writing"
+    ],
+    "tags": [
+     "design",
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Small strokes accumulate",
+      "body": "Closely spaced light lines fill the chest. Individual strokes and gaps become visible near the image, while the same area can read as one textured dark mass farther away. The largest title interrupts this density instead of sitting in a completely separate panel.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Figure and writing in Abedini’s work",
+      "body": "The V&A describes the close relationship between calligraphy and the human form in Abedini’s poster practice. That broader context helps frame this comparison. It does not identify all the small passages on this sheet or establish a specific meaning for each change of direction.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "va"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "title",
+    "number": 5,
+    "label": "The large Persian title crosses the torso",
+    "shortLabel": "Persian title",
+    "kicker": "LOOKING AT THE POSTER",
+    "summary": "Broad connected letterforms become a shape across the body.",
+    "layerIndex": 2,
+    "x": 51.0506,
+    "y": 28.0743,
+    "bounds": {
+     "x": 31,
+     "y": 23,
+     "w": 39,
+     "h": 10
+    },
+    "question": "Which parts of the title interrupt the body’s outline or the smaller writing?",
+    "related": [
+     "dots",
+     "english",
+     "fine-writing"
+    ],
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A sudden change of scale",
+      "body": "Large pale letterforms stretch across the middle of the body. Curves, long horizontal connections and angular accents are much broader than the writing above them. The title therefore becomes a major shape in the figure before every word has been read.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "Two visible forms of the title",
+      "body": "The large Persian title corresponds to the Latin-script line SIAH MASHQ below. The museum catalogue uses the spelling Siam Mashq for the same exhibition sheet. Here the display title follows the plainly printed English line; the catalogue spelling remains recorded in the source note.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "museum"
+       },
+       {
+        "id": "image"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "dots",
+    "number": 6,
+    "label": "Small angular marks belong to the writing",
+    "shortLabel": "Dots and accents",
+    "kicker": "LOOKING AT THE POSTER",
+    "summary": "Angular marks give a second rhythm to the broad connected headline.",
+    "layerIndex": 2,
+    "x": 62.2254,
+    "y": 25.777,
+    "bounds": {
+     "x": 32,
+     "y": 23,
+     "w": 37,
+     "h": 8
+    },
+    "question": "How do the angular marks change the rhythm made by the larger curves?",
+    "related": [
+     "title",
+     "arms",
+     "english"
+    ],
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Angles beside curves",
+      "body": "Small diamond-like marks sit above and below portions of the headline. Their angular edges contrast with broad curved strokes and long connections. They also extend the title’s visual reach into the surrounding fine writing, making its boundary less like a simple rectangular text block.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "Keep the marks with the letters",
+      "body": "These marks are part of the visible writing, not a separate decorative confetti layer. The exploded study keeps them with the connected title and finer writing. Following one mark back towards the larger letterform is a way to examine the design without pretending to translate every stroke.",
+      "evidence": "observation"
+     }
+    ]
+   },
+   {
+    "id": "english",
+    "number": 7,
+    "label": "A more regular announcement below",
+    "shortLabel": "English notice",
+    "kicker": "LOOKING AT THE POSTER",
+    "summary": "Capital letters introduce a more regular rhythm without leaving the figure.",
+    "layerIndex": 3,
+    "x": 52.0057,
+    "y": 35.5743,
+    "bounds": {
+     "x": 33,
+     "y": 33,
+     "w": 37,
+     "h": 4
+    },
+    "question": "What changes in spacing and shape between the two title lines?",
+    "related": [
+     "title",
+     "date",
+     "fine-writing"
+    ],
+    "tags": [
+     "design",
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A change of rhythm",
+      "body": "Widely spaced capitals name SIAH MASHQ, followed by a more compact line naming Reza Abedini’s posters. The repeated upright letter shapes contrast with the connected Persian headline. Both sets of words share a similar warm colour and the same central area of the body.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "An exhibition identifies its subject",
+      "body": "The notice names the designer and identifies posters as the works being shown. The exact museum record confirms the exhibition sheet and its 2004 date. The bilingual information gives two points of access, although it does not make every small passage on the figure available in English.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "museum"
+       },
+       {
+        "id": "image"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "date",
+    "number": 8,
+    "label": "Dates turn the image into an invitation",
+    "shortLabel": "Place and dates",
+    "kicker": "LOOKING AT THE POSTER",
+    "summary": "The date and place distinguish an exhibition notice from a free-standing image.",
+    "layerIndex": 3,
+    "x": 53.8204,
+    "y": 37.3986,
+    "bounds": {
+     "x": 34,
+     "y": 36,
+     "w": 35,
+     "h": 4.5
+    },
+    "question": "Which line would you need first if you were deciding whether to visit?",
+    "related": [
+     "english",
+     "emblems",
+     "figure"
+    ],
+    "tags": [
+     "business",
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "A particular place and time",
+      "body": "The English notice gives Qom and the range 26 August–10 September 2004. Smaller lines below supply an address and web addresses. These practical details sit inside the figure, so the same surface carries both the striking image and the information needed to act on it.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "museum"
+       },
+       {
+        "id": "image"
+       }
+      ]
+     },
+     {
+      "kind": "design",
+      "heading": "Hierarchy within the practical text",
+      "body": "The date line is larger than the address and web lines below it. Its compact horizontal arrangement is easier to scan than the dense writing around it. Cover the date temporarily and consider how much of the poster’s visual identity survives, and how much of its practical purpose disappears.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "emblems",
+    "number": 9,
+    "label": "Two small marks at the edge of the coat",
+    "shortLabel": "Event emblems",
+    "kicker": "LOOKING AT THE POSTER",
+    "summary": "Small stacked emblems add another scale of information beside the torso text.",
+    "layerIndex": 3,
+    "x": 65.0907,
+    "y": 42.0608,
+    "bounds": {
+     "x": 61,
+     "y": 40,
+     "w": 6,
+     "h": 9
+    },
+    "question": "What makes these marks feel different from the longer lines of writing nearby?",
+    "related": [
+     "date",
+     "coat-edge",
+     "english"
+    ],
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Compact shapes in a narrow column",
+      "body": "Two small outlined emblems sit one above the other on the lower-right portion of the torso. Each has a compact shape and very small wording. Their stacked arrangement differs from both the broad title and the longer horizontal passages to their left.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A limit to identification",
+      "body": "Their placement and compact format make them look like event or institutional marks, but the exact organisations are not securely identified in the sources used here. The study retains their visible forms without assigning an unsupported sponsor, financial role or endorsement to either emblem.",
+      "evidence": "uncertain"
+     }
+    ]
+   },
+   {
+    "id": "coat-edge",
+    "number": 10,
+    "label": "A warm line follows the garment",
+    "shortLabel": "Coat edge",
+    "kicker": "LOOKING AT THE POSTER",
+    "summary": "The continuous warm contour belongs to the figure rather than the event lettering.",
+    "layerIndex": 1,
+    "x": 68.3381,
+    "y": 46.6554,
+    "bounds": {
+     "x": 65,
+     "y": 38,
+     "w": 6,
+     "h": 13
+    },
+    "question": "Where can you distinguish the garment edge from a line of writing?",
+    "related": [
+     "emblems",
+     "figure",
+     "paper"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A narrow contour beside a dense surface",
+      "body": "A warm brown fringe follows the right side of the coat and turns beneath its lower edge. Unlike a row of words, this continuous line follows the garment’s silhouette. The source reproduction also carries soft edge mixtures and texture; it is not a clean vector drawing.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Why ownership matters in the exploded view",
+      "body": "Separating the words can make this contour easier to notice. It remains with the figure because it describes the visible garment edge. Compare the continuous turn beneath the coat with the many short repeated marks inside the body; the two kinds of line do different work.",
+      "evidence": "observation"
+     }
+    ]
+   },
+   {
+    "id": "leg-writing",
+    "number": 11,
+    "label": "The writing bends through the lower body",
+    "shortLabel": "Leg writing",
+    "kicker": "LOOKING AT THE POSTER",
+    "summary": "The changing rhythm of the small writing continues below the main notice.",
+    "layerIndex": 2,
+    "x": 45.9885,
+    "y": 68.0743,
+    "bounds": {
+     "x": 37,
+     "y": 49,
+     "w": 30,
+     "h": 39
+    },
+    "question": "Choose one passage and compare its direction with the nearest outline of the leg.",
+    "related": [
+     "arms",
+     "gap",
+     "feet"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Another change of direction",
+      "body": "Diagonal passages meet shorter horizontal lines around the thighs and knees. Farther down, curved groups follow different directions on the two legs. Some dark areas are comparatively quiet, so the writing’s density changes rather than covering the lower body evenly.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A route from detail back to shape",
+      "body": "Following a short passage can draw attention away from the large exhibition title and towards the crossed stance below. Then look back at the whole silhouette. The lower writing becomes part of the image’s balance even when its individual words remain unread.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "gap",
+    "number": 12,
+    "label": "A narrow opening separates the legs",
+    "shortLabel": "Between the legs",
+    "kicker": "LOOKING AT THE POSTER",
+    "summary": "A small area of background makes two overlapping legs legible.",
+    "layerIndex": 0,
+    "x": 53.2474,
+    "y": 75.1689,
+    "bounds": {
+     "x": 50,
+     "y": 61,
+     "w": 7,
+     "h": 26
+    },
+    "question": "How does the pose change if you mentally fill this opening with the dark figure colour?",
+    "related": [
+     "figure",
+     "leg-writing",
+     "feet"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "The background enters the body",
+      "body": "A thin ochre opening begins between the legs, widens and narrows, then closes near the crossed lower legs. It is the same field seen around the figure. Its irregular contour helps distinguish two limbs within what would otherwise be a broad dark column.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An empty shape describes a pose",
+      "body": "The opening is useful evidence of the stance, despite containing no separate object. Trace it in the assembled image, then compare it with the dark silhouette. The study preserves this visible gap; it does not fill it with imagined clothing or reconstruct a leg behind the other.",
+      "evidence": "observation"
+     }
+    ]
+   },
+   {
+    "id": "feet",
+    "number": 13,
+    "label": "The long pose ends in crossed feet",
+    "shortLabel": "Crossed feet",
+    "kicker": "LOOKING AT THE POSTER",
+    "summary": "A compact crossing provides a different rhythm from the broad arms above.",
+    "layerIndex": 1,
+    "x": 59.6466,
+    "y": 94.0878,
+    "bounds": {
+     "x": 44,
+     "y": 85,
+     "w": 24,
+     "h": 12
+    },
+    "question": "Do the feet make the outstretched pose feel more stable or more tentative to you, and why?",
+    "related": [
+     "figure",
+     "gap",
+     "paper"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A narrow meeting at the bottom",
+      "body": "The lower legs converge before ending in two differently angled feet. One foot extends left and the other right, with a short ochre gap below their meeting. The writing continues into these small dark shapes instead of stopping at the bottom of the torso.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A different rhythm from the arms",
+      "body": "The arms spread widely and meet the edges, while the feet make a much smaller shape surrounded by open paper. That change in width gives the vertical journey a clear ending. Different viewers may read the stance differently; the visible overlap is a stronger starting point than a fixed emotional label.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "paper",
+    "number": 14,
+    "label": "Open ochre makes the figure readable",
+    "shortLabel": "Ochre field",
+    "kicker": "LOOKING AT THE POSTER",
+    "summary": "A quiet surrounding field gives the dense figure room to be seen.",
+    "layerIndex": 0,
+    "x": 20.2006,
+    "y": 64.0878,
+    "bounds": {
+     "x": 3,
+     "y": 29,
+     "w": 31,
+     "h": 63
+    },
+    "question": "Which part of the figure becomes hardest to distinguish when you imagine the surrounding field filled with writing too?",
+    "related": [
+     "figure",
+     "face",
+     "sheet-edge"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A quieter area around dense marks",
+      "body": "Broad, relatively open areas sit beside the torso and legs. Their warm colour is close to the pale writing and face, while their low detail separates them from the patterned figure. Small variations of tone remain visible in the museum reproduction.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A shared colour in different roles",
+      "body": "The warm colour works as background, lettering and facial light in different parts of the same image. Comparing those roles is more useful than assigning the colour a universal emotion. Cover one area at a time and notice how the same hue can describe either a shape or an opening.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "sheet-edge",
+    "number": 15,
+    "label": "The reproduction includes the object’s edges",
+    "shortLabel": "Sheet and surround",
+    "kicker": "LOOKING AT THE POSTER",
+    "summary": "The exact museum reproduction preserves the sheet and its surrounding dark margin.",
+    "layerIndex": 0,
+    "x": 1.5759,
+    "y": 64.0878,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 100,
+     "h": 100
+    },
+    "question": "Which visible boundary belongs to the printed sheet, and which belongs to the museum reproduction?",
+    "related": [
+     "paper",
+     "date",
+     "figure"
+    ],
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A sheet inside a dark surround",
+      "body": "A narrow dark surround is visible beyond the ochre sheet, with a slightly uneven light boundary at its edge. The figure reaches the sheet’s left and right limits, rather than the outside edge of that surrounding reproduction. Keeping these boundaries distinct avoids treating the reproduction surround as a designed border.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "An exact museum object",
+      "body": "The Moravian Gallery records this poster as GD 27935, dates it 2004 and attributes it to Reza Abedini. It lists paper and offset printing. Those object facts identify the sheet; the screen colours and small digital edge mixtures remain properties of this reproduction, not measured original print specifications.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "museum"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "museum",
+    "title": "Moravian Gallery: Reza Abedini, GD 27935",
+    "url": "https://sbirky.moravska-galerie.cz/items/CZE:MG.GD_27935",
+    "kind": "Museum object record",
+    "summary": "Identifies the exact 2004 exhibition poster, Reza Abedini, Qom event dates, paper and offset technique. The catalogue records the title as Siam Mashq. It does not identify the sitter or every small passage of writing."
+   },
+   {
+    "id": "image",
+    "title": "Moravian Gallery: displayed poster image",
+    "url": "https://admin.sbirky-umeni.cz/dielo/nahlad/CZE:MG.GD_27935/800",
+    "kind": "Primary image",
+    "summary": "The museum reproduction supports the visible title, English event wording, arrangement and specific visual observations. Fine writing is not completely transcribed or translated here."
+   },
+   {
+    "id": "va",
+    "title": "V&A: Reza Abedini in Jameel Prize 2009",
+    "url": "https://www.vam.ac.uk/articles/jameel-prize-2009",
+    "kind": "Museum contextual essay",
+    "summary": "Discusses the relationship of calligraphy and the human figure in Abedini’s wider practice. It does not document this poster’s individual design decisions or identify its small text."
+   }
+  ],
+  "tour": [
+   "figure",
+   "face",
+   "arms",
+   "title",
+   "english",
+   "date",
+   "feet"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected title and event wording",
+    "rows": [
+     {
+      "text": "سیاه مشق",
+      "meaning": "Siah Mashq — the exhibition title, also printed in Latin letters.",
+      "lang": "fa"
+     },
+     {
+      "text": "SIAH MASHQ",
+      "meaning": "The exhibition title as printed in Latin letters.",
+      "lang": "en"
+     },
+     {
+      "text": "REZA ABEDINI’S POSTERS",
+      "meaning": "Identifies the designer and the type of works exhibited.",
+      "lang": "en"
+     },
+     {
+      "text": "in Qom 26 Aug - 10 Sep 2004",
+      "meaning": "The exhibition place and date range.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "A partial transcript of the large title and readable English event wording. The dense small-script passages, address lines and emblem captions are not fully transcribed or translated.",
+  "palette": [
+   {
+    "name": "Ochre field",
+    "hex": "#B09373",
+    "role": "The quiet field surrounding the dense figure.",
+    "region": "paper"
+   },
+   {
+    "name": "Dark figure",
+    "hex": "#423F3A",
+    "role": "The broad silhouette that holds the writing.",
+    "region": "figure"
+   },
+   {
+    "name": "Warm lettering",
+    "hex": "#AE916F",
+    "role": "The event title connects to the colour of the open field.",
+    "region": "english"
+   },
+   {
+    "name": "Pale face",
+    "hex": "#B09373",
+    "role": "A small light area inside the patterned head.",
+    "region": "face"
+   },
+   {
+    "name": "Dark surround",
+    "hex": "#272725",
+    "role": "The retained margin beyond the ochre sheet.",
+    "region": "sheet-edge"
+   }
+  ],
+  "paletteNote": "Approximate pixel samples from the installed museum JPEG. They describe this screen reproduction, not original ink or paper specifications."
+ }
+}

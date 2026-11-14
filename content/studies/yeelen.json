@@ -1,0 +1,635 @@
+{
+ "poster": {
+  "id": "yeelen",
+  "title": "Yeelen",
+  "year": "1987",
+  "yearNumber": 1987,
+  "creator": "Poster artist uncredited",
+  "country": "Mali / France / West Germany / Burkina Faso",
+  "countries": [
+   "Mali",
+   "France",
+   "West Germany",
+   "Burkina Faso"
+  ],
+  "region": "Africa",
+  "category": "Film",
+  "filmCreator": "Souleymane Cissé",
+  "edition": "British theatrical quad for the Renoir cinema, c. 1987–88",
+  "image": "images/full/yeelen.jpg",
+  "ratio": 1.3407821229050279,
+  "alt": "Wide Yeelen poster with an ochre desert, a child holding a luminous white sphere, widely spaced title letters and a dark red border.",
+  "blurb": "A small circle of light gives a wide, sun-coloured sheet its centre.",
+  "notes": [
+   {
+    "title": "Light as a focal point",
+    "body": "The near-white sphere is the brightest compact shape in the image. The child’s hands frame it, and a second pale sphere on the sand repeats the circle at a smaller scale."
+   },
+   {
+    "title": "A title stretched across the horizon",
+    "body": "The six large letters spread almost edge to edge. Their spacing uses the quad’s width while leaving the child’s head below the gap between letters."
+   },
+   {
+    "title": "Text holds the open sides",
+    "body": "Film credits and a Cannes laurel sit on the left; a review and cinema details sit on the right. These blocks balance the central figure without covering the glowing sphere."
+   }
+  ],
+  "source": "https://www.eyefilm.nl/en/whats-on/yeelen/1429581",
+  "credit": "Artificial Eye British release poster; photograph via Posteritati, record 61069. Poster and reproduction rights remain with their respective rights holders.",
+  "imageCredit": "Artificial Eye British release poster; photograph via Posteritati, record 61069. Poster and reproduction rights remain with their respective rights holders.",
+  "imageSource": "https://posteritati.com/poster/61069/yeelen-original-1987-british-quad-movie-poster",
+  "downloadURL": "https://cdn.posteritati.com/posters/000/000/075/550/yeelen-md-web.jpg",
+  "anchor": [
+   0.578,
+   0.552
+  ],
+  "accent": "#ad672f",
+  "yearNote": "The catalogue year is the film year. The reproduced poster edition is identified separately.",
+  "reproduction": "A full-width British quad, including its Renoir cinema imprint. Posteritati dates this record 1987; another dealer dates the comparable British campaign 1988, so the edition is labelled c. 1987–88. Film coproduction countries follow Eye Filmmuseum; West Germany is the period name.",
+  "posterDateStatus": "Circa 1987–88 British campaign; film year 1987.",
+  "posterYear": "c. 1987–88",
+  "posterTerritory": "United Kingdom",
+  "primaryOrigin": "Mali",
+  "anchorLayer": 2,
+  "thumb": "images/catalogue/yeelen.webp"
+ },
+ "studyData": {
+  "intro": "This wide cinema poster gives a child and two pale spheres an expanse of sand. Its large spaced title and small venue block make two kinds of promise: an enigmatic image to contemplate and a specific place to see the film.",
+  "initial": "title",
+  "regions": [
+   {
+    "id": "sand",
+    "label": "Sand without a horizon",
+    "shortLabel": "Sand without a horizon",
+    "kicker": "A surface instead of a panorama",
+    "summary": "Warm ground fills the wide field.",
+    "x": 50,
+    "y": 57.5,
+    "bounds": {
+     "x": 2,
+     "y": 18,
+     "w": 96,
+     "h": 79
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A surface instead of a panorama",
+      "body": "Sand fills nearly all the space behind the figure and lettering. Shallow ridges and shadows run across it, but there is no clear sky line. The warm field allows dark type and the darker body to stand out without introducing a second large colour zone.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Space for a small action",
+      "body": "The broad ground leaves the figure’s gesture unusually exposed. There is little environmental detail to explain the scene quickly, so the held object becomes more important. This can encourage looking and speculation, while the image still withholds the event’s full narrative circumstances.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Can you find a horizon, or are you looking down into the ground?",
+    "related": [
+     "figure",
+     "small-sphere"
+    ],
+    "number": 1
+   },
+   {
+    "id": "title",
+    "label": "Six widely spaced letters",
+    "shortLabel": "Six widely spaced letters",
+    "kicker": "Spacing makes the scale",
+    "summary": "The title spans almost the entire sheet.",
+    "x": 49.5,
+    "y": 10.5,
+    "bounds": {
+     "x": 1,
+     "y": 3,
+     "w": 97,
+     "h": 15
+    },
+    "layerIndex": 3,
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Spacing makes the scale",
+      "body": "YEELEN uses very tall outlined capitals with large intervals between them. The pale interiors keep the letters lighter than a solid dark word would be. Their broad span is possible because the poster is landscape-shaped, while the figure below remains relatively narrow.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A rhythm across the width",
+      "body": "Each letter becomes almost a separate upright object. That rhythm can be compared with the vertical body and the border at either side. The title unifies the width without filling the centre with a dense block, leaving room for the isolated figure and the smaller messages.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How much of the title’s width comes from gaps rather than letters?",
+    "related": [
+     "figure",
+     "border"
+    ],
+    "number": 2
+   },
+   {
+    "id": "subtitle",
+    "label": "The English companion title",
+    "shortLabel": "The English companion title",
+    "kicker": "A second route into the title",
+    "summary": "A small translation sits under the left half.",
+    "x": 28.5,
+    "y": 23.5,
+    "bounds": {
+     "x": 11,
+     "y": 21,
+     "w": 35,
+     "h": 5
+    },
+    "layerIndex": 4,
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A second route into the title",
+      "body": "The words THE LIGHT appear beneath the large title in smaller spaced capitals. Their position and size identify them as a companion title rather than another review. They give an English-reading viewer a verbal cue to compare with the unusually bright objects below.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Words can guide a visual reading",
+      "body": "Once the subtitle has been read, the pale spheres may seem more central to the image. That connection is available on the poster, but it does not explain what the objects mean within the film. It is a useful example of language narrowing an otherwise open visual question.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What new idea does the subtitle add before you inspect the spheres?",
+    "related": [
+     "held-sphere",
+     "title"
+    ],
+    "number": 3
+   },
+   {
+    "id": "figure",
+    "label": "The standing child",
+    "shortLabel": "The standing child",
+    "kicker": "An uneven upright",
+    "summary": "A dark body forms a narrow vertical in the sand.",
+    "x": 61,
+    "y": 57.5,
+    "bounds": {
+     "x": 50,
+     "y": 18,
+     "w": 22,
+     "h": 79
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An uneven upright",
+      "body": "The child’s head bends toward the hands, while one leg crosses or bends in front of the other. Highlights define the shoulders and arms against the warm ground. The pose is compact but not rigid, with several small changes of direction within a strong vertical silhouette.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A film with a specific source tradition",
+      "body": "Eye Filmmuseum identifies Souleymane Cissé’s 1987 film as set in Mali and based on an orally transmitted legend. It records Bambara as its language. That is more precise than treating the poster as a timeless image of an undifferentiated Africa or identifying the pictured action without evidence.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "eye"
+       }
+      ]
+     }
+    ],
+    "question": "How do the head, shoulders and bent leg keep the pose from being symmetrical?",
+    "related": [
+     "hands",
+     "sand"
+    ],
+    "number": 4
+   },
+   {
+    "id": "hands",
+    "label": "Hands around a bright object",
+    "shortLabel": "Hands around a bright object",
+    "kicker": "Contact around a light shape",
+    "summary": "The palms and fingers support the central sphere.",
+    "x": 58,
+    "y": 56,
+    "bounds": {
+     "x": 50,
+     "y": 48,
+     "w": 16,
+     "h": 16
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Contact around a light shape",
+      "body": "Both hands curve around the lower half of the pale sphere. Warm highlights and shadows make the fingers visible at its edge, though the brightest areas blend together. The contact establishes that the object is held, rather than simply floating in front of the torso.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Attention through a gesture",
+      "body": "The downward head and cupped hands concentrate attention on a very small area. A viewer can follow that gesture without knowing what the object is. The reading stays open: careful handling is visible, while ritual purpose, material and supernatural meaning require evidence beyond this still image.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does the bright sphere stop and the hand begin?",
+    "related": [
+     "held-sphere",
+     "figure"
+    ],
+    "number": 5
+   },
+   {
+    "id": "held-sphere",
+    "label": "The bright central sphere",
+    "shortLabel": "The bright central sphere",
+    "kicker": "A local maximum of light",
+    "summary": "A pale circle breaks the dark torso.",
+    "x": 58,
+    "y": 55,
+    "bounds": {
+     "x": 53,
+     "y": 48,
+     "w": 10,
+     "h": 14
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A local maximum of light",
+      "body": "The held sphere is one of the palest areas in the image. Its brightness contrasts with the body behind it and the warmer ground around it. Some of the edge is clear, while the lower boundary softens into illuminated fingers and reflected colour.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Brightness without a technical claim",
+      "body": "The object may appear to glow, especially beside the dark skin tones, but the poster alone does not establish how the effect was photographed or whether the object emits light in the scene. Describing the contrast is firmer than naming an unseen lighting technique.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Is its edge equally sharp all the way around?",
+    "related": [
+     "hands",
+     "small-sphere"
+    ],
+    "number": 6
+   },
+   {
+    "id": "small-sphere",
+    "label": "A second sphere on the sand",
+    "shortLabel": "A second sphere on the sand",
+    "kicker": "Repetition at a distance",
+    "summary": "A smaller pale form repeats the central shape.",
+    "x": 29.5,
+    "y": 64.5,
+    "bounds": {
+     "x": 26,
+     "y": 60,
+     "w": 7,
+     "h": 9
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Repetition at a distance",
+      "body": "The small pale object sits left of the figure, surrounded by folds and depressions in the sand. Its round shape echoes the held sphere, but its lower position and smaller apparent size separate the two. A nearby shadow gives it a stronger contact with the ground.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A comparison rather than an answer",
+      "body": "The repeated shape invites comparison of size, placement and brightness. It does not tell us whether the objects have the same material or function. The gap between them creates a visual relationship while leaving the narrative link unresolved, which is part of the image’s interest.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does this second sphere change the first from an isolated object into a relationship?",
+    "related": [
+     "held-sphere",
+     "sand"
+    ],
+    "number": 7
+   },
+   {
+    "id": "award",
+    "label": "Director and festival credit",
+    "shortLabel": "Director and festival credit",
+    "kicker": "Several levels in one block",
+    "summary": "A small block brings film authorship and recognition together.",
+    "x": 26.5,
+    "y": 34,
+    "bounds": {
+     "x": 12,
+     "y": 26,
+     "w": 29,
+     "h": 16
+    },
+    "layerIndex": 4,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Several levels in one block",
+      "body": "The director’s name appears beneath a smaller introductory line, with a laurel-shaped festival credit below. All are placed to the left of the child. Their compact scale balances the larger review on the right without competing with the expansive title across the top.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Recognition with a named prize",
+      "body": "Eye’s record confirms that Yeelen received the Cannes Jury Prize. That supports the award wording visible on this poster. A named prize is more informative than a generic statement that a film was acclaimed, and it should not be confused with winning Cannes’s Palme d’Or.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "eye"
+       }
+      ]
+     }
+    ],
+    "question": "Which line would you notice first if you could not read any of the names?",
+    "related": [
+     "review",
+     "title"
+    ],
+    "number": 8
+   },
+   {
+    "id": "review",
+    "label": "An emphatic review",
+    "shortLabel": "An emphatic review",
+    "kicker": "A large judgment, a smaller source",
+    "summary": "A short verdict occupies the upper right.",
+    "x": 83,
+    "y": 32,
+    "bounds": {
+     "x": 72,
+     "y": 24,
+     "w": 22,
+     "h": 16
+    },
+    "layerIndex": 4,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A large judgment, a smaller source",
+      "body": "The review is divided into several centred lines of dark capitals. A much smaller attribution follows below. This arrangement makes the claim visually dominant and its source secondary, so a quick glance takes in a verdict before the reader checks who supplied it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A claim to examine",
+      "body": "The review makes a sweeping comparison about African cinema. It is a critic’s promotional quotation, not an objective ranking established by this study. A useful classroom question is how the poster uses that claim while the central image offers a much more particular and unresolved encounter.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the review’s weight compare with the small director credit opposite it?",
+    "related": [
+     "award",
+     "figure"
+    ],
+    "number": 9
+   },
+   {
+    "id": "venue",
+    "label": "A cinema in London",
+    "shortLabel": "A cinema in London",
+    "kicker": "Practical information becomes bold",
+    "summary": "The Renoir block turns an image into a local invitation.",
+    "x": 83,
+    "y": 87.5,
+    "bounds": {
+     "x": 72,
+     "y": 80,
+     "w": 22,
+     "h": 15
+    },
+    "layerIndex": 4,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Practical information becomes bold",
+      "body": "The cinema name is set in heavy capitals, followed by an address area, nearby Underground station and telephone number. This block is more compact and darker than the fine production credits at the opposite corner. Its job can be recognized even before every line is read.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Film origin and exhibition location",
+      "body": "The visible Renoir address places this campaign in London; it does not change the film’s origins. Eye lists Mali, France, Germany and Burkina Faso for the film. The dealer records this as a British quad, while the exact printing year of the displayed copy remains unresolved here.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "eye"
+       },
+       {
+        "id": "edition"
+       }
+      ]
+     }
+    ],
+    "question": "Which words would help someone find the screening?",
+    "related": [
+     "award",
+     "border"
+    ],
+    "number": 10
+   },
+   {
+    "id": "border",
+    "label": "A warm rectangular frame",
+    "shortLabel": "A warm rectangular frame",
+    "kicker": "A stable outer edge",
+    "summary": "A dark red border holds a wide, sandy composition.",
+    "x": 1,
+    "y": 50,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 100,
+     "h": 100
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A stable outer edge",
+      "body": "The reddish border is continuous around the sheet. It separates the warm photographic field from whatever wall or screen surrounds the poster. Its colour also relates to the title outlines, making the lettering and frame feel like parts of one graphic structure.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A reproduced physical object",
+      "body": "Small surface marks and uneven colour belong to the reproduced sheet, not necessarily to the original design. The dealer’s object record identifies a British quad format. Neither those marks nor a film production date alone can settle the printing history of every surviving copy.",
+      "evidence": "uncertain",
+      "sources": [
+       {
+        "id": "edition"
+       }
+      ]
+     }
+    ],
+    "question": "How does the frame alter the open-ended feeling of the sand?",
+    "related": [
+     "title",
+     "venue"
+    ],
+    "number": 11
+   }
+  ],
+  "sources": [
+   {
+    "id": "eye",
+    "title": "Eye Filmmuseum: Yeelen",
+    "url": "https://www.eyefilm.nl/en/whats-on/yeelen/1429581",
+    "kind": "Film museum",
+    "summary": "Verifies Cissé, 1987, Bambara, production countries, legend-based setting and Cannes Jury Prize."
+   },
+   {
+    "id": "edition",
+    "title": "Posteritati: British quad object record",
+    "url": "https://posteritati.com/poster/61069/yeelen-original-1987-british-quad-movie-poster",
+    "kind": "Dealer object record",
+    "summary": "Identifies the pictured British quad; retained as edition provenance, not a primary film-history source or conclusive printing-date proof."
+   }
+  ],
+  "tour": [
+   "title",
+   "figure",
+   "hands",
+   "held-sphere",
+   "small-sphere",
+   "venue"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected readable wording",
+    "rows": [
+     {
+      "text": "YEELEN",
+      "meaning": "Original film title.",
+      "lang": "bm"
+     },
+     {
+      "text": "THE LIGHT",
+      "meaning": "English companion title printed on this edition.",
+      "lang": "en"
+     },
+     {
+      "text": "RENOIR",
+      "meaning": "The cinema named in the lower-right invitation.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "This is a partial transcript of securely readable wording in the installed reproduction. Small credits, logos and review attributions are not fully transcribed; enlargement cannot restore missing source detail.",
+  "palette": [
+   {
+    "name": "Sand ochre",
+    "hex": "#BE9265",
+    "role": "The broad warm ground.",
+    "region": "sand"
+   },
+   {
+    "name": "Sphere pale",
+    "hex": "#CFCCBD",
+    "role": "A concentrated light against the body.",
+    "region": "held-sphere"
+   },
+   {
+    "name": "Frame burgundy",
+    "hex": "#653231",
+    "role": "The enclosing edge.",
+    "region": "border"
+   },
+   {
+    "name": "Body shadow",
+    "hex": "#3D2428",
+    "role": "A dark upright against sand.",
+    "region": "figure"
+   }
+  ],
+  "paletteNote": "These are individual screen-pixel samples from the installed digital reproduction, not specifications for the original inks or paper. Texture, lighting, scanning and screen settings affect their appearance.",
+  "connections": [
+   {
+    "label": "A repeated light",
+    "title": "Two spheres at different scales",
+    "text": "The bright shape in the hands repeats as a smaller pale circle on the sand. Their size difference carries the eye across the open ground.",
+    "anchors": [
+     [
+      2,
+      0.5796875,
+      0.5523743016759777
+     ],
+     [
+      2,
+      0.29739583333333336,
+      0.645949720670391
+     ]
+    ],
+    "id": "yeelen-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Wide and upright",
+    "title": "Title across a solitary figure",
+    "text": "The spaced title stretches across the horizontal sheet while the dark body provides a concentrated vertical shape beneath it.",
+    "anchors": [
+     [
+      3,
+      0.3776041666666667,
+      0.10544692737430168
+     ],
+     [
+      1,
+      0.5994791666666667,
+      0.7353351955307262
+     ]
+    ],
+    "id": "yeelen-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

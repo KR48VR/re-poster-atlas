@@ -1,0 +1,600 @@
+{
+ "poster": {
+  "id": "vertigo",
+  "title": "Vertigo",
+  "year": "1958",
+  "yearNumber": 1958,
+  "country": "United States",
+  "region": "North America",
+  "creator": "Saul Bass",
+  "filmCreator": "Alfred Hitchcock",
+  "edition": "1958 U.S. theatrical poster; digitally restored scan",
+  "alt": "A red-orange Vertigo poster with a white spiral, a black falling man, a line-drawn woman and tall black title lettering.",
+  "blurb": "A spiral converts a physical sensation into an image that seems to keep moving.",
+  "notes": [
+   {
+    "title": "A centre that will not settle",
+    "body": "The repeated white curves offer a centre to look at but no stable horizon. Their changing intervals create a pull into the page."
+   },
+   {
+    "title": "Two incompatible bodies",
+    "body": "The man is a solid black silhouette while the woman is only an outline. That difference lets their overlapping forms remain separate inside the same vortex."
+   },
+   {
+    "title": "A loud field, a spare vocabulary",
+    "body": "The orange-red ground fills almost everything outside the spiral. With so few colours, the black lettering and figures register immediately."
+   }
+  ],
+  "source": "https://a-g-i.org/design/vertigo",
+  "imageCredit": "Poster artwork by Saul Bass; original Paramount Pictures notice (1958). Scan digitally restored by Adam Cuerden, via Wikimedia Commons; see source for jurisdiction-specific rights information.",
+  "anchor": [
+   0.5,
+   0.48
+  ],
+  "accent": "#d04e36",
+  "category": "Film",
+  "image": "images/full/vertigo.jpg",
+  "imageSource": "https://en.wikipedia.org/wiki/File:Vertigomovie_restoration.jpg",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/7/75/Vertigomovie_restoration.jpg",
+  "ratio": 0.645,
+  "imageWidth": 645,
+  "imageHeight": 1000,
+  "credit": "Poster artwork by Saul Bass; original Paramount Pictures notice (1958). Scan digitally restored by Adam Cuerden, via Wikimedia Commons; see source for jurisdiction-specific rights information.",
+  "anchorLayer": 1,
+  "posterYear": "1958",
+  "posterTerritory": "United States",
+  "countries": [
+   "United States"
+  ],
+  "primaryOrigin": "United States",
+  "thumb": "images/catalogue/vertigo.webp"
+ },
+ "studyData": {
+  "intro": "A falling pair sits inside an image that seems to rotate, while emphatic names and a broad title hold the page still. Compare the different kinds of certainty offered by lettering, outline and silhouette.",
+  "initial": "spiral",
+  "regions": [
+   {
+    "id": "spiral",
+    "label": "The white spiral",
+    "shortLabel": "The white spiral",
+    "kicker": "DESIGN",
+    "summary": "Repeated curves make an unstable centre.",
+    "layerIndex": 1,
+    "bounds": {
+     "x": 6,
+     "y": 27,
+     "w": 89,
+     "h": 55
+    },
+    "x": 77,
+    "y": 42,
+    "question": "Trace one curve: where does it stop feeling like a simple circle?",
+    "related": [
+     "man",
+     "woman",
+     "field"
+    ],
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A centre without a horizon",
+      "body": "White curves overlap into a rounded, uneven lattice. Their spacing tightens in some places and opens elsewhere, so the eye cannot settle on one clean ring. The central opening is also off balance, keeping the figures inside a space that looks active rather than empty.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A graphic identity across media",
+      "body": "The Alliance Graphique Internationale identifies Saul Bass as the designer of both the poster and the title sequence for Alfred Hitchcock’s 1958 film. That establishes the collaboration; it does not establish a separate symbolic meaning for every curve visible in this particular printed design.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "agi"
+       }
+      ]
+     }
+    ],
+    "number": 1
+   },
+   {
+    "id": "man",
+    "label": "The falling silhouette",
+    "shortLabel": "The falling silhouette",
+    "kicker": "DESIGN",
+    "summary": "A dense body interrupts the fine lines.",
+    "layerIndex": 2,
+    "bounds": {
+     "x": 40,
+     "y": 41,
+     "w": 22,
+     "h": 21
+    },
+    "x": 49,
+    "y": 47,
+    "question": "Cover the black figure: how does the visual centre change?",
+    "related": [
+     "spiral",
+     "woman",
+     "title"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A body made of weight",
+      "body": "The man is nearly solid black, with bent elbows, a tipped head and legs that do not share a firm baseline. Against the pale opening, the silhouette has much more visual weight than the surrounding lines, despite occupying a relatively small portion of the poster.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A pose without support",
+      "body": "No floor, ledge or ground plane explains the figure’s position. The angled limbs can therefore be read as falling or losing balance. That is a reading of the pose and its setting, rather than proof of one specific moment in the film.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 2
+   },
+   {
+    "id": "woman",
+    "label": "The outlined woman",
+    "shortLabel": "The outlined woman",
+    "kicker": "DESIGN",
+    "summary": "An outline remains visible through overlap.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 47,
+     "y": 43,
+     "w": 27,
+     "h": 18
+    },
+    "x": 67.391,
+    "y": 48.048,
+    "question": "Which parts of her body are easiest to follow, and which disappear?",
+    "related": [
+     "man",
+     "disc",
+     "spiral"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An unequal pair",
+      "body": "The woman is drawn with thin dark contours rather than a filled silhouette. Her head, extended arm and fluttering lower outline overlap several backgrounds, changing their clarity as they pass across white, orange and black. Her body is consequently more difficult to hold together at one glance.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Presence and transparency",
+      "body": "The two figures occupy the same central disturbance but do not have the same visual solidity. You might read this as uncertainty or separation between them. The useful evidence is the difference in drawing, not an assumed diagnosis of either character’s feelings.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 3
+   },
+   {
+    "id": "disc",
+    "label": "The orange interruption",
+    "shortLabel": "The orange interruption",
+    "kicker": "DESIGN",
+    "summary": "A flat oval crosses the bodies.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 37,
+     "y": 49,
+     "w": 28,
+     "h": 11
+    },
+    "x": 40,
+    "y": 54,
+    "question": "Does the oval behave more like a backdrop, a shadow or a separate shape?",
+    "related": [
+     "woman",
+     "man",
+     "field"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A colour returning inside",
+      "body": "An orange-red oval brings the large outer field back into the pale centre. Its edge is simple compared with the surrounding spiral and the figures’ broken contours. It links the centre to the rest of the sheet without supplying a believable landscape or platform.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A useful ambiguity",
+      "body": "The oval passes behind the black legs and around the outlined skirt, but it does not read as a conventional cast shadow. Keeping its role uncertain preserves the central scene’s lack of stable depth. Compare its flatness with the much more complicated curves surrounding it.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 4
+   },
+   {
+    "id": "stars",
+    "label": "Names before the picture",
+    "shortLabel": "Names before the picture",
+    "kicker": "DESIGN",
+    "summary": "The principal names dominate the upper block.",
+    "layerIndex": 4,
+    "bounds": {
+     "x": 8,
+     "y": 7,
+     "w": 68,
+     "h": 13
+    },
+    "x": 31.056,
+    "y": 10.911,
+    "question": "How would the balance change if the names were centred?",
+    "related": [
+     "director",
+     "title",
+     "field"
+    ],
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An emphatic left edge",
+      "body": "James Stewart and Kim Novak are set in irregular black capitals with a strong left alignment. The two lines have different lengths, leaving a large open area on the right. Their uneven strokes echo the title below without becoming part of the spiral’s curved vocabulary.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A visible billing hierarchy",
+      "body": "The poster gives the two performers far more space than the names in the bottom credit strip. That is direct evidence of how this sheet prioritises recognition. It does not tell us whether either name actually persuaded a particular audience to buy a ticket.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 5
+   },
+   {
+    "id": "director",
+    "label": "A promotional judgement",
+    "shortLabel": "A promotional judgement",
+    "kicker": "LANGUAGE",
+    "summary": "The director’s name leads into a claim of greatness.",
+    "layerIndex": 4,
+    "bounds": {
+     "x": 8,
+     "y": 20,
+     "w": 60,
+     "h": 7
+    },
+    "x": 29,
+    "y": 24,
+    "question": "Which words are identification, and which make a judgement?",
+    "related": [
+     "stars",
+     "credits",
+     "title"
+    ],
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A claim inside the billing",
+      "body": "The upper copy joins the director’s name to the word “MASTERPIECE.” The first identifies a filmmaker; the second offers a promotional evaluation. Reading them separately helps distinguish information printed on a poster from a claim that would need independent argument to establish.",
+      "evidence": "observation",
+      "originalText": "IN ALFRED HITCHCOCK’S MASTERPIECE",
+      "lang": "en"
+     },
+     {
+      "kind": "business",
+      "heading": "Selling through authorship",
+      "body": "The director’s name sits above the image rather than being confined to the technical credits. Its placement makes filmmaking authorship one of the sheet’s selling points. The AGI record confirms Hitchcock’s film and Bass’s design roles; those are different kinds of authorship.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "agi"
+       }
+      ]
+     }
+    ],
+    "number": 6
+   },
+   {
+    "id": "field",
+    "label": "The orange field",
+    "shortLabel": "The orange field",
+    "kicker": "DESIGN",
+    "summary": "A broad warm ground intensifies small contrasts.",
+    "layerIndex": 0,
+    "bounds": {
+     "x": 5,
+     "y": 29,
+     "w": 17,
+     "h": 15
+    },
+    "x": 12,
+    "y": 35,
+    "question": "Squint at the poster: which areas remain distinct?",
+    "related": [
+     "spiral",
+     "disc",
+     "border"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Few colours, clear divisions",
+      "body": "Orange fills nearly the whole printed rectangle, with white doing most of the work of opening space and black doing most of the work of weight. Small variations in this scan do not turn it into a richly shaded scene; the large colour relationships stay very simple.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Heat without a literal setting",
+      "body": "The field can feel forceful because it surrounds the image and lettering continuously. Calling that feeling tension is a possible response, not a universal colour rule. Test the claim by comparing the same image in grayscale, where the spiral’s lightness still matters.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 7
+   },
+   {
+    "id": "title",
+    "label": "The broad title",
+    "shortLabel": "The broad title",
+    "kicker": "LANGUAGE",
+    "summary": "A wide black word stops the downward movement.",
+    "layerIndex": 5,
+    "bounds": {
+     "x": 6,
+     "y": 85,
+     "w": 65,
+     "h": 7
+    },
+    "x": 35.559,
+    "y": 87.988,
+    "question": "Compare the angles in VERTIGO with the curves directly above it.",
+    "related": [
+     "stars",
+     "spiral",
+     "credits"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A word that names instability",
+      "body": "The large title reads “VERTIGO.” Its letters are upright enough to remain readable, but their angled joins and irregular edges keep them from looking mechanically uniform. The word is isolated between the moving image and the compressed information at the bottom.",
+      "evidence": "observation",
+      "originalText": "VERTIGO",
+      "lang": "en"
+     },
+     {
+      "kind": "design",
+      "heading": "A visual brake",
+      "body": "The title forms a broad horizontal block beneath the spiral. Where the image circles inward, the word asks the eye to travel across the page. This change of direction gives the lower composition a stopping place without making the lettering perfectly calm or regular.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 8
+   },
+   {
+    "id": "credits",
+    "label": "The compressed credit strip",
+    "shortLabel": "The compressed credit strip",
+    "kicker": "BUSINESS",
+    "summary": "Fine type changes the scale of reading.",
+    "layerIndex": 5,
+    "bounds": {
+     "x": 4,
+     "y": 93,
+     "w": 92,
+     "h": 4
+    },
+    "x": 68.478,
+    "y": 94.695,
+    "question": "At what viewing distance do the main names disappear into texture?",
+    "related": [
+     "title",
+     "director",
+     "border"
+    ],
+    "tags": [
+     "business",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "Several jobs in one narrow band",
+      "body": "The lower strip contains performer and production names alongside release-format marks. Its narrow, crowded lettering contrasts with the expansive billing above. The sheet therefore offers both an immediate recognition structure and a much slower information zone, rather than treating all contributions as equally prominent.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A different typographic rhythm",
+      "body": "The tall, thin strokes in the credit strip make a pale-and-dark texture quite unlike the blunt title. Even before every word can be read, the change in density signals a different task. The study does not expand the smallest reproduction marks into an unverified complete transcript.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 9
+   },
+   {
+    "id": "border",
+    "label": "The pale outer margin",
+    "shortLabel": "The pale outer margin",
+    "kicker": "DESIGN",
+    "summary": "A narrow margin frames an intense interior.",
+    "layerIndex": 0,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 100,
+     "h": 4
+    },
+    "x": 50,
+    "y": 2,
+    "question": "Mask the pale margin: does the orange field feel more contained or less?",
+    "related": [
+     "field",
+     "credits",
+     "title"
+    ],
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "One rectangle inside another",
+      "body": "The orange area does not run to the edge of the installed image. A pale border surrounds it, with a larger pale information area below. That outer rectangle gives the poster a material boundary even while the spiral within it suggests open, unstable space.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Reading this reproduction",
+      "body": "The installed file is a digitally restored scan, so its pale margin and colour variation should be read as properties of this reproduction. They are useful for examining the current composition, but cannot by themselves establish the original sheet’s precise paper colour or printing condition.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 10
+   }
+  ],
+  "sources": [
+   {
+    "id": "agi",
+    "title": "AGI: Vertigo by Saul Bass",
+    "url": "https://a-g-i.org/design/vertigo",
+    "kind": "Designer association record",
+    "summary": "Identifies Saul Bass’s 1958 poster and title-sequence work for Alfred Hitchcock’s Vertigo; does not supply meanings for individual shapes."
+   }
+  ],
+  "tour": [
+   "stars",
+   "spiral",
+   "man",
+   "woman",
+   "title",
+   "credits"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "JAMES STEWART",
+      "meaning": "Performer name",
+      "lang": "en"
+     },
+     {
+      "text": "KIM NOVAK",
+      "meaning": "Performer name",
+      "lang": "en"
+     },
+     {
+      "text": "IN ALFRED HITCHCOCK’S MASTERPIECE",
+      "meaning": "Director identification followed by promotional praise",
+      "lang": "en"
+     },
+     {
+      "text": "VERTIGO",
+      "meaning": "Film title",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected large English wording is legible. The smallest credits, restoration notices and reproduction marks are not fully transcribed; this is the installed digitally restored scan, not an examination of an original print.",
+  "palette": [
+   {
+    "name": "Orange field",
+    "hex": "#d54217",
+    "role": "The continuous ground",
+    "region": "field"
+   },
+   {
+    "name": "Spiral white",
+    "hex": "#ffffeb",
+    "role": "The light network and central opening",
+    "region": "spiral"
+   },
+   {
+    "name": "Silhouette black",
+    "hex": "#221d1a",
+    "role": "Dense figure against the opening",
+    "region": "man"
+   },
+   {
+    "name": "Pale margin",
+    "hex": "#ffffeb",
+    "role": "Outer frame",
+    "region": "border"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels of the installed reproduction; these are not original ink or paper specifications.",
+  "connections": [
+   {
+    "label": "Solid and outline",
+    "title": "Two weights inside the same vortex",
+    "text": "The falling man is a dense black shape, while the adjacent woman is drawn largely in outline. The spiral holds these unequal visual weights close together.",
+    "anchors": [
+     [
+      2,
+      0.5,
+      0.4705
+     ],
+     [
+      3,
+      0.6395348837209303,
+      0.4705
+     ],
+     [
+      1,
+      0.7728682170542636,
+      0.5405
+     ]
+    ],
+    "id": "vertigo-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Type and motion",
+    "title": "Rigid names, rotating centre",
+    "text": "The stacked names and broad title act as anchors above and below the many curved spiral paths.",
+    "anchors": [
+     [
+      4,
+      0.37286821705426354,
+      0.1505
+     ],
+     [
+      1,
+      0.5,
+      0.3005
+     ],
+     [
+      5,
+      0.3697674418604651,
+      0.8705
+     ]
+    ],
+    "id": "vertigo-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

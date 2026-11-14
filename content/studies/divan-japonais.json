@@ -1,0 +1,656 @@
+{
+ "poster": {
+  "id": "divan-japonais",
+  "title": "Divan Japonais",
+  "year": "1892–93",
+  "creator": "Henri de Toulouse-Lautrec",
+  "country": "France",
+  "category": "Performance",
+  "image": "images/full/divan-japonais.jpg",
+  "ratio": 0.7566666666666667,
+  "accent": "#35413a",
+  "anchor": [
+   0.59,
+   0.59
+  ],
+  "alt": "Divan Japonais: a woman in a black dress and elaborate hat sits in front of a man and an orchestra, against an ochre field.",
+  "blurb": "A black dress makes one spectator the visual centre of an entire performance.",
+  "notes": [
+   {
+    "title": "A silhouette before a portrait",
+    "body": "The hat, back and long dress form a large connected dark shape. Its outline is readable before the small features of the face."
+   },
+   {
+    "title": "The audience becomes the subject",
+    "body": "The Met identifies the foreground spectators as Jane Avril and Édouard Dujardin. The performer Yvette Guilbert appears at the upper left, with her head outside the composition."
+   },
+   {
+    "title": "Details give way to hierarchy",
+    "body": "Thin lines describe the orchestra; a broad dark mass describes the seated woman. The difference in visual weight directs attention without a spotlight."
+   }
+  ],
+  "source": "https://www.metmuseum.org/art/collection/search/334197",
+  "credit": "The Metropolitan Museum of Art, Bequest of Clifford A. Furst, 1958 (58.621.17). Public-domain image. Lithograph in four colours.",
+  "countries": [
+   "France"
+  ],
+  "primaryOrigin": "France",
+  "anchorLayer": null,
+  "yearNumber": 1892,
+  "region": "Europe",
+  "thumb": "images/catalogue/divan-japonais.webp"
+ },
+ "studyData": {
+  "intro": "The audience is the main spectacle in this advertisement for a Paris café-concert. Follow the black silhouette in the foreground, then discover the cropped performer, musicians and practical venue information around it.",
+  "initial": "silhouette",
+  "regions": [
+   {
+    "id": "venue",
+    "label": "A name across the upper edge",
+    "shortLabel": "A name across the upper edge",
+    "kicker": "A name inside the scene",
+    "summary": "Outlined letters share space with a feathered hat.",
+    "x": 62,
+    "y": 6,
+    "bounds": {
+     "x": 26,
+     "y": 2,
+     "w": 72,
+     "h": 8
+    },
+    "layerIndex": 5,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A name inside the scene",
+      "body": "The venue name runs across the top in irregular outlined letters. Its pale interiors relate to the surrounding room, so it does not sit on a separate solid banner. The large feathered hat rises close to the lettering, making words and people share a crowded pictorial space.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "An advertisement for a nightspot",
+      "body": "The Met identifies Divan Japonais as a Paris café-concert frequented by Toulouse-Lautrec. This poster advertises that venue, rather than a film or a single portrait sitter. The social scene becomes part of the invitation to attend, while the name remains available to identify the place.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "met"
+       }
+      ]
+     }
+    ],
+    "question": "Where does the lettering nearly touch another form?",
+    "related": [
+     "address",
+     "hat"
+    ],
+    "number": 1
+   },
+   {
+    "id": "address",
+    "label": "The small street address",
+    "shortLabel": "The small street address",
+    "kicker": "A useful change of scale",
+    "summary": "A practical line follows the venue name.",
+    "x": 79.5,
+    "y": 11.75,
+    "bounds": {
+     "x": 67,
+     "y": 10,
+     "w": 25,
+     "h": 3.5
+    },
+    "layerIndex": 5,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A useful change of scale",
+      "body": "The address is smaller and more slanted than the outlined venue name above it. It occupies a clear patch near the upper right, beneath the final letters. The change in style makes it a secondary line, but it carries information needed to locate the business.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Atmosphere and logistics",
+      "body": "The poster combines an imagined experience of the room with an actual address. Those functions complement each other: a lively scene can attract attention, while a street line gives that attention somewhere to go. This distinction helps explain why small practical wording deserves a place in close reading.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What does this line do that no amount of expressive drawing can replace?",
+    "related": [
+     "venue",
+     "room"
+    ],
+    "number": 2
+   },
+   {
+    "id": "hat",
+    "label": "An enormous feathered hat",
+    "shortLabel": "An enormous feathered hat",
+    "kicker": "Two kinds of dark movement",
+    "summary": "A dark brim and plume spread above the foreground face.",
+    "x": 55.5,
+    "y": 17.5,
+    "bounds": {
+     "x": 35,
+     "y": 5,
+     "w": 41,
+     "h": 25
+    },
+    "layerIndex": 4,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Two kinds of dark movement",
+      "body": "The hat’s broad brim stretches sideways, while its plume rises in jagged curls. Both belong to the same dark mass, yet they give it different directions. The upper shape nearly reaches the title, linking the main figure to the top of the composition.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Recognition by outline",
+      "body": "The hat makes the foreground person recognizable as a distinct silhouette before facial detail becomes visible. Covering the face leaves a strong graphic identity. That is a property of this drawing, not a rule that an accessory alone can identify every historical person or social class.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which part of the hat is more important to the silhouette: the brim or the plume?",
+    "related": [
+     "face",
+     "silhouette"
+    ],
+    "number": 3
+   },
+   {
+    "id": "face",
+    "label": "An orange-haired profile",
+    "shortLabel": "An orange-haired profile",
+    "kicker": "A face in profile",
+    "summary": "A small pale face appears beneath the brim.",
+    "x": 57.5,
+    "y": 29.5,
+    "bounds": {
+     "x": 45,
+     "y": 23,
+     "w": 25,
+     "h": 13
+    },
+    "layerIndex": 4,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A face in profile",
+      "body": "The face is shown in side view with a clear nose, small mouth and dark eye mark. Orange hair frames the pale skin beneath the black hat. The small area of warm colour stands out because so much of the surrounding figure is a continuous dark shape.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A performer in the audience",
+      "body": "The Met identifies the foreground spectator as Jane Avril. Here she is watching rather than performing. That role matters: the poster places a recognizable entertainer in the audience, while another performer appears much smaller on the stage at the upper left.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "met"
+       }
+      ]
+     }
+    ],
+    "question": "What remains visible when much of the head is covered by the hat?",
+    "related": [
+     "hat",
+     "performer"
+    ],
+    "number": 4
+   },
+   {
+    "id": "silhouette",
+    "label": "A black dress with a long curve",
+    "shortLabel": "A black dress with a long curve",
+    "kicker": "A shape with several speeds",
+    "summary": "The foreground body occupies much of the sheet.",
+    "x": 49.5,
+    "y": 64.5,
+    "bounds": {
+     "x": 11,
+     "y": 31,
+     "w": 77,
+     "h": 67
+    },
+    "layerIndex": 4,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A shape with several speeds",
+      "body": "The high collar and fitted upper body narrow at the waist, then widen into a long sweeping skirt. One elbow projects sharply to the right. The large dark area is relatively untextured, which makes its changing outer contour more important than any internal modelling.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A foreground made by overlap",
+      "body": "This body covers parts of the orchestra and the seated man, establishing the nearest visual layer. Its large flat mass does not need photographic shading to feel forward. The overlap and scale supply depth while preserving the strong graphic simplicity of the figure.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does the silhouette narrow, and where does it expand again?",
+    "related": [
+     "hand",
+     "chair"
+    ],
+    "number": 5
+   },
+   {
+    "id": "hand",
+    "label": "A pale hand at the end of an arm",
+    "shortLabel": "A pale hand at the end of an arm",
+    "kicker": "A small light articulation",
+    "summary": "An extended arm ends in a small light shape.",
+    "x": 20,
+    "y": 58,
+    "bounds": {
+     "x": 13,
+     "y": 54,
+     "w": 14,
+     "h": 8
+    },
+    "layerIndex": 4,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A small light articulation",
+      "body": "The leftward arm stretches almost horizontally, ending in a pale hand with a few dark finger lines. A dark object continues toward the left edge. The hand separates that object from the sleeve and makes the gesture readable within an otherwise connected dark band.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Name only what is secure",
+      "body": "The small held form is less explicit than the hand itself in this reproduction. Rather than insist on an object identity, the study follows the visible contrast and direction. The gesture still contributes to the composition even when the precise accessory remains open to further research.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the hand interrupt the long dark sleeve?",
+    "related": [
+     "silhouette",
+     "orchestra"
+    ],
+    "number": 6
+   },
+   {
+    "id": "chair",
+    "label": "Yellow curves beside the figures",
+    "shortLabel": "Yellow curves",
+    "kicker": "A second contour outside the figure",
+    "summary": "Warm curved contours emerge between dark bodies.",
+    "x": 79,
+    "y": 66,
+    "bounds": {
+     "x": 67,
+     "y": 34,
+     "w": 24,
+     "h": 64
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Several visible fragments",
+      "body": "A hooked yellow curve appears beside the man, while longer yellow contours run down beside the foreground sitter and around the seat. Dark bodies interrupt these shapes. The visible fragments should not automatically be joined into one continuous object simply because their colours are similar.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Depth through interrupted contours",
+      "body": "These curves help describe the seated arrangement while bringing warm colour into the dark foreground. Following each visible segment separately is more reliable than completing every hidden object in the imagination. The poster can suggest a furnished room without drawing all its boundaries or accessories in full.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which curves can you follow continuously, and which disappear behind a body?",
+    "related": [
+     "man",
+     "silhouette"
+    ],
+    "number": 7
+   },
+   {
+    "id": "man",
+    "label": "The man behind the foreground sitter",
+    "shortLabel": "The man behind the foreground sitter",
+    "kicker": "A portrait compressed by overlap",
+    "summary": "A top hat, beard and patterned clothing form a narrow side figure.",
+    "x": 85,
+    "y": 54,
+    "bounds": {
+     "x": 72,
+     "y": 13,
+     "w": 26,
+     "h": 82
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A portrait compressed by overlap",
+      "body": "The man’s dark top hat and pale bearded profile are visible at the right. His clothing contains more internal lines and pattern than the large black dress. The foreground sitter covers much of his torso, leaving a narrow, irregular strip of information down the edge.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A named spectator",
+      "body": "The Met identifies this spectator as the writer Édouard Dujardin, seated with Jane Avril. This is a documented identification, not a conclusion drawn from the top hat or beard. His presence helps make the poster a representation of a particular social circle as well as a venue advertisement.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "met"
+       }
+      ]
+     }
+    ],
+    "question": "Which parts of this person are hidden by the figure in front?",
+    "related": [
+     "face",
+     "chair"
+    ],
+    "number": 8
+   },
+   {
+    "id": "performer",
+    "label": "A performer whose head is cropped",
+    "shortLabel": "A performer whose head is cropped",
+    "kicker": "A striking crop",
+    "summary": "Long black gloves remain visible at the upper left.",
+    "x": 15.5,
+    "y": 15.5,
+    "bounds": {
+     "x": 3,
+     "y": 1,
+     "w": 25,
+     "h": 29
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A striking crop",
+      "body": "Only part of the stage performer appears in the upper-left corner. The head extends beyond the top edge, while long dark gloves and a pale garment remain visible. The crop makes this figure much less complete than the spectator in front, despite the stage role.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Identification through distinctive details",
+      "body": "The Met identifies the performer as Yvette Guilbert and explains that her long black gloves and slender figure made her recognizable. That source-backed identification is more reliable than guessing from an anonymous cropped body. The design gives a celebrity’s characteristic details more space than her face.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "met"
+       }
+      ]
+     }
+    ],
+    "question": "How can a performer be recognizable when the poster cuts off the head?",
+    "related": [
+     "face",
+     "hat"
+    ],
+    "number": 9
+   },
+   {
+    "id": "orchestra",
+    "label": "The musicians below the stage",
+    "shortLabel": "The musicians below the stage",
+    "kicker": "A lighter kind of drawing",
+    "summary": "Pale outlined forms occupy the middle-left space.",
+    "x": 26.5,
+    "y": 43,
+    "bounds": {
+     "x": 3,
+     "y": 29,
+     "w": 47,
+     "h": 28
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A lighter kind of drawing",
+      "body": "The orchestra area uses thin contours and muted fills rather than the foreground figure’s solid black. Curved instrument forms, heads and diagonal lines overlap. Some details are intentionally compressed, but the group establishes a performance space between the distant stage and the nearby audience.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Depth through changing emphasis",
+      "body": "The musicians receive less visual weight than the audience silhouette. That difference in line, fill and overlap organizes depth without a strict perspective grid. It also shifts the advertisement’s attention from the performance alone toward the experience of being among other spectators.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which marks suggest instruments, and which suggest people?",
+    "related": [
+     "performer",
+     "silhouette"
+    ],
+    "number": 10
+   },
+   {
+    "id": "room",
+    "label": "The textured ochre room",
+    "shortLabel": "The textured ochre room",
+    "kicker": "A ground with visible texture",
+    "summary": "Warm colour holds stage, audience and letters together.",
+    "x": 32,
+    "y": 72,
+    "bounds": {
+     "x": 3,
+     "y": 14,
+     "w": 94,
+     "h": 83
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A ground with visible texture",
+      "body": "The ochre and muted grey-green areas contain fine grain and uneven density. These textures differ from the flatter black clothing. The warm ground remains visible in gaps between bodies, furniture and lettering, linking otherwise separate parts of the crowded scene.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A specific print medium",
+      "body": "The Met records this 1892–93 work as a lithograph printed in four colours on wove paper. That verifies the medium for this object. The displayed pixel colours are samples of its digital reproduction, not exact recipes for those four printed colours or evidence of every production step.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "met"
+       }
+      ]
+     }
+    ],
+    "question": "Where does the background show grain instead of a perfectly flat fill?",
+    "related": [
+     "venue",
+     "signature"
+    ],
+    "number": 11
+   },
+   {
+    "id": "signature",
+    "label": "A name near the lower edge",
+    "shortLabel": "A name near the lower edge",
+    "kicker": "Authorship at the margin",
+    "summary": "A small dark signature sits beside the skirt.",
+    "x": 88,
+    "y": 88.5,
+    "bounds": {
+     "x": 82,
+     "y": 86,
+     "w": 12,
+     "h": 5
+    },
+    "layerIndex": 0,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Authorship at the margin",
+      "body": "A small handwritten-looking signature appears near the lower right, while other tiny printer information lies closer to the edge. These marks are subordinate to the venue name and figures. The difference in scale separates identifying the maker from advertising the business.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Credit and purpose are different",
+      "body": "The largest words name the place being advertised, not the artist. The small signature rewards a closer inspection but does not change the sheet’s public purpose. A poster can carry a distinctive artistic voice while still giving its most prominent space to a client’s name.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the signature’s scale compare with the venue’s name?",
+    "related": [
+     "venue",
+     "room"
+    ],
+    "number": 12
+   }
+  ],
+  "sources": [
+   {
+    "id": "met",
+    "title": "The Met: Divan Japonais, 58.621.17",
+    "url": "https://www.metmuseum.org/art/collection/search/334197",
+    "kind": "Museum collection",
+    "summary": "Verifies Toulouse-Lautrec, 1892–93, four-colour lithograph, venue purpose and the identities/roles of Avril, Dujardin and Guilbert."
+   }
+  ],
+  "tour": [
+   "silhouette",
+   "hat",
+   "face",
+   "performer",
+   "orchestra",
+   "address"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected readable wording",
+    "rows": [
+     {
+      "text": "Divan Japonais",
+      "meaning": "Name of the Paris café-concert.",
+      "lang": "fr"
+     },
+     {
+      "text": "75 rue des Martyrs",
+      "meaning": "The street address printed beneath the venue name.",
+      "lang": "fr"
+     },
+     {
+      "text": "Ed Fournier directeur",
+      "meaning": "The printed management credit; directeur means director/manager.",
+      "lang": "fr"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "This is a partial transcript of securely readable wording in the installed reproduction. Small credits, logos and review attributions are not fully transcribed; enlargement cannot restore missing source detail.",
+  "palette": [
+   {
+    "name": "Dress black",
+    "hex": "#252628",
+    "role": "The dominant foreground shape.",
+    "region": "silhouette"
+   },
+   {
+    "name": "Room ochre",
+    "hex": "#CCA84A",
+    "role": "Warm space around the figures.",
+    "region": "room"
+   },
+   {
+    "name": "Hair orange",
+    "hex": "#CF7C2E",
+    "role": "A small warm accent under the hat.",
+    "region": "face"
+   },
+   {
+    "name": "Orchestra warm grey",
+    "hex": "#A39068",
+    "role": "A quieter middle-distance drawing.",
+    "region": "orchestra"
+   }
+  ],
+  "paletteNote": "These are individual screen-pixel samples from the installed digital reproduction, not specifications for the original inks or paper. Texture, lighting, scanning and screen settings affect their appearance.",
+  "connections": [
+   {
+    "label": "Audience and stage",
+    "title": "The spectator outweighs the performer",
+    "text": "The broad dark dress and feathered hat occupy much more of the sheet than the cropped performer at upper left, reversing the usual balance between audience and stage.",
+    "anchors": [
+     [
+      4,
+      0.5897577092511013,
+      0.6004166666666667
+     ],
+     [
+      1,
+      0.17015418502202642,
+      0.15041666666666667
+     ]
+    ],
+    "id": "divan-japonais-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Mass and line",
+    "title": "A solid silhouette beside an outlined orchestra",
+    "text": "The woman’s dark body is visually heavy. The orchestra beside it is described with much thinner marks, allowing the foreground figure to dominate.",
+    "anchors": [
+     [
+      4,
+      0.5897577092511013,
+      0.8004166666666667
+     ],
+     [
+      2,
+      0.31002202643171806,
+      0.43041666666666667
+     ]
+    ],
+    "id": "divan-japonais-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

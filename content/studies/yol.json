@@ -1,0 +1,701 @@
+{
+ "poster": {
+  "id": "yol",
+  "title": "Yol",
+  "year": "1982",
+  "yearNumber": 1982,
+  "country": "Turkey / Switzerland / France",
+  "countries": [
+   "Turkey",
+   "Switzerland",
+   "France"
+  ],
+  "region": "West Asia & Caucasus",
+  "category": "Film",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Şerif Gören and Yılmaz Güney",
+  "edition": "1982 US theatrical one-sheet",
+  "posterTerritory": "United States",
+  "image": "images/full/yol.jpg",
+  "ratio": 0.6566666666666666,
+  "alt": "Two large scarf-framed faces rise above a small line of travellers against cream and orange, with a black announcement panel above and the dark Yol title below.",
+  "blurb": "Large faces and tiny travellers compress an intimate encounter and a long journey into one sheet.",
+  "notes": [
+   {
+    "title": "Faces become a landscape",
+    "body": "The two close-up heads sit above the smaller travelling figures. Their overlapping scarves form a broad warm shape, making the personal portrait feel like the terrain through which the lower group moves."
+   },
+   {
+    "title": "A bridge between scales",
+    "body": "The tiny figures overlap the fading lower edge of the portraits. That transition joins the close-up and distant scene rather than separating them into two boxed illustrations."
+   },
+   {
+    "title": "The page is bracketed by type",
+    "body": "A black announcement band caps the image and the short, dark title anchors the base. The warm portrait montage is held between these two compact typographic blocks."
+   }
+  ],
+  "source": "https://www.festival-cannes.com/en/f/yol/",
+  "imageSource": "https://posteritati.com/poster/32010/yol-1982-us-one-sheet-poster",
+  "imageCredit": "1982 US one-sheet reproduced from Posteritati’s documented physical poster. Artist uncredited; copyright remains with the respective film, distribution and artwork rights holders.",
+  "credit": "1982 US one-sheet reproduced from Posteritati’s documented physical poster. Artist uncredited; copyright remains with the respective film, distribution and artwork rights holders.",
+  "reproduction": "Selected poster: US theatrical one-sheet, 1982. Its English campaign copy belongs to that export release; it does not establish the film’s production countries.",
+  "downloadURL": "https://cdn.posteritati.com/posters/000/000/029/400/yol-md-web.jpg",
+  "anchor": [
+   0.57,
+   0.4
+  ],
+  "accent": "#ba623a",
+  "posterYear": "1982",
+  "originNote": "Origin records differ. This catalogue follows Fribourg’s production-country listing: Turkey, Switzerland and France. Cannes lists Turkey. Turkey remains the primary origin used for regional grouping.",
+  "originSources": [
+   {
+    "title": "Fribourg: production countries for Yol",
+    "url": "https://www.fiff.ch/en/yol"
+   },
+   {
+    "title": "Cannes: Yol film record",
+    "url": "https://www.festival-cannes.com/en/f/yol/"
+   }
+  ],
+  "primaryOrigin": "Turkey",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/yol.webp"
+ },
+ "studyData": {
+  "intro": "Two large faces share a scarf-like landscape with a tiny group of travellers. The American campaign adds bold claims about freedom and censorship; read these as publicity before comparing them with festival records.",
+  "initial": "front-face",
+  "regions": [
+   {
+    "id": "front-face",
+    "number": 1,
+    "label": "Foreground face",
+    "shortLabel": "Foreground face",
+    "kicker": "DESIGN",
+    "summary": "A bearded face holds the centre.",
+    "x": 57,
+    "y": 43,
+    "bounds": {
+     "x": 35,
+     "y": 26,
+     "w": 48,
+     "h": 36
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A face within fabric",
+      "body": "The foreground head is framed by a dark cap, beard and a wide patterned scarf. Warm areas of skin meet almost black shadows around the eyes. The face is much larger than the travelling figures below, so it establishes an intimate scale within the collage.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A concentrated expression",
+      "body": "The lowered brows and closed mouth can invite a serious reading, but the image alone does not establish a particular emotion or plot moment. Compare the facial marks with the posture of the small figures before describing what the composition makes you feel.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which shadow contributes most to the face’s intensity?",
+    "related": [
+     "rear-face",
+     "travellers"
+    ]
+   },
+   {
+    "id": "rear-face",
+    "number": 2,
+    "label": "Rear portrait",
+    "shortLabel": "Rear portrait",
+    "kicker": "DESIGN",
+    "summary": "A second face sits slightly higher and farther left.",
+    "x": 32,
+    "y": 35,
+    "bounds": {
+     "x": 16,
+     "y": 21,
+     "w": 36,
+     "h": 29
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Two unequal portraits",
+      "body": "The rear face is smaller and partly surrounded by pale patterned fabric. Its position above and beside the foreground head makes an overlapping pair without placing the eyes on one horizontal line. This difference keeps the two faces from reading as a formal matched set.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Looking without identifying",
+      "body": "The pair supplies two human viewpoints, but this reproduction does not label their characters. Rather than infer identities or relationships from the overlap, notice how the eye moves between the faces and then down toward the separate travelling group.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does the higher face feel more distant because of size, overlap, or both?",
+    "related": [
+     "front-face",
+     "rear-scarf"
+    ]
+   },
+   {
+    "id": "rear-scarf",
+    "number": 3,
+    "label": "Pale floral scarf",
+    "shortLabel": "Pale floral scarf",
+    "kicker": "DESIGN",
+    "summary": "Small floral marks surround the rear face.",
+    "x": 26,
+    "y": 30,
+    "bounds": {
+     "x": 15,
+     "y": 20,
+     "w": 37,
+     "h": 31
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Pattern frames skin",
+      "body": "The pale scarf contains repeated dark and coloured marks that differ from the smoother face. Its curved edges and folded areas make a frame within the larger orange composition. The marks remain patterned texture even when individual flowers are difficult to distinguish.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Two kinds of detail",
+      "body": "Pattern gives the fabric information while relatively simple skin areas preserve the face’s readability. Compare the scarf with the tiny travellers: both reward close looking, but one describes surface and the other introduces another scene at a much smaller scale.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does pattern help the face stand out, and where does it compete?",
+    "related": [
+     "rear-face",
+     "fringe"
+    ]
+   },
+   {
+    "id": "fringe",
+    "number": 4,
+    "label": "Orange fabric and fringe",
+    "shortLabel": "Orange fabric and fringe",
+    "kicker": "DESIGN",
+    "summary": "Warm fabric fans outward from the foreground portrait.",
+    "x": 84,
+    "y": 55,
+    "bounds": {
+     "x": 61,
+     "y": 43,
+     "w": 36,
+     "h": 23
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An irregular silhouette",
+      "body": "Orange and brown fabric spreads toward the right edge, ending in loose, pointed fringe. These small strands break the broad shape into a restless outline. The colour also appears on the left, visually joining the two portrait areas around the pale central opening.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Cloth becomes a landscape",
+      "body": "At a distance the warm fabric can look like terrain surrounding the small travellers. This is a scale association within the collage, not evidence that the people are literally walking on the clothing. The overlap allows portrait and journey to occupy one image.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "At what viewing distance does the fabric begin to resemble land?",
+    "related": [
+     "travellers",
+     "ground"
+    ]
+   },
+   {
+    "id": "travellers",
+    "number": 5,
+    "label": "Small travelling group",
+    "shortLabel": "Small travelling group",
+    "kicker": "DESIGN",
+    "summary": "Small figures introduce a second measure of distance.",
+    "x": 46,
+    "y": 68,
+    "bounds": {
+     "x": 28,
+     "y": 58,
+     "w": 36,
+     "h": 20
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Bodies below portraits",
+      "body": "The travelling group occupies a pale opening beneath the two enormous heads. Several bodies, bundles and shadows can be distinguished. Their dark marks cluster closely together, making the group readable as a unit before each person becomes individually clear.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A wider story than the image",
+      "body": "Fribourg’s festival account describes five Kurdish prisoners receiving leave and returning toward their homes. That premise provides context for the film’s journeys. It should not be used to assign a named prisoner or a precise episode to every small figure on this sheet.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "fiff"
+       }
+      ]
+     }
+    ],
+    "question": "How does the image change when you cover the small group?",
+    "related": [
+     "front-face",
+     "ground"
+    ]
+   },
+   {
+    "id": "ground",
+    "number": 6,
+    "label": "Pale route through the image",
+    "shortLabel": "Pale route through the image",
+    "kicker": "DESIGN",
+    "summary": "A quiet field gives the travellers room.",
+    "x": 76,
+    "y": 72,
+    "bounds": {
+     "x": 12,
+     "y": 64,
+     "w": 80,
+     "h": 13
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Space around movement",
+      "body": "The pale cream area contrasts with the densely patterned portraits above. It gives the small figures enough clear surroundings to remain visible. Thin shadows extend from their feet across this space, helping establish ground rather than a completely flat decorative gap.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A change of pace",
+      "body": "After the detailed faces and cloth, this quieter area slows the reading. It also separates the picture from the heavy title below. The emptiness serves the scale change; filling it with more portraits would make the travellers harder to notice.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Is the pale interval mainly a background, a route, or a pause for your eye?",
+    "related": [
+     "travellers",
+     "title"
+    ]
+   },
+   {
+    "id": "announcement",
+    "number": 7,
+    "label": "Controversy announcement",
+    "shortLabel": "Controversy announcement",
+    "kicker": "LANGUAGE",
+    "summary": "A black strip turns publicity into the opening statement.",
+    "x": 52,
+    "y": 6,
+    "bounds": {
+     "x": 3,
+     "y": 2,
+     "w": 94,
+     "h": 9
+    },
+    "layerIndex": 5,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A claim before a name",
+      "body": "The upper copy announces a film described as so controversial that it was banned where it was created. White capitals on black give the sentence a strong opening position. This is campaign wording, not a neutral account of the history by itself.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Checking the broad claim",
+      "body": "Fribourg’s retrospective states that the film was prevented from screening in Turkey for fifteen years. That account supports the censorship context, while the poster’s dramatic phrasing belongs to the American campaign. The exact course of restrictions needs more detail than this headline supplies.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "fiff"
+       }
+      ]
+     }
+    ],
+    "question": "What does the headline ask you to feel before you learn the title?",
+    "related": [
+     "award",
+     "credits"
+    ]
+   },
+   {
+    "id": "award",
+    "number": 8,
+    "label": "Cannes award line",
+    "shortLabel": "Cannes award line",
+    "kicker": "DESIGN",
+    "summary": "An award offers a second reason to take notice.",
+    "x": 48,
+    "y": 19,
+    "bounds": {
+     "x": 9,
+     "y": 17,
+     "w": 83,
+     "h": 5
+    },
+    "layerIndex": 5,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Prestige in a narrow band",
+      "body": "The award statement sits between a paragraph of publicity and the portrait group, with a laurel-like device at the right. Its position makes it a bridge from the dense upper text to the image, rather than an isolated badge at the bottom.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Name the award precisely",
+      "body": "Cannes records Yol as a joint Palme d’Or winner in 1982, sharing the top award with Missing. The poster’s more general best-film wording belongs to its advertisement. The festival record gives a more precise description without changing the visible sentence.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cannes"
+       }
+      ]
+     }
+    ],
+    "question": "Does the award feel more persuasive because of its words, placement, or emblem?",
+    "related": [
+     "announcement",
+     "title"
+    ]
+   },
+   {
+    "id": "title",
+    "number": 9,
+    "label": "YOL",
+    "shortLabel": "YOL",
+    "kicker": "LANGUAGE",
+    "summary": "Three heavy letters anchor the lower image.",
+    "x": 50,
+    "y": 80,
+    "bounds": {
+     "x": 28,
+     "y": 76,
+     "w": 45,
+     "h": 9
+    },
+    "layerIndex": 4,
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A short Turkish title",
+      "body": "YOL means road or way in Turkish. The three capitals are unusually compact compared with the long English sentences elsewhere on the sheet. Their thick strokes and dark colour create a single firm block below the tiny travellers.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A word and a journey",
+      "body": "The title’s meaning can connect the human journeys above with the campaign’s language about freedom below. That relationship comes from the wording and layout, rather than an assumption that the poster depicts one literal road seen in the film.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would the title have the same force if it were written as a long explanatory phrase?",
+    "related": [
+     "travellers",
+     "tagline"
+    ]
+   },
+   {
+    "id": "tagline",
+    "number": 10,
+    "label": "Families and freedom",
+    "shortLabel": "Families and freedom",
+    "kicker": "LANGUAGE",
+    "summary": "A brief English line interprets the journey.",
+    "x": 49,
+    "y": 85,
+    "bounds": {
+     "x": 15,
+     "y": 83,
+     "w": 70,
+     "h": 4
+    },
+    "layerIndex": 5,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "An invitation to a theme",
+      "body": "The lower slogan frames the story as families searching for freedom. It supplies a broad theme after the title has been established. A short campaign line necessarily selects from a longer film, so it should not replace a fuller synopsis.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A shift in address",
+      "body": "The upper announcement stresses controversy, while this line stresses people and their desire for freedom. These two appeals can reach a viewer differently. Compare the language before deciding whether the poster sells an event, a political story, or a personal journey.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which appeal would make you more curious: controversy or the search for freedom?",
+    "related": [
+     "announcement",
+     "title"
+    ]
+   },
+   {
+    "id": "credits",
+    "number": 11,
+    "label": "Credit line and authorship",
+    "shortLabel": "Credit line and authorship",
+    "kicker": "DESIGN",
+    "summary": "Small names sit beneath the large promise.",
+    "x": 51,
+    "y": 91,
+    "bounds": {
+     "x": 3,
+     "y": 88,
+     "w": 94,
+     "h": 10
+    },
+    "layerIndex": 5,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Reading down the hierarchy",
+      "body": "A prominent Yılmaz Güney name appears above much smaller production and release information. The contrast makes some contributions easier to notice than others. Small credit blocks should be enlarged where possible, rather than reconstructed from indistinct letter shapes in this scan.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Two credited directors",
+      "body": "Cannes credits both Şerif Gören and Yılmaz Güney as directors. Fribourg describes Güney writing and directing remotely from prison with Gören’s help. Keeping the paired director credit visible is more accurate than reducing the film’s authorship to the most prominent printed name.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cannes"
+       },
+       {
+        "id": "fiff"
+       }
+      ]
+     }
+    ],
+    "question": "Which contributor receives the clearest visual emphasis on this edition?",
+    "related": [
+     "award",
+     "sheet"
+    ]
+   },
+   {
+    "id": "sheet",
+    "number": 12,
+    "label": "Folds across the sheet",
+    "shortLabel": "Folds across the sheet",
+    "kicker": "DESIGN",
+    "summary": "Horizontal creases cross unrelated parts of the design.",
+    "x": 91,
+    "y": 48,
+    "bounds": {
+     "x": 84,
+     "y": 40,
+     "w": 14,
+     "h": 15
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "The physical poster remains visible",
+      "body": "Light and dark horizontal bands pass through fabric, faces and pale ground. They continue across forms that otherwise belong to separate parts of the composition. That continuity helps identify them as folds in the reproduced sheet rather than deliberate lines within the illustration.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "An American edition",
+      "body": "The custodian’s listing identifies a 1982 United States one-sheet measuring 27 by 41 inches. This locates the English-language campaign as a particular physical edition. Its wording and format should not be treated as a complete record of the film’s Turkish advertising.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "edition"
+       }
+      ]
+     }
+    ],
+    "question": "Which crease can you follow through both an image and a printed word?",
+    "related": [
+     "credits",
+     "ground"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed poster edition",
+    "url": "https://posteritati.com/poster/32010/yol-1982-us-one-sheet-poster",
+    "kind": "Visual source",
+    "summary": "The reproduced edition is the evidence for visible wording, layout, marks and colour relationships. Translations and visual interpretations are supplied by Poster Atlas."
+   },
+   {
+    "id": "cannes",
+    "title": "Festival de Cannes: Yol, 1982",
+    "url": "https://www.festival-cannes.com/en/f/yol/",
+    "kind": "Official festival record",
+    "summary": "Credits Şerif Gören and Yılmaz Güney and records the joint 1982 Palme d’Or."
+   },
+   {
+    "id": "fiff",
+    "title": "Fribourg International Film Festival: Yol",
+    "url": "https://www.fiff.ch/en/yol",
+    "kind": "Festival retrospective",
+    "summary": "Provides the five-prisoner premise, the production circumstances involving Güney and Gören, and the history of delayed Turkish exhibition."
+   },
+   {
+    "id": "edition",
+    "title": "Posteritati: Yol, 1982 US one-sheet",
+    "url": "https://posteritati.com/poster/32010/yol-1982-us-one-sheet-poster",
+    "kind": "Physical poster custodian",
+    "summary": "Identifies the American 27 by 41 inch edition reproduced here; used for edition details, not independent film history."
+   }
+  ],
+  "tour": [
+   "front-face",
+   "rear-face",
+   "travellers",
+   "title",
+   "announcement",
+   "award"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "YOL",
+      "meaning": "Road or way; the Turkish film title.",
+      "lang": "tr"
+     },
+     {
+      "text": "YILMAZ GÜNEY",
+      "meaning": "The prominent filmmaker name printed in this campaign.",
+      "lang": "tr"
+     },
+     {
+      "text": "Winner Best Film 1982 Cannes Film Festival",
+      "meaning": "Campaign award wording; Cannes specifies a joint Palme d’Or.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Only securely legible title and key wording are transcribed. Small credits are not reconstructed from this reproduction.",
+  "palette": [
+   {
+    "name": "Cream ground",
+    "hex": "#FFD99A",
+    "role": "Open space around the travelling group.",
+    "region": "ground"
+   },
+   {
+    "name": "Orange fabric",
+    "hex": "#FA976E",
+    "role": "A warm area around the portrait.",
+    "region": "fringe"
+   },
+   {
+    "name": "Dark title",
+    "hex": "#2B0200",
+    "role": "A heavy stroke in YOL.",
+    "region": "title"
+   },
+   {
+    "name": "Pale scarf",
+    "hex": "#EFD6C0",
+    "role": "A lighter patterned frame around the rear face.",
+    "region": "rear-scarf"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in this installed reproduction. They are not original paint, ink or printing specifications.",
+  "connections": [
+   {
+    "label": "Two human scales",
+    "title": "Faces above, travellers below",
+    "text": "The small walking group sits beneath the enlarged portraits, changing the scale without leaving the same fading image.",
+    "anchors": [
+     [
+      2,
+      0.6199238578680203,
+      0.43041666666666667
+     ],
+     [
+      3,
+      0.4600253807106599,
+      0.6804166666666667
+     ]
+    ],
+    "id": "yol-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "A dense wordmark",
+    "title": "The title steadies the dissolving image",
+    "text": "The heavy black YOL lettering provides a firm base below the pale, fading portrait edges.",
+    "anchors": [
+     [
+      4,
+      0.47779187817258884,
+      0.8029166666666666
+     ],
+     [
+      1,
+      0.2506345177664975,
+      0.5504166666666667
+     ]
+    ],
+    "id": "yol-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

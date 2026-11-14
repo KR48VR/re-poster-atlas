@@ -1,0 +1,591 @@
+{
+ "poster": {
+  "id": "the-color-of-pomegranates",
+  "title": "The Color of Pomegranates",
+  "year": "1969",
+  "yearNumber": 1969,
+  "country": "Armenia",
+  "countries": [
+   "Armenia"
+  ],
+  "region": "West Asia & Caucasus",
+  "category": "Film",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Sergei Parajanov",
+  "edition": "English-language restoration poster reproduced by Eye Filmmuseum",
+  "posterTerritory": "International (English-language)",
+  "image": "images/full/the-color-of-pomegranates.jpg",
+  "ratio": 0.7825,
+  "alt": "A woman in right-facing profile wears an elaborate leafy and floral headdress against ochre, with tall cream title letters stacked across the portrait.",
+  "blurb": "A ceremonial profile and a column of condensed letters share a warm, tapestry-like field.",
+  "notes": [
+   {
+    "title": "The profile keeps one clear edge",
+    "body": "The nose, lips and chin form a clean right-facing silhouette. Against the intricate headdress, this single contour gives the viewer a simple line to follow."
+   },
+   {
+    "title": "Organic detail meets straight type",
+    "body": "Leaves, twigs and flowers branch in many directions, while the cream title holds to narrow vertical strokes. The two textures overlap, so the portrait and title have to be read together."
+   },
+   {
+    "title": "A continuous warm field",
+    "body": "Ochre surrounds the head and echoes the figure’s pale skin and golden clothing. The limited warm palette makes the dark green foliage feel denser without requiring a separate frame."
+   }
+  ],
+  "source": "https://www.criterion.com/films/29219-the-color-of-pomegranates",
+  "imageSource": "https://www.eyefilm.nl/en/whats-on/the-color-of-pomegranates/1344928",
+  "imageCredit": "Restoration campaign poster reproduced by Eye Filmmuseum. Copyright remains with the respective film, distribution and artwork rights holders; designer uncredited.",
+  "credit": "Restoration campaign poster reproduced by Eye Filmmuseum. Copyright remains with the respective film, distribution and artwork rights holders; designer uncredited.",
+  "reproduction": "Film: Armenian cinema within the Soviet Union, 1969. This is later English-language restoration artwork, not a 1969 Soviet release poster; the poster date is unverified. Eye lists production as 1968 and identifies the restored director’s cut as 1969.",
+  "downloadURL": "https://assets.eyefilm.nl/images/posters/poster-color-of-pomegranates-eye-filmmuseum.jpg",
+  "anchor": [
+   0.72,
+   0.48
+  ],
+  "accent": "#b49b53",
+  "originNote": "The film was made in Soviet Armenia; the country filter uses Armenia for this historical origin.",
+  "primaryOrigin": "Armenia",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/the-color-of-pomegranates.webp"
+ },
+ "studyData": {
+  "intro": "A right-facing profile, a dense botanical headdress and stacked cream words share a warm field. This is later English-language restoration artwork, not evidence of a 1969 Soviet poster design; the precise poster date remains unverified.",
+  "initial": "profile",
+  "regions": [
+   {
+    "id": "profile",
+    "number": 1,
+    "label": "A clear profile edge",
+    "shortLabel": "A clear profile edge",
+    "kicker": "ONE EDGE CARRIES RECOGNITION",
+    "summary": "Nose, lips and chin offer a simple line beside complexity.",
+    "x": 85,
+    "y": 55,
+    "bounds": {
+     "x": 68,
+     "y": 39,
+     "w": 23,
+     "h": 32
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "One edge carries recognition",
+      "body": "The forehead, nose, lips and chin make a continuous right-facing contour against plain ochre. This edge is much simpler than the headdress above it. The difference lets the viewer find a face even while the overlapping title and foliage compete for attention.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Looking away from the reader",
+      "body": "The face points toward the right edge rather than addressing the viewer directly. That orientation can make the image feel contemplative, but the poster does not establish an inner state. Its visible effect is to direct attention sideways through a largely vertical title structure.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Trace the profile without looking at the leaves: where does the contour turn most sharply?",
+    "related": [
+     "eye",
+     "foliage",
+     "field"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "eye",
+    "number": 2,
+    "label": "The lowered eye",
+    "shortLabel": "The lowered eye",
+    "kicker": "A COMPACT DARK MARK",
+    "summary": "A small dark accent interrupts the pale face.",
+    "x": 81,
+    "y": 48,
+    "bounds": {
+     "x": 74,
+     "y": 44,
+     "w": 11,
+     "h": 7
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A compact dark mark",
+      "body": "The eyelid and brow form dark accents within the pale profile. They occupy little area compared with the surrounding skin, yet they help organise the face. Their direction also reinforces the sideways orientation already established by nose and chin.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Expression with limited evidence",
+      "body": "The eye can be read as lowered or averted. A more detailed emotional label would go beyond what this image can securely show. Comparing the eye’s angle with the profile is more useful than inventing a particular thought for the pictured person.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What changes if you cover the eye but keep the nose and lips visible?",
+    "related": [
+     "profile",
+     "light"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "foliage",
+    "number": 3,
+    "label": "Leaves that spread outward",
+    "shortLabel": "Leaves that spread outward",
+    "kicker": "MANY DIRECTIONS IN ONE CROWN",
+    "summary": "Branches and leaf edges resist the title’s order.",
+    "x": 34,
+    "y": 44,
+    "bounds": {
+     "x": 2,
+     "y": 0,
+     "w": 91,
+     "h": 64
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Many directions in one crown",
+      "body": "Leaves and stems branch leftward and upward with pointed, irregular edges. Their veins, folds and overlapping shadows create detail at a smaller scale than the face. The outer contour spreads well beyond the skull, enlarging the head’s visual presence.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A film of symbolic tableaux",
+      "body": "Criterion describes Parajanov’s film as an associative portrait of the Armenian poet Sayat-Nova through arranged tableaux. That supports a context for attentive looking at objects and costume. It does not decode this particular crown or prove a single meaning for each plant.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "criterion"
+       }
+      ]
+     }
+    ],
+    "question": "Which leaf contour is easiest to follow through the overlapping lettering?",
+    "related": [
+     "flowers",
+     "title",
+     "profile"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "flowers",
+    "number": 4,
+    "label": "Pale forms at the forehead",
+    "shortLabel": "Pale forms at the forehead",
+    "kicker": "A LIGHTER INTERRUPTION",
+    "summary": "Light flower-like shapes mediate between foliage and skin.",
+    "x": 82,
+    "y": 33,
+    "bounds": {
+     "x": 64,
+     "y": 25,
+     "w": 31,
+     "h": 18
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A lighter interruption",
+      "body": "Pale folded forms cluster near the forehead and interrupt the dark green leaves. Their irregular edges remain distinct from both the angular title letters and the smooth facial contour. These lighter elements make a transition between botanical density and the open profile.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Describe before identifying",
+      "body": "The scan supports the observation of flower-like folds, leaves and stems, but not a confident botanical inventory. Leaving species unnamed allows the reader to study colour, texture and overlap without confusing visual resemblance with a documented symbolic programme.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Compare their edges with the darker leaves: which overlap seems most delicate?",
+    "related": [
+     "foliage",
+     "profile"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "light",
+    "number": 5,
+    "label": "Hair and skin in a warm range",
+    "shortLabel": "Hair and skin in a warm range",
+    "kicker": "CONTOURS SEPARATE RELATED TONES",
+    "summary": "Pale hair and face connect to the ochre around them.",
+    "x": 49,
+    "y": 72,
+    "bounds": {
+     "x": 18,
+     "y": 51,
+     "w": 66,
+     "h": 48
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Contours separate related tones",
+      "body": "The pale hair and skin sit close to the warm background in colour, but dark edges and small shadow changes keep them distinct. Strands fall down the left side while the neck opens a broader light area beneath the jaw.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Quiet colour, active edge",
+      "body": "The limited warm range shifts attention toward shape and contrast rather than many competing hues. The dark leaves then become especially dense by comparison. This is a reading of relationships in this reproduction, not a claim about the original film’s entire palette.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the face remain visible when its colour is close to the background?",
+    "related": [
+     "profile",
+     "field",
+     "clothing"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "clothing",
+    "number": 6,
+    "label": "Pattern at the lower edge",
+    "shortLabel": "Pattern at the lower edge",
+    "kicker": "ANOTHER SCALE OF ORNAMENT",
+    "summary": "Curved pale lines repeat the organic detail above.",
+    "x": 47,
+    "y": 95,
+    "bounds": {
+     "x": 19,
+     "y": 85,
+     "w": 58,
+     "h": 15
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Another scale of ornament",
+      "body": "At the lower edge, dark clothing carries curved pale lines. The pattern supplies detail after the relatively open face and neck. It echoes the headdress’s organic complexity while remaining more linear and contained within the shoulder’s silhouette.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A partial costume view",
+      "body": "Only a fragment of the garment is visible, so its complete construction, cultural identity and materials cannot be established from this crop. The close reading stays with the patterned surface actually shown and how it supports the portrait’s lower boundary.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What connects the shoulder pattern to the leaves, and what keeps them different?",
+    "related": [
+     "foliage",
+     "light"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "title",
+    "number": 7,
+    "label": "A title across the portrait",
+    "shortLabel": "A title across the portrait",
+    "kicker": "THE SPELLING ON THIS EDITION",
+    "summary": "Several text scales turn a long title into a vertical sequence.",
+    "x": 51,
+    "y": 80,
+    "bounds": {
+     "x": 4,
+     "y": 6,
+     "w": 93,
+     "h": 81
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "The spelling on this edition",
+      "body": "The poster spells the key word COLOUR, while the collection title uses the American spelling Color. Both refer to the same film. Reading the installed wording keeps the English-language campaign specific rather than silently replacing its letters with catalogue metadata.",
+      "evidence": "observation",
+      "originalText": "THE COLOUR OF POMEGRANATES",
+      "lang": "en"
+     },
+     {
+      "kind": "design",
+      "heading": "Words change scale to fit",
+      "body": "The long final word stretches almost across the sheet; COLOUR forms a shorter but equally forceful block above. THE and OF are narrower and centred. These size changes let a long title maintain a clear axis over a highly irregular image.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Which part would you read first if you did not already know the title?",
+    "related": [
+     "rules",
+     "foliage",
+     "credit"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "rules",
+    "number": 8,
+    "label": "Three cream divider lines",
+    "shortLabel": "Three cream divider lines",
+    "kicker": "SMALL HORIZONTAL STABILISERS",
+    "summary": "Short horizontal strokes create pauses between words.",
+    "x": 50,
+    "y": 46,
+    "bounds": {
+     "x": 40,
+     "y": 20,
+     "w": 21,
+     "h": 49
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Small horizontal stabilisers",
+      "body": "Short cream rules separate the stacked words. They share the title’s colour but contain no verbal information, making them visual pauses. Against leaves and branches, their straightness offers a repeated measure that can be recognised before the full title is read.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An axis through a turned head",
+      "body": "The rules reinforce a vertical central column while the face turns to the right. That crossing of directions helps the image avoid becoming only a profile portrait or only a centred text block. The two systems remain visible together.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What happens to the title’s rhythm if the three rules are hidden?",
+    "related": [
+     "title",
+     "profile"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "field",
+    "number": 9,
+    "label": "An uninterrupted ochre ground",
+    "shortLabel": "An uninterrupted ochre ground",
+    "kicker": "A FIELD RATHER THAN A PLACE",
+    "summary": "Open warm space exposes the portrait’s outline.",
+    "x": 12,
+    "y": 14,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 100,
+     "h": 100
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A field rather than a place",
+      "body": "The surrounding ochre has mottled texture but supplies no horizon or identifiable room. Its openness makes the leaf tips, head contour and lettering easy to compare as shapes. The picture offers a portrait and ornament without explaining a physical location.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Two dates need separating",
+      "body": "Eye lists a 1968 production year and identifies its screened original director’s cut as 1969; Criterion uses 1969. Neither record dates this English restoration poster. The film’s catalogue year therefore must not be treated as the year of the graphic design shown here.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "eye"
+       }
+      ]
+     }
+    ],
+    "question": "Where does the largest uninterrupted patch of ochre help you understand the headdress?",
+    "related": [
+     "foliage",
+     "light",
+     "title"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "credit",
+    "number": 10,
+    "label": "The director named below",
+    "shortLabel": "The director named below",
+    "kicker": "THE FILM IS ATTRIBUTED",
+    "summary": "A short credit rests between title and shoulder.",
+    "x": 50,
+    "y": 92,
+    "bounds": {
+     "x": 26,
+     "y": 89,
+     "w": 48,
+     "h": 5
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "The film is attributed",
+      "body": "A FILM BY SERGEI PARAJANOV appears below the long final word of the title. Its narrower line adds a maker’s name without another dominant headline. This attribution identifies the filmmaker; it does not identify the designer of the restoration campaign.",
+      "evidence": "observation",
+      "originalText": "A FILM BY SERGEI PARAJANOV",
+      "lang": "en"
+     },
+     {
+      "kind": "business",
+      "heading": "A restored film recirculates",
+      "body": "Eye reproduces this poster with a screening of the restored director’s cut and names the restoration organisations. That establishes its restoration setting. It does not establish an exact print date, an individual poster artist, or the printing method used for the pictured sheet.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "eye"
+       }
+      ]
+     }
+    ],
+    "question": "How does the small credit differ in purpose from the large title?",
+    "related": [
+     "title",
+     "clothing"
+    ],
+    "layerIndex": 3
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed poster edition",
+    "url": "https://www.eyefilm.nl/en/whats-on/the-color-of-pomegranates/1344928",
+    "kind": "Visual source",
+    "summary": "The reproduced sheet supports observations of visible wording, colour, composition and marks; it does not establish the designer’s intention."
+   },
+   {
+    "id": "criterion",
+    "title": "Criterion: The Color of Pomegranates",
+    "url": "https://www.criterion.com/films/29219-the-color-of-pomegranates",
+    "kind": "Official home-video distributor",
+    "summary": "Supports the 1969 film date, Armenian cultural context, Sayat-Nova subject and tableau-based approach; its separate cover artist is not attributed to this poster."
+   },
+   {
+    "id": "eye",
+    "title": "Eye Filmmuseum: restored director’s cut",
+    "url": "https://www.eyefilm.nl/en/whats-on/the-color-of-pomegranates/1344928",
+    "kind": "Museum screening record",
+    "summary": "Reproduces this English poster; distinguishes 1968 production and 1969 director’s cut and identifies restoration partners, without dating this poster."
+   }
+  ],
+  "tour": [
+   "profile",
+   "foliage",
+   "flowers",
+   "title",
+   "rules",
+   "field"
+  ],
+  "transcript": [
+   {
+    "heading": "Readable wording on this edition",
+    "rows": [
+     {
+      "text": "THE COLOUR OF POMEGRANATES",
+      "meaning": "The film title, with the spelling used on this edition.",
+      "lang": "en"
+     },
+     {
+      "text": "A FILM BY SERGEI PARAJANOV",
+      "meaning": "Film director credit.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Only the English title and director credit are transcribed. No plant species, costume origin or actor identity is inferred from the image.",
+  "palette": [
+   {
+    "name": "Ochre ground",
+    "hex": "#D0AE66",
+    "region": "field",
+    "role": "An open warm field."
+   },
+   {
+    "name": "Dark leaf",
+    "hex": "#334127",
+    "region": "foliage",
+    "role": "Density within the crown."
+   },
+   {
+    "name": "Cream lettering",
+    "hex": "#F4ECA4",
+    "region": "title",
+    "role": "Light strokes over the portrait."
+   },
+   {
+    "name": "Pale skin",
+    "hex": "#D8BEA7",
+    "region": "profile",
+    "role": "A relatively quiet profile surface."
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in the installed reproduction. These are not original ink specifications; scan, lighting and compression can alter colour.",
+  "connections": [
+   {
+    "label": "One edge, many branches",
+    "title": "Profile against foliage",
+    "text": "The face offers a single clear right-facing contour while the headdress branches in many directions. The contrast gives the dense image a readable edge.",
+    "anchors": [
+     [
+      2,
+      0.8535676251331203,
+      0.5304166666666666
+     ],
+     [
+      1,
+      0.3200212992545261,
+      0.3804166666666667
+     ]
+    ],
+    "id": "the-color-of-pomegranates-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Straight and organic",
+    "title": "Letters cross the crown",
+    "text": "Narrow vertical letters repeat over the irregular leaves and flowers. The overlap makes the title and portrait read together.",
+    "anchors": [
+     [
+      3,
+      0.42971246006389774,
+      0.32625
+     ],
+     [
+      1,
+      0.6895633652822151,
+      0.22041666666666668
+     ]
+    ],
+    "id": "the-color-of-pomegranates-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

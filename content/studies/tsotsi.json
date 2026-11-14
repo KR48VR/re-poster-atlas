@@ -1,0 +1,564 @@
+{
+ "poster": {
+  "id": "tsotsi",
+  "title": "Tsotsi",
+  "year": "2005",
+  "yearNumber": 2005,
+  "creator": "Poster artist uncredited",
+  "country": "South Africa / United Kingdom",
+  "countries": [
+   "South Africa",
+   "United Kingdom"
+  ],
+  "region": "Africa",
+  "category": "Film",
+  "filmCreator": "Gavin Hood",
+  "edition": "Official Miramax portrait-format promotional key art; artwork date unverified",
+  "image": "images/full/tsotsi.jpg",
+  "ratio": 0.6821282401091405,
+  "alt": "Tsotsi key art: a young man crouches beside a rough building against a golden sunset, with a distant city at left and a pale gold title below.",
+  "blurb": "A face turns toward the light while the city remains on the horizon.",
+  "notes": [
+   {
+    "title": "Two places share one horizon",
+    "body": "Rough structures at the right stand close to the viewer; distant towers sit at the left. The central figure occupies the space between these contrasting scales."
+   },
+   {
+    "title": "A face catches the sunset",
+    "body": "Warm light picks out the face and the creases of the black jacket. These small bright edges keep the body legible against the surrounding shadows."
+   },
+   {
+    "title": "The image settles into a title",
+    "body": "The foreground darkens into an almost black lower band. Large pale gold serif letters sit in that quiet area, followed by a much smaller pronunciation guide."
+   }
+  ],
+  "source": "https://www.bfi.org.uk/film/d800bf57-a173-5433-81ff-0a1ea7fb15a5/tsotsi",
+  "credit": "Official Tsotsi key art via Miramax. Copyright remains with the respective rights holders; no public-domain status is claimed.",
+  "imageCredit": "Official Tsotsi key art via Miramax. Copyright remains with the respective rights holders; no public-domain status is claimed.",
+  "imageSource": "https://www.miramax.com/movie/tsotsi/",
+  "downloadURL": "https://www.miramax.com/assets/Tsotsi1.png",
+  "anchor": [
+   0.675,
+   0.35
+  ],
+  "accent": "#b78c29",
+  "yearNote": "The catalogue year is the film year. The reproduced poster edition is identified separately.",
+  "reproduction": "Official Miramax key art, supplied without the full theatrical billing block. The film dates from 2005; this particular web artwork’s publication or printing date is not established.",
+  "posterDateStatus": "Unknown for this web key-art file; do not infer printing date from film year.",
+  "primaryOrigin": "South Africa",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/tsotsi.webp"
+ },
+ "studyData": {
+  "intro": "A single crouching figure divides a golden city view from a dark foreground. This spare web key art rewards looking at the boundary between landscape and portrait: light touches the face and hands while the lower body nearly disappears into the title ground.",
+  "initial": "face",
+  "regions": [
+   {
+    "id": "sky",
+    "label": "A sky in warm bands",
+    "shortLabel": "A sky in warm bands",
+    "kicker": "Colour across a large field",
+    "summary": "Amber clouds fill the upper half.",
+    "x": 43.5,
+    "y": 22.5,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 87,
+     "h": 45
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Colour across a large field",
+      "body": "The sky shifts from dark amber near the top to pale yellow around the low sun. Horizontal cloud bands cross the broad open area, while the building at right interrupts them with a hard vertical edge. The warm colour also reaches the skin and grass below.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Atmosphere is not a moral code",
+      "body": "The golden light can be read as hopeful, uneasy or simply late-day illumination. None of those responses is compulsory. Comparing the warm sky with the figure’s darker clothing keeps the interpretation tied to the image rather than assuming that light automatically means goodness or redemption.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where do the lightest and darkest bands meet?",
+    "related": [
+     "sun",
+     "face"
+    ],
+    "number": 1
+   },
+   {
+    "id": "sun",
+    "label": "A low bright point",
+    "shortLabel": "A low bright point",
+    "kicker": "A source and a glow",
+    "summary": "The sun sits just above the distant city.",
+    "x": 23.5,
+    "y": 42.5,
+    "bounds": {
+     "x": 13,
+     "y": 37,
+     "w": 21,
+     "h": 11
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A source and a glow",
+      "body": "A small pale sun is surrounded by a much larger yellow glow near the left horizon. The surrounding buildings appear darker by comparison. This makes the brightest point small but influential, drawing the eye toward a distant area rather than only toward the foreground face.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A diagonal of attention",
+      "body": "The low sun and the higher face form two light areas on opposite sides of the composition. Looking between them creates a diagonal across the city and arm. That visible relationship can connect the person to the setting without explaining what the character is thinking.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How far does the bright area extend beyond the sun itself?",
+    "related": [
+     "city",
+     "face"
+    ],
+    "number": 2
+   },
+   {
+    "id": "city",
+    "label": "A distant skyline",
+    "shortLabel": "A distant skyline",
+    "kicker": "Scale through repeated blocks",
+    "summary": "Small towers form a bright urban band.",
+    "x": 22,
+    "y": 52.5,
+    "bounds": {
+     "x": 0,
+     "y": 45,
+     "w": 44,
+     "h": 15
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Scale through repeated blocks",
+      "body": "The skyline consists of many small rectangular buildings, with a taller dark tower rising near the left-centre. Light catches some façades while others remain shaded. Their compact size contrasts with the foreground figure and the much larger rough wall on the right.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A named setting",
+      "body": "Miramax’s synopsis places Tsotsi’s story on the edges of Johannesburg. That gives the city relationship a specific context. The poster does not establish a precise viewpoint or neighbourhood, and the study does not identify individual buildings from this small reproduction.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "film"
+       }
+      ]
+     }
+    ],
+    "question": "Which building seems closest, and what makes it stand out?",
+    "related": [
+     "grass",
+     "building"
+    ],
+    "number": 3
+   },
+   {
+    "id": "grass",
+    "label": "Stems in the foreground",
+    "shortLabel": "Stems in the foreground",
+    "kicker": "A delicate near layer",
+    "summary": "Fine dark plants overlap the skyline.",
+    "x": 22.5,
+    "y": 58.5,
+    "bounds": {
+     "x": 0,
+     "y": 41,
+     "w": 45,
+     "h": 35
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A delicate near layer",
+      "body": "Dark grass stems rise at the left, crossing the brighter sky and city. Lower down, a denser rough field fills the ground. These irregular lines contrast with the skyline’s rectangular geometry and provide a nearer scale before the eye reaches the large body on the right.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A threshold rather than a label",
+      "body": "The grassy edge and the built skyline can suggest a boundary between different spaces. The image alone does not establish land ownership, an exact settlement type or the character’s economic status. Describing the visible transition is more accurate than attaching a broad social label to it.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How do thin stems help separate near ground from distant buildings?",
+    "related": [
+     "city",
+     "hands"
+    ],
+    "number": 4
+   },
+   {
+    "id": "building",
+    "label": "The rough wall at right",
+    "shortLabel": "The rough wall at right",
+    "kicker": "A hard edge beside soft light",
+    "summary": "An upright structure closes one side of the view.",
+    "x": 91,
+    "y": 45,
+    "bounds": {
+     "x": 82,
+     "y": 10,
+     "w": 18,
+     "h": 70
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A hard edge beside soft light",
+      "body": "The structure has rough horizontal surfaces, dark openings and an uneven roof edge. It rises close to the frame and blocks part of the sky. Its strong vertical presence contrasts with the open city view on the left and the folded diagonal of the body.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A side wall for the composition",
+      "body": "This structure can make the figure seem positioned at a threshold, with one side enclosed and the other open. That is a spatial reading, not a claim about the exact room or building in the film. Its function in the poster is clearer than its architectural identity.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which edges are straight, and which look irregular or patched?",
+    "related": [
+     "sky",
+     "body"
+    ],
+    "number": 5
+   },
+   {
+    "id": "face",
+    "label": "A face turned toward light",
+    "shortLabel": "A face turned toward light",
+    "kicker": "A compact area of detail",
+    "summary": "A bright cheek and forehead emerge above dark clothing.",
+    "x": 67.5,
+    "y": 34.5,
+    "bounds": {
+     "x": 59,
+     "y": 27,
+     "w": 17,
+     "h": 15
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A compact area of detail",
+      "body": "The face is small compared with the sky, but its lit cheek, forehead and lips provide clear detail. The head turns left and slightly upward. The dark jacket collar below frames these warm tones, making the face a focal point within the larger shadowed body.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A character, not a diagnosis",
+      "body": "The official synopsis follows a young man whose theft of a car unexpectedly brings an infant into his life. That provides narrative context, but the poster’s expression cannot diagnose character or reveal a complete moral transformation. Its gaze remains an invitation to look, not proof of an internal state.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "film"
+       }
+      ]
+     }
+    ],
+    "question": "Where is the gaze directed, and where does the light catch the skin?",
+    "related": [
+     "sun",
+     "body"
+    ],
+    "number": 6
+   },
+   {
+    "id": "body",
+    "label": "A folded dark silhouette",
+    "shortLabel": "A folded dark silhouette",
+    "kicker": "A body close to the ground",
+    "summary": "Bent knees and a jacket form a compact mass.",
+    "x": 62.5,
+    "y": 56,
+    "bounds": {
+     "x": 38,
+     "y": 37,
+     "w": 49,
+     "h": 38
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A body close to the ground",
+      "body": "The raised knee and forward arm form an angular outline, while the other leg disappears into shadow. Highlights on the jacket break the dark mass into folds. Much of the lower body blends into the foreground, so posture depends on a few outer edges and lit surfaces.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Concealment and clarity together",
+      "body": "The figure is not equally visible everywhere. A clear face and hands coexist with clothing that almost dissolves into the ground. That selective clarity can hold attention on human detail while preserving a large dark shape suitable for the title below.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which outline makes the crouching pose readable before you see details?",
+    "related": [
+     "hands",
+     "title"
+    ],
+    "number": 7
+   },
+   {
+    "id": "hands",
+    "label": "Two small light accents",
+    "shortLabel": "Two small light accents",
+    "kicker": "A staggered pair",
+    "summary": "Hands interrupt the dark clothing at different heights.",
+    "x": 61,
+    "y": 62,
+    "bounds": {
+     "x": 38,
+     "y": 49,
+     "w": 27,
+     "h": 20
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A staggered pair",
+      "body": "One hand rests near the raised knee, while the other descends lower in front of the body. Their warm skin contrasts with the dark jacket and trousers. The two positions create a stepped movement down the figure, linking the face above with the shadowed ground below.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Gesture without an invented story",
+      "body": "The visible hands do not hold a conspicuous object in this artwork. Their placement helps describe the pose, but it cannot establish what happened immediately before or after the pictured moment. A close reading can compare fingers and wrists without supplying an unseen action.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which hand is more relaxed in outline, and what can you actually see?",
+    "related": [
+     "face",
+     "body"
+    ],
+    "number": 8
+   },
+   {
+    "id": "title",
+    "label": "A pale serif name",
+    "shortLabel": "A pale serif name",
+    "kicker": "A change from image to word",
+    "summary": "The title stands alone against the black base.",
+    "x": 50,
+    "y": 86.5,
+    "bounds": {
+     "x": 16,
+     "y": 81,
+     "w": 68,
+     "h": 11
+    },
+    "layerIndex": 4,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A change from image to word",
+      "body": "The title uses large pale letters with projecting serifs and clear variations in stroke thickness. It sits below the visible action, against a nearly black field. The wide spacing and empty margins give the name room to be read after the viewer has inspected the figure.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A spare form of key art",
+      "body": "This installed image contains far less promotional writing than a full theatrical one-sheet. Miramax uses it as official web key art. The absence of a large billing block in this crop does not prove that the film’s complete campaign lacked credits, reviews or release information.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "film"
+       }
+      ]
+     }
+    ],
+    "question": "Which thin and thick strokes make these letters different from a plain block title?",
+    "related": [
+     "pronunciation",
+     "body"
+    ],
+    "number": 9
+   },
+   {
+    "id": "pronunciation",
+    "label": "A small reading aid",
+    "shortLabel": "A small reading aid",
+    "kicker": "A second way to encounter a name",
+    "summary": "A phonetic-looking line sits under the title’s right edge.",
+    "x": 76,
+    "y": 93.5,
+    "bounds": {
+     "x": 67,
+     "y": 92,
+     "w": 18,
+     "h": 3
+    },
+    "layerIndex": 4,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A second way to encounter a name",
+      "body": "A small bracketed pronunciation guide appears beneath the final portion of the title. Its lower contrast and smaller size make it a close-view detail. Rather than adding a slogan, it turns attention toward how the unfamiliar written name might sound when spoken.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Help without changing the title",
+      "body": "Keeping the original title while offering a reading aid can welcome an audience unfamiliar with the word. That is a plausible function visible in the layout, not evidence that every viewer needed help. The tiny symbols are not reproduced here as a guaranteed phonetic transcription.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does this tiny line change the way you approach an unfamiliar title?",
+    "related": [
+     "title",
+     "face"
+    ],
+    "number": 10
+   }
+  ],
+  "sources": [
+   {
+    "id": "film",
+    "title": "Miramax: Tsotsi official page",
+    "url": "https://www.miramax.com/movie/tsotsi/",
+    "kind": "Distributor",
+    "summary": "Supplies selected web key art, Gavin Hood credit and Johannesburg/infant synopsis; its US release date is not treated as the film’s production year."
+   }
+  ],
+  "tour": [
+   "face",
+   "sun",
+   "city",
+   "building",
+   "hands",
+   "title"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected readable wording",
+    "rows": [
+     {
+      "text": "TSOTSI",
+      "meaning": "Film title, retained without a speculative phonetic transcription.",
+      "lang": "und"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "This is a partial transcript of securely readable wording in the installed reproduction. Small credits, logos and review attributions are not fully transcribed; enlargement cannot restore missing source detail.",
+  "palette": [
+   {
+    "name": "Sky amber",
+    "hex": "#B27922",
+    "role": "Broad warm atmosphere.",
+    "region": "sky"
+   },
+   {
+    "name": "Sun pale",
+    "hex": "#FFFAF6",
+    "role": "A small distant light source.",
+    "region": "sun"
+   },
+   {
+    "name": "Jacket dark",
+    "hex": "#080C0B",
+    "role": "The folded foreground mass.",
+    "region": "body"
+   },
+   {
+    "name": "Title cream",
+    "hex": "#DCCDA2",
+    "role": "Lettering separated from the black base.",
+    "region": "title"
+   }
+  ],
+  "paletteNote": "These are individual screen-pixel samples from the installed digital reproduction, not specifications for the original inks or paper. Texture, lighting, scanning and screen settings affect their appearance.",
+  "connections": [
+   {
+    "label": "Near and far",
+    "title": "A crouching figure beside a distant city",
+    "text": "The figure occupies the right foreground; the smaller skyline opens a long view on the left.",
+    "anchors": [
+     [
+      3,
+      0.661,
+      0.5395634379263301
+     ],
+     [
+      1,
+      0.221,
+      0.5204638472032742
+     ]
+    ],
+    "id": "tsotsi-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Light carried down",
+    "title": "Sunset gold returns in the title",
+    "text": "The bright sky and the pale title form two warm points around the darker figure.",
+    "anchors": [
+     [
+      0,
+      0.391,
+      0.28035470668485674
+     ],
+     [
+      4,
+      0.505,
+      0.8628922237380627
+     ]
+    ],
+    "id": "tsotsi-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

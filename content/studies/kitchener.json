@@ -1,0 +1,713 @@
+{
+ "poster": {
+  "id": "kitchener",
+  "title": "Your Country Needs You",
+  "year": "1914",
+  "yearNumber": 1914,
+  "country": "United Kingdom",
+  "region": "Europe",
+  "category": "Advertising",
+  "creator": "Alfred Leete",
+  "edition": "London Opinion advertising poster, 1914; this sheet promotes the magazine and is distinct from the later “Britons” recruiting-poster layout.",
+  "image": "images/full/kitchener.jpg",
+  "ratio": 0.672,
+  "width": 672,
+  "height": 1000,
+  "alt": "Lord Kitchener points at the viewer beneath a red London Opinion masthead; the word You dominates the lower half.",
+  "blurb": "An insistent pointing hand turns a magazine advertisement into a direct personal address.",
+  "notes": [
+   {
+    "title": "A finger crosses the distance",
+    "body": "The foreshortened hand points out of the paper while Kitchener’s eyes look straight ahead. Both gestures make the viewer feel singled out."
+   },
+   {
+    "title": "The largest word is personal",
+    "body": "“YOU” outweighs the rest of the appeal. The design moves from a public figure to an individual reader in a single typographic jump."
+   },
+   {
+    "title": "Read the frame",
+    "body": "London Opinion appears at both top and bottom, alongside its price. This is a magazine advertisement using the famous portrait, not the “Britons” recruiting-poster edition."
+   }
+  ],
+  "source": "https://www.loc.gov/pictures/item/93517736/",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:London_opinion_%22Your_country_needs_you%22_-_Alfred_Leete._LCCN93517736.jpg",
+  "imageCredit": "Alfred Leete, 1914. Library of Congress, 93517736; public-domain reproduction via Wikimedia Commons.",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/7/7e/London_opinion_%22Your_country_needs_you%22_-_Alfred_Leete._LCCN93517736.jpg",
+  "accent": "#b33639",
+  "anchor": [
+   0.46,
+   0.51
+  ],
+  "credit": "Alfred Leete, 1914. Library of Congress, 93517736; public-domain reproduction via Wikimedia Commons.",
+  "countries": [
+   "United Kingdom"
+  ],
+  "primaryOrigin": "United Kingdom",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/kitchener.webp"
+ },
+ "studyData": {
+  "intro": "The pointing portrait is famous, but this particular sheet promotes London Opinion and repeats its price at the foot. Read the magazine frame as carefully as the wartime appeal: it is not the later Britons recruiting-poster layout, and the distinction changes the business story.",
+  "initial": "masthead",
+  "regions": [
+   {
+    "id": "masthead",
+    "number": 1,
+    "label": "London Opinion in a red panel",
+    "shortLabel": "London Opinion in a red panel",
+    "kicker": "THE NAME OF A PUBLICATION",
+    "summary": "A publication’s name occupies the widest upper block.",
+    "x": 49,
+    "y": 18,
+    "bounds": {
+     "x": 6,
+     "y": 6,
+     "w": 88,
+     "h": 25
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "The name of a publication",
+      "body": "London Opinion is printed across two large lines at the top. It identifies a magazine rather than the person in the portrait or a military unit. Reading this name first makes the commercial frame of this particular sheet visible before the central appeal.",
+      "evidence": "observation",
+      "originalText": "London Opinion",
+      "lang": "en"
+     },
+     {
+      "kind": "design",
+      "heading": "A light name on a dark field",
+      "body": "Large pale letters stand against muted red, with rounded and straight forms filling the panel closely. The two-line arrangement makes a broad rectangle. Its colour returns at the bottom, enclosing the otherwise largely grey portrait and appeal between matching accents.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "If you covered the portrait, what would this sheet still clearly advertise?",
+    "related": [
+     "footer",
+     "panel",
+     "appeal"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "panel",
+    "number": 2,
+    "label": "Clipped corners around the name",
+    "shortLabel": "Clipped corners around the name",
+    "kicker": "A FRAME WITHIN A FRAME",
+    "summary": "Small decorative cuts soften an otherwise rectangular panel.",
+    "x": 8,
+    "y": 8,
+    "bounds": {
+     "x": 6,
+     "y": 6,
+     "w": 88,
+     "h": 25
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A frame within a frame",
+      "body": "The red panel has small shaped cut-outs at its corners rather than a perfectly plain rectangle. These details are modest beside the huge letters, but they separate the masthead from the straight dark outer edge. Pale paper remains visible around it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Decoration kept subordinate",
+      "body": "The corner treatment introduces a small ornamental note without competing with the direct central address. Its effect can be compared with the portrait’s detailed cap and moustache. No named style or printing method is inferred solely from these visible corner shapes.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the panel edge differ from the plain outer border?",
+    "related": [
+     "masthead",
+     "border"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "cap",
+    "number": 3,
+    "label": "A broad military cap",
+    "shortLabel": "A broad military cap",
+    "kicker": "A HORIZONTAL TOP TO THE PORTRAIT",
+    "summary": "The light cap crowns a compact central face.",
+    "x": 51,
+    "y": 41,
+    "bounds": {
+     "x": 31,
+     "y": 34,
+     "w": 40,
+     "h": 14
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A horizontal top to the portrait",
+      "body": "The cap spreads wider than the face, with a pale crown above a dark band and decorated peak. A small central badge and curved leaf-like marks create detail. Together they provide a broad horizontal shape before the eyes and pointing hand take attention.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "The person is documented",
+      "body": "The Library of Congress identifies the portrayed man as Lord Kitchener and the artist as Alfred Leete, with publication in 1914. Those identifications come from the archive, not from guessing a rank, nationality or individual biography solely from the uniform’s visible details.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "loc"
+       }
+      ]
+     }
+    ],
+    "question": "Which small mark on the cap is readable as a shape even when its detail is unclear?",
+    "related": [
+     "eyes",
+     "face"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "eyes",
+    "number": 4,
+    "label": "A frontal gaze",
+    "shortLabel": "A frontal gaze",
+    "kicker": "A GAZE AIMED OUTWARD",
+    "summary": "Two eyes reinforce the direct address.",
+    "x": 51,
+    "y": 51,
+    "bounds": {
+     "x": 39,
+     "y": 48,
+     "w": 23,
+     "h": 5
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A gaze aimed outward",
+      "body": "The face is frontal, and the eyes look toward the viewer rather than toward another object within the sheet. Dark brows and shading increase their contrast. Their relatively level alignment supplies a second direct cue beside the projected hand.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Address is a design effect",
+      "body": "A frontal gaze can make the picture seem personally directed at the reader. That interpretation follows the visible orientation, especially when paired with YOU. It does not establish a universal emotional response or measure the image’s influence on individual decisions.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Cover the hand: does the face still seem to address you?",
+    "related": [
+     "finger",
+     "face",
+     "you"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "face",
+    "number": 5,
+    "label": "Moustache and shaded cheeks",
+    "shortLabel": "Moustache and shaded cheeks",
+    "kicker": "DETAIL CONCENTRATED AROUND IDENTITY",
+    "summary": "A small portrait retains distinctive contours.",
+    "x": 53,
+    "y": 59,
+    "bounds": {
+     "x": 38,
+     "y": 47,
+     "w": 28,
+     "h": 18
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Detail concentrated around identity",
+      "body": "The heavy moustache spreads across the lower face, while cheek and nose shading create volume. Its dark pointed ends are more emphatic than many smaller facial lines. These distinctive shapes make the portrait recognisable within a relatively restrained grey range.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Grayscale within a coloured frame",
+      "body": "The face and hand use mostly grey and brownish tones, unlike the red magazine panels. This difference separates the human address from the publication frame. The reproduced tones should not be used to infer an original photographic source or a complete printing sequence.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Which shape remains most recognisable if the face is reduced to two tones?",
+    "related": [
+     "eyes",
+     "cap",
+     "finger"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "finger",
+    "number": 6,
+    "label": "A hand pointing out of the sheet",
+    "shortLabel": "A hand pointing out of the sheet",
+    "kicker": "DEPTH THROUGH FORESHORTENING",
+    "summary": "Foreshortening makes the fingertips appear near.",
+    "x": 38,
+    "y": 58,
+    "bounds": {
+     "x": 24,
+     "y": 53,
+     "w": 23,
+     "h": 17
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Depth through foreshortening",
+      "body": "The pointing hand projects forward, with the extended finger and curled fingers appearing larger than a hand drawn flat beside the body. Overlap and shading create that depth. The hand’s diagonal connects the lower-left sleeve with the centrally placed face.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Image and pronoun repeat one address",
+      "body": "The gesture points outward while the large word YOU names the reader directly. These two devices reinforce one another through different means: a pictured direction and a grammatical second person. The observation describes their relationship without endorsing the appeal or claiming its effectiveness.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the hand’s apparent size change your sense of the viewer’s position?",
+    "related": [
+     "eyes",
+     "sleeve",
+     "you"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "sleeve",
+    "number": 7,
+    "label": "A dark diagonal below the hand",
+    "shortLabel": "A dark diagonal below the hand",
+    "kicker": "A ROUTE INTO THE GESTURE",
+    "summary": "The arm leads back from the projected fingers.",
+    "x": 25,
+    "y": 71,
+    "bounds": {
+     "x": 15,
+     "y": 58,
+     "w": 32,
+     "h": 23
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A route into the gesture",
+      "body": "The dark sleeve runs diagonally upward from the lower left toward the hand. Long folds and a pale edge give it a direction and separate it from the paper. Its length makes the small pointing gesture part of a larger, readable silhouette.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A body largely withheld",
+      "body": "The sheet shows head and one projecting arm but little of a complete torso. That selective crop concentrates the address. The study does not invent hidden uniform details or treat the isolated portrait as a full-body record of a particular pose.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Follow the sleeve’s folds: which direction do they carry your eye?",
+    "related": [
+     "finger",
+     "face"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "appeal",
+    "number": 8,
+    "label": "Your country needs",
+    "shortLabel": "Your country needs",
+    "kicker": "A CLAIM MADE TO THE READER",
+    "summary": "A small sentence prepares the large final pronoun.",
+    "x": 59,
+    "y": 72,
+    "bounds": {
+     "x": 40,
+     "y": 70,
+     "w": 41,
+     "h": 4
+    },
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A claim made to the reader",
+      "body": "YOUR COUNTRY NEEDS leads into the enormous YOU below. The possessive your assumes a relation between the reader and a country, while needs presents an obligation or demand. The study treats this as historical persuasive wording, not as a present instruction.",
+      "evidence": "observation",
+      "originalText": "YOUR COUNTRY NEEDS",
+      "lang": "en"
+     },
+     {
+      "kind": "context",
+      "heading": "A wartime publication",
+      "body": "The archive dates this sheet to 1914 and places it within its First World War poster collection. That establishes the period of the appeal. It does not remove the magazine masthead and price or justify relabelling this particular object as the separate Britons layout.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "loc"
+       }
+      ]
+     }
+    ],
+    "question": "How does the sentence change when the final word is read at the same size as the rest?",
+    "related": [
+     "you",
+     "masthead"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "you",
+    "number": 9,
+    "label": "The largest personal word",
+    "shortLabel": "The largest personal word",
+    "kicker": "LARGE LETTERS WITHOUT A SOLID SLAB",
+    "summary": "Outlined capitals make the reader the verbal focus.",
+    "x": 60,
+    "y": 80,
+    "bounds": {
+     "x": 39,
+     "y": 73,
+     "w": 41,
+     "h": 12
+    },
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Large letters without a solid slab",
+      "body": "YOU is much taller than the words above, with outlined and shaded letterforms that leave pale interiors. This construction gives it weight without filling the whole lower area with one dark block. The curved O sits between two more angular letters.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "An unspecified individual",
+      "body": "The second-person pronoun does not name a reader; it can address whoever stands before the sheet. Its exceptional size makes that grammatical role visible. This directness is part of the historical rhetorical design, not evidence that every reader accepted the implied obligation.",
+      "evidence": "observation",
+      "originalText": "YOU",
+      "lang": "en"
+     }
+    ],
+    "question": "Why might the outline help this large word coexist with the portrait above it?",
+    "related": [
+     "finger",
+     "appeal",
+     "paper"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "footer",
+    "number": 10,
+    "label": "The magazine name and price return",
+    "shortLabel": "The magazine name and price return",
+    "kicker": "A SECOND RED BAND",
+    "summary": "Red lettering closes the sheet as an advertisement.",
+    "x": 51,
+    "y": 92,
+    "bounds": {
+     "x": 9,
+     "y": 87,
+     "w": 84,
+     "h": 7
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A second red band",
+      "body": "The lower line repeats LONDON OPINION, flanked by the price mark 1D. Its colour echoes the top masthead and gives the sheet a lower anchor. The repeated publication name is much smaller here, but it still spans a broad horizontal area.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "The frame changes the object’s meaning",
+      "body": "A magazine title at both top and bottom, together with a price, makes a publication advertisement visible around the wartime appeal. Ignoring those elements would collapse different uses of the famous portrait into one. The study follows this sheet’s actual commercial wording.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What would be lost from the object’s purpose if this footer were removed?",
+    "related": [
+     "masthead",
+     "appeal",
+     "printer"
+    ],
+    "layerIndex": 5
+   },
+   {
+    "id": "printer",
+    "number": 11,
+    "label": "A very small publication line",
+    "shortLabel": "A very small publication line",
+    "kicker": "INFORMATION AT THE SMALLEST SCALE",
+    "summary": "Fine print records another level of production.",
+    "x": 27,
+    "y": 95,
+    "bounds": {
+     "x": 8,
+     "y": 94,
+     "w": 47,
+     "h": 2
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Information at the smallest scale",
+      "body": "A narrow dark line sits under the red footer, close to the lower margin. It is too small to function as the first invitation. Its placement suggests information for close inspection after the publication, portrait and appeal have been recognised.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "What the archive can verify",
+      "body": "The Library of Congress records London publication by the Victoria House Printing Company in 1914. That supports the printer attribution without requiring every tiny character to be transcribed from this image. The record does not establish how widely this particular impression circulated.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "loc"
+       }
+      ]
+     }
+    ],
+    "question": "How does this line’s purpose differ from the large magazine name above it?",
+    "related": [
+     "footer",
+     "border"
+    ],
+    "layerIndex": 5
+   },
+   {
+    "id": "paper",
+    "number": 12,
+    "label": "Pale ground and dark outer edge",
+    "shortLabel": "Pale ground and dark outer edge",
+    "kicker": "SPACE AROUND THE ISOLATED FIGURE",
+    "summary": "Open paper makes the central address stark.",
+    "x": 89,
+    "y": 65,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 100,
+     "h": 100
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Space around the isolated figure",
+      "body": "Large pale areas surround the head, sleeve and appeal. With no detailed landscape behind them, their outlines remain distinct. The ground also appears inside the outlined YOU, linking the verbal and pictured forms through the same light field.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Surface history is not fully recoverable",
+      "body": "The paper’s uneven tone and visible edge marks belong to this reproduction of a surviving sheet. They may reflect material ageing, photography or both. The study uses their appearance cautiously and does not mistake every stain or fade for an intended design element.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Which empty area is most important for separating the portrait from the words?",
+    "related": [
+     "you",
+     "border",
+     "masthead"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "border",
+    "number": 13,
+    "label": "A dark perimeter",
+    "shortLabel": "A dark perimeter",
+    "kicker": "A FINAL BOUNDARY AROUND THE MESSAGE",
+    "summary": "A thin edge holds the pale sheet together.",
+    "x": 98,
+    "y": 82,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 100,
+     "h": 100
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A final boundary around the message",
+      "body": "A narrow dark border runs around the paper, enclosing the red panels and grey portrait. Its weight is small beside the central hand and word. It gives the sheet a defined perimeter without becoming a new focal object or carrying additional text.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A specific edition, not a generic icon",
+      "body": "The complete frame, publication name and price distinguish the selected advertisement from cropped reproductions of Kitchener’s face or other recruitment designs. Preserving those details lets viewers study how an image was used in this object rather than only recognising a familiar gesture.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Compare the quiet outer rule with the decorative red panel corners: why might their jobs differ?",
+    "related": [
+     "panel",
+     "paper",
+     "footer"
+    ],
+    "layerIndex": 0
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed poster edition",
+    "url": "https://commons.wikimedia.org/wiki/File:London_opinion_%22Your_country_needs_you%22_-_Alfred_Leete._LCCN93517736.jpg",
+    "kind": "Visual source",
+    "summary": "The reproduced sheet supports observations of visible wording, colour, composition and marks; it does not establish the designer’s intention."
+   },
+   {
+    "id": "loc",
+    "title": "Library of Congress: London Opinion",
+    "url": "https://www.loc.gov/item/93517736",
+    "kind": "National archive object record",
+    "summary": "Identifies Alfred Leete, Lord Kitchener, London publication by Victoria House Printing Company and 1914; the reproduced wording establishes the magazine-advertising frame."
+   }
+  ],
+  "tour": [
+   "masthead",
+   "eyes",
+   "finger",
+   "appeal",
+   "you",
+   "footer",
+   "printer"
+  ],
+  "transcript": [
+   {
+    "heading": "Readable wording on this edition",
+    "rows": [
+     {
+      "text": "London Opinion",
+      "meaning": "Publication title, repeated at the foot.",
+      "lang": "en"
+     },
+     {
+      "text": "YOUR COUNTRY NEEDS YOU",
+      "meaning": "Historical second-person appeal.",
+      "lang": "en"
+     },
+     {
+      "text": "1D",
+      "meaning": "Price notation printed beside the lower publication name.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Major wording is transcribed. The archive supplies the printer identity; the tiny printer line and artist signature are not expanded into an uncertain full transcription.",
+  "palette": [
+   {
+    "name": "Masthead red",
+    "hex": "#B0394C",
+    "region": "masthead",
+    "role": "Publication frame at top and bottom."
+   },
+   {
+    "name": "Pale ground",
+    "hex": "#D2BDAA",
+    "region": "paper",
+    "role": "Open space around the portrait."
+   },
+   {
+    "name": "Dark sleeve",
+    "hex": "#504845",
+    "region": "sleeve",
+    "role": "The diagonal route to the hand."
+   },
+   {
+    "name": "Grey cap",
+    "hex": "#A89889",
+    "region": "cap",
+    "role": "A lighter top to the portrait."
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in the installed reproduction. These are not original ink specifications; scan, lighting and compression can alter colour.",
+  "connections": [
+   {
+    "label": "Two direct addresses",
+    "title": "The finger and the word YOU",
+    "text": "The pointing hand projects toward the viewer while the largest word makes the same direct address in type.",
+    "anchors": [
+     [
+      3,
+      0.38318452380952384,
+      0.6005
+     ],
+     [
+      4,
+      0.5974702380952381,
+      0.7865
+     ]
+    ],
+    "id": "kitchener-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "A frame of red",
+    "title": "The publication appears twice",
+    "text": "The large masthead and the smaller red price line frame the central portrait, making the magazine advertisement visible as part of the design.",
+    "anchors": [
+     [
+      1,
+      0.5007440476190477,
+      0.1865
+     ],
+     [
+      5,
+      0.5096726190476191,
+      0.9155
+     ]
+    ],
+    "id": "kitchener-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

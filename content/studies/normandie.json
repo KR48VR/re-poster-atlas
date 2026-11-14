@@ -1,0 +1,657 @@
+{
+ "poster": {
+  "id": "normandie",
+  "title": "Normandie",
+  "year": "1935",
+  "yearNumber": 1935,
+  "creator": "A. M. Cassandre",
+  "country": "France",
+  "countries": [
+   "France"
+  ],
+  "region": "Europe",
+  "category": "Advertising",
+  "edition": "1935 lithographic poster for the Compagnie Générale Transatlantique; MoMA 288.1935, 99.7 × 61.9 cm.",
+  "image": "images/full/normandie.jpg",
+  "ratio": 0.624,
+  "imageWidth": 624,
+  "imageHeight": 1000,
+  "alt": "An enormous ocean liner’s dark bow rises symmetrically against a blue-green sky; tiny white birds cross the hull above cream Normandie lettering and route information.",
+  "blurb": "The bow fills the sheet. A few tiny birds are enough to make its immense scale tangible.",
+  "notes": [
+   {
+    "title": "A viewpoint below the bow",
+    "body": "The hull rises from the lower edge toward a small funnel and mast. Its strong central seam and outward-curving sides give the ship both mass and a carefully controlled symmetry."
+   },
+   {
+    "title": "Small birds, enormous ship",
+    "body": "The tiny pale birds cross the lower-left part of the hull. Their familiar size supplies a human-readable scale for a machine that almost exceeds the page."
+   },
+   {
+    "title": "A name becomes a base",
+    "body": "The large cream NORMANDIE letters sit directly below the bow, giving it a typographic foundation. Smaller route names and service details turn the monumental image into a specific travel advertisement."
+   }
+  ],
+  "source": "https://www.moma.org/collection/works/6091/",
+  "imageSource": "https://www.moma.org/collection/works/6091/",
+  "credit": "A. M. Cassandre, 1935. © Mouron A.M. Cassandre. The Museum of Modern Art, New York, 288.1935, given anonymously. Museum image resized for this catalogue.",
+  "imageCredit": "A. M. Cassandre, 1935. © Mouron A.M. Cassandre. The Museum of Modern Art, New York, 288.1935, given anonymously. Museum image resized for this catalogue.",
+  "downloadURL": "https://www.moma.org/media/W1siZiIsIjUxNzI5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=9f456af7ad1f02c4",
+  "anchor": [
+   0.36,
+   0.67
+  ],
+  "accent": "#a84d3c",
+  "anchorLayer": 1,
+  "primaryOrigin": "France",
+  "thumb": "images/catalogue/normandie.webp"
+ },
+ "studyData": {
+  "intro": "A ship becomes a monument, and then an advertisement. Follow the bow down to the birds, the name and the route: each change of scale asks for a different kind of attention.",
+  "initial": "bow",
+  "regions": [
+   {
+    "id": "bow",
+    "number": 1,
+    "label": "Towering bow",
+    "shortLabel": "Towering bow",
+    "kicker": "DESIGN",
+    "summary": "A low viewpoint makes the hull almost fill the sheet.",
+    "x": 50,
+    "y": 44,
+    "bounds": {
+     "x": 12,
+     "y": 5,
+     "w": 77,
+     "h": 72
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "The central seam",
+      "body": "The bow rises along a nearly vertical centre line. Its sides widen upward, then curve into the cream decks. Very little sea is visible, so the dark hull behaves like a tall wall directly in front of the viewer.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A constructed encounter",
+      "body": "This viewpoint offers an encounter with a powerful object rather than a survey of a whole ship. The close crop can suggest grandeur, but the visual evidence is the size difference between the hull, its fittings and the small birds.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What changes if you imagine this ship seen from far away at eye level?",
+    "related": [
+     "birds",
+     "name"
+    ]
+   },
+   {
+    "id": "decks",
+    "number": 2,
+    "label": "Cream decks",
+    "shortLabel": "Cream decks",
+    "kicker": "DESIGN",
+    "summary": "Pale curved wings explain the dark mass.",
+    "x": 79,
+    "y": 24,
+    "bounds": {
+     "x": 7,
+     "y": 15,
+     "w": 87,
+     "h": 31
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Edges turn outward",
+      "body": "The cream structures extend on both sides of the bow. Their curves and small dark windows interrupt the strong triangle of the hull, giving the object recognisable ship-like parts without reducing its large, almost abstract shape.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Symmetry with differences",
+      "body": "The decks establish a broadly balanced composition, yet lighting and visible edges differ from side to side. Compare those small differences with the central seam: the picture feels controlled without functioning as a technical front-elevation drawing.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which deck details would you keep if you had to simplify the image to five shapes?",
+    "related": [
+     "bow",
+     "light"
+    ]
+   },
+   {
+    "id": "funnel",
+    "number": 3,
+    "label": "Funnel and mast",
+    "shortLabel": "Funnel and mast",
+    "kicker": "DESIGN",
+    "summary": "A small red-accented crown finishes the liner.",
+    "x": 50,
+    "y": 8,
+    "bounds": {
+     "x": 37,
+     "y": 2,
+     "w": 25,
+     "h": 16
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A peak above the peak",
+      "body": "The rounded funnel and thin mast sit above the pointed bow. Their relatively small scale rewards a second look, while the red strip quietly repeats the warmer edge near the bottom of the ship.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A long visual axis",
+      "body": "Following the mast downward takes the eye through the prow and toward the name. The vertical sequence makes the vessel seem taller; this is an effect of alignment in the image, not a measurement of the actual liner.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Trace the centre line with your finger: where does your eye stop?",
+    "related": [
+     "waterline",
+     "name"
+    ]
+   },
+   {
+    "id": "light",
+    "number": 4,
+    "label": "Light across the hull",
+    "shortLabel": "Light across the hull",
+    "kicker": "DESIGN",
+    "summary": "A gradual grey change gives a flat shape volume.",
+    "x": 68,
+    "y": 49,
+    "bounds": {
+     "x": 27,
+     "y": 22,
+     "w": 51,
+     "h": 42
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "More than one black",
+      "body": "The left side is almost black while the right side becomes grey. This tonal change suggests a rounded, solid surface. The shift is gradual, unlike the sharp cream boundaries of the decks or the straight edges of the letters.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Try the silhouette",
+      "body": "Mentally replace the hull with a single black shape. Its outline would remain imposing, but the centre seam and side curvature would become harder to read. The design combines a bold silhouette with a restrained suggestion of three-dimensional volume.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which gives you more information about the hull: its edge or its internal shading?",
+    "related": [
+     "bow",
+     "sky"
+    ]
+   },
+   {
+    "id": "birds",
+    "number": 5,
+    "label": "Tiny flock",
+    "shortLabel": "Tiny flock",
+    "kicker": "DESIGN",
+    "summary": "Small familiar marks make a large machine measurable.",
+    "x": 36,
+    "y": 66,
+    "bounds": {
+     "x": 22,
+     "y": 62,
+     "w": 25,
+     "h": 9
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Pale strokes on dark",
+      "body": "Several tiny wing-like marks cross the lower-left hull. They sit within the ship’s silhouette rather than in the open sky, so the near-black surface provides enough contrast for them to remain visible despite their very small size.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A scale comparison",
+      "body": "The birds offer a familiar size against an unfamiliar close-up. They can make the ship feel immense without a ruler or human figure. That reading depends on comparison: the birds alone would simply form a small scattered pattern.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Cover the flock. Does the ship become smaller, or only harder to judge?",
+    "related": [
+     "bow",
+     "decks"
+    ]
+   },
+   {
+    "id": "waterline",
+    "number": 6,
+    "label": "Red lower edge",
+    "shortLabel": "Red lower edge",
+    "kicker": "DESIGN",
+    "summary": "A narrow warm strip ends the cool hull.",
+    "x": 50,
+    "y": 75,
+    "bounds": {
+     "x": 21,
+     "y": 72,
+     "w": 60,
+     "h": 6
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A shallow red base",
+      "body": "A thin red form follows the bottom of the ship, lifting to a point near the centre. It is much smaller than the surrounding dark hull and pale letters, yet its warm colour makes that transition easy to locate.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Repeating an accent",
+      "body": "The red near the base answers the red around the funnel. These separated accents can help connect the far ends of the vessel without competing with the broad cream title. The exact printed red is not recoverable from this screen sample.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Can you find both red areas before reading any words?",
+    "related": [
+     "funnel",
+     "name"
+    ]
+   },
+   {
+    "id": "sky",
+    "number": 7,
+    "label": "Blue-green margins",
+    "shortLabel": "Blue-green margins",
+    "kicker": "DESIGN",
+    "summary": "Narrow strips of atmosphere keep the hull legible.",
+    "x": 88,
+    "y": 54,
+    "bounds": {
+     "x": 78,
+     "y": 31,
+     "w": 17,
+     "h": 42
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Space beside a giant",
+      "body": "The blue-green field is darkest above and lighter toward the lower sides. Because the hull occupies most of the centre, these remaining wedges of atmosphere describe its contour and prevent the ship from becoming indistinguishable from the page.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An economical setting",
+      "body": "There is little descriptive scenery. The absence of a busy port, passengers or waves concentrates attention on the ship and the advertised service. It does not tell us what every journey looked like; it is a selective promotional image.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would a detailed harbour strengthen the liner’s presence or divide your attention?",
+    "related": [
+     "bow",
+     "route"
+    ]
+   },
+   {
+    "id": "name",
+    "number": 8,
+    "label": "NORMANDIE",
+    "shortLabel": "NORMANDIE",
+    "kicker": "LANGUAGE",
+    "summary": "The name forms a broad typographic foundation.",
+    "x": 49,
+    "y": 81,
+    "bounds": {
+     "x": 22,
+     "y": 77,
+     "w": 57,
+     "h": 8
+    },
+    "layerIndex": 3,
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Name before explanation",
+      "body": "NORMANDIE is printed in large cream capitals directly below the hull. The word names the vessel, while the smaller lines beneath name its operator and routes. No precise typeface identification is needed to notice the tall letters and repeated vertical strokes.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A second monument",
+      "body": "The title is broad enough to stabilise the pointed hull above it. Its upright strokes echo the ship’s height, but its horizontal extent makes a firm base. Image and word therefore support one another instead of competing for separate corners.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What would change if the ship’s name were tiny and placed at the top?",
+    "related": [
+     "bow",
+     "operator"
+    ]
+   },
+   {
+    "id": "operator",
+    "number": 9,
+    "label": "Operator and script",
+    "shortLabel": "Operator and script",
+    "kicker": "LANGUAGE",
+    "summary": "Two different lettering voices name the service.",
+    "x": 48,
+    "y": 87,
+    "bounds": {
+     "x": 15,
+     "y": 84,
+     "w": 71,
+     "h": 5
+    },
+    "layerIndex": 4,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Formal line, fluent line",
+      "body": "A compact company name appears above the smaller French Line script. The first is dense and upright; the second is lighter and curved. Their different shapes remain visible even before a reader understands the French abbreviation in the company line.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Recognition at two scales",
+      "body": "The operator information gives the advertisement a practical identity after the ship has attracted attention. The contrast between capitals and script creates another reading level. This explains a visible hierarchy, rather than claiming how many bookings the poster produced.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which operator line can you read first when you shrink the poster?",
+    "related": [
+     "name",
+     "route"
+    ]
+   },
+   {
+    "id": "route",
+    "number": 10,
+    "label": "Three ports",
+    "shortLabel": "Three ports",
+    "kicker": "LANGUAGE",
+    "summary": "Place names turn the ship into a possible journey.",
+    "x": 49,
+    "y": 90,
+    "bounds": {
+     "x": 4,
+     "y": 88,
+     "w": 91,
+     "h": 4
+    },
+    "layerIndex": 5,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A route written across the page",
+      "body": "The visible sequence names Le Havre, Southampton and New York, separated by dashes. These are destinations rather than an additional title. The long line stretches across nearly the whole lower width, unlike the narrower ship name above.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "From spectacle to service",
+      "body": "A traveller needs more than an impressive hull. The route line supplies practical information while remaining subordinate to the image. This shift from recognition to detail is a useful way to read an advertisement’s different tasks.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "If you were choosing a crossing, which line would you need after the name?",
+    "related": [
+     "operator",
+     "service"
+    ]
+   },
+   {
+    "id": "service",
+    "number": 11,
+    "label": "Service promises",
+    "shortLabel": "Service promises",
+    "kicker": "LANGUAGE",
+    "summary": "Small French lines describe what is being offered.",
+    "x": 51,
+    "y": 95,
+    "bounds": {
+     "x": 18,
+     "y": 92,
+     "w": 65,
+     "h": 6
+    },
+    "layerIndex": 5,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A carefully limited transcription",
+      "body": "The lower lines describe regular service and luxury liners. The remaining fine wording should be read at the source resolution rather than expanded into assumptions about fares, facilities or passenger classes. Promotional language describes an offer, not independent proof of its quality.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "An identified printed object",
+      "body": "MoMA identifies this work as A. M. Cassandre’s 1935 lithograph, object 288.1935, measuring 99.7 by 61.9 centimetres. That record establishes the object, artist and medium; it does not document the commercial response to each promise on the sheet.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "moma"
+       }
+      ]
+     }
+    ],
+    "question": "Which promises could be checked before buying a ticket, and which would need further evidence?",
+    "related": [
+     "route",
+     "signature"
+    ]
+   },
+   {
+    "id": "signature",
+    "number": 12,
+    "label": "Signature and sheet",
+    "shortLabel": "Signature and sheet",
+    "kicker": "DESIGN",
+    "summary": "A small name and worn edge remind us this is a print.",
+    "x": 88,
+    "y": 3,
+    "bounds": {
+     "x": 77,
+     "y": 1,
+     "w": 20,
+     "h": 4
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Two kinds of edges",
+      "body": "The tiny signature sits high in the right corner, while the photographed paper margin shows unevenness and wear. Those marks belong to the reproduced object. They should not be mistaken for extra decoration that the designer intended inside the advertised scene.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Object and image",
+      "body": "The museum photograph lets us study a particular surviving sheet as well as its composition. Notice how removing the margin would make it feel more like a digital illustration, even though the ship, lettering and relative sizes would remain unchanged.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What evidence of a physical sheet can you find that is unrelated to the ship?",
+    "related": [
+     "service",
+     "sky"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed poster edition",
+    "url": "https://www.moma.org/collection/works/6091/",
+    "kind": "Visual source",
+    "summary": "The reproduced edition is the evidence for visible wording, layout, marks and colour relationships. Translations and visual interpretations are supplied by Poster Atlas."
+   },
+   {
+    "id": "moma",
+    "title": "MoMA: Normandie, 1935",
+    "url": "https://www.moma.org/collection/works/6091/",
+    "kind": "Museum object record",
+    "summary": "Identifies Cassandre, the 1935 date, lithographic medium, dimensions and object number 288.1935. It does not establish passenger experience or advertising effectiveness."
+   }
+  ],
+  "tour": [
+   "bow",
+   "birds",
+   "light",
+   "name",
+   "route",
+   "service"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "NORMANDIE",
+      "meaning": "Name of the ocean liner.",
+      "lang": "fr"
+     },
+     {
+      "text": "French Line",
+      "meaning": "The operator’s English-language service name.",
+      "lang": "en"
+     },
+     {
+      "text": "LE HAVRE — SOUTHAMPTON — NEW-YORK",
+      "meaning": "The advertised sequence of ports.",
+      "lang": "fr"
+     },
+     {
+      "text": "SERVICE RÉGULIER",
+      "meaning": "Regular service.",
+      "lang": "fr"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Only securely legible title and key wording are transcribed. Small credits are not reconstructed from this reproduction.",
+  "palette": [
+   {
+    "name": "Dark hull",
+    "hex": "#171717",
+    "role": "The dominant ship mass.",
+    "region": "bow"
+   },
+   {
+    "name": "Cream decks",
+    "hex": "#C8B69E",
+    "role": "A pale edge explaining the hull.",
+    "region": "decks"
+   },
+   {
+    "name": "Blue-green sky",
+    "hex": "#698B8A",
+    "role": "Open space beside the vessel.",
+    "region": "sky"
+   },
+   {
+    "name": "Red waterline",
+    "hex": "#501615",
+    "role": "A small warm lower accent.",
+    "region": "waterline"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in this installed reproduction. They are not original paint, ink or printing specifications.",
+  "connections": [
+   {
+    "label": "Compare the scale",
+    "title": "A small flock. An immense ship.",
+    "text": "The pale birds sit against the dark hull. Follow the connection between these tiny marks and the towering prow, then fold the poster together to see how that contrast establishes scale.",
+    "anchors": [
+     [
+      2,
+      0.359776,
+      0.6575
+     ],
+     [
+      1,
+      0.5,
+      0.38
+     ]
+    ],
+    "id": "normandie-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Ship → name → route",
+    "title": "From an image to a journey",
+    "text": "The pointed liner leads down into a broad, steady name. Below it, smaller lettering changes the reading from a memorable ship to a service and its destinations.",
+    "anchors": [
+     [
+      1,
+      0.5,
+      0.6
+     ],
+     [
+      3,
+      0.499199,
+      0.8005
+     ],
+     [
+      5,
+      0.492788,
+      0.9345
+     ]
+    ],
+    "id": "normandie-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

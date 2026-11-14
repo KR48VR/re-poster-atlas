@@ -1,0 +1,532 @@
+{
+ "poster": {
+  "id": "black-girl",
+  "title": "Black Girl / La Noire de…",
+  "year": "1966",
+  "yearNumber": 1966,
+  "country": "Senegal / France",
+  "region": "Africa",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Ousmane Sembène",
+  "edition": "French theatrical release poster; printing date unverified",
+  "alt": "A black-and-white French Black Girl poster with a woman in a patterned dress on the left and a tall column of white title and review text on black.",
+  "blurb": "A solitary portrait and an unusually dense column of words share a stark black field.",
+  "notes": [
+   {
+    "title": "A figure held to one side",
+    "body": "The woman occupies the left edge rather than the centre. This placement leaves a broad dark area for the words and gives the portrait a quiet, isolated presence."
+   },
+   {
+    "title": "Pattern carries the light",
+    "body": "The dress breaks into many small pale shapes against black. Its texture supplies visual activity even though the figure’s pose is still."
+   },
+   {
+    "title": "Text becomes a second image",
+    "body": "The long white text column has almost as much presence as the portrait. Its dense rhythm changes the poster from a quick title-image pairing into something that asks to be read."
+   }
+  ],
+  "source": "https://silver.afi.com/movies/detail/0100000551/",
+  "imageCredit": "French release publicity poster; artist uncredited in the consulted source. Reproduction via Wikipedia; copyright remains with the respective rights holders.",
+  "anchor": [
+   0.22,
+   0.25
+  ],
+  "accent": "#5a665f",
+  "category": "Film",
+  "image": "images/full/black-girl.jpg",
+  "imageSource": "https://en.wikipedia.org/wiki/File:La_noire_de…_(1966).png",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/en/6/6b/La_noire_de%E2%80%A6_%281966%29.png",
+  "ratio": 0.73125,
+  "imageWidth": 234,
+  "imageHeight": 320,
+  "credit": "French release publicity poster; artist uncredited in the consulted source. Reproduction via Wikipedia; copyright remains with the respective rights holders.",
+  "anchorLayer": 1,
+  "countries": [
+   "Senegal",
+   "France"
+  ],
+  "primaryOrigin": "Senegal",
+  "thumb": "images/catalogue/black-girl.webp"
+ },
+ "studyData": {
+  "intro": "A single portrait and a dense column of French words share a dark sheet. Look at what the photograph lets us recognise, what the title leaves unfinished, and how publicity surrounds a person’s image. The tiny scan supports careful reading of large features, not a reliable transcript of every review.",
+  "initial": "black-girl-face",
+  "regions": [
+   {
+    "id": "black-girl-face",
+    "number": 1,
+    "label": "A gaze outside the frame",
+    "shortLabel": "A gaze outside the frame",
+    "kicker": "A FACE MADE FROM TONAL DIFFERENCES",
+    "summary": "The woman looks away from the reader.",
+    "x": 19,
+    "y": 29,
+    "bounds": {
+     "x": 3,
+     "y": 14,
+     "w": 32,
+     "h": 30
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A face made from tonal differences",
+      "body": "Light catches the forehead, cheek and lips while the far side of the face stays dark. Her gaze runs towards the right, across the text area. The expression is restrained; the photograph does not supply enough evidence to name one certain emotion.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A story of domestic labour",
+      "body": "Criterion identifies the central performance as M’Bissine Thérèse Diop and describes a Senegalese woman who goes to France to work for a white family. This context informs the study, but the poster does not reveal her entire story through one facial expression.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "Where do her eyes direct you, and what is there to see?",
+    "related": [
+     "black-girl-title",
+     "black-girl-hair"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "black-girl-hair",
+    "number": 2,
+    "label": "The high dark silhouette",
+    "shortLabel": "The high dark silhouette",
+    "kicker": "LIGHT AT THE EDGE",
+    "summary": "Hair gives the portrait an upright boundary.",
+    "x": 17,
+    "y": 12,
+    "bounds": {
+     "x": 0,
+     "y": 1,
+     "w": 34,
+     "h": 22
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Light at the edge",
+      "body": "Highlights pick out the hair at the upper left while large areas merge into the black field. The tall shape extends almost to the top of the sheet. Its rounded boundary contrasts with the straight title and the rectangular review box.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Presence through partial visibility",
+      "body": "A portrait can remain visually strong even when its outer form is not fully separated from the background. Here the few bright edges carry much of that work. This is worth comparing with the sharply lit dress lower down, where almost every pattern is visible.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What stays recognisable when you look only at the outline?",
+    "related": [
+     "black-girl-face",
+     "black-girl-field"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "black-girl-title",
+    "number": 3,
+    "label": "An unfinished French title",
+    "shortLabel": "An unfinished French title",
+    "kicker": "THE WORDS STOP BEFORE POSSESSION IS NAMED",
+    "summary": "The words end with an ellipsis.",
+    "x": 66,
+    "y": 17.5,
+    "bounds": {
+     "x": 34,
+     "y": 12,
+     "w": 64,
+     "h": 11
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "The words stop before possession is named",
+      "body": "LA NOIRE DE… is the printed French title. A close English rendering is “The Black woman of…”; the released English title is Black Girl. The unfinished de… leaves a relationship hanging. The wording is historically situated and should not be treated as neutral description.",
+      "evidence": "observation",
+      "originalText": "LA NOIRE DE…",
+      "lang": "fr",
+      "translation": "The Black woman of…; released in English as Black Girl"
+     },
+     {
+      "kind": "design",
+      "heading": "A bright interruption",
+      "body": "Large white capitals stand against uninterrupted black at upper right. Their condensed shapes form a compact block beside the head. The ellipsis extends that block sideways, so the incompleteness is both linguistic and visible rather than explained in a separate sentence.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "What does the unfinished ending make you want to ask?",
+    "related": [
+     "black-girl-face",
+     "black-girl-director"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "black-girl-director",
+    "number": 4,
+    "label": "The director’s name beneath",
+    "shortLabel": "The director’s name beneath",
+    "kicker": "A FILM BY",
+    "summary": "A small line attaches authorship to the title.",
+    "x": 69.5,
+    "y": 24,
+    "bounds": {
+     "x": 44,
+     "y": 22,
+     "w": 51,
+     "h": 4
+    },
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A film by",
+      "body": "UN FILM DE introduces the name printed as SEMBENE OUSMANE. It identifies a filmmaking credit beneath the title. The study uses the standard name Ousmane Sembène in explanatory text while preserving the order visible on this particular French poster.",
+      "evidence": "observation",
+      "originalText": "UN FILM DE SEMBENE OUSMANE",
+      "lang": "fr",
+      "translation": "A film by Ousmane Sembène"
+     },
+     {
+      "kind": "context",
+      "heading": "A feature debut",
+      "body": "Criterion records Black Girl as Sembène’s 1966 feature debut and identifies French and Wolof among its languages. These facts describe the film, not the unknown design author of this poster. The distinction matters whenever a prominent film credit is mistaken for a poster credit.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "How does the small director line differ from the much larger film title?",
+    "related": [
+     "black-girl-title",
+     "black-girl-review-box"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "black-girl-shoulder",
+    "number": 5,
+    "label": "A tied shoulder detail",
+    "shortLabel": "A tied shoulder detail",
+    "kicker": "LIGHT GATHERED INTO A SMALL SHAPE",
+    "summary": "A small knot interrupts the portrait’s large forms.",
+    "x": 38,
+    "y": 50.5,
+    "bounds": {
+     "x": 26,
+     "y": 42,
+     "w": 24,
+     "h": 17
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Light gathered into a small shape",
+      "body": "The pale tie on the shoulder sits between dark skin and the black background. Short folds bunch into a knot, creating a compact cluster of light and shadow. It interrupts the long line from neck to arm without becoming a separate illustrated object.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Detail as a second reading distance",
+      "body": "At first glance the face and title dominate. Closer inspection reveals the tie and the dress’s irregular pattern. The distinction gives the poster more than one pace: an immediate person-and-name encounter, followed by smaller observations about posture and clothing.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Why is this knot easier to see than the far edge of the hair?",
+    "related": [
+     "black-girl-dress",
+     "black-girl-face"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "black-girl-dress",
+    "number": 6,
+    "label": "A pattern that carries light",
+    "shortLabel": "A pattern that carries light",
+    "kicker": "TEXTURE INSIDE A CLEAR OUTLINE",
+    "summary": "The dress alternates pale ground and dark forms.",
+    "x": 25.5,
+    "y": 76,
+    "bounds": {
+     "x": 1,
+     "y": 53,
+     "w": 49,
+     "h": 46
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Texture inside a clear outline",
+      "body": "Dark leaf-like shapes run across pale fabric. The pattern bends with the torso and gathers near the arms, so it describes clothing on a body rather than a flat decorative panel. It supplies most of the lower image’s bright surface.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An unequal conversation with the text",
+      "body": "The dress creates many irregular light marks on the left; the writing creates short, regular light rows on the right. Those two rhythms make the monochrome sheet active without adding colour. Their similarity is a visual comparison, not a claim that they were designed to symbolise each other.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What happens if you blur the pattern into one grey shape?",
+    "related": [
+     "black-girl-shoulder",
+     "black-girl-arms"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "black-girl-arms",
+    "number": 7,
+    "label": "Folded limbs and a seated body",
+    "shortLabel": "Folded limbs and a seated body",
+    "kicker": "OVERLAPPING DIAGONAL FORMS",
+    "summary": "The arms hold the portrait together.",
+    "x": 28,
+    "y": 78.5,
+    "bounds": {
+     "x": 4,
+     "y": 60,
+     "w": 48,
+     "h": 37
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Overlapping diagonal forms",
+      "body": "The arms cross the lower portrait at different angles. Highlights mark elbows and forearms against the patterned fabric. These diagonals keep the pose from becoming a simple vertical column, while the close crop leaves little surrounding furniture or setting to explain where she sits.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Avoiding a single psychological label",
+      "body": "Folded or resting arms can support many interpretations. Read them alongside the sideways gaze and crowded text, but do not turn a still pose into proof of resignation, resistance or consent. The film’s subject can inform questions without deciding the photograph’s meaning in advance.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which overlaps tell you where one arm passes in front of the other?",
+    "related": [
+     "black-girl-dress",
+     "black-girl-face"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "black-girl-review-box",
+    "number": 8,
+    "label": "Praise inside a border",
+    "shortLabel": "Praise inside a border",
+    "kicker": "A RECTANGLE BESIDE THE BODY",
+    "summary": "A boxed text block claims a different kind of authority.",
+    "x": 70.5,
+    "y": 36.5,
+    "bounds": {
+     "x": 46,
+     "y": 28,
+     "w": 49,
+     "h": 17
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A rectangle beside the body",
+      "body": "A thin pale border encloses short lines below the title. Its regular geometry contrasts with the hair, shoulder tie and fabric pattern. Even when the wording is too small to read comfortably, the enclosure makes it look like a discrete item rather than part of the photograph.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Promotional language needs a source",
+      "body": "The box is part of the poster’s case for the film, not independent verification supplied by this explorer. Its small wording and attribution should be checked against a sharper original before quotation. We can study the visual function of endorsement without treating every printed claim as established fact.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the border change the status of these small words?",
+    "related": [
+     "black-girl-director",
+     "black-girl-review-column"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "black-girl-review-column",
+    "number": 9,
+    "label": "A column almost as large as the portrait",
+    "shortLabel": "A column almost as large as the portrait",
+    "kicker": "MANY LINES FORM ONE SHAPE",
+    "summary": "Dense text turns the sheet into a reading surface.",
+    "x": 73,
+    "y": 72,
+    "bounds": {
+     "x": 47,
+     "y": 46,
+     "w": 52,
+     "h": 52
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Many lines form one shape",
+      "body": "Closely set white lines occupy most of the right side below the box. They create a second vertical mass, balancing the woman without imitating her outline. Small gaps between paragraphs punctuate the otherwise dense texture and invite a slower reading than the title alone.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A different kind of invitation",
+      "body": "The campaign combines an affecting portrait with extended verbal persuasion. That suggests more than a quick name-recognition task, but the image cannot prove who actually read the text or how it affected attendance. The surviving layout is evidence of an offer to read, not its success.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Do the words feel secondary when they occupy this much area?",
+    "related": [
+     "black-girl-review-box",
+     "black-girl-dress"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "black-girl-field",
+    "number": 10,
+    "label": "The black space between",
+    "shortLabel": "The black space between",
+    "kicker": "A SHARED TONAL GROUND",
+    "summary": "Dark ground keeps unlike elements together.",
+    "x": 40,
+    "y": 34.5,
+    "bounds": {
+     "x": 35,
+     "y": 26,
+     "w": 10,
+     "h": 17
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A shared tonal ground",
+      "body": "Black joins the photographic shadows to the spaces around the lettering. There is no bright frame dividing picture from copy. Narrow gaps still separate the face, title and review block, so these elements can belong to one sheet without touching everywhere.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Working without a colour code",
+      "body": "The design directs attention through lightness, size, shape and density. Its monochrome reproduction lets us compare these relationships directly. It does not establish how every historical printing looked, nor whether this scan preserves the original paper’s exact tone and contrast.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Find the smallest area of uninterrupted black. What does it separate?",
+    "related": [
+     "black-girl-hair",
+     "black-girl-title"
+    ],
+    "layerIndex": 0
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed Black Girl / La Noire de… poster reproduction",
+    "url": "https://en.wikipedia.org/wiki/File:La_noire_de…_(1966).png",
+    "kind": "Visual source",
+    "summary": "The exact edition shown is the evidence for visible shapes, wording, positions and reproduction samples. The linked record identifies the image; readings of its visual effects are supplied by Poster Atlas."
+   },
+   {
+    "id": "record",
+    "title": "Criterion: Black Girl",
+    "url": "https://www.criterion.com/films/28849-black-girl",
+    "kind": "Official distributor",
+    "summary": "Verifies the 1966 film, Sembène’s feature debut, principal performer, languages and domestic-labour narrative. It does not date or credit this French poster."
+   }
+  ],
+  "tour": [
+   "black-girl-face",
+   "black-girl-title",
+   "black-girl-dress",
+   "black-girl-review-box",
+   "black-girl-review-column",
+   "black-girl-field"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected wording in this edition",
+    "rows": [
+     {
+      "text": "LA NOIRE DE…",
+      "meaning": "The Black woman of…; English release title Black Girl",
+      "lang": "fr"
+     },
+     {
+      "text": "UN FILM DE SEMBENE OUSMANE",
+      "meaning": "A film by Ousmane Sembène",
+      "lang": "fr"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Only the large title and director line are transcribed. Reviews, awards and fine credits require a sharper scan; they are not reconstructed from guesses.",
+  "palette": [
+   {
+    "name": "Black field",
+    "hex": "#030303",
+    "role": "Shared ground for portrait and lettering",
+    "region": "black-girl-field"
+   },
+   {
+    "name": "Light dress",
+    "hex": "#CBCBCB",
+    "role": "Patterned brightness in the lower figure",
+    "region": "black-girl-dress"
+   },
+   {
+    "name": "Face midtone",
+    "hex": "#464646",
+    "role": "Modelling within the portrait",
+    "region": "black-girl-face"
+   }
+  ],
+  "paletteNote": "Approximate screen samples from the installed reproduction. These describe image pixels, not original inks, paper colours or calibrated printing specifications."
+ }
+}

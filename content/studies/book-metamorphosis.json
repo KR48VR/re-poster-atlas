@@ -1,0 +1,624 @@
+{
+ "poster": {
+  "id": "book-metamorphosis",
+  "title": "The Metamorphosis",
+  "year": "1916",
+  "yearNumber": 1916,
+  "coverYear": "1916",
+  "bookFirstPublication": "1915",
+  "bookAuthor": "Franz Kafka",
+  "bookPublisher": "Kurt Wolff Verlag",
+  "bookOrigin": "German-language Prague literature by Franz Kafka; historical Bohemia, present-day Czechia. The displayed wrapper was published in Leipzig.",
+  "creator": "Ottomar Starke",
+  "country": "Germany",
+  "countries": [
+   "Germany"
+  ],
+  "primaryOrigin": "Germany",
+  "region": "Europe",
+  "category": "Book cover",
+  "image": "images/full/book-metamorphosis.png",
+  "ratio": 0.6048387096774194,
+  "alt": "An ochre wrapper with red German title lettering above a dark illustration of a person covering his face beside an open door; small publisher and 1916 lines below.",
+  "blurb": "A covered face and an open doorway leave the central event unseen.",
+  "notes": [
+   {
+    "title": "The displayed edition",
+    "body": "Leipzig: Kurt Wolff Verlag, catalogued 1916 by the Leo Baeck Institute. The visible wrapper says 1916; the story appeared in 1915. This copy is not labelled a 1915 first printing."
+   },
+   {
+    "title": "Writing and image-making",
+    "body": "The institutional record credits Ottomar Starke’s illustrated wrapper for Kafka’s work. The pictured gesture and doorway are described without identifying an undocumented narrative moment."
+   },
+   {
+    "title": "A visible design relationship",
+    "body": "Red lettering establishes the title above the dense black doorway. The figure bends while the frame remains rigid and upright."
+   }
+  ],
+  "source": "https://www.lbi.org/de/collections/cover/",
+  "credit": "The institutional record credits Ottomar Starke’s illustrated wrapper for Kafka’s work. The pictured gesture and doorway are described without identifying an undocumented narrative moment.",
+  "reproduction": "A 300 × 496 institutional reproduction; original paper tone and wear remain visible.",
+  "anchor": [
+   0.23,
+   0.4
+  ],
+  "accent": "#b8723a",
+  "edition": "Leipzig: Kurt Wolff Verlag, catalogued 1916 by the Leo Baeck Institute. The visible wrapper says 1916; the story appeared in 1915. This copy is not labelled a 1915 first printing.",
+  "imageSource": "https://www.lbi.org/de/collections/cover/",
+  "imageCredit": "The institutional record credits Ottomar Starke’s illustrated wrapper for Kafka’s work. The pictured gesture and doorway are described without identifying an undocumented narrative moment.",
+  "coverPublisher": "Kurt Wolff Verlag",
+  "posterYear": "1916",
+  "posterTerritory": "Germany",
+  "posterDateStatus": "The displayed edition or catalogued object date; the original work date is recorded separately.",
+  "originNote": "Country and region describe the displayed edition’s publishing context. The author and work context are recorded separately.",
+  "originSources": [
+   {
+    "title": "Displayed edition record",
+    "url": "https://www.lbi.org/de/collections/cover/"
+   }
+  ],
+  "creditSources": [
+   {
+    "title": "Franz Kafka Museum: biography",
+    "url": "https://kafkamuseum.cz/en/timeline"
+   }
+  ],
+  "downloadURL": "https://www.lbi.org/media/images/Kafka_r49_tv0zSBz.original.png",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-metamorphosis.webp"
+ },
+ "studyData": {
+  "intro": "An open door, a covered face and a red title show an event indirectly. This study examines the wrapper catalogued as 1916, keeping that object separate from the story’s 1915 publication.",
+  "initial": "red-title",
+  "regions": [
+   {
+    "id": "figure",
+    "number": 1,
+    "label": "A face hidden by hands",
+    "shortLabel": "Covered face",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "The figure bends forward with both hands raised over the face.",
+    "layerIndex": 2,
+    "x": 21.16667,
+    "y": 29.93952,
+    "bounds": {
+     "x": 9,
+     "y": 22,
+     "w": 39,
+     "h": 49
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "The figure bends forward with both hands raised over the face. Dark clothing joins into a single curved mass beside the straighter doorway.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The gesture can suggest distress or withdrawal without showing what the figure sees. It creates an emotional point of entry while leaving the cause outside the image.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What can a hidden face communicate that an explicit expression might not?",
+    "related": [
+     "door",
+     "floor"
+    ]
+   },
+   {
+    "id": "door",
+    "number": 2,
+    "label": "An opening that conceals",
+    "shortLabel": "Open door",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "A dark door leaf projects forward from the frame.",
+    "layerIndex": 1,
+    "x": 70.16667,
+    "y": 44.05242,
+    "bounds": {
+     "x": 55,
+     "y": 19,
+     "w": 28,
+     "h": 49
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "A dark door leaf projects forward from the frame. Its near edge is a strong vertical and its lower edge angles towards the floor.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The opening directs attention towards a space that remains obscure. The cover makes a threshold legible while withholding a clear view of what lies beyond it.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does the dark opening feel like an invitation, a barrier or something else?",
+    "related": [
+     "panels",
+     "red-title"
+    ]
+   },
+   {
+    "id": "panels",
+    "number": 3,
+    "label": "Rectangles within the doorway",
+    "shortLabel": "Door panels",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Nested upright rectangles divide the visible door and frame.",
+    "layerIndex": 1,
+    "x": 50.16667,
+    "y": 44.05242,
+    "bounds": {
+     "x": 40,
+     "y": 22,
+     "w": 21,
+     "h": 40
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Nested upright rectangles divide the visible door and frame. They stand close to the rounded shoulder and bent arm of the figure.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "Regular panels can make the figure’s bodily tension more apparent. The comparison depends on the contrast of shapes rather than a literal account of the scene.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How do the straight panels alter your reading of the bent body?",
+    "related": [
+     "floor",
+     "author"
+    ]
+   },
+   {
+    "id": "floor",
+    "number": 4,
+    "label": "Hatching gives the room weight",
+    "shortLabel": "Floor strokes",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Short overlapping dark strokes spread across the floor beneath the shoes and doorway.",
+    "layerIndex": 1,
+    "x": 64.16667,
+    "y": 71.06855,
+    "bounds": {
+     "x": 4,
+     "y": 61,
+     "w": 89,
+     "h": 15
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Short overlapping dark strokes spread across the floor beneath the shoes and doorway. Their density changes across the ochre paper.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The hatching supplies a shared ground for figure and architecture. It prevents the separate shapes from appearing as unrelated symbols floating on the wrapper.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which floor marks most strongly connect the figure to the door?",
+    "related": [
+     "red-title",
+     "series"
+    ]
+   },
+   {
+    "id": "red-title",
+    "number": 5,
+    "label": "A warm line above the dark picture",
+    "shortLabel": "Red title",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Die Verwandlung is printed in red across most of the width.",
+    "layerIndex": 4,
+    "x": 55.16667,
+    "y": 13.00403,
+    "bounds": {
+     "x": 2,
+     "y": 10,
+     "w": 94,
+     "h": 7
+    },
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Die Verwandlung is printed in red across most of the width. The line sits above the black illustration with a small interval of plain paper.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The colour change makes the title a separate reading event. Its broad horizontal line briefly steadies an image dominated by inward movement and darkness.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "language",
+      "heading": "A title about change",
+      "body": "Die Verwandlung names a transformation. The established English title The Metamorphosis is given here to connect the German wording to the familiar work, without changing the cover’s own text.",
+      "evidence": "observation",
+      "sources": [],
+      "originalText": "Die Verwandlung",
+      "lang": "de",
+      "translation": "The Metamorphosis"
+     }
+    ],
+    "question": "Would a black title feel as distinct from the hatchings below?",
+    "related": [
+     "author",
+     "date"
+    ]
+   },
+   {
+    "id": "author",
+    "number": 6,
+    "label": "A quiet name at the top",
+    "shortLabel": "Franz Kafka",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Franz Kafka appears in small spaced capitals above the title.",
+    "layerIndex": 3,
+    "x": 50.16667,
+    "y": 6.35081,
+    "bounds": {
+     "x": 20,
+     "y": 4,
+     "w": 61,
+     "h": 6
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Franz Kafka appears in small spaced capitals above the title. The name occupies less width and has more paper around it than the red line below.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The hierarchy gives the work’s title greater visual force than its author. A familiar name can still be found easily because its isolated position is clear.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "context",
+      "heading": "Prague writing, Leipzig publishing",
+      "body": "Kafka belonged to Prague’s German-language literary world. The museum chronology records the story’s publication in 1915, while the Leo Baeck Institute catalogues this Leipzig wrapper as 1916. The work’s literary context and the pictured edition’s place are therefore recorded separately.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "kafka"
+       },
+       {
+        "id": "object"
+       }
+      ]
+     }
+    ],
+    "question": "What does the space around the small author line contribute to its visibility?",
+    "related": [
+     "series",
+     "paper"
+    ]
+   },
+   {
+    "id": "series",
+    "number": 7,
+    "label": "A series named beneath the scene",
+    "shortLabel": "Series line",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Der jüngste Tag and the numbers 22/23 sit between thin horizontal rules beneath the illustration.",
+    "layerIndex": 5,
+    "x": 49.16667,
+    "y": 80.74597,
+    "bounds": {
+     "x": 10,
+     "y": 78,
+     "w": 80,
+     "h": 5
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Der jüngste Tag and the numbers 22/23 sit between thin horizontal rules beneath the illustration. The lettering is compact and widely spaced.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The ruled line changes the mode from dramatic picture to publishing information. It offers a more ordered footer after the irregular hatchings above.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How do the thin rules tell you that this line has a different role?",
+    "related": [
+     "date",
+     "threshold"
+    ]
+   },
+   {
+    "id": "date",
+    "number": 8,
+    "label": "A date attached to this object",
+    "shortLabel": "The 1916 line",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "The small digits 1916 sit below the publisher and Leipzig line.",
+    "layerIndex": 5,
+    "x": 57.5,
+    "y": 88.20565,
+    "bounds": {
+     "x": 34,
+     "y": 86,
+     "w": 33,
+     "h": 6
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "The small digits 1916 sit below the publisher and Leipzig line. Their wide spacing makes a short date into a modest centred unit.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "A visible date can help identify a physical edition, but it need not be the year the work first appeared. Keeping these roles separate changes how a chronology is read.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "business",
+      "heading": "The catalogued wrapper",
+      "body": "The Leo Baeck Institute identifies Kurt Wolff Verlag in Leipzig, dates the object 1916, and credits Ottomar Starke’s illustration. This study uses that selected object date rather than silently converting it into a 1915 first-edition claim.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "object"
+       }
+      ]
+     }
+    ],
+    "question": "Which date would you use for the story, and which for this wrapper?",
+    "related": [
+     "paper",
+     "figure"
+    ]
+   },
+   {
+    "id": "paper",
+    "number": 9,
+    "label": "Ochre space around the drawing",
+    "shortLabel": "Ochre paper",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Warm ochre paper surrounds the image and the fine imprint.",
+    "layerIndex": 0,
+    "x": 55.16667,
+    "y": 94.05242,
+    "bounds": {
+     "x": 5,
+     "y": 91,
+     "w": 85,
+     "h": 6
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Warm ochre paper surrounds the image and the fine imprint. Uneven tone, faint creases and worn edges remain visible in the reproduction.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "Material ageing changes the present colour relationship. The wrapper can be studied as it survives without treating this screen colour as an original ink specification.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How might fresh paper have changed the contrast of the red and black marks?",
+    "related": [
+     "threshold",
+     "door"
+    ]
+   },
+   {
+    "id": "threshold",
+    "number": 10,
+    "label": "Body and architecture meet",
+    "shortLabel": "The threshold",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "The figure’s lower clothing, shoes and angled door edge approach the same patch of hatched floor.",
+    "layerIndex": 1,
+    "x": 56.16667,
+    "y": 65.02016,
+    "bounds": {
+     "x": 35,
+     "y": 57,
+     "w": 43,
+     "h": 14
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "The figure’s lower clothing, shoes and angled door edge approach the same patch of hatched floor. Several directions meet in a small area.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "This junction makes the threshold spatial rather than merely symbolic. It is also where the body’s diagonal movement most clearly meets the rigid room.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does your eye move when the clothing, floor and door edges converge?",
+    "related": [
+     "figure",
+     "panels"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "object",
+    "title": "The Metamorphosis: the displayed reproduction",
+    "url": "https://www.lbi.org/de/collections/cover/",
+    "kind": "Object / publisher record",
+    "summary": "Leipzig: Kurt Wolff Verlag, catalogued 1916 by the Leo Baeck Institute. The visible wrapper says 1916; the story appeared in 1915. This copy is not labelled a 1915 first printing. A 300 × 496 institutional reproduction; original paper tone and wear remain visible."
+   },
+   {
+    "id": "kafka",
+    "title": "Franz Kafka Museum: timeline",
+    "url": "https://kafkamuseum.cz/en/timeline",
+    "kind": "Museum chronology",
+    "summary": "Documents Kafka’s Prague and German-language literary context and the story’s 1915 publication."
+   }
+  ],
+  "tour": [
+   "red-title",
+   "figure",
+   "door",
+   "panels",
+   "floor",
+   "author",
+   "date"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "Die Verwandlung",
+      "meaning": "The transformation; conventionally The Metamorphosis in English.",
+      "lang": "de"
+     },
+     {
+      "text": "Franz Kafka",
+      "meaning": "The author’s name.",
+      "lang": "de"
+     },
+     {
+      "text": "Der jüngste Tag · 22/23",
+      "meaning": "The series title, The Last Judgment, and its numbering.",
+      "lang": "de"
+     },
+     {
+      "text": "Kurt Wolff Verlag · Leipzig · 1916",
+      "meaning": "Publisher, place and printed date.",
+      "lang": "de"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected clearly legible title and credit wording is transcribed from the displayed reproduction. Line breaks are simplified; this is not a transcription of every small mark or an identification of the typefaces.",
+  "palette": [
+   {
+    "name": "Ochre paper",
+    "hex": "#C99D53",
+    "role": "Warm paper around the imprint.",
+    "region": "paper"
+   },
+   {
+    "name": "Red title",
+    "hex": "#BE5E29",
+    "role": "The title’s distinct warm accent.",
+    "region": "red-title"
+   },
+   {
+    "name": "Dark figure",
+    "hex": "#272C21",
+    "role": "Dense drawing within the covered-face figure.",
+    "region": "figure"
+   },
+   {
+    "name": "Floor midtone",
+    "hex": "#837B55",
+    "role": "Hatching and paper combine in the shared ground.",
+    "region": "floor"
+   }
+  ],
+  "paletteNote": "Screen colours are sampled from this exact reproduction. Age, lighting and reproduction affect the result; these are not original printing specifications.",
+  "connections": [
+   {
+    "label": "An uneasy threshold",
+    "title": "A gesture beside an opening",
+    "text": "The covered face turns inward beside the door’s outward opening.",
+    "anchors": [
+     [
+      2,
+      0.22166666666666668,
+      0.31955645161290325
+     ],
+     [
+      1,
+      0.7016666666666667,
+      0.46068548387096775
+     ]
+    ],
+    "id": "book-metamorphosis-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Different emphasis",
+    "title": "Red words, black picture",
+    "text": "The title’s red line is quickly readable above the dense black architectural hatchings.",
+    "anchors": [
+     [
+      4,
+      0.4816666666666667,
+      0.13004032258064516
+     ],
+     [
+      1,
+      0.7116666666666667,
+      0.28931451612903225
+     ]
+    ],
+    "id": "book-metamorphosis-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

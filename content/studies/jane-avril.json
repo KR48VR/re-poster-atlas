@@ -1,0 +1,645 @@
+{
+ "poster": {
+  "id": "jane-avril",
+  "title": "Jane Avril",
+  "year": "1893",
+  "creator": "Henri de Toulouse-Lautrec",
+  "country": "France",
+  "category": "Performance",
+  "image": "images/full/jane-avril.jpg",
+  "ratio": 0.7151360544217688,
+  "accent": "#c65c32",
+  "anchor": [
+   0.25,
+   0.49
+  ],
+  "alt": "Jane Avril dancing in an orange and yellow skirt, with a large double bass curving around the foreground and the edge of the poster.",
+  "blurb": "A dancer kicks into open space while an instrument turns into the frame around her.",
+  "notes": [
+   {
+    "title": "An orange centre of gravity",
+    "body": "The broad orange skirt holds the left side of the image. The pale lifted fabric and black stockings make the movement legible against the lightly drawn stage."
+   },
+   {
+    "title": "The frame belongs to the scene",
+    "body": "The foreground double bass curves around the right and lower edges. An object inside the performance also acts as a border for the whole poster."
+   },
+   {
+    "title": "A diagonal invitation",
+    "body": "The stage boards draw the eye upward and rightward. The dancer’s lifted leg cuts across that direction, creating tension without a crowded background."
+   }
+  ],
+  "source": "https://www.metmuseum.org/art/collection/search/333993",
+  "credit": "The Metropolitan Museum of Art, Harris Brisbane Dick Fund, 1932 (32.88.15). Public-domain image. Lithograph in five colours.",
+  "reproduction": "The museum photograph includes the sheet edges and surrounding mount.",
+  "countries": [
+   "France"
+  ],
+  "primaryOrigin": "France",
+  "anchorLayer": null,
+  "yearNumber": 1893,
+  "region": "Europe",
+  "thumb": "images/catalogue/jane-avril.webp"
+ },
+ "studyData": {
+  "intro": "A dancer appears beyond an enormous musician’s hand and instrument. Look at how the poster makes a performance visible through cropping, rhythm and a drastic change of scale; remember that the installed image also includes the photographed sheet’s surroundings.",
+  "initial": "name",
+  "regions": [
+   {
+    "id": "name",
+    "label": "Jane Avril",
+    "shortLabel": "Jane Avril",
+    "kicker": "Words and meaning",
+    "summary": "The performer’s name stretches across the top.",
+    "layerIndex": 5,
+    "x": 58.502,
+    "y": 11.99,
+    "bounds": {
+     "x": 32,
+     "y": 7,
+     "w": 53,
+     "h": 10
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A name as the main announcement",
+      "body": "Jane Avril appears in large, pale green outlined letters across the upper part of the printed sheet. The name occupies an open interval above the stage. Its curved and irregular forms belong visually with the sinuous contours of the dancer and foreground instrument.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "An advertisement for a performance",
+      "body": "The Metropolitan Museum records that Avril commissioned Toulouse-Lautrec to advertise her 1893 appearance at the Jardin de Paris. That identifies the poster’s practical purpose: announcing a performer and show. It is not simply a detached portrait made for a museum wall.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "met"
+       }
+      ]
+     }
+    ],
+    "question": "What can the name tell you that the dancing body alone cannot?",
+    "related": [
+     "face",
+     "stage",
+     "border"
+    ],
+    "number": 1
+   },
+   {
+    "id": "face",
+    "label": "The dancer’s face",
+    "shortLabel": "The dancer’s face",
+    "kicker": "Look closely",
+    "summary": "A small face sits above a large gesture.",
+    "layerIndex": 1,
+    "x": 19.501,
+    "y": 19.983,
+    "bounds": {
+     "x": 14,
+     "y": 15,
+     "w": 11,
+     "h": 10
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Fine features, small area",
+      "body": "The dancer’s pale face is small compared with her skirt and the musician’s hand. A few dark lines define the eyes and nose, while a red mouth supplies a tiny accent. The head is turned, so her attention does not form a direct frontal address to the viewer.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Identity through more than likeness",
+      "body": "The poster does not rely on a huge facial portrait to make the performer memorable. Name, costume and movement work alongside the face. Compare how much area each receives, and consider which would survive if you saw the sheet from across a room.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would you recognise the performance more from the face or from the pose?",
+    "related": [
+     "name",
+     "bodice",
+     "raised-leg"
+    ],
+    "number": 2
+   },
+   {
+    "id": "bodice",
+    "label": "The black bodice",
+    "shortLabel": "The black bodice",
+    "kicker": "Look closely",
+    "summary": "A dark upper shape anchors the costume.",
+    "layerIndex": 1,
+    "x": 19.501,
+    "y": 27.976,
+    "bounds": {
+     "x": 9,
+     "y": 21,
+     "w": 21,
+     "h": 14
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A compact dark mass",
+      "body": "The dancer’s upper garment includes a strong black area beneath the pale face and yellow hair or head ornament. This mass contrasts with the large warm skirt below. It gives the torso a firm shape before the clothing opens into broader curves and ruffles.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A hinge in the body",
+      "body": "The dark bodice connects the small head to the expanding skirt without competing with either. Cover it and the pale upper details seem less securely attached to the lower silhouette. The relationship shows how a quiet shape can organise a more flamboyant gesture.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which part of the costume holds the upper and lower body together?",
+    "related": [
+     "face",
+     "skirt",
+     "raised-leg"
+    ],
+    "number": 3
+   },
+   {
+    "id": "skirt",
+    "label": "The orange skirt",
+    "shortLabel": "The orange skirt",
+    "kicker": "Look closely",
+    "summary": "A broad colour area carries the dance.",
+    "layerIndex": 2,
+    "x": 24.495,
+    "y": 47.534,
+    "bounds": {
+     "x": 10,
+     "y": 29,
+     "w": 29,
+     "h": 37
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Colour with few internal marks",
+      "body": "The orange-red skirt forms a large, comparatively flat field on the left. Its edge bends outward and then descends, while only a few dark lines suggest folds. Compared with the stippled stage and instrument, this smoother area reads as a clear, strong silhouette.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A shape that moves",
+      "body": "The wide curve can suggest fabric displaced by movement without drawing every fold. It also balances the dark instrument on the right. Imagine the skirt as a small neutral rectangle: the pose would lose much of its visual reach even if the face remained unchanged.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which edge makes the skirt feel lifted rather than simply hanging?",
+    "related": [
+     "ruffles",
+     "instrument",
+     "bodice"
+    ],
+    "number": 4
+   },
+   {
+    "id": "ruffles",
+    "label": "The pale ruffled edge",
+    "shortLabel": "The pale ruffled edge",
+    "kicker": "Look closely",
+    "summary": "A curling border links garment and gesture.",
+    "layerIndex": 2,
+    "x": 38.526,
+    "y": 44.473,
+    "bounds": {
+     "x": 22,
+     "y": 22,
+     "w": 33,
+     "h": 45
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An irregular light contour",
+      "body": "A pale yellow ruffled edge winds around the lifted skirt and exposed leg area. Its small bends interrupt the broader orange shape. The light contour separates parts of the costume from the similarly pale stage without requiring a heavy dark outline everywhere.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Rhythm at two scales",
+      "body": "The skirt provides one large curve, while the ruffles offer many smaller turns. This difference lets the costume read from far away and still reward close looking. Compare these curling edges with the instrument’s more continuous sweep around the foreground.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How do the small ruffles change your reading of the large skirt shape?",
+    "related": [
+     "skirt",
+     "raised-leg",
+     "border"
+    ],
+    "number": 5
+   },
+   {
+    "id": "raised-leg",
+    "label": "The raised black stocking",
+    "shortLabel": "The raised black stocking",
+    "kicker": "Look closely",
+    "summary": "A sharp diagonal makes the kick legible.",
+    "layerIndex": 2,
+    "x": 48.514,
+    "y": 38.01,
+    "bounds": {
+     "x": 36,
+     "y": 28,
+     "w": 25,
+     "h": 20
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A pointed extension",
+      "body": "A black-stockinged leg extends diagonally towards the right, ending in a pointed shoe. It cuts across the pale ruffles and stage, creating a clear directional mark. The other dark lower leg drops towards the left, so the two limbs establish visibly different directions.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A documented dance gesture",
+      "body": "The Met’s account identifies the performer’s movement as a cancan kick and draws attention to its relationship with the foreground double bass. That supports naming the gesture, while the exact rhythm or music of the performance cannot be recovered from this still image.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "met"
+       }
+      ]
+     }
+    ],
+    "question": "Which limb makes the direction of the kick easiest to understand?",
+    "related": [
+     "lower-leg",
+     "instrument",
+     "ruffles"
+    ],
+    "number": 6
+   },
+   {
+    "id": "lower-leg",
+    "label": "The downward leg",
+    "shortLabel": "The downward leg",
+    "kicker": "Look closely",
+    "summary": "A second dark accent stabilises the pose.",
+    "layerIndex": 2,
+    "x": 19.976,
+    "y": 69.983,
+    "bounds": {
+     "x": 14,
+     "y": 63,
+     "w": 12,
+     "h": 14
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A narrow shape below the skirt",
+      "body": "The lower black stocking emerges beneath the orange skirt and angles down towards the left. It is separated from the raised leg by a broad pale interval. That gap makes the two limbs legible as a pose rather than one confusing dark patch.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Balance through separation",
+      "body": "The downward leg acts as a counter-direction to the lifted one. Even without knowing dance technique, you can compare their angles and the spaces between them. The poster communicates an energetic stance through a small number of clearly separated dark shapes.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How important is the pale gap between the two black legs?",
+    "related": [
+     "raised-leg",
+     "skirt",
+     "stage"
+    ],
+    "number": 7
+   },
+   {
+    "id": "instrument",
+    "label": "The oversized double bass",
+    "shortLabel": "The oversized double bass",
+    "kicker": "Look closely",
+    "summary": "The foreground interrupts the view of the stage.",
+    "layerIndex": 3,
+    "x": 73.96,
+    "y": 47.959,
+    "bounds": {
+     "x": 52,
+     "y": 25,
+     "w": 44,
+     "h": 46
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An instrument cropped close",
+      "body": "A dark double-bass form occupies much of the right foreground, with projecting pegs and a long curved contour. Its scale is enormous beside the dancer’s head. Parts disappear beyond the edge or behind the hand, making the viewer look past it towards the performance.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A musician’s viewpoint",
+      "body": "The Met identifies the foreground instrument as a double bass held by a musician whose body is mostly outside the image. This establishes the depicted object. The poster’s dramatic cropping creates a partial view rather than a complete diagram of the instrument or orchestra.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "met"
+       }
+      ]
+     }
+    ],
+    "question": "What tells you the instrument is much closer than the dancer?",
+    "related": [
+     "hand",
+     "raised-leg",
+     "border"
+    ],
+    "number": 8
+   },
+   {
+    "id": "hand",
+    "label": "The musician’s large hand",
+    "shortLabel": "The musician’s large hand",
+    "kicker": "Look closely",
+    "summary": "A near object changes the scale of everything else.",
+    "layerIndex": 4,
+    "x": 63.971,
+    "y": 72.534,
+    "bounds": {
+     "x": 50,
+     "y": 58,
+     "w": 28,
+     "h": 29
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A hand larger than a head",
+      "body": "The hand gripping the instrument occupies a substantial area near the lower centre. Its fingers wrap around a dark shaft, with pale highlights separating them. The exaggerated size relative to the dancer follows the foreground/background arrangement rather than requiring an unusually large person.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A viewer placed among musicians",
+      "body": "The hand can make the vantage point feel close to the orchestra, looking beyond a working musician towards the stage. This is an interpretation of the cropping. It differs from the distant, unobstructed view we might expect from a conventional full-body portrait.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does the foreground hand make you feel closer to or farther from the performance?",
+    "related": [
+     "instrument",
+     "sleeve",
+     "face"
+    ],
+    "number": 9
+   },
+   {
+    "id": "sleeve",
+    "label": "The patterned sleeve",
+    "shortLabel": "The patterned sleeve",
+    "kicker": "Look closely",
+    "summary": "Decorative folds fill the bottom-right corner.",
+    "layerIndex": 4,
+    "x": 82.521,
+    "y": 80.527,
+    "bounds": {
+     "x": 67,
+     "y": 65,
+     "w": 31,
+     "h": 31
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Another kind of texture",
+      "body": "The sleeve behind the hand contains curling outlines and mottled dark texture. Its busy surface differs from the smoother orange skirt on the opposite side. The pattern gives the cropped musician a material presence even though the face and most of the body remain unseen.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Two people, unequal visibility",
+      "body": "The performer receives a name and a visible body; the musician is represented mainly by hand, sleeve and instrument. This contrast lets supporting labour appear without becoming a second portrait. It is worth noticing what the image makes prominent and what it leaves partial.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How much can you infer about a figure represented only by a hand and sleeve?",
+    "related": [
+     "hand",
+     "skirt",
+     "name"
+    ],
+    "number": 10
+   },
+   {
+    "id": "stage",
+    "label": "The diagonal stage boards",
+    "shortLabel": "The diagonal stage boards",
+    "kicker": "Look closely",
+    "summary": "Long lines carry the eye into the picture.",
+    "layerIndex": 0,
+    "x": 56.48,
+    "y": 52.041,
+    "bounds": {
+     "x": 44,
+     "y": 40,
+     "w": 25,
+     "h": 24
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A tilted floor",
+      "body": "Thin diagonal lines divide the pale stage area between dancer and instrument. They run behind the figure and towards the upper-right area, giving the surface a sense of recession. Their long, relatively straight paths contrast with the curling costume and instrument contours.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Depth without detailed scenery",
+      "body": "The boards provide enough spatial information to distinguish stage from empty paper. A complete theatre interior is unnecessary. Cover these lines and the dancer appears flatter; restore them and the foreground instrument feels more convincingly separated from the performance space.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How much depth disappears when the floor lines are covered?",
+    "related": [
+     "instrument",
+     "lower-leg",
+     "border"
+    ],
+    "number": 11
+   },
+   {
+    "id": "border",
+    "label": "The enclosing curve",
+    "shortLabel": "The enclosing curve",
+    "kicker": "Look closely",
+    "summary": "An instrument contour becomes a frame.",
+    "layerIndex": 3,
+    "x": 33.056,
+    "y": 90.986,
+    "bounds": {
+     "x": 4,
+     "y": 86,
+     "w": 58,
+     "h": 10
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A sweeping lower edge",
+      "body": "A heavy dark curve runs along the lower-left portion and continues around the scene’s edge. It links with the foreground instrument’s visual structure while also enclosing the dancer and stage. The same contour can therefore be read as part of an object and as a picture frame.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Inside and outside the print",
+      "body": "Beyond the printed composition, the installed photograph includes sheet edges and surrounding mount or room details. Those are not additional design motifs. Distinguishing the artwork’s border from its photographed surroundings keeps the analysis focused on what belongs to the poster.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does the printed composition end and the photographed object begin?",
+    "related": [
+     "name",
+     "stage",
+     "instrument"
+    ],
+    "number": 12
+   }
+  ],
+  "sources": [
+   {
+    "id": "met",
+    "title": "The Metropolitan Museum of Art: Jane Avril",
+    "url": "https://www.metmuseum.org/art/collection/search/333993",
+    "kind": "Primary source",
+    "summary": "Documents Toulouse-Lautrec’s 1893 poster, Avril’s Jardin de Paris commission, cancan gesture, double bass and five-colour lithographic medium. Object 32.88.15."
+   }
+  ],
+  "tour": [
+   "name",
+   "skirt",
+   "raised-leg",
+   "instrument",
+   "hand",
+   "stage"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected wording on this edition",
+    "rows": [
+     {
+      "text": "Jane Avril",
+      "meaning": "The performer’s name",
+      "lang": "fr"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "The large name is transcribed. The fine lower signature/printer lines are not reconstructed from the photograph. Surrounding mount and room details are not part of the printed design.",
+  "palette": [
+   {
+    "name": "Orange skirt",
+    "hex": "#e65c2e",
+    "role": "A broad colour area carries the dance.",
+    "region": "skirt"
+   },
+   {
+    "name": "Pale stage",
+    "hex": "#f3d69c",
+    "role": "Long lines carry the eye into the picture.",
+    "region": "stage"
+   },
+   {
+    "name": "Black stocking",
+    "hex": "#0a0a08",
+    "role": "A sharp diagonal makes the kick legible.",
+    "region": "raised-leg"
+   },
+   {
+    "name": "Green title",
+    "hex": "#657c46",
+    "role": "The performer’s name stretches across the top.",
+    "region": "name"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in this installed reproduction. They describe this image, not original printing inks or a colour standard.",
+  "connections": [
+   {
+    "label": "A repeated curve",
+    "title": "Skirt and instrument sweep in opposite directions",
+    "text": "The skirt pushes outward from the left while the bass curves down from the right and across the bottom. These two large curves hold the composition in motion.",
+    "anchors": [
+     [
+      2,
+      0.3501783590963139,
+      0.4298469387755102
+     ],
+     [
+      3,
+      0.33590963139120095,
+      0.9392006802721088
+     ]
+    ],
+    "id": "jane-avril-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Near and far",
+    "title": "An oversized hand frames a small dancer",
+    "text": "The foreground hand is large beside the dancer’s head. The instrument and hand act as a close frame around the more distant performance.",
+    "anchors": [
+     [
+      4,
+      0.6248513674197385,
+      0.7572278911564626
+     ],
+     [
+      2,
+      0.4928656361474435,
+      0.4187925170068027
+     ]
+    ],
+    "id": "jane-avril-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

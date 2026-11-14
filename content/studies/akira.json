@@ -1,0 +1,535 @@
+{
+ "poster": {
+  "id": "akira",
+  "title": "Akira",
+  "year": "1988",
+  "yearNumber": 1988,
+  "country": "Japan",
+  "region": "East Asia",
+  "category": "Film",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Katsuhiro Otomo",
+  "edition": "Japanese theatrical poster",
+  "image": "images/full/akira.jpg",
+  "ratio": 0.7074468085106383,
+  "alt": "Akira Japanese poster seen from above: a red motorcycle near the top, a small red-clad figure walking toward it, and black-and-red title lettering below.",
+  "blurb": "A red motorcycle, a red jacket and a long stretch of pale ground make a quiet approach feel charged.",
+  "notes": [
+   {
+    "title": "An approach rather than an explosion",
+    "body": "The small figure walks toward the motorcycle across a large pale field. The open distance between them creates anticipation from very little action."
+   },
+   {
+    "title": "Red joins person and machine",
+    "body": "The jacket and motorcycle share a saturated red. That repeated colour forms a connection across the empty ground before any words explain the relationship."
+   },
+   {
+    "title": "The title supplies a second impact",
+    "body": "The angular red lettering over heavy black forms sits below the figure. Its compact weight balances the motorcycle above, turning the page into a sequence of three clear stops."
+   }
+  ],
+  "source": "https://www.bfi.org.uk/features/30-years-akira-teenage-kicks-anime-style",
+  "imageSource": "https://en.wikipedia.org/wiki/File:AKIRA_(1988_poster).jpg",
+  "imageCredit": "Copyright in the poster remains with its respective studio, distributor or artist. Low-resolution reproduction via Wikipedia for visual commentary; see the image source record.",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/en/5/5d/AKIRA_%281988_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+  "anchor": [
+   0.46,
+   0.18
+  ],
+  "accent": "#bd3028",
+  "yearNote": "Year refers to the film’s first release; the poster edition is identified separately.",
+  "credit": "Copyright in the poster remains with its respective studio, distributor or artist. Low-resolution reproduction via Wikipedia for visual commentary; see the image source record.",
+  "countries": [
+   "Japan"
+  ],
+  "primaryOrigin": "Japan",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/akira.webp"
+ },
+ "studyData": {
+  "intro": "A walker approaches a red motorcycle across a pale, damaged surface. Instead of showing the city’s spectacular crisis, this edition builds anticipation through distance, colour and scale. Compare the three main stops—machine, person and title—and then look at the much smaller wording that identifies the film’s makers.",
+  "initial": "akira-motorcycle",
+  "regions": [
+   {
+    "id": "akira-motorcycle",
+    "number": 1,
+    "label": "A machine wider than its rider",
+    "shortLabel": "A machine wider than its rider",
+    "kicker": "A LOW HORIZONTAL MASS",
+    "summary": "The red motorcycle dominates the top of the sheet.",
+    "x": 50,
+    "y": 16.5,
+    "bounds": {
+     "x": 4,
+     "y": 4,
+     "w": 92,
+     "h": 25
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A low horizontal mass",
+      "body": "The motorcycle extends almost from side to side. Red body panels, a brown seat and black tyres form a broad horizontal shape above the small upright walker. The view from above reveals surfaces that a side-on vehicle portrait would hide, especially the seat and curved shell.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A vehicle within the story",
+      "body": "TMS’s official synopsis introduces Kaneda as leader of a motorcycle group in Neo-Tokyo and describes the events that draw him towards Tetsuo’s crisis. That establishes motorcycling as part of the film’s world; it does not make every visible decal a documented narrative clue.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "What makes the bike feel substantial even without a visible rider?",
+    "related": [
+     "akira-figure",
+     "akira-wheels"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "akira-wheels",
+    "number": 2,
+    "label": "Two dark circles at opposite ends",
+    "shortLabel": "Two dark circles at opposite ends",
+    "kicker": "ROUND FORMS ANCHOR THE SILHOUETTE",
+    "summary": "Tyres bookend the vehicle’s red body.",
+    "x": 50,
+    "y": 20.5,
+    "bounds": {
+     "x": 4,
+     "y": 13,
+     "w": 92,
+     "h": 15
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Round forms anchor the silhouette",
+      "body": "The tyres form dark, rounded ends beneath the red fairing. Highlights and ellipses reveal their angle to the viewer. They give the complex machine two simple structural points, so its many panels and small graphics do not dissolve into an undifferentiated red shape.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Different shapes, shared weight",
+      "body": "The circles contrast with the long, low body and the upright figure below. Comparing these basic forms can explain why the motorcycle remains recognisable at thumbnail size. That is a visual analysis of the image, not an engineering identification of the imagined machine.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which parts keep the motorcycle readable if you ignore its decals?",
+    "related": [
+     "akira-motorcycle",
+     "akira-seat"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "akira-seat",
+    "number": 3,
+    "label": "A saddle seen from above",
+    "shortLabel": "A saddle seen from above",
+    "kicker": "AN INTERIOR WITHIN A SOLID SHELL",
+    "summary": "The open seat makes the vehicle feel ready to be occupied.",
+    "x": 63.5,
+    "y": 15.5,
+    "bounds": {
+     "x": 47,
+     "y": 8,
+     "w": 33,
+     "h": 15
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An interior within a solid shell",
+      "body": "The brown seat is enclosed by red bodywork and divided by darker seams. Its curved surfaces occupy the upper centre of the motorcycle. Seen from this angle, the vacant seating area is unusually clear, while the wheels remain partly tucked beneath the body.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Anticipation through an empty place",
+      "body": "The walker’s position below the vehicle can make the empty seat feel like a destination. The image stops before contact, leaving a short action for the viewer to imagine. This reading comes from the spatial arrangement rather than proof of a particular upcoming film shot.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the unoccupied seat affect the approaching figure’s direction?",
+    "related": [
+     "akira-motorcycle",
+     "akira-figure"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "akira-figure",
+    "number": 4,
+    "label": "An approach seen from behind",
+    "shortLabel": "An approach seen from behind",
+    "kicker": "A BACK RATHER THAN A FACE",
+    "summary": "The small figure links machine and title.",
+    "x": 49.5,
+    "y": 42,
+    "bounds": {
+     "x": 37,
+     "y": 27,
+     "w": 25,
+     "h": 30
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A back rather than a face",
+      "body": "The walker is shown from behind with dark hair and red clothing. One arm and one leg extend farther than their counterparts, suggesting an uneven step. The face is withheld, so posture and direction carry more of the figure’s identity than a facial expression.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A shared red across open ground",
+      "body": "Red connects the clothing to the motorcycle before the figure reaches it. The two areas are separated by pale ground, making the colour echo especially easy to notice. Red is doing relational work here; it need not be assigned a single universal emotion.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would a figure facing you tell a different story?",
+    "related": [
+     "akira-motorcycle",
+     "akira-boots"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "akira-patch",
+    "number": 5,
+    "label": "A small blue interruption on the jacket",
+    "shortLabel": "A small blue interruption on the jacket",
+    "kicker": "A COMPACT CONTRASTING MARK",
+    "summary": "A cool patch breaks a largely red back.",
+    "x": 50,
+    "y": 38.5,
+    "bounds": {
+     "x": 43,
+     "y": 35,
+     "w": 14,
+     "h": 7
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A compact contrasting mark",
+      "body": "A blue-and-light emblem sits high on the back of the jacket. Its small size and different hue distinguish it from the broad red garment. The installed reproduction is insufficient for reliable tiny lettering, so the study describes its shape and colour without inventing a slogan.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Recognition at a closer distance",
+      "body": "The jacket first reads as one red mass, then reveals a graphic detail when inspected. That sequence gives the figure a second reading scale. Enlarging the scan cannot recover lettering that its original pixels do not contain.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Why can such a small cool shape remain noticeable?",
+    "related": [
+     "akira-figure",
+     "akira-title"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "akira-boots",
+    "number": 6,
+    "label": "The staggered step",
+    "shortLabel": "The staggered step",
+    "kicker": "A DIRECTION IN THE LOWER SILHOUETTE",
+    "summary": "Unequal leg positions prevent the figure from becoming a static sign.",
+    "x": 50.5,
+    "y": 51.5,
+    "bounds": {
+     "x": 43,
+     "y": 45,
+     "w": 15,
+     "h": 13
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A direction in the lower silhouette",
+      "body": "The legs do not end at the same height. One extends downward while the other bends, and dark outlines separate the red clothing from the pale pavement. Those differences make a short walking action legible without a sequence of frames.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A small movement in a quiet image",
+      "body": "Compared with the large motorcycle, the moving figure is modest. Its step can make the surrounding stillness feel expectant rather than empty. The image invites that temporal reading, but it cannot establish an exact pace or the character’s emotional state.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which foot seems to be carrying the body, and what visible clue suggests that?",
+    "related": [
+     "akira-figure",
+     "akira-crack"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "akira-ground",
+    "number": 7,
+    "label": "Pale space around the approach",
+    "shortLabel": "Pale space around the approach",
+    "kicker": "SPACE WITH A COLOUR CAST",
+    "summary": "An open field protects the three main forms.",
+    "x": 19.5,
+    "y": 54.5,
+    "bounds": {
+     "x": 3,
+     "y": 45,
+     "w": 33,
+     "h": 19
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Space with a colour cast",
+      "body": "The ground is a pale greenish cream with subtle shifts, rather than an absolutely blank white. It extends around the figure and separates the red machine from the title below. The large quiet area makes small dark contours and cracks readable.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Leaving the city outside the image",
+      "body": "The official film setting is a futuristic Neo-Tokyo, yet this campaign does not need a dense skyline to name that world. The cropped ground and designed machine offer selective clues. A poster can withhold setting detail while still establishing an invitation to a story.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What would become harder to notice if this space were filled with buildings?",
+    "related": [
+     "akira-motorcycle",
+     "akira-title"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "akira-crack",
+    "number": 8,
+    "label": "A fracture in the pavement",
+    "shortLabel": "A fracture in the pavement",
+    "kicker": "IRREGULARITY AT A SMALL SCALE",
+    "summary": "A thin irregular line disturbs the open surface.",
+    "x": 23,
+    "y": 39,
+    "bounds": {
+     "x": 6,
+     "y": 24,
+     "w": 34,
+     "h": 30
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Irregularity at a small scale",
+      "body": "A crack descends through the left side of the pale ground in short, broken turns. Fine branches and changes in width keep it from reading as a clean drawn arrow. It adds wear and direction to a surface that would otherwise be visually quiet.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A clue with limited certainty",
+      "body": "The damaged pavement can suggest a less pristine world than the polished motorcycle. The image alone cannot identify the cause or age of that damage. The distinction between observing a crack and inventing its history is a useful part of close looking.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Follow the fracture: how does it differ from the motorcycle’s smooth edges?",
+    "related": [
+     "akira-ground",
+     "akira-boots"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "akira-title",
+    "number": 9,
+    "label": "Two scripts in one compact block",
+    "shortLabel": "Two scripts in one compact block",
+    "kicker": "AKIRA AND アキラ",
+    "summary": "Red Japanese strokes cross heavy black Roman letters.",
+    "x": 49.5,
+    "y": 71.5,
+    "bounds": {
+     "x": 25,
+     "y": 63,
+     "w": 49,
+     "h": 17
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "AKIRA and アキラ",
+      "body": "The title appears in Roman letters and in katakana, アキラ, read Akira. Both identify the same film. Their overlap makes language part of the image’s structure, rather than placing an English translation neatly below an original-language heading.",
+      "evidence": "observation",
+      "originalText": "AKIRA / アキラ",
+      "lang": "ja",
+      "reading": "Akira",
+      "translation": "Akira"
+     },
+     {
+      "kind": "design",
+      "heading": "A second red impact",
+      "body": "Angular red strokes cut across the more solid black letter shapes. Their compact block balances the motorcycle above, with the figure positioned between the two. The title is therefore another major visual object, not just a caption attached after the illustration.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Which script do you notice first, and which holds the block together?",
+    "related": [
+     "akira-motorcycle",
+     "akira-credits"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "akira-credits",
+    "number": 10,
+    "label": "The maker named below the title",
+    "shortLabel": "The maker named below the title",
+    "kicker": "A VISIBLE ROLE AND NAME",
+    "summary": "Small Japanese lines establish a different reading scale.",
+    "x": 50,
+    "y": 86.5,
+    "bounds": {
+     "x": 35,
+     "y": 80,
+     "w": 30,
+     "h": 13
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A visible role and name",
+      "body": "The larger credit reads 原作・監督 大友克洋: original work and direction by Katsuhiro Otomo. This is a film credit, not sufficient evidence to attribute this poster’s illustration or lettering. The finer remaining lines are not fully transcribed from the 266-pixel-wide scan.",
+      "evidence": "observation",
+      "originalText": "原作・監督 大友克洋",
+      "lang": "ja",
+      "reading": "Gensaku, kantoku: Ōtomo Katsuhiro",
+      "translation": "Original work and direction: Katsuhiro Otomo"
+     },
+     {
+      "kind": "business",
+      "heading": "A film’s release record",
+      "body": "TMS lists Otomo as director and original author and records the Japanese opening on 16 July 1988. Its synopsis places the story in 2019. Those two years perform different jobs: one dates the film’s release, the other its imagined setting.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "What changes when you read the creator credit after the vehicle and figure?",
+    "related": [
+     "akira-title",
+     "akira-ground"
+    ],
+    "layerIndex": 4
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed Akira poster reproduction",
+    "url": "https://en.wikipedia.org/wiki/File:AKIRA_(1988_poster).jpg",
+    "kind": "Visual source",
+    "summary": "The exact edition shown is the evidence for visible shapes, wording, positions and reproduction samples. The linked record identifies the image; readings of its visual effects are supplied by Poster Atlas."
+   },
+   {
+    "id": "record",
+    "title": "TMS Entertainment: AKIRA",
+    "url": "https://www.tms-e.co.jp/alltitles/1980s/059301.html",
+    "kind": "Official studio",
+    "summary": "Verifies original author/director Katsuhiro Otomo, 16 July 1988 Japanese opening, 2019 Neo-Tokyo setting and the motorcycle-group narrative. Does not identify this poster artist."
+   }
+  ],
+  "tour": [
+   "akira-motorcycle",
+   "akira-figure",
+   "akira-patch",
+   "akira-ground",
+   "akira-crack",
+   "akira-title"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected wording in this edition",
+    "rows": [
+     {
+      "text": "AKIRA / アキラ",
+      "meaning": "Akira",
+      "lang": "ja"
+     },
+     {
+      "text": "原作・監督 大友克洋",
+      "meaning": "Original work and direction: Katsuhiro Otomo",
+      "lang": "ja"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Only the large title and securely legible creator line are transcribed. Motorcycle decals, jacket-emblem wording and fine credits are not reconstructed.",
+  "palette": [
+   {
+    "name": "Motorcycle red",
+    "hex": "#EC4028",
+    "role": "Connects machine and clothing",
+    "region": "akira-motorcycle"
+   },
+   {
+    "name": "Pale ground",
+    "hex": "#F5F8E7",
+    "role": "Open space around the approach",
+    "region": "akira-ground"
+   },
+   {
+    "name": "Blue jacket patch",
+    "hex": "#16A8D1",
+    "role": "A small cool contrast",
+    "region": "akira-patch"
+   },
+   {
+    "name": "Title black",
+    "hex": "#180604",
+    "role": "A compact lower anchor",
+    "region": "akira-title"
+   }
+  ],
+  "paletteNote": "Approximate screen samples from the installed reproduction. These describe image pixels, not original inks, paper colours or calibrated printing specifications."
+ }
+}

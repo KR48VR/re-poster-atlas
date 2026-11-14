@@ -1,0 +1,583 @@
+{
+ "poster": {
+  "id": "timbuktu",
+  "title": "Timbuktu",
+  "year": "2014",
+  "yearNumber": 2014,
+  "creator": "Poster artist uncredited",
+  "country": "Mauritania / France",
+  "countries": [
+   "Mauritania",
+   "France"
+  ],
+  "region": "Africa",
+  "category": "Film",
+  "filmCreator": "Abderrahmane Sissako",
+  "edition": "2015 U.S. Academy Award nominee one-sheet, Cohen Media Group",
+  "image": "images/full/timbuktu.jpg",
+  "ratio": 0.6899563318777293,
+  "alt": "Timbuktu poster with a broad green tree over a tiny dark figure, a sandy background, white review text and a large green title.",
+  "blurb": "A tree, a person and a great deal of sky make scale do the storytelling.",
+  "notes": [
+   {
+    "title": "A person measured against a tree",
+    "body": "The small standing figure sits beneath the much wider canopy. The size difference makes the landscape feel expansive even within the narrow poster."
+   },
+   {
+    "title": "Green connects image and name",
+    "body": "The title repeats the deep green of the leaves. These two masses hold the upper and lower portions together across the pale sand-coloured middle."
+   },
+   {
+    "title": "The reviews inhabit the open air",
+    "body": "White quotations occupy the otherwise sparse middle of the sheet. The fine lettering stays lighter than the heavy title and the dark canopy."
+   }
+  ],
+  "source": "https://www.festival-cannes.com/en/f/timbuktu/",
+  "credit": "Official poster supplied on Cohen Media Group’s film page. Poster copyright remains with its respective rights holders; no public-domain status is claimed.",
+  "imageCredit": "Official poster supplied on Cohen Media Group’s film page. Poster copyright remains with its respective rights holders; no public-domain status is claimed.",
+  "imageSource": "https://cohenmedia.net/product/timbuktu",
+  "downloadURL": "https://cohenmedia.net/media_cache/userFiles/uploads/filmtrack/9D925386-5C1E-E411-BA69-D4AE527C3B65/film_poster/TIMBUKTU_1Sht_Acad.jpg",
+  "anchor": [
+   0.69,
+   0.43
+  ],
+  "accent": "#4d6a40",
+  "yearNote": "The catalogue year is the film year. The reproduced poster edition is identified separately.",
+  "reproduction": "Official distributor artwork with an Academy Award nomination banner. This is the 2015 U.S. campaign for a 2014 film.",
+  "posterDateStatus": "2015 U.S. awards campaign; film year 2014.",
+  "posterYear": "2015",
+  "posterTerritory": "United States",
+  "primaryOrigin": "Mauritania",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/timbuktu.webp"
+ },
+ "studyData": {
+  "intro": "A small figure and a broad tree occupy a sandy field that also carries a remarkable amount of text. Compare the quiet image with the campaign’s awards and reviews: each offers a different way to enter the film.",
+  "initial": "tree",
+  "regions": [
+   {
+    "id": "sand",
+    "label": "An expansive sandy ground",
+    "shortLabel": "An expansive sandy ground",
+    "kicker": "A continuous field",
+    "summary": "Warm space surrounds a compact tree and figure.",
+    "x": 50,
+    "y": 45,
+    "bounds": {
+     "x": 0,
+     "y": 10,
+     "w": 100,
+     "h": 70
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A continuous field",
+      "body": "Pale sand tones extend from behind the tree down through the review area. There is no strong skyline dividing land and sky. Subtle colour changes and texture keep the field from being completely flat, while its openness allows several separate messages to occupy the same sheet.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Quiet is a visual reading",
+      "body": "The open ground may feel calm, but that impression belongs to the design’s spacing and colour. It cannot establish peaceful conditions within the story. The contrast between a quiet-looking image and the film’s documented conflict is a reason to separate appearance from narrative context.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does the ground change colour without forming a clear horizon?",
+    "related": [
+     "tree",
+     "reviews"
+    ],
+    "number": 1
+   },
+   {
+    "id": "tree",
+    "label": "A canopy wider than the person",
+    "shortLabel": "A canopy wider than the person",
+    "kicker": "A broad living shape",
+    "summary": "A green mass dominates the pictorial scene.",
+    "x": 48.5,
+    "y": 29,
+    "bounds": {
+     "x": 21,
+     "y": 18,
+     "w": 55,
+     "h": 22
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A broad living shape",
+      "body": "The tree spreads sideways in a rounded but uneven canopy. Some branches and gaps are visible within the green mass, while the outer edge breaks into many small projections. Its width is much greater than the nearby figure’s height, establishing the scale of the scene.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "One image inside another",
+      "body": "The tree and person form a compact scene within the larger poster. Their relationship can be read before the reviews or credits, but their small overall size leaves the campaign’s words considerable space. The design balances a pictorial encounter with a substantial amount of promotional information.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which edges make the canopy feel irregular rather than circular?",
+    "related": [
+     "trunk",
+     "figure"
+    ],
+    "number": 2
+   },
+   {
+    "id": "trunk",
+    "label": "Branches under the canopy",
+    "shortLabel": "Branches under the canopy",
+    "kicker": "Support within a dense shape",
+    "summary": "A darker structure becomes visible beneath the leaves.",
+    "x": 50,
+    "y": 35,
+    "bounds": {
+     "x": 42,
+     "y": 30,
+     "w": 16,
+     "h": 10
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Support within a dense shape",
+      "body": "Several dark branching lines are visible below the canopy, converging toward the tree’s base. They are much finer than the broad green mass above. These lines keep the tree from reading as a floating cloud and connect its textured foliage with the sandy ground.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A close-looking reward",
+      "body": "At a small scale the tree is a single shape. Looking closer reveals its internal structure and the gaps that allow sand tones to show through. The shift from mass to branches demonstrates how a seemingly spare poster can contain a second level of visual information.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which branch lines lead from the canopy toward the ground?",
+    "related": [
+     "tree",
+     "shadow"
+    ],
+    "number": 3
+   },
+   {
+    "id": "figure",
+    "label": "The small standing person",
+    "shortLabel": "The small standing person",
+    "kicker": "A narrow dark accent",
+    "summary": "A dark upright stands beside the tree.",
+    "x": 65.5,
+    "y": 39.5,
+    "bounds": {
+     "x": 62,
+     "y": 35,
+     "w": 7,
+     "h": 9
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A narrow dark accent",
+      "body": "The figure stands to the right of the trunk, beneath the outer part of the canopy. A dark garment makes a compact upright against pale sand, with a warmer small area near the head and feet. The person’s scale makes the tree feel much larger.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Keep the figure’s identity open",
+      "body": "Cohen Media’s synopsis describes Kidane and his family near Timbuktu under militant rule, but this small poster image does not securely identify the pictured person. The study therefore discusses scale and placement without assigning a character name, personal history or a specific action unsupported by the reproduction.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cohen"
+       }
+      ]
+     }
+    ],
+    "question": "What can you infer from scale and posture without identifying the person?",
+    "related": [
+     "tree",
+     "shadow"
+    ],
+    "number": 4
+   },
+   {
+    "id": "shadow",
+    "label": "A low spread of darker ground",
+    "shortLabel": "A low spread of darker ground",
+    "kicker": "A soft horizontal anchor",
+    "summary": "Fine shadows and texture tie tree to sand.",
+    "x": 49.5,
+    "y": 40,
+    "bounds": {
+     "x": 17,
+     "y": 36,
+     "w": 65,
+     "h": 8
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A soft horizontal anchor",
+      "body": "Darker marks spread outward beneath the tree and fade into the sand. Their irregular edges differ from the crisp title below. This low horizontal area gives the scene contact with the ground and prevents the canopy and person from appearing entirely detached from their setting.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Soft edges matter",
+      "body": "A clean rectangular crop around the tree would remove some of this connection. At the same time, treating every grain of nearby sand as part of the tree would make the layer unnecessarily broad. The exploded study is an analytical boundary around visibly connected detail, not an original artwork file.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where is the darkest ground in relation to the trunk and figure?",
+    "related": [
+     "trunk",
+     "sand"
+    ],
+    "number": 5
+   },
+   {
+    "id": "reviews",
+    "label": "Three islands of praise",
+    "shortLabel": "Three islands of praise",
+    "kicker": "A repeated editorial unit",
+    "summary": "White reviews descend through the open field.",
+    "x": 50,
+    "y": 59.5,
+    "bounds": {
+     "x": 24,
+     "y": 48,
+     "w": 52,
+     "h": 23
+    },
+    "layerIndex": 4,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A repeated editorial unit",
+      "body": "Each review uses a larger white quotation followed by a smaller attribution. The groups are centred and separated by generous gaps. The last quotation occupies more lines than the first two, creating a slight change in rhythm before the row of festival marks begins.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A response selected for promotion",
+      "body": "These quotations tell us how the distributor chose to frame the film’s reception. They are not direct evidence about what is visible in the tree image. Covering them is a useful experiment: the scene remains, but some of the campaign’s guidance about how to value it disappears.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which review grouping takes the most vertical space?",
+    "related": [
+     "laurels",
+     "award"
+    ],
+    "number": 6
+   },
+   {
+    "id": "award",
+    "label": "The black award banner",
+    "shortLabel": "The black award banner",
+    "kicker": "The heaviest rectangle",
+    "summary": "A dark rectangle carries gold capitals at the top.",
+    "x": 50,
+    "y": 6,
+    "bounds": {
+     "x": 3,
+     "y": 2,
+     "w": 94,
+     "h": 8
+    },
+    "layerIndex": 5,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "The heaviest rectangle",
+      "body": "The award announcement uses a solid dark strip with warm pale lettering. It is much more geometrically regular than the tree and sharply separated from the sand. Its near-full width makes it an immediate entry point even though the title is much farther down.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Nomination, not victory",
+      "body": "Cohen Media identifies the film as a 2015 Academy Award nominee in the then-named Best Foreign Language Film category. The poster says nominee, not winner. Preserving both that distinction and the historical category wording is more accurate than shortening it to an unspecified Oscar-winning claim.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cohen"
+       }
+      ]
+     }
+    ],
+    "question": "How does this top block compete with the quieter scene below?",
+    "related": [
+     "laurels",
+     "title"
+    ],
+    "number": 7
+   },
+   {
+    "id": "laurels",
+    "label": "A chain of festival marks",
+    "shortLabel": "A chain of festival marks",
+    "kicker": "A narrow repeated band",
+    "summary": "Small wreaths form a horizontal bridge to the title.",
+    "x": 50,
+    "y": 77,
+    "bounds": {
+     "x": 7,
+     "y": 74,
+     "w": 86,
+     "h": 6
+    },
+    "layerIndex": 4,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A narrow repeated band",
+      "body": "Several small laurel clusters run above the large title. Their similar size makes them read first as a patterned band, while the words inside require closer inspection. The repeated marks connect the centred reviews to the much wider title below.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Read the inside, not just the wreath",
+      "body": "The band contains different kinds of recognition, including selections and a winner label. A wreath alone does not tell you which kind. At this source size some small words are difficult to resolve, so the study does not invent a full list of awards from the repeated outline.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Can you separate an official selection from a prize in these small marks?",
+    "related": [
+     "award",
+     "reviews"
+    ],
+    "number": 8
+   },
+   {
+    "id": "title",
+    "label": "A wide, green place-name",
+    "shortLabel": "A wide, green place-name",
+    "kicker": "Letters with room between them",
+    "summary": "Spaced serif capitals give the lower page a foundation.",
+    "x": 50,
+    "y": 84,
+    "bounds": {
+     "x": 6,
+     "y": 80,
+     "w": 88,
+     "h": 8
+    },
+    "layerIndex": 3,
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Letters with room between them",
+      "body": "TIMBUKTU spans almost the full width in dark green serif capitals. The spacing between letters makes the word broad without making every stroke heavy. Its colour connects it to the tree, while its regular baseline contrasts with the irregular canopy above.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A place and a film setting",
+      "body": "The distributor’s synopsis locates the story near Timbuktu and describes life under armed religious fundamentalists who restrict ordinary activities. That narrative context is more specific than the tranquil-looking poster scene. It should not be generalized into a description of all people or cultures associated with the city.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cohen"
+       }
+      ]
+     }
+    ],
+    "question": "How does the title’s green relate to the tree’s green?",
+    "related": [
+     "tree",
+     "director"
+    ],
+    "number": 9
+   },
+   {
+    "id": "director",
+    "label": "The director and production base",
+    "shortLabel": "The director and production base",
+    "kicker": "A hierarchy at the bottom",
+    "summary": "A named filmmaker sits above a compact credit block.",
+    "x": 50,
+    "y": 92.5,
+    "bounds": {
+     "x": 7,
+     "y": 87,
+     "w": 86,
+     "h": 11
+    },
+    "layerIndex": 4,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A hierarchy at the bottom",
+      "body": "A small director line sits directly under the large title. Below it, fine production text and logos fill a shallow block. Their small scale preserves the dominance of title and image, but the compressed letters cannot all be read reliably in the installed reproduction.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A film and its US campaign",
+      "body": "Cohen Media records the film as completed in 2014 and gives a US theatrical opening in January 2015. The award-nominee artwork belongs to that release context. The two years describe different events, and neither should silently replace the other in a catalogue label.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cohen"
+       }
+      ]
+     }
+    ],
+    "question": "Which information remains readable when you reduce the poster to a thumbnail?",
+    "related": [
+     "title",
+     "award"
+    ],
+    "number": 10
+   }
+  ],
+  "sources": [
+   {
+    "id": "cohen",
+    "title": "Cohen Media: Timbuktu",
+    "url": "https://cohenmedia.net/product/timbuktu",
+    "kind": "Distributor",
+    "summary": "Supplies selected campaign art; verifies Sissako, 2014 completion, January 2015 US release, nomination and synopsis."
+   }
+  ],
+  "tour": [
+   "tree",
+   "figure",
+   "shadow",
+   "reviews",
+   "award",
+   "title"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected readable wording",
+    "rows": [
+     {
+      "text": "TIMBUKTU",
+      "meaning": "Film title and place-name.",
+      "lang": "en"
+     },
+     {
+      "text": "ACADEMY AWARD NOMINEE",
+      "meaning": "The campaign claims a nomination, not a win.",
+      "lang": "en"
+     },
+     {
+      "text": "A FILM BY ABDERRAHMANE SISSAKO",
+      "meaning": "Director credit.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "This is a partial transcript of securely readable wording in the installed reproduction. Small credits, logos and review attributions are not fully transcribed; enlargement cannot restore missing source detail.",
+  "palette": [
+   {
+    "name": "Sand pale",
+    "hex": "#EBC191",
+    "role": "The open ground around image and text.",
+    "region": "sand"
+   },
+   {
+    "name": "Canopy green",
+    "hex": "#7D803B",
+    "role": "The largest pictorial mass.",
+    "region": "tree"
+   },
+   {
+    "name": "Figure dark",
+    "hex": "#151712",
+    "role": "A narrow human scale cue.",
+    "region": "figure"
+   },
+   {
+    "name": "Banner dark",
+    "hex": "#040507",
+    "role": "A strong top boundary.",
+    "region": "award"
+   }
+  ],
+  "paletteNote": "These are individual screen-pixel samples from the installed digital reproduction, not specifications for the original inks or paper. Texture, lighting, scanning and screen settings affect their appearance.",
+  "connections": [
+   {
+    "label": "Human scale",
+    "title": "A small figure beneath a wide canopy",
+    "text": "The tiny dark figure makes the tree appear expansive and the surrounding sandy field feel open.",
+    "anchors": [
+     [
+      2,
+      0.6508438818565401,
+      0.39810771470160117
+     ],
+     [
+      1,
+      0.49050632911392406,
+      0.3005822416302766
+     ]
+    ],
+    "id": "timbuktu-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Horizontal calm",
+    "title": "Canopy and title share a wide span",
+    "text": "The wide tree above and the widely spaced title below repeat a quiet horizontal structure.",
+    "anchors": [
+     [
+      1,
+      0.4293248945147679,
+      0.3005822416302766
+     ],
+     [
+      3,
+      0.5073839662447257,
+      0.8347889374090247
+     ]
+    ],
+    "id": "timbuktu-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

@@ -1,0 +1,612 @@
+{
+ "poster": {
+  "id": "book-the-stone-virgins",
+  "title": "The Stone Virgins",
+  "year": "2002",
+  "yearNumber": 2002,
+  "coverYear": "2002",
+  "posterYear": "2002",
+  "posterDateStatus": "2002 edition by ISBN; current publisher-supplied cover image. Its printing and independent artwork date are not established.",
+  "bookFirstPublication": "2002",
+  "bookAuthor": "Yvonne Vera",
+  "bookPublisher": "Weaver Press",
+  "bookOrigin": "English-language novel by Yvonne Vera",
+  "category": "Book cover",
+  "country": "Zimbabwe",
+  "countries": [
+   "Zimbabwe"
+  ],
+  "primaryOrigin": "Zimbabwe",
+  "region": "Africa",
+  "creator": "Cover designer and image maker not independently established",
+  "image": "images/full/book-the-stone-virgins.jpg",
+  "ratio": 0.6690017513134852,
+  "alt": "Dark textured cover with a warm sculptural hand beside a vivid pink flower, pale right edge, white and yellow title and yellow author name.",
+  "blurb": "A rough hand and a brilliant flower meet on a surface that stays almost black.",
+  "notes": [
+   {
+    "title": "Texture changes the encounter",
+    "body": "The long fingers and flower petals have different edges and surfaces. Their proximity can suggest an encounter, but the picture does not establish a particular narrative action."
+   },
+   {
+    "title": "A small luminous centre",
+    "body": "The flower’s yellow centre concentrates detail inside broad pink petals. The yellow returns in the author name near the bottom."
+   },
+   {
+    "title": "The record describes an edition",
+    "body": "The university catalogue identifies the Weaver 2002 edition. The publisher’s current product image does not independently date the artwork or identify its maker."
+   }
+  ],
+  "source": "https://weaverpresszimbabwe.com/store/literature/novels/the-stone-virgins-detail",
+  "credit": "Weaver Press supplies the current image for ISBN 1779220022. Catholic University of Zimbabwe records the Harare edition as 2002. Exact printing and separate cover-design date remain unestablished.",
+  "edition": "2002 edition by ISBN; current publisher-supplied cover image. Its printing and independent artwork date are not established.",
+  "originNote": "Country describes this edition’s publishing/design context, not the author’s nationality. Zimbabwean Weaver Press edition, Harare; local publication does not establish local artwork authorship.",
+  "originSources": [
+   {
+    "title": "Weaver Press: The Stone Virgins, ISBN 1779220022",
+    "url": "https://weaverpresszimbabwe.com/store/literature/novels/the-stone-virgins-detail"
+   },
+   {
+    "title": "Catholic University of Zimbabwe: Weaver 2002 edition",
+    "url": "https://libsys.cuz.ac.zw/cgi-bin/koha/opac-detail.pl?biblionumber=5437"
+   }
+  ],
+  "creditSources": [
+   {
+    "title": "Weaver Press: The Stone Virgins, ISBN 1779220022",
+    "url": "https://weaverpresszimbabwe.com/store/literature/novels/the-stone-virgins-detail"
+   },
+   {
+    "title": "Catholic University of Zimbabwe: Weaver 2002 edition",
+    "url": "https://libsys.cuz.ac.zw/cgi-bin/koha/opac-detail.pl?biblionumber=5437"
+   }
+  ],
+  "imageSource": "https://weaverpresszimbabwe.com/store/literature/novels/the-stone-virgins-detail",
+  "imageCredit": "Weaver Press supplies the current image for ISBN 1779220022. Catholic University of Zimbabwe records the Harare edition as 2002. Exact printing and separate cover-design date remain unestablished.",
+  "accent": "#F02FAE",
+  "anchor": [
+   0.67,
+   0.58
+  ],
+  "reproduction": "Source reproduction retained without generative reconstruction. Analytical layers partition visible source pixels; printing colours and hidden artwork cannot be recovered.",
+  "downloadURL": "https://weaverpresszimbabwe.com/images/stories/virtuemart/product/The_Stone_Virgin_4ab1fc0ce1c5e.jpg",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-the-stone-virgins.webp"
+ },
+ "studyData": {
+  "intro": "A rough hand and a brilliant flower meet on a surface that stays almost black. Follow the details to compare what is visible, what can be interpreted and what the edition record establishes.",
+  "initial": "flower",
+  "regions": [
+   {
+    "id": "flower",
+    "number": 1,
+    "label": "Bright petals break the dark surface",
+    "shortLabel": "Pink flower",
+    "kicker": "DESIGN",
+    "summary": "A vivid pink flower spreads in from the left side.",
+    "layerIndex": 2,
+    "x": 17,
+    "y": 52,
+    "bounds": {
+     "x": 0,
+     "y": 40,
+     "w": 53,
+     "h": 49
+    },
+    "question": "Would the flower remain the first thing you notice if it were grey?",
+    "related": [
+     "centre",
+     "hand"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Pink flower in the image",
+      "body": "A vivid pink flower spreads in from the left side. Its broad petals have uneven, folded edges and changes from pink to red near the centre. Part of the flower is cropped, while the visible petals overlap the dark textured field.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Soft petals meet rough fingers",
+      "body": "The intense colour can command attention before the title is read. Its soft-looking edges contrast with the long, rough fingers beside it. Compare colour, texture and outline separately to see which difference contributes most strongly to the encounter.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "centre",
+    "number": 2,
+    "label": "A small yellow cluster concentrates detail",
+    "shortLabel": "Flower centre",
+    "kicker": "DESIGN",
+    "summary": "Tiny yellow marks gather around a dark centre within the pink flower.",
+    "layerIndex": 3,
+    "x": 22,
+    "y": 67,
+    "bounds": {
+     "x": 8,
+     "y": 61,
+     "w": 25,
+     "h": 15
+    },
+    "question": "How does the yellow cluster change your sense of the flower’s scale?",
+    "related": [
+     "flower",
+     "hand"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Flower centre in the image",
+      "body": "Tiny yellow marks gather around a dark centre within the pink flower. Their scale is much smaller than the surrounding petals. The concentrated cluster interrupts a broad coloured surface with many small bright points rather than one large highlight.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Yellow connects a small centre to the words",
+      "body": "The centre rewards a closer look after the petals have attracted attention. Its yellow also returns in the title and author lettering, creating a colour relationship between image and words. This is a visible repetition, not a claim about the designer’s intended symbolism.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "hand",
+    "number": 3,
+    "label": "A warm hand meets the flower",
+    "shortLabel": "Sculptural hand",
+    "kicker": "DESIGN",
+    "summary": "A long-fingered, sculptural-looking hand extends diagonally from the right.",
+    "layerIndex": 1,
+    "x": 67,
+    "y": 58,
+    "bounds": {
+     "x": 38,
+     "y": 34,
+     "w": 62,
+     "h": 44
+    },
+    "question": "Which visible contact point most affects your interpretation of the hand and flower?",
+    "related": [
+     "flower",
+     "centre"
+    ],
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Sculptural hand in the image",
+      "body": "A long-fingered, sculptural-looking hand extends diagonally from the right. Warm highlights and dark rough patches describe its surface. The fingertips approach or overlap the flower’s edge, while the wrist continues beyond the image boundary.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Touch, care or tension?",
+      "body": "The proximity can suggest touch, care, interruption or tension. The still image does not establish a specific action or story event. Compare the hand’s apparent weight with the flower’s thin petals before choosing the reading that seems best supported to you.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "context",
+      "heading": "A publisher’s account of the novel",
+      "body": "Weaver describes the novel as addressing the emotional and physical aftermath of warfare. That is documented literary context. Reading the hand and flower as an image of vulnerability or survival is a separate interpretive step, not a documented statement of the cover maker’s intention.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "stone"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "fingers",
+    "number": 4,
+    "label": "Parallel ridges give the hand weight",
+    "shortLabel": "Long fingers",
+    "kicker": "DESIGN",
+    "summary": "Several long fingers descend towards the flower, separated by dark grooves.",
+    "layerIndex": 1,
+    "x": 63,
+    "y": 70,
+    "bounds": {
+     "x": 40,
+     "y": 54,
+     "w": 54,
+     "h": 24
+    },
+    "question": "Which two fingers are easiest to distinguish, and why?",
+    "related": [
+     "flower",
+     "centre"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Long fingers in the image",
+      "body": "Several long fingers descend towards the flower, separated by dark grooves. Highlights run along their upper surfaces and weaken near the tips. The repeated ridges make the hand’s direction clear even where the dark texture blends with the surrounding field.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Repeated fingers remain distinct forms",
+      "body": "Repetition gives the hand a rhythm, but the fingers are not identical columns. Their lengths, bends and lighting differ. Compare one pair closely and see how small differences keep the form from becoming a purely decorative pattern.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "field",
+    "number": 5,
+    "label": "A dark texture carries the scene",
+    "shortLabel": "Dark textured field",
+    "kicker": "DESIGN",
+    "summary": "The background contains mottled dark areas, warm flecks and irregular surface changes.",
+    "layerIndex": 0,
+    "x": 40,
+    "y": 35,
+    "bounds": {
+     "x": 2,
+     "y": 1,
+     "w": 66,
+     "h": 39
+    },
+    "question": "Where does the hand become hardest to distinguish from its surroundings?",
+    "related": [
+     "flower",
+     "centre"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Dark textured field in the image",
+      "body": "The background contains mottled dark areas, warm flecks and irregular surface changes. It is far from a uniform black rectangle, yet remains subdued beside the flower and hand. The title floats over a quieter upper part of this texture.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A shared texture leaves the process unresolved",
+      "body": "The texture can make the whole image feel materially connected, but it does not prove that every element was photographed as one object. Compare where the hand merges with the field and where its highlight clearly separates it. The reproduction leaves the image-making process unresolved.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "pale",
+    "number": 6,
+    "label": "A light edge opens the right side",
+    "shortLabel": "Pale right edge",
+    "kicker": "DESIGN",
+    "summary": "A pale strip appears along the right side, widening near the top and bottom around the darker central forms.",
+    "layerIndex": 6,
+    "x": 88,
+    "y": 16,
+    "bounds": {
+     "x": 70,
+     "y": 0,
+     "w": 30,
+     "h": 37
+    },
+    "question": "What edge becomes easier to see because of this pale strip?",
+    "related": [
+     "flower",
+     "centre"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Pale right edge in the image",
+      "body": "A pale strip appears along the right side, widening near the top and bottom around the darker central forms. Its irregular boundary differs from a straight printed frame. The light area sharpens the outer edge of the hand and dark field.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A light edge balances the pink flower",
+      "body": "This light opening balances the bright flower without matching its colour. It also makes the image feel cropped from a larger scene. The source does not identify the pale material, so describing its contrast is safer than naming it as a particular substance.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "stone",
+    "number": 7,
+    "label": "One title word stands upright",
+    "shortLabel": "STONE lettering",
+    "kicker": "LANGUAGE",
+    "summary": "STONE is set in narrow yellow capitals near the upper-right of the title block.",
+    "layerIndex": 4,
+    "x": 63,
+    "y": 20,
+    "bounds": {
+     "x": 45,
+     "y": 15,
+     "w": 34,
+     "h": 10
+    },
+    "question": "How does the yellow word differ in rhythm from the white word beneath it?",
+    "related": [
+     "flower",
+     "centre"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "STONE lettering in the image",
+      "body": "STONE is set in narrow yellow capitals near the upper-right of the title block. The letters stand upright and close together. They contrast with both the small white The and the larger flowing white word below, creating three distinct levels of wording.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Firm capitals beside flowing script",
+      "body": "The upright yellow word can feel firm beside the curving white script. That contrast relates the title’s parts without illustrating their meanings literally. Compare how the letters behave as shapes before deciding whether they evoke the materials named by the title.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "virgins",
+    "number": 8,
+    "label": "A large white flourish crosses the title",
+    "shortLabel": "Virgins script",
+    "kicker": "LANGUAGE",
+    "summary": "Virgins appears in white with a large looping initial and flowing connected-looking strokes.",
+    "layerIndex": 4,
+    "x": 52.49,
+    "y": 28.28,
+    "bounds": {
+     "x": 17,
+     "y": 18,
+     "w": 65,
+     "h": 15
+    },
+    "question": "Which part of the flourish feels most like a drawn gesture rather than a plain label?",
+    "related": [
+     "flower",
+     "centre"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Virgins script in the image",
+      "body": "Virgins appears in white with a large looping initial and flowing connected-looking strokes. The first flourish reaches left of the yellow word above. The line’s varying thickness makes it more fluid than the narrow upright capitals of STONE.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A flourish echoes a petal’s curve",
+      "body": "The flourish gives the title a gesture of its own, separate from the hand and flower. It also supplies a bright curved shape high on the cover, where the image is otherwise dark. Compare its curve with one petal edge below.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "author",
+    "number": 9,
+    "label": "Yellow returns at the lower edge",
+    "shortLabel": "Author name",
+    "kicker": "LANGUAGE",
+    "summary": "YVONNE VERA stretches across the lower area in narrow yellow capitals.",
+    "layerIndex": 5,
+    "x": 51.43979,
+    "y": 92.55692,
+    "bounds": {
+     "x": 2,
+     "y": 88,
+     "w": 87,
+     "h": 10
+    },
+    "question": "Does the yellow repetition make you move from title to author or in the opposite direction?",
+    "related": [
+     "flower",
+     "centre"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Author name in the image",
+      "body": "YVONNE VERA stretches across the lower area in narrow yellow capitals. It shares a colour with STONE but occupies a much wider line. The name sits directly on the dark image rather than inside a separate band or box.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Yellow links title and author across the picture",
+      "body": "The repeated yellow connects the title and author across the intervening picture. The large flower can interrupt that route at first glance, but a second look reveals a vertical relationship between the two word groups. Compare their spacing and width.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "edition",
+    "number": 10,
+    "label": "A publisher image with a date limit",
+    "shortLabel": "Edition context",
+    "kicker": "DESIGN",
+    "summary": "This reproduction shows a particular arrangement of hand, flower and lettering, but no large edition date.",
+    "layerIndex": 0,
+    "x": 16,
+    "y": 35,
+    "bounds": {
+     "x": 0,
+     "y": 29,
+     "w": 38,
+     "h": 12
+    },
+    "question": "Which part of this edition’s history remains unknown despite having an ISBN and publisher image?",
+    "related": [
+     "flower",
+     "centre"
+    ],
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Edition context in the image",
+      "body": "This reproduction shows a particular arrangement of hand, flower and lettering, but no large edition date. The physical-looking textures do not establish the artwork’s age. The date used in the collection must therefore be read with its source qualification.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A 2002 edition with an unestablished design date",
+      "body": "The Catholic University of Zimbabwe records Weaver Press’s Harare edition as 2002, ISBN 1779220022. Weaver’s current product page supplies this cover image for that ISBN. The exact printing and separate cover-design date remain unestablished, and the checked records do not credit the image maker.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "stonelib"
+       },
+       {
+        "id": "stone"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "visual",
+    "title": "Exact reproduced cover: The Stone Virgins",
+    "url": "https://weaverpresszimbabwe.com/store/literature/novels/the-stone-virgins-detail",
+    "kind": "Visual source",
+    "summary": "Weaver Press supplies the current image for ISBN 1779220022. Catholic University of Zimbabwe records the Harare edition as 2002. Exact printing and separate cover-design date remain unestablished."
+   },
+   {
+    "id": "stonelib",
+    "title": "Catholic University of Zimbabwe: Weaver 2002 edition",
+    "url": "https://libsys.cuz.ac.zw/cgi-bin/koha/opac-detail.pl?biblionumber=5437",
+    "kind": "University library record",
+    "summary": "The Catholic University of Zimbabwe records Weaver Press’s Harare edition as 2002, ISBN 1779220022. Weaver’s current product page supplies this cover image for that ISBN. The exact printing and separate cover-design date remain unestablished, and the checked records do not credit the image maker."
+   },
+   {
+    "id": "stone",
+    "title": "Weaver Press: The Stone Virgins, ISBN 1779220022",
+    "url": "https://weaverpresszimbabwe.com/store/literature/novels/the-stone-virgins-detail",
+    "kind": "Publisher edition record",
+    "summary": "Weaver Press: The Stone Virgins, ISBN 1779220022. Supports the specific history distinguished in the edition note."
+   }
+  ],
+  "tour": [
+   "flower",
+   "centre",
+   "hand",
+   "fingers",
+   "virgins",
+   "edition"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected legible cover wording",
+    "rows": [
+     {
+      "text": "The STONE Virgins",
+      "meaning": "Book title",
+      "lang": "en"
+     },
+     {
+      "text": "YVONNE VERA",
+      "meaning": "Author’s name",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected wording only. Line breaks and typographic case may be regularized. Fine print and endorsement prose are omitted where not needed for this reading. English meanings are editorial translations, not a claim of native-language reader testing.",
+  "palette": [
+   {
+    "name": "Petal pink",
+    "hex": "#F02FAE",
+    "role": "A screen sample from pink flower. Compare this local colour with its surrounding shapes.",
+    "region": "flower"
+   },
+   {
+    "name": "Hand highlight brown",
+    "hex": "#A46F50",
+    "role": "A screen sample from sculptural hand. Compare this local colour with its surrounding shapes.",
+    "region": "hand"
+   },
+   {
+    "name": "Dark field",
+    "hex": "#171516",
+    "role": "A screen sample from dark textured field. Compare this local colour with its surrounding shapes.",
+    "region": "field"
+   },
+   {
+    "name": "Letter yellow",
+    "hex": "#EBDA42",
+    "role": "A screen sample from author name. Compare this local colour with its surrounding shapes.",
+    "region": "author"
+   }
+  ],
+  "paletteNote": "Samples are exact pixels from the installed reproduction, chosen within the named feature for perceptual agreement. They describe this screen image, not original ink specifications, paper stock or universal colour meanings.",
+  "connections": [
+   {
+    "title": "Rough fingers beside soft petals",
+    "anchors": [
+     [
+      1,
+      0.668848167539267,
+      0.5805604203152365
+     ],
+     [
+      2,
+      0.168848167539267,
+      0.5192644483362522
+     ]
+    ],
+    "id": "book-the-stone-virgins-connection-0",
+    "colour": "#be3d74",
+    "label": "Hand / flower",
+    "text": "Long rough fingers approach broad bright petals; their contrasting edges and surfaces create the central visual encounter."
+   },
+   {
+    "title": "Yellow links image and name",
+    "anchors": [
+     [
+      3,
+      0.2212041884816754,
+      0.669877408056042
+     ],
+     [
+      5,
+      0.5143979057591623,
+      0.925569176882662
+     ]
+    ],
+    "id": "book-the-stone-virgins-connection-1",
+    "colour": "#496f80",
+    "label": "Centre / name",
+    "text": "The flower's tiny yellow centre and the wide yellow author line repeat a warm accent at two very different scales."
+   }
+  ]
+ }
+}

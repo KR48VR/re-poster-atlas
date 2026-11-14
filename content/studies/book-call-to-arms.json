@@ -1,0 +1,614 @@
+{
+ "poster": {
+  "id": "book-call-to-arms",
+  "title": "Call to Arms",
+  "year": "1926",
+  "yearNumber": 1926,
+  "coverYear": "1926",
+  "bookFirstPublication": "1923",
+  "bookAuthor": "Lu Xun",
+  "bookPublisher": "Not independently established",
+  "bookOrigin": "Chinese-language story collection by Lu Xun, originally published in 1923; the selected museum object is catalogued 1926.",
+  "creator": "Lu Xun",
+  "country": "China",
+  "countries": [
+   "China"
+  ],
+  "primaryOrigin": "China",
+  "region": "East Asia",
+  "category": "Book cover",
+  "image": "images/full/book-call-to-arms.png",
+  "ratio": 0.6802610114192496,
+  "alt": "A large red cover surrounds a small black label with red Chinese title and author characters, a fine inset frame and short wavy divider.",
+  "blurb": "A compact label carries almost all the information in a large red field.",
+  "notes": [
+   {
+    "title": "The displayed edition",
+    "body": "The exact object is catalogued 1926 by NAMOC and Beijing Lu Xun Museum. The particular impression is unspecified. The collection first appeared in 1923; this image is not labelled a 1923 first-edition cover."
+   },
+   {
+    "title": "Writing and image-making",
+    "body": "The museum caption identifies Lu Xun as both author and cover designer. The object belongs to Beijing Lu Xun Museum; early title-lettering changes are documented separately by China Publishing Museum."
+   },
+   {
+    "title": "A visible design relationship",
+    "body": "The title is read right to left on this object. A thin red rectangle repeats the label’s outer boundary inside the black field."
+   }
+  ],
+  "source": "https://www.namoc.cn/namoc/zhanlan/202609/2a66ea9d1f6e4f9d88da55875e6f4468.shtml",
+  "credit": "The museum caption identifies Lu Xun as both author and cover designer. The object belongs to Beijing Lu Xun Museum; early title-lettering changes are documented separately by China Publishing Museum.",
+  "reproduction": "A native 1251 × 1839 museum photograph, retaining paper and binding edges, scanned skew and small worn marks.",
+  "anchor": [
+   0.53,
+   0.31
+  ],
+  "accent": "#a44346",
+  "edition": "The exact object is catalogued 1926 by NAMOC and Beijing Lu Xun Museum. The particular impression is unspecified. The collection first appeared in 1923; this image is not labelled a 1923 first-edition cover.",
+  "imageSource": "https://www.namoc.cn/namoc/zhanlan/202609/2a66ea9d1f6e4f9d88da55875e6f4468.shtml",
+  "imageCredit": "The museum caption identifies Lu Xun as both author and cover designer. The object belongs to Beijing Lu Xun Museum; early title-lettering changes are documented separately by China Publishing Museum.",
+  "coverPublisher": "Not independently established",
+  "posterYear": "1926",
+  "posterTerritory": "China",
+  "posterDateStatus": "The displayed edition or catalogued object date; the original work date is recorded separately.",
+  "originNote": "Country and region describe the displayed edition’s publishing context. The author and work context are recorded separately.",
+  "originSources": [
+   {
+    "title": "Displayed edition record",
+    "url": "https://www.namoc.cn/namoc/zhanlan/202609/2a66ea9d1f6e4f9d88da55875e6f4468.shtml"
+   }
+  ],
+  "creditSources": [
+   {
+    "title": "China Publishing Museum: early editions",
+    "url": "https://www.publishingmuseum.net/historical_story/25.html"
+   }
+  ],
+  "downloadURL": "https://www.namoc.cn/namoc/zhanlan/202609/2a66ea9d1f6e4f9d88da55875e6f4468/images/12.%20%E3%80%8A%E5%91%90%E5%96%8A%E3%80%8B%E9%B2%81%E8%BF%85%E8%91%97%E5%B9%B6%E8%AE%BE%E8%AE%A1%E5%B0%81%E9%9D%A2%20%E4%B9%A6%E7%B1%8D%2020.2X14.3cm%20%201926%E5%B9%B4%20%E5%8C%97%E4%BA%AC%E9%B2%81%E8%BF%85%E5%8D%9A%E7%89%A9%E9%A6%86%E8%97%8F.png",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-call-to-arms.webp"
+ },
+ "studyData": {
+  "intro": "A small dark label concentrates the information within a broad red cover. The museum dates this object to 1926; the collection’s original 1923 publication and early lettering changes are explained separately.",
+  "initial": "title",
+  "regions": [
+   {
+    "id": "title",
+    "number": 1,
+    "label": "Two characters carry the title",
+    "shortLabel": "Title characters",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Two red title characters sit near the top of the small black label.",
+    "layerIndex": 2,
+    "x": 56.95444,
+    "y": 30.20663,
+    "bounds": {
+     "x": 42,
+     "y": 28,
+     "w": 21,
+     "h": 6
+    },
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Two red title characters sit near the top of the small black label. On this object they are read from the right-hand character to the left.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "Reversing red out of the black field connects the writing to the much larger red surround. The same colour acts as both background and readable mark.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "language",
+      "heading": "Read the title from the right",
+      "body": "The title is read 吶喊, Nàhǎn, from the right-hand character to the left on this object. Call to Arms is a familiar English title for the collection; it is not a letter-for-letter translation of the visible characters.",
+      "evidence": "observation",
+      "sources": [],
+      "originalText": "吶喊",
+      "lang": "zh-Hant",
+      "translation": "Nàhǎn; a cry or shout / Call to Arms"
+     }
+    ],
+    "question": "How does red change its role when it moves inside the black rectangle?",
+    "related": [
+     "author",
+     "inset"
+    ]
+   },
+   {
+    "id": "author",
+    "number": 2,
+    "label": "A smaller name below the title",
+    "shortLabel": "Lu Xun’s name",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "The author characters sit beneath the wavy divider in a smaller red line.",
+    "layerIndex": 3,
+    "x": 55.83533,
+    "y": 37.60196,
+    "bounds": {
+     "x": 44,
+     "y": 35,
+     "w": 17,
+     "h": 5
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "The author characters sit beneath the wavy divider in a smaller red line. They use the same colour contrast as the title but occupy less area.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The change of scale distinguishes author from work while keeping both in one compact label. The divider makes the distinction legible without introducing a new colour.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "context",
+      "heading": "The writer also designs the cover",
+      "body": "The museum caption names Lu Xun as both writer and cover designer. China Publishing Museum records the collection’s 1923 first publication and explains that the initial typeset title changed in an early later edition. That history does not identify this 1926 copy as the first printing.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "object"
+       },
+       {
+        "id": "publishing"
+       }
+      ]
+     }
+    ],
+    "question": "Which cues separate title and author when their colours are the same?",
+    "related": [
+     "black-field",
+     "wave"
+    ]
+   },
+   {
+    "id": "black-field",
+    "number": 3,
+    "label": "A concentrated dark rectangle",
+    "shortLabel": "Black label",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "A small black rectangle occupies the upper middle of the red cover.",
+    "layerIndex": 1,
+    "x": 36.49081,
+    "y": 37.00381,
+    "bounds": {
+     "x": 32,
+     "y": 25,
+     "w": 41,
+     "h": 19
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "A small black rectangle occupies the upper middle of the red cover. Its surface contains the title, author, inset border and small decorative lines.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "Concentrating almost all detail in one small area makes the larger red field more forceful. The label can draw attention through contrast rather than sheer size.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Why can a relatively small dark area dominate such a large red surface?",
+    "related": [
+     "inset",
+     "underline"
+    ]
+   },
+   {
+    "id": "inset",
+    "number": 4,
+    "label": "A second frame inside the first",
+    "shortLabel": "Inset frame",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "A thin red rectangular rule sits inside the dark label.",
+    "layerIndex": 4,
+    "x": 69.26459,
+    "y": 34.99184,
+    "bounds": {
+     "x": 34,
+     "y": 27,
+     "w": 37,
+     "h": 16
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "A thin red rectangular rule sits inside the dark label. It leaves a narrow black margin between itself and the label’s outer boundary.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "Repeating the rectangular enclosure gives the small label internal order. The slight inset also separates the lettering from the edge without adding much visual weight.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What does the narrow black margin contribute to the label’s clarity?",
+    "related": [
+     "wave",
+     "red-space"
+    ]
+   },
+   {
+    "id": "wave",
+    "number": 5,
+    "label": "A wave between two names",
+    "shortLabel": "Wavy divider",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "A short red undulating line crosses the label between the title and author.",
+    "layerIndex": 4,
+    "x": 51.03917,
+    "y": 33.79554,
+    "bounds": {
+     "x": 39,
+     "y": 32,
+     "w": 27,
+     "h": 4
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "A short red undulating line crosses the label between the title and author. It contrasts with the straight inset frame.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The small curve introduces a different rhythm into an otherwise rectilinear structure. It can act as a pause in reading without becoming a separate illustration.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would a straight divider produce the same pause?",
+    "related": [
+     "underline",
+     "placement"
+    ]
+   },
+   {
+    "id": "underline",
+    "number": 6,
+    "label": "A short line closes the label",
+    "shortLabel": "Short underline",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "A short red horizontal line sits below the author characters.",
+    "layerIndex": 4,
+    "x": 53.03757,
+    "y": 39.50517,
+    "bounds": {
+     "x": 43,
+     "y": 39,
+     "w": 20,
+     "h": 3
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "A short red horizontal line sits below the author characters. It is narrower than the surrounding frame and simpler than the wave above.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "This small mark gives the internal stack a visual ending. It helps the label feel composed as a unit rather than as unrelated text floating on black.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does this short final line affect the balance of the label?",
+    "related": [
+     "red-space",
+     "letters"
+    ]
+   },
+   {
+    "id": "red-space",
+    "number": 7,
+    "label": "Most of the cover stays open",
+    "shortLabel": "Open red field",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "A broad expanse of muted red paper extends below the label.",
+    "layerIndex": 0,
+    "x": 51.9984,
+    "y": 62.99619,
+    "bounds": {
+     "x": 15,
+     "y": 49,
+     "w": 72,
+     "h": 37
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "A broad expanse of muted red paper extends below the label. The photographed surface contains subtle wear and tonal variation.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The large unprinted area makes the concentrated label feel deliberate. The design asks one strong relationship to do the work of many separate illustrations.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What happens to the label’s force if this lower field is filled with more writing?",
+    "related": [
+     "placement",
+     "binding"
+    ]
+   },
+   {
+    "id": "placement",
+    "number": 8,
+    "label": "A label above the centre",
+    "shortLabel": "Label placement",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "The label lies above the cover’s vertical midpoint.",
+    "layerIndex": 1,
+    "x": 33.69305,
+    "y": 26.01958,
+    "bounds": {
+     "x": 30,
+     "y": 23,
+     "w": 46,
+     "h": 23
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "The label lies above the cover’s vertical midpoint. More red space remains beneath it than above it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The raised placement changes the balance of an otherwise simple composition. It can make the lower field feel like a long pause after the title is read.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would a perfectly centred label feel as spacious?",
+    "related": [
+     "letters",
+     "title"
+    ]
+   },
+   {
+    "id": "letters",
+    "number": 9,
+    "label": "Uneven strokes within a strict frame",
+    "shortLabel": "Letter shapes",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "The title strokes vary in thickness and direction inside the straight rectangle.",
+    "layerIndex": 2,
+    "x": 45.84333,
+    "y": 30.47852,
+    "bounds": {
+     "x": 43,
+     "y": 28,
+     "w": 19,
+     "h": 5
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "The title strokes vary in thickness and direction inside the straight rectangle. Small turns and tapered ends remain visible in the enlarged reproduction.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The contrast between writing and enclosure prevents the label from becoming purely geometric. The strokes invite reading as formed marks as well as language.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which letter strokes most clearly resist the rigid geometry around them?",
+    "related": [
+     "binding",
+     "author"
+    ]
+   },
+   {
+    "id": "binding",
+    "number": 10,
+    "label": "The image preserves an actual object",
+    "shortLabel": "Binding edge",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "A narrow pale edge and uneven boundary remain along the photographed cover.",
+    "layerIndex": 0,
+    "x": 1.47882,
+    "y": 57.01468,
+    "bounds": {
+     "x": 0,
+     "y": 2,
+     "w": 8,
+     "h": 95
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "A narrow pale edge and uneven boundary remain along the photographed cover. The red surface does not form a perfectly flat digital rectangle.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "These physical details distinguish a museum object from a recreated graphic. They also caution against treating slight skew as an intentional typographic effect.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "business",
+      "heading": "An object dated 1926",
+      "body": "NAMOC’s exhibition caption dates the reproduced book to 1926 and identifies Beijing Lu Xun Museum as the holding collection. The particular impression is not established here. The displayed date therefore belongs to the catalogued object, while 1923 remains the original work date.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "object"
+       }
+      ]
+     }
+    ],
+    "question": "Which small irregularities tell you that this is a photograph of a book?",
+    "related": [
+     "title",
+     "black-field"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "object",
+    "title": "Call to Arms: the displayed reproduction",
+    "url": "https://www.namoc.cn/namoc/zhanlan/202609/2a66ea9d1f6e4f9d88da55875e6f4468.shtml",
+    "kind": "Museum object caption",
+    "summary": "The exact object is catalogued 1926 by NAMOC and Beijing Lu Xun Museum. The particular impression is unspecified. The collection first appeared in 1923; this image is not labelled a 1923 first-edition cover. A native 1251 × 1839 museum photograph, retaining paper and binding edges, scanned skew and small worn marks."
+   },
+   {
+    "id": "publishing",
+    "title": "China Publishing Museum: writers and book design",
+    "url": "https://www.publishingmuseum.net/historical_story/25.html",
+    "kind": "Museum essay",
+    "summary": "Dates the collection’s first publication to 1923 and distinguishes its initial typeset title from later Lu Xun lettering."
+   }
+  ],
+  "tour": [
+   "title",
+   "black-field",
+   "inset",
+   "wave",
+   "red-space",
+   "author",
+   "binding"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "吶喊",
+      "meaning": "Nàhǎn: a cry or shout; this collection is commonly called Call to Arms in English.",
+      "lang": "zh-Hant"
+     },
+     {
+      "text": "魯迅",
+      "meaning": "Lu Xun, the author’s name.",
+      "lang": "zh-Hant"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected clearly legible title and credit wording is transcribed from the displayed reproduction. Line breaks are simplified; this is not a transcription of every small mark or an identification of the typefaces.",
+  "palette": [
+   {
+    "name": "Red paper",
+    "hex": "#AF4B50",
+    "role": "The extensive red field below the label.",
+    "region": "red-space"
+   },
+   {
+    "name": "Label black",
+    "hex": "#303637",
+    "role": "The concentrated dark label.",
+    "region": "black-field"
+   },
+   {
+    "name": "Inset red",
+    "hex": "#A1615D",
+    "role": "Red reappears as a fine internal rule.",
+    "region": "inset"
+   },
+   {
+    "name": "Pale edge",
+    "hex": "#C8BFA8",
+    "role": "The photographed binding edge.",
+    "region": "binding"
+   }
+  ],
+  "paletteNote": "Screen colours are sampled from this exact reproduction. Age, lighting and reproduction affect the result; these are not original printing specifications.",
+  "connections": [
+   {
+    "label": "A quiet surround",
+    "title": "A small label in red",
+    "text": "The label occupies little area while carrying almost all the cover’s information.",
+    "anchors": [
+     [
+      2,
+      0.5543565147881695,
+      0.29989124524197935
+     ],
+     [
+      0,
+      0.5,
+      0.6500815660685155
+     ]
+    ],
+    "id": "book-call-to-arms-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Repeated enclosure",
+    "title": "A frame inside a label",
+    "text": "The thin red inset rule repeats the dark rectangle’s outer shape.",
+    "anchors": [
+     [
+      4,
+      0.6902478017585931,
+      0.3401305057096248
+     ],
+     [
+      1,
+      0.7102318145483613,
+      0.3401305057096248
+     ]
+    ],
+    "id": "book-call-to-arms-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

@@ -1,0 +1,607 @@
+{
+ "poster": {
+  "id": "book-rayuela",
+  "title": "Rayuela",
+  "year": "1963",
+  "yearNumber": 1963,
+  "coverYear": "1963",
+  "posterYear": "1963",
+  "posterDateStatus": "1963 cover reproduction; visible wear belongs to the photographed copy, not a demonstrated original design intention.",
+  "bookFirstPublication": "1963",
+  "bookAuthor": "Julio Cortázar",
+  "bookPublisher": "Editorial Sudamericana",
+  "bookOrigin": "Spanish-language novel by Julio Cortázar",
+  "category": "Book cover",
+  "country": "Argentina",
+  "countries": [
+   "Argentina"
+  ],
+  "primaryOrigin": "Argentina",
+  "region": "Latin America & Caribbean",
+  "creator": "Cover associated with Julio Cortázar and Julio Silva; see correspondence",
+  "image": "images/full/book-rayuela.png",
+  "ratio": 0.7266009852216748,
+  "alt": "Worn dark cover with a pale hopscotch diagram, blue Julio Cortázar lettering and rough yellow RAYUELA across the centre.",
+  "blurb": "A game diagram becomes a path through the title and down to the publisher.",
+  "notes": [
+   {
+    "title": "A diagram interrupts reading",
+    "body": "The hopscotch outline runs above, below and around the title. Numbers create another reading route alongside the author’s name and book title."
+   },
+   {
+    "title": "Three different kinds of mark",
+    "body": "Pale diagram lines, blue small lettering and yellow title letters retain distinct roles against the dark surface."
+   },
+   {
+    "title": "A used object in the reproduction",
+    "body": "Scuffed edges and uneven tones are visible on this copy. They should not automatically be attributed to the original cover design."
+   }
+  ],
+  "source": "https://ep00.epimg.net/descargables/2013/06/28/2783ac7deb8601250cdb495da52e0dfd.pdf#page=32",
+  "credit": "1963 Sudamericana cover reproduced in the Cervantes exhibition catalogue. Cortázar’s correspondence provides evidence of the cover’s collaborative development with Julio Silva.",
+  "edition": "1963 cover reproduction; visible wear belongs to the photographed copy, not a demonstrated original design intention.",
+  "originNote": "Country describes this edition’s publishing/design context, not the author’s nationality. Spanish-language Buenos Aires edition.",
+  "originSources": [
+   {
+    "title": "Cervantes exhibition catalogue: Rayuela cover reproduction",
+    "url": "https://ep00.epimg.net/descargables/2013/06/28/2783ac7deb8601250cdb495da52e0dfd.pdf#page=32"
+   },
+   {
+    "title": "Biblioteca Nacional Argentina: Cortázar correspondence",
+    "url": "https://www.bn.gov.ar/micrositios/admin_assets/issues/files/2f4c33e1aca8b1b5f32df6b303e97a25.pdf"
+   }
+  ],
+  "creditSources": [
+   {
+    "title": "Cervantes exhibition catalogue: Rayuela cover reproduction",
+    "url": "https://ep00.epimg.net/descargables/2013/06/28/2783ac7deb8601250cdb495da52e0dfd.pdf#page=32"
+   },
+   {
+    "title": "Biblioteca Nacional Argentina: Cortázar correspondence",
+    "url": "https://www.bn.gov.ar/micrositios/admin_assets/issues/files/2f4c33e1aca8b1b5f32df6b303e97a25.pdf"
+   }
+  ],
+  "imageSource": "https://ep00.epimg.net/descargables/2013/06/28/2783ac7deb8601250cdb495da52e0dfd.pdf#page=32",
+  "imageCredit": "1963 Sudamericana cover reproduced in the Cervantes exhibition catalogue. Cortázar’s correspondence provides evidence of the cover’s collaborative development with Julio Silva.",
+  "accent": "#E4C328",
+  "anchor": [
+   0.48,
+   0.48
+  ],
+  "reproduction": "Source reproduction retained without generative reconstruction. Analytical layers partition visible source pixels; printing colours and hidden artwork cannot be recovered.",
+  "downloadURL": "https://ep00.epimg.net/descargables/2013/06/28/2783ac7deb8601250cdb495da52e0dfd.pdf",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-rayuela.webp"
+ },
+ "studyData": {
+  "intro": "A game diagram becomes a path through the title and down to the publisher. Follow the details to compare what is visible, what can be interpreted and what the edition record establishes.",
+  "initial": "title",
+  "regions": [
+   {
+    "id": "diagram",
+    "number": 1,
+    "label": "A game occupies the whole cover",
+    "shortLabel": "Hopscotch diagram",
+    "kicker": "DESIGN",
+    "summary": "A pale hopscotch outline extends from near the top to the lower part of the dark cover.",
+    "layerIndex": 1,
+    "x": 53.05,
+    "y": 60.22,
+    "bounds": {
+     "x": 17,
+     "y": 9,
+     "w": 68,
+     "h": 84
+    },
+    "question": "Trace the diagram with your eye. Where do the words interrupt that route?",
+    "related": [
+     "title",
+     "paired"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Hopscotch diagram in the image",
+      "body": "A pale hopscotch outline extends from near the top to the lower part of the dark cover. Its compartments contain numbers, while the book title crosses the middle. The diagram remains readable as a larger structure despite interruptions by words.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Follow the game or read the names",
+      "body": "The cover offers two routes: reading the names and following a path through compartments. A game diagram can invite movement across a static surface. That invitation is an interpretation of the visible arrangement, not proof of how every reader approached the novel.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "title",
+    "number": 2,
+    "label": "Yellow words cross the chalk-like path",
+    "shortLabel": "Yellow title",
+    "kicker": "LANGUAGE",
+    "summary": "RAYUELA sits in a yellow band of rough-looking capital letters across the centre.",
+    "layerIndex": 3,
+    "x": 48,
+    "y": 48,
+    "bounds": {
+     "x": 16,
+     "y": 43,
+     "w": 68,
+     "h": 11
+    },
+    "question": "What do you understand from the word that the drawing alone would not tell you?",
+    "related": [
+     "diagram",
+     "paired"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Yellow title in the image",
+      "body": "RAYUELA sits in a yellow band of rough-looking capital letters across the centre. Pale diagram lines approach and cross this zone. The title is brighter and warmer than the other lettering, making it a concentrated interruption within the taller drawing.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Two ways to recognise hopscotch",
+      "body": "The word names hopscotch in Spanish, so language and diagram reinforce each other. Yet they do not duplicate one another exactly: the word can be read quickly, while the numbered shape asks the eye to travel. Compare those two speeds of recognition.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "author",
+    "number": 3,
+    "label": "A cool name inside the upper arc",
+    "shortLabel": "Blue author name",
+    "kicker": "LANGUAGE",
+    "summary": "JULIO CORTÁZAR appears in small blue capitals beneath the upper curve of the diagram.",
+    "layerIndex": 2,
+    "x": 48,
+    "y": 20,
+    "bounds": {
+     "x": 25,
+     "y": 16,
+     "w": 53,
+     "h": 7
+    },
+    "question": "Does the upper arc feel like a frame for the name or part of a separate diagram?",
+    "related": [
+     "title",
+     "diagram"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Blue author name in the image",
+      "body": "JULIO CORTAZAR appears in small blue capitals beneath the upper curve of the diagram. The lettering occupies a quieter area than the yellow title. Its cool colour separates the name from both the dark ground and the pale drawn line.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A name sheltered by an arc",
+      "body": "The name seems sheltered by the arc without becoming part of the game’s numbered compartments. This placement gives it a distinct role within a single continuous design. Notice how position, colour and scale work together to keep the author identifiable.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "upper",
+    "number": 4,
+    "label": "The path narrows above the title",
+    "shortLabel": "Upper numbers",
+    "kicker": "DESIGN",
+    "summary": "Above the title, several small numbered compartments stack vertically.",
+    "layerIndex": 1,
+    "x": 48,
+    "y": 33,
+    "bounds": {
+     "x": 38,
+     "y": 23,
+     "w": 24,
+     "h": 20
+    },
+    "question": "How does your reading pace change between the narrow and paired compartments?",
+    "related": [
+     "title",
+     "diagram"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Upper numbers in the image",
+      "body": "Above the title, several small numbered compartments stack vertically. Their pale edges are uneven and thin compared with the yellow letters. The narrow sequence concentrates the diagram into a central route before it opens into broader paired compartments below.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Narrow steps change the reading rhythm",
+      "body": "The change in width alters the rhythm of looking. Narrow stacked cells encourage a step-by-step movement; wider paired cells encourage comparison across the page. The diagram gives the cover a structure that is neither a conventional paragraph nor a conventional picture.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "paired",
+    "number": 5,
+    "label": "Two spaces share one level",
+    "shortLabel": "Paired compartments",
+    "kicker": "DESIGN",
+    "summary": "Two numbered compartments sit side by side in the lower part of the diagram.",
+    "layerIndex": 1,
+    "x": 50,
+    "y": 66,
+    "bounds": {
+     "x": 27,
+     "y": 60,
+     "w": 52,
+     "h": 13
+    },
+    "question": "What happens to the vertical rhythm when two numbered cells occupy the same level?",
+    "related": [
+     "title",
+     "diagram"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Paired compartments in the image",
+      "body": "Two numbered compartments sit side by side in the lower part of the diagram. Their shared horizontal boundary is wider than the cells immediately above and below. Pale numbers are placed inside each dark field rather than forming a line of running text.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A vertical route opens sideways",
+      "body": "The pair momentarily makes the route branch or spread. It introduces a left-right comparison into an otherwise vertical design. Looking at the spacing between the numbers helps distinguish the game’s internal order from the cover’s author-title-publisher hierarchy.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "lower",
+    "number": 6,
+    "label": "A final small compartment",
+    "shortLabel": "Lower cell",
+    "kicker": "DESIGN",
+    "summary": "A small lower compartment contains the number 1 above the publisher area.",
+    "layerIndex": 1,
+    "x": 47.97,
+    "y": 75.25,
+    "bounds": {
+     "x": 37,
+     "y": 71,
+     "w": 24,
+     "h": 12
+    },
+    "question": "If you begin at 1, which cover element do you encounter last?",
+    "related": [
+     "title",
+     "diagram"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Lower cell in the image",
+      "body": "A small lower compartment contains the number 1 above the publisher area. Its outline sits inside a much wider lower shape. The contrast between the small cell and broad base makes this part of the diagram feel different from the narrow upper stack.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Where does the reading begin?",
+      "body": "Beginning and ending depend on how one chooses to follow the diagram. The printed cover does not move, but its numbering can suggest an order distinct from the normal top-to-bottom sequence of a book cover. Try both routes and compare what you notice.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "publisher",
+    "number": 7,
+    "label": "The publisher occupies the base",
+    "shortLabel": "Publisher line",
+    "kicker": "DESIGN",
+    "summary": "EDITORIAL SUDAMERICANA appears in small blue lettering inside the bottom part of the drawing.",
+    "layerIndex": 4,
+    "x": 48.64407,
+    "y": 86.08374,
+    "bounds": {
+     "x": 20,
+     "y": 82,
+     "w": 63,
+     "h": 9
+    },
+    "question": "How does the publisher line change the way you read the bottom of the diagram?",
+    "related": [
+     "title",
+     "diagram"
+    ],
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Publisher line in the image",
+      "body": "EDITORIAL SUDAMERICANA appears in small blue lettering inside the bottom part of the drawing. It shares a colour with the author name, while remaining far less prominent than the title. The line gives the lower area a clear textual endpoint.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A cover in its 1963 publication context",
+      "body": "The Cervantes exhibition catalogue reproduces this Sudamericana cover in its account of Rayuela. The shown cover belongs to the 1963 publication context. The photographed copy’s worn edges should be distinguished from the book’s publication date and from the original cover-making process.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "rayuela"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "roughness",
+    "number": 8,
+    "label": "Uneven edges keep the drawing visible",
+    "shortLabel": "Rough marks",
+    "kicker": "DESIGN",
+    "summary": "The pale line and yellow title have irregular edges rather than perfectly uniform outlines.",
+    "layerIndex": 1,
+    "x": 76.44,
+    "y": 53.57,
+    "bounds": {
+     "x": 64,
+     "y": 42,
+     "w": 20,
+     "h": 19
+    },
+    "question": "Which irregularity belongs clearly to a drawn mark, and which might come from the reproduced copy?",
+    "related": [
+     "title",
+     "diagram"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Rough marks in the image",
+      "body": "The pale line and yellow title have irregular edges rather than perfectly uniform outlines. Some marks thicken, fade or break. These variations remain visible even where the larger diagram is easy to recognise, giving close looking a different texture from distant viewing.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Compare uneven marks with cleaner lettering",
+      "body": "A rough surface can suggest hand work, but the reproduction alone cannot identify every production step. It is safer to compare visible irregularity with the cleaner small blue lettering than to infer a printing technique from the image’s worn appearance.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "wear",
+    "number": 9,
+    "label": "The edge belongs to a particular copy",
+    "shortLabel": "Worn edge",
+    "kicker": "DESIGN",
+    "summary": "The dark cover is bordered by scuffed, uneven pale areas.",
+    "layerIndex": 0,
+    "x": 93,
+    "y": 73,
+    "bounds": {
+     "x": 87,
+     "y": 8,
+     "w": 11,
+     "h": 86
+    },
+    "question": "What would you lose—and what might become clearer—if this image were digitally cleaned?",
+    "related": [
+     "title",
+     "diagram"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Worn edge in the image",
+      "body": "The dark cover is bordered by scuffed, uneven pale areas. Corners and edges show changes in colour and shape. These marks make the reproduction an image of a physical object rather than a clean, edge-to-edge digital layout.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "The copy adds traces of its own history",
+      "body": "The used object adds its own history to the design. A viewer may find the wear expressive, but that response does not make it an original design decision. Compare the damaged perimeter with the intentionally placed diagram before assigning authorship to either.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "making",
+    "number": 10,
+    "label": "A cover developed through correspondence",
+    "shortLabel": "Making the cover",
+    "kicker": "DESIGN",
+    "summary": "The diagram, title and small blue lettering form a carefully arranged system despite their uneven surfaces.",
+    "layerIndex": 0,
+    "x": 73,
+    "y": 32,
+    "bounds": {
+     "x": 65,
+     "y": 23,
+     "w": 25,
+     "h": 17
+    },
+    "question": "Which visible decisions would you ask the collaborators about first?",
+    "related": [
+     "title",
+     "diagram"
+    ],
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Making the cover in the image",
+      "body": "The diagram, title and small blue lettering form a carefully arranged system despite their uneven surfaces. They occupy different scales and do not simply fill every available space. That visible coordination is a useful starting point for asking how the cover was developed.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A 1963 letter records the cover collaboration",
+      "body": "Argentina’s National Library reproduces Cortázar’s letter of 13 March 1963 to Francisco Porrúa. It says Julio Silva was preparing a cover model from a supplied hopscotch photograph. That supports a collaborative development account, without assigning every visible mark or later trace of wear to one maker.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "rayuelaletter"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "visual",
+    "title": "Exact reproduced cover: Rayuela",
+    "url": "https://ep00.epimg.net/descargables/2013/06/28/2783ac7deb8601250cdb495da52e0dfd.pdf#page=32",
+    "kind": "Visual source",
+    "summary": "1963 Sudamericana cover reproduced in the Cervantes exhibition catalogue. Cortázar’s correspondence provides evidence of the cover’s collaborative development with Julio Silva."
+   },
+   {
+    "id": "rayuela",
+    "title": "Cervantes exhibition catalogue: Rayuela cover reproduction",
+    "url": "https://ep00.epimg.net/descargables/2013/06/28/2783ac7deb8601250cdb495da52e0dfd.pdf#page=32",
+    "kind": "Exhibition catalogue reproduction",
+    "summary": "The Cervantes exhibition catalogue reproduces this Sudamericana cover in its account of Rayuela. The shown cover belongs to the 1963 publication context. The photographed copy’s worn edges should be distinguished from the book’s publication date and from the original cover-making process."
+   },
+   {
+    "id": "rayuelaletter",
+    "title": "Biblioteca Nacional Argentina: Cortázar correspondence",
+    "url": "https://www.bn.gov.ar/micrositios/admin_assets/issues/files/2f4c33e1aca8b1b5f32df6b303e97a25.pdf",
+    "kind": "Primary letter reproduced by a national library",
+    "summary": "Argentina’s National Library reproduces Cortázar’s letter of 13 March 1963 to Francisco Porrúa. It says Julio Silva was preparing a cover model from a supplied hopscotch photograph. That supports a collaborative development account, without assigning every visible mark or later trace of wear to one maker."
+   }
+  ],
+  "tour": [
+   "title",
+   "diagram",
+   "paired",
+   "author",
+   "making",
+   "wear"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected legible cover wording",
+    "rows": [
+     {
+      "text": "RAYUELA",
+      "meaning": "Hopscotch",
+      "lang": "es"
+     },
+     {
+      "text": "JULIO CORTAZAR",
+      "meaning": "Julio Cortázar, author’s name; printed without the accent",
+      "lang": "es"
+     },
+     {
+      "text": "EDITORIAL SUDAMERICANA",
+      "meaning": "Sudamericana publishing house",
+      "lang": "es"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected wording only. Line breaks and typographic case may be regularized. Fine print and endorsement prose are omitted where not needed for this reading. English meanings are editorial translations, not a claim of native-language reader testing.",
+  "palette": [
+   {
+    "name": "Dark cover",
+    "hex": "#322E25",
+    "role": "A screen sample from worn edge. Compare this local colour with its surrounding shapes.",
+    "region": "wear"
+   },
+   {
+    "name": "Title yellow",
+    "hex": "#E5C228",
+    "role": "A screen sample from yellow title. Compare this local colour with its surrounding shapes.",
+    "region": "title"
+   },
+   {
+    "name": "Pale diagram",
+    "hex": "#D3BB97",
+    "role": "A screen sample from hopscotch diagram. Compare this local colour with its surrounding shapes.",
+    "region": "diagram"
+   },
+   {
+    "name": "Author blue",
+    "hex": "#6A869C",
+    "role": "A screen sample from blue author name. Compare this local colour with its surrounding shapes.",
+    "region": "author"
+   }
+  ],
+  "paletteNote": "Samples are exact pixels from the installed reproduction, chosen within the named feature for perceptual agreement. They describe this screen image, not original ink specifications, paper stock or universal colour meanings.",
+  "connections": [
+   {
+    "title": "A game passes through its name",
+    "anchors": [
+     [
+      1,
+      0.5305084745762711,
+      0.6022167487684729
+     ],
+     [
+      3,
+      0.47966101694915253,
+      0.479064039408867
+     ]
+    ],
+    "id": "book-rayuela-connection-0",
+    "colour": "#be3d74",
+    "label": "Diagram / title",
+    "text": "The pale hopscotch route continues above and below the yellow word that names it, offering a second path through the cover."
+   },
+   {
+    "title": "Blue lettering marks two ends",
+    "anchors": [
+     [
+      2,
+      0.47966101694915253,
+      0.20073891625615764
+     ],
+     [
+      4,
+      0.4864406779661017,
+      0.8608374384236454
+     ]
+    ],
+    "id": "book-rayuela-connection-1",
+    "colour": "#496f80",
+    "label": "Author / imprint",
+    "text": "Small blue lettering places the author near the upper arc and the publisher at the base, bracketing the warmer central title."
+   }
+  ]
+ }
+}

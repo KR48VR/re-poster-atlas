@@ -1,0 +1,617 @@
+{
+ "poster": {
+  "id": "casablanca",
+  "title": "Casablanca",
+  "year": "1942",
+  "yearNumber": 1942,
+  "creator": "Bill Gold · Warner Bros. campaign",
+  "filmCreator": "Michael Curtiz",
+  "country": "United States",
+  "countries": [
+   "United States"
+  ],
+  "region": "North America",
+  "ratio": 0.6752037252619325,
+  "accent": "#b71932",
+  "anchor": [
+   0.54,
+   0.8
+  ],
+  "edition": "US theatrical release design, 1942; reproduction held on Wikimedia Commons.",
+  "alt": "Casablanca poster with large monochrome portraits of Humphrey Bogart and Ingrid Bergman, a handgun, smaller faces above and a sweeping red script title below.",
+  "blurb": "A crowd of faces, a pistol and one sweeping red word compress romance and danger into a single sheet.",
+  "notes": [
+   {
+    "title": "A title that changes the temperature",
+    "body": "Almost everything above the title is black, white or grey. The red script arrives as a sudden change of colour and energy, cutting diagonally across the pale foreground."
+   },
+   {
+    "title": "Faces create the hierarchy",
+    "body": "The two large foreground faces dominate the smaller portraits gathered above. Their different directions make the image feel crowded with relationships before we know the story."
+   },
+   {
+    "title": "Two kinds of lettering, two promises",
+    "body": "Tall, narrow surnames form an orderly band at the top. The loose title below breaks that discipline; its fluent stroke shares the page with the harder shape of the handgun."
+   }
+  ],
+  "source": "https://www.afi.com/news/meet-bill-gold-the-man-behind-the-most-iconic-movie-posters-ever/",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:CasablancaPoster-Gold.jpg",
+  "credit": "Original US release design reproduced via Wikimedia Commons, whose record identifies the film and 1942 campaign. The film is US-made; its Moroccan setting is not its production origin.",
+  "category": "Film",
+  "image": "images/full/casablanca.jpg",
+  "posterYear": "1942",
+  "posterTerritory": "United States",
+  "primaryOrigin": "United States",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/casablanca.webp"
+ },
+ "studyData": {
+  "intro": "A montage of faces is interrupted by a handgun and a sweeping red title. Look at how the sheet moves between star recognition, implied relationships and the practical names that frame a film campaign.",
+  "initial": "pair",
+  "regions": [
+   {
+    "id": "pair",
+    "number": 1,
+    "label": "The principal pair",
+    "shortLabel": "The principal pair",
+    "kicker": "DESIGN",
+    "summary": "A large turned face sits beside another large portrait.",
+    "x": 37,
+    "y": 43,
+    "bounds": {
+     "x": 21,
+     "y": 28,
+     "w": 30,
+     "h": 32
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Unequal directions",
+      "body": "The left portrait turns across the page, while the larger man at right looks away in another direction. They overlap without occupying a clearly described room. Their scale makes them dominant over the smaller portraits clustered above.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A relationship without a scene",
+      "body": "The montage encourages us to compare expressions and directions, but it does not establish what either person is thinking. Their proximity suggests a relationship while withholding an exact event. This is one way a poster can introduce drama without illustrating a whole plot.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What relationship can you infer from placement alone, and what remains unknown?",
+    "related": [
+     "right-face",
+     "ensemble"
+    ]
+   },
+   {
+    "id": "right-face",
+    "number": 2,
+    "label": "Face beneath the hat",
+    "shortLabel": "Face beneath the hat",
+    "kicker": "DESIGN",
+    "summary": "A brim and pale face form the largest portrait.",
+    "x": 68,
+    "y": 46,
+    "bounds": {
+     "x": 51,
+     "y": 29,
+     "w": 36,
+     "h": 30
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A frame inside the frame",
+      "body": "The dark hat brim crosses the top of the face and separates it from the crowded upper montage. Pale cheek, nose and collar highlights stand out against the shadow. The hat also projects sideways, making the figure wider than a simple oval head.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "From face to clothing",
+      "body": "Follow the light from the cheek into the pale coat. That continuous bright area connects a recognisable person to the lower title zone. The poster uses clothing as a compositional bridge, without allowing us to identify an exact costume fabric from this reproduction.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does the hat direct your eye before you reach the face?",
+    "related": [
+     "coat",
+     "gun"
+    ]
+   },
+   {
+    "id": "coat",
+    "number": 3,
+    "label": "Pale coat",
+    "shortLabel": "Pale coat",
+    "kicker": "DESIGN",
+    "summary": "A light garment makes room for red lettering.",
+    "x": 59,
+    "y": 64,
+    "bounds": {
+     "x": 28,
+     "y": 53,
+     "w": 60,
+     "h": 25
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A broad light area",
+      "body": "The coat occupies much of the lower montage. Folds, lapels and dark tie marks provide detail within it, but the overall value remains pale. This gives the red title a legible surface as it crosses from photograph into paper.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An overlap with a purpose",
+      "body": "The title does not politely stop at the figure’s boundary. Crossing the coat joins word and image into a single lower movement. Cover the letters mentally and notice how much quieter, more portrait-like the composition becomes.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does the coat function more as clothing or as a background for the title?",
+    "related": [
+     "red-title",
+     "right-face"
+    ]
+   },
+   {
+    "id": "ensemble",
+    "number": 4,
+    "label": "Smaller upper faces",
+    "shortLabel": "Smaller upper faces",
+    "kicker": "DESIGN",
+    "summary": "A group of portraits expands the cast of the image.",
+    "x": 48,
+    "y": 20,
+    "bounds": {
+     "x": 14,
+     "y": 12,
+     "w": 72,
+     "h": 23
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A compressed upper register",
+      "body": "Several smaller faces occupy the upper band, partly overlapping shoulders and hats. Their similar tonal treatment binds them together, while changes in size and direction keep them distinct. They do not form a naturalistic group photograph in a shared location.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Promising a wider story",
+      "body": "A reader can see that the two large portraits belong to a larger cast. The smaller heads therefore expand the promise of the film without requiring each person to receive equal visual space. Scale here is a hierarchy of presentation, not a measure of human importance.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which smaller face do you notice first, and what gives it that advantage?",
+    "related": [
+     "pair",
+     "names"
+    ]
+   },
+   {
+    "id": "left-small",
+    "number": 5,
+    "label": "A face at the edge",
+    "shortLabel": "A face at the edge",
+    "kicker": "DESIGN",
+    "summary": "One smaller portrait descends beside the principal woman.",
+    "x": 21,
+    "y": 35,
+    "bounds": {
+     "x": 12,
+     "y": 27,
+     "w": 18,
+     "h": 18
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A vertical extension",
+      "body": "The small face at left breaks downward from the upper group. Its pale forehead and dark clothing sit against the large woman’s hair and shoulder. This makes the ensemble less like a rigid horizontal row and more like a cluster around the principal pair.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A crowded threshold",
+      "body": "Placing a supporting portrait near the edge can make the montage feel larger than the available sheet. The crop leaves parts of bodies unexplained. That incompleteness belongs to the design’s compression and should not be filled with invented anatomy or scenery.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does this face change the outline of the upper group?",
+    "related": [
+     "ensemble",
+     "pair"
+    ]
+   },
+   {
+    "id": "gun",
+    "number": 6,
+    "label": "Handgun and hand",
+    "shortLabel": "Handgun and hand",
+    "kicker": "DESIGN",
+    "summary": "A hard diagonal interrupts the portrait language.",
+    "x": 22,
+    "y": 66,
+    "bounds": {
+     "x": 12,
+     "y": 57,
+     "w": 20,
+     "h": 20
+    },
+    "layerIndex": 4,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A different kind of shape",
+      "body": "The handgun points diagonally upward from the lower left. Its straight barrel and mechanical edges contrast with the curves of cheeks, hats and script. The gripping fingers tie the object to a human gesture instead of letting it float as an isolated symbol.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A change of expectation",
+      "body": "The gun introduces the possibility of conflict into a sheet dominated by faces. It does not tell us who is threatened or what happens next. Keeping that uncertainty intact distinguishes a visual reading from an invented account of a scene.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "If you covered the gun, which expectations about the film would change?",
+    "related": [
+     "red-title",
+     "right-face"
+    ]
+   },
+   {
+    "id": "red-title",
+    "number": 7,
+    "label": "Red script",
+    "shortLabel": "Red script",
+    "kicker": "DESIGN",
+    "summary": "One colour changes the lower half of the poster.",
+    "x": 51,
+    "y": 80,
+    "bounds": {
+     "x": 12,
+     "y": 65,
+     "w": 78,
+     "h": 29
+    },
+    "layerIndex": 5,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A sweeping interruption",
+      "body": "Casablanca is written in broad red script that rises across the lower page. The large initial C curves down into the pale margin. Most other major shapes are dark or pale, so this concentrated red becomes a distinct visual event.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Two forms of energy",
+      "body": "The script’s continuous curves differ from both the rigid surnames above and the angular handgun beside it. It can suggest fluency or intimacy while sharing the sheet with conflict. Those are comparative readings, not proof of a single intended emotion.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which feels more forceful here: the gun’s diagonal or the title’s curve?",
+    "related": [
+     "gun",
+     "names"
+    ]
+   },
+   {
+    "id": "names",
+    "number": 8,
+    "label": "Three star names",
+    "shortLabel": "Three star names",
+    "kicker": "LANGUAGE",
+    "summary": "Tall surnames form an orderly top border.",
+    "x": 48,
+    "y": 7,
+    "bounds": {
+     "x": 14,
+     "y": 1,
+     "w": 74,
+     "h": 11
+    },
+    "layerIndex": 6,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Two lettering scales",
+      "body": "The surnames BOGART, BERGMAN and HENREID dominate the top line, with smaller first names above them. The narrow upright capitals form a compact wall of information. Their shape contrasts strongly with the loose red film title below.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Recognition before plot",
+      "body": "A campaign can invite interest through performers’ names before explaining the story. The poster makes that strategy visible through scale and position. It does not establish how familiar every original viewer was with each performer, or how much any name influenced a ticket purchase.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would the same hierarchy work for a viewer who recognises none of the names?",
+    "related": [
+     "ensemble",
+     "red-title"
+    ]
+   },
+   {
+    "id": "production",
+    "number": 9,
+    "label": "Production credit",
+    "shortLabel": "Production credit",
+    "kicker": "LANGUAGE",
+    "summary": "A compact black block sits inside the pale coat.",
+    "x": 77,
+    "y": 70,
+    "bounds": {
+     "x": 65,
+     "y": 67,
+     "w": 23,
+     "h": 6
+    },
+    "layerIndex": 6,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A different kind of name",
+      "body": "The small production credit names Hal B. Wallis rather than a character or star. It occupies a dark two-line block near the title. Its position shows how production information can share a prominent picture area without becoming the main attraction.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A campaign maker’s account",
+      "body": "In his AFI interview, Bill Gold recalls joining Warner Bros.’ poster department and receiving Casablanca as an early assignment. That first-person account supports the campaign attribution. It does not prove that every visible decision on this particular reproduction was made by one person working alone.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "gold"
+       }
+      ]
+     }
+    ],
+    "question": "How is the production name treated differently from the stars’ surnames?",
+    "related": [
+     "names",
+     "lower-credits"
+    ]
+   },
+   {
+    "id": "lower-credits",
+    "number": 10,
+    "label": "Lower cast and director",
+    "shortLabel": "Lower cast and director",
+    "kicker": "DESIGN",
+    "summary": "The base shifts from image to compact information.",
+    "x": 57,
+    "y": 91,
+    "bounds": {
+     "x": 34,
+     "y": 88,
+     "w": 53,
+     "h": 7
+    },
+    "layerIndex": 6,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A narrow final register",
+      "body": "Small black names and a director line sit below the large script, in open pale space. Their tight spacing and modest scale require a closer view. They are distinct from the small portraits above, even though both extend the film’s cast and authorship information.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Reading in stages",
+      "body": "The sheet can be read first as faces and colour, then as title and stars, and finally as credits. This is a hierarchy of access rather than a guarantee of reading order. A viewer with a particular interest may begin with the smallest line.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which line would you enlarge if you were looking for the director rather than the stars?",
+    "related": [
+     "production",
+     "names"
+    ]
+   },
+   {
+    "id": "field",
+    "number": 11,
+    "label": "Dark montage field",
+    "shortLabel": "Dark montage field",
+    "kicker": "DESIGN",
+    "summary": "The shared dark ground holds separate photographs together.",
+    "x": 18,
+    "y": 49,
+    "bounds": {
+     "x": 12,
+     "y": 41,
+     "w": 10,
+     "h": 16
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A common darkness",
+      "body": "The spaces between portraits are very dark, with few clear environmental details. Hair and clothing merge into that tone. This makes the montage coherent, but it also means a separated layer cannot honestly recover the original outlines of every photograph.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A useful uncertainty",
+      "body": "The dark field joins faces without giving them a complete room. The viewer supplies relationships from scale, overlap and gaze. In the exploded study, those are visible reading groups; the underlying sources and hidden edges have not been reconstructed.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where can you no longer tell whether a dark patch is clothing, hair or background?",
+    "related": [
+     "ensemble",
+     "pair"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed poster edition",
+    "url": "https://commons.wikimedia.org/wiki/File:CasablancaPoster-Gold.jpg",
+    "kind": "Visual source",
+    "summary": "The reproduced edition is the evidence for visible wording, layout, marks and colour relationships. Translations and visual interpretations are supplied by Poster Atlas."
+   },
+   {
+    "id": "gold",
+    "title": "AFI interview with Bill Gold",
+    "url": "https://www.afi.com/news/meet-bill-gold-the-man-behind-the-most-iconic-movie-posters-ever/",
+    "kind": "First-person designer interview",
+    "summary": "Gold recalls his Warner Bros. poster-department work and Casablanca assignment. The interview establishes campaign authorship context, not sole responsibility for every element of this reproduction."
+   }
+  ],
+  "tour": [
+   "pair",
+   "ensemble",
+   "gun",
+   "red-title",
+   "names",
+   "production"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "Casablanca",
+      "meaning": "The film title.",
+      "lang": "en"
+     },
+     {
+      "text": "BOGART · BERGMAN · HENREID",
+      "meaning": "The three prominently billed surnames.",
+      "lang": "en"
+     },
+     {
+      "text": "HAL B. WALLIS PRODUCTION",
+      "meaning": "A production credit.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Only securely legible title and key wording are transcribed. Small credits are not reconstructed from this reproduction.",
+  "palette": [
+   {
+    "name": "Red script",
+    "hex": "#D70022",
+    "role": "The main warm typographic accent.",
+    "region": "red-title"
+   },
+   {
+    "name": "Near-black field",
+    "hex": "#141213",
+    "role": "Shared ground behind the montage.",
+    "region": "field"
+   },
+   {
+    "name": "Pale coat",
+    "hex": "#F1F1EF",
+    "role": "A light surface crossed by the title.",
+    "region": "coat"
+   },
+   {
+    "name": "Warm portrait tone",
+    "hex": "#B7A7A8",
+    "role": "The reproduction’s lightly warm face tones.",
+    "region": "right-face"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in this installed reproduction. They are not original paint, ink or printing specifications.",
+  "connections": [
+   {
+    "label": "Large and small faces",
+    "title": "The montage establishes a hierarchy",
+    "text": "Two large faces dominate the lower picture, while smaller supporting faces cluster above and to the left. The scale difference makes the principal pair immediately distinct.",
+    "anchors": [
+     [
+      1,
+      0.4387931034482759,
+      0.21129220023282888
+     ],
+     [
+      2,
+      0.3767241379310345,
+      0.4254947613504074
+     ],
+     [
+      3,
+      0.6801724137931034,
+      0.46856810244470315
+     ]
+    ],
+    "id": "casablanca-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Script and structure",
+    "title": "Red lettering cuts across the monochrome image",
+    "text": "The flowing red title crosses the pale coat and paper. Its loose curves contrast with the rigid names above and the hard diagonal of the handgun.",
+    "anchors": [
+     [
+      5,
+      0.5043103448275862,
+      0.7945285215366705
+     ],
+     [
+      6,
+      0.5077586206896552,
+      0.07508731082654249
+     ],
+     [
+      4,
+      0.21465517241379312,
+      0.6490104772991852
+     ]
+    ],
+    "id": "casablanca-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

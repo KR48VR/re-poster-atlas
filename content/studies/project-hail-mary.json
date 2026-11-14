@@ -1,0 +1,723 @@
+{
+ "poster": {
+  "id": "project-hail-mary",
+  "title": "Project Hail Mary",
+  "year": "2026",
+  "yearNumber": 2026,
+  "creator": "Sony Pictures · Singapore campaign",
+  "filmCreator": "Phil Lord and Christopher Miller",
+  "country": "United States",
+  "countries": [
+   "United States"
+  ],
+  "region": "North America",
+  "ratio": 0.6666666666666666,
+  "accent": "#c7693a",
+  "anchor": [
+   0.73,
+   0.68
+  ],
+  "edition": "Official Singapore theatrical key art, March 2026, supplied by Sony Pictures Singapore.",
+  "alt": "Project Hail Mary poster with a large Ryan Gosling portrait against red stars, a green curved planet, a small astronaut attached to a spacecraft and white title lettering below.",
+  "blurb": "A face, a planet and a tiny astronaut bring three different scales into one luminous space adventure.",
+  "notes": [
+   {
+    "title": "Three scales, one protagonist",
+    "body": "The enormous portrait establishes a personal connection, while the small suited figure supplies the physical action. The curved planet sets both against something much larger."
+   },
+   {
+    "title": "A diagonal carries the action",
+    "body": "The planetary horizon rises toward the right. The spacecraft edge and the astronaut’s tether cross that movement, guiding the eye through the lower scene rather than leaving the figure isolated."
+   },
+   {
+    "title": "Warmth meets an unfamiliar world",
+    "body": "Red-orange light surrounds the face and distant star; green occupies the planet below. White, widely spaced lettering stays legible across the boundary between these two colour fields."
+   }
+  ],
+  "source": "https://www.moma.org/calendar/events/11812",
+  "imageSource": "https://www.sonypictures.com.sg/movies/project-hail-mary",
+  "credit": "Official March 2026 Singapore campaign image supplied by Sony Pictures Singapore for the US film from Amazon MGM Studios. The printed 19 March date is the local release date; this is distinct from the US release date and from the 2025 advance campaign. Copyright remains with the respective rights holders.",
+  "category": "Film",
+  "image": "images/full/project-hail-mary.jpg",
+  "posterYear": "2026",
+  "posterTerritory": "Singapore",
+  "primaryOrigin": "United States",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/project-hail-mary.webp"
+ },
+ "studyData": {
+  "intro": "This 2026 Singapore campaign brings three scales together: a huge face, a tiny suited traveller and a sweeping planetary curve. Read the local 19 March date separately from the film year, and distinguish the poster’s spectacular composite from a literal scientific diagram.",
+  "initial": "portrait",
+  "regions": [
+   {
+    "id": "portrait",
+    "number": 1,
+    "label": "A face larger than the world below",
+    "shortLabel": "A face larger than the world below",
+    "kicker": "TWO SCALES IN ONE SHEET",
+    "summary": "A close portrait gives the space scene a human centre.",
+    "x": 54,
+    "y": 33,
+    "bounds": {
+     "x": 27,
+     "y": 9,
+     "w": 52,
+     "h": 39
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Two scales in one sheet",
+      "body": "The large head occupies much of the upper half, while a far smaller suited figure acts below. Hair, skin and expression are available at close range in the portrait. The smaller body instead supplies action and a relation to the spacecraft.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "The person named by the campaign",
+      "body": "Sony’s synopsis identifies Ryan Gosling’s character as science teacher Ryland Grace, who wakes aboard a spacecraft and gradually recovers his mission. This supports the human point of entry, but it does not prove that the two pictured scales share one literal moment.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "sony"
+       }
+      ]
+     }
+    ],
+    "question": "How would the poster change if the face were reduced to the astronaut’s size?",
+    "related": [
+     "astronaut",
+     "gaze",
+     "actor"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "gaze",
+    "number": 2,
+    "label": "Eyes directed beyond the frame",
+    "shortLabel": "Eyes directed beyond the frame",
+    "kicker": "A DIRECTION RATHER THAN A DIRECT ADDRESS",
+    "summary": "A sideways upward look points toward open space.",
+    "x": 63,
+    "y": 26,
+    "bounds": {
+     "x": 55,
+     "y": 23,
+     "w": 17,
+     "h": 8
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A direction rather than a direct address",
+      "body": "The face turns toward the right, with the eyes angled into the space beyond the nose. The viewer is not met by a straight frontal gaze. This direction connects the portrait to the bright open area on the right side.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Expression is not a diagnosis",
+      "body": "The brow and parted lips can suggest concentration or concern, but those remain readings of a publicity image. The study identifies the observable angle and facial contrasts without asserting a precise thought, scientific discovery or emotional state for this exact moment.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where would a line following the gaze leave the sheet?",
+    "related": [
+     "star",
+     "portrait"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "suit",
+    "number": 3,
+    "label": "Warm equipment around the shoulders",
+    "shortLabel": "Warm equipment around the shoulders",
+    "kicker": "A STRUCTURED LOWER EDGE TO THE PORTRAIT",
+    "summary": "Straps and hard edges frame the skin.",
+    "x": 24,
+    "y": 49,
+    "bounds": {
+     "x": 0,
+     "y": 37,
+     "w": 67,
+     "h": 39
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A structured lower edge to the portrait",
+      "body": "Orange-red clothing, straps and mechanical-looking fittings spread across the shoulders. Their darker seams and angular edges give the portrait a more constructed base. Warm colours link this equipment to the surrounding red-lit space while separating it from the green field below.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Visible equipment, unverified specification",
+      "body": "The image presents a space-related suit, but its technical model, materials and function cannot be established from the campaign art. It is more useful here to compare its warm mass and hard details with the small figure’s silhouette than to infer engineering accuracy.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Compare the straight strap edges with the planet’s curve: how do their directions differ?",
+    "related": [
+     "portrait",
+     "planet",
+     "astronaut"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "star",
+    "number": 4,
+    "label": "A bright source at right",
+    "shortLabel": "A bright source at right",
+    "kicker": "A CONCENTRATED LIGHT IN A WARM FIELD",
+    "summary": "A small flare becomes a second point of attention.",
+    "x": 85,
+    "y": 49,
+    "bounds": {
+     "x": 73,
+     "y": 38,
+     "w": 26,
+     "h": 21
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A concentrated light in a warm field",
+      "body": "The white-yellow flare sits within orange cloud-like light at right. Its brightness contrasts with the darker star field and face shadows. Short rays and a surrounding glow let a relatively small region compete with much larger shapes elsewhere.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Spectacle is not a measurement",
+      "body": "The picture makes light visibly dramatic, but it does not establish the star’s physical size, temperature or distance. The study reads the flare as a compositional accent. Scientific claims about the fictional setting would require evidence beyond the promotional image.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Is the bright flare more noticeable than the much larger face when you squint?",
+    "related": [
+     "gaze",
+     "planet",
+     "field"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "field",
+    "number": 5,
+    "label": "Red space and small points",
+    "shortLabel": "Red space and small points",
+    "kicker": "TEXTURE WITHOUT EQUAL ATTENTION",
+    "summary": "Many tiny lights frame one large portrait.",
+    "x": 9,
+    "y": 25,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 100,
+     "h": 75
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Texture without equal attention",
+      "body": "Small pale points are scattered through a dark red-brown field. Their scale contrasts with the portrait and the bright flare. They give the surrounding space detail, but most do not compete as separate focal objects when the whole poster is viewed at once.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A field joins unlike scales",
+      "body": "The shared surrounding colour lets a close-up face, distant light and planetary scene coexist in one composite. This continuity helps the montage feel connected without requiring all its elements to obey a single camera viewpoint or consistent physical scale.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which star-like points remain visible after the image is reduced?",
+    "related": [
+     "star",
+     "actor",
+     "portrait"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "planet",
+    "number": 6,
+    "label": "The green planetary sweep",
+    "shortLabel": "The green planetary sweep",
+    "kicker": "A CURVED DIVISION ACROSS THE SHEET",
+    "summary": "A broad curve separates the warm portrait from the title.",
+    "x": 35,
+    "y": 75,
+    "bounds": {
+     "x": 0,
+     "y": 58,
+     "w": 94,
+     "h": 37
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A curved division across the sheet",
+      "body": "The luminous green edge rises from the lower-left corner toward the right-hand craft. Its arc divides two major colour zones and gives the lower composition a strong direction. Pale light along the boundary makes the curve legible even against complex equipment.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A different kind of scale",
+      "body": "The planetary surface is much larger in implied extent than either human figure. Its curve can make the people seem small within the story, even though the portrait is visually enormous on the sheet. This contrast between pictured size and implied scale is central to the montage.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Trace the horizon from lower left to upper right: what elements does it connect?",
+    "related": [
+     "craft",
+     "title",
+     "suit"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "astronaut",
+    "number": 7,
+    "label": "A small body at the craft",
+    "shortLabel": "A small body at the craft",
+    "kicker": "A COMPACT DIAGONAL ACTION",
+    "summary": "A bent suited figure supplies the action missing from the close-up.",
+    "x": 75,
+    "y": 71,
+    "bounds": {
+     "x": 59,
+     "y": 60,
+     "w": 29,
+     "h": 23
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A compact diagonal action",
+      "body": "The small astronaut-like figure bends and turns beside the spacecraft, with separated limbs and a dark helmet. The body does not sit on a horizontal floor. Its angle makes the lower-right area active while the large portrait remains comparatively still.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A silhouette under pressure from detail",
+      "body": "At full poster scale, the body is small beside bright equipment and lettering. Its outline must therefore do much of the work. The reproduction supports comparison of pose and overlap, but not a full reconstruction of every attachment or hidden limb.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which limb or equipment edge tells you the figure is turning rather than standing upright?",
+    "related": [
+     "portrait",
+     "craft",
+     "planet"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "craft",
+    "number": 8,
+    "label": "The machine at the edge",
+    "shortLabel": "The machine at the edge",
+    "kicker": "CROPPING EXPANDS THE IMPLIED OBJECT",
+    "summary": "A cropped structure implies something larger beyond the paper.",
+    "x": 95,
+    "y": 76,
+    "bounds": {
+     "x": 78,
+     "y": 49,
+     "w": 22,
+     "h": 51
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Cropping expands the implied object",
+      "body": "Curved panels, rails and dark channels enter from the right and continue beyond the lower edge. The poster never shows the whole machine. That cropping lets a limited fragment suggest a much larger spacecraft while leaving room for face and title.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Compare hard and soft boundaries",
+      "body": "The craft has many crisp seams and bright edges, while the planet’s glow is broad and soft. Putting the two together offers different kinds of visual evidence: articulated equipment close by and a luminous continuous surface beyond it. No exact vehicle design is inferred.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What suggests that the craft continues outside the sheet?",
+    "related": [
+     "astronaut",
+     "streak",
+     "planet"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "streak",
+    "number": 9,
+    "label": "A narrow diagonal crossing",
+    "shortLabel": "A narrow diagonal crossing",
+    "kicker": "A SECOND DIRECTIONAL LINE",
+    "summary": "A long tapered form crosses the planetary arc.",
+    "x": 30,
+    "y": 60,
+    "bounds": {
+     "x": 4,
+     "y": 53,
+     "w": 61,
+     "h": 19
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A second directional line",
+      "body": "A thin pointed spacecraft-like form and adjoining lines cut from the left toward the lower-right action. They cross the planetary curve rather than following it exactly. Their narrowness creates a contrast with the broad face and the wide luminous surface.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Describe the visible fragment",
+      "body": "The source does not make every line’s function certain, so this region is not labelled as a verified tether system or named spacecraft component. Its reliable contribution is directional: a tapered diagonal links the warm portrait area with the smaller action below.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does its diagonal differ from the direction of the green horizon?",
+    "related": [
+     "craft",
+     "planet"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "title",
+    "number": 10,
+    "label": "Wide white letters",
+    "shortLabel": "Wide white letters",
+    "kicker": "SPACE BETWEEN STROKES",
+    "summary": "The title opens a stable lower block.",
+    "x": 49,
+    "y": 80,
+    "bounds": {
+     "x": 29,
+     "y": 73,
+     "w": 43,
+     "h": 12
+    },
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Space between strokes",
+      "body": "The title uses widely spaced capitals over the darker lower field. Its broad horizontal lines contrast with the planet’s diagonal and the small body’s twist. The open triangular A and long simple strokes make a compact, repeated geometry without requiring a solid text panel.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "A project with a name",
+      "body": "PROJECT appears above the larger HAIL MARY. The size difference makes the name more prominent than its category. The study transcribes the visible title without deriving the film’s full premise from the idiom or treating a title as a scientific explanation.",
+      "evidence": "observation",
+      "originalText": "PROJECT HAIL MARY",
+      "lang": "en"
+     }
+    ],
+    "question": "Why does the white title remain readable across a richly coloured surface?",
+    "related": [
+     "planet",
+     "tagline",
+     "date"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "tagline",
+    "number": 11,
+    "label": "Two worlds, one mission",
+    "shortLabel": "Two worlds, one mission",
+    "kicker": "A CONTRAST BUILT FROM NUMBERS",
+    "summary": "Short stacked lines connect the human portrait to a large task.",
+    "x": 50,
+    "y": 55,
+    "bounds": {
+     "x": 38,
+     "y": 52,
+     "w": 25,
+     "h": 5
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A contrast built from numbers",
+      "body": "TWO WORLDS / ONE IMPOSSIBLE / MISSION sets plural worlds against a single task. The copy supplies a scale of stakes that the image alone cannot explain. Its short lines fit the chest area while avoiding the more detailed face above.",
+      "evidence": "observation",
+      "originalText": "TWO WORLDS / ONE IMPOSSIBLE / MISSION",
+      "lang": "en"
+     },
+     {
+      "kind": "business",
+      "heading": "The campaign adds a verbal premise",
+      "body": "The wording turns a spectacular scene into a more specific invitation to a story about a mission. Sony’s synopsis describes a scientific attempt to avert catastrophe, but the phrase impossible is promotional language rather than a tested assessment of the fictional problem.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How do two and one organise the promise of this sentence?",
+    "related": [
+     "title",
+     "portrait"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "date",
+    "number": 12,
+    "label": "19 March in this territory",
+    "shortLabel": "19 March in this territory",
+    "kicker": "A PRACTICAL ENDING",
+    "summary": "A local opening notice closes the sheet.",
+    "x": 50,
+    "y": 96,
+    "bounds": {
+     "x": 35,
+     "y": 93,
+     "w": 31,
+     "h": 5
+    },
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A practical ending",
+      "body": "The lower block combines EXCLUSIVELY IN CINEMAS, 19 MAR and an IMAX invitation. These lines change the purpose of the text from naming the story to indicating where and when to see it. The day and month are visible on this particular regional sheet.",
+      "evidence": "observation",
+      "originalText": "19 MAR / EXPERIENCE IT IN IMAX",
+      "lang": "en"
+     },
+     {
+      "kind": "context",
+      "heading": "Film year and local campaign",
+      "body": "MoMA records Project Hail Mary as a 2026 US film directed by Phil Lord and Christopher Miller. Sony Pictures Singapore supplies the installed key art. Together they distinguish the film’s year and origin from this Singapore campaign’s printed local date.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "moma"
+       }
+      ]
+     }
+    ],
+    "question": "What extra information is needed before treating 19 MAR as a worldwide release date?",
+    "related": [
+     "title",
+     "actor"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "actor",
+    "number": 13,
+    "label": "A performer’s name above space",
+    "shortLabel": "A performer’s name above space",
+    "kicker": "A LONG LIGHT LINE AT THE TOP",
+    "summary": "Widely spaced capitals sit above the giant portrait.",
+    "x": 49,
+    "y": 6,
+    "bounds": {
+     "x": 8,
+     "y": 4,
+     "w": 85,
+     "h": 4
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A long light line at the top",
+      "body": "RYAN GOSLING stretches across the upper field in spaced pale capitals. The letters remain much smaller than the face beneath them. Their thin horizontal sequence balances the title below without becoming another heavy block of image or colour.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Several forms of recognition",
+      "body": "The performer name gives one recognition cue; the lower reference to the creators of the Spider-Verse franchise supplies another. The sheet combines these with spectacle and a release date. Their presence does not establish which cue persuaded any particular viewer.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Why does this name need no nearby role description to function as a campaign cue?",
+    "related": [
+     "portrait",
+     "date"
+    ],
+    "layerIndex": 4
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed poster edition",
+    "url": "https://www.sonypictures.com.sg/movies/project-hail-mary",
+    "kind": "Visual source",
+    "summary": "The reproduced sheet supports observations of visible wording, colour, composition and marks; it does not establish the designer’s intention."
+   },
+   {
+    "id": "sony",
+    "title": "Sony Pictures Singapore: Project Hail Mary",
+    "url": "https://www.sonypictures.com.sg/movies/project-hail-mary",
+    "kind": "Official regional distributor",
+    "summary": "Supplies the installed key art and confirms the Ryland Grace premise, cast and directors; territory belongs to Singapore."
+   },
+   {
+    "id": "moma",
+    "title": "MoMA: Project Hail Mary, 2026",
+    "url": "https://www.moma.org/calendar/events/11812",
+    "kind": "Museum film record",
+    "summary": "Confirms the 2026 US film and Phil Lord/Christopher Miller direction; not a source for a worldwide 19 March release date."
+   }
+  ],
+  "tour": [
+   "portrait",
+   "gaze",
+   "planet",
+   "astronaut",
+   "craft",
+   "title",
+   "date"
+  ],
+  "transcript": [
+   {
+    "heading": "Readable wording on this edition",
+    "rows": [
+     {
+      "text": "PROJECT HAIL MARY",
+      "meaning": "Film title.",
+      "lang": "en"
+     },
+     {
+      "text": "TWO WORLDS / ONE IMPOSSIBLE / MISSION",
+      "meaning": "Promotional premise.",
+      "lang": "en"
+     },
+     {
+      "text": "19 MAR",
+      "meaning": "The date printed on the Singapore key art.",
+      "lang": "en"
+     },
+     {
+      "text": "RYAN GOSLING",
+      "meaning": "Performer credit.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Large campaign lines are transcribed. The dense lower billing is not copied in full, and small equipment lines are not treated as scientific labels.",
+  "palette": [
+   {
+    "name": "Red space",
+    "hex": "#872D2D",
+    "region": "field",
+    "role": "The warm surrounding field."
+   },
+   {
+    "name": "Green curve",
+    "hex": "#206E3E",
+    "region": "planet",
+    "role": "The broad lower sweep."
+   },
+   {
+    "name": "White title",
+    "hex": "#FFFFFF",
+    "region": "title",
+    "role": "High-contrast naming."
+   },
+   {
+    "name": "Orange suit",
+    "hex": "#A34634",
+    "region": "suit",
+    "role": "A warm base for the portrait."
+   },
+   {
+    "name": "Deep craft shadow",
+    "hex": "#131C17",
+    "region": "craft",
+    "role": "Dark articulated machinery."
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in the installed reproduction. These are not original ink specifications; scan, lighting and compression can alter colour.",
+  "connections": [
+   {
+    "label": "Scale shift",
+    "title": "A face and a tiny traveller",
+    "text": "The enormous portrait and the small suited astronaut create two different scales of human presence.",
+    "anchors": [
+     [
+      1,
+      0.5503751339764201,
+      0.29035714285714287
+     ],
+     [
+      3,
+      0.7904608788853161,
+      0.6996428571428571
+     ]
+    ],
+    "id": "project-hail-mary-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "A sweeping boundary",
+    "title": "The planet carries the eye into the title",
+    "text": "The green curve rises toward the spacecraft and brings the lower lettering into the same diagonal movement.",
+    "anchors": [
+     [
+      2,
+      0.4303322615219721,
+      0.6996428571428571
+     ],
+     [
+      4,
+      0.5267952840300107,
+      0.7982142857142858
+     ]
+    ],
+    "id": "project-hail-mary-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

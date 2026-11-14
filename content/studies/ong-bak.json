@@ -1,0 +1,577 @@
+{
+ "poster": {
+  "id": "ong-bak",
+  "title": "Ong-Bak",
+  "year": "2003",
+  "yearNumber": 2003,
+  "country": "Thailand",
+  "countries": [
+   "Thailand"
+  ],
+  "region": "Southeast Asia",
+  "category": "Film",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Prachya Pinkaew",
+  "edition": "Thai-language theatrical poster",
+  "posterTerritory": "Thailand",
+  "image": "images/full/ong-bak.jpg",
+  "ratio": 0.701,
+  "alt": "Warm brown Thai poster with a large bare-chested fighter in the foreground, a giant weathered Buddha face behind him, smaller action scenes and bold white Thai title lettering below.",
+  "blurb": "Living bodies and weathered stone share a warm, densely layered sheet.",
+  "notes": [
+   {
+    "title": "Skin against stone",
+    "body": "The foreground fighter’s bright skin separates from the darker, rough-textured Buddha face behind him. The contrast lets two very different kinds of surface share the same warm brown palette."
+   },
+   {
+    "title": "Hands establish the diagonals",
+    "body": "Raised arms and fists create angled routes across the upright faces. Those gestures supply movement without needing to tilt the whole poster."
+   },
+   {
+    "title": "White lettering holds the base",
+    "body": "The heavy Thai title sits near the bottom, brighter than most of the surrounding montage. Its thick strokes gather the smaller scenes above into a clear final anchor."
+   }
+  ],
+  "source": "https://sahamongkolfilm.com/saha-movie/ong-bak-movie-2546",
+  "imageSource": "https://sahamongkolfilm.com/saha-movie/ong-bak-movie-2546",
+  "imageCredit": "Official Sahamongkolfilm poster reproduction. Copyright remains with the film, studio and artwork rights holders; poster artist uncredited.",
+  "credit": "Official Sahamongkolfilm poster reproduction. Copyright remains with the film, studio and artwork rights holders; poster artist uncredited.",
+  "reproduction": "Film: Thailand, 2003. The studio supplies this Thai-language campaign image; an exact printing date is not given.",
+  "downloadURL": "https://storage.googleapis.com/sahamongkolfilm-media/2020/07/Ong-Bak-Poster02.jpg",
+  "anchor": [
+   0.35,
+   0.49
+  ],
+  "accent": "#a46b35",
+  "primaryOrigin": "Thailand",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/ong-bak.webp"
+ },
+ "studyData": {
+  "intro": "Human skin, stone texture and raised arms share one warm-toned montage. The bright Thai title gathers the action at the base, while a large Buddha face gives the physical gestures a wider narrative context.",
+  "initial": "front-face",
+  "regions": [
+   {
+    "id": "front-face",
+    "number": 1,
+    "label": "Foreground face",
+    "shortLabel": "Foreground face",
+    "kicker": "DESIGN",
+    "summary": "A bright face confronts the viewer from the montage.",
+    "x": 34,
+    "y": 32,
+    "bounds": {
+     "x": 23,
+     "y": 18,
+     "w": 24,
+     "h": 23
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A face below dark hair",
+      "body": "The foreground face sits beneath a heavy dark hair shape and above the brightest torso. Its gaze and angled brows are more directly outward than those of the figure behind. Sweat-like highlights and shadow changes give the skin a different texture from the stone face nearby.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "The central quest",
+      "body": "Sahamongkolfilm’s synopsis describes Ting travelling to recover the stolen head of his village’s sacred Buddha image. The official record connects the action to a quest involving faith and community. It does not establish that this portrait reproduces one specific moment of that journey.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "saha"
+       }
+      ]
+     }
+    ],
+    "question": "Which features make this face more immediate than the stone face?",
+    "related": [
+     "stone",
+     "front-fist"
+    ]
+   },
+   {
+    "id": "front-fist",
+    "number": 2,
+    "label": "Wrapped fist",
+    "shortLabel": "Wrapped fist",
+    "kicker": "DESIGN",
+    "summary": "A pale hand projects toward the left.",
+    "x": 16,
+    "y": 33,
+    "bounds": {
+     "x": 4,
+     "y": 28,
+     "w": 25,
+     "h": 13
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A foreshortened gesture",
+      "body": "The wrapped fist appears large beside the face and connects to an arm that recedes toward the shoulder. Pale fabric stands out against the warm brown surroundings. Its knotted texture differs from both smooth skin and the finer lettering below.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Distance made visible",
+      "body": "The enlarged fist can seem to project toward us while the torso remains behind. This is a pictorial depth effect. We can observe the compressed arm and size change without assigning a named technique or instructing a viewer how to reproduce a strike.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What makes the fist seem closer than the shoulder?",
+    "related": [
+     "front-face",
+     "rear-arms"
+    ]
+   },
+   {
+    "id": "torso",
+    "number": 3,
+    "label": "Bright torso",
+    "shortLabel": "Bright torso",
+    "kicker": "DESIGN",
+    "summary": "A broad body shape anchors the central action.",
+    "x": 44,
+    "y": 53,
+    "bounds": {
+     "x": 23,
+     "y": 39,
+     "w": 46,
+     "h": 34
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Light follows the body",
+      "body": "Bright shoulder and chest highlights turn into darker shadows around the waist and bent arm. The torso creates a large continuous form across a montage otherwise divided into many smaller scenes. Its warm hue also connects it with the rear figure.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Physical presence",
+      "body": "The visible muscles and bodily gestures present physical performance as a major attraction. This is a reading of emphasis, not proof about the safety, authenticity or production method of every action scene. Those claims would require additional evidence.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How would the hierarchy change if the torso were no brighter than the background?",
+    "related": [
+     "front-fist",
+     "title"
+    ]
+   },
+   {
+    "id": "rear-face",
+    "number": 4,
+    "label": "Raised rear face",
+    "shortLabel": "Raised rear face",
+    "kicker": "DESIGN",
+    "summary": "A second head turns upward behind the first.",
+    "x": 58,
+    "y": 21,
+    "bounds": {
+     "x": 47,
+     "y": 11,
+     "w": 24,
+     "h": 22
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A different direction",
+      "body": "The rear figure’s face is turned upward and away from the foreground gaze. Its position above the front shoulder creates depth through overlap. The two faces occupy different angles, so the montage suggests more than one bodily attitude without showing a continuous action.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Compare rather than assume",
+      "body": "The poster repeats fighting poses, but an image alone cannot tell us whether two pictures show different people or different moments. Reading the visible directions first avoids inventing a character relationship from montage placement.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which face leads your attention outward, and which leads it upward?",
+    "related": [
+     "front-face",
+     "rear-arms"
+    ]
+   },
+   {
+    "id": "rear-arms",
+    "number": 5,
+    "label": "Raised arms",
+    "shortLabel": "Raised arms",
+    "kicker": "DESIGN",
+    "summary": "Bent limbs make strong diagonals across the stone.",
+    "x": 79,
+    "y": 32,
+    "bounds": {
+     "x": 49,
+     "y": 24,
+     "w": 49,
+     "h": 18
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Angles against upright forms",
+      "body": "The rear figure’s bent arms extend across the upper-right area. A raised fist and a bright forearm make a zigzag between the more upright heads. Dark wrist details punctuate the otherwise continuous warm skin tones.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Action through arrangement",
+      "body": "The poster does not need motion blur to suggest activity. Unequal arm angles, foreshortening and overlap can make a still composition feel active. Compare these diagonals with the relatively stable vertical stone face and the broad horizontal title.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which diagonal would you draw first in a quick sketch of this poster?",
+    "related": [
+     "stone",
+     "front-fist"
+    ]
+   },
+   {
+    "id": "stone",
+    "number": 6,
+    "label": "Large Buddha face",
+    "shortLabel": "Large Buddha face",
+    "kicker": "DESIGN",
+    "summary": "Rough stone introduces another scale and surface.",
+    "x": 24,
+    "y": 13,
+    "bounds": {
+     "x": 9,
+     "y": 0,
+     "w": 42,
+     "h": 30
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A textured face behind bodies",
+      "body": "The enormous face behind the figures has cracks, shadows and a stone-like surface. Its closed or lowered eyes contrast with the foreground gaze. Only part of the head is visible, so it functions as both recognisable object and surrounding environment.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "An object with story significance",
+      "body": "The distributor’s synopsis identifies a sacred Buddha image as the object whose stolen head motivates the journey. That supports discussing the statue’s narrative relevance. It does not identify this poster image as a particular historical sculpture or temple object.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "saha"
+       }
+      ]
+     }
+    ],
+    "question": "How do the stone eyes change the relationship with the foreground gaze?",
+    "related": [
+     "front-face",
+     "architecture"
+    ]
+   },
+   {
+    "id": "architecture",
+    "number": 7,
+    "label": "Small scenes at left",
+    "shortLabel": "Small scenes at left",
+    "kicker": "DESIGN",
+    "summary": "Buildings and action fragments make a textured setting.",
+    "x": 11,
+    "y": 51,
+    "bounds": {
+     "x": 0,
+     "y": 38,
+     "w": 27,
+     "h": 24
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A montage of smaller scales",
+      "body": "Below the large stone face, small architectural forms, a figure and vehicle-like details occupy the left edge. Their softer contrast makes them secondary. They add a sense of a broader world without supplying the spatial continuity of a single photograph.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Not a map of events",
+      "body": "These fragments may suggest variety and movement, but their arrangement does not establish chronological order. A poster montage can combine attractions from different moments. The layer study keeps the architectural setting together rather than inventing complete objects behind the main body.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Can you arrange these fragments into a certain sequence, or only a possible one?",
+    "related": [
+     "stone",
+     "small-figures"
+    ]
+   },
+   {
+    "id": "small-figures",
+    "number": 8,
+    "label": "Right-hand figures",
+    "shortLabel": "Right-hand figures",
+    "kicker": "DESIGN",
+    "summary": "Smaller people provide a second cluster of action.",
+    "x": 89,
+    "y": 56,
+    "bounds": {
+     "x": 72,
+     "y": 44,
+     "w": 28,
+     "h": 27
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Faces at the edge",
+      "body": "Several smaller figures gather on the right, with different expressions and poses. They sit behind the bright main torso and close to the sheet boundary. Their compressed size and lower contrast distinguish them from the principal foreground presentation.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "More than a single portrait",
+      "body": "The extra figures widen the film’s invitation beyond one body or one pose. A viewer may recognise performers, but the image does not require that knowledge to communicate a crowded action world. Their exact relationships are left unresolved here.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which small figure is easiest to notice, and is that due to size, expression or contrast?",
+    "related": [
+     "torso",
+     "architecture"
+    ]
+   },
+   {
+    "id": "title",
+    "number": 9,
+    "label": "Thai title and English name",
+    "shortLabel": "Thai title and English name",
+    "kicker": "LANGUAGE",
+    "summary": "Large white characters make a clear lower anchor.",
+    "x": 51,
+    "y": 81,
+    "bounds": {
+     "x": 15,
+     "y": 77,
+     "w": 74,
+     "h": 11
+    },
+    "layerIndex": 4,
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "One name in two scripts",
+      "body": "The large Thai title reads องค์บาก; the smaller Latin line gives ONG-BAK. The distributor uses the same Thai title for the sacred image in the story. The small English line is a name rendering, not a full explanation of its cultural or narrative meaning.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Weight at the base",
+      "body": "The Thai characters are much thicker and taller than the Latin letters underneath. A red rule adds another narrow horizontal accent. Their high contrast against the dark lower ground gathers attention after the crowded warm montage above.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "How does the size difference establish which script leads this edition?",
+    "related": [
+     "credits",
+     "torso"
+    ]
+   },
+   {
+    "id": "credits",
+    "number": 10,
+    "label": "Supporting words and logos",
+    "shortLabel": "Supporting words and logos",
+    "kicker": "DESIGN",
+    "summary": "Fine rows connect the image to a release.",
+    "x": 48,
+    "y": 92,
+    "bounds": {
+     "x": 4,
+     "y": 89,
+     "w": 91,
+     "h": 8
+    },
+    "layerIndex": 5,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A dense final level",
+      "body": "Small credits and a row of logos occupy the bottom below the large title. They are lighter than the surrounding dark ground but far finer than the action imagery. The top-right text offers another textual entry point, separated from this lower production register.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A specific studio record",
+      "body": "The official Sahamongkolfilm page records the Thai release on January 31, 2003 and includes a director’s note by Prachya Pinkaew. This establishes film and release context. The present study does not infer an uncredited poster designer or transcribe illegible fine names.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "saha"
+       }
+      ]
+     }
+    ],
+    "question": "Which information is meant for a quick glance, and which requires stopping to read?",
+    "related": [
+     "title",
+     "front-face"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed poster edition",
+    "url": "https://sahamongkolfilm.com/saha-movie/ong-bak-movie-2546",
+    "kind": "Visual source",
+    "summary": "The reproduced edition is the evidence for visible wording, layout, marks and colour relationships. Translations and visual interpretations are supplied by Poster Atlas."
+   },
+   {
+    "id": "saha",
+    "title": "Sahamongkolfilm: Ong Bak",
+    "url": "https://sahamongkolfilm.com/saha-movie/ong-bak-movie-2546",
+    "kind": "Official studio and distributor",
+    "summary": "Provides the Thai title, January 31, 2003 release, story of Ting and the stolen Buddha head, cast and Prachya Pinkaew’s director’s note. The displayed studio poster matches the installed edition."
+   }
+  ],
+  "tour": [
+   "front-face",
+   "front-fist",
+   "stone",
+   "rear-arms",
+   "title",
+   "credits"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "องค์บาก",
+      "meaning": "Ong-Bak: the name of the sacred Buddha image in the story.",
+      "lang": "th"
+     },
+     {
+      "text": "ONG-BAK",
+      "meaning": "Latin-script rendering of the title.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Only securely legible title and key wording are transcribed. Small credits are not reconstructed from this reproduction.",
+  "palette": [
+   {
+    "name": "Warm skin",
+    "hex": "#F7D284",
+    "role": "The bright foreground body.",
+    "region": "torso"
+   },
+   {
+    "name": "Stone brown",
+    "hex": "#D3A46C",
+    "role": "A rough background surface.",
+    "region": "stone"
+   },
+   {
+    "name": "Deep lower field",
+    "hex": "#221D19",
+    "role": "Dark support for the title.",
+    "region": "title"
+   },
+   {
+    "name": "Pale title",
+    "hex": "#FFFFFF",
+    "role": "The principal lettering contrast.",
+    "region": "title"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in this installed reproduction. They are not original paint, ink or printing specifications.",
+  "connections": [
+   {
+    "label": "Arms set the direction",
+    "title": "Two gestures cross the upright frame",
+    "text": "The foreground fist reaches toward the viewer while the rear fighter’s arms run across the image. The contrasting gestures provide the movement.",
+    "anchors": [
+     [
+      1,
+      0.15049928673323823,
+      0.3505
+     ],
+     [
+      2,
+      0.8395149786019972,
+      0.3695
+     ]
+    ],
+    "id": "ong-bak-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Light on two surfaces",
+    "title": "Skin against carved stone",
+    "text": "The bright foreground skin separates from the larger, rough stone face behind it, even though both share the warm brown palette.",
+    "anchors": [
+     [
+      1,
+      0.48002853067047074,
+      0.4905
+     ],
+     [
+      0,
+      0.23894436519258203,
+      0.1445
+     ]
+    ],
+    "id": "ong-bak-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

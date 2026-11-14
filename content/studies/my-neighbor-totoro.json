@@ -1,0 +1,787 @@
+{
+ "poster": {
+  "id": "my-neighbor-totoro",
+  "title": "My Neighbor Totoro",
+  "year": "1988",
+  "yearNumber": 1988,
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Hayao Miyazaki",
+  "country": "Japan",
+  "countries": [
+   "Japan"
+  ],
+  "primaryOrigin": "Japan",
+  "region": "East Asia",
+  "category": "Film",
+  "image": "images/full/my-neighbor-totoro.jpg",
+  "ratio": 0.706880301602262,
+  "alt": "Japanese My Neighbor Totoro poster: a girl under a red umbrella stands at a bus stop beside a large grey Totoro wearing a green leaf, in a dark rainy forest. Pink title lettering fills the upper right; white vertical copy sits between the sign and Totoro.",
+  "blurb": "A shared wait in the rain: a small red umbrella, a broad grey body and a leaf turn differences of scale into a quiet encounter.",
+  "notes": [
+   {
+    "title": "Two shelters, two scales",
+    "body": "The girl stands beneath a wide red umbrella while the much larger Totoro wears a small green leaf. Their unequal shelters make a precise visual comparison without requiring a named identity for the girl."
+   },
+   {
+    "title": "Bright words in dark weather",
+    "body": "The pink title floats high above the figures. Narrow white vertical copy occupies the gap beside Totoro, while straight rain marks continue across the scene and the characters."
+   },
+   {
+    "title": "An ordinary place for an unusual meeting",
+    "body": "A weathered circular sign, timetable and concrete base identify the waiting place. The wet ground joins the two figures at the feet, giving the imagined encounter a visible everyday setting."
+   }
+  ],
+  "source": "https://www.ghibli.jp/works/totoro/",
+  "credit": "Image reproduced from Studio Ghibli’s official film page. © 1988 Hayao Miyazaki/Studio Ghibli. Poster artist and exact printing date are not established by that record.",
+  "imageCredit": "© 1988 Hayao Miyazaki/Studio Ghibli, as stated on the official film record. Copyrighted poster reproduction; no public-domain claim.",
+  "imageSource": "https://www.ghibli.jp/works/totoro/",
+  "downloadURL": "https://www.ghibli.jp/images/totoro.jpg",
+  "edition": "Japanese-language rainy bus-stop poster reproduced by Studio Ghibli",
+  "posterYear": null,
+  "posterTerritory": "Japan",
+  "posterDateStatus": "Exact printing date unverified; 1988 is the film year and copyright year, not an independently verified date for this reproduction.",
+  "originNote": "Japanese film. Studio Ghibli’s record gives the Japanese release as 16 April 1988 and the distributor as Toho. This Japanese-language sheet is kept distinct from later international campaigns.",
+  "originSources": [
+   {
+    "title": "Studio Ghibli: My Neighbor Totoro",
+    "url": "https://www.ghibli.jp/works/totoro/"
+   }
+  ],
+  "creditSources": [
+   {
+    "title": "Studio Ghibli: official record and poster",
+    "url": "https://www.ghibli.jp/works/totoro/"
+   }
+  ],
+  "reproduction": "750 × 1061 official JPEG. Small footer lettering and textured edges limit fine transcription and separation; the girl is not assigned a character name in this study.",
+  "anchor": [
+   0.6907,
+   0.4816
+  ],
+  "anchorLayer": 3,
+  "accent": "#FF557E",
+  "thumb": "images/catalogue/my-neighbor-totoro.webp"
+ },
+ "studyData": {
+  "intro": "Two very different figures wait in the same rain. This study follows the shelters, outlines, writing and wet ground that make their meeting legible. It examines the Japanese-language poster reproduced by Studio Ghibli; its precise printing date and the girl’s identity are left unasserted.",
+  "initial": "umbrella",
+  "regions": [
+   {
+    "id": "title",
+    "number": 1,
+    "label": "A pink title above the rain",
+    "shortLabel": "Pink title",
+    "kicker": "COLOUR & NAMING",
+    "summary": "A bright name occupies the space above a dark encounter.",
+    "layerIndex": 5,
+    "x": 73.8667,
+    "y": 10.9331,
+    "bounds": {
+     "x": 49.4667,
+     "y": 5.3723,
+     "w": 47.2,
+     "h": 10.3676
+    },
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Brightness without a light source",
+      "body": "The pink strokes sit against the darkest upper forest, separate from the light falling across the figures below. Their curved ends and uneven widths are visible even at a small scale. This patch of bright colour gives the upper half its own clear point of attention.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "The neighbour in the name",
+      "body": "The title reads となりのトトロ. Studio Ghibli gives the English title as My Neighbor Totoro. The familiar idea of a neighbour sits beside the unusual name; reading that relationship against the large pictured creature is a useful way into the encounter, rather than a claim about the lettering designer’s intention.",
+      "evidence": "documented",
+      "originalText": "となりのトトロ",
+      "lang": "ja",
+      "translation": "My Neighbor Totoro",
+      "sources": [
+       {
+        "id": "ghibli",
+        "note": "The official record supplies both the Japanese title and the English release title. The relation to the pictured creature is a visual reading."
+       }
+      ]
+     }
+    ],
+    "question": "If the title were white like the vertical copy, which part of the poster would hold your attention first?",
+    "related": [
+     "vertical",
+     "umbrella",
+     "totoro"
+    ]
+   },
+   {
+    "id": "opening",
+    "number": 2,
+    "label": "A message outside the forest",
+    "shortLabel": "Top message",
+    "kicker": "AN ADDRESS TO THE VIEWER",
+    "summary": "The white strip frames the scene with a promise about something forgotten.",
+    "layerIndex": 6,
+    "x": 49.3333,
+    "y": 1.9793,
+    "bounds": {
+     "x": 23.0667,
+     "y": 0.2828,
+     "w": 54,
+     "h": 3.2988
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Something left behind",
+      "body": "The top line reads 忘れものを、届けにきました。 A natural English rendering is “Here to bring you something you forgot.” The Japanese leaves the subject unstated. It does not name the forgotten thing, so childhood, memory or a lost object should remain possible readings rather than literal translations.",
+      "evidence": "documented",
+      "originalText": "忘れものを、届けにきました。",
+      "lang": "ja",
+      "translation": "Here to bring you something you forgot.",
+      "sources": [
+       {
+        "id": "poster",
+        "note": "The exact Japanese wording is visible in the white top strip. The English is Poster Atlas’s translation; no specific forgotten object is named."
+       }
+      ]
+     },
+     {
+      "kind": "business",
+      "heading": "A promise before a description",
+      "body": "Black lettering on a clean white strip is visually different from the dark illustrated scene below it. This lets the message address the viewer from outside the scene. It offers an invitation rather than a plot summary, leaving the image to suggest what might be returned.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What visible feature could connect to the idea of something forgotten, and what remains open?",
+    "related": [
+     "vertical",
+     "bus-stop",
+     "credits"
+    ]
+   },
+   {
+    "id": "vertical",
+    "number": 3,
+    "label": "A statement with a small retreat",
+    "shortLabel": "Vertical slogan",
+    "kicker": "LANGUAGE & TONE",
+    "summary": "The final “probably” changes the certainty of the sentence.",
+    "layerIndex": 6,
+    "x": 47.2,
+    "y": 31.3855,
+    "bounds": {
+     "x": 42.4,
+     "y": 25.6362,
+     "w": 7.6,
+     "h": 32.4222
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A creature, a place, a qualification",
+      "body": "The two columns read このへんないきものは、まだ日本にいるのです。たぶん。 The meaning is “This strange creature is still in Japan. Probably.” The final word qualifies the claim. This wording introduces a playful uncertainty; it is campaign copy, not evidence that such a creature exists.",
+      "evidence": "documented",
+      "originalText": "このへんないきものは、まだ日本にいるのです。たぶん。",
+      "lang": "ja",
+      "translation": "This strange creature is still in Japan. Probably.",
+      "sources": [
+       {
+        "id": "poster",
+        "note": "The slogan is legible on the installed poster. The English rendering preserves the final qualification たぶん."
+       }
+      ]
+     },
+     {
+      "kind": "design",
+      "heading": "Words occupy the gap",
+      "body": "The narrow white columns sit between the bus stop and the broad grey figure. Their vertical direction echoes the rain while their much brighter, thicker strokes remain readable. The line extends down toward the red canopy, making the empty-looking gap carry both atmosphere and language.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Cover only the last word, “probably”: how does the relationship between the words and the pictured creature change?",
+    "related": [
+     "opening",
+     "forest",
+     "eyes"
+    ]
+   },
+   {
+    "id": "forest",
+    "number": 4,
+    "label": "Rain makes the dark field visible",
+    "shortLabel": "Forest & rain",
+    "kicker": "ATMOSPHERE & DIRECTION",
+    "summary": "Thin vertical marks reveal depth without filling every dark area.",
+    "layerIndex": 0,
+    "x": 24.1333,
+    "y": 27.3327,
+    "bounds": {
+     "x": 2.4,
+     "y": 4.6183,
+     "w": 39.3333,
+     "h": 53.4402
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Several kinds of darkness",
+      "body": "The background is not a single black fill. Green and brown patches suggest vegetation and upright forms, while pale rain marks run at different lengths and strengths. Compare the clearer area behind the sign with the dim upper forest: detail gathers in some places and recedes in others.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Weather crosses the figures",
+      "body": "Rain strokes continue across the canopy, bodies and ground rather than stopping at every outline. The layer study keeps these marks with the surfaces on which they appear. Their shared direction ties differently coloured objects to one scene, even though their shapes and sizes differ greatly.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Where can you still detect rain in the darkest area, and which marks disappear first when the poster is made small?",
+    "related": [
+     "vertical",
+     "umbrella",
+     "ground"
+    ]
+   },
+   {
+    "id": "bus-stop",
+    "number": 5,
+    "label": "A recognisable place to wait",
+    "shortLabel": "Bus stop",
+    "kicker": "EVERYDAY STRUCTURE",
+    "summary": "The sign, timetable, post and base establish a small public place.",
+    "layerIndex": 1,
+    "x": 18.9333,
+    "y": 50.8954,
+    "bounds": {
+     "x": 11.2,
+     "y": 45.6173,
+     "w": 15.8667,
+     "h": 43.4496
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A circle on a thin support",
+      "body": "The weathered circular sign is much smaller than Totoro’s body but uses a similarly simple outer shape. Its narrow post leads down to a block-like concrete base. The visible timetable and interrupted post make this a specific object, rather than a decorative circle floating beside the figures.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Ordinary furniture, unusual company",
+      "body": "A bus-stop sign gives the scene an everyday action: waiting beside a route marker. The large creature stands in the same space as the girl rather than in a separate fantasy inset. This juxtaposition supports a reading of an unusual meeting within a familiar routine; it does not establish a real location.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "If the sign and base were covered, what evidence would still suggest that the figures are waiting somewhere specific?",
+    "related": [
+     "girl",
+     "ground",
+     "opening"
+    ]
+   },
+   {
+    "id": "umbrella",
+    "number": 6,
+    "label": "A red canopy with room beneath it",
+    "shortLabel": "Red umbrella",
+    "kicker": "SHELTER & COLOUR",
+    "summary": "One broad warm shape separates the small figure from the forest.",
+    "layerIndex": 2,
+    "x": 30.6667,
+    "y": 62.9595,
+    "bounds": {
+     "x": 15.0667,
+     "y": 59.9434,
+     "w": 33.4667,
+     "h": 7.9171
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A wide roof over a narrow body",
+      "body": "The umbrella spreads much farther sideways than the girl’s shoulders. Its curved upper edge and scalloped underside make a low canopy, with darker red sections beneath the ribs. The small spike and visible shaft keep the form readable as an object held above a person.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Compare two shelters",
+      "body": "The red canopy and the green leaf both sit above heads, but their proportions are reversed: the smaller figure has the wider shelter. The comparison can feel gently comic or simply practical. The visible evidence is the mismatch of size and coverage, rather than one required emotional response.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Compare the width of each shelter with the head below it. What difference becomes most noticeable?",
+    "related": [
+     "leaf",
+     "girl",
+     "title"
+    ]
+   },
+   {
+    "id": "girl",
+    "number": 7,
+    "label": "A small figure with two handles",
+    "shortLabel": "The girl",
+    "kicker": "GESTURE & SOURCE LIMITS",
+    "summary": "Hands, clothing and handles make the figure more specific than a silhouette.",
+    "layerIndex": 2,
+    "x": 33.3333,
+    "y": 69.18,
+    "bounds": {
+     "x": 25.7333,
+     "y": 64.4675,
+     "w": 16.6667,
+     "h": 16.1169
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Hands keep the objects connected",
+      "body": "One hand holds the shaft beneath the red canopy; the other holds a dark umbrella with a curved handle and folded fabric. These small grips explain how the objects relate to the body. Keeping the hands, handles and visible fabric together prevents the separated plane from turning the gestures into disconnected fragments.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Describe this figure before naming her",
+      "body": "The installed image shows a girl with tied hair, a yellow top, an orange skirt and pale boots. This study does not identify her as a particular film character: the official record used here does not establish that poster-specific identity. Description remains useful without importing a remembered scene or name.",
+      "evidence": "uncertain",
+      "sources": [
+       {
+        "id": "ghibli",
+        "note": "The official film page reproduces this poster and lists film credits; it does not identify this pictured girl as a named character."
+       }
+      ]
+     }
+    ],
+    "question": "Which small object or gesture would be lost if the girl were described only as a coloured silhouette?",
+    "related": [
+     "umbrella",
+     "boots",
+     "bus-stop"
+    ]
+   },
+   {
+    "id": "boots",
+    "number": 8,
+    "label": "Two pale boots meet the wet ground",
+    "shortLabel": "Pale boots",
+    "kicker": "CONTACT & REPETITION",
+    "summary": "Separate feet make the small figure feel planted in the scene.",
+    "layerIndex": 2,
+    "x": 32.9333,
+    "y": 86.8049,
+    "bounds": {
+     "x": 29.2,
+     "y": 79.6418,
+     "w": 8.6667,
+     "h": 9.9906
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Light shapes at the bottom",
+      "body": "The pale boots contrast with the orange skirt and the darker ground. A narrow gap remains between them, so the feet read as two separate supports rather than one light block. Their upright sides echo the legs, post and rain while their rounded toes soften that repetition.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A contact edge matters",
+      "body": "Look where the soles meet the dark horizontal marks under them. This short boundary connects the figure to the surface. The brighter water beyond the feet provides contrast, but the reproduction does not warrant identifying every mark as a precise reflection of a particular body part.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "What changes in the figure’s sense of weight if the thin dark marks under the soles are covered?",
+    "related": [
+     "ground",
+     "girl",
+     "totoro"
+    ]
+   },
+   {
+    "id": "totoro",
+    "number": 9,
+    "label": "A broad body with delicate edges",
+    "shortLabel": "Totoro’s outline",
+    "kicker": "SCALE & CONTOUR",
+    "summary": "Pointed ears, fine whiskers and small paws extend a massive form.",
+    "layerIndex": 3,
+    "x": 80,
+    "y": 74.3638,
+    "bounds": {
+     "x": 44.2667,
+     "y": 34.213,
+     "w": 50.5333,
+     "h": 55.4194
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A shape that holds the right side",
+      "body": "The broad, rounded body occupies most of the lower-right image. Pointed ears extend its height; thin whiskers stretch sideways; small paws and feet interrupt the lower outline. These details matter because they give a large, simple mass a particular character without competing with its overall size.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Standing together, sized differently",
+      "body": "The girl reaches only partway up the larger body, yet both figures share the same ground. The difference of scale is easy to see because they stand beside one another without a dividing frame. Their relatively still poses invite comparison rather than presenting the size difference through an action scene.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which part of Totoro’s outline identifies the figure most quickly when the internal face and belly are covered?",
+    "related": [
+     "eyes",
+     "belly",
+     "girl"
+    ]
+   },
+   {
+    "id": "leaf",
+    "number": 10,
+    "label": "A small green roof on a large head",
+    "shortLabel": "Leaf shelter",
+    "kicker": "AN UNEXPECTED SUBSTITUTE",
+    "summary": "The upward stem makes the leaf more than a flat green accent.",
+    "layerIndex": 4,
+    "x": 69.0667,
+    "y": 42.5071,
+    "bounds": {
+     "x": 62.1333,
+     "y": 37.7945,
+     "w": 15.0667,
+     "h": 7.2573
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A leaf with its own contour",
+      "body": "The green shape has an uneven edge, a central bend and a narrow stem pointing upward. It rests between the pointed ears instead of enclosing the head. Its lighter green separates from the dark grey beneath it, so this small item survives within a much larger figure.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A reply to the red canopy",
+      "body": "Read the leaf beside the umbrella rather than by itself. Both mark a response to the rain, but the leaf covers far less of the large figure. The colour difference also helps the eye travel between them: a muted green above Totoro and a vivid red above the girl.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "If the leaf were enlarged to the width of the red umbrella, what relationship between the two figures would change?",
+    "related": [
+     "umbrella",
+     "totoro",
+     "forest"
+    ]
+   },
+   {
+    "id": "eyes",
+    "number": 11,
+    "label": "Two light circles and a small nose",
+    "shortLabel": "Eyes & whiskers",
+    "kicker": "FACE WITH FEW MARKS",
+    "summary": "Sparse facial marks remain clear on a dark head.",
+    "layerIndex": 3,
+    "x": 77.7333,
+    "y": 48.1621,
+    "bounds": {
+     "x": 45.0667,
+     "y": 46.1828,
+     "w": 47.2,
+     "h": 8.0113
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Very little drawing, strong recognition",
+      "body": "Two pale eye shapes each contain a small dark pupil, with a compact nose between them. The eyes stand out because the surrounding head is dark and relatively plain. Compare their rounded edges with the narrow whiskers: the face combines strong spots with almost line-thin details.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Leave the expression open",
+      "body": "The eyes face outward without the large smile or open mouth common in more overt expressions. Surprise, attentiveness or calm are possible responses, but the marks do not settle an emotion. The question is how a few visible forms permit several readings while remaining immediately recognisable.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What expression do you read, and which visible mark supports it rather than your knowledge of the character?",
+    "related": [
+     "totoro",
+     "vertical",
+     "leaf"
+    ]
+   },
+   {
+    "id": "belly",
+    "number": 12,
+    "label": "A diagonal of light across a rounded body",
+    "shortLabel": "Lit belly",
+    "kicker": "LIGHT & SURFACE",
+    "summary": "The broad pale belly contains both shadow and repeated dark marks.",
+    "layerIndex": 3,
+    "x": 72.6667,
+    "y": 64.4675,
+    "bounds": {
+     "x": 49.7333,
+     "y": 53.0631,
+     "w": 39.3333,
+     "h": 35.6268
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "The colour changes across one form",
+      "body": "The belly is pale yellow below a blue-grey upper area, divided by a slanting, irregular boundary. Dark chevron-like marks cross this surface. The contrast makes a large rounded volume legible without separating it into different objects; the light and shaded areas still belong to one body.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Repeat a mark, keep the mass",
+      "body": "The dark marks vary in size and sit in loose rows rather than covering the whole belly. They give the surface a rhythm while leaving broad areas uninterrupted. Compare this repetition with the narrow rain lines: one pattern describes the figure, while the other passes across the scene.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Follow the sloping light boundary: where does it sharpen the volume, and where do the repeated dark marks pull attention away?",
+    "related": [
+     "totoro",
+     "forest",
+     "ground"
+    ]
+   },
+   {
+    "id": "ground",
+    "number": 13,
+    "label": "A shared strip of wet light",
+    "shortLabel": "Wet ground",
+    "kicker": "SPACE & CONTACT",
+    "summary": "Horizontal patches bring the vertical figures onto one surface.",
+    "layerIndex": 0,
+    "x": 43.2,
+    "y": 91.8002,
+    "bounds": {
+     "x": 1.4667,
+     "y": 89.0669,
+     "w": 96.9333,
+     "h": 5.4665
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A different direction below the feet",
+      "body": "The ground is built from short horizontal patches of pale yellow, blue-grey and dark brown. These marks cut across the long vertical rain strokes. Their low placement ties the sign base and both figures to the same strip of space rather than leaving them suspended against the forest.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Brightness spreads without a clean mirror",
+      "body": "The wet surface catches broken patches of light, but it does not show a perfectly symmetrical duplicate of either figure. Looking for differences between a reflection and a general glint helps prevent over-description. The irregular bright marks can suggest water without every patch needing a named source.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which horizontal mark most convincingly joins two otherwise separate objects to the same ground?",
+    "related": [
+     "boots",
+     "bus-stop",
+     "belly"
+    ]
+   },
+   {
+    "id": "credits",
+    "number": 14,
+    "label": "A director’s name beside the small print",
+    "shortLabel": "Film credits",
+    "kicker": "AUTHORSHIP & EDITION",
+    "summary": "The large yellow credit is readable where the finer footer is not.",
+    "layerIndex": 6,
+    "x": 20.2667,
+    "y": 96.23,
+    "bounds": {
+     "x": 2.2667,
+     "y": 94.4392,
+     "w": 95.3333,
+     "h": 3.9585
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Three roles in one visible line",
+      "body": "The larger footer reads 原作・脚本・監督 宮崎 駿: original work, screenplay and direction by Hayao Miyazaki. Those roles agree with Studio Ghibli’s film record. The poster uses larger yellow characters for this line than for the tightly packed white credits running below it.",
+      "evidence": "documented",
+      "originalText": "原作・脚本・監督 宮崎 駿",
+      "lang": "ja",
+      "translation": "Original work, screenplay and direction: Hayao Miyazaki.",
+      "sources": [
+       {
+        "id": "ghibli",
+        "note": "The official film record credits Miyazaki with original work, screenplay and direction; the installed footer supplies the visible wording."
+       }
+      ]
+     },
+     {
+      "kind": "business",
+      "heading": "A film date is not a printing date",
+      "body": "Studio Ghibli records a Japanese opening on 16 April 1988 and identifies Toho as distributor. This reproduction belongs to that official film page, but the page does not establish its exact printing date or poster artist. The catalogue therefore uses the film year while leaving the poster date unverified.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "ghibli",
+        "note": "The official record gives 1988.4.16 and Toho. It provides no separate printing date or poster-design credit for this image."
+       }
+      ]
+     }
+    ],
+    "question": "Which facts can you read on the sheet, and which require the film record or remain unknown?",
+    "related": [
+     "opening",
+     "title",
+     "bus-stop"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "Studio Ghibli: installed poster reproduction",
+    "url": "https://www.ghibli.jp/images/totoro.jpg",
+    "kind": "Primary visual source",
+    "summary": "The official 750 × 1061 JPEG supplies this exact layout, Japanese inscriptions and visible colour relationships. English renderings and visual interpretations are supplied by Poster Atlas."
+   },
+   {
+    "id": "ghibli",
+    "title": "Studio Ghibli: My Neighbor Totoro",
+    "url": "https://www.ghibli.jp/works/totoro/",
+    "kind": "Official film record",
+    "summary": "The studio supplies the Japanese and English titles, Miyazaki’s principal roles, Toho distribution, the 16 April 1988 Japanese release date and the copyright line. It reproduces this poster but does not establish its printing date, poster artist or the pictured girl’s identity."
+   }
+  ],
+  "tour": [
+   "title",
+   "bus-stop",
+   "umbrella",
+   "leaf",
+   "belly",
+   "vertical",
+   "ground"
+  ],
+  "transcript": [
+   {
+    "heading": "Title",
+    "rows": [
+     {
+      "text": "となりのトトロ",
+      "meaning": "My Neighbor Totoro — the English title used by Studio Ghibli.",
+      "lang": "ja"
+     }
+    ]
+   },
+   {
+    "heading": "Campaign wording",
+    "rows": [
+     {
+      "text": "忘れものを、届けにきました。",
+      "meaning": "Here to bring you something you forgot. The subject and the forgotten thing are unstated.",
+      "lang": "ja"
+     },
+     {
+      "text": "このへんないきものは、まだ日本にいるのです。たぶん。",
+      "meaning": "This strange creature is still in Japan. Probably.",
+      "lang": "ja"
+     }
+    ]
+   },
+   {
+    "heading": "Larger footer credit",
+    "rows": [
+     {
+      "text": "原作・脚本・監督 宮崎 駿",
+      "meaning": "Original work, screenplay and direction: Hayao Miyazaki.",
+      "lang": "ja"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Partial transcript of securely legible display wording. English campaign renderings are Poster Atlas translations, not official English campaign copy. The weathered bus-stop writing, timetable, tiny footer credits and small logos are not expanded or guessed at this resolution. The girl is not named.",
+  "palette": [
+   {
+    "name": "Title pink",
+    "hex": "#FF557E",
+    "role": "A saturated accent above the dark scene.",
+    "region": "title"
+   },
+   {
+    "name": "Canopy coral",
+    "hex": "#FE7680",
+    "role": "The broad warm shelter above the girl.",
+    "region": "umbrella"
+   },
+   {
+    "name": "Leaf green",
+    "hex": "#70844F",
+    "role": "A small muted shelter between the ears.",
+    "region": "leaf"
+   },
+   {
+    "name": "Belly gold",
+    "hex": "#BC9C6D",
+    "role": "A pale warm surface beneath the diagonal shadow.",
+    "region": "belly"
+   },
+   {
+    "name": "Rainy near-black",
+    "hex": "#252525",
+    "role": "The dark setting that makes the brighter marks legible.",
+    "region": "forest"
+   },
+   {
+    "name": "Boot grey",
+    "hex": "#D0D1CC",
+    "role": "A cool light shape against the wet ground.",
+    "region": "boots"
+   }
+  ],
+  "paletteNote": "Samples are exact pixels from the installed JPEG, not specifications for original inks or paint. Adjacent pixels vary with printed texture, rain, light and JPEG compression."
+ }
+}

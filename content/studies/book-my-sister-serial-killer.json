@@ -1,0 +1,581 @@
+{
+ "poster": {
+  "id": "book-my-sister-serial-killer",
+  "title": "My Sister, the Serial Killer",
+  "year": "2018",
+  "yearNumber": 2018,
+  "coverYear": "2018",
+  "posterYear": "2018",
+  "posterDateStatus": "2018 Nigerian edition promoted for December release; not a later international redesign.",
+  "bookFirstPublication": "2018",
+  "bookAuthor": "Oyinkan Braithwaite",
+  "bookPublisher": "Narrative Landscape Press",
+  "bookOrigin": "English-language novel by Oyinkan Braithwaite",
+  "category": "Book cover",
+  "country": "Nigeria",
+  "countries": [
+   "Nigeria"
+  ],
+  "primaryOrigin": "Nigeria",
+  "region": "Africa",
+  "creator": "Oyinkan Braithwaite",
+  "image": "images/full/book-my-sister-serial-killer.jpg",
+  "ratio": 0.6561360874848117,
+  "alt": "Dark red and ochre illustrated cover with four upper figures, two women’s faces separated by open ochre space, torn white seams and a large gold title.",
+  "blurb": "White seams divide three scenes, while two faces turn the central strip into a tense exchange.",
+  "notes": [
+   {
+    "title": "A divided surface",
+    "body": "Two irregular white seams separate the upper tableau, two faces and lower title. They resemble torn edges without proving the cover was physically collaged."
+   },
+   {
+    "title": "The faces do not meet",
+    "body": "The left face appears in profile; the right face turns towards the reader. The ochre interval makes their different orientations easier to compare."
+   },
+   {
+    "title": "The novelist also designs",
+    "body": "The Nigerian launch coverage explicitly says Braithwaite designed this cover. That source supports the credit for this edition, not every later cover."
+   }
+  ],
+  "source": "https://brittlepaper.com/2018/10/british-film-production-company-options-oyinkan-braithwaites-sister-serial-killer-tv/",
+  "credit": "Brittle Paper’s 2018 Nigerian launch coverage reproduces this exact cover and explicitly credits author Oyinkan Braithwaite with its design. Publisher: Narrative Landscape Press, Lagos.",
+  "edition": "2018 Nigerian edition promoted for December release; not a later international redesign.",
+  "originNote": "Country describes this edition’s publishing/design context, not the author’s nationality. Nigerian edition published in Lagos; author-design credit specifically verified for this cover.",
+  "originSources": [
+   {
+    "title": "Brittle Paper: Nigerian cover and author-design credit, 2018",
+    "url": "https://brittlepaper.com/2018/10/british-film-production-company-options-oyinkan-braithwaites-sister-serial-killer-tv/"
+   }
+  ],
+  "creditSources": [
+   {
+    "title": "Brittle Paper: Nigerian cover and author-design credit, 2018",
+    "url": "https://brittlepaper.com/2018/10/british-film-production-company-options-oyinkan-braithwaites-sister-serial-killer-tv/"
+   }
+  ],
+  "imageSource": "https://brittlepaper.com/2018/10/british-film-production-company-options-oyinkan-braithwaites-sister-serial-killer-tv/",
+  "imageCredit": "Brittle Paper’s 2018 Nigerian launch coverage reproduces this exact cover and explicitly credits author Oyinkan Braithwaite with its design. Publisher: Narrative Landscape Press, Lagos.",
+  "accent": "#9E7736",
+  "anchor": [
+   0.2,
+   0.51
+  ],
+  "reproduction": "Source reproduction retained without generative reconstruction. Analytical layers partition visible source pixels; printing colours and hidden artwork cannot be recovered.",
+  "downloadURL": "https://web.s3.wisc.edu/brittle-paper/prod/uploads/2018/10/My-Sister-The-Serial-Killer-Front-Cover.jpg",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-my-sister-serial-killer.webp"
+ },
+ "studyData": {
+  "intro": "White seams divide three scenes, while two faces turn the central strip into a tense exchange. Follow the details to compare what is visible, what can be interpreted and what the edition record establishes.",
+  "initial": "left",
+  "regions": [
+   {
+    "id": "tableau",
+    "number": 1,
+    "label": "Four figures occupy an upper scene",
+    "shortLabel": "Upper tableau",
+    "kicker": "DESIGN",
+    "summary": "Four illustrated figures occupy the upper red field: two larger figures behind two smaller ones.",
+    "layerIndex": 1,
+    "x": 49,
+    "y": 25,
+    "bounds": {
+     "x": 7,
+     "y": 1,
+     "w": 93,
+     "h": 37
+    },
+    "question": "What relationship can you describe confidently from placement alone, without naming the figures?",
+    "related": [
+     "left",
+     "right"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Upper tableau in the image",
+      "body": "Four illustrated figures occupy the upper red field: two larger figures behind two smaller ones. Clothes, headwear and seated or standing positions distinguish them. Faces are simplified compared with the two much larger faces in the strip below.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Group posture and close-up expression",
+      "body": "The grouping can suggest a family or social tableau, but the picture alone does not securely identify every person. Its smaller scale creates a different kind of looking from the central close-ups. Compare what the upper scene tells through posture with what the faces tell through expression.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "headdress",
+    "number": 2,
+    "label": "A pale oval crowns one figure",
+    "shortLabel": "Pale headdress",
+    "kicker": "DESIGN",
+    "summary": "A broad pale oval surrounds the head of the upper-left figure.",
+    "layerIndex": 1,
+    "x": 17,
+    "y": 7,
+    "bounds": {
+     "x": 9,
+     "y": 0,
+     "w": 19,
+     "h": 14
+    },
+    "question": "What makes this pale shape stand out from the other upper figures?",
+    "related": [
+     "left",
+     "right"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Pale headdress in the image",
+      "body": "A broad pale oval surrounds the head of the upper-left figure. Its curved bands and warm highlights separate it from the dark red field. The shape is far lighter than most of the surrounding clothing and becomes an early visual landmark.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A light oval gives one figure prominence",
+      "body": "The oval gives one figure prominence without making that figure physically largest. It also introduces a rounded light shape that can be compared with eyes and facial contours below. The cover does not establish the headdress’s precise name or cultural role.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "gesture",
+    "number": 3,
+    "label": "An arm stretches towards the edge",
+    "shortLabel": "Extended arm",
+    "kicker": "DESIGN",
+    "summary": "The upper-right figure extends one arm sideways towards the cover’s right edge.",
+    "layerIndex": 1,
+    "x": 83.06,
+    "y": 28.61,
+    "bounds": {
+     "x": 52,
+     "y": 19,
+     "w": 47,
+     "h": 17
+    },
+    "question": "Does the arm lead your eye out of the scene or back towards the seated figure?",
+    "related": [
+     "left",
+     "right"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Extended arm in the image",
+      "body": "The upper-right figure extends one arm sideways towards the cover’s right edge. The hand and forearm form a narrow warm line against dark clothing and red ground. This horizontal gesture differs from the more upright bodies on the left.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An arm carries attention towards the edge",
+      "body": "The outstretched arm widens the upper scene and creates a route towards its boundary. Its meaning remains open without additional narrative evidence. Compare the gesture’s direction with the irregular white seam immediately below, which also travels across the cover.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "left",
+    "number": 4,
+    "label": "A profile turns into the central space",
+    "shortLabel": "Left profile",
+    "kicker": "DESIGN",
+    "summary": "The left face is shown largely in profile, with a rounded nose, lips and chin outlined against ochre.",
+    "layerIndex": 2,
+    "x": 20,
+    "y": 51,
+    "bounds": {
+     "x": 0,
+     "y": 37,
+     "w": 36,
+     "h": 33
+    },
+    "question": "Which part of the profile most strongly directs you towards the other face?",
+    "related": [
+     "right",
+     "ground"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Left profile in the image",
+      "body": "The left face is shown largely in profile, with a rounded nose, lips and chin outlined against ochre. One eye looks towards the right. The face is cut by the left edge and the white seams, so the viewer sees only a close fragment.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A profile directs attention across the gap",
+      "body": "The profile directs attention into the interval between the faces. Its sideways orientation differs from the more outward-facing woman on the right. That difference can suggest an unequal exchange of attention, but it does not prove either figure’s thoughts or intentions.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "right",
+    "number": 5,
+    "label": "A second face turns towards the reader",
+    "shortLabel": "Right face",
+    "kicker": "DESIGN",
+    "summary": "The right face occupies much of the central strip, with large eyes, lips and dark red hair.",
+    "layerIndex": 3,
+    "x": 83,
+    "y": 53,
+    "bounds": {
+     "x": 51,
+     "y": 37,
+     "w": 49,
+     "h": 33
+    },
+    "question": "Do the two faces appear to look at each other, and what visible evidence supports your answer?",
+    "related": [
+     "left",
+     "ground"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Right face in the image",
+      "body": "The right face occupies much of the central strip, with large eyes, lips and dark red hair. One side is cropped by the edge. Hair curls and a narrow earring-like detail give its outline more small interruptions than the left profile.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "The two faces position the viewer differently",
+      "body": "The face’s orientation changes the viewer’s position in the exchange: we are not simply watching two perfectly opposed profiles. Compare where each pair of eyes points before interpreting the mood. Expression words remain readings, not documented statements about character identity.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "seams",
+    "number": 6,
+    "label": "Two irregular white lines divide the cover",
+    "shortLabel": "White seams",
+    "kicker": "DESIGN",
+    "summary": "Two white jagged seams run horizontally across the cover, separating the upper tableau, central faces and lower title.",
+    "layerIndex": 4,
+    "x": 50.09,
+    "y": 68.1,
+    "bounds": {
+     "x": 0,
+     "y": 34,
+     "w": 100,
+     "h": 37
+    },
+    "question": "What changes if you imagine the seams as perfectly straight rules?",
+    "related": [
+     "left",
+     "right"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "White seams in the image",
+      "body": "Two white jagged seams run horizontally across the cover, separating the upper tableau, central faces and lower title. Their uneven edges contrast with the more continuous outlines of the figures. The seams remain bright even where adjacent areas are pale or warm.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A torn-paper effect divides the cover",
+      "body": "The edges can resemble torn paper, producing a collage-like effect. The reproduction does not establish that physical paper was torn during production. Their visible role is clearer: they divide the cover while allowing a shared red and ochre palette to connect the parts.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "ground",
+    "number": 7,
+    "label": "Ochre becomes an interval between faces",
+    "shortLabel": "Ochre interval",
+    "kicker": "DESIGN",
+    "summary": "A relatively open ochre field separates the left profile from the right hairline.",
+    "layerIndex": 0,
+    "x": 45,
+    "y": 53,
+    "bounds": {
+     "x": 34,
+     "y": 40,
+     "w": 18,
+     "h": 25
+    },
+    "question": "What shape does the space between the faces make?",
+    "related": [
+     "left",
+     "right"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Ochre interval in the image",
+      "body": "A relatively open ochre field separates the left profile from the right hairline. Its texture is quieter than the faces, while its colour also appears in smaller highlights elsewhere. The interval narrows and widens according to the two silhouettes.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Empty space carries part of the exchange",
+      "body": "The space gives the profiles room to register as distinct forms. It can also make their relationship feel charged, but that is a reading of separation and proximity. Trace the ochre shape itself to see how much of the exchange is carried by empty space.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "title",
+    "number": 8,
+    "label": "Gold letters form a lower block",
+    "shortLabel": "Gold title",
+    "kicker": "LANGUAGE",
+    "summary": "MY SISTER occupies the largest line in the lower panel, followed by THE SERIAL KILLER in smaller gold capitals.",
+    "layerIndex": 5,
+    "x": 49.91,
+    "y": 79.16,
+    "bounds": {
+     "x": 7,
+     "y": 72,
+     "w": 87,
+     "h": 21
+    },
+    "question": "How would equal-sized lines change the title’s verbal emphasis?",
+    "related": [
+     "left",
+     "right"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Gold title in the image",
+      "body": "MY SISTER occupies the largest line in the lower panel, followed by THE SERIAL KILLER in smaller gold capitals. The warm letters contrast with dark red. Their tall, comparatively even forms differ from the irregular white seams and illustrated faces above.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A relationship first, then a disturbing description",
+      "body": "The two lines reveal the title in stages: a relationship first, then a disturbing description. Their hierarchy makes that verbal shift visible. Compare the effect of reading the lines in order with seeing the entire title as one rectangular gold mass.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "author",
+    "number": 9,
+    "label": "A small white name signs the cover",
+    "shortLabel": "Author name",
+    "kicker": "LANGUAGE",
+    "summary": "OYINKAN BRAITHWAITE appears in spaced white capitals below the title.",
+    "layerIndex": 6,
+    "x": 50.28,
+    "y": 95.08,
+    "bounds": {
+     "x": 8,
+     "y": 93,
+     "w": 84,
+     "h": 6
+    },
+    "question": "How does knowing the author also designed this edition change the questions you would ask about it?",
+    "related": [
+     "left",
+     "right"
+    ],
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Author name in the image",
+      "body": "OYINKAN BRAITHWAITE appears in spaced white capitals below the title. Its light colour connects it to the seams, while its restrained scale keeps the gold title dominant. The line is separate from the upper endorsement and from all illustrated faces.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "The author designed this Nigerian cover",
+      "body": "Brittle Paper’s 2018 Nigerian launch coverage reproduces this exact image and explicitly credits Oyinkan Braithwaite with designing the cover. It identifies the Lagos publisher as Narrative Landscape Press. That evidence applies to this Nigerian edition, not automatically to every international cover of the novel.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "sister"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "endorsement",
+    "number": 10,
+    "label": "A quiet quotation enters above the figures",
+    "shortLabel": "Endorsement line",
+    "kicker": "DESIGN",
+    "summary": "Small gold wording occupies the upper-right red field, with an attribution to Leye Adenle beneath it.",
+    "layerIndex": 6,
+    "x": 65.28,
+    "y": 5.29,
+    "bounds": {
+     "x": 32,
+     "y": 3,
+     "w": 66,
+     "h": 6
+    },
+    "question": "When browsing quickly, would you read this quotation before or after the central faces?",
+    "related": [
+     "left",
+     "right"
+    ],
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Endorsement line in the image",
+      "body": "Small gold wording occupies the upper-right red field, with an attribution to Leye Adenle beneath it. It is much smaller than the title and author line. The placement keeps the quotation near the upper tableau without making it part of the illustrated scene.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A quiet quotation beside emphatic imagery",
+      "body": "The endorsement adds a separate speaking voice to the cover’s invitation. Its presence is observable, while its evaluative language remains an opinion. Compare the understated scale of the quotation with the much stronger visual statements made by the faces and title.",
+      "evidence": "interpretation"
+     }
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "visual",
+    "title": "Exact reproduced cover: My Sister, the Serial Killer",
+    "url": "https://brittlepaper.com/2018/10/british-film-production-company-options-oyinkan-braithwaites-sister-serial-killer-tv/",
+    "kind": "Visual source",
+    "summary": "Brittle Paper’s 2018 Nigerian launch coverage reproduces this exact cover and explicitly credits author Oyinkan Braithwaite with its design. Publisher: Narrative Landscape Press, Lagos."
+   },
+   {
+    "id": "sister",
+    "title": "Brittle Paper: Nigerian cover and author-design credit, 2018",
+    "url": "https://brittlepaper.com/2018/10/british-film-production-company-options-oyinkan-braithwaites-sister-serial-killer-tv/",
+    "kind": "Contemporary launch coverage",
+    "summary": "Brittle Paper’s 2018 Nigerian launch coverage reproduces this exact image and explicitly credits Oyinkan Braithwaite with designing the cover. It identifies the Lagos publisher as Narrative Landscape Press. That evidence applies to this Nigerian edition, not automatically to every international cover of the novel."
+   }
+  ],
+  "tour": [
+   "left",
+   "right",
+   "ground",
+   "seams",
+   "tableau",
+   "author"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected legible cover wording",
+    "rows": [
+     {
+      "text": "MY SISTER, THE SERIAL KILLER",
+      "meaning": "Book title; punctuation regularized",
+      "lang": "en"
+     },
+     {
+      "text": "OYINKAN BRAITHWAITE",
+      "meaning": "Author’s name",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected wording only. Line breaks and typographic case may be regularized. Fine print and endorsement prose are omitted where not needed for this reading. English meanings are editorial translations, not a claim of native-language reader testing.",
+  "palette": [
+   {
+    "name": "Ground red",
+    "hex": "#410001",
+    "role": "A screen sample from endorsement line. Compare this local colour with its surrounding shapes.",
+    "region": "endorsement"
+   },
+   {
+    "name": "Central ochre",
+    "hex": "#9E7736",
+    "role": "A screen sample from ochre interval. Compare this local colour with its surrounding shapes.",
+    "region": "ground"
+   },
+   {
+    "name": "Title gold",
+    "hex": "#C0A25A",
+    "role": "A screen sample from gold title. Compare this local colour with its surrounding shapes.",
+    "region": "title"
+   },
+   {
+    "name": "Seam white",
+    "hex": "#FFFFFF",
+    "role": "A screen sample from white seams. Compare this local colour with its surrounding shapes.",
+    "region": "seams"
+   }
+  ],
+  "paletteNote": "Samples are exact pixels from the installed reproduction, chosen within the named feature for perceptual agreement. They describe this screen image, not original ink specifications, paper stock or universal colour meanings.",
+  "connections": [
+   {
+    "title": "Two different directions of attention",
+    "anchors": [
+     [
+      2,
+      0.20092592592592592,
+      0.5097205346294046
+     ],
+     [
+      3,
+      0.8305555555555556,
+      0.5303766707168894
+     ]
+    ],
+    "id": "book-my-sister-serial-killer-connection-0",
+    "colour": "#be3d74",
+    "label": "Profile / face",
+    "text": "The left profile points into the central interval while the right face turns more towards the reader, making the exchange deliberately unequal in orientation."
+   },
+   {
+    "title": "White divisions meet a gold title",
+    "anchors": [
+     [
+      4,
+      0.5009259259259259,
+      0.681044957472661
+     ],
+     [
+      5,
+      0.49907407407407406,
+      0.7916160388821385
+     ]
+    ],
+    "id": "book-my-sister-serial-killer-connection-1",
+    "colour": "#496f80",
+    "label": "Seam / title",
+    "text": "The irregular white seam separates the close-up faces from the even gold letter block, changing the cover's visual rhythm at that boundary."
+   }
+  ]
+ }
+}

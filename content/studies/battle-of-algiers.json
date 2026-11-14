@@ -1,0 +1,663 @@
+{
+ "poster": {
+  "id": "battle-of-algiers",
+  "title": "The Battle of Algiers",
+  "year": "1966",
+  "yearNumber": 1966,
+  "creator": "Poster artist uncredited",
+  "country": "Algeria / Italy",
+  "countries": [
+   "Algeria",
+   "Italy"
+  ],
+  "region": "Africa",
+  "category": "Film",
+  "filmCreator": "Gillo Pontecorvo",
+  "edition": "Italian due fogli for a 16mm release; catalogued by Posteritati as 1966",
+  "image": "images/full/battle-of-algiers.jpg",
+  "ratio": 0.7133333333333334,
+  "alt": "Italian Battle of Algiers poster combining a large monochrome face, an overhead street scene, a yellow lower montage and a fractured red title on black.",
+  "blurb": "A crowded street, a watchful face and a red title that appears to crack apart.",
+  "notes": [
+   {
+    "title": "Two scales of looking",
+    "body": "The close-up face fills the upper right while small figures move through the street on the left. A personal gaze and a crowded urban space occupy the same sheet."
+   },
+   {
+    "title": "Letters under pressure",
+    "body": "The heavy red title is split by irregular black fissures. The broken shapes give the lettering a rough, forceful texture while its colour separates it from the photographs."
+   },
+   {
+    "title": "A division drawn in wire",
+    "body": "A white barbed-wire line crosses the black title panel. Beneath it, a yellow-tinted strip gathers several smaller scenes into another horizontal register."
+   }
+  ],
+  "source": "https://www.criterionchannel.com/the-battle-of-algiers",
+  "credit": "Italian 16mm-release poster, distributor imprint Corona Film. Photograph via Posteritati, record 2618. Poster and reproduction rights remain with their respective rights holders.",
+  "imageCredit": "Italian 16mm-release poster, distributor imprint Corona Film. Photograph via Posteritati, record 2618. Poster and reproduction rights remain with their respective rights holders.",
+  "imageSource": "https://posteritati.com/poster/2618/the-battle-of-algiers-original-1966-italian-due-foglio-movie-poster",
+  "downloadURL": "https://cdn.posteritati.com/posters/000/000/076/896/the-battle-of-algiers-md-web.jpg",
+  "anchor": [
+   0.68,
+   0.53
+  ],
+  "accent": "#dc3429",
+  "yearNote": "The catalogue year is the film year. The reproduced poster edition is identified separately.",
+  "reproduction": "The photographed sheet has visible folds and a Corona Film 16mm imprint. Posteritati dates its record 1966 and explicitly describes a 16mm release; a first-release theatrical printing is not independently established.",
+  "posterDateStatus": "Catalogued 1966; exact 16mm printing date not independently established.",
+  "posterTerritory": "Italy",
+  "primaryOrigin": "Algeria",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/battle-of-algiers.webp"
+ },
+ "studyData": {
+  "intro": "An overhead street photograph, a close face and a fractured red title occupy different visual registers. The lower montage adds further viewpoints; the printed wire and visible folds should not be mistaken for the same kind of line.",
+  "initial": "street",
+  "regions": [
+   {
+    "id": "street",
+    "number": 1,
+    "label": "Overhead street photograph",
+    "shortLabel": "Overhead street photograph",
+    "kicker": "DESIGN",
+    "summary": "A narrow street is viewed from above.",
+    "x": 28,
+    "y": 32,
+    "bounds": {
+     "x": 5,
+     "y": 4,
+     "w": 56,
+     "h": 69
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Looking down through the scene",
+      "body": "The camera looks down on a narrow passage, with pale-clothed figures on patterned ground. Walls and a strong diagonal divide the photograph into light and shade. The elevated viewpoint differs sharply from the face beside it, which meets us at much closer range.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Reconstruction and history",
+      "body": "Criterion describes Pontecorvo’s 1966 film as a reconstruction of the Algerian struggle against French colonial rule, filmed with a documentary-like immediacy. A still from such a film is not automatically a news photograph of the historical event. That distinction matters when reading this campaign.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "criterion"
+       }
+      ]
+     }
+    ],
+    "question": "Which details make this scene feel observed, and why does that not establish it as documentary evidence?",
+    "related": [
+     "street-figures",
+     "portrait"
+    ]
+   },
+   {
+    "id": "street-figures",
+    "number": 2,
+    "label": "Pale street figures",
+    "shortLabel": "Pale street figures",
+    "kicker": "DESIGN",
+    "summary": "Small pale bodies stand out against the passage.",
+    "x": 39,
+    "y": 31,
+    "bounds": {
+     "x": 28,
+     "y": 23,
+     "w": 32,
+     "h": 16
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Light figures, dark ground",
+      "body": "Two conspicuous figures in pale clothing occupy the middle of the street photograph. Their light shapes contrast with the darker patterned ground. Other bodies appear above and below them, so the passage is populated without every person receiving equal visual emphasis.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Movement without a single hero",
+      "body": "The viewpoint gives attention to a street as a social space rather than centring one large protagonist. We can notice routes and groups without identifying every person. Their clothing alone should not be used to infer individual beliefs, affiliations or roles.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which person do you notice first, and is that due to position or contrast?",
+    "related": [
+     "street",
+     "street-shadow"
+    ]
+   },
+   {
+    "id": "street-shadow",
+    "number": 3,
+    "label": "Diagonal light and shade",
+    "shortLabel": "Diagonal light and shade",
+    "kicker": "DESIGN",
+    "summary": "A diagonal boundary cuts through the architecture.",
+    "x": 18,
+    "y": 26,
+    "bounds": {
+     "x": 6,
+     "y": 7,
+     "w": 28,
+     "h": 49
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A line within a photograph",
+      "body": "Sunlit wall and darker passage meet along an angled boundary that runs into the scene. The wall also contains rough texture and openings. This line belongs to the photographed setting, unlike the printed rectangular edge of the title panel overlaid beside it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Compare different diagonals",
+      "body": "The street’s angles can suggest depth and movement, while the title’s broken letters create a more graphic kind of tension. Comparing them shows how a montage can combine camera space with designed marks without making them identical forms of evidence.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which diagonal makes the scene deeper, and which makes the lettering more agitated?",
+    "related": [
+     "street",
+     "title"
+    ]
+   },
+   {
+    "id": "portrait",
+    "number": 4,
+    "label": "Close-up face",
+    "shortLabel": "Close-up face",
+    "kicker": "DESIGN",
+    "summary": "A large monochrome face fills the upper-right corner.",
+    "x": 77,
+    "y": 23,
+    "bounds": {
+     "x": 59,
+     "y": 4,
+     "w": 36,
+     "h": 36
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A second distance",
+      "body": "The close portrait has a much larger scale than any street figure. The crop removes much of the head’s outer boundary, leaving eyes, nose and mouth dominant. Monochrome tones also distinguish it from the warmer street photograph and yellow-tinted montage below.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "From public space to a person",
+      "body": "Moving from the street to this face changes the kind of attention required: first bodies within a place, then details within one face. The juxtaposition can suggest a human dimension to a larger conflict without identifying a particular thought or feeling.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the crop affect your sense of distance from this person?",
+    "related": [
+     "street",
+     "lower-face"
+    ]
+   },
+   {
+    "id": "black-panel",
+    "number": 5,
+    "label": "Black information panel",
+    "shortLabel": "Black information panel",
+    "kicker": "DESIGN",
+    "summary": "A hard-edged block carries the film’s identifying information.",
+    "x": 91,
+    "y": 69,
+    "bounds": {
+     "x": 40,
+     "y": 39,
+     "w": 55,
+     "h": 35
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A rectangle over the photographs",
+      "body": "The black panel covers a large central-right area. White, red and pale blue lettering stand out on its flat field, while the photographs retain texture and tonal variation. The straight panel boundary creates a clear division among the competing kinds of information.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A readable interruption",
+      "body": "The panel interrupts the visual scenes so that the name and credits can be read. It is not empty background in the same sense as the white paper margin. Its size makes the title an equal structural partner to the photographic material.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "If the words were placed directly on the photographs, which would become hardest to read?",
+    "related": [
+     "title",
+     "wire"
+    ]
+   },
+   {
+    "id": "title",
+    "number": 6,
+    "label": "Fractured red title",
+    "shortLabel": "Fractured red title",
+    "kicker": "LANGUAGE",
+    "summary": "Large red words contain broken internal lines.",
+    "x": 68,
+    "y": 52,
+    "bounds": {
+     "x": 41,
+     "y": 46,
+     "w": 53,
+     "h": 16
+    },
+    "layerIndex": 4,
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "The Italian film title",
+      "body": "La battaglia di Algeri means The Battle of Algiers. The place name occupies the largest lower portion, while the words above fit a narrower line. Internal breaks disturb the thick letters, making them look fractured even though the title remains readable.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A graphic disturbance",
+      "body": "The broken forms can suggest rupture or conflict. That is a visual reading of the lettering, not proof of an artist’s stated intention. Compare the cracks inside the letters with the sheet’s folds: one belongs to the printed design and the other to the reproduced object.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which letters stay recognisable despite the strongest breaks?",
+    "related": [
+     "folds",
+     "wire"
+    ]
+   },
+   {
+    "id": "wire",
+    "number": 7,
+    "label": "White barbed-wire line",
+    "shortLabel": "White barbed-wire line",
+    "kicker": "DESIGN",
+    "summary": "A thin white barrier crosses beneath the title.",
+    "x": 65,
+    "y": 63,
+    "bounds": {
+     "x": 40,
+     "y": 61,
+     "w": 55,
+     "h": 4
+    },
+    "layerIndex": 5,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A repeated sharp motif",
+      "body": "A thin white line crosses the black panel, interrupted by several short pointed clusters. These marks make it read as barbed wire rather than a plain rule. Its horizontal direction contrasts with the unstable internal breaks in the red letters immediately above.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A barrier within the layout",
+      "body": "The wire can associate the title with restriction or conflict while also dividing it from the credits. Those symbolic possibilities come from a recognisable object used as a graphic line. They do not identify a particular prison, border or event depicted by the poster.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does the wire act more like an image, punctuation, or a dividing rule?",
+    "related": [
+     "title",
+     "credits"
+    ]
+   },
+   {
+    "id": "credits",
+    "number": 8,
+    "label": "Director and blue credits",
+    "shortLabel": "Director and blue credits",
+    "kicker": "LANGUAGE",
+    "summary": "Several lettering colours separate levels of attribution.",
+    "x": 66,
+    "y": 68,
+    "bounds": {
+     "x": 40,
+     "y": 40,
+     "w": 55,
+     "h": 33
+    },
+    "layerIndex": 5,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A hierarchy of names",
+      "body": "The white director line above the title gives Gillo Pontecorvo strong prominence. Beneath the wire, pale blue names and finer production lines establish further levels of billing. These colours and sizes distinguish roles even when the smallest words need a closer source image.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Names and images share the sheet",
+      "body": "Credits connect a dramatic image to the people and organisations making and presenting a film. They are practical information as well as graphic texture. Their smaller scale should not be read as a measure of each person’s creative importance.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which name can you read from farthest away, and what makes it visible?",
+    "related": [
+     "black-panel",
+     "format"
+    ]
+   },
+   {
+    "id": "lower-face",
+    "number": 9,
+    "label": "Lower tinted face",
+    "shortLabel": "Lower tinted face",
+    "kicker": "DESIGN",
+    "summary": "A yellow-tinted face begins the bottom montage.",
+    "x": 14,
+    "y": 84,
+    "bounds": {
+     "x": 5,
+     "y": 75,
+     "w": 23,
+     "h": 20
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Another face, another treatment",
+      "body": "The lower-left face is larger than its neighbouring figures but smaller than the upper portrait. A yellow-green tint brings it into the colour of the whole bottom band. The crop and adjacent scenes make it part of an explicit montage rather than a continuous single photograph.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Repeating the human scale",
+      "body": "The second close face returns attention to an individual after the large title. Because its treatment differs from the portrait above, the repetition does not simply duplicate a feature. It provides another entry into the sequence of people, setting and text.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What changes when a face is placed in a montage rather than isolated in a corner?",
+    "related": [
+     "portrait",
+     "lower-action"
+    ]
+   },
+   {
+    "id": "lower-action",
+    "number": 10,
+    "label": "Confrontation montage",
+    "shortLabel": "Confrontation montage",
+    "kicker": "DESIGN",
+    "summary": "Several photographed actions share a tinted lower band.",
+    "x": 51,
+    "y": 86,
+    "bounds": {
+     "x": 23,
+     "y": 75,
+     "w": 72,
+     "h": 20
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Separate moments side by side",
+      "body": "An extended arm crosses the centre of the lower band, while a gun-like shape and other figures appear nearby. At the right, uniformed people occupy another photographic fragment. The shared tint joins these pieces visually without establishing that they were photographed as one event.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Read the joins",
+      "body": "Montage can imply relationships among scenes that remain separate images. Look for changes of scale, crop and lighting before deciding what an action means. This is especially useful in a politically charged campaign, where adjacency can feel like a causal explanation even when it is not.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where can you see a join that prevents this band from being one continuous scene?",
+    "related": [
+     "lower-face",
+     "street"
+    ]
+   },
+   {
+    "id": "format",
+    "number": 11,
+    "label": "16 mm distribution line",
+    "shortLabel": "16 mm distribution line",
+    "kicker": "LANGUAGE",
+    "summary": "A bottom imprint identifies a circulation format.",
+    "x": 50,
+    "y": 97,
+    "bounds": {
+     "x": 25,
+     "y": 95,
+     "w": 41,
+     "h": 4
+    },
+    "layerIndex": 5,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A format at the edge",
+      "body": "The bottom wording includes 16 mm and CORONA FILM, separated from the dramatic imagery by a pale strip. The millimetre measurement refers to a film format in this distribution line, not to the size of the paper poster.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "An edition-specific record",
+      "body": "The custodian’s listing identifies this Italian due-foglio poster as advertising a 16 mm release. The film dates to 1966, but that year should not automatically be treated as a verified printing date for this particular distribution edition.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "edition"
+       }
+      ]
+     }
+    ],
+    "question": "Why might the format matter to an exhibitor more than to someone scanning the picture?",
+    "related": [
+     "credits",
+     "folds"
+    ]
+   },
+   {
+    "id": "folds",
+    "number": 12,
+    "label": "Paper folds and margins",
+    "shortLabel": "Paper folds and margins",
+    "kicker": "DESIGN",
+    "summary": "Creases run across both pictures and type.",
+    "x": 8,
+    "y": 49,
+    "bounds": {
+     "x": 0,
+     "y": 43,
+     "w": 12,
+     "h": 13
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A continuous physical trace",
+      "body": "Horizontal and vertical fold marks cross the sheet, continuing through images, the black panel and the white margin. They do not follow the objects depicted. Their continuity distinguishes them from the street’s shadows, the title’s fractures and the printed barbed-wire line.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "The surviving object",
+      "body": "The fold pattern reminds us that this is a reproduction of a handled printed sheet. It adds evidence about the object’s condition, but does not by itself establish the exact date, venue or circumstances in which this particular copy was displayed.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which fold can you trace across the largest number of different design elements?",
+    "related": [
+     "title",
+     "format"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed poster edition",
+    "url": "https://posteritati.com/poster/2618/the-battle-of-algiers-original-1966-italian-due-foglio-movie-poster",
+    "kind": "Visual source",
+    "summary": "The reproduced edition is the evidence for visible wording, layout, marks and colour relationships. Translations and visual interpretations are supplied by Poster Atlas."
+   },
+   {
+    "id": "criterion",
+    "title": "Criterion: The Battle of Algiers",
+    "url": "https://www.criterionchannel.com/the-battle-of-algiers",
+    "kind": "Film distributor and archive",
+    "summary": "Identifies the 1966 Pontecorvo film and its reconstruction of the Algerian independence struggle using a documentary-like approach."
+   },
+   {
+    "id": "edition",
+    "title": "Posteritati: Italian due-foglio, 16 mm release",
+    "url": "https://posteritati.com/poster/2618/the-battle-of-algiers-original-1966-italian-due-foglio-movie-poster",
+    "kind": "Physical poster custodian",
+    "summary": "Identifies the Italian due-foglio format and the 16 mm release context of the reproduced campaign. Film year and exact sheet printing date remain distinct."
+   }
+  ],
+  "tour": [
+   "street",
+   "portrait",
+   "title",
+   "wire",
+   "lower-action",
+   "format"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "LA BATTAGLIA DI ALGERI",
+      "meaning": "The Battle of Algiers.",
+      "lang": "it"
+     },
+     {
+      "text": "GILLO PONTECORVO",
+      "meaning": "The credited director.",
+      "lang": "it"
+     },
+     {
+      "text": "16 mm. CORONA FILM",
+      "meaning": "The film format and distributor imprint at the bottom.",
+      "lang": "it"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Only securely legible title and key wording are transcribed. Small credits are not reconstructed from this reproduction.",
+  "palette": [
+   {
+    "name": "Title red",
+    "hex": "#DE5046",
+    "role": "The most saturated lettering.",
+    "region": "title"
+   },
+   {
+    "name": "Panel black",
+    "hex": "#1E191D",
+    "role": "The flat field behind the credits.",
+    "region": "black-panel"
+   },
+   {
+    "name": "Montage yellow",
+    "hex": "#B4AE62",
+    "role": "The lower photographs’ shared tint.",
+    "region": "lower-face"
+   },
+   {
+    "name": "Paper cream",
+    "hex": "#E6E2D7",
+    "role": "The outside margin.",
+    "region": "folds"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in this installed reproduction. They are not original paint, ink or printing specifications.",
+  "connections": [
+   {
+    "label": "Near and far",
+    "title": "A face beside a street",
+    "text": "The enormous face and the much smaller street figures occupy adjacent panels, making two different scales of looking immediately visible.",
+    "anchors": [
+     [
+      1,
+      0.34988317757009346,
+      0.2504166666666667
+     ],
+     [
+      2,
+      0.790303738317757,
+      0.23041666666666666
+     ]
+    ],
+    "id": "battle-of-algiers-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Letters and wire",
+    "title": "Two kinds of sharp edge",
+    "text": "The broken red letters sit above a thin white wire. Their jagged edges make a visual connection even though their thickness and colour differ.",
+    "anchors": [
+     [
+      4,
+      0.6804906542056075,
+      0.5504166666666667
+     ],
+     [
+      5,
+      0.7003504672897196,
+      0.6329166666666667
+     ]
+    ],
+    "id": "battle-of-algiers-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

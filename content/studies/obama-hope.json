@@ -1,0 +1,632 @@
+{
+ "poster": {
+  "id": "obama-hope",
+  "title": "Obama Hope",
+  "year": "2008",
+  "yearNumber": 2008,
+  "creator": "Shepard Fairey",
+  "country": "United States",
+  "countries": [
+   "United States"
+  ],
+  "region": "North America",
+  "category": "Politics",
+  "edition": "2008 presidential-campaign poster design. Reproduction supplied on the artist’s Obey Giant website; distinct from the National Portrait Gallery’s hand-finished collage version.",
+  "image": "images/full/obama-hope.jpg",
+  "ratio": 0.664,
+  "imageWidth": 664,
+  "imageHeight": 1000,
+  "alt": "Barack Obama looks upward in a simplified red, cream and blue portrait, with a large pale-blue HOPE wordmark beneath his suit and tie.",
+  "blurb": "A portrait becomes a few bold tonal shapes, anchored by one word and an upward-looking gaze.",
+  "notes": [
+   {
+    "title": "A face organised into colour",
+    "body": "Dark blue, pale blue, red and cream replace continuous photographic shading. Fine horizontal lines bridge some tonal changes while the large facial planes remain readable at a distance."
+   },
+   {
+    "title": "The gaze looks beyond the frame",
+    "body": "The slightly raised head and off-centre eyes direct attention above and away from the viewer. That pose gives the otherwise static portrait a forward-looking visual suggestion."
+   },
+   {
+    "title": "One word supplies the promise",
+    "body": "HOPE fills a dark block beneath the portrait. Its pale blue repeats a colour already used in the face, binding the verbal message to the image without adding a longer campaign argument."
+   }
+  ],
+  "source": "https://americanhistory.si.edu/collections/object/nmah_1897849",
+  "imageSource": "https://obeygiant.com/obama-hope/",
+  "credit": "Shepard Fairey, 2008. © Shepard Fairey / Obey Giant. Artist-supplied digital reproduction, resized for this catalogue; underlying image rights retained.",
+  "imageCredit": "Shepard Fairey, 2008. © Shepard Fairey / Obey Giant. Artist-supplied digital reproduction, resized for this catalogue; underlying image rights retained.",
+  "downloadURL": "https://i0.wp.com/obeygiant.com/images/2015/07/obama-hope-shelter-copy.jpg?fit=1063%2C1600&ssl=1",
+  "anchor": [
+   0.5,
+   0.31
+  ],
+  "accent": "#175774",
+  "primaryOrigin": "United States",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/obama-hope.webp"
+ },
+ "studyData": {
+  "intro": "Shepard Fairey’s 2008 campaign image turns a portrait into red, cream and blue tonal shapes, then anchors it with one word. This study examines political communication as a historical design object; it separates the artist’s stated campaigning purpose from claims about actual electoral effects.",
+  "initial": "face",
+  "regions": [
+   {
+    "id": "face",
+    "number": 1,
+    "label": "A face built from flat colour",
+    "shortLabel": "A face built from flat colour",
+    "kicker": "CONTINUOUS SHADING BECOMES DISCRETE AREAS",
+    "summary": "Large tonal shapes preserve recognisable features.",
+    "x": 50,
+    "y": 34,
+    "bounds": {
+     "x": 12,
+     "y": 2,
+     "w": 75,
+     "h": 65
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Continuous shading becomes discrete areas",
+      "body": "The face is divided into dark blue, pale blue, red and cream regions rather than a continuous photographic gradient. Nose, cheeks, eyes and mouth remain readable through the boundaries between colours. The portrait’s modelling is preserved inside these deliberately simplified shapes.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A documented maker and date",
+      "body": "The National Museum of American History identifies Shepard Fairey as maker and dates an Obama Hope poster to 2008. That supports the design’s authorship and campaign-era context. The artist-supplied digital image here is not automatically the same physical impression as the museum’s object.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "smithsonian"
+       }
+      ]
+     }
+    ],
+    "question": "Which facial feature remains easiest to recognise when you look only at the darkest colour?",
+    "related": [
+     "lines",
+     "gaze",
+     "field"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "gaze",
+    "number": 2,
+    "label": "Eyes angled upward",
+    "shortLabel": "Eyes angled upward",
+    "kicker": "LOOKING ABOVE AND AWAY",
+    "summary": "Averted eyes give the portrait an outward direction.",
+    "x": 51,
+    "y": 27,
+    "bounds": {
+     "x": 25,
+     "y": 19,
+     "w": 47,
+     "h": 15
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Looking above and away",
+      "body": "The eyes are not centred in a straight frontal address. The head tilts slightly upward, and the gaze travels toward the upper right. Dark contours around the eyes keep their direction clear within the otherwise broad, simplified areas of colour.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A future-facing reading, not a fact about character",
+      "body": "The upward direction can be interpreted as aspiration when paired with HOPE. That interpretation concerns the relationship of pose and word. It is not proof of the subject’s personal qualities, a prediction of political outcomes or evidence that all viewers read the pose alike.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would a direct gaze at the reader make the word below feel different?",
+    "related": [
+     "face",
+     "hope"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "lines",
+    "number": 3,
+    "label": "Fine stripes within the highlights",
+    "shortLabel": "Fine stripes within the highlights",
+    "kicker": "A BRIDGE BETWEEN FLAT AREAS",
+    "summary": "Thin horizontal marks create intermediate tones.",
+    "x": 30,
+    "y": 18,
+    "bounds": {
+     "x": 20,
+     "y": 9,
+     "w": 34,
+     "h": 49
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A bridge between flat areas",
+      "body": "Closely spaced horizontal lines occur around the forehead, cheek and chin. They introduce smaller-scale texture within the broad colour regions. At a distance those marks can visually combine, creating a transition between light and darker areas without returning to continuous photographic shading.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Texture is not a printing claim",
+      "body": "The striped appearance is visible in this reproduction, but it does not by itself prove a particular printing method for every version of the design. The study describes the marks and their tonal effect, keeping technique claims tied to a specific documented physical object.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Step back from the image: when do the stripes begin to merge into a single tone?",
+    "related": [
+     "face",
+     "cream",
+     "mouth"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "cream",
+    "number": 4,
+    "label": "A broad light cheek",
+    "shortLabel": "A broad light cheek",
+    "kicker": "LIGHT SHAPES REMAIN LARGE",
+    "summary": "The lightest face area draws a clear diagonal.",
+    "x": 38,
+    "y": 34,
+    "bounds": {
+     "x": 21,
+     "y": 10,
+     "w": 37,
+     "h": 45
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Light shapes remain large",
+      "body": "A cream area runs through the forehead and left side of the face, with narrow strips around nose and mouth. It creates a strong asymmetry against the red side. The shape’s breadth makes it visible even when the fine line texture disappears at smaller scale.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Colour does not have to match natural skin",
+      "body": "The portrait remains recognisable despite its non-natural colour scheme. Form is carried by relations of light, dark and edge rather than by a literal flesh tone. That observation can be studied without treating the colours as fixed psychological symbols.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the cream face shape connect to the cream shirt below?",
+    "related": [
+     "lines",
+     "shirt",
+     "field"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "mouth",
+    "number": 5,
+    "label": "A small dark curve",
+    "shortLabel": "A small dark curve",
+    "kicker": "DETAIL CONCENTRATES AT RECOGNITION POINTS",
+    "summary": "The lips add nuance inside large simplified planes.",
+    "x": 56,
+    "y": 44,
+    "bounds": {
+     "x": 39,
+     "y": 39,
+     "w": 30,
+     "h": 12
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Detail concentrates at recognition points",
+      "body": "The mouth uses dark curves and small red and cream divisions. It is much smaller than the cheek or forehead, but its specific contour helps preserve the likeness. Simplification is therefore uneven: broad surfaces are reduced while important features retain more differentiation.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Avoid reading a policy from an expression",
+      "body": "The restrained mouth can be described visually, but it does not communicate a detailed political platform. The poster’s message depends on the word, public figure and campaign context together. A close reading should not substitute an imagined personality for that evidence.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which small changes in the lip contour make the face less like a blank mask?",
+    "related": [
+     "face",
+     "lines"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "field",
+    "number": 6,
+    "label": "A split red and blue ground",
+    "shortLabel": "A split red and blue ground",
+    "kicker": "NO NEUTRAL SETTING BEHIND THE HEAD",
+    "summary": "The surrounding colours continue the portrait’s own palette.",
+    "x": 90,
+    "y": 20,
+    "bounds": {
+     "x": 3,
+     "y": 2,
+     "w": 94,
+     "h": 78
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "No neutral setting behind the head",
+      "body": "The background is divided into pale blue at left and red at right. These colours also appear within the face, so the portrait and field share a system. A dark head contour keeps the person distinct even where adjacent regions use similar hues.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Unity with a clear boundary",
+      "body": "Repeating colour across subject and ground can make the whole sheet feel closely organised. The dark outline prevents that unity from dissolving the face into its surroundings. This is a formal comparison, not an assertion that one colour belongs permanently to one political meaning.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does the portrait edge become clearest against the split background?",
+    "related": [
+     "face",
+     "suit",
+     "border"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "suit",
+    "number": 7,
+    "label": "A broad dark shoulder shape",
+    "shortLabel": "A broad dark shoulder shape",
+    "kicker": "A SIMPLE LOWER MASS",
+    "summary": "The clothing becomes a base for the portrait and word.",
+    "x": 26,
+    "y": 71,
+    "bounds": {
+     "x": 3,
+     "y": 51,
+     "w": 94,
+     "h": 29
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A simple lower mass",
+      "body": "The suit spreads across the lower sheet as a broad dark-blue shape. Its shoulders descend from the neck and lead toward the block carrying HOPE. Compared with the face, this area has fewer internal details and supplies a stable visual base.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Formal clothing as a visible cue",
+      "body": "Suit, collar and tie identify a formal mode of dress in the portrait. They can be considered part of the campaign’s presentation, but clothing alone cannot establish competence, moral character or political authority. The analysis stays with their shape and role in the composition.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the shoulder’s diagonal prepare the wide horizontal word at the bottom?",
+    "related": [
+     "shirt",
+     "hope",
+     "badge"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "shirt",
+    "number": 8,
+    "label": "Cream collar and red tie",
+    "shortLabel": "Cream collar and red tie",
+    "kicker": "A COMPACT SET OF CONTRASTING SHAPES",
+    "summary": "Small triangles interrupt the dark suit.",
+    "x": 54,
+    "y": 73,
+    "bounds": {
+     "x": 38,
+     "y": 56,
+     "w": 36,
+     "h": 24
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A compact set of contrasting shapes",
+      "body": "Cream collar points form angular light areas beside a red tie. These shapes sit between the neck and the dark lower block, making the clothing structure readable with little detail. Their colour repeats parts of the face and surrounding field.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Repetition across different objects",
+      "body": "Red appears as background, facial modelling and clothing; cream appears as highlight, shirt and border. The same colour therefore performs several jobs. Following those repetitions is more precise than assuming that each hue corresponds to only one object or one political idea.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Compare the tie’s red with the red background: does scale change its effect?",
+    "related": [
+     "suit",
+     "cream",
+     "badge"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "badge",
+    "number": 9,
+    "label": "A small campaign emblem",
+    "shortLabel": "A small campaign emblem",
+    "kicker": "A SMALL CIRCLE INSIDE ANGULAR CLOTHING",
+    "summary": "A circular mark offers a second, smaller sign.",
+    "x": 84,
+    "y": 75,
+    "bounds": {
+     "x": 76,
+     "y": 70,
+     "w": 16,
+     "h": 10
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A small circle inside angular clothing",
+      "body": "The circular badge sits above the final letter of HOPE, interrupting the suit’s dark field. Pale blue, dark blue, cream and red recur within it. Its curved geometry differs from the shirt’s triangles and the wordmark’s long straight strokes.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "An emblem within the campaign portrait",
+      "body": "The Smithsonian’s separate Hope object description identifies the lapel mark as Obama’s campaign logo. That supports its role as an identifying emblem. It does not establish that the digital reproduction installed here is the museum’s same lithograph or physical edition.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "badge-source"
+       }
+      ]
+     }
+    ],
+    "question": "Which colours in the badge can you find elsewhere on the sheet?",
+    "related": [
+     "suit",
+     "field",
+     "hope"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "hope",
+    "number": 10,
+    "label": "One word at the base",
+    "shortLabel": "One word at the base",
+    "kicker": "A BROAD POSITIVE NOUN",
+    "summary": "Pale-blue capitals condense the message.",
+    "x": 50,
+    "y": 89,
+    "bounds": {
+     "x": 6,
+     "y": 81,
+     "w": 88,
+     "h": 15
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A broad positive noun",
+      "body": "HOPE supplies an abstract promise rather than a detailed proposal. Its four large capitals make the message quickly readable, while leaving the object of that hope unstated. The study treats it as historical campaign language, not as an endorsement or assessment of subsequent events.",
+      "evidence": "observation",
+      "originalText": "HOPE",
+      "lang": "en"
+     },
+     {
+      "kind": "business",
+      "heading": "The artist describes public distribution",
+      "body": "In a November 2008 post, Obey Giant describes distributing the image through a grassroots poster campaign for windows, yards and businesses. That is a first-party account of purpose and circulation. It is not independent proof that the image changed voting behaviour.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "obey"
+       }
+      ]
+     }
+    ],
+    "question": "What does this word leave unspecified that a policy statement would have to explain?",
+    "related": [
+     "gaze",
+     "suit",
+     "border"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "border",
+    "number": 11,
+    "label": "A cream edge around the whole",
+    "shortLabel": "A cream edge around the whole",
+    "kicker": "A CONSISTENT OUTER INTERVAL",
+    "summary": "A narrow frame contains both portrait and slogan.",
+    "x": 98,
+    "y": 92,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 100,
+     "h": 100
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A consistent outer interval",
+      "body": "Cream margins run around the coloured rectangle and become a little more visible at the bottom. The border uses a colour already present in the face and shirt, connecting the exterior edge to interior highlights. It gives the strong colour fields a clear stopping point.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A design with multiple material versions",
+      "body": "The artist’s website supplies this digital reproduction, while museums hold particular physical versions. Their measurements and techniques belong to those objects. The study therefore avoids calling this installed file a hand-finished collage or assigning it the dimensions of a different surviving print.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the frame connect with the face’s brightest areas without becoming a competing shape?",
+    "related": [
+     "field",
+     "hope",
+     "cream"
+    ],
+    "layerIndex": 0
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed poster edition",
+    "url": "https://obeygiant.com/obama-hope/",
+    "kind": "Visual source",
+    "summary": "The reproduced sheet supports observations of visible wording, colour, composition and marks; it does not establish the designer’s intention."
+   },
+   {
+    "id": "smithsonian",
+    "title": "National Museum of American History: Obama Hope",
+    "url": "https://www.si.edu/object/obama-hope%3Anmah_1897849",
+    "kind": "Museum object record",
+    "summary": "Identifies Shepard Fairey, Barack Obama and the 2008 poster date; physical measurements apply to that museum object."
+   },
+   {
+    "id": "badge-source",
+    "title": "Smithsonian NMAAHC: Hope",
+    "url": "https://www.si.edu/object/hope%3Anmaahc_2023.39.14",
+    "kind": "Museum object description",
+    "summary": "Describes a separate Hope print and identifies the campaign logo; does not establish the physical medium of this digital reproduction."
+   },
+   {
+    "id": "obey",
+    "title": "Obey Giant: Obama Hope, November 2008",
+    "url": "https://obeygiant.com/obama-hope/",
+    "kind": "Artist campaign account",
+    "summary": "Supplies the installed image and describes the artist’s campaign distribution purpose; not independent evidence of electoral impact."
+   }
+  ],
+  "tour": [
+   "face",
+   "gaze",
+   "lines",
+   "field",
+   "badge",
+   "hope"
+  ],
+  "transcript": [
+   {
+    "heading": "Readable wording on this edition",
+    "rows": [
+     {
+      "text": "HOPE",
+      "meaning": "An abstract campaign message rather than a detailed policy statement.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "The large word is transcribed. The emblem is described as a visual mark; no fine copyright inscription is invented from this reproduction.",
+  "palette": [
+   {
+    "name": "Dark blue",
+    "hex": "#00324D",
+    "region": "face",
+    "role": "Portrait outline and lower structural mass."
+   },
+   {
+    "name": "Pale blue",
+    "hex": "#7CA4AE",
+    "region": "field",
+    "role": "Background and lettering."
+   },
+   {
+    "name": "Red",
+    "hex": "#D51A21",
+    "region": "field",
+    "role": "One half of the field and selected face planes."
+   },
+   {
+    "name": "Cream",
+    "hex": "#FCE4A8",
+    "region": "border",
+    "role": "Outer border and face highlights."
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in the installed reproduction. These are not original ink specifications; scan, lighting and compression can alter colour.",
+  "connections": [
+   {
+    "label": "Gaze and promise",
+    "title": "The upward face leads to one word",
+    "text": "The upward-angled gaze and the large, plain HOPE wordmark concentrate the image around a person and a short message.",
+    "anchors": [
+     [
+      1,
+      0.6001506024096386,
+      0.2905
+     ],
+     [
+      4,
+      0.5158132530120482,
+      0.8905
+     ]
+    ],
+    "id": "obama-hope-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Small emblem, broad palette",
+    "title": "The lapel badge repeats the surrounding colours",
+    "text": "The small circular badge echoes red, pale blue and cream already used across the portrait and background.",
+    "anchors": [
+     [
+      3,
+      0.8456325301204819,
+      0.7515
+     ],
+     [
+      0,
+      0.8802710843373494,
+      0.1705
+     ]
+    ],
+    "id": "obama-hope-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

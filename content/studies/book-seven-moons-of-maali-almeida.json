@@ -1,0 +1,657 @@
+{
+ "poster": {
+  "id": "book-seven-moons-of-maali-almeida",
+  "title": "The Seven Moons of Maali Almeida",
+  "year": "2022 (catalogued)",
+  "yearNumber": 2022,
+  "coverYear": "2022 (catalogued)",
+  "bookFirstPublication": "2020 (as Chats With the Dead); retitled form 2022",
+  "bookAuthor": "Shehan Karunatilaka",
+  "bookPublisher": "India Penguin",
+  "bookOrigin": "Sri Lankan English-language novel by Shehan Karunatilaka, set in Colombo. First published in India as Chats With the Dead in 2020; the retitled form appeared in 2022. Work context is distinct from the edition’s publishing location.",
+  "creator": "Cover artist uncredited in the linked record",
+  "country": "India",
+  "countries": [
+   "India"
+  ],
+  "primaryOrigin": "India",
+  "region": "South Asia",
+  "category": "Book cover",
+  "image": "images/full/book-seven-moons-of-maali-almeida.jpg",
+  "ratio": 0.6215384615384615,
+  "alt": "White stacked title words cross a bright mask with curling upper forms, round eyes, a red nose and a toothed mouth; a Booker winner mark and Penguin emblem occupy the upper corners.",
+  "blurb": "A colourful face looks out through a tall stack of white words.",
+  "notes": [
+   {
+    "title": "The displayed edition",
+    "body": "Current publisher image for India Penguin paperback ISBN 9780143459675, catalogued September 2022. Its Booker winner marking postdates that catalogue date; the actual printing and design date are unknown."
+   },
+   {
+    "title": "Writing and image-making",
+    "body": "The publisher identifies the author and Indian imprint but does not name the cover artist. The displayed mask is discussed through visible shapes without assigning an unsupported ritual identity."
+   },
+   {
+    "title": "A visible design relationship",
+    "body": "Rounded eyes and cheeks contrast with the narrow crest and long curved green fangs. The title remains white across these changing colours."
+   }
+  ],
+  "source": "https://www.penguin.co.in/book/the-seven-moons-of-maali-almeida/",
+  "credit": "The publisher identifies the author and Indian imprint but does not name the cover artist. The displayed mask is discussed through visible shapes without assigning an unsupported ritual identity.",
+  "reproduction": "The official 404 × 650 JPEG is retained. Its current publisher-image status is recorded; a date in the image URL does not date the original artwork.",
+  "anchor": [
+   0.49,
+   0.53
+  ],
+  "accent": "#d22560",
+  "edition": "Current publisher image for India Penguin paperback ISBN 9780143459675, catalogued September 2022. Its Booker winner marking postdates that catalogue date; the actual printing and design date are unknown.",
+  "imageSource": "https://www.penguin.co.in/book/the-seven-moons-of-maali-almeida/",
+  "imageCredit": "The publisher identifies the author and Indian imprint but does not name the cover artist. The displayed mask is discussed through visible shapes without assigning an unsupported ritual identity.",
+  "coverPublisher": "India Penguin",
+  "posterYear": "2022 (catalogued)",
+  "posterTerritory": "India",
+  "posterDateStatus": "Catalogue edition date only; the pictured printing and cover-design dates are unknown.",
+  "originNote": "Country and region describe the displayed edition’s publishing context. The author and work context are recorded separately.",
+  "originSources": [
+   {
+    "title": "Displayed edition record",
+    "url": "https://www.penguin.co.in/book/the-seven-moons-of-maali-almeida/"
+   },
+   {
+    "title": "Penguin India: original 2020 publication and 2022 retitling",
+    "url": "https://www.penguin.co.in/the-booker-prize-2022-winner-the-seven-moons-of-maali-almeida/"
+   }
+  ],
+  "creditSources": [],
+  "downloadURL": "https://cdn.penguin.co.in/wp-content/uploads/2024/05/9780143459675.jpg",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-seven-moons-of-maali-almeida.webp"
+ },
+ "studyData": {
+  "intro": "White title words cross a bright mask with rounded eyes and long green fangs. The current Penguin India image carries a Booker winner mark, so its pictured printing is not assumed to share the catalogue’s September 2022 date.",
+  "initial": "title",
+  "regions": [
+   {
+    "id": "title",
+    "number": 1,
+    "label": "A title crosses the whole face",
+    "shortLabel": "Stacked title",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "The title forms a tall stack of white words from the forehead to the chin.",
+    "layerIndex": 4,
+    "x": 48.14356,
+    "y": 37.46154,
+    "bounds": {
+     "x": 14,
+     "y": 6,
+     "w": 73,
+     "h": 82
+    },
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "The title forms a tall stack of white words from the forehead to the chin. Its letters cross several different colours and facial features.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The same light lettering unites a very changeable painted field. Reading the title and recognising the face become intertwined rather than separate tasks.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "language",
+      "heading": "The title keeps its wording across the image",
+      "body": "The English title is broken into a tall sequence of lines. The words remain one title even as they cross forehead, eyes, mouth and chin; the visible green fangs obscure parts of some lower letters.",
+      "evidence": "observation",
+      "sources": [],
+      "originalText": "The Seven Moons of Maali Almeida",
+      "lang": "en",
+      "translation": "The Seven Moons of Maali Almeida"
+     }
+    ],
+    "question": "Do you read the words or recognise the face first when the cover is small?",
+    "related": [
+     "left-eye",
+     "nose"
+    ]
+   },
+   {
+    "id": "left-eye",
+    "number": 2,
+    "label": "One eye holds a turquoise centre",
+    "shortLabel": "Left eye",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "The eye on the viewer’s left has a turquoise inner area, a small darker pupil and a pale pink surround.",
+    "layerIndex": 2,
+    "x": 30.07426,
+    "y": 51,
+    "bounds": {
+     "x": 19,
+     "y": 43,
+     "w": 23,
+     "h": 17
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "The eye on the viewer’s left has a turquoise inner area, a small darker pupil and a pale pink surround. Rounded bands enclose it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The strong circular geometry gives the face an immediate point of recognition. The unusual colour relationships keep it from becoming a naturalistic portrait.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which ring of colour makes this eye most noticeable?",
+    "related": [
+     "right-eye",
+     "mouth"
+    ]
+   },
+   {
+    "id": "right-eye",
+    "number": 3,
+    "label": "The other eye changes the colour order",
+    "shortLabel": "Right eye",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "The viewer’s right eye uses a pink inner disc inside turquoise and darker blue-green bands.",
+    "layerIndex": 2,
+    "x": 67.94554,
+    "y": 51,
+    "bounds": {
+     "x": 55,
+     "y": 42,
+     "w": 25,
+     "h": 18
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "The viewer’s right eye uses a pink inner disc inside turquoise and darker blue-green bands. Its small pupil sits off the centre.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The two eyes are related without being identical. Their colour reversal and unequal pupils can make the face feel animated rather than perfectly symmetrical.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does reversing the eye colours change the expression you perceive?",
+    "related": [
+     "nose",
+     "crest"
+    ]
+   },
+   {
+    "id": "nose",
+    "number": 4,
+    "label": "A red bridge between eyes and mouth",
+    "shortLabel": "Red nose",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "A broad red nose occupies the centre below the eyes.",
+    "layerIndex": 2,
+    "x": 48.88614,
+    "y": 61,
+    "bounds": {
+     "x": 33,
+     "y": 56,
+     "w": 35,
+     "h": 10
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "A broad red nose occupies the centre below the eyes. Orange-red oval areas sit inside it and the white word of crosses the region above.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The warm nose interrupts the cooler eye colours and links the upper face to the mouth. Its broad horizontal shape also counters the long vertical title stack.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What would change if the nose used the same turquoise as the eyes?",
+    "related": [
+     "mouth",
+     "curls"
+    ]
+   },
+   {
+    "id": "mouth",
+    "number": 5,
+    "label": "Short teeth and long curved fangs",
+    "shortLabel": "Mouth & fangs",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Short pale rounded or tapered teeth sit inside the dark mouth.",
+    "layerIndex": 3,
+    "x": 48.88614,
+    "y": 77,
+    "bounds": {
+     "x": 27,
+     "y": 67,
+     "w": 48,
+     "h": 24
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Short pale rounded or tapered teeth sit inside the dark mouth. Longer green fangs curve down on either side and overlap parts of the lower title.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The small repeated teeth create a rhythm that differs from the sweeping fangs. That contrast makes the mouth expressive without requiring every tooth to be a sharp triangle.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How do the short teeth and long fangs create different kinds of visual energy?",
+    "related": [
+     "crest",
+     "ears"
+    ]
+   },
+   {
+    "id": "crest",
+    "number": 6,
+    "label": "A narrow point rises above the face",
+    "shortLabel": "Central crest",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "A tall red-orange pointed form rises between the curling upper shapes.",
+    "layerIndex": 1,
+    "x": 48.88614,
+    "y": 28.07692,
+    "bounds": {
+     "x": 37,
+     "y": 2,
+     "w": 22,
+     "h": 35
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "A tall red-orange pointed form rises between the curling upper shapes. It narrows sharply towards the top of the cover.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The point stretches the face vertically while the eyes and side lobes widen it. These competing directions help the mask occupy the full tall format.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does this one narrow point affect the proportions of the whole face?",
+    "related": [
+     "curls",
+     "prize"
+    ]
+   },
+   {
+    "id": "curls",
+    "number": 7,
+    "label": "Large upper loops enclose colour",
+    "shortLabel": "Upper curls",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Broad curled forms occupy both upper sides of the mask.",
+    "layerIndex": 1,
+    "x": 18.93564,
+    "y": 19,
+    "bounds": {
+     "x": 0,
+     "y": 7,
+     "w": 99,
+     "h": 35
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Broad curled forms occupy both upper sides of the mask. Dark bands enclose bright pink, orange, red and green areas.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The loops establish a sweeping rhythm before the smaller eyes and mouth are read. Their unequal colours prevent the near-bilateral layout from feeling mechanically mirrored.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where do the two sides match in shape but differ in colour?",
+    "related": [
+     "ears",
+     "author"
+    ]
+   },
+   {
+    "id": "ears",
+    "number": 8,
+    "label": "Round side lobes widen the face",
+    "shortLabel": "Side lobes",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Large rounded lobes extend from both sides of the lower face.",
+    "layerIndex": 1,
+    "x": 12.00495,
+    "y": 67,
+    "bounds": {
+     "x": 0,
+     "y": 56,
+     "w": 100,
+     "h": 23
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Large rounded lobes extend from both sides of the lower face. Small contrasting circles sit within their purple, blue and green fields.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "These broad forms balance the narrow crest above. Their simple round geometry also repeats the eyes at a much larger scale.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How would the face’s balance change without these wide side forms?",
+    "related": [
+     "prize",
+     "painted-ground"
+    ]
+   },
+   {
+    "id": "prize",
+    "number": 9,
+    "label": "A winner mark in the corner",
+    "shortLabel": "Booker mark",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "A white outlined device at the upper left reads The Booker Prize 2022 Winner.",
+    "layerIndex": 5,
+    "x": 15.4703,
+    "y": 10.07692,
+    "bounds": {
+     "x": 5,
+     "y": 2,
+     "w": 22,
+     "h": 17
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "A white outlined device at the upper left reads The Booker Prize 2022 Winner. Its compact upright stack differs from the large central title.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The corner mark adds a publishing message without taking over the face. Its crisp white geometry also shares the title’s colour, keeping it within the cover’s visual system.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "business",
+      "heading": "A catalogue date is not a printing date",
+      "body": "Penguin catalogues paperback ISBN 9780143459675 as September 2022, while the current image says Booker Prize 2022 Winner. The winning mark belongs to a later state than the pre-award catalogue date. The exact pictured printing and cover-design date are not established by that listing.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "object"
+       }
+      ]
+     }
+    ],
+    "question": "How does a prize mark change what you expect from a book before reading its description?",
+    "related": [
+     "author",
+     "title"
+    ]
+   },
+   {
+    "id": "author",
+    "number": 10,
+    "label": "An author line below the mask",
+    "shortLabel": "Karunatilaka",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Shehan Karunatilaka appears in white capitals across the lower edge.",
+    "layerIndex": 4,
+    "x": 53.83663,
+    "y": 94.07692,
+    "bounds": {
+     "x": 5,
+     "y": 92,
+     "w": 90,
+     "h": 5
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Shehan Karunatilaka appears in white capitals across the lower edge. The line is smaller than the title and sits on a changing painted background.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The long line provides a final horizontal anchor after the face and title stack. Repeating white connects authorship to the title without giving both the same scale.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "context",
+      "heading": "Sri Lankan work, Indian edition",
+      "body": "Penguin identifies Karunatilaka as a Sri Lankan writer and describes the novel’s setting as Colombo in 1990. The pictured product is an India Penguin edition. The story’s cultural setting and the edition’s publishing location are therefore kept distinct rather than reduced to one country label. Penguin’s announcement also records an earlier Indian publication in 2020 as Chats With the Dead, before the retitled 2022 form. This earlier publication is retained in the work metadata.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "object"
+       },
+       {
+        "id": "earlier-title"
+       }
+      ]
+     }
+    ],
+    "question": "What makes this smaller author line feel like the cover’s closing statement?",
+    "related": [
+     "painted-ground",
+     "left-eye"
+    ]
+   },
+   {
+    "id": "painted-ground",
+    "number": 11,
+    "label": "Colour remains outside the face",
+    "shortLabel": "Painted ground",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Turquoise, pink and other painted colour remains around the mask’s outer contours.",
+    "layerIndex": 0,
+    "x": 12.00495,
+    "y": 1,
+    "bounds": {
+     "x": 1,
+     "y": 0,
+     "w": 31,
+     "h": 6
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Turquoise, pink and other painted colour remains around the mask’s outer contours. Uneven textures are visible within the apparently flat bright areas.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The ground continues the cover’s energy outside the face rather than isolating it on neutral paper. The changes of hue help the dark outer contours stay visible.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where is the face easiest to separate from the colourful field around it?",
+    "related": [
+     "title",
+     "right-eye"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "object",
+    "title": "The Seven Moons of Maali Almeida: the displayed reproduction",
+    "url": "https://www.penguin.co.in/book/the-seven-moons-of-maali-almeida/",
+    "kind": "Object / publisher record",
+    "summary": "Current publisher image for India Penguin paperback ISBN 9780143459675, catalogued September 2022. Its Booker winner marking postdates that catalogue date; the actual printing and design date are unknown. The official 404 × 650 JPEG is retained. Its current publisher-image status is recorded; a date in the image URL does not date the original artwork."
+   },
+   {
+    "id": "earlier-title",
+    "title": "Penguin India: the 2022 Booker announcement",
+    "url": "https://www.penguin.co.in/the-booker-prize-2022-winner-the-seven-moons-of-maali-almeida/",
+    "kind": "Publisher announcement",
+    "summary": "The 18 October 2022 announcement states that the book was first published in India in 2020 as Chats With the Dead."
+   }
+  ],
+  "tour": [
+   "title",
+   "left-eye",
+   "right-eye",
+   "mouth",
+   "crest",
+   "author",
+   "prize"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "The Seven Moons of Maali Almeida",
+      "meaning": "The English title.",
+      "lang": "en"
+     },
+     {
+      "text": "Shehan Karunatilaka",
+      "meaning": "The author’s name.",
+      "lang": "en"
+     },
+     {
+      "text": "The Booker Prize 2022 Winner",
+      "meaning": "The visible prize wording.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected clearly legible title and credit wording is transcribed from the displayed reproduction. Line breaks are simplified; this is not a transcription of every small mark or an identification of the typefaces.",
+  "palette": [
+   {
+    "name": "Eye turquoise",
+    "hex": "#13A5B2",
+    "role": "A cool interior colour in the left eye.",
+    "region": "left-eye"
+   },
+   {
+    "name": "Nose red",
+    "hex": "#D8101A",
+    "role": "The warm centre of the mask.",
+    "region": "nose"
+   },
+   {
+    "name": "Cheek purple",
+    "hex": "#9D4194",
+    "role": "A purple area in the broad side lobe.",
+    "region": "ears"
+   },
+   {
+    "name": "Title white",
+    "hex": "#F9F8F3",
+    "role": "The repeated light title lettering.",
+    "region": "title"
+   }
+  ],
+  "paletteNote": "Screen colours are sampled from this exact reproduction. Age, lighting and reproduction affect the result; these are not original printing specifications.",
+  "connections": [
+   {
+    "label": "Reading a face",
+    "title": "White words cross features",
+    "text": "The stacked title passes across eyes, nose and mouth, joining reading and looking.",
+    "anchors": [
+     [
+      4,
+      0.4938118811881188,
+      0.3638461538461538
+     ],
+     [
+      2,
+      0.2908415841584158,
+      0.5207692307692308
+     ]
+    ],
+    "id": "book-seven-moons-of-maali-almeida-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Curves and points",
+    "title": "A broad face, a narrow crest",
+    "text": "The tall central point stretches upward while round eyes and side lobes widen the face.",
+    "anchors": [
+     [
+      1,
+      0.5012376237623762,
+      0.17
+     ],
+     [
+      1,
+      0.12004950495049505,
+      0.6807692307692308
+     ]
+    ],
+    "id": "book-seven-moons-of-maali-almeida-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

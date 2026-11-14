@@ -1,0 +1,664 @@
+{
+ "poster": {
+  "id": "in-the-mood-for-love",
+  "title": "In the Mood for Love",
+  "year": "2000",
+  "yearNumber": 2000,
+  "country": "Hong Kong / France",
+  "region": "East Asia",
+  "category": "Film",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Wong Kar-wai",
+  "edition": "Hong Kong Chinese-and-English-language poster",
+  "image": "images/full/in-the-mood-for-love.jpg",
+  "ratio": 0.7047872340425532,
+  "alt": "In the Mood for Love poster with overlapping portraits of a man and woman in red and amber, a patterned dress, and large white Chinese title lettering.",
+  "blurb": "Overlapping faces, patterned clothing and amber light make closeness feel uncertain.",
+  "notes": [
+   {
+    "title": "Intimacy made from overlap",
+    "body": "The two faces and bodies partly merge into the same warm field. Their proximity is obvious, but the layered image makes the exact moment difficult to fix."
+   },
+   {
+    "title": "Pattern refuses to stay in the background",
+    "body": "The woman’s dress supplies a rich field of pale flowers. The pattern occupies much of the lower image and gives the poster a tactile surface beneath the faces."
+   },
+   {
+    "title": "White words cut through warm colour",
+    "body": "Large white Chinese characters form a sharp horizontal interruption. Against the red-orange image they become a readable anchor without flattening the emotional ambiguity above."
+   }
+  ],
+  "source": "https://www.criterion.com/films/198-in-the-mood-for-love",
+  "imageSource": "https://en.wikipedia.org/wiki/File:In_the_Mood_for_Love_movie.jpg",
+  "imageCredit": "Copyright in the poster remains with its respective studio, distributor or artist. Low-resolution reproduction via Wikipedia for visual commentary; see the image source record.",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/en/4/45/In_the_Mood_for_Love_movie.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+  "anchor": [
+   0.64,
+   0.36
+  ],
+  "accent": "#bc392d",
+  "yearNote": "Year refers to the film’s first release; the poster edition is identified separately.",
+  "credit": "Copyright in the poster remains with its respective studio, distributor or artist. Low-resolution reproduction via Wikipedia for visual commentary; see the image source record.",
+  "countries": [
+   "Hong Kong",
+   "France"
+  ],
+  "primaryOrigin": "Hong Kong",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/in-the-mood-for-love.webp"
+ },
+ "studyData": {
+  "intro": "Two close faces share a warm, crowded image, but their looks do not meet the viewer. Explore the overlap of bodies, flowers and words, then ask how much of a relationship a poster can suggest without explaining it.",
+  "initial": "woman",
+  "regions": [
+   {
+    "id": "woman",
+    "label": "The lowered face",
+    "shortLabel": "The lowered face",
+    "kicker": "Look closely",
+    "summary": "The largest face turns inward.",
+    "layerIndex": 2,
+    "x": 64.528,
+    "y": 19.415,
+    "bounds": {
+     "x": 42,
+     "y": 1,
+     "w": 45,
+     "h": 37
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A downward direction",
+      "body": "The woman’s face occupies the upper-right portion, framed by dark hair and a bright background. Her eyes are lowered, and the head inclines towards the centre of the composition. The face is not presented as a straightforward, front-facing portrait for identification.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Closeness is not certainty",
+      "body": "The lowered gaze and nearby body can suggest intimacy, hesitation or withdrawal. Those are possible readings rather than proven feelings. Look for what the image actually supplies—angle, distance and overlap—before choosing a word for the emotional atmosphere.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which visible detail most strongly shapes your reading of her expression?",
+    "related": [
+     "rear-face",
+     "hands",
+     "hair"
+    ],
+    "number": 1
+   },
+   {
+    "id": "rear-face",
+    "label": "The face behind",
+    "shortLabel": "The face behind",
+    "kicker": "Look closely",
+    "summary": "A second portrait enters from the shadow.",
+    "layerIndex": 1,
+    "x": 28.679,
+    "y": 25.532,
+    "bounds": {
+     "x": 9,
+     "y": 8,
+     "w": 39,
+     "h": 35
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Unequal visibility",
+      "body": "The rear face appears from the left, lower in contrast and partly enclosed by dark areas. Its angle points towards the woman, but much of the body disappears behind her. The two figures are close in space without receiving equal clarity or equal room.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Two neighbours in the film",
+      "body": "Criterion describes Wong Kar Wai’s film as the story of neighbours Chow Mo-wan and Su Li-zhen in 1962 Hong Kong. Their relationship develops after discoveries about their spouses. This establishes the narrative setting; it does not identify this poster as a literal scene of a particular event.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "criterion"
+       }
+      ]
+     }
+    ],
+    "question": "How does the partial concealment change the balance between the two portraits?",
+    "related": [
+     "woman",
+     "overlap",
+     "background"
+    ],
+    "number": 2
+   },
+   {
+    "id": "hair",
+    "label": "A dark hair contour",
+    "shortLabel": "A dark hair contour",
+    "kicker": "Look closely",
+    "summary": "The head is anchored by a strong dark shape.",
+    "layerIndex": 2,
+    "x": 66.038,
+    "y": 9.574,
+    "bounds": {
+     "x": 46,
+     "y": 0,
+     "w": 40,
+     "h": 19
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An edge against warmth",
+      "body": "The woman’s dark hair creates a firm boundary against the orange-red upper field. Its irregular outline is easier to separate from the background than the warmer skin tones. The hair therefore helps hold the head in place within an image full of similar warm colours.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A pause among patterns",
+      "body": "Compared with the floral costume below, the hair reads as a comparatively simple mass. This alternation between broad dark shapes and detailed patterns gives the eye places to pause. Covering the hair makes the face’s upper edge much less clearly defined.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does a simple dark shape help you navigate the busy image?",
+    "related": [
+     "woman",
+     "flowers",
+     "background"
+    ],
+    "number": 3
+   },
+   {
+    "id": "hands",
+    "label": "Hands near the collar",
+    "shortLabel": "Hands near the collar",
+    "kicker": "Look closely",
+    "summary": "A small gesture interrupts the costume.",
+    "layerIndex": 3,
+    "x": 69.434,
+    "y": 51.596,
+    "bounds": {
+     "x": 46,
+     "y": 38,
+     "w": 47,
+     "h": 27
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Fingers as fine lines",
+      "body": "Pale fingers and hands gather near the chest and high neckline. Their slender forms contrast with the broad flower shapes below. Because the bodies overlap and the reproduction is small, the gesture should be described before assigning each hand a precise owner or action.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "An unfinished action",
+      "body": "Hands can make a still portrait feel as if something is happening between people. Here the gesture remains open to interpretation rather than explaining a complete story. Compare the concentrated detail of the fingers with the closed direction of the woman’s gaze.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What can you describe about the gesture without deciding exactly what it means?",
+    "related": [
+     "collar",
+     "woman",
+     "rear-face"
+    ],
+    "number": 4
+   },
+   {
+    "id": "collar",
+    "label": "The high neckline",
+    "shortLabel": "The high neckline",
+    "kicker": "Look closely",
+    "summary": "A pale edge links face and clothing.",
+    "layerIndex": 3,
+    "x": 60,
+    "y": 39.362,
+    "bounds": {
+     "x": 47,
+     "y": 29,
+     "w": 26,
+     "h": 20
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A narrow connector",
+      "body": "The high neckline rises close to the jaw and leads down towards the hands. Its light edges and small folds create a transition between the relatively quiet skin of the face and the more complex floral pattern. It is a structural detail, not just decoration.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Costume is a credited craft",
+      "body": "Criterion credits William Chang Suk Ping with the film’s production and costume design. That identifies a filmmaking contribution relevant to the clothing we see. It does not identify the designer of this poster or establish the intended meaning of this particular collar.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "criterion"
+       }
+      ]
+     }
+    ],
+    "question": "How does the neckline connect the face to the larger pattern below?",
+    "related": [
+     "hands",
+     "flowers",
+     "woman"
+    ],
+    "number": 5
+   },
+   {
+    "id": "flowers",
+    "label": "The floral field",
+    "shortLabel": "The floral field",
+    "kicker": "Look closely",
+    "summary": "Large flowers fill the lower half.",
+    "layerIndex": 3,
+    "x": 23.019,
+    "y": 60.106,
+    "bounds": {
+     "x": 9,
+     "y": 53,
+     "w": 89,
+     "h": 44
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Pattern at several scales",
+      "body": "Cream, red and darker floral shapes spread over the clothing. Some forms are broad enough to read from a distance, while smaller folds and shadows interrupt them. The pattern occupies much more area than the hands, yet the hands remain distinct because of their different contours.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Richness beneath restraint",
+      "body": "The busy costume can be read against the restrained facial expressions above. One area supplies visual abundance while another withholds a clear emotional declaration. That contrast is a formal reading; it does not prove that a colour or flower carries one fixed cultural meaning.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What happens to the mood if you cover the patterned lower half?",
+    "related": [
+     "hair",
+     "hands",
+     "chinese-title"
+    ],
+    "number": 6
+   },
+   {
+    "id": "english-title",
+    "label": "The English title",
+    "shortLabel": "The English title",
+    "kicker": "Words and meaning",
+    "summary": "A smaller line prepares a much larger title.",
+    "layerIndex": 4,
+    "x": 51.698,
+    "y": 72.606,
+    "bounds": {
+     "x": 21,
+     "y": 68,
+     "w": 62,
+     "h": 9
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Two scales of naming",
+      "body": "The English words in the mood for love appear above the larger Chinese title. They are light against the warm image, but occupy a much narrower band. The two titles identify the same film without needing to be identical word-for-word statements.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "More than one point of entry",
+      "body": "Including English and Chinese gives readers of different languages ways into the poster. Their unequal sizes create a hierarchy rather than a neutral duplicate. This is visible on the sheet; the exact distribution territory and audience composition remain unverified for this edition.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which title do you notice first, and how does language familiarity affect that?",
+    "related": [
+     "chinese-title",
+     "credits",
+     "flowers"
+    ],
+    "number": 7
+   },
+   {
+    "id": "chinese-title",
+    "label": "花樣年華",
+    "shortLabel": "花樣年華",
+    "kicker": "Words and meaning",
+    "summary": "White characters cut across the image.",
+    "layerIndex": 4,
+    "x": 49.811,
+    "y": 81.649,
+    "bounds": {
+     "x": 0,
+     "y": 76,
+     "w": 100,
+     "h": 13
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A title with its own meaning",
+      "body": "The Chinese title 花樣年華 can be rendered as “flowery years” or the prime of life. It is the film released in English as In the Mood for Love. The large white characters form a firm horizontal interruption across the warmer, more irregular costume imagery.",
+      "evidence": "observation",
+      "originalText": "花樣年華",
+      "lang": "zh-Hant",
+      "translation": "In the Mood for Love; the Chinese title evokes the prime of life"
+     },
+     {
+      "kind": "design",
+      "heading": "A clear band through complexity",
+      "body": "The broad strokes remain prominent despite the busy image beneath them. Cover the English line and the Chinese title still provides a strong visual base. Cover the large characters instead and the lower half becomes much more dependent on the costume’s pattern.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How do the broad white strokes change the rhythm of the floral forms?",
+    "related": [
+     "english-title",
+     "flowers",
+     "credits"
+    ],
+    "number": 8
+   },
+   {
+    "id": "festival",
+    "label": "The small festival mark",
+    "shortLabel": "The small festival mark",
+    "kicker": "Look closely",
+    "summary": "A tiny emblem occupies a corner.",
+    "layerIndex": 5,
+    "x": 7.17,
+    "y": 5.319,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 14,
+     "h": 11
+    },
+    "tags": [
+     "business",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "Recognition at another scale",
+      "body": "A small pale festival-style emblem and lettering appear near the upper-left edge. They require much closer inspection than the faces or main title. Their position adds a separate information point without competing for the central area occupied by the figures.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "A limit of this image",
+      "body": "At the installed resolution, the full wording around the mark is not secure enough to transcribe. Its presence can be discussed as a small promotional element without inventing an award, category or date. A legible archive scan would be needed for those finer claims.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What information does the mark suggest you could investigate in a better scan?",
+    "related": [
+     "credits",
+     "english-title",
+     "rear-face"
+    ],
+    "number": 9
+   },
+   {
+    "id": "credits",
+    "label": "The lower credit lines",
+    "shortLabel": "The lower credit lines",
+    "kicker": "Words and meaning",
+    "summary": "The poster’s smallest words form a base.",
+    "layerIndex": 5,
+    "x": 48.302,
+    "y": 95.213,
+    "bounds": {
+     "x": 1,
+     "y": 89,
+     "w": 98,
+     "h": 11
+    },
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Names in a narrow zone",
+      "body": "Several small lines sit below and among the large Chinese title. Their pale strokes form a horizontal texture near the bottom edge. Some larger names can be distinguished, but this small reproduction does not support a reliable full transcription of the credits.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Film and poster credits differ",
+      "body": "Criterion identifies the 2000 Hong Kong film as directed and written by Wong Kar Wai, with Tony Leung Chiu Wai and Maggie Cheung Man Yuk as its leads. Those film credits are checked independently; they do not establish an uncredited poster artist’s identity.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "criterion"
+       }
+      ]
+     }
+    ],
+    "question": "Why should film credits and poster-design credits be checked separately?",
+    "related": [
+     "chinese-title",
+     "festival",
+     "rear-face"
+    ],
+    "number": 10
+   },
+   {
+    "id": "background",
+    "label": "The warm setting",
+    "shortLabel": "The warm setting",
+    "kicker": "Look closely",
+    "summary": "A bright edge surrounds the heads.",
+    "layerIndex": 0,
+    "x": 92.453,
+    "y": 27.394,
+    "bounds": {
+     "x": 85,
+     "y": 6,
+     "w": 15,
+     "h": 43
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Few independent objects",
+      "body": "The visible background is largely a warm orange-red field, most open along the right edge. It provides little independently readable setting detail. That leaves the overlapping faces, hands and clothing to carry most of the spatial information within the image.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Atmosphere before location",
+      "body": "The colour can give the scene a concentrated atmosphere without specifying a precise room. A viewer may sense warmth or intensity, but the poster does not prove a time of day through colour alone. The documented 1962 setting comes from the film source, not this orange field.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What do you know about the setting from the picture alone?",
+    "related": [
+     "hair",
+     "rear-face",
+     "overlap"
+    ],
+    "number": 11
+   },
+   {
+    "id": "overlap",
+    "label": "Bodies without a clear gap",
+    "shortLabel": "Bodies without a clear gap",
+    "kicker": "Look closely",
+    "summary": "The figures share a compressed space.",
+    "layerIndex": 1,
+    "x": 26.415,
+    "y": 39.894,
+    "bounds": {
+     "x": 21,
+     "y": 29,
+     "w": 36,
+     "h": 30
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Edges merge and reappear",
+      "body": "Near the left shoulder and neckline, dark clothing, skin and patterned fabric meet without a broad background gap. Some boundaries are clear, while others merge into shadow. This makes the group read as a close arrangement rather than two portraits placed side by side.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Together, yet not explained",
+      "body": "Physical overlap can suggest connection, but it does not settle whether that connection is comfortable, tense or mutual. Compare the bodies’ closeness with the directions of the faces. The interest lies partly in the difference between proximity and a fully readable relationship.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does closeness of bodies necessarily mean closeness of feeling here?",
+    "related": [
+     "rear-face",
+     "woman",
+     "hands"
+    ],
+    "number": 12
+   }
+  ],
+  "sources": [
+   {
+    "id": "criterion",
+    "title": "Criterion: In the Mood for Love",
+    "url": "https://www.criterion.com/films/198-in-the-mood-for-love",
+    "kind": "Primary source",
+    "summary": "Verifies film year, Hong Kong setting, principal characters and performers, Wong Kar Wai’s credits and William Chang Suk Ping’s costume credit. The current Criterion cover is not this poster."
+   }
+  ],
+  "tour": [
+   "woman",
+   "rear-face",
+   "hands",
+   "flowers",
+   "chinese-title",
+   "festival"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected wording on this edition",
+    "rows": [
+     {
+      "text": "花樣年華",
+      "meaning": "Chinese film title; approximately “flowery years” or the prime of life",
+      "lang": "zh-Hant"
+     },
+     {
+      "text": "in the mood for love",
+      "meaning": "English release title",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Only the two prominent titles are transcribed. The small festival wording and lower credit block are deliberately not reconstructed from blurred letters.",
+  "palette": [
+   {
+    "name": "Orange field",
+    "hex": "#e06f0f",
+    "role": "A bright edge surrounds the heads.",
+    "region": "background"
+   },
+   {
+    "name": "Dark hair",
+    "hex": "#0a0809",
+    "role": "The head is anchored by a strong dark shape.",
+    "region": "hair"
+   },
+   {
+    "name": "Floral cream",
+    "hex": "#f6c87d",
+    "role": "Large flowers fill the lower half.",
+    "region": "flowers"
+   },
+   {
+    "name": "Title white",
+    "hex": "#fff7e8",
+    "role": "White characters cut across the image.",
+    "region": "chinese-title"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in this installed reproduction. They describe this image, not original printing inks or a colour standard.",
+  "connections": [
+   {
+    "label": "Overlap creates closeness",
+    "title": "Two faces share a warm field",
+    "text": "The rear face enters the space beside the woman’s neck and hair. The close overlap is more important than a clear boundary between bodies.",
+    "anchors": [
+     [
+      1,
+      0.330188679245283,
+      0.25930851063829785
+     ],
+     [
+      2,
+      0.6811320754716981,
+      0.2300531914893617
+     ]
+    ],
+    "id": "in-the-mood-for-love-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Pattern meets type",
+    "title": "Dense flowers, clear words",
+    "text": "The floral costume fills the lower image with texture; the large white title cuts a much simpler shape across it.",
+    "anchors": [
+     [
+      3,
+      0.7,
+      0.6795212765957447
+     ],
+     [
+      4,
+      0.47358490566037736,
+      0.8204787234042553
+     ]
+    ],
+    "id": "in-the-mood-for-love-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

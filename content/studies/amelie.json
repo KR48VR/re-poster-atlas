@@ -1,0 +1,675 @@
+{
+ "poster": {
+  "id": "amelie",
+  "title": "Amélie",
+  "year": "2001",
+  "yearNumber": 2001,
+  "country": "France / Germany",
+  "region": "Europe",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Jean-Pierre Jeunet",
+  "edition": "French-language theatrical poster",
+  "alt": "Amélie looks directly outward against a deep green background, with a black bob, red cardigan and yellow handwritten title.",
+  "blurb": "One direct glance and a tightly controlled red-green palette create an instantly recognisable portrait.",
+  "notes": [
+   {
+    "title": "A gaze that meets the viewer",
+    "body": "The face is shown close and looks directly out from the page. The slight turn of the head makes a small expression carry more weight than an elaborate scene could."
+   },
+   {
+    "title": "Red held inside green",
+    "body": "The cardigan and lips repeat warm red against the surrounding dark green. This compact palette makes the pale face the brightest area."
+   },
+   {
+    "title": "Handwriting loosens the portrait",
+    "body": "The loose yellow title crosses the lower portrait with a lighter rhythm than the close face. Small stars in the background extend that playful texture."
+   }
+  ],
+  "source": "https://www.sonypictures.com/movies/amelie",
+  "imageCredit": "Film publicity image; poster artist uncredited in the consulted source. Film copyright notice: UGC Images, Tapioca Films, France 3 Cinéma and MMC Independent GmbH (2001).",
+  "anchor": [
+   0.51,
+   0.37
+  ],
+  "accent": "#487341",
+  "category": "Film",
+  "image": "images/full/amelie.jpg",
+  "imageSource": "https://en.wikipedia.org/wiki/File:Amelie_poster.jpg",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/en/5/53/Amelie_poster.jpg",
+  "ratio": 0.692521,
+  "imageWidth": 250,
+  "imageHeight": 361,
+  "credit": "Film publicity image; poster artist uncredited in the consulted source. Film copyright notice: UGC Images, Tapioca Films, France 3 Cinéma and MMC Independent GmbH (2001).",
+  "countries": [
+   "France",
+   "Germany"
+  ],
+  "primaryOrigin": "France",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/amelie.webp"
+ },
+ "studyData": {
+  "intro": "The face is large, the setting almost absent, and small stars surround a tightly controlled red-green portrait. Look at how eyes, hair, clothing and handwritten-looking title forms divide the work of introducing a character.",
+  "initial": "face",
+  "regions": [
+   {
+    "id": "face",
+    "label": "The brightly lit face",
+    "shortLabel": "The brightly lit face",
+    "kicker": "DESIGN",
+    "summary": "A pale face becomes the clearest object in a dark field.",
+    "layerIndex": 2,
+    "bounds": {
+     "x": 32,
+     "y": 25,
+     "w": 40,
+     "h": 33
+    },
+    "x": 52,
+    "y": 40,
+    "question": "Which facial details remain visible when you step back?",
+    "related": [
+     "eyes",
+     "hair",
+     "neck"
+    ],
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A face isolated by light",
+      "body": "The face is much lighter than the hair, clothing and green surroundings. Its soft tonal modelling stands apart from the flat stars and lettering. That strong light-dark difference makes it the main focal area even though it is not positioned at the exact centre of the sheet.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "The film’s named central character",
+      "body": "Sony’s official synopsis describes Amélie as a Paris café waitress whose small acts and practical jokes affect people around her, alongside a developing romance. That supplies narrative context. It does not prove that any one expression on this poster has a single intended psychological meaning.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "sony"
+       }
+      ]
+     }
+    ],
+    "number": 1
+   },
+   {
+    "id": "eyes",
+    "label": "The sideways glance",
+    "shortLabel": "The sideways glance",
+    "kicker": "DESIGN",
+    "summary": "Dark eyes interrupt the light face.",
+    "layerIndex": 2,
+    "bounds": {
+     "x": 42,
+     "y": 31,
+     "w": 30,
+     "h": 9
+    },
+    "x": 58,
+    "y": 36,
+    "question": "Do the head and pupils point in exactly the same direction?",
+    "related": [
+     "mouth",
+     "face",
+     "title"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A glance made of small contrasts",
+      "body": "The eyes and brows form dark, sharply defined accents against the pale upper face. Their direction is more specific than the broad turn of the head. The difference gives the portrait a sense of attention aimed slightly to one side rather than a neutral, straight-ahead stare.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An expression open to reading",
+      "body": "The glance may look knowing, curious or playful, especially when compared with the mouth. Those descriptions remain interpretations, not facts about the character’s private thoughts. Try covering the mouth and then the eyes to see how each changes the expression you supply.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 2
+   },
+   {
+    "id": "mouth",
+    "label": "The small red smile",
+    "shortLabel": "The small red smile",
+    "kicker": "DESIGN",
+    "summary": "A narrow warm mark gives the lower face emphasis.",
+    "layerIndex": 2,
+    "bounds": {
+     "x": 48,
+     "y": 43,
+     "w": 16,
+     "h": 7
+    },
+    "x": 55,
+    "y": 47,
+    "question": "How much of the apparent expression depends on this small red shape?",
+    "related": [
+     "eyes",
+     "cardigan",
+     "title"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A small colour accent",
+      "body": "The lips are redder and more sharply defined than the surrounding skin. Their slight curve creates a compact focal point below the eyes. The mouth’s small area makes a useful comparison with the much larger red clothing: the same warm family can work at very different scales.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A restrained expression",
+      "body": "The smile is not an open, exaggerated grin. Its narrow shape leaves room for ambiguity when combined with the sideways glance. Reading it as mischievous is plausible, but the visible evidence should remain the mouth’s curve, scale and relation to the eyes.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 3
+   },
+   {
+    "id": "hair",
+    "label": "The dark bob and fringe",
+    "shortLabel": "The dark bob and fringe",
+    "kicker": "DESIGN",
+    "summary": "A compact dark frame sharpens the face’s outline.",
+    "layerIndex": 1,
+    "bounds": {
+     "x": 21,
+     "y": 8,
+     "w": 54,
+     "h": 34
+    },
+    "x": 40,
+    "y": 18,
+    "question": "Compare the fringe edge with the softer tonal transitions on the cheek.",
+    "related": [
+     "face",
+     "eyes",
+     "ground"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A near-silhouette around the face",
+      "body": "The hair is rendered as a very dark, compact shape, with a distinctive short fringe and pointed edges near the cheeks. Individual strands are much less important than the outline. That continuous mass makes the pale face easier to recognise against the mottled green ground.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Framing without symmetry",
+      "body": "The bob frames both sides of the face, but the head’s angle makes the outline uneven. One side projects differently from the other, keeping the portrait from becoming a perfectly symmetrical emblem. The hair therefore supplies both a stable dark frame and evidence of the head’s turn.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 4
+   },
+   {
+    "id": "neck",
+    "label": "The pale neckline",
+    "shortLabel": "The pale neckline",
+    "kicker": "DESIGN",
+    "summary": "A tapered light area extends the face into the torso.",
+    "layerIndex": 2,
+    "bounds": {
+     "x": 31,
+     "y": 48,
+     "w": 32,
+     "h": 23
+    },
+    "x": 52,
+    "y": 60,
+    "question": "Trace the pale shape downward: how does it guide attention toward the title?",
+    "related": [
+     "face",
+     "cardigan",
+     "lower-title"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A continuous path of light",
+      "body": "The neck and exposed upper chest continue the face’s pale tone downward into a tapering shape. Dark clothing borders it on both sides. This creates a vertical route through the portrait, connecting the bright face to the lower portion of the page without adding another object.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Light held inside dark edges",
+      "body": "The clothing’s dark neckline contains the pale shape more firmly than the soft cheek shading does. Compare those boundaries: one describes a garment edge, the other a turning surface. Their different sharpness helps the portrait retain depth despite the heavily simplified surrounding field.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 5
+   },
+   {
+    "id": "cardigan",
+    "label": "The red shoulders",
+    "shortLabel": "The red shoulders",
+    "kicker": "DESIGN",
+    "summary": "Two warm areas give the portrait a broad base.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 0,
+     "y": 46,
+     "w": 79,
+     "h": 29
+    },
+    "x": 20,
+    "y": 56,
+    "question": "Which shoulder appears brighter, and what does that do to the balance?",
+    "related": [
+     "mouth",
+     "neck",
+     "ground"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Colour falls into shadow",
+      "body": "Red is strongest near the shoulders and fades toward darker lower areas. The garment therefore does not form one flat red block. Its warm edges establish the torso’s breadth while the shadows leave a dark ground for the title’s yellow letters. The colour supports both body and typography.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A broad echo of the mouth",
+      "body": "The clothing repeats the mouth’s warm hue on a much larger scale. That connection can make the portrait feel coordinated without requiring literal matching colours everywhere. Compare the red areas with the green background to see how hue difference contributes alongside the much stronger contrast of the face.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 6
+   },
+   {
+    "id": "ground",
+    "label": "The green glow",
+    "shortLabel": "The green glow",
+    "kicker": "DESIGN",
+    "summary": "A mottled field supplies atmosphere without a named location.",
+    "layerIndex": 0,
+    "bounds": {
+     "x": 77,
+     "y": 6,
+     "w": 22,
+     "h": 61
+    },
+    "x": 88,
+    "y": 41,
+    "question": "What tells you this is a designed background rather than a readable café interior?",
+    "related": [
+     "stars",
+     "hair",
+     "cardigan"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A setting reduced to colour",
+      "body": "The background is a soft, uneven green field with brighter glows and darker patches. It does not describe a clearly identifiable room or street. This leaves the portrait free from competing environmental detail while still giving it more atmosphere than a plain single-colour backdrop would.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Colour as an invitation, not proof",
+      "body": "The green and red combination may feel heightened or playful, especially with the stars. That is a possible response to the visible treatment, not evidence about the original lighting of a photographed location. The poster’s colour world should not be mistaken for a documentary setting.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 7
+   },
+   {
+    "id": "stars",
+    "label": "The scattered small stars",
+    "shortLabel": "The scattered small stars",
+    "kicker": "DESIGN",
+    "summary": "Faint graphic symbols inhabit the soft background.",
+    "layerIndex": 0,
+    "bounds": {
+     "x": 77,
+     "y": 7,
+     "w": 20,
+     "h": 33
+    },
+    "x": 91,
+    "y": 15,
+    "question": "Find a star that is almost lost in the glow: why is it still recognisable?",
+    "related": [
+     "ground",
+     "eyes",
+     "title"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Hard symbols in a soft field",
+      "body": "Small star shapes have clearer edges than the glow around them, although many remain faint. Their repeated points supply a graphic texture distinct from the photographic face. The difference in edge quality allows them to suggest atmosphere without competing at the same descriptive level as the portrait.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A lightly suggested fantasy",
+      "body": "Stars can support an impression of wonder or invention here, but their presence alone does not describe a supernatural plot. The strongest observation is that they replace ordinary location detail with repeated decorative marks. Compare how the portrait feels when you attend to the stars versus the green alone.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 8
+   },
+   {
+    "id": "title",
+    "label": "The first title phrase",
+    "shortLabel": "The first title phrase",
+    "kicker": "LANGUAGE",
+    "summary": "A small yellow line begins an unusually long name.",
+    "layerIndex": 4,
+    "bounds": {
+     "x": 2,
+     "y": 70,
+     "w": 65,
+     "h": 7
+    },
+    "x": 34,
+    "y": 74,
+    "question": "How does this phrase prepare for the larger name underneath?",
+    "related": [
+     "lower-title",
+     "stars",
+     "names"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "The title promises a remarkable life",
+      "body": "The first phrase reads “Le Fabuleux Destin,” meaning “The Fabulous Destiny.” It begins the full French title rather than acting as a separate review quote. Its wording presents the character’s life as remarkable before the viewer receives any detailed narrative information.",
+      "evidence": "observation",
+      "originalText": "Le Fabuleux Destin",
+      "lang": "fr",
+      "translation": "The Fabulous Destiny"
+     },
+     {
+      "kind": "design",
+      "heading": "A line that feels written",
+      "body": "The yellow letters have changing strokes and a flowing, handwritten-looking rhythm. They contrast with the compact white capitals used for actor names and credits. The study describes that appearance without assigning a named typeface or claiming the lettering was produced by a particular manual process.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 9
+   },
+   {
+    "id": "lower-title",
+    "label": "Amélie’s name in yellow",
+    "shortLabel": "Amélie’s name in yellow",
+    "kicker": "LANGUAGE",
+    "summary": "The character’s first name takes the largest title scale.",
+    "layerIndex": 4,
+    "bounds": {
+     "x": 12,
+     "y": 76,
+     "w": 86,
+     "h": 10
+    },
+    "x": 48.193,
+    "y": 80.833,
+    "question": "Compare the size of Amélie with Poulain: which part is meant to register first?",
+    "related": [
+     "title",
+     "face",
+     "director"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A full name with unequal emphasis",
+      "body": "The second part reads “d’Amélie Poulain.” Amélie is much larger than the surname, so the title’s visual centre becomes a personal first name. Together the lines mean “The Fabulous Destiny of Amélie Poulain,” while the official English release title is simply Amélie.",
+      "evidence": "observation",
+      "originalText": "d’Amélie Poulain",
+      "lang": "fr",
+      "translation": "of Amélie Poulain"
+     },
+     {
+      "kind": "design",
+      "heading": "Yellow across a dark landing",
+      "body": "The lower torso and background become dark enough to receive the bright title without a separate box. Ascending and descending letter strokes add movement below the still portrait. The title therefore supplies a more visibly animated line at the base of the character image.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 10
+   },
+   {
+    "id": "names",
+    "label": "The two actor names",
+    "shortLabel": "The two actor names",
+    "kicker": "BUSINESS",
+    "summary": "Small white names occupy opposite sides of the top edge.",
+    "layerIndex": 5,
+    "bounds": {
+     "x": 2,
+     "y": 3,
+     "w": 96,
+     "h": 5
+    },
+    "x": 19.277,
+    "y": 5,
+    "question": "How does their separation frame the portrait’s hair?",
+    "related": [
+     "face",
+     "title",
+     "director"
+    ],
+    "tags": [
+     "business",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "Two names, one pictured face",
+      "body": "Audrey Tautou and Mathieu Kassovitz are named at the top, while the sheet gives its main image to one large portrait. That difference shows how billing and illustration can distribute attention differently. The poster does not need a matching portrait for every name it asks a reader to recognise.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A narrow upper frame",
+      "body": "The actor names form two small white blocks near opposite corners. Their modest scale leaves the central upper area available for the dark hair and green glow. At the same time, the horizontal alignment gives the otherwise atmospheric background a clear informational edge.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 11
+   },
+   {
+    "id": "director",
+    "label": "The director and fine credits",
+    "shortLabel": "The director and fine credits",
+    "kicker": "LANGUAGE",
+    "summary": "A clear name sits above a compressed final band.",
+    "layerIndex": 5,
+    "bounds": {
+     "x": 2,
+     "y": 85,
+     "w": 96,
+     "h": 13
+    },
+    "x": 52.61,
+    "y": 88.056,
+    "question": "Where does readable credit text become visual texture at this size?",
+    "related": [
+     "lower-title",
+     "names",
+     "neck"
+    ],
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A film by Jean-Pierre Jeunet",
+      "body": "The larger lower credit reads “Un film de Jean-Pierre Jeunet,” identifying the filmmaker within the poster. The line is much smaller than Amélie’s name but clearer than the dense credits below. Reading those scales separately preserves the hierarchy instead of treating every white mark as equally legible.",
+      "evidence": "observation",
+      "originalText": "Un film de Jean-Pierre Jeunet",
+      "lang": "fr",
+      "translation": "A film by Jean-Pierre Jeunet"
+     },
+     {
+      "kind": "context",
+      "heading": "What the official record establishes",
+      "body": "Sony’s official film page supplies the 2001 copyright context and the central-character synopsis. It does not identify the creator of this French poster. The fine billing in the installed 250-by-361-pixel image is not expanded into a complete production transcript or an invented design attribution.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "sony"
+       }
+      ]
+     }
+    ],
+    "number": 12
+   }
+  ],
+  "sources": [
+   {
+    "id": "sony",
+    "title": "Sony Pictures: Amélie",
+    "url": "https://www.sonypictures.com/movies/amelie",
+    "kind": "Official distributor film page",
+    "summary": "Supports the established English title, 2001 copyright context and synopsis of the Paris café waitress; does not attribute this French poster."
+   }
+  ],
+  "tour": [
+   "face",
+   "eyes",
+   "mouth",
+   "hair",
+   "ground",
+   "lower-title",
+   "director"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "Le Fabuleux Destin d’Amélie Poulain",
+      "meaning": "The Fabulous Destiny of Amélie Poulain",
+      "lang": "fr"
+     },
+     {
+      "text": "Un film de Jean-Pierre Jeunet",
+      "meaning": "A film by Jean-Pierre Jeunet",
+      "lang": "fr"
+     },
+     {
+      "text": "Audrey Tautou / Mathieu Kassovitz",
+      "meaning": "Printed performer names",
+      "lang": "und"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "The French title, principal names and director credit are readable. Fine production credits are not transcribed in full at this resolution. No poster artist, font name or precise photographic lighting method is inferred.",
+  "palette": [
+   {
+    "name": "Green glow",
+    "hex": "#355428",
+    "role": "Atmospheric portrait surround",
+    "region": "ground"
+   },
+   {
+    "name": "Hair dark",
+    "hex": "#121011",
+    "role": "Compact facial frame",
+    "region": "hair"
+   },
+   {
+    "name": "Face pale",
+    "hex": "#ead9bd",
+    "role": "Main light focal area",
+    "region": "face"
+   },
+   {
+    "name": "Cardigan red",
+    "hex": "#a7231e",
+    "role": "Warm shoulder accent",
+    "region": "cardigan"
+   },
+   {
+    "name": "Title yellow",
+    "hex": "#fcd410",
+    "role": "Bright lower identity",
+    "region": "lower-title"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels of the installed reproduction; these are not original ink or paper specifications.",
+  "connections": [
+   {
+    "label": "Framing the face",
+    "title": "Dark hair makes the pale face glow",
+    "text": "The simple dark curve around the face creates a concentrated point of contrast against the green ground.",
+    "anchors": [
+     [
+      1,
+      0.45,
+      0.20083102493074792
+     ],
+     [
+      2,
+      0.55,
+      0.3808864265927978
+     ]
+    ],
+    "id": "amelie-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Warm accents",
+    "title": "Red clothing and yellow handwriting",
+    "text": "The cardigan and loose yellow title add two warm accents below the cooler green surroundings.",
+    "anchors": [
+     [
+      3,
+      0.222,
+      0.5886426592797784
+     ],
+     [
+      4,
+      0.546,
+      0.7908587257617729
+     ]
+    ],
+    "id": "amelie-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

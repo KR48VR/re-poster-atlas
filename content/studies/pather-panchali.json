@@ -1,0 +1,632 @@
+{
+ "poster": {
+  "id": "pather-panchali",
+  "title": "Pather Panchali",
+  "year": "1955",
+  "yearNumber": 1955,
+  "country": "India",
+  "region": "South Asia",
+  "category": "Film",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Satyajit Ray",
+  "edition": "Bengali-language theatrical poster; printing date unverified",
+  "image": "images/full/pather-panchali.jpg",
+  "ratio": 0.6876640419947506,
+  "alt": "Pather Panchali Bengali-language poster with three softly coloured faces inside a white circular motif on a dark green background, small line drawings and large white Bengali title lettering.",
+  "blurb": "Three faces gather inside a pale circular frame above flowing Bengali lettering.",
+  "notes": [
+   {
+    "title": "A circle creates a world within the sheet",
+    "body": "A pale round field gathers the faces into one enclosure. Its decorated edge sets the intimate portrait group apart from the dark green surrounding space."
+   },
+   {
+    "title": "The gazes make the connection",
+    "body": "One face turns upward while another inclines toward the child. These directions bring the separate portraits into a small network of attention rather than a straight row of stars."
+   },
+   {
+    "title": "Lettering repeats the image’s curves",
+    "body": "The large white Bengali title moves in loops and sweeps beneath the circle. Its flowing contours keep the lower part of the poster visually connected to the rounded portrait frame."
+   }
+  ],
+  "source": "https://www.criterion.com/films/28021-pather-panchali",
+  "imageSource": "https://en.wikipedia.org/wiki/File:Pather_panchali_poster_in_color_1.jpg",
+  "imageCredit": "Copyright in the poster remains with its respective studio, distributor or artist. Low-resolution reproduction via Wikipedia for visual commentary; see the image source record.",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/en/7/77/Pather_panchali_poster_in_color_1.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+  "anchor": [
+   0.57,
+   0.43
+  ],
+  "accent": "#1f5c50",
+  "yearNote": "Year refers to the film’s first release; the poster edition is identified separately.",
+  "credit": "Copyright in the poster remains with its respective studio, distributor or artist. Low-resolution reproduction via Wikipedia for visual commentary; see the image source record.",
+  "countries": [
+   "India"
+  ],
+  "primaryOrigin": "India",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/pather-panchali.webp"
+ },
+ "studyData": {
+  "intro": "Three portraits share a pale circular field above a flowing Bengali title. Look for the routes made by gazes, hands and small drawings, and distinguish what the poster visibly shows from the family story documented by the film’s distributor.",
+  "initial": "circle",
+  "regions": [
+   {
+    "id": "circle",
+    "label": "The pale circular frame",
+    "shortLabel": "The pale circular frame",
+    "kicker": "Look closely",
+    "summary": "A round field gathers separate portraits.",
+    "layerIndex": 0,
+    "x": 50,
+    "y": 38.058,
+    "bounds": {
+     "x": 2,
+     "y": 4,
+     "w": 96,
+     "h": 68
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A picture within a picture",
+      "body": "A large pale circle occupies most of the upper sheet, surrounded by a small pointed or scalloped edge. The dark green outside makes its shape clear. The portraits and small drawings belong to this inner field, while the main title sits below it on the darker ground.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An intimate enclosure",
+      "body": "The circle can make the separate faces feel like one connected group. It does not prove that all three were photographed together. Compare their different scales and angles: the poster creates a relationship through placement inside a common boundary.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What makes these separate portraits feel like a group?",
+    "related": [
+     "left-face",
+     "right-face",
+     "title"
+    ],
+    "number": 1
+   },
+   {
+    "id": "left-face",
+    "label": "The lower-left smile",
+    "shortLabel": "The lower-left smile",
+    "kicker": "Look closely",
+    "summary": "One face turns upwards towards the others.",
+    "layerIndex": 1,
+    "x": 23.664,
+    "y": 49.606,
+    "bounds": {
+     "x": 6,
+     "y": 34,
+     "w": 35,
+     "h": 31
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A directed expression",
+      "body": "The lower-left portrait looks upward and towards the right, with a visible smile. Its pale face is framed by dark hair and the green outer field nearby. The head’s direction leads into the circle rather than out towards the sheet’s edge.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A relationship through looking",
+      "body": "The smile and upward gaze can suggest attention to the neighbouring child, but the poster alone does not establish a literal conversation. Its arrangement makes a link available to the viewer. Describe the direction before deciding how affectionate, playful or formal that link feels.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does the lower-left gaze lead you?",
+    "related": [
+     "right-face",
+     "hands",
+     "circle"
+    ],
+    "number": 2
+   },
+   {
+    "id": "upper-face",
+    "label": "The tilted upper portrait",
+    "shortLabel": "The tilted upper portrait",
+    "kicker": "Look closely",
+    "summary": "A diagonal head fills the upper interval.",
+    "layerIndex": 2,
+    "x": 47.328,
+    "y": 30.446,
+    "bounds": {
+     "x": 29,
+     "y": 19,
+     "w": 37,
+     "h": 23
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An unusual angle",
+      "body": "The upper face tilts diagonally down towards the right-hand portrait. Dark hair forms a strong cap around the pale face. Its angle differs from the more upright lower-left head, making the group feel gathered around a centre rather than arranged in a formal row.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A family-centred film",
+      "body": "Criterion describes Pather Panchali as Satyajit Ray’s 1955 debut, centred on rural Bengali family life and the child Apu. That supplies the film’s context. It does not make every facial arrangement on this promotional sheet a documented still from a specific scene.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "criterion"
+       }
+      ]
+     }
+    ],
+    "question": "How would the group change if this upper face were upright instead?",
+    "related": [
+     "right-face",
+     "circle",
+     "motifs"
+    ],
+    "number": 3
+   },
+   {
+    "id": "right-face",
+    "label": "The close right-hand child",
+    "shortLabel": "The close right-hand child",
+    "kicker": "Look closely",
+    "summary": "A face and raised hands occupy the circle’s edge.",
+    "layerIndex": 3,
+    "x": 77.863,
+    "y": 43.045,
+    "bounds": {
+     "x": 59,
+     "y": 18,
+     "w": 38,
+     "h": 50
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A compact profile",
+      "body": "The right-hand child leans inward, with hands near the mouth and face. Dark hair separates the head from the pale circle. The body follows the curve of the right edge, filling a tall segment without breaking the circular enclosure that gathers the group.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Closeness through compression",
+      "body": "The face, hands and nearby upper portrait sit in a tight space. That compression can suggest intimacy or absorption without telling us exactly what is happening. Compare it with the more open pale area around the drawings on the left.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where is the circle most crowded, and where is it most open?",
+    "related": [
+     "hands",
+     "upper-face",
+     "motifs"
+    ],
+    "number": 4
+   },
+   {
+    "id": "hands",
+    "label": "Hands near the face",
+    "shortLabel": "Hands near the face",
+    "kicker": "Look closely",
+    "summary": "Small gestures invite a slower look.",
+    "layerIndex": 3,
+    "x": 72.901,
+    "y": 46.982,
+    "bounds": {
+     "x": 59,
+     "y": 37,
+     "w": 28,
+     "h": 20
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Several pale shapes meet",
+      "body": "Fingers and hands gather close to the right-hand face, with curved dark lines separating them from skin and clothing. Their scale is small compared with the whole circle, yet the concentration of detail makes them a distinct point of interest within the portrait group.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Do not finish the action for the image",
+      "body": "It is tempting to name a precise game, object or emotional exchange from this gesture. The low-resolution image does not settle all of that. An accurate reading can describe proximity and direction while leaving the exact action open for further evidence.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What can you say about the hands without inventing an object they might hold?",
+    "related": [
+     "right-face",
+     "left-face",
+     "upper-face"
+    ],
+    "number": 5
+   },
+   {
+    "id": "fish",
+    "label": "Two small fish drawings",
+    "shortLabel": "Two small fish drawings",
+    "kicker": "Look closely",
+    "summary": "Fine lines contrast with the portraits.",
+    "layerIndex": 4,
+    "x": 33.588,
+    "y": 16.535,
+    "bounds": {
+     "x": 13,
+     "y": 9,
+     "w": 41,
+     "h": 24
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A different mode of depiction",
+      "body": "Two small fish-like drawings occupy the pale upper-left field. They use thin outlines and simple internal marks, unlike the more modelled faces. Their separate orientations create a light, dispersed rhythm in an area that would otherwise be largely empty inside the circle.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Small motifs, open meanings",
+      "body": "The drawings can invite associations with everyday surroundings or storytelling, but their precise symbolic role is not verified here. Compare their visual treatment with the portraits before assigning a cultural meaning. A motif can enrich a poster even when its full significance remains unresolved.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How do the fine drawings change the space around the much heavier portraits?",
+    "related": [
+     "motifs",
+     "circle",
+     "upper-face"
+    ],
+    "number": 6
+   },
+   {
+    "id": "motifs",
+    "label": "The paired foot-like marks",
+    "shortLabel": "The paired foot-like marks",
+    "kicker": "Look closely",
+    "summary": "Two tiny repeated shapes occupy the centre.",
+    "layerIndex": 4,
+    "x": 49.237,
+    "y": 48.556,
+    "bounds": {
+     "x": 39,
+     "y": 42,
+     "w": 17,
+     "h": 12
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A small paired rhythm",
+      "body": "Near the middle of the pale field, two outlined motifs have curled bases and short projecting marks above. Their paired arrangement is clear, even though their exact iconographic meaning is not established here. They form a light visual pause between the larger faces and hands.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Description before symbolism",
+      "body": "The shapes resemble stylised footprints, but resemblance alone does not prove a ritual or religious reference. A responsible reading can name the visual likeness and ask for better evidence. Their pairing and location can still be analysed as part of the composition.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What is certain about these marks—their shape, their meaning, or their relationship?",
+    "related": [
+     "fish",
+     "hands",
+     "circle"
+    ],
+    "number": 7
+   },
+   {
+    "id": "title",
+    "label": "The flowing Bengali title",
+    "shortLabel": "The flowing Bengali title",
+    "kicker": "Words and meaning",
+    "summary": "Large pale loops answer the circle above.",
+    "layerIndex": 5,
+    "x": 48.855,
+    "y": 84.514,
+    "bounds": {
+     "x": 8,
+     "y": 75,
+     "w": 84,
+     "h": 21
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Pather Panchali",
+      "body": "The Bengali title পথের পাঁচালী is read Pather Panchali and is commonly rendered “Song of the Little Road.” Its broad loops and long sweeping strokes fill the lower field. The title is not set into the circle, but its curves visually answer that rounded enclosure.",
+      "evidence": "observation",
+      "sources": [
+       {
+        "id": "moma-title",
+        "note": "English title rendering."
+       }
+      ],
+      "originalText": "পথের পাঁচালী",
+      "lang": "bn",
+      "translation": "Song of the Little Road",
+      "reading": "Pather Panchali"
+     },
+     {
+      "kind": "design",
+      "heading": "A second kind of drawing",
+      "body": "Even before reading Bengali, a viewer can compare the title’s thick strokes with the fine motifs above. Both are made from expressive lines, but they operate at very different scales. Recognising that formal relationship should not replace learning what the words actually say.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which title stroke most strongly echoes the circular portrait frame?",
+    "related": [
+     "circle",
+     "fish",
+     "supporting"
+    ],
+    "number": 8
+   },
+   {
+    "id": "supporting",
+    "label": "The smaller Bengali lines",
+    "shortLabel": "The smaller Bengali lines",
+    "kicker": "Words and meaning",
+    "summary": "Supporting wording sits between picture and title.",
+    "layerIndex": 6,
+    "x": 49.618,
+    "y": 73.491,
+    "bounds": {
+     "x": 25,
+     "y": 70,
+     "w": 48,
+     "h": 7
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A narrow bridge of text",
+      "body": "A short line of smaller Bengali lettering occupies the interval below the circle and above the main title. Another line sits at the very top, with additional small credits along the bottom. These words create several reading levels around the dominant image and title.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Credits checked independently",
+      "body": "Criterion identifies Ray as director and screenwriter, the Government of West Bengal as producer, and Ravi Shankar as composer. Those are verified film credits. They are not a claimed transcription of every small Bengali line on this particular poster, whose printing date remains unverified.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "criterion"
+       }
+      ]
+     }
+    ],
+    "question": "How does the small middle line bridge the picture and the large title?",
+    "related": [
+     "title",
+     "top-line",
+     "ground"
+    ],
+    "number": 9
+   },
+   {
+    "id": "top-line",
+    "label": "Words above the circle",
+    "shortLabel": "Words above the circle",
+    "kicker": "Look closely",
+    "summary": "A tiny line begins the sheet.",
+    "layerIndex": 6,
+    "x": 50,
+    "y": 1.575,
+    "bounds": {
+     "x": 32,
+     "y": 0,
+     "w": 36,
+     "h": 4
+    },
+    "tags": [
+     "business",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "An introduction before the image",
+      "body": "A small pale Bengali line sits at the top edge, outside the circular picture area. Its size is much quieter than the title below. The placement suggests introductory or presenting information, but the reproduction is not clear enough here for a complete, dependable transcription.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "Language access has limits",
+      "body": "A poster can be studied across languages without treating unread text as meaningless decoration. Here the title is translated, while uncertain smaller wording is identified honestly. A better scan and qualified reading would add information; guessing would reduce the study’s reliability.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What would a complete translation add beyond what the layout already tells you?",
+    "related": [
+     "supporting",
+     "title",
+     "circle"
+    ],
+    "number": 10
+   },
+   {
+    "id": "ground",
+    "label": "The dark green surround",
+    "shortLabel": "The dark green surround",
+    "kicker": "Look closely",
+    "summary": "A deep field separates the pale elements.",
+    "layerIndex": 0,
+    "x": 4.58,
+    "y": 82.94,
+    "bounds": {
+     "x": 0,
+     "y": 71,
+     "w": 9,
+     "h": 24
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Colour around a monochrome story",
+      "body": "The outer field is dark green, while the portraits have pale green-yellow and dark tones. The title and circle stand out strongly against it. These colours organise the poster’s surfaces; they should not be assumed to reproduce the film’s photographed colour palette.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A black-and-white film",
+      "body": "Criterion records Pather Panchali as a black-and-white, Bengali-language film. The tinted portraits and green ground belong to this promotional reproduction. Distinguishing film format from poster colour prevents a plausible-looking image from becoming misleading evidence about the film itself.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "criterion"
+       }
+      ]
+     }
+    ],
+    "question": "Why is the poster’s colour not enough to tell you whether the film was shot in colour?",
+    "related": [
+     "circle",
+     "title",
+     "left-face"
+    ],
+    "number": 11
+   }
+  ],
+  "sources": [
+   {
+    "id": "criterion",
+    "title": "Criterion: Pather Panchali",
+    "url": "https://www.criterion.com/films/28021-pather-panchali",
+    "kind": "Primary source",
+    "summary": "Verifies Ray’s 1955 debut, rural Bengali family context, black-and-white format, Bengali language and principal production credits. Does not identify this poster artist or printing date."
+   },
+   {
+    "id": "moma-title",
+    "title": "MoMA: Pather Panchali (Song of the Little Road)",
+    "url": "https://www.moma.org/calendar/events/5898",
+    "kind": "Primary source",
+    "summary": "Confirms the English rendering Song of the Little Road alongside the Bengali film title."
+   }
+  ],
+  "tour": [
+   "circle",
+   "left-face",
+   "upper-face",
+   "right-face",
+   "fish",
+   "title"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected wording on this edition",
+    "rows": [
+     {
+      "text": "পথের পাঁচালী",
+      "meaning": "Pather Panchali; commonly translated as Song of the Little Road",
+      "lang": "bn"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Only the securely read film title is transcribed. Small presenting and credit lines need a better scan and a full Bengali-language review. The small paired motifs are described without assigning unverified symbolism.",
+  "palette": [
+   {
+    "name": "Deep green",
+    "hex": "#123435",
+    "role": "A deep field separates the pale elements.",
+    "region": "ground"
+   },
+   {
+    "name": "Pale circle",
+    "hex": "#dbe0da",
+    "role": "A round field gathers separate portraits.",
+    "region": "circle"
+   },
+   {
+    "name": "Dark hair",
+    "hex": "#221c20",
+    "role": "A diagonal head fills the upper interval.",
+    "region": "upper-face"
+   },
+   {
+    "name": "Yellow-green face",
+    "hex": "#b4b476",
+    "role": "One face turns upwards towards the others.",
+    "region": "left-face"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in this installed reproduction. They describe this image, not original printing inks or a colour standard.",
+  "connections": [
+   {
+    "label": "An inward circle",
+    "title": "Three faces gather inside one frame",
+    "text": "The portraits turn and tilt toward the middle, while the circular frame holds them as a close group.",
+    "anchors": [
+     [
+      1,
+      0.25,
+      0.45013123359580054
+     ],
+     [
+      3,
+      0.7881679389312977,
+      0.36089238845144356
+     ]
+    ],
+    "id": "pather-panchali-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Two kinds of line",
+    "title": "Small drawings and large lettering",
+    "text": "Fine drawn motifs occupy the pale circle; broad flowing Bengali letterforms spread across the dark lower field.",
+    "anchors": [
+     [
+      4,
+      0.4446564885496183,
+      0.489501312335958
+     ],
+     [
+      5,
+      0.4904580152671756,
+      0.8464566929133859
+     ]
+    ],
+    "id": "pather-panchali-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

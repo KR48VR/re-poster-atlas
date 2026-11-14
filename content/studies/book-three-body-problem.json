@@ -1,0 +1,616 @@
+{
+ "poster": {
+  "id": "book-three-body-problem",
+  "title": "The Three-Body Problem",
+  "year": "2022",
+  "yearNumber": 2022,
+  "coverYear": "2022",
+  "posterYear": "2022",
+  "posterDateStatus": "December 2022 Chinese edition; not the 2008 first book edition.",
+  "bookFirstPublication": "2008; first serialized in 2006",
+  "bookAuthor": "Liu Cixin",
+  "bookPublisher": "Chongqing Publishing House",
+  "bookOrigin": "Chinese-language science-fiction novel by Liu Cixin",
+  "category": "Book cover",
+  "country": "China",
+  "countries": [
+   "China"
+  ],
+  "primaryOrigin": "China",
+  "region": "East Asia",
+  "creator": "Cover artist not independently established",
+  "image": "images/full/book-three-body-problem.jpg",
+  "ratio": 0.6666666666666666,
+  "alt": "Magenta cosmic scenery with planets, a large inverted dark structure, bold white Chinese title and an orange circular badge.",
+  "blurb": "An inverted structure and enormous planets make the white title feel like a measuring instrument.",
+  "notes": [
+   {
+    "title": "A top-heavy world",
+    "body": "The dark structure widens towards the top and narrows towards the bright central stroke. Its scale is difficult to resolve against the planets."
+   },
+   {
+    "title": "Writing crosses the scene",
+    "body": "The white title cuts across several coloured objects. A long descending stroke joins the lettering to the central axis of the illustration."
+   },
+   {
+    "title": "Edition and work are separate",
+    "body": "The exact image belongs to the provider’s 2022 Chinese edition. The novel’s first book publication was 2008, after serialization began in 2006."
+   }
+  ],
+  "source": "https://read.douban.com/ebook/594929245/",
+  "credit": "Chinese edition provided by Science Fiction World through Douban Read, ISBN 9787229166922; cover artist not named in checked record.",
+  "edition": "December 2022 Chinese edition; not the 2008 first book edition.",
+  "originNote": "Country describes this edition’s publishing/design context, not the author’s nationality. Chinese-language edition published in Chongqing.",
+  "originSources": [
+   {
+    "title": "Douban Read / Science Fiction World: Chinese edition",
+    "url": "https://read.douban.com/ebook/594929245/"
+   },
+   {
+    "title": "NII university-library record: original publication statement",
+    "url": "https://ci.nii.ac.jp/ncid/BD03728750"
+   }
+  ],
+  "creditSources": [
+   {
+    "title": "Douban Read / Science Fiction World: Chinese edition",
+    "url": "https://read.douban.com/ebook/594929245/"
+   },
+   {
+    "title": "NII university-library record: original publication statement",
+    "url": "https://ci.nii.ac.jp/ncid/BD03728750"
+   }
+  ],
+  "imageSource": "https://read.douban.com/ebook/594929245/",
+  "imageCredit": "Chinese edition provided by Science Fiction World through Douban Read, ISBN 9787229166922; cover artist not named in checked record.",
+  "accent": "#C82A77",
+  "anchor": [
+   0.59,
+   0.23
+  ],
+  "reproduction": "Source reproduction retained without generative reconstruction. Analytical layers partition visible source pixels; printing colours and hidden artwork cannot be recovered.",
+  "downloadURL": "https://pic.arkread.com/cover/ebook/f/594929245.1785117774.jpg!cover_default.jpg",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-three-body-problem.webp"
+ },
+ "studyData": {
+  "intro": "An inverted structure and enormous planets make the white title feel like a measuring instrument. Follow the details to compare what is visible, what can be interpreted and what the edition record establishes.",
+  "initial": "title",
+  "regions": [
+   {
+    "id": "title",
+    "number": 1,
+    "label": "White characters cross a cosmic field",
+    "shortLabel": "White title",
+    "kicker": "LANGUAGE",
+    "summary": "Two large white Chinese characters stretch across the middle of the upper scene.",
+    "layerIndex": 3,
+    "x": 47.73,
+    "y": 39.29,
+    "bounds": {
+     "x": 8,
+     "y": 28,
+     "w": 83,
+     "h": 17
+    },
+    "question": "Where does the white lettering most clearly interrupt an object behind it?",
+    "related": [
+     "structure",
+     "planet"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "White title in the image",
+      "body": "Two large white Chinese characters stretch across the middle of the upper scene. Their clean edges contrast with textured planets and machinery. The lettering overlaps several image areas, so it remains a continuous readable unit while the pictured world changes behind it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Characters read as words and bright shapes",
+      "body": "三体 names the three-body concept and the novel. The title’s strong horizontal strokes also work as a graphic interruption. Compare reading the characters as language with seeing them as bright shapes cutting across an otherwise richly coloured surface.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "extension",
+    "number": 2,
+    "label": "One white stroke reaches downward",
+    "shortLabel": "Descending stroke",
+    "kicker": "DESIGN",
+    "summary": "A narrow white extension descends from the title along the central axis.",
+    "layerIndex": 3,
+    "x": 50.45,
+    "y": 55.05,
+    "bounds": {
+     "x": 45,
+     "y": 42,
+     "w": 10,
+     "h": 27
+    },
+    "question": "Does the stroke make the title feel more like writing, a machine part or a direction?",
+    "related": [
+     "title",
+     "structure"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Descending stroke in the image",
+      "body": "A narrow white extension descends from the title along the central axis. It travels through darker structure towards the lower scene. Its bright, straight form contrasts with curved planets and the irregular details of the illustrated machine.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A vertical stroke joins words and image",
+      "body": "The extension ties the words to the image without making their roles identical. It can feel like a pointer, beam or spine, but those are possible readings rather than identified objects. Compare how the composition changes if you cover only this vertical stroke.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "structure",
+    "number": 3,
+    "label": "A broad structure narrows towards the centre",
+    "shortLabel": "Inverted structure",
+    "kicker": "DESIGN",
+    "summary": "A dark, highly textured structure spans the top and tapers towards the central area.",
+    "layerIndex": 2,
+    "x": 59,
+    "y": 23,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 100,
+     "h": 66
+    },
+    "question": "What visual clue makes this structure feel enormous rather than merely close?",
+    "related": [
+     "title",
+     "planet"
+    ],
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Inverted structure in the image",
+      "body": "A dark, highly textured structure spans the top and tapers towards the central area. Small repeated panels and lights cover its surface. Its outer silhouette widens above and narrows below, reversing the familiar expectation that a heavy object sits on a broad base.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An inverted mass unsettles familiar scale",
+      "body": "The inverted mass creates a sense of uncertain scale and support. The picture offers no familiar human body as a measuring unit. Compare its size with the planets, but resist turning that comparison into a precise physical measurement or identification.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "context",
+      "heading": "A fictional encounter across space",
+      "body": "The rights-provider synopsis links a secret search for extraterrestrial civilisation with messages between Earth and another civilisation. That establishes the novel’s speculative setting. It does not identify every machine or planet in this illustration, nor turn the cover into a scientifically scaled diagram.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "body"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "planet",
+    "number": 4,
+    "label": "A bright rim defines a large sphere",
+    "shortLabel": "Large planet",
+    "kicker": "DESIGN",
+    "summary": "A large pink sphere occupies the left-middle area.",
+    "layerIndex": 1,
+    "x": 24,
+    "y": 50,
+    "bounds": {
+     "x": 0,
+     "y": 34,
+     "w": 36,
+     "h": 34
+    },
+    "question": "Which visible arc is enough for you to imagine the rest of the sphere?",
+    "related": [
+     "title",
+     "structure"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Large planet in the image",
+      "body": "A large pink sphere occupies the left-middle area. A bright rim catches its upper and right edge, while much of the surface remains darker. Jagged foreground forms interrupt the lower outline, making the visible sphere incomplete.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "The eye completes a partly hidden sphere",
+      "body": "The missing lower edge is an occlusion, not evidence that the planet is a flat fragment. Our eye can continue the rounded form behind the foreground. Compare this implied completion with the analytical layer, which retains only the pixels actually visible in the cover.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "rings",
+    "number": 5,
+    "label": "Curved bands pass behind another sphere",
+    "shortLabel": "Rings and small planet",
+    "kicker": "DESIGN",
+    "summary": "A smaller pink sphere sits to the right of the central structure, with pale curved bands extending across the surrounding field.",
+    "layerIndex": 1,
+    "x": 70,
+    "y": 60,
+    "bounds": {
+     "x": 53,
+     "y": 48,
+     "w": 47,
+     "h": 22
+    },
+    "question": "Where do the curved bands seem to pass behind another form?",
+    "related": [
+     "title",
+     "structure"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Rings and small planet in the image",
+      "body": "A smaller pink sphere sits to the right of the central structure, with pale curved bands extending across the surrounding field. The bands and sphere meet darker foreground shapes near the bottom. Their visible segments suggest different depths without a labelled diagram.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A sweep across the central axis",
+      "body": "The bands add a sweeping direction to the more vertical central axis. They may suggest planetary rings, but the illustration does not supply astronomical measurements. Their compositional role can be examined without treating the scene as a scientifically scaled model.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "moon",
+    "number": 6,
+    "label": "A tiny pale disc changes the scale",
+    "shortLabel": "Small pale disc",
+    "kicker": "DESIGN",
+    "summary": "A small pale circular disc appears near the right side of the title.",
+    "layerIndex": 1,
+    "x": 93,
+    "y": 33,
+    "bounds": {
+     "x": 88,
+     "y": 29,
+     "w": 10,
+     "h": 7
+    },
+    "question": "What changes when you compare the small disc with the largest sphere?",
+    "related": [
+     "title",
+     "structure"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Small pale disc in the image",
+      "body": "A small pale circular disc appears near the right side of the title. It is much simpler and smaller than the large pink planets. Its bright surface remains visible within a comparatively quiet patch of magenta sky.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Different circles suggest different scales",
+      "body": "The tiny disc introduces another scale of roundness. Comparing several circles can make the scene feel expansive, although apparent size alone cannot tell us distance or true diameter. This is a visual scale cue, not a basis for an astronomical calculation.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "ground",
+    "number": 7,
+    "label": "A dense lower field has its own perspective",
+    "shortLabel": "Lower landscape",
+    "kicker": "DESIGN",
+    "summary": "The lower part contains dense lines, small illuminated shapes and converging paths.",
+    "layerIndex": 0,
+    "x": 40,
+    "y": 88,
+    "bounds": {
+     "x": 0,
+     "y": 75,
+     "w": 100,
+     "h": 25
+    },
+    "question": "Which line or path most strongly draws you into the lower scene?",
+    "related": [
+     "title",
+     "structure"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Lower landscape in the image",
+      "body": "The lower part contains dense lines, small illuminated shapes and converging paths. It is much busier than the open areas around the planets. Warm highlights concentrate near the centre while darker forms collect along the sides and horizon-like boundary.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Two routes through a dense scene",
+      "body": "The convergence can draw attention towards a distant central area, countering the title’s broad horizontal emphasis. Looking from the bottom upward gives a different route through the image than beginning with the large white characters. Try both routes before deciding what dominates.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "author",
+    "number": 8,
+    "label": "A second white line names the writer",
+    "shortLabel": "Author line",
+    "kicker": "LANGUAGE",
+    "summary": "刘慈欣 著 appears in large white characters below the planets.",
+    "layerIndex": 4,
+    "x": 53,
+    "y": 71,
+    "bounds": {
+     "x": 8,
+     "y": 65,
+     "w": 80,
+     "h": 13
+    },
+    "question": "How can you distinguish title and author through placement before translating either line?",
+    "related": [
+     "title",
+     "structure"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Author line in the image",
+      "body": "刘慈欣 著 appears in large white characters below the planets. The name occupies most of the width, while 著 identifies authorship. This line shares the title’s high contrast but is placed against the darker, denser lower scene.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Shared colour, different lettering roles",
+      "body": "The repeated white links title and author without giving them identical forms. The title has a long graphic extension; the author line remains a more conventional block of text. The exact typefaces or lettering process are not established by this reproduction.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "award",
+    "number": 9,
+    "label": "A pale band carries a promotional statement",
+    "shortLabel": "Award band",
+    "kicker": "DESIGN",
+    "summary": "A pale horizontal strip spans the upper structure and carries dark red Chinese wording.",
+    "layerIndex": 5,
+    "x": 50,
+    "y": 12,
+    "bounds": {
+     "x": 0,
+     "y": 8,
+     "w": 100,
+     "h": 8
+    },
+    "question": "How does the pale strip make a small promotional line compete with the illustration?",
+    "related": [
+     "title",
+     "structure"
+    ],
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Award band in the image",
+      "body": "A pale horizontal strip spans the upper structure and carries dark red Chinese wording. The band cuts across the detailed machinery rather than following its perspective. Its even surface makes the compact characters easier to read against an otherwise busy image.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A 2022 edition carries an award claim",
+      "body": "The rights-provider listing identifies this image with Chongqing Publishing House’s December 2022 Chinese edition, ISBN 9787229166922. The band’s wording presents the book as a Hugo Award-winning work. The edition record should not be confused with the novel’s first book publication in 2008.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "body"
+       },
+       {
+        "id": "bodywork"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "seal",
+    "number": 10,
+    "label": "An orange disc repeats the title",
+    "shortLabel": "Orange seal",
+    "kicker": "DESIGN",
+    "summary": "An orange circular device sits near the lower-right corner.",
+    "layerIndex": 6,
+    "x": 85,
+    "y": 89,
+    "bounds": {
+     "x": 71,
+     "y": 80,
+     "w": 28,
+     "h": 19
+    },
+    "question": "What makes this circle read as a graphic label rather than another planet?",
+    "related": [
+     "title",
+     "structure"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Orange seal in the image",
+      "body": "An orange circular device sits near the lower-right corner. White title-like strokes cross it, and lighter rings distinguish its edge. Its enclosed roundness echoes the planets, but its flat graphic presentation separates it from the illustrated space scene.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A compact mark echoes the larger circles",
+      "body": "The device acts like a second, compact identity mark at the end of the cover’s reading route. It repeats a recognisable visual idea rather than adding a new scene. Fine wording at this size is not securely transcribed here, and the disc is not treated as a named award seal.",
+      "evidence": "interpretation"
+     }
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "visual",
+    "title": "Exact reproduced cover: The Three-Body Problem",
+    "url": "https://read.douban.com/ebook/594929245/",
+    "kind": "Visual source",
+    "summary": "Chinese edition provided by Science Fiction World through Douban Read, ISBN 9787229166922; cover artist not named in checked record."
+   },
+   {
+    "id": "body",
+    "title": "Douban Read / Science Fiction World: Chinese edition",
+    "url": "https://read.douban.com/ebook/594929245/",
+    "kind": "Rights-provider edition listing",
+    "summary": "The rights-provider listing identifies this image with Chongqing Publishing House’s December 2022 Chinese edition, ISBN 9787229166922. The band’s wording presents the book as a Hugo Award-winning work. The edition record should not be confused with the novel’s first book publication in 2008."
+   },
+   {
+    "id": "bodywork",
+    "title": "NII university-library record: original publication statement",
+    "url": "https://ci.nii.ac.jp/ncid/BD03728750",
+    "kind": "University library record",
+    "summary": "NII university-library record: original publication statement. Supports the specific history distinguished in the edition note."
+   }
+  ],
+  "tour": [
+   "title",
+   "structure",
+   "planet",
+   "rings",
+   "ground",
+   "award"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected legible cover wording",
+    "rows": [
+     {
+      "text": "三体",
+      "meaning": "The Three-Body Problem; literally three bodies",
+      "lang": "zh-Hans"
+     },
+     {
+      "text": "刘慈欣 著",
+      "meaning": "Written by Liu Cixin",
+      "lang": "zh-Hans"
+     },
+     {
+      "text": "雨果奖获奖作品",
+      "meaning": "Hugo Award-winning work",
+      "lang": "zh-Hans"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected wording only. Line breaks and typographic case may be regularized. Fine print and endorsement prose are omitted where not needed for this reading. English meanings are editorial translations, not a claim of native-language reader testing.",
+  "palette": [
+   {
+    "name": "Planet pink",
+    "hex": "#C82A77",
+    "role": "A screen sample from large planet. Compare this local colour with its surrounding shapes.",
+    "region": "planet"
+   },
+   {
+    "name": "Title white",
+    "hex": "#FFFFFF",
+    "role": "A screen sample from white title. Compare this local colour with its surrounding shapes.",
+    "region": "title"
+   },
+   {
+    "name": "Structure purple",
+    "hex": "#553469",
+    "role": "A screen sample from inverted structure. Compare this local colour with its surrounding shapes.",
+    "region": "structure"
+   },
+   {
+    "name": "Seal orange",
+    "hex": "#EC9A34",
+    "role": "A screen sample from orange seal. Compare this local colour with its surrounding shapes.",
+    "region": "seal"
+   }
+  ],
+  "paletteNote": "Samples are exact pixels from the installed reproduction, chosen within the named feature for perceptual agreement. They describe this screen image, not original ink specifications, paper stock or universal colour meanings.",
+  "connections": [
+   {
+    "title": "A title crosses the machine",
+    "anchors": [
+     [
+      3,
+      0.5015151515151515,
+      0.39090909090909093
+     ],
+     [
+      2,
+      0.5893939393939394,
+      0.2292929292929293
+     ]
+    ],
+    "id": "book-three-body-problem-connection-0",
+    "colour": "#be3d74",
+    "label": "Title / structure",
+    "text": "Clean white strokes cut across the textured dark machinery, and the descending title stroke reinforces its central axis."
+   },
+   {
+    "title": "Circles at different scales",
+    "anchors": [
+     [
+      1,
+      0.2409090909090909,
+      0.5
+     ],
+     [
+      6,
+      0.85,
+      0.8898989898989899
+     ]
+    ],
+    "id": "book-three-body-problem-connection-1",
+    "colour": "#496f80",
+    "label": "Planet / seal",
+    "text": "The large shaded planet and smaller orange title device both use circles, but one suggests depth while the other reads as a flat graphic label."
+   }
+  ]
+ }
+}

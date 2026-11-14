@@ -1,0 +1,601 @@
+{
+ "poster": {
+  "id": "ilo-ilo",
+  "title": "Ilo Ilo",
+  "year": "2013",
+  "yearNumber": 2013,
+  "country": "Singapore",
+  "countries": [
+   "Singapore"
+  ],
+  "region": "Southeast Asia",
+  "category": "Film",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Anthony Chen",
+  "edition": "2014 US theatrical poster",
+  "posterTerritory": "United States",
+  "image": "images/full/ilo-ilo.jpg",
+  "ratio": 0.6747638326585695,
+  "alt": "A boy points across a pale city skyline while standing beside a woman on a balcony; black handwritten Ilo Ilo lettering sits in a broad white and lavender sky above.",
+  "blurb": "A small pointing gesture connects two figures on a balcony to a city beyond them.",
+  "notes": [
+   {
+    "title": "An arm becomes a route",
+    "body": "The boy’s extended arm leads left from the close pair toward the distant skyline. That gesture does the connecting work that a drawn arrow might otherwise do."
+   },
+   {
+    "title": "Room above the figures",
+    "body": "The people occupy the lower portion of the poster, leaving a large pale field overhead. The open space gives the handwritten title and festival marks room without crowding the relationship below."
+   },
+   {
+    "title": "Two different kinds of edge",
+    "body": "The balcony and skyline make long horizontal lines, while the title has irregular brush-like contours. The contrast brings a personal, informal voice into an otherwise orderly city view."
+   }
+  ],
+  "source": "https://www.festival-cannes.com/en/f/ilo-ilo/",
+  "imageSource": "https://2026.filmmovement.com/press/film/ilo-ilo",
+  "imageCredit": "Official Film Movement US theatrical poster. Copyright remains with the film, distributor and artwork rights holders; designer of this selected vertical sheet uncredited.",
+  "credit": "Official Film Movement US theatrical poster. Copyright remains with the film, distributor and artwork rights holders; designer of this selected vertical sheet uncredited.",
+  "reproduction": "Film: Singapore, 2013. Selected edition: Film Movement’s US theatrical release poster, 2014. The title’s Philippine place-name does not make this a Philippine production.",
+  "downloadURL": "https://2026.filmmovement.com/media_cache/userFiles/uploads/films/ilo-ilo/theatrical_poster/ilo-ilo_poster.jpg",
+  "anchor": [
+   0.68,
+   0.76
+  ],
+  "accent": "#756d8b",
+  "posterYear": "2014",
+  "primaryOrigin": "Singapore",
+  "anchorLayer": 1,
+  "thumb": "images/catalogue/ilo-ilo.webp"
+ },
+ "studyData": {
+  "intro": "An everyday rooftop moment shares the sheet with an unusually large, loose title and a carefully ordered wall of acclaim. Follow the boy’s gesture into the city, then compare that intimate photograph with the campaign’s public credentials.",
+  "initial": "title",
+  "regions": [
+   {
+    "id": "wash",
+    "label": "Cloudlike washes",
+    "shortLabel": "Cloudlike washes",
+    "kicker": "Edges without a box",
+    "summary": "Pale, irregular colour carries the upper half.",
+    "x": 50,
+    "y": 30.5,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 100,
+     "h": 61
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Edges without a box",
+      "body": "Blue-grey and lavender patches spread across the upper sheet with torn-looking white gaps. Their irregular edges remain visible behind the black title. Farther down, the colour fades into an almost blank horizon, allowing the photograph and lettering to share one continuous surface.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A soft bridge",
+      "body": "The washes can be read as a bridge between graphic lettering and the hazy city photograph. Their looseness differs from the carefully aligned awards. This is an effect of the visible arrangement, not evidence that the poster was painted by hand or that the texture represents a particular memory.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does a wash end sharply, and where does it disappear?",
+    "related": [
+     "title",
+     "city"
+    ],
+    "number": 1
+   },
+   {
+    "id": "title",
+    "label": "Two repeated words",
+    "shortLabel": "Two repeated words",
+    "kicker": "Repeat and variation",
+    "summary": "Black strokes make the name the largest message.",
+    "x": 50,
+    "y": 26.5,
+    "bounds": {
+     "x": 13,
+     "y": 20,
+     "w": 74,
+     "h": 13
+    },
+    "layerIndex": 4,
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Repeat and variation",
+      "body": "The title is divided into two pairs of letters. Its repeated I and O shapes are similar without being identical: strokes thicken, curve and end unevenly. Wide circular openings keep the heavy black lettering from becoming a solid block across the delicate ground.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A place in a remembered life",
+      "body": "Anthony Chen’s director statement explains that Iloilo was the Philippine province his childhood caregiver came from. The film itself is set in Singapore. The title therefore points to a personal cross-border connection; it should not be used to recategorize the film as a Philippine production.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "presskit"
+       }
+      ]
+     }
+    ],
+    "question": "How do the two O shapes differ when you compare their outlines?",
+    "related": [
+     "faces",
+     "wash"
+    ],
+    "number": 2
+   },
+   {
+    "id": "cannes",
+    "label": "One award at the top",
+    "shortLabel": "One award at the top",
+    "kicker": "A centred starting point",
+    "summary": "A small emblem occupies a privileged position.",
+    "x": 50,
+    "y": 8,
+    "bounds": {
+     "x": 43,
+     "y": 3,
+     "w": 14,
+     "h": 10
+    },
+    "layerIndex": 5,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A centred starting point",
+      "body": "The oval palm emblem sits alone above the first review, with several short lines beneath it. White space separates this compact cluster from the large title. Its central alignment establishes an axis that the more irregular lettering below repeatedly crosses.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "An award as an invitation",
+      "body": "The visible winner wording asks a prospective viewer to treat recognition as a reason to look further. It is promotional evidence on the sheet, not a guarantee of anyone’s response. Compare the quiet size of this claim with its exceptionally prominent position.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Why might the smallest top mark be noticed before the larger row below?",
+    "related": [
+     "laurels",
+     "review"
+    ],
+    "number": 3
+   },
+   {
+    "id": "review",
+    "label": "The review voice",
+    "shortLabel": "The review voice",
+    "kicker": "A voice inside quotation marks",
+    "summary": "A separate voice sits between title and photograph.",
+    "x": 50,
+    "y": 48.5,
+    "bounds": {
+     "x": 14,
+     "y": 45,
+     "w": 72,
+     "h": 7
+    },
+    "layerIndex": 5,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A voice inside quotation marks",
+      "body": "The lower review is set in capital letters across two lines, with a smaller attribution underneath. Quotation marks distinguish praise from the film’s title. The shift in scale lets the main verdict register before the reader works out who said it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Framing the encounter",
+      "body": "This review prepares a viewer to approach the photographed pair through an emotional vocabulary. That is the campaign’s framing, not a neutral description of every scene. Leaving the pair visible while covering the words is a useful way to compare visual evidence with promotional guidance.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What changes if you cover the review but leave the photograph visible?",
+    "related": [
+     "faces",
+     "cannes"
+    ],
+    "number": 4
+   },
+   {
+    "id": "laurels",
+    "label": "A row of credentials",
+    "shortLabel": "A row of credentials",
+    "kicker": "Repeated containers",
+    "summary": "Four compact award and selection clusters make a rhythm.",
+    "x": 50,
+    "y": 38.5,
+    "bounds": {
+     "x": 16,
+     "y": 35,
+     "w": 68,
+     "h": 7
+    },
+    "layerIndex": 5,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Repeated containers",
+      "body": "Four laurel-shaped clusters sit beneath the title. Each encloses a different arrangement of small words, but their similar height makes them read as a single band. The spaces between them matter as much as their outlines: they stop the credentials from merging together.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Different kinds of recognition",
+      "body": "The row visibly mixes winner language with an official-selection label. Those are different claims, even when matching laurel shapes make them look alike. Reading the words inside a festival mark is more accurate than treating every wreath as proof that the film won an award.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Which details remain legible when you step back from this row?",
+    "related": [
+     "cannes",
+     "title"
+    ],
+    "number": 5
+   },
+   {
+    "id": "faces",
+    "label": "Two people looking out",
+    "shortLabel": "Two people looking out",
+    "kicker": "Profiles and a shared direction",
+    "summary": "The faces sit close together but face beyond the frame.",
+    "x": 79,
+    "y": 74,
+    "bounds": {
+     "x": 59,
+     "y": 64,
+     "w": 40,
+     "h": 20
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Profiles and a shared direction",
+      "body": "The adult’s profile and the boy’s turned face occupy the lower right. Their heads sit at nearly the same height, while their clothing makes a dark-and-light contrast. Neither looks directly at the viewer; their attention seems to continue beyond the left edge.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A relationship, not an assumption",
+      "body": "Film Movement identifies the central relationship as the Singaporean child Jiale and Teresa, a Filipino domestic worker. Its synopsis places their story during the 1997 Asian financial crisis. That context prevents a casual assumption that every adult-and-child pairing in a poster depicts a parent and child.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "film"
+       }
+      ]
+     }
+    ],
+    "question": "Which visible cues suggest a shared moment without explaining the whole relationship?",
+    "related": [
+     "gesture",
+     "city"
+    ],
+    "number": 6
+   },
+   {
+    "id": "gesture",
+    "label": "The pointing hand",
+    "shortLabel": "The pointing hand",
+    "kicker": "A diagonal made by an arm",
+    "summary": "A small finger sends attention leftward.",
+    "x": 47,
+    "y": 74,
+    "bounds": {
+     "x": 43,
+     "y": 71,
+     "w": 37,
+     "h": 16
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A diagonal made by an arm",
+      "body": "The boy’s forearm reaches left across the photograph, ending in a clearly extended finger. Its pale skin stands against the cooler, less detailed city. The gesture gives the image a direction that differs from the centred title and the horizontal row of laurels.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A shared act of looking",
+      "body": "Pointing can suggest showing, asking or noticing. The poster does not identify the exact object of this gesture, and much of its possible destination falls outside the frame. Keeping that uncertainty open makes the visible shared attention more useful than inventing a specific incident.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Follow the finger: what can you see, and what remains outside the image?",
+    "related": [
+     "faces",
+     "balcony"
+    ],
+    "number": 7
+   },
+   {
+    "id": "city",
+    "label": "The distant city",
+    "shortLabel": "The distant city",
+    "kicker": "Distance through lost detail",
+    "summary": "Small buildings create depth beneath the human scene.",
+    "x": 28.5,
+    "y": 76,
+    "bounds": {
+     "x": 0,
+     "y": 66,
+     "w": 57,
+     "h": 20
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Distance through lost detail",
+      "body": "Pale towers and low blocks fill the lower-left distance. Most edges are softer than the boy’s sleeve and the balcony near him. Blue-grey shadows tie this urban view to the washes above, even though one area is photographic and the other looks more graphic.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Setting without an address",
+      "body": "The distributor’s synopsis places the story in Singapore, but this blurred skyline is not enough to identify a precise building or viewpoint. It can establish an urban scale and an outlook over housing without supporting claims about a particular neighbourhood, income level or address.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "film"
+       }
+      ]
+     }
+    ],
+    "question": "Which building edges are clear enough to describe, and which are only colour shapes?",
+    "related": [
+     "wash",
+     "balcony"
+    ],
+    "number": 8
+   },
+   {
+    "id": "balcony",
+    "label": "The close edge",
+    "shortLabel": "The close edge",
+    "kicker": "Near and far",
+    "summary": "A concrete diagonal anchors the view.",
+    "x": 38,
+    "y": 90.5,
+    "bounds": {
+     "x": 10,
+     "y": 81,
+     "w": 56,
+     "h": 19
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Near and far",
+      "body": "The balcony edge cuts diagonally from the bottom toward the people. Its broad pale face is larger and more textured than the distant buildings. This contrast supplies a foreground foothold: the image feels like a view from beside the pair rather than a flat city backdrop.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A second route through the image",
+      "body": "The rail and the arm offer two different paths for the eye. The rail rises toward the people; the arm sends attention outward again. Tracing both routes reveals a small loop of looking, with the city acting as a destination rather than decorative filler.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the balcony change your sense of where you are standing?",
+    "related": [
+     "gesture",
+     "city"
+    ],
+    "number": 9
+   },
+   {
+    "id": "billing",
+    "label": "The small institutional line",
+    "shortLabel": "The small institutional line",
+    "kicker": "Text over changing tones",
+    "summary": "Credits and logos share the photographic foreground.",
+    "x": 50.5,
+    "y": 91.5,
+    "bounds": {
+     "x": 3,
+     "y": 85,
+     "w": 95,
+     "h": 13
+    },
+    "layerIndex": 5,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Text over changing tones",
+      "body": "Fine white credits extend across clothing, architecture and shadow near the bottom. Their readability changes with the background: a light mark on dark cloth stands out more than the same mark on pale concrete. This is a local contrast problem, even though the main title remains very clear.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A campaign edition",
+      "body": "Film Movement’s press page supplies this theatrical artwork, while its release page dates the US opening to April 2014. The film is from 2013. Those dates describe different events: the work’s production and this distributor’s release, not a contradiction to be silently resolved.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "release"
+       }
+      ]
+     }
+    ],
+    "question": "Where does the white credit text become hardest to separate from the image?",
+    "related": [
+     "title",
+     "laurels"
+    ],
+    "number": 10
+   }
+  ],
+  "sources": [
+   {
+    "id": "film",
+    "title": "Film Movement: Ilo Ilo press page",
+    "url": "https://2026.filmmovement.com/press/film/ilo-ilo",
+    "kind": "Distributor",
+    "summary": "Supplies the installed poster and verifies Singapore, Anthony Chen, the characters and the 1997 setting."
+   },
+   {
+    "id": "presskit",
+    "title": "Ilo Ilo: director statement",
+    "url": "https://filmmovement.com/userFiles/uploads/films/ilo-ilo/IloIlo_PressKit_FINAL.pdf",
+    "kind": "Director statement",
+    "summary": "Chen explains the Philippine place-name and the childhood relationship behind the title."
+   },
+   {
+    "id": "release",
+    "title": "Film Movement: theatrical release",
+    "url": "https://2026.filmmovement.com/ilo-ilo",
+    "kind": "Distributor",
+    "summary": "Distinguishes the 2013 film from its April 2014 US theatrical release."
+   }
+  ],
+  "tour": [
+   "title",
+   "wash",
+   "faces",
+   "gesture",
+   "city",
+   "billing"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected readable wording",
+    "rows": [
+     {
+      "text": "ILO ILO",
+      "meaning": "Film title; the director connects it to Iloilo in the Philippines.",
+      "lang": "und"
+     },
+     {
+      "text": "A FILM BY ANTHONY CHEN",
+      "meaning": "Director credit.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "This is a partial transcript of securely readable wording in the installed reproduction. Small credits, logos and review attributions are not fully transcribed; enlargement cannot restore missing source detail.",
+  "palette": [
+   {
+    "name": "Wash blue",
+    "hex": "#C9DAEC",
+    "role": "A pale field behind the title.",
+    "region": "wash"
+   },
+   {
+    "name": "Title black",
+    "hex": "#231F20",
+    "role": "The darkest, largest lettering.",
+    "region": "title"
+   },
+   {
+    "name": "City grey",
+    "hex": "#ABAEBD",
+    "role": "Cool distance in the city photograph.",
+    "region": "city"
+   },
+   {
+    "name": "Shirt pale grey",
+    "hex": "#E1DEE5",
+    "role": "A light foreground shape.",
+    "region": "faces"
+   }
+  ],
+  "paletteNote": "These are individual screen-pixel samples from the installed digital reproduction, not specifications for the original inks or paper. Texture, lighting, scanning and screen settings affect their appearance.",
+  "connections": [
+   {
+    "label": "Follow the gesture",
+    "title": "A small gesture opens onto a city",
+    "text": "The boy’s pointing arm stays with his companion as one human group. Trace it outward towards the distant buildings, then follow the balcony rail back to the pair.",
+    "anchors": [
+     [
+      3,
+      0.68,
+      0.72
+     ],
+     [
+      1,
+      0.27,
+      0.72
+     ],
+     [
+      2,
+      0.353,
+      0.903509
+     ]
+    ],
+    "id": "ilo-ilo-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Space around the title",
+    "title": "A quiet photograph beneath a generous sky",
+    "text": "The irregular title occupies a broad pale field above the small human scene. The festival marks and review quotations supply another, finer scale of lettering around it.",
+    "anchors": [
+     [
+      4,
+      0.469,
+      0.27193
+     ],
+     [
+      5,
+      0.501,
+      0.078947
+     ],
+     [
+      3,
+      0.76,
+      0.79
+     ]
+    ],
+    "id": "ilo-ilo-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

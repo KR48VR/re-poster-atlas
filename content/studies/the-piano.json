@@ -1,0 +1,662 @@
+{
+ "poster": {
+  "id": "the-piano",
+  "title": "The Piano",
+  "year": "1993",
+  "yearNumber": 1993,
+  "creator": "Poster artist uncredited",
+  "country": "New Zealand / Australia / France",
+  "countries": [
+   "New Zealand",
+   "Australia",
+   "France"
+  ],
+  "region": "Oceania",
+  "category": "Film",
+  "filmCreator": "Jane Campion",
+  "edition": "1993 U.S. theatrical one-sheet, Miramax",
+  "image": "images/full/the-piano.jpg",
+  "ratio": 0.659114315139032,
+  "alt": "Sepia Piano poster with a close-up of a man kissing a smiling woman’s cheek, a distressed pale border and widely spaced gold lettering below.",
+  "blurb": "A touch and two faces fill the sheet; the title speaks more quietly underneath.",
+  "notes": [
+   {
+    "title": "The crop makes touch the subject",
+    "body": "The two heads nearly fill the width, and the bodies fall outside the close crop. A cheek, a mouth and a hand carry the image’s sense of intimacy."
+   },
+   {
+    "title": "Light joins the faces",
+    "body": "The warm highlights on both faces sit within a shared brown field. Their similar tones make the two portraits feel continuous even where one overlaps the other."
+   },
+   {
+    "title": "Quiet lettering beneath a large image",
+    "body": "The gold title is widely spaced and much smaller than the photographic faces. The worn-looking pale border encloses both elements like an old print."
+   }
+  ],
+  "source": "https://www.acmi.net.au/works/100509--the-piano/",
+  "credit": "Miramax U.S. release poster. Photograph via Posteritati, record 22055. Poster and reproduction rights remain with their respective rights holders.",
+  "imageCredit": "Miramax U.S. release poster. Photograph via Posteritati, record 22055. Poster and reproduction rights remain with their respective rights holders.",
+  "imageSource": "https://posteritati.com/poster/22055/the-piano-original-1993-us-one-sheet-movie-poster",
+  "downloadURL": "https://cdn.posteritati.com/posters/000/000/016/469/the-piano-md-web.jpg",
+  "anchor": [
+   0.67,
+   0.355
+  ],
+  "accent": "#ac792a",
+  "yearNote": "The catalogue year is the film year. The reproduced poster edition is identified separately.",
+  "reproduction": "Photograph of the 1993 U.S. romantic close-up one-sheet, including its printed distressed border. This is a U.S. campaign for a New Zealand / Australian / French film; the film’s origin does not identify the poster designer’s nationality.",
+  "posterDateStatus": "Catalogued 1993 U.S. theatrical one-sheet.",
+  "posterYear": "1993",
+  "posterTerritory": "United States",
+  "primaryOrigin": "New Zealand",
+  "anchorLayer": 1,
+  "thumb": "images/catalogue/the-piano.webp"
+ },
+ "studyData": {
+  "intro": "This 1993 US one-sheet chooses a close encounter rather than a landscape or a visible instrument. Its warm photograph, reserved title and festival heading offer different ways into the film, while the worn-looking border belongs to the design reproduced here.",
+  "initial": "touch",
+  "regions": [
+   {
+    "id": "touch",
+    "number": 1,
+    "label": "The meeting of two faces",
+    "shortLabel": "The meeting of two faces",
+    "kicker": "CONTACT AT THE CENTRE",
+    "summary": "A mouth close to a cheek becomes the centre of attention.",
+    "x": 48,
+    "y": 39,
+    "bounds": {
+     "x": 25,
+     "y": 24,
+     "w": 41,
+     "h": 27
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Contact at the centre",
+      "body": "The left profile approaches the right cheek, and the narrow space between the faces almost disappears. Noses, lips and skin highlights occupy the central area. Neither face is presented as a separate portrait inside its own frame or decorative boundary.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Intimacy is a visual reading",
+      "body": "The closeness can suggest affection, but a single publicity image cannot describe the whole relationship or establish consent throughout a narrative. What can be seen securely is the reduced distance between faces and the concentration on touch rather than setting.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What does the close crop let you see that a full-body scene would lose?",
+    "related": [
+     "eyes",
+     "hand",
+     "crop"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "eyes",
+    "number": 2,
+    "label": "The right profile",
+    "shortLabel": "The right profile",
+    "kicker": "ATTENTION TURNED INWARD",
+    "summary": "A closed eyelid and slight smile make a quiet focal point.",
+    "x": 69,
+    "y": 35,
+    "bounds": {
+     "x": 52,
+     "y": 20,
+     "w": 40,
+     "h": 33
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Attention turned inward",
+      "body": "The right face turns toward the other person rather than looking out of the sheet. A closed eyelid and visible teeth give small details within the broad light cheek. The dark hair frames these features without a hard rectangular portrait crop.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Expression beyond speech",
+      "body": "ACMI describes Ada’s music and physical expression as central to The Piano. That provides a useful context for looking closely at gesture here, but it does not prove that the poster’s designer chose this expression to illustrate a particular scene or idea.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "acmi"
+       }
+      ]
+     }
+    ],
+    "question": "Would a direct look toward the viewer change the scene’s sense of privacy?",
+    "related": [
+     "touch",
+     "light"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "hand",
+    "number": 3,
+    "label": "The hand beside the cheek",
+    "shortLabel": "The hand beside the cheek",
+    "kicker": "A SMALLER CURVE BELOW THE PROFILES",
+    "summary": "Curved fingers introduce another scale of touch.",
+    "x": 31,
+    "y": 50,
+    "bounds": {
+     "x": 17,
+     "y": 43,
+     "w": 34,
+     "h": 18
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A smaller curve below the profiles",
+      "body": "The bent fingers and wrist sit below the left face, repeating the curved shapes of cheeks and jawlines. The hand catches light against a dark sleeve or field, making it legible without the large area occupied by either head.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A gesture without a caption",
+      "body": "The visible hand adds tactile detail, but the crop does not explain the whole posture. Keeping the reading at the level of curved fingers and proximity avoids supplying a precise action or ownership that the soft, overlapping photograph cannot conclusively establish.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Follow the hand’s curve: where does it lead your eye back into the faces?",
+    "related": [
+     "touch",
+     "shoulder"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "crop",
+    "number": 4,
+    "label": "Bodies beyond the frame",
+    "shortLabel": "Bodies beyond the frame",
+    "kicker": "LITTLE ROOM FOR A LOCATION",
+    "summary": "The surrounding darkness removes most environmental clues.",
+    "x": 10,
+    "y": 58,
+    "bounds": {
+     "x": 2,
+     "y": 14,
+     "w": 96,
+     "h": 57
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Little room for a location",
+      "body": "The heads nearly fill the width, while the lower bodies disappear into a dark brown field. No wide view of furniture, coast or room establishes the place. The visual information available to the viewer is concentrated in skin, hair and gesture.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A selective invitation",
+      "body": "This crop can sell the film through a relationship rather than through the full range of its settings and conflicts. That is a reading of what the sheet foregrounds, not evidence that romance was the only audience appeal or the whole film’s subject.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Name three things the image withholds about the place before you read the film context.",
+    "related": [
+     "touch",
+     "border"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "light",
+    "number": 5,
+    "label": "Shared warm highlights",
+    "shortLabel": "Shared warm highlights",
+    "kicker": "LIGHT CROSSES THE DIVISION",
+    "summary": "A continuous tonal range joins the portraits.",
+    "x": 77,
+    "y": 48,
+    "bounds": {
+     "x": 50,
+     "y": 22,
+     "w": 41,
+     "h": 41
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Light crosses the division",
+      "body": "Both faces use warm cream highlights and brown shadows, so their overlapping forms belong to one tonal world. The image separates them through contours and direction rather than through strongly different hues. The right cheek is one of the broadest light areas.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A reproduction, not a print recipe",
+      "body": "The warm appearance can be described as sepia-like, but the digital file does not reveal the original photographic or printing process. Its sampled colours record this reproduction, including the photograph and any later scanning or compression changes.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Compare the brightest cheek with the palest border: are they actually the same colour?",
+    "related": [
+     "crop",
+     "eyes"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "shoulder",
+    "number": 6,
+    "label": "The lower bodily curve",
+    "shortLabel": "The lower bodily curve",
+    "kicker": "A SOFT EXIT FROM THE PHOTOGRAPH",
+    "summary": "Neck and shoulders let the close-up dissolve into the title field.",
+    "x": 74,
+    "y": 63,
+    "bounds": {
+     "x": 32,
+     "y": 51,
+     "w": 63,
+     "h": 19
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A soft exit from the photograph",
+      "body": "The pale neck broadens into shoulders before fading into shadow. This gradual transition gives the title an open area below without placing a visible box around the photograph. The body’s edges become less certain as they approach the lower field.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Hard type after soft skin",
+      "body": "The title’s clean edges arrive after these blurred transitions. That difference in sharpness makes words readable even though they use related warm colours. The eye moves from nuanced skin tones to a simpler, more repeatable set of letter shapes.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the shoulder’s edge differ from the sharp edges of the title letters?",
+    "related": [
+     "light",
+     "title"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "title",
+    "number": 7,
+    "label": "Gold words with space to breathe",
+    "shortLabel": "Gold words with space to breathe",
+    "kicker": "AN OBJECT NAMED BUT NOT SHOWN",
+    "summary": "The small word the precedes a widely spaced Piano.",
+    "x": 51,
+    "y": 77,
+    "bounds": {
+     "x": 15,
+     "y": 74,
+     "w": 69,
+     "h": 7
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "An object named but not shown",
+      "body": "The visible English title names a piano, although no instrument appears in this edition’s central photograph. This gap between word and image invites the viewer to connect the film’s named object with the human encounter instead of receiving a literal illustration.",
+      "evidence": "observation",
+      "originalText": "the Piano",
+      "lang": "en"
+     },
+     {
+      "kind": "design",
+      "heading": "Small words, large intervals",
+      "body": "The word Piano is set in widely spaced letters, with an enlarged capital P and smaller initial word. The gold colouring links the text to the photograph while the generous intervals let the dark background remain visible between individual characters.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Cover the photograph: what tone does the title’s spacing establish on its own?",
+    "related": [
+     "shoulder",
+     "cast",
+     "director"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "cast",
+    "number": 8,
+    "label": "Three names above the title",
+    "shortLabel": "Three names above the title",
+    "kicker": "A MEASURED ROW",
+    "summary": "Small performer credits form a horizontal bridge.",
+    "x": 48,
+    "y": 72,
+    "bounds": {
+     "x": 21,
+     "y": 70,
+     "w": 60,
+     "h": 3
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A measured row",
+      "body": "Three names sit on one narrow line above the title. Their scale and spacing are consistent enough to make a single band rather than three competing headlines. The line helps separate the photograph’s fading lower edge from the larger title below.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Recognition at a closer distance",
+      "body": "Naming performers gives readers another way to identify the film after the photograph has attracted attention. The sheet supplies these names as information; it cannot show whether any particular viewer recognised the people or chose to see the film because of them.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Why might the names still be useful even though they are much smaller than the faces?",
+    "related": [
+     "title",
+     "festival"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "director",
+    "number": 9,
+    "label": "Jane Campion’s credit",
+    "shortLabel": "Jane Campion’s credit",
+    "kicker": "A FILM ATTRIBUTED TO A MAKER",
+    "summary": "A small authorship line follows the title.",
+    "x": 51,
+    "y": 82,
+    "bounds": {
+     "x": 30,
+     "y": 81,
+     "w": 40,
+     "h": 3
+    },
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A film attributed to a maker",
+      "body": "The lower line reads a jane campion film in small, spaced lettering. It is grammatically a statement of authorship rather than a plot description. Lower-case styling keeps the name visually quieter than the large central P of Piano.",
+      "evidence": "observation",
+      "originalText": "a jane campion film",
+      "lang": "en"
+     },
+     {
+      "kind": "context",
+      "heading": "An international film record",
+      "body": "ACMI identifies Jane Campion’s 1993 film with Aotearoa/New Zealand, Australia and France. Those production connections describe the film, while the reproduced sheet is a US campaign. Neither record establishes the nationality or identity of this poster’s uncredited designer.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "acmi"
+       }
+      ]
+     }
+    ],
+    "question": "How does placing this credit below the title differ from putting it at the very top?",
+    "related": [
+     "title",
+     "festival"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "festival",
+    "number": 10,
+    "label": "A festival heading",
+    "shortLabel": "A festival heading",
+    "kicker": "AN EXTERNAL ENDORSEMENT",
+    "summary": "A small line of awards frames the photograph from above.",
+    "x": 51,
+    "y": 10,
+    "bounds": {
+     "x": 10,
+     "y": 8,
+     "w": 80,
+     "h": 5
+    },
+    "tags": [
+     "business",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "An external endorsement",
+      "body": "The upper copy announces Cannes recognition before the title is reached. Festival de Cannes records the film’s shared 1993 Palme d’Or and Holly Hunter’s acting prize. These support the awards claim, without turning the poster’s shorter wording into a complete festival history.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cannes"
+       }
+      ]
+     },
+     {
+      "kind": "design",
+      "heading": "Prestige kept at the margin",
+      "body": "The pale capitals sit in open dark space above the heads. Their small size asks for closer reading, yet their centred placement makes them part of the main vertical sequence. They do not interrupt the facial features with a large promotional burst.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Which words in the heading describe prizes, and which identify the event?",
+    "related": [
+     "director",
+     "cast"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "border",
+    "number": 11,
+    "label": "A worn-looking enclosure",
+    "shortLabel": "A worn-looking enclosure",
+    "kicker": "THE FRAME IS NOT AN EVEN RULE",
+    "summary": "Irregular pale edges enclose the warm image.",
+    "x": 4,
+    "y": 91,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 100,
+     "h": 100
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "The frame is not an even rule",
+      "body": "Pale chips, streaks and breaks run around the brown image. The interior edge varies in thickness and interrupts the otherwise rectangular sheet. This worn-looking surround is visible in the selected design; its appearance alone cannot establish how an original print aged.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "This particular US sheet",
+      "body": "The poster record identifies a 1993 US one-sheet, while its visible lower billing carries Miramax. Treating the sheet as an edition keeps its romantic close-up separate from other Piano campaigns, including designs that foreground the beach and the instrument.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "edition"
+       }
+      ]
+     }
+    ],
+    "question": "Compare the border with the interior shadows: which looks deliberately broken or interrupted?",
+    "related": [
+     "crop",
+     "light",
+     "title"
+    ],
+    "layerIndex": 0
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed poster edition",
+    "url": "https://posteritati.com/poster/22055/the-piano-original-1993-us-one-sheet-movie-poster",
+    "kind": "Visual source",
+    "summary": "The reproduced sheet supports observations of visible wording, colour, composition and marks; it does not establish the designer’s intention."
+   },
+   {
+    "id": "acmi",
+    "title": "ACMI: The Piano",
+    "url": "https://www.acmi.net.au/works/100509--the-piano/",
+    "kind": "Museum film record",
+    "summary": "Supports the film’s 1993 date, production countries, director and the importance of Ada’s physical expression and music."
+   },
+   {
+    "id": "cannes",
+    "title": "Cannes: The Piano",
+    "url": "https://www.festival-cannes.com/f/the-piano/",
+    "kind": "Festival record",
+    "summary": "Records the shared 1993 Palme d’Or and Holly Hunter’s acting award."
+   },
+   {
+    "id": "edition",
+    "title": "Posteritati: 1993 US one-sheet",
+    "url": "https://posteritati.com/poster/22055/the-piano-original-1993-us-one-sheet-movie-poster",
+    "kind": "Poster collection record",
+    "summary": "Identifies and reproduces the selected US close-up edition; not a source for designer intent."
+   }
+  ],
+  "tour": [
+   "touch",
+   "hand",
+   "light",
+   "title",
+   "festival",
+   "border"
+  ],
+  "transcript": [
+   {
+    "heading": "Readable wording on this edition",
+    "rows": [
+     {
+      "text": "the Piano",
+      "meaning": "English film title.",
+      "lang": "en"
+     },
+     {
+      "text": "a jane campion film",
+      "meaning": "Director attribution.",
+      "lang": "en"
+     },
+     {
+      "text": "1993 CANNES FILM FESTIVAL",
+      "meaning": "Event named in the awards heading.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "The title and large credit lines are readable; the small bottom billing is not transcribed in full. The portrait does not identify a particular printing process.",
+  "palette": [
+   {
+    "name": "Dark brown",
+    "hex": "#44240D",
+    "region": "crop",
+    "role": "The shared field around the portraits."
+   },
+   {
+    "name": "Warm cheek",
+    "hex": "#E8D6BE",
+    "region": "light",
+    "role": "A broad highlight on the face."
+   },
+   {
+    "name": "Gold title",
+    "hex": "#B38225",
+    "region": "title",
+    "role": "Warm lettering below the image."
+   },
+   {
+    "name": "Pale border",
+    "hex": "#E5DAC8",
+    "region": "border",
+    "role": "The uneven enclosure."
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in the installed reproduction. These are not original ink specifications; scan, lighting and compression can alter colour.",
+  "connections": [
+   {
+    "label": "Touch and light",
+    "title": "The brightest area is the meeting of faces",
+    "text": "The two profiles nearly fill the picture. Their warm highlights meet around the cheek, mouth and raised hand rather than around a separate object.",
+    "anchors": [
+     [
+      1,
+      0.43046875,
+      0.3702368692070031
+     ],
+     [
+      2,
+      0.61015625,
+      0.37950566426364574
+     ],
+     [
+      1,
+      0.36015625,
+      0.4897013388259526
+     ]
+    ],
+    "id": "the-piano-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Quiet title",
+    "title": "Small letters below a large intimacy",
+    "text": "The gold title is spacious and low in the composition. Its modest scale leaves the close-up as the dominant encounter.",
+    "anchors": [
+     [
+      2,
+      0.73046875,
+      0.4001029866117405
+     ],
+     [
+      3,
+      0.50859375,
+      0.782183316168898
+     ],
+     [
+      0,
+      0.50078125,
+      0.9397528321318228
+     ]
+    ],
+    "id": "the-piano-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

@@ -1,0 +1,599 @@
+{
+ "poster": {
+  "id": "moulin-rouge",
+  "title": "Moulin Rouge: La Goulue",
+  "year": "1891",
+  "creator": "Henri de Toulouse-Lautrec",
+  "country": "France",
+  "category": "Performance",
+  "image": "images/full/moulin-rouge.jpg",
+  "ratio": 0.6316666666666667,
+  "accent": "#bf4025",
+  "anchor": [
+   0.36,
+   0.13
+  ],
+  "alt": "A yellow Moulin Rouge poster with repeated red lettering, a dancer in a pale skirt, a dark audience and a large grey figure in front.",
+  "blurb": "Repeated red lettering competes with a dancer, a crowd and a figure almost too close to the viewer.",
+  "notes": [
+   {
+    "title": "A name that becomes a rhythm",
+    "body": "Moulin Rouge repeats across the top in red. The words advertise the venue while their repetition gives the composition a visual beat."
+   },
+   {
+    "title": "Three distances in one flat image",
+    "body": "A continuous dark audience sits behind the dancer. The large cropped figure in front creates another plane, making the pale skirt feel suspended between near and far."
+   },
+   {
+    "title": "Colour does more than decorate",
+    "body": "Red returns in the lettering and clothing. These separate accents keep the eye moving across the yellow field."
+   }
+  ],
+  "source": "https://www.metmuseum.org/art/collection/search/333990",
+  "credit": "The Metropolitan Museum of Art, Harris Brisbane Dick Fund, 1932 (32.88.12). Public-domain image. Lithograph in four colours, on three sheets.",
+  "countries": [
+   "France"
+  ],
+  "primaryOrigin": "France",
+  "anchorLayer": null,
+  "yearNumber": 1891,
+  "region": "Europe",
+  "thumb": "images/catalogue/moulin-rouge.webp"
+ },
+ "studyData": {
+  "intro": "This tall advertisement makes reading and dancing share the same page. Repeated venue names, a band of spectators and two very different figure scales invite us to move between lettering and performance. The Met identifies the design as Toulouse-Lautrec’s 1891 lithograph for the Moulin Rouge.",
+  "initial": "moulin-rouge-name",
+  "regions": [
+   {
+    "id": "moulin-rouge-name",
+    "number": 1,
+    "label": "A name repeated three times",
+    "shortLabel": "A name repeated three times",
+    "kicker": "NAMING THE PLACE",
+    "summary": "The venue becomes a vertical rhythm.",
+    "x": 32.5,
+    "y": 13.5,
+    "bounds": {
+     "x": 3,
+     "y": 2,
+     "w": 59,
+     "h": 23
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Naming the place",
+      "body": "Moulin Rouge means “Red Mill”; here it is the venue’s proper name. Three rows repeat ROUGE and the rest of the name around an unusually tall initial M. The words therefore operate both as readable information and as a pattern of red shapes.",
+      "evidence": "observation",
+      "originalText": "MOULIN ROUGE",
+      "lang": "fr",
+      "translation": "Moulin Rouge; literally, Red Mill"
+     },
+     {
+      "kind": "design",
+      "heading": "One giant letter joins several rows",
+      "body": "The stretched initial reaches down beside the repeated lines. Dark outlines keep the red letterforms distinct from the yellow ground. The first M behaves almost like a vertical signpost, binding the three rows into a single block instead of three unrelated headings.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Which parts repeat exactly, and which change size?",
+    "related": [
+     "moulin-rouge-concert",
+     "moulin-rouge-lower-name"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "moulin-rouge-concert",
+    "number": 2,
+    "label": "A practical evening invitation",
+    "shortLabel": "A practical evening invitation",
+    "kicker": "PERFORMANCE AND DANCING",
+    "summary": "Event words identify what happens at the venue.",
+    "x": 78,
+    "y": 12,
+    "bounds": {
+     "x": 61,
+     "y": 3,
+     "w": 34,
+     "h": 18
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Performance and dancing",
+      "body": "CONCERT, BAL and TOUS LES SOIRS are visible at upper right. They announce a concert, a dance and an every-evening schedule. The language is practical rather than mysterious: the poster needs to make an entertainment offering understandable as well as memorable.",
+      "evidence": "observation",
+      "originalText": "CONCERT / BAL / TOUS LES SOIRS",
+      "lang": "fr",
+      "translation": "Concert / dance / every evening"
+     },
+     {
+      "kind": "business",
+      "heading": "An advertisement with more than one task",
+      "body": "The large venue name attracts recognition, but these shorter words explain the activity and frequency. Their black treatment sets them apart from the red branding. The separation lets a visitor distinguish what the place is called from what it offers.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What can a visitor learn here without looking at the dancers?",
+    "related": [
+     "moulin-rouge-name",
+     "moulin-rouge-schedule"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "moulin-rouge-goulue-name",
+    "number": 3,
+    "label": "The performer named in black",
+    "shortLabel": "The performer named in black",
+    "kicker": "A NICKNAME BECOMES A BILLING LINE",
+    "summary": "A star name bridges headline and scene.",
+    "x": 52.5,
+    "y": 24,
+    "bounds": {
+     "x": 24,
+     "y": 21,
+     "w": 57,
+     "h": 6
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A nickname becomes a billing line",
+      "body": "LA GOULUE is centred above the illustrated crowd. The Met identifies La Goulue as the featured dancer and explains her nickname as “the glutton.” The conspicuous name belongs to a performer, not to another venue or a description of everyone in the audience.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     },
+     {
+      "kind": "design",
+      "heading": "A quiet line with a clear position",
+      "body": "The black capitals are lighter in scale than the red upper heading, but they span the central space above the dancer. That placement links the named attraction with the body below, without enclosing her in a separate labelled box.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Where does the performer’s name lead your eye next?",
+    "related": [
+     "moulin-rouge-dancer",
+     "moulin-rouge-name"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "moulin-rouge-audience",
+    "number": 4,
+    "label": "A crowd made from silhouettes",
+    "shortLabel": "A crowd made from silhouettes",
+    "kicker": "VARIATION INSIDE A DARK BAND",
+    "summary": "Repeated hats make the middle distance.",
+    "x": 50,
+    "y": 38,
+    "bounds": {
+     "x": 3,
+     "y": 28,
+     "w": 94,
+     "h": 20
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Variation inside a dark band",
+      "body": "Top hats, smaller hats and heads form an irregular skyline. Their bodies merge into a continuous black area, leaving identity mostly in the contour. The band crosses behind the pale dancer and creates a firm dark boundary around her lifted skirt.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An audience as a frame",
+      "body": "The reduced detail gives the spectators a collective presence rather than competing portraits. They can be read as a public gathered around a spectacle. That is a compositional role, not evidence of their real identities, class positions or reactions on a specific night.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How many individual people can you distinguish before the crowd becomes one shape?",
+    "related": [
+     "moulin-rouge-dancer",
+     "moulin-rouge-man"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "moulin-rouge-dancer",
+    "number": 5,
+    "label": "The pale skirt in motion",
+    "shortLabel": "The pale skirt in motion",
+    "kicker": "A CONTOUR THAT EXPANDS",
+    "summary": "A light shape opens inside a dark crowd.",
+    "x": 43.5,
+    "y": 62.5,
+    "bounds": {
+     "x": 18,
+     "y": 43,
+     "w": 51,
+     "h": 39
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A contour that expands",
+      "body": "The skirt swells outward with loose, curving edges, then narrows near the leg. Its pale surface stands out against the black audience. A red stocking and small shoe at the lower end turn a broad fabric shape into a recognisable moving body.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "The attraction of the dance floor",
+      "body": "The Met identifies the image’s star performers as La Goulue and Valentin le Désossé, and connects her lifted skirts with the dance performed at the Moulin Rouge. That record supplies context; the visual reading here concerns how this particular skirt is made conspicuous.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "Cover the red stocking. Does the skirt still suggest the same movement?",
+    "related": [
+     "moulin-rouge-bodice",
+     "moulin-rouge-audience"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "moulin-rouge-bodice",
+    "number": 6,
+    "label": "Red dots meet red lettering",
+    "shortLabel": "Red dots meet red lettering",
+    "kicker": "A SMALL BRIDGE BETWEEN LARGE AREAS",
+    "summary": "A patterned costume carries the headline colour into the scene.",
+    "x": 39,
+    "y": 43.5,
+    "bounds": {
+     "x": 28,
+     "y": 38,
+     "w": 22,
+     "h": 11
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A small bridge between large areas",
+      "body": "The dancer’s reddish bodice is scattered with pale spots. Its compact pattern sits between the repeated red venue name and the much larger pale skirt. The same warm hue reappears in the stocking, so the figure is linked to the surrounding advertising colour.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Pattern without a second crowd",
+      "body": "The spots supply detail within an already clear silhouette. From a distance they combine into a lively texture; close up they become separate marks. This lets one small costume area reward closer looking without taking over the entire composition.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Follow every red patch. Where does the colour reappear?",
+    "related": [
+     "moulin-rouge-name",
+     "moulin-rouge-dancer"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "moulin-rouge-man",
+    "number": 7,
+    "label": "A figure almost too close",
+    "shortLabel": "A figure almost too close",
+    "kicker": "SCALE AND CROPPING",
+    "summary": "The foreground body changes the scale of the whole room.",
+    "x": 68,
+    "y": 66,
+    "bounds": {
+     "x": 43,
+     "y": 34,
+     "w": 50,
+     "h": 64
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Scale and cropping",
+      "body": "The grey man’s tall hat, profile and torso occupy much of the right side. His body extends to the lower edge, and his size is striking beside the audience heads. The poster creates depth through overlapping silhouettes rather than a fully modelled architectural room.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A second named performer",
+      "body": "The museum connects the foreground figure with Valentin le Désossé, one of the venue’s featured performers. Knowing that name adds historical specificity, but the figure’s visual purpose is already visible in his enormous size, tilted profile and proximity to the sheet’s edges.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "How far away does the dancer feel when you cover the foreground man?",
+    "related": [
+     "moulin-rouge-audience",
+     "moulin-rouge-hand"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "moulin-rouge-hand",
+    "number": 8,
+    "label": "The hand across the lower edge",
+    "shortLabel": "The hand across the lower edge",
+    "kicker": "A HORIZONTAL ENDING",
+    "summary": "A cropped gesture extends beyond the upright body.",
+    "x": 28.5,
+    "y": 92,
+    "bounds": {
+     "x": 14,
+     "y": 86,
+     "w": 29,
+     "h": 12
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A horizontal ending",
+      "body": "Long fingers reach leftwards near the bottom of the poster. Their loose outline is much larger than the faces in the audience band. The gesture interrupts the lower lettering and offsets the foreground man’s mostly upright body with a broad horizontal movement.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An unfinished space beyond the sheet",
+      "body": "The hand suggests that the figure continues to act within a room larger than the printed view. Cropping can make the viewer feel close to that action. It does not prove where the artist stood or how a real spectator experienced the performance.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What changes if you imagine this hand held close to the chest?",
+    "related": [
+     "moulin-rouge-man",
+     "moulin-rouge-schedule"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "moulin-rouge-lower-name",
+    "number": 9,
+    "label": "Advertising over the bodies",
+    "shortLabel": "Advertising over the bodies",
+    "kicker": "WORDS CROSS PICTORIAL BOUNDARIES",
+    "summary": "A second venue name becomes part of the scene.",
+    "x": 30.5,
+    "y": 62.5,
+    "bounds": {
+     "x": 3,
+     "y": 58,
+     "w": 55,
+     "h": 9
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Words cross pictorial boundaries",
+      "body": "The lower red MOULIN ROUGE runs across yellow ground and the pale dancer. Unlike the upper lettering, it shares space with bodies. This overprinting makes the sheet read as one designed surface even while the figures suggest different distances.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Recognition at two heights",
+      "body": "Repeating the venue lower down means a reader who enters through the figures encounters its name again. This is a plausible function of the layout, not a documented test of how passers-by scanned it. The repetition also binds the upper and lower halves.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does this lettering feel in front of the dancer or behind her?",
+    "related": [
+     "moulin-rouge-name",
+     "moulin-rouge-schedule"
+    ],
+    "layerIndex": 5
+   },
+   {
+    "id": "moulin-rouge-schedule",
+    "number": 10,
+    "label": "A masked-ball invitation",
+    "shortLabel": "A masked-ball invitation",
+    "kicker": "SPECIFIC DAYS AND AN EVENT",
+    "summary": "Large red event wording closes the advertisement.",
+    "x": 49,
+    "y": 87,
+    "bounds": {
+     "x": 3,
+     "y": 76,
+     "w": 92,
+     "h": 22
+    },
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Specific days and an event",
+      "body": "The lower wording names Wednesdays and Saturdays and announces a BAL MASQUÉ, a masked ball. These words add a more specific event to the upper every-evening invitation. Their large size shows that the poster is organising attendance as well as displaying an artist’s image.",
+      "evidence": "observation",
+      "originalText": "les Mercredis et Samedis / BAL MASQUÉ",
+      "lang": "fr",
+      "translation": "Wednesdays and Saturdays / masked ball"
+     },
+     {
+      "kind": "context",
+      "heading": "A large printed object",
+      "body": "The Met records a lithograph in four colours on three sheets, measuring 190 by 116.5 centimetres. Those physical facts help explain why lettering and silhouettes can have such different reading distances. The digital image cannot reproduce the bodily scale of standing before the original.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "Which details would help you decide when to attend?",
+    "related": [
+     "moulin-rouge-concert",
+     "moulin-rouge-lower-name"
+    ],
+    "layerIndex": 5
+   },
+   {
+    "id": "moulin-rouge-lamps",
+    "number": 11,
+    "label": "Yellow lamps above the crowd",
+    "shortLabel": "Yellow lamps above the crowd",
+    "kicker": "A ROW OF CURVED SHAPES",
+    "summary": "Small curved shapes mark the interval above the dark audience.",
+    "x": 67,
+    "y": 29,
+    "bounds": {
+     "x": 16,
+     "y": 24,
+     "w": 81,
+     "h": 8
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A row of curved shapes",
+      "body": "Several small yellow bowl-like forms hang above the dark crowd, followed by a longer scalloped yellow shape near the right edge. Thin outlines distinguish them from the surrounding yellow-brown field. They occupy the narrow gap between the large upper words and the audience silhouettes.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An interval that suggests a setting",
+      "body": "These modest marks offer a hint of an illuminated venue without describing an entire interior. Their repeated curves also echo the varied heads below. Compare the sparse setting with the detailed foreground profile: the sheet distributes detail unevenly to establish different visual distances.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Compare the lamps with the heads below them. Which outlines are easier to separate from the ground?",
+    "related": [
+     "moulin-rouge-audience",
+     "moulin-rouge-concert"
+    ],
+    "layerIndex": 0
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed Moulin Rouge: La Goulue poster reproduction",
+    "url": "https://www.metmuseum.org/art/collection/search/333990",
+    "kind": "Visual source",
+    "summary": "The exact edition shown is the evidence for visible shapes, wording, positions and reproduction samples. The linked record identifies the image; readings of its visual effects are supplied by Poster Atlas."
+   },
+   {
+    "id": "record",
+    "title": "The Metropolitan Museum of Art: Moulin Rouge, La Goulue",
+    "url": "https://www.metmuseum.org/art/collection/search/333990",
+    "kind": "Museum collection",
+    "summary": "Establishes artist, date, printer, medium, dimensions and featured performers. Identifies the venue commission and dance context."
+   }
+  ],
+  "tour": [
+   "moulin-rouge-name",
+   "moulin-rouge-concert",
+   "moulin-rouge-audience",
+   "moulin-rouge-dancer",
+   "moulin-rouge-man",
+   "moulin-rouge-schedule"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected wording in this edition",
+    "rows": [
+     {
+      "text": "MOULIN ROUGE",
+      "meaning": "Moulin Rouge; literally Red Mill",
+      "lang": "fr"
+     },
+     {
+      "text": "TOUS LES SOIRS",
+      "meaning": "Every evening",
+      "lang": "fr"
+     },
+     {
+      "text": "les Mercredis et Samedis",
+      "meaning": "Wednesdays and Saturdays",
+      "lang": "fr"
+     },
+     {
+      "text": "BAL MASQUÉ",
+      "meaning": "Masked ball",
+      "lang": "fr"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected clearly legible wording. The lower printer’s imprint and signature are visible but not fully transcribed.",
+  "palette": [
+   {
+    "name": "Venue red",
+    "hex": "#E14016",
+    "role": "Repeated advertising accent",
+    "region": "moulin-rouge-name"
+   },
+   {
+    "name": "Yellow field",
+    "hex": "#D7C45D",
+    "role": "A continuous setting for type and silhouettes",
+    "region": "moulin-rouge-lamps"
+   },
+   {
+    "name": "Audience black",
+    "hex": "#191919",
+    "role": "A distant band behind the dancer",
+    "region": "moulin-rouge-audience"
+   },
+   {
+    "name": "Skirt cream",
+    "hex": "#F1CF92",
+    "role": "The largest light shape in the performance",
+    "region": "moulin-rouge-dancer"
+   },
+   {
+    "name": "Foreground grey",
+    "hex": "#8D8A69",
+    "role": "A close figure set apart from the crowd",
+    "region": "moulin-rouge-man"
+   }
+  ],
+  "paletteNote": "Approximate screen samples from the installed reproduction. These describe image pixels, not original inks, paper colours or calibrated printing specifications."
+ }
+}

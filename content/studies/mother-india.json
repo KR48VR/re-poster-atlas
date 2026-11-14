@@ -1,0 +1,545 @@
+{
+ "poster": {
+  "id": "mother-india",
+  "title": "Mother India",
+  "year": "1957",
+  "yearNumber": 1957,
+  "country": "India",
+  "region": "South Asia",
+  "category": "Film",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Mehboob Khan",
+  "edition": "English-and-Hindi-language film poster; printing date unverified",
+  "image": "images/full/mother-india.jpg",
+  "ratio": 0.727027027027027,
+  "alt": "Mother India illustrated poster with a woman in a magenta blouse lifting a heavy wooden beam against a rural landscape, and a large white English title above.",
+  "blurb": "An uplifted body, a heavy wooden beam and a monumental title turn labour into an emblem.",
+  "notes": [
+   {
+    "title": "The body makes the diagonal",
+    "body": "The woman’s arms and the wooden beam cut upward across the page. Her pose creates tension between the weight of the object and the effort required to lift it."
+   },
+   {
+    "title": "A single colour claims the foreground",
+    "body": "The magenta blouse stands out from the green-brown landscape and dark beam. It makes the person the first point of attention within an expansive rural setting."
+   },
+   {
+    "title": "The name becomes a monument",
+    "body": "The tall white capitals are stacked in two dense lines. Their solidity balances the expressive body beneath them, presenting the title with the weight of a public declaration."
+   }
+  ],
+  "source": "https://shop.bfi.org.uk/mother-india-bfi-film-classics-paperback/",
+  "imageSource": "https://en.wikipedia.org/wiki/File:Mother_India_poster.jpg",
+  "imageCredit": "Poster artwork associated with Mehboob Productions / Film Center. Low-resolution reproduction via Wikipedia; rights remain with the relevant owners.",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/en/2/20/Mother_India_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+  "anchor": [
+   0.59,
+   0.67
+  ],
+  "accent": "#a63d87",
+  "yearNote": "Year refers to the film’s first release; the poster edition is identified separately.",
+  "credit": "Poster artwork associated with Mehboob Productions / Film Center. Low-resolution reproduction via Wikipedia; rights remain with the relevant owners.",
+  "anchorLayer": 1,
+  "countries": [
+   "India"
+  ],
+  "primaryOrigin": "India",
+  "thumb": "images/catalogue/mother-india.webp"
+ },
+ "studyData": {
+  "intro": "A woman, a beam and two enormous words organise a small, weathered reproduction. Read the physical effort first, then compare the landscape with the film’s grand title. This is an English-and-Hindi-language campaign image for the 1957 film; its printing date and poster artist remain unverified.",
+  "initial": "mother-india-title",
+  "regions": [
+   {
+    "id": "mother-india-beam",
+    "number": 1,
+    "label": "The weight across the page",
+    "shortLabel": "The weight across the page",
+    "kicker": "A LONG INTERRUPTION",
+    "summary": "A dark diagonal makes effort visible.",
+    "x": 33.5,
+    "y": 31.5,
+    "bounds": {
+     "x": 5,
+     "y": 7,
+     "w": 57,
+     "h": 49
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A long interruption",
+      "body": "The timber starts close to the upper-left edge and crosses the sky towards the shoulder. Its dark, broad strip interrupts both the lighter landscape and the upright title. Follow its edges: their direction is more forceful than any line in the distant fields.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Labour as an emblem",
+      "body": "The pose makes the body appear to carry more than an ordinary object. It can suggest endurance or burden, but the image alone does not establish a particular event in the story. Keep that symbolic reading separate from a literal description of the action.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does the beam seem to transfer its weight to the person?",
+    "related": [
+     "mother-india-hand",
+     "mother-india-face"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "mother-india-hand",
+    "number": 2,
+    "label": "The gripping hand",
+    "shortLabel": "The gripping hand",
+    "kicker": "A SMALL JOINT CARRIES A LARGE FORM",
+    "summary": "Fingers and an upright wrist give the beam a support.",
+    "x": 10,
+    "y": 25.5,
+    "bounds": {
+     "x": 1,
+     "y": 16,
+     "w": 18,
+     "h": 19
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A small joint carries a large form",
+      "body": "Bent fingers curl around the far end of the timber. The wrist is much narrower than the object it supports, creating a visible contrast between strength and vulnerability. Even in this small scan, the hand makes the long diagonal feel physically connected to a body.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Gesture before facial detail",
+      "body": "The gripping action is readable at a size where fine facial modelling is already soft. A poster can communicate bodily effort through an outline and a contact point before a viewer has time to study expression. That is a visual reading, not a measured audience response.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Cover the hand: how does the beam’s apparent weight change?",
+    "related": [
+     "mother-india-beam",
+     "mother-india-arm"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "mother-india-arm",
+    "number": 3,
+    "label": "The raised arm",
+    "shortLabel": "The raised arm",
+    "kicker": "A BENT ROUTE THROUGH THE FIGURE",
+    "summary": "An arm links the grip to the shoulder.",
+    "x": 27.5,
+    "y": 45.5,
+    "bounds": {
+     "x": 6,
+     "y": 27,
+     "w": 43,
+     "h": 37
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A bent route through the figure",
+      "body": "The bare forearm rises from the dark sleeve towards the upper-left hand. Its warm skin is bracketed by darker edges and clothing. The elbow changes direction, so the human contour does not simply duplicate the straight line of the timber.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Two kinds of structure",
+      "body": "The beam reads as rigid while the arm reads as jointed. Comparing them gives the same diagonal two different qualities: unbending weight and bodily adjustment. The poster does not need movement lines to suggest that holding this position requires effort.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Trace the arm and beam separately. Where do their directions converge?",
+    "related": [
+     "mother-india-hand",
+     "mother-india-blouse"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "mother-india-face",
+    "number": 4,
+    "label": "A face turned upward",
+    "shortLabel": "A face turned upward",
+    "kicker": "A PROFILE AGAINST THE SKY",
+    "summary": "The profile sits close to the timber.",
+    "x": 68.5,
+    "y": 47.5,
+    "bounds": {
+     "x": 54,
+     "y": 34,
+     "w": 29,
+     "h": 27
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A profile against the sky",
+      "body": "The dark hair draws a firm boundary around the lighter face. The head tilts back and turns towards the left, with the chin and nose clearly outlined. Small highlights separate the neck and jaw from the blouse and surrounding shadow.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A person rather than a statistic",
+      "body": "Film at Lincoln Center’s synopsis identifies the film’s central figure as Radha, played by Nargis, a mother confronting poverty and natural disasters. That context supports a reading of endurance here, while the poster’s precise emotional intention remains undocumented.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "Does the tilted head continue the beam’s direction or resist it?",
+    "related": [
+     "mother-india-beam",
+     "mother-india-arm"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "mother-india-blouse",
+    "number": 5,
+    "label": "The magenta foreground",
+    "shortLabel": "The magenta foreground",
+    "kicker": "A LARGE UNINTERRUPTED ACCENT",
+    "summary": "One concentrated colour holds the lower-right side.",
+    "x": 71.5,
+    "y": 70.5,
+    "bounds": {
+     "x": 45,
+     "y": 54,
+     "w": 53,
+     "h": 33
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A large uninterrupted accent",
+      "body": "The vivid magenta garment occupies a broad area below the face. Its surface contains folds and shading, but it remains a more continuous colour shape than the patchy fields behind it. The dark sleeve and lower silhouette sharpen its edges.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Colour separates near from far",
+      "body": "The strong garment colour can pull the woman forward from the green, yellow and brown surroundings. That effect comes from the relationship between these particular colours and areas; magenta does not carry one fixed cultural or emotional meaning in every image.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "If the blouse matched the landscape, which shape would attract you first?",
+    "related": [
+     "mother-india-face",
+     "mother-india-landscape"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "mother-india-title",
+    "number": 6,
+    "label": "MOTHER INDIA",
+    "shortLabel": "MOTHER INDIA",
+    "kicker": "AN ENGLISH TITLE WITH A METAPHOR",
+    "summary": "Two stacked words become a visual monument.",
+    "x": 59.5,
+    "y": 19.5,
+    "bounds": {
+     "x": 32,
+     "y": 8,
+     "w": 55,
+     "h": 23
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "An English title with a metaphor",
+      "body": "The securely readable English words are MOTHER INDIA. “Mother” connects a family role with the name of a country. The phrase invites a symbolic reading, but the title by itself does not explain which character choices or political ideas the film develops.",
+      "evidence": "observation",
+      "originalText": "MOTHER INDIA",
+      "lang": "en",
+      "translation": "Mother India"
+     },
+     {
+      "kind": "design",
+      "heading": "Tall letters, compressed space",
+      "body": "White capitals are packed into two lines and outlined by dark shadows. The block sits beside the descending timber, providing an upright counterweight. Its compact rectangle contrasts with the figure’s irregular contour and makes the name legible before the smaller production text.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Compare the title’s width with the woman’s shoulders. What balances what?",
+    "related": [
+     "mother-india-blouse",
+     "mother-india-hindi"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "mother-india-landscape",
+    "number": 7,
+    "label": "The cultivated distance",
+    "shortLabel": "The cultivated distance",
+    "kicker": "SCALE THROUGH SMALL MARKS",
+    "summary": "Small pale marks turn the background into a worked landscape.",
+    "x": 24.5,
+    "y": 69.5,
+    "bounds": {
+     "x": 2,
+     "y": 60,
+     "w": 45,
+     "h": 19
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Scale through small marks",
+      "body": "Bands of pale green, cream and brown stretch horizontally behind the figure. Tiny light forms and thin tracks remain much smaller than the foreground hand. Their compressed size gives the lifted body and beam a larger, almost monumental presence.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A rural story, cautiously connected",
+      "body": "The official synopsis describes Radha’s struggle to raise her sons through hardship. The cultivated setting belongs with that rural narrative. It does not, on its own, tell us what crop is grown, where this exact scene occurs or whether the image copies a particular film frame.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "What clues make this setting feel extensive rather than close?",
+    "related": [
+     "mother-india-blouse",
+     "mother-india-beam"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "mother-india-hindi",
+    "number": 8,
+    "label": "A second title near the ground",
+    "shortLabel": "A second title near the ground",
+    "kicker": "TWO SCRIPTS SHARE THE CAMPAIGN",
+    "summary": "Devanagari lettering changes the scale and script.",
+    "x": 21.5,
+    "y": 92,
+    "bounds": {
+     "x": 3,
+     "y": 86,
+     "w": 37,
+     "h": 12
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Two scripts share the campaign",
+      "body": "The lower-left title reads मदर इंडिया, a Devanagari rendering of Mother India. A further line in another script sits below it, but it is not transcribed here because the small reproduction makes its details uncertain. The English heading is not the poster’s only language.",
+      "evidence": "observation",
+      "originalText": "मदर इंडिया",
+      "lang": "hi",
+      "translation": "Mother India"
+     },
+     {
+      "kind": "business",
+      "heading": "Recognition in more than one form",
+      "body": "Different scripts offer more than one route to recognising the film’s name. Their unequal sizes also create hierarchy: English dominates the upper field, while the lower title sits close to the ground. The sheet cannot establish which readership was commercially most important.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What happens to the page if this smaller title is covered?",
+    "related": [
+     "mother-india-title",
+     "mother-india-credits"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "mother-india-names",
+    "number": 9,
+    "label": "The crowded top strip",
+    "shortLabel": "The crowded top strip",
+    "kicker": "SEVERAL LEVELS OF NAMING",
+    "summary": "Production and star names form a narrow roof above the title.",
+    "x": 53.5,
+    "y": 4.5,
+    "bounds": {
+     "x": 8,
+     "y": 0,
+     "w": 91,
+     "h": 9
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Several levels of naming",
+      "body": "Small light lettering names the presenting company above a brighter row of cast names. Both rows are compressed along the top edge, immediately above the much heavier title. The difference in size creates separate reading distances within a very narrow space.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A film is offered through people",
+      "body": "The top strip foregrounds production and performers alongside the main image. Recognisable names can help situate an unfamiliar story, but prominence is not evidence of a contract, fee or box-office effect. We can observe the hierarchy without inventing its commercial outcome.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which words disappear first when you reduce the image?",
+    "related": [
+     "mother-india-title",
+     "mother-india-credits"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "mother-india-credits",
+    "number": 10,
+    "label": "Director and music at the base",
+    "shortLabel": "Director and music at the base",
+    "kicker": "ROLES AS WELL AS NAMES",
+    "summary": "Two short credits anchor the lower edge.",
+    "x": 69.5,
+    "y": 93.5,
+    "bounds": {
+     "x": 40,
+     "y": 88,
+     "w": 59,
+     "h": 11
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Roles as well as names",
+      "body": "The English labels DIRECTED BY and MUSIC are readable above MEHBOOB and NAUSHAD. They distinguish two kinds of contribution rather than presenting every name as a performer. Finer lettering elsewhere is left untranscribed because the installed scan is only 269 pixels wide.",
+      "evidence": "observation",
+      "originalText": "DIRECTED BY / MUSIC",
+      "lang": "en",
+      "translation": "Credits for direction and music"
+     },
+     {
+      "kind": "business",
+      "heading": "A compressed closing line",
+      "body": "The light credit blocks sit against a nearly black lower strip. That contrast gives the small roles a clear foothold under the bright blouse. Their placement completes the poster’s reading route, from production names at the top to creative roles at the bottom.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the bottom lettering echo the white title at the top?",
+    "related": [
+     "mother-india-names",
+     "mother-india-hindi"
+    ],
+    "layerIndex": 4
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed Mother India poster reproduction",
+    "url": "https://en.wikipedia.org/wiki/File:Mother_India_poster.jpg",
+    "kind": "Visual source",
+    "summary": "The exact edition shown is the evidence for visible shapes, wording, positions and reproduction samples. The linked record identifies the image; readings of its visual effects are supplied by Poster Atlas."
+   },
+   {
+    "id": "record",
+    "title": "Film at Lincoln Center: Mother India",
+    "url": "https://www.filmlinc.org/films/mother-india/",
+    "kind": "Film institution screening record",
+    "summary": "Verifies Mehboob Khan’s 1957 Indian film, Nargis as Radha, and her struggle to raise her sons amid poverty and natural disasters. It does not identify this poster’s artist or printing date."
+   }
+  ],
+  "tour": [
+   "mother-india-title",
+   "mother-india-beam",
+   "mother-india-hand",
+   "mother-india-face",
+   "mother-india-landscape",
+   "mother-india-hindi"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected wording in this edition",
+    "rows": [
+     {
+      "text": "MOTHER INDIA",
+      "meaning": "Mother India",
+      "lang": "en"
+     },
+     {
+      "text": "मदर इंडिया",
+      "meaning": "Mother India",
+      "lang": "hi"
+     },
+     {
+      "text": "DIRECTED BY / MUSIC",
+      "meaning": "Direction and music credits",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected securely readable wording only. The additional lower script and fine production text are not transcribed from this 269 × 370 reproduction.",
+  "palette": [
+   {
+    "name": "Magenta garment",
+    "hex": "#B9559B",
+    "role": "A strong foreground accent",
+    "region": "mother-india-blouse"
+   },
+   {
+    "name": "Title white",
+    "hex": "#FCFFFF",
+    "role": "Light lettering against dark edging",
+    "region": "mother-india-title"
+   },
+   {
+    "name": "Dark timber",
+    "hex": "#1E181C",
+    "role": "A rigid diagonal through the picture",
+    "region": "mother-india-beam"
+   },
+   {
+    "name": "Olive landscape",
+    "hex": "#727139",
+    "role": "A quieter distant field",
+    "region": "mother-india-landscape"
+   }
+  ],
+  "paletteNote": "Approximate screen samples from the installed reproduction. These describe image pixels, not original inks, paper colours or calibrated printing specifications."
+ }
+}

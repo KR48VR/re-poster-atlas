@@ -1,0 +1,558 @@
+{
+ "poster": {
+  "id": "keep-calm",
+  "title": "Keep Calm and Carry On",
+  "year": "1939",
+  "yearNumber": 1939,
+  "country": "United Kingdom",
+  "region": "Europe",
+  "category": "Politics",
+  "creator": "British Ministry of Information; designer uncredited",
+  "edition": "British government morale poster, 1939; prepared as a reserve message and not widely distributed during the war.",
+  "image": "images/full/keep-calm.jpg",
+  "ratio": 0.669,
+  "width": 669,
+  "height": 1000,
+  "alt": "A white crown and five centred lines of uppercase lettering stand on a bright red field.",
+  "blurb": "A crown, a command and almost nothing else: a spare government design whose later familiarity exceeds its original wartime circulation.",
+  "notes": [
+   {
+    "title": "Authority above the words",
+    "body": "The crown identifies a national authority without a portrait or signature. Its small size leaves the command itself in control of the composition."
+   },
+   {
+    "title": "A measured typographic rhythm",
+    "body": "The short central “AND” creates a pause between two instructions. Centred lines keep the tone visually steady, despite the emphatic red field."
+   },
+   {
+    "title": "Familiarity came later",
+    "body": "The poster was prepared in 1939 as a reserve message. Its contemporary ubiquity should not be mistaken for widespread wartime display."
+   }
+  ],
+  "source": "https://www.awm.gov.au/collection/C97320",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Keep-calm-and-carry-on-scan.jpg",
+  "imageCredit": "British Ministry of Information, 1939. Crown copyright expired; public-domain scan via Wikimedia Commons.",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Keep-calm-and-carry-on-scan.jpg",
+  "accent": "#dc2638",
+  "anchor": [
+   0.51,
+   0.45
+  ],
+  "credit": "British Ministry of Information, 1939. Crown copyright expired; public-domain scan via Wikimedia Commons.",
+  "countries": [
+   "United Kingdom"
+  ],
+  "primaryOrigin": "United Kingdom",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/keep-calm.webp"
+ },
+ "studyData": {
+  "intro": "A crown and five words organise almost the entire sheet. Examine the difference between the poster’s orderly appearance and the more complicated documented history of a government message held in reserve.",
+  "initial": "crown",
+  "regions": [
+   {
+    "id": "crown",
+    "label": "The white crown",
+    "shortLabel": "The white crown",
+    "kicker": "DESIGN",
+    "summary": "A detailed emblem occupies the top of a very spare design.",
+    "layerIndex": 1,
+    "bounds": {
+     "x": 36,
+     "y": 3,
+     "w": 29,
+     "h": 17
+    },
+    "x": 51,
+    "y": 12,
+    "question": "Which features still identify the crown when you view it very small?",
+    "related": [
+     "keep",
+     "spacing",
+     "field"
+    ],
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Detail concentrated in one emblem",
+      "body": "The crown includes arches, dots, pointed forms and a cross, all held within a compact white silhouette. It is more intricate than any of the letters below. The combination gives the top of the sheet a distinct visual identity without introducing a portrait or a narrative scene.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A government message",
+      "body": "The National Army Museum identifies this as a British government propaganda poster from 1939, with an unknown artist. That context grounds the crown’s official setting. The emblem should not be treated as proof of a personal statement by the monarch or as a record of public response.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "nam"
+       }
+      ]
+     }
+    ],
+    "number": 1
+   },
+   {
+    "id": "keep",
+    "label": "The opening command",
+    "shortLabel": "The opening command",
+    "kicker": "LANGUAGE",
+    "summary": "A short word starts the message at large scale.",
+    "layerIndex": 2,
+    "bounds": {
+     "x": 21,
+     "y": 24,
+     "w": 61,
+     "h": 12
+    },
+    "x": 49,
+    "y": 30,
+    "question": "How would the tone change if the sentence began with Please?",
+    "related": [
+     "calm",
+     "crown",
+     "carry"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "An instruction without an introduction",
+      "body": "“KEEP” opens the message directly, without a greeting, explanation or named audience. It is an imperative: the reader is asked to maintain a state. The word’s large scale makes the instruction immediate, while the following line is needed to specify what should be maintained.",
+      "evidence": "observation",
+      "originalText": "KEEP",
+      "lang": "en"
+     },
+     {
+      "kind": "design",
+      "heading": "A broad but regular first line",
+      "body": "The letters are large pale capitals with simple, relatively even strokes. Their open spacing keeps each shape distinct from the red field. Compared with the crown, the word is much wider and simpler, establishing the repeated typographic scale used for most of the message.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 2
+   },
+   {
+    "id": "calm",
+    "label": "The requested state",
+    "shortLabel": "The requested state",
+    "kicker": "LANGUAGE",
+    "summary": "A four-letter word completes the opening instruction.",
+    "layerIndex": 2,
+    "bounds": {
+     "x": 14,
+     "y": 41,
+     "w": 70,
+     "h": 12
+    },
+    "x": 47.305,
+    "y": 48.348,
+    "question": "Does the visual order feel calm to you, or does the bright ground complicate that reading?",
+    "related": [
+     "keep",
+     "field",
+     "and"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A state is requested, not demonstrated",
+      "body": "“CALM” tells the reader how to remain, but the poster does not show a calm person or describe a specific situation in its visible words. The message therefore depends on the audience supplying circumstances. That economy makes the phrase broad, while also leaving its tone open to interpretation.",
+      "evidence": "observation",
+      "originalText": "CALM",
+      "lang": "en"
+     },
+     {
+      "kind": "design",
+      "heading": "Order and intensity coexist",
+      "body": "The line is centred and plainly formed, but it sits on an intensely red ground. You may experience that combination as reassuring, urgent or both. Those reactions should remain interpretations; the visible evidence is the regular arrangement of pale letters within a strong continuous colour field.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 3
+   },
+   {
+    "id": "and",
+    "label": "The smaller connecting word",
+    "shortLabel": "The smaller connecting word",
+    "kicker": "LANGUAGE",
+    "summary": "A reduced line joins two equally prominent instructions.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 38,
+     "y": 56,
+     "w": 26,
+     "h": 6
+    },
+    "x": 51,
+    "y": 59,
+    "question": "What happens to the sentence when you cover this word?",
+    "related": [
+     "calm",
+     "carry",
+     "spacing"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A small grammatical hinge",
+      "body": "“AND” connects keeping calm with carrying on. The two instructions are presented as compatible actions rather than alternatives. Its reduced size acknowledges a supporting grammatical role while its centred placement keeps the full sentence continuous across a large vertical gap.",
+      "evidence": "observation",
+      "originalText": "AND",
+      "lang": "en"
+     },
+     {
+      "kind": "design",
+      "heading": "Hierarchy without a new style",
+      "body": "The connector uses the same basic pale capital-letter treatment as the larger words, but at a smaller scale. It creates hierarchy through size alone. No new colour, border or decorative device is needed to show that the word links the two main parts of the message.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 4
+   },
+   {
+    "id": "carry",
+    "label": "The widest lower command",
+    "shortLabel": "The widest lower command",
+    "kicker": "LANGUAGE",
+    "summary": "A broad word gives the lower half substantial weight.",
+    "layerIndex": 4,
+    "bounds": {
+     "x": 11,
+     "y": 66,
+     "w": 79,
+     "h": 12
+    },
+    "x": 50,
+    "y": 72,
+    "question": "Compare its width with KEEP: how does centring accommodate the difference?",
+    "related": [
+     "on",
+     "keep",
+     "and"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "An incomplete phrase until the next line",
+      "body": "“CARRY” needs the following “ON” to make the intended phrase meaning continue. Splitting the two across lines creates a pause without changing their grammatical relationship. The poster uses that short continuation to turn an instruction about emotional state into one about ongoing action.",
+      "evidence": "observation",
+      "originalText": "CARRY",
+      "lang": "en"
+     },
+     {
+      "kind": "design",
+      "heading": "Width helps balance the page",
+      "body": "CARRY is among the widest word shapes on the sheet, extending close to both sides while remaining centred. It supplies a broad visual base below the smaller AND. The line balances the substantial upper words without requiring a rectangle around the lower half.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 5
+   },
+   {
+    "id": "on",
+    "label": "The final two letters",
+    "shortLabel": "The final two letters",
+    "kicker": "LANGUAGE",
+    "summary": "A short ending leaves more red space at both sides.",
+    "layerIndex": 4,
+    "bounds": {
+     "x": 31,
+     "y": 82,
+     "w": 36,
+     "h": 12
+    },
+    "x": 49.551,
+    "y": 87.988,
+    "question": "Does the large O feel like a full stop, an opening or simply a letter here?",
+    "related": [
+     "carry",
+     "crown",
+     "spacing"
+    ],
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Continuing beyond the poster",
+      "body": "“ON” completes the phrase “carry on,” asking for continuation without naming a specific task. The visible message is therefore deliberately general. Its later familiarity should not be mistaken for evidence that this particular design was widely displayed or effective during the war.",
+      "evidence": "observation",
+      "originalText": "ON",
+      "lang": "en"
+     },
+     {
+      "kind": "context",
+      "heading": "Printed but held in reserve",
+      "body": "A 1939 Ministry of Information progress report preserved by The National Archives states that this design had been printed and was being held in reserve for possible use after a severe air raid. The report distinguishes it from two other designs already being posted across the country.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "archives"
+       }
+      ]
+     }
+    ],
+    "number": 6
+   },
+   {
+    "id": "spacing",
+    "label": "The centred vertical sequence",
+    "shortLabel": "The centred vertical sequence",
+    "kicker": "DESIGN",
+    "summary": "Unequal word widths share one central axis.",
+    "layerIndex": 0,
+    "bounds": {
+     "x": 30,
+     "y": 20,
+     "w": 40,
+     "h": 63
+    },
+    "x": 50,
+    "y": 64,
+    "question": "Draw an imaginary line down the middle: what aligns with it?",
+    "related": [
+     "crown",
+     "and",
+     "on"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "One axis holds different shapes",
+      "body": "The crown, broad words and small connector all sit around a shared vertical centre. Their outer edges do not align because their widths differ. The composition gains order from centring and repeated intervals rather than from making every line occupy an identical rectangular block.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Pauses give the command rhythm",
+      "body": "Red intervals separate crown, words and connector into distinct steps. The especially small AND makes the pause between the two instructions feel different from the gaps inside each phrase. Compare the message as a spoken sentence with the rhythm imposed by these visual line breaks.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 7
+   },
+   {
+    "id": "field",
+    "label": "The continuous red field",
+    "shortLabel": "The continuous red field",
+    "kicker": "DESIGN",
+    "summary": "A single colour surrounds every pale mark.",
+    "layerIndex": 0,
+    "bounds": {
+     "x": 2,
+     "y": 28,
+     "w": 10,
+     "h": 43
+    },
+    "x": 7,
+    "y": 43,
+    "question": "How would the hierarchy change if each word had a different background colour?",
+    "related": [
+     "calm",
+     "crown",
+     "folds"
+    ],
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "No depicted situation",
+      "body": "The red field contains no landscape, building or human figure to explain a particular emergency. It keeps attention on the emblem and command. The design’s simplicity is observable, but a claim that the colour necessarily reassured or frightened all viewers would go beyond the evidence.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A broad public purpose",
+      "body": "The National Army Museum describes the poster as intended to support public morale and disciplined behaviour amid fears of bombing and invasion. That establishes the campaign purpose. Intended effect and demonstrated reception are different questions, especially for a design whose official use was held in reserve.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "nam"
+       }
+      ]
+     }
+    ],
+    "number": 8
+   },
+   {
+    "id": "folds",
+    "label": "The visible horizontal creases",
+    "shortLabel": "The visible horizontal creases",
+    "kicker": "DESIGN",
+    "summary": "Surface lines interrupt an otherwise very regular design.",
+    "layerIndex": 0,
+    "bounds": {
+     "x": 0,
+     "y": 22,
+     "w": 100,
+     "h": 3
+    },
+    "x": 23,
+    "y": 23,
+    "question": "Which crease crosses open red, and which interferes with a letter?",
+    "related": [
+     "field",
+     "spacing",
+     "keep"
+    ],
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A sheet with a physical history",
+      "body": "The installed scan shows horizontal crease-like lines and small surface variations across the red field. They cross the design rather than following its typographic structure. These marks distinguish this reproduction from a perfectly clean digital redraw of the same crown and message.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "What condition cannot establish alone",
+      "body": "Visible folds can be described, but they do not supply a date of use, a display location or an individual owner’s history. The campaign history comes from the archive and museum records. The scan’s material traces remain valuable evidence of this image’s appearance without supporting a more specific biography.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 9
+   }
+  ],
+  "sources": [
+   {
+    "id": "archives",
+    "title": "The National Archives: Ministry of Information progress report, 1939 (PDF, p. 45)",
+    "url": "https://cdn.nationalarchives.gov.uk/documents/education/home-front-1939-1945-part-two.pdf",
+    "kind": "Primary government report reproduced in an official archive education PDF",
+    "summary": "Home Front 1939–1945, Part Two, printed p. 45 reproduces INF 1/6: two designs were already being posted, while Keep Calm and Carry On was printed and held in reserve for possible posting after a severe air raid."
+   },
+   {
+    "id": "nam",
+    "title": "National Army Museum: Keep Calm and Carry On, 1939",
+    "url": "https://collection.nam.ac.uk/detail.php?acc=2000-07-3-1",
+    "kind": "Museum object record",
+    "summary": "Identifies a 1939 British government propaganda poster by an unknown artist and describes its intended morale and public-discipline purpose."
+   }
+  ],
+  "tour": [
+   "crown",
+   "keep",
+   "calm",
+   "and",
+   "carry",
+   "on",
+   "folds"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "KEEP CALM AND CARRY ON",
+      "meaning": "An instruction to remain calm and continue",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "The complete five-word message is transcribed. The crown is described without inventing a personal royal endorsement. The National Archives report is used for the reserve status; the study does not present the design as a widely displayed Blitz poster. Surface marks do not establish a particular copy’s use history.",
+  "palette": [
+   {
+    "name": "Red field",
+    "hex": "#fa0d21",
+    "role": "Continuous message ground",
+    "region": "field"
+   },
+   {
+    "name": "Letter pale",
+    "hex": "#fffaf6",
+    "role": "Large command lettering",
+    "region": "keep"
+   },
+   {
+    "name": "Crown pale",
+    "hex": "#fff2ef",
+    "role": "Detailed official emblem",
+    "region": "crown"
+   },
+   {
+    "name": "Crease red",
+    "hex": "#f70b21",
+    "role": "Local surface variation",
+    "region": "folds"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels of the installed reproduction; these are not original ink or paper specifications.",
+  "connections": [
+   {
+    "label": "Authority and address",
+    "title": "A small emblem, a large command",
+    "text": "The compact crown shares the same central axis as the much larger words, giving the instruction a steady vertical structure.",
+    "anchors": [
+     [
+      1,
+      0.5,
+      0.1305
+     ],
+     [
+      2,
+      0.4940209267563528,
+      0.3505
+     ]
+    ],
+    "id": "keep-calm-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "A measured pause",
+    "title": "The smallest word controls the rhythm",
+    "text": "The short AND sits between two broad pairs of lines. Its smaller size makes a visual pause without breaking the centred alignment.",
+    "anchors": [
+     [
+      2,
+      0.4760837070254111,
+      0.4875
+     ],
+     [
+      3,
+      0.5,
+      0.5895
+     ],
+     [
+      4,
+      0.5,
+      0.7695
+     ]
+    ],
+    "id": "keep-calm-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

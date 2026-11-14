@@ -1,0 +1,573 @@
+{
+ "poster": {
+  "id": "pulp-fiction",
+  "title": "Pulp Fiction",
+  "year": "1994",
+  "yearNumber": 1994,
+  "country": "United States",
+  "region": "North America",
+  "creator": "James Verdesoto · Tod Tarhan",
+  "filmCreator": "Quentin Tarantino",
+  "edition": "1994 English-language theatrical campaign from Miramax’s creative department",
+  "alt": "A worn paperback-style Pulp Fiction poster with a red and yellow masthead, a reclining black-haired woman, a cigarette, a book and a handgun.",
+  "blurb": "A film poster borrows the worn edges, price badge and bold promise of a cheap paperback.",
+  "notes": [
+   {
+    "title": "The paper pretends to have a past",
+    "body": "Scuffed edges and a small price circle make the surface resemble a handled paperback. The simulated wear is part of the design, not damage to this digital display."
+   },
+   {
+    "title": "A portrait interrupted by objects",
+    "body": "The reclining figure looks outward while the handgun and book occupy the foreground. Those objects add competing clues without explaining their relationship."
+   },
+   {
+    "title": "A masthead with shelf appeal",
+    "body": "Huge yellow letters fill the red top band. The hard colour split makes the title readable before the darker photographic scene below."
+   }
+  ],
+  "source": "https://www.miramax.com/movie/pulp-fiction/",
+  "imageCredit": "Miramax Film Creative Department. Creative/art direction: James Verdesoto; art direction/design: Tod Tarhan, as documented by Clio Entertainment / Muse. Reproduction via Wikipedia; copyright remains with the respective film and artwork rights holders.",
+  "anchor": [
+   0.62,
+   0.43
+  ],
+  "accent": "#b25036",
+  "category": "Film",
+  "image": "images/full/pulp-fiction.jpg",
+  "imageSource": "https://en.wikipedia.org/wiki/File:Pulp_Fiction_(1994)_poster.jpg",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg",
+  "ratio": 0.677922,
+  "imageWidth": 261,
+  "imageHeight": 385,
+  "credit": "Miramax Film Creative Department. Creative/art direction: James Verdesoto; art direction/design: Tod Tarhan, as documented by Clio Entertainment / Muse. Reproduction via Wikipedia; copyright remains with the respective film and artwork rights holders.",
+  "creditSources": [
+   {
+    "title": "Clio Entertainment / Muse: Pulp Fiction design credits",
+    "url": "https://musebyclios.com/film-tv/50-movie-posters-that-changed-entertainment-marketing/"
+   },
+   {
+    "title": "Indika: Pulp Fiction portfolio",
+    "url": "https://indika.com/pulp-fiction/"
+   }
+  ],
+  "posterYear": "1994",
+  "countries": [
+   "United States"
+  ],
+  "primaryOrigin": "United States",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/pulp-fiction.webp"
+ },
+ "studyData": {
+  "intro": "A film poster borrows the appearance of a handled paperback: a price disc, worn edges, a bright masthead and a figure surrounded by objects. Study how these cues work together before deciding which story the image tells. This edition promotes the film after its 1994 Cannes prize.",
+  "initial": "pulp-fiction-title",
+  "regions": [
+   {
+    "id": "pulp-fiction-title",
+    "number": 1,
+    "label": "Yellow words on a red masthead",
+    "shortLabel": "Yellow words on a red masthead",
+    "kicker": "A TITLE THAT NAMES A KIND OF FICTION",
+    "summary": "The name is the most stable block on the page.",
+    "x": 50,
+    "y": 16.5,
+    "bounds": {
+     "x": 6,
+     "y": 9,
+     "w": 88,
+     "h": 15
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A title that names a kind of fiction",
+      "body": "PULP FICTION is both the film’s title and a phrase associated with popular printed storytelling. Here the visual surroundings encourage a book-cover reading. That connection is an interpretation of the price mark, wear and layout, rather than a claim that the poster reproduces a particular novel cover.",
+      "evidence": "observation",
+      "originalText": "PULP FICTION",
+      "lang": "en",
+      "translation": "Pulp Fiction"
+     },
+     {
+      "kind": "design",
+      "heading": "Heavy letters in a shallow band",
+      "body": "Tall yellow capitals nearly fill the red top strip. Their thick strokes and dark edging hold together at small sizes. The image below is uneven and photographic, so the title’s rectangular block gives a firm opening to a busy, object-filled sheet.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Which remains readable first when you shrink the poster: the title or the face?",
+    "related": [
+     "pulp-fiction-red",
+     "pulp-fiction-price"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "pulp-fiction-red",
+    "number": 2,
+    "label": "The masthead and festival claim",
+    "shortLabel": "The masthead and festival claim",
+    "kicker": "A SEPARATE COLOUR COMPARTMENT",
+    "summary": "A bright band holds a dark endorsement line.",
+    "x": 50,
+    "y": 14,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 100,
+     "h": 28
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A separate colour compartment",
+      "body": "The red area is visually distinct from the darker blue and brown photograph below. A small black line sits near its upper edge, above the title. This creates several reading levels within one band without using separate boxes for each piece of information.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "The prize can be checked",
+      "body": "The upper line promotes a Cannes award. The festival’s own record confirms Pulp Fiction won the Palme d’Or in 1994. That establishes the award and year; it does not tell us how much this endorsement increased ticket sales or how every campaign edition was distributed.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cannes"
+       }
+      ]
+     }
+    ],
+    "question": "How does the small award line borrow visibility from the title below?",
+    "related": [
+     "pulp-fiction-title",
+     "pulp-fiction-wear"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "pulp-fiction-price",
+    "number": 3,
+    "label": "A price disc without a ticket offer",
+    "shortLabel": "A price disc without a ticket offer",
+    "kicker": "A VERY SMALL APPARENT PRICE",
+    "summary": "10¢ makes the sheet resemble a cheap publication.",
+    "x": 14,
+    "y": 30.5,
+    "bounds": {
+     "x": 6,
+     "y": 25,
+     "w": 16,
+     "h": 11
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A very small apparent price",
+      "body": "The yellow circular mark reads 10¢. It sits where a publication might display its cover price, close to the masthead. The poster offers no corresponding ticket terms. Reading it as a paperback cue fits the surrounding design better than treating it as a literal admission offer.",
+      "evidence": "observation",
+      "originalText": "10¢",
+      "lang": "en",
+      "translation": "Ten cents"
+     },
+     {
+      "kind": "design",
+      "heading": "A circle interrupts the rectangles",
+      "body": "The disc overlaps the boundary between bright masthead and dark image. Its small curved form stands apart from the straight title band and cast column. That contrast gives a minor detail enough presence to help establish the publication-like appearance.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "What tells you this is a visual cue rather than a cinema ticket price?",
+    "related": [
+     "pulp-fiction-title",
+     "pulp-fiction-book"
+    ],
+    "layerIndex": 5
+   },
+   {
+    "id": "pulp-fiction-cast",
+    "number": 4,
+    "label": "A yellow column of names",
+    "shortLabel": "A yellow column of names",
+    "kicker": "A VERTICAL COUNTERWEIGHT",
+    "summary": "The cast becomes a second bright reading route.",
+    "x": 21.5,
+    "y": 62,
+    "bounds": {
+     "x": 6,
+     "y": 39,
+     "w": 31,
+     "h": 46
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A vertical counterweight",
+      "body": "Closely stacked yellow names run down the left side. Their narrow, tall shapes echo the main title but turn the direction of reading downward. The column occupies dark photographic space and leaves the central face, arms and foreground objects relatively unobstructed.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "An ensemble beyond the pictured woman",
+      "body": "Miramax’s official film page lists an ensemble including John Travolta, Samuel L. Jackson, Uma Thurman and Bruce Willis. The one prominent figure therefore does not represent the whole cast. A poster can use one character image while the names signal a wider set of attractions.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "What does the narrow column make the photograph do around it?",
+    "related": [
+     "pulp-fiction-title",
+     "pulp-fiction-portrait"
+    ],
+    "layerIndex": 5
+   },
+   {
+    "id": "pulp-fiction-portrait",
+    "number": 5,
+    "label": "Mia meets the viewer",
+    "shortLabel": "Mia meets the viewer",
+    "kicker": "A FACE BETWEEN DARK SHAPES",
+    "summary": "A direct look becomes the image’s human anchor.",
+    "x": 58.5,
+    "y": 50.5,
+    "bounds": {
+     "x": 36,
+     "y": 35,
+     "w": 45,
+     "h": 31
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A face between dark shapes",
+      "body": "Black hair and a dark top frame the lighter face and forearms. The head is turned outward while the body lies diagonally across the image. The direct gaze establishes a different relationship with the viewer from the objects, which remain available to inspect without looking back.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "The depicted character",
+      "body": "Miramax’s official poster listing identifies the image as Uma Thurman’s character Mia Wallace. This supports the character name. It does not make the staged poster photograph a documentary record of a particular film scene or prove a single psychological reading of her expression.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "poster-record"
+       }
+      ]
+     }
+    ],
+    "question": "Which surrounding object most changes how you read this gaze?",
+    "related": [
+     "pulp-fiction-cigarette",
+     "pulp-fiction-gun"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "pulp-fiction-cigarette",
+    "number": 6,
+    "label": "The small raised cigarette",
+    "shortLabel": "The small raised cigarette",
+    "kicker": "A FINE LINE AMONG HEAVY FORMS",
+    "summary": "A delicate diagonal sits beside the face.",
+    "x": 41,
+    "y": 57,
+    "bounds": {
+     "x": 31,
+     "y": 47,
+     "w": 20,
+     "h": 20
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A fine line among heavy forms",
+      "body": "The raised hand holds a slim cigarette near the face. It creates a short diagonal against the dark background, very different in weight from the large title or the pistol below. Its small size rewards close looking after the larger portrait has registered.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An object as a genre cue",
+      "body": "Together with the pose, book and gun, the cigarette can contribute to a reading of glamour, danger or cultivated nonchalance. Those are interpretations of familiar visual conventions. They do not establish the character’s health, habits outside the story or the designer’s private intentions.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How would an empty hand change the image’s tone?",
+    "related": [
+     "pulp-fiction-portrait",
+     "pulp-fiction-book"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "pulp-fiction-gun",
+    "number": 7,
+    "label": "The pistol in the foreground",
+    "shortLabel": "The pistol in the foreground",
+    "kicker": "A HARD-EDGED HORIZONTAL OBJECT",
+    "summary": "A dark object interrupts the warm tabletop area.",
+    "x": 51.5,
+    "y": 77.5,
+    "bounds": {
+     "x": 35,
+     "y": 71,
+     "w": 33,
+     "h": 13
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A hard-edged horizontal object",
+      "body": "The handgun lies below the forearms, with dark surfaces and bright metallic highlights. Its compact silhouette is distinct from the nearby paperback and packet. The horizontal barrel gives another direction to follow across a photograph dominated by diagonals and bent limbs.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A clue, not a complete synopsis",
+      "body": "The official synopsis describes interconnected criminal lives. The visible gun is compatible with that broad context, but the poster does not tell us who owns it, whether it will be used or how this exact arrangement relates to the film’s narrative sequence.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "What story would the image suggest if the pistol were covered?",
+    "related": [
+     "pulp-fiction-portrait",
+     "pulp-fiction-book"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "pulp-fiction-book",
+    "number": 8,
+    "label": "A paperback inside a paperback-like poster",
+    "shortLabel": "A paperback inside a paperback-like poster",
+    "kicker": "AN IMAGE WITHIN AN IMAGE",
+    "summary": "The prop echoes the design of the whole sheet.",
+    "x": 81,
+    "y": 83.5,
+    "bounds": {
+     "x": 67,
+     "y": 77,
+     "w": 28,
+     "h": 13
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An image within an image",
+      "body": "A small illustrated paperback lies under the extended hand. Its cover has its own picture and lettering, but the installed scan is too small to verify all the words. The object gives the publication-like outer design a smaller counterpart inside the photograph.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A visual echo rather than a source claim",
+      "body": "It is tempting to identify the book from memory or assume its cover inspired the poster. The image alone supports neither claim. What we can compare is the presence of a cover, dramatic picture and compact lettering at two different scales.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which features of the small book resemble the surrounding poster?",
+    "related": [
+     "pulp-fiction-price",
+     "pulp-fiction-wear"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "pulp-fiction-feet",
+    "number": 9,
+    "label": "Raised legs behind the portrait",
+    "shortLabel": "Raised legs behind the portrait",
+    "kicker": "A ROUTE AWAY FROM THE FACE",
+    "summary": "A bent pose fills the upper-right diagonal.",
+    "x": 82,
+    "y": 37.5,
+    "bounds": {
+     "x": 66,
+     "y": 18,
+     "w": 32,
+     "h": 39
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A route away from the face",
+      "body": "The legs bend upward behind the reclining torso, with dark shoes approaching the title band. Blue light and shadow separate them from the background. Their diagonal arrangement makes the figure span a larger part of the sheet than the face alone would suggest.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A staged image with visual economy",
+      "body": "The pose fills otherwise difficult upper-right space while leaving the face and foreground objects visible. That is a useful reading of composition, not evidence that the photographic setup was casual. The poster photograph has been arranged to coexist with words and props.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the direction of the legs counter the cast column?",
+    "related": [
+     "pulp-fiction-portrait",
+     "pulp-fiction-title"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "pulp-fiction-wear",
+    "number": 10,
+    "label": "The sheet appears handled",
+    "shortLabel": "The sheet appears handled",
+    "kicker": "WEAR AS PART OF THE VISIBLE SURFACE",
+    "summary": "Pale scuffs break the right edge.",
+    "x": 94,
+    "y": 50,
+    "bounds": {
+     "x": 88,
+     "y": 0,
+     "w": 12,
+     "h": 100
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Wear as part of the visible surface",
+      "body": "White abrasions and creases gather along the corners and right edge. They interrupt both colour bands and photographic areas, making the whole design appear to be one aged object. Their presence in the reproduced artwork should not be mistaken for damage caused by this website.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A designed object with a suggested past",
+      "body": "Together with the price disc, the scuffed surface can make a new film advertisement evoke a familiar inexpensive book. That interpretation explains a visible relationship. It does not date the actual paper or establish how an original physical poster was handled.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which worn-looking marks cross the title area as well as the photograph?",
+    "related": [
+     "pulp-fiction-price",
+     "pulp-fiction-book"
+    ],
+    "layerIndex": 0
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed Pulp Fiction poster reproduction",
+    "url": "https://en.wikipedia.org/wiki/File:Pulp_Fiction_(1994)_poster.jpg",
+    "kind": "Visual source",
+    "summary": "The exact edition shown is the evidence for visible shapes, wording, positions and reproduction samples. The linked record identifies the image; readings of its visual effects are supplied by Poster Atlas."
+   },
+   {
+    "id": "record",
+    "title": "Miramax: Pulp Fiction",
+    "url": "https://www.miramax.com/movie/pulp-fiction/",
+    "kind": "Official distributor",
+    "summary": "Verifies the 1994 film, ensemble, director and broad interconnected crime narrative. Its Cannes year label is inconsistent with the festival record; the festival is used for the award date."
+   },
+   {
+    "id": "cannes",
+    "title": "Festival de Cannes: Pulp Fiction",
+    "url": "https://www.festival-cannes.com/en/f/pulp-fiction/",
+    "kind": "Festival record",
+    "summary": "Records the 1994 competition entry and Palme d’Or."
+   },
+   {
+    "id": "poster-record",
+    "title": "Miramax: official theatrical poster reprint",
+    "url": "https://www.miramax.com/product/pulp-fiction-theatrical-poster/",
+    "kind": "Official distributor product record",
+    "summary": "Identifies the theatrical poster’s pictured character as Uma Thurman’s Mia Wallace; no claim about this reproduction’s physical print date."
+   }
+  ],
+  "tour": [
+   "pulp-fiction-title",
+   "pulp-fiction-price",
+   "pulp-fiction-portrait",
+   "pulp-fiction-gun",
+   "pulp-fiction-book",
+   "pulp-fiction-wear"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected wording in this edition",
+    "rows": [
+     {
+      "text": "PULP FICTION",
+      "meaning": "Film title",
+      "lang": "en"
+     },
+     {
+      "text": "10¢",
+      "meaning": "Ten cents; a publication-like visual cue",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected title and price mark only. Fine billing, prop-cover wording and the complete cast column are not reconstructed from the small scan.",
+  "palette": [
+   {
+    "name": "Masthead red",
+    "hex": "#C3000A",
+    "role": "A bright compartment for the main title",
+    "region": "pulp-fiction-red"
+   },
+   {
+    "name": "Title yellow",
+    "hex": "#F5E013",
+    "role": "High-visibility lettering",
+    "region": "pulp-fiction-title"
+   },
+   {
+    "name": "Dark hair",
+    "hex": "#151517",
+    "role": "Frames the face",
+    "region": "pulp-fiction-portrait"
+   },
+   {
+    "name": "Blue photographic light",
+    "hex": "#1762C7",
+    "role": "A cool counterpoint to the masthead",
+    "region": "pulp-fiction-feet"
+   }
+  ],
+  "paletteNote": "Approximate screen samples from the installed reproduction. These describe image pixels, not original inks, paper colours or calibrated printing specifications."
+ }
+}

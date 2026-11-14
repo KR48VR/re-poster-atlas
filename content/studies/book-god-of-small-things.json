@@ -1,0 +1,593 @@
+{
+ "poster": {
+  "id": "book-god-of-small-things",
+  "title": "The God of Small Things",
+  "year": "1998",
+  "yearNumber": 1998,
+  "coverYear": "1998",
+  "posterYear": "1998",
+  "posterDateStatus": "1998 cover as dated in the designer portfolio; novel first published in 1997.",
+  "bookFirstPublication": "1997",
+  "bookAuthor": "Arundhati Roy",
+  "bookPublisher": "India Ink",
+  "bookOrigin": "English-language novel by Arundhati Roy",
+  "category": "Book cover",
+  "country": "India",
+  "countries": [
+   "India"
+  ],
+  "primaryOrigin": "India",
+  "region": "South Asia",
+  "creator": "ICD; photograph by Sanjeev Saith",
+  "image": "images/full/book-god-of-small-things.png",
+  "ratio": 0.6455555555555555,
+  "alt": "Dark water, broad floating green leaves, a small pink bud and an orange fragment, with a translucent title band and small pale author lettering.",
+  "blurb": "A tiny flower and quiet words ask for the kind of attention the title names.",
+  "notes": [
+   {
+    "title": "The small thing in the picture",
+    "body": "The pink bud occupies very little area, yet separates strongly from the dark water and wide leaves. Its size is part of its emphasis."
+   },
+   {
+    "title": "Words share the water",
+    "body": "A narrow translucent-looking band carries the title. The scene remains visible around it, while the small author line sits directly over dark water."
+   },
+   {
+    "title": "A photograph and its location",
+    "body": "ICD identifies Sanjeev Saith’s photograph and says it was made in a man-made pond in New Delhi. The record does not establish staging specifically for the cover; the location is separate from the novel’s setting."
+   }
+  ],
+  "source": "https://icdindia.com/projects/book-covers-for-india-ink",
+  "credit": "ICD designer portfolio identifies the India Ink cover as 1998 and credits photographer Sanjeev Saith. Front-cover crop extracted from the portfolio reproduction.",
+  "edition": "1998 cover as dated in the designer portfolio; novel first published in 1997.",
+  "originNote": "Country describes this edition’s publishing/design context, not the author’s nationality. India Ink Indian edition; design documented by the Indian studio ICD.",
+  "originSources": [
+   {
+    "title": "ICD: book covers for India Ink",
+    "url": "https://icdindia.com/projects/book-covers-for-india-ink"
+   }
+  ],
+  "creditSources": [
+   {
+    "title": "ICD: book covers for India Ink",
+    "url": "https://icdindia.com/projects/book-covers-for-india-ink"
+   }
+  ],
+  "imageSource": "https://icdindia.com/projects/book-covers-for-india-ink",
+  "imageCredit": "ICD designer portfolio identifies the India Ink cover as 1998 and credits photographer Sanjeev Saith. Front-cover crop extracted from the portfolio reproduction.",
+  "accent": "#BC7F84",
+  "anchor": [
+   0.36,
+   0.58
+  ],
+  "reproduction": "Source reproduction retained without generative reconstruction. Analytical layers partition visible source pixels; printing colours and hidden artwork cannot be recovered.",
+  "downloadURL": "https://res.cloudinary.com/dvklutj2x/images/w_1920,h_1200,c_scale/fl_progressive,q_auto,f_auto,dpr_auto/f_auto,q_auto:best/v1779696830/Component-2-God-of-small-things_10798c4997/Component-2-God-of-small-things_10798c4997.jpg?_i=AA",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-god-of-small-things.webp"
+ },
+ "studyData": {
+  "intro": "A tiny flower and quiet words ask for the kind of attention the title names. Follow the details to compare what is visible, what can be interpreted and what the edition record establishes.",
+  "initial": "bud",
+  "regions": [
+   {
+    "id": "bud",
+    "number": 1,
+    "label": "A pink bud interrupts dark water",
+    "shortLabel": "Small pink bud",
+    "kicker": "DESIGN",
+    "summary": "A small pink bud rises between broad leaves.",
+    "layerIndex": 3,
+    "x": 36,
+    "y": 58,
+    "bounds": {
+     "x": 30,
+     "y": 54,
+     "w": 11,
+     "h": 8
+    },
+    "question": "Did you notice the bud before or after the title, and what made it emerge?",
+    "related": [
+     "upper",
+     "lower"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Small pink bud in the image",
+      "body": "A small pink bud rises between broad leaves. Its rounded, folded form occupies little of the cover, while a narrow stem connects it to the water below. Pink separates it from the surrounding greens without needing a large area.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A small detail changes a second look",
+      "body": "The small size makes the bud a useful test of attention. It can become central once noticed, even though it is not the largest object. Compare your first glance with a slower look and see whether the cover’s hierarchy changes.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "upper",
+    "number": 2,
+    "label": "Large leaves form an uneven canopy",
+    "shortLabel": "Upper leaves",
+    "kicker": "DESIGN",
+    "summary": "Several broad leaves hang into the upper part of the image.",
+    "layerIndex": 1,
+    "x": 69,
+    "y": 9,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 100,
+     "h": 31
+    },
+    "question": "Which leaf has the clearest edge, and which blends most into its neighbour?",
+    "related": [
+     "bud",
+     "lower"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Upper leaves in the image",
+      "body": "Several broad leaves hang into the upper part of the image. Their edges are scalloped and their surfaces contain radiating veins. Some overlap and some leave narrow dark gaps, making an irregular boundary rather than a straight decorative border.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A green mass becomes individual leaves",
+      "body": "The upper leaves can make the picture feel partially enclosed. Their large scale contrasts with the tiny bud below, while their repeated veins draw attention into individual surfaces. Looking at one leaf at a time reveals differences that the initial green mass conceals.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "stems",
+    "number": 3,
+    "label": "Thin paths connect broad shapes",
+    "shortLabel": "Slender stems",
+    "kicker": "DESIGN",
+    "summary": "Long thin stems cross the dark water at different angles.",
+    "layerIndex": 0,
+    "x": 28,
+    "y": 39,
+    "bounds": {
+     "x": 8,
+     "y": 15,
+     "w": 62,
+     "h": 47
+    },
+    "question": "Choose one stem and follow it. Where does its path become uncertain?",
+    "related": [
+     "bud",
+     "upper"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Slender stems in the image",
+      "body": "Long thin stems cross the dark water at different angles. They connect or approach the much broader leaves, but do not fill the spaces between them. Their slender lines remain visible because the surrounding water is relatively dark and quiet.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Thin lines connect broad shapes",
+      "body": "The stems offer routes through an otherwise patchy composition. They can guide the eye from one broad shape to another without creating a rigid grid. Compare their straight or gently bending paths with the curved leaf edges and rounded bud.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "lower",
+    "number": 4,
+    "label": "Leaves become a foreground surface",
+    "shortLabel": "Lower leaves",
+    "kicker": "DESIGN",
+    "summary": "Large leaves fill much of the lower section, with ribs and folds catching light.",
+    "layerIndex": 2,
+    "x": 77,
+    "y": 82,
+    "bounds": {
+     "x": 0,
+     "y": 60,
+     "w": 100,
+     "h": 40
+    },
+    "question": "Which rib or fold gives the strongest sense of a leaf’s surface turning?",
+    "related": [
+     "bud",
+     "upper"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Lower leaves in the image",
+      "body": "Large leaves fill much of the lower section, with ribs and folds catching light. Their overlapping edges make different layers of depth visible within the photograph. Some surfaces are grey-green, while others are warmer or darker rather than one uniform green.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Texture brings the foreground closer",
+      "body": "The foreground feels substantial because of texture as well as size. Compare the ribbed lower leaves with the quieter water: one asks for close inspection, the other creates separation. Neither needs to be treated as a literal map of the novel’s setting.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "green",
+    "number": 5,
+    "label": "One leaf changes colour across itself",
+    "shortLabel": "Green variation",
+    "kicker": "DESIGN",
+    "summary": "A broad leaf on the right contains yellow-green, darker green and shadowed areas.",
+    "layerIndex": 2,
+    "x": 78,
+    "y": 60,
+    "bounds": {
+     "x": 52,
+     "y": 47,
+     "w": 48,
+     "h": 27
+    },
+    "question": "Where does the leaf look brightest, and what clues suggest why?",
+    "related": [
+     "bud",
+     "upper"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Green variation in the image",
+      "body": "A broad leaf on the right contains yellow-green, darker green and shadowed areas. Its veins lead away from a central point and its edge bends irregularly. The surface is not a flat patch of the colour usually named green.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A single leaf contains many greens",
+      "body": "These variations help a single leaf read as a material surface. They also prevent the lower area from becoming a simple colour block. Try separating changes caused by light from changes that might belong to the leaf itself; the reproduction does not resolve every cause.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "title",
+    "number": 6,
+    "label": "A narrow band steadies the words",
+    "shortLabel": "Title band",
+    "kicker": "LANGUAGE",
+    "summary": "The title sits on a muted horizontal band across the middle-right area.",
+    "layerIndex": 4,
+    "x": 67,
+    "y": 38,
+    "bounds": {
+     "x": 35,
+     "y": 34,
+     "w": 65,
+     "h": 7
+    },
+    "question": "How much of the scene does the title band need to cover to become readable?",
+    "related": [
+     "bud",
+     "upper"
+    ],
+    "tags": [
+     "language",
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Title band in the image",
+      "body": "The title sits on a muted horizontal band across the middle-right area. The band is much narrower than the large leaves and stays within the picture rather than surrounding it. Pale lettering remains legible against this controlled strip of tone.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A quiet strip makes room for words",
+      "body": "The band inserts a quiet reading surface without replacing the scene. Its straight edges contrast with the plant forms, yet its subdued colour keeps that contrast restrained. Compare this small intervention with the effect a solid white box would have had.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "business",
+      "heading": "A publisher and designer collaborate",
+      "body": "ICD’s portfolio describes its collaboration with the literary label India Ink and credits Sanjeev Saith’s photograph for this cover. The studio characterises its own contribution as restrained wording. This is first-person evidence about the cover commission, rather than a claim that quiet typography increased sales.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "god"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "author",
+    "number": 7,
+    "label": "A small name rests on the water",
+    "shortLabel": "Author line",
+    "kicker": "LANGUAGE",
+    "summary": "ARUNDHATI ROY appears in small spaced pale capitals below the title band.",
+    "layerIndex": 5,
+    "x": 65.66,
+    "y": 46.61,
+    "bounds": {
+     "x": 44,
+     "y": 43,
+     "w": 44,
+     "h": 5
+    },
+    "question": "Why might this smaller line remain legible without its own band?",
+    "related": [
+     "bud",
+     "upper"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Author line in the image",
+      "body": "ARUNDHATI ROY appears in small spaced pale capitals below the title band. Unlike the title, the name sits directly against the dark image. Its restrained scale leaves most of the surrounding scene available for leaves, stems and water.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "The photograph supports two kinds of lettering",
+      "body": "The title and author use different supports: one gets a band, the other relies on the photograph’s own dark area. That distinction shows how the same image can provide both a subject and a practical background for words.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "orange",
+    "number": 8,
+    "label": "A warm fragment enters from the edge",
+    "shortLabel": "Orange fragment",
+    "kicker": "DESIGN",
+    "summary": "A small orange fragment is partly cut by the left edge.",
+    "layerIndex": 3,
+    "x": 5,
+    "y": 67,
+    "bounds": {
+     "x": 0,
+     "y": 61,
+     "w": 14,
+     "h": 11
+    },
+    "question": "Does the cropped orange accent compete with the bud or help you find it?",
+    "related": [
+     "bud",
+     "upper"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Orange fragment in the image",
+      "body": "A small orange plant fragment is partly cut by the left edge. It is warmer and brighter than the neighbouring leaf surfaces, yet much less central than the pink bud. The crop leaves only part of its shape available to inspect.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Two warm accents, differently placed",
+      "body": "The orange fragment widens the picture beyond its frame. It also provides a second warm accent, preventing the pink bud from being the only exception to green and dark tones. Compare their different sizes, positions and degrees of completeness.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "water",
+    "number": 9,
+    "label": "Darkness separates the living forms",
+    "shortLabel": "Dark water",
+    "kicker": "DESIGN",
+    "summary": "Dark water occupies the irregular intervals between leaves, stems and flowers.",
+    "layerIndex": 0,
+    "x": 78,
+    "y": 44,
+    "bounds": {
+     "x": 56,
+     "y": 40,
+     "w": 38,
+     "h": 9
+    },
+    "question": "Which dark gap has the most distinctive shape?",
+    "related": [
+     "bud",
+     "upper"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Dark water in the image",
+      "body": "Dark water occupies the irregular intervals between leaves, stems and flowers. Its low detail makes the plant edges readable. Some areas carry subtle tonal changes, but they remain quieter than the veined surfaces surrounding them.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Trace the spaces between the plants",
+      "body": "The dark intervals are active parts of the composition. Without them, overlapping leaves would be harder to distinguish and the small flower would have less contrast. Trace an empty shape between three objects rather than tracing the objects themselves.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "edition",
+    "number": 10,
+    "label": "A photograph with a documented location",
+    "shortLabel": "Edition context",
+    "kicker": "DESIGN",
+    "summary": "The image combines close plant detail with an arranged hierarchy of small words.",
+    "layerIndex": 0,
+    "x": 3,
+    "y": 47,
+    "bounds": {
+     "x": 0,
+     "y": 30,
+     "w": 8,
+     "h": 40
+    },
+    "question": "How does knowing the pond was constructed change—or not change—your reading of the photograph?",
+    "related": [
+     "bud",
+     "upper"
+    ],
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Edition context in the image",
+      "body": "The image combines close plant detail with an arranged hierarchy of small words. Its photographic surfaces do not themselves tell us where the pond was located or when the cover was made. Those questions require evidence beyond the pictured leaves.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A documented pond, not the novel’s setting",
+      "body": "ICD’s portfolio dates this India Ink cover to 1998, credits Sanjeev Saith’s photograph and says the photograph was made in a man-made pond in New Delhi. This establishes the photographed location, without proving that the pond or plants were staged specifically for the cover. It does not make this scene a documentary view of the novel’s setting.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "god"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "visual",
+    "title": "Exact reproduced cover: The God of Small Things",
+    "url": "https://icdindia.com/projects/book-covers-for-india-ink",
+    "kind": "Visual source",
+    "summary": "ICD designer portfolio identifies the India Ink cover as 1998 and credits photographer Sanjeev Saith. Front-cover crop extracted from the portfolio reproduction."
+   },
+   {
+    "id": "god",
+    "title": "ICD: book covers for India Ink",
+    "url": "https://icdindia.com/projects/book-covers-for-india-ink",
+    "kind": "Designer portfolio",
+    "summary": "ICD dates this India Ink cover to 1998, credits Sanjeev Saith’s photograph and says it was shot in a man-made pond in New Delhi. The record does not establish staging specifically for the cover."
+   }
+  ],
+  "tour": [
+   "bud",
+   "upper",
+   "lower",
+   "water",
+   "title",
+   "edition"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected legible cover wording",
+    "rows": [
+     {
+      "text": "The God of Small Things",
+      "meaning": "Book title",
+      "lang": "en"
+     },
+     {
+      "text": "ARUNDHATI ROY",
+      "meaning": "Author’s name",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected wording only. Line breaks and typographic case may be regularized. Fine print and endorsement prose are omitted where not needed for this reading. English meanings are editorial translations, not a claim of native-language reader testing.",
+  "palette": [
+   {
+    "name": "Bud pink",
+    "hex": "#BB8082",
+    "role": "A screen sample from small pink bud. Compare this local colour with its surrounding shapes.",
+    "region": "bud"
+   },
+   {
+    "name": "Leaf green",
+    "hex": "#678444",
+    "role": "A screen sample from green variation. Compare this local colour with its surrounding shapes.",
+    "region": "green"
+   },
+   {
+    "name": "Dark water",
+    "hex": "#17201D",
+    "role": "A screen sample from dark water. Compare this local colour with its surrounding shapes.",
+    "region": "water"
+   },
+   {
+    "name": "Title-band grey",
+    "hex": "#6B6B61",
+    "role": "A screen sample from title band. Compare this local colour with its surrounding shapes.",
+    "region": "title"
+   }
+  ],
+  "paletteNote": "Samples are exact pixels from the installed reproduction, chosen within the named feature for perceptual agreement. They describe this screen image, not original ink specifications, paper stock or universal colour meanings.",
+  "connections": [
+   {
+    "title": "Small flower, broad leaf",
+    "anchors": [
+     [
+      3,
+      0.36058519793459554,
+      0.5805555555555556
+     ],
+     [
+      2,
+      0.7805507745266781,
+      0.6005555555555555
+     ]
+    ],
+    "id": "book-god-of-small-things-connection-0",
+    "colour": "#be3d74",
+    "label": "Bud / leaf",
+    "text": "A tiny pink bud stands beside a much broader green leaf; local colour contrast lets the smaller form compete for attention."
+   },
+   {
+    "title": "Words find a quiet surface",
+    "anchors": [
+     [
+      4,
+      0.6703958691910499,
+      0.38055555555555554
+     ],
+     [
+      0,
+      0.7805507745266781,
+      0.44055555555555553
+     ]
+    ],
+    "id": "book-god-of-small-things-connection-1",
+    "colour": "#496f80",
+    "label": "Band / water",
+    "text": "The muted title band steadies the words while the surrounding dark water keeps the photograph visible and comparatively quiet."
+   }
+  ]
+ }
+}

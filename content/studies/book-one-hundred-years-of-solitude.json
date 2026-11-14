@@ -1,0 +1,604 @@
+{
+ "poster": {
+  "id": "book-one-hundred-years-of-solitude",
+  "title": "One Hundred Years of Solitude",
+  "year": "1967",
+  "yearNumber": 1967,
+  "coverYear": "1967",
+  "bookFirstPublication": "1967",
+  "bookAuthor": "Gabriel García Márquez",
+  "bookPublisher": "Editorial Sudamericana",
+  "bookOrigin": "Colombian literary context: García Márquez’s Spanish-language novel. The selected first edition was published in Buenos Aires, Argentina.",
+  "creator": "Iris Pagano",
+  "country": "Argentina",
+  "countries": [
+   "Argentina"
+  ],
+  "primaryOrigin": "Argentina",
+  "region": "Latin America & Caribbean",
+  "category": "Book cover",
+  "image": "images/full/book-one-hundred-years-of-solitude.png",
+  "ratio": 0.7245283018867924,
+  "alt": "A cream cover with black Spanish title and author blocks above a pale blue ship set in dense branch-like texture, with three black and yellow plant emblems along the foot.",
+  "blurb": "A blue ship sits among branches instead of open water.",
+  "notes": [
+   {
+    "title": "The displayed edition",
+    "body": "Editorial Sudamericana, Buenos Aires, May 1967. Iris Pagano’s first-edition ship cover, reproduced in Biblioteca Nacional Argentina’s exhibition catalogue; distinct from Vicente Rojo’s later 1967 design."
+   },
+   {
+    "title": "Writing and image-making",
+    "body": "The Biblioteca Nacional Argentina catalogue identifies Iris Pagano’s first-edition cover. The author and designer are separate contributors, and a later familiar cover is not substituted for this object."
+   },
+   {
+    "title": "A visible design relationship",
+    "body": "The hull’s fine blue grid contrasts with the rough surrounding texture. Three bold black and yellow forms provide a regular lower rhythm."
+   }
+  ],
+  "source": "https://www.bn.gov.ar/micrositios/admin_assets/issues/files/2de6e1eff8a222dc7a10f35882afdd6d.pdf",
+  "credit": "The Biblioteca Nacional Argentina catalogue identifies Iris Pagano’s first-edition cover. The author and designer are separate contributors, and a later familiar cover is not substituted for this object.",
+  "reproduction": "Native 384 × 530 embedded image and its soft mask extracted from the exhibition PDF (image xref 44, mask xref 43). Original margins and transparency are preserved.",
+  "anchor": [
+   0.49,
+   0.64
+  ],
+  "accent": "#73a7a8",
+  "edition": "Editorial Sudamericana, Buenos Aires, May 1967. Iris Pagano’s first-edition ship cover, reproduced in Biblioteca Nacional Argentina’s exhibition catalogue; distinct from Vicente Rojo’s later 1967 design.",
+  "imageSource": "https://www.bn.gov.ar/micrositios/admin_assets/issues/files/2de6e1eff8a222dc7a10f35882afdd6d.pdf",
+  "imageCredit": "The Biblioteca Nacional Argentina catalogue identifies Iris Pagano’s first-edition cover. The author and designer are separate contributors, and a later familiar cover is not substituted for this object.",
+  "coverPublisher": "Editorial Sudamericana",
+  "posterYear": "1967",
+  "posterTerritory": "Argentina",
+  "posterDateStatus": "The displayed edition or catalogued object date; the original work date is recorded separately.",
+  "originNote": "Country and region describe the displayed edition’s publishing context. The author and work context are recorded separately.",
+  "originSources": [
+   {
+    "title": "Displayed edition record",
+    "url": "https://www.bn.gov.ar/micrositios/admin_assets/issues/files/2de6e1eff8a222dc7a10f35882afdd6d.pdf"
+   }
+  ],
+  "creditSources": [],
+  "downloadURL": "https://www.bn.gov.ar/micrositios/admin_assets/issues/files/2de6e1eff8a222dc7a10f35882afdd6d.pdf",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-one-hundred-years-of-solitude.webp"
+ },
+ "studyData": {
+  "intro": "A finely drawn blue ship sits in rough vegetation above three bold plant emblems. This is Iris Pagano’s first-edition cover, reproduced in the Biblioteca Nacional Argentina catalogue, rather than the later Vicente Rojo design.",
+  "initial": "title",
+  "regions": [
+   {
+    "id": "ship",
+    "number": 1,
+    "label": "A blue vessel without open water",
+    "shortLabel": "The blue ship",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "A pale blue ship occupies the middle of the cover, surrounded by irregular grey and dark marks.",
+    "layerIndex": 2,
+    "x": 48.04688,
+    "y": 62.92453,
+    "bounds": {
+     "x": 23,
+     "y": 24,
+     "w": 48,
+     "h": 52
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "A pale blue ship occupies the middle of the cover, surrounded by irregular grey and dark marks. Its structure remains finer and more regular than the surrounding texture.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The unlikely setting creates a tension between a constructed vessel and an enclosing landscape. The cover invites that comparison without illustrating a single documented scene here.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What changes when a ship is pictured among branches rather than on a broad sea?",
+    "related": [
+     "hull",
+     "forest"
+    ]
+   },
+   {
+    "id": "hull",
+    "number": 2,
+    "label": "A grid describes the hull",
+    "shortLabel": "Hull structure",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Curved horizontal and upright blue lines divide the hull into many small compartments.",
+    "layerIndex": 2,
+    "x": 50.91146,
+    "y": 65,
+    "bounds": {
+     "x": 25,
+     "y": 51,
+     "w": 46,
+     "h": 25
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Curved horizontal and upright blue lines divide the hull into many small compartments. Pale paper remains visible between those lines.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The grid gives the vessel volume while preserving a light overall tone. Its regular divisions make the ship easier to distinguish from the loose surrounding marks.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the hull’s repeated structure differ from the texture behind it?",
+    "related": [
+     "masts",
+     "plants"
+    ]
+   },
+   {
+    "id": "masts",
+    "number": 3,
+    "label": "Thin lines rise into the forest",
+    "shortLabel": "Masts & rigging",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Several narrow blue mast and rigging runs extend above the hull.",
+    "layerIndex": 2,
+    "x": 47.00521,
+    "y": 40.09434,
+    "bounds": {
+     "x": 28,
+     "y": 23,
+     "w": 42,
+     "h": 34
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Several narrow blue mast and rigging runs extend above the hull. One taller slanting run on the right contrasts with the more upright centre.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The thin extensions make the ship taller without adding a heavy block of colour. They weave visually into the surrounding rough texture while keeping a different hue.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which mast is easiest to follow, and what helps it remain continuous to your eye?",
+    "related": [
+     "forest",
+     "yellow"
+    ]
+   },
+   {
+    "id": "forest",
+    "number": 4,
+    "label": "An irregular enclosure",
+    "shortLabel": "Forest texture",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Grey and dark branch-like marks fill much of the space around the ship.",
+    "layerIndex": 1,
+    "x": 80.07812,
+    "y": 45.9434,
+    "bounds": {
+     "x": 8,
+     "y": 25,
+     "w": 82,
+     "h": 52
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Grey and dark branch-like marks fill much of the space around the ship. Their density varies and pale gaps interrupt them.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The texture can feel enclosing because it surrounds the vessel on several sides. Its irregularity also lets the ship’s measured lines appear unusually deliberate.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does the rough texture become dense enough to compete with the ship?",
+    "related": [
+     "plants",
+     "title"
+    ]
+   },
+   {
+    "id": "plants",
+    "number": 5,
+    "label": "Three emblems form a lower rhythm",
+    "shortLabel": "Three plants",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Three broad black plant-like silhouettes stand along the foot of the image.",
+    "layerIndex": 3,
+    "x": 50.91146,
+    "y": 85.9434,
+    "bounds": {
+     "x": 10,
+     "y": 74,
+     "w": 79,
+     "h": 20
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Three broad black plant-like silhouettes stand along the foot of the image. Yellow inner leaves and short stems repeat within each shape.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The trio creates a regular lower rhythm beneath an irregular forest. Their bold silhouettes offer a simpler ending to a visually complicated centre.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the repeated trio change the pace of the cover’s lower edge?",
+    "related": [
+     "yellow",
+     "author"
+    ]
+   },
+   {
+    "id": "yellow",
+    "number": 6,
+    "label": "Warm interiors in dark shapes",
+    "shortLabel": "Yellow leaves",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Yellow pointed areas sit inside the three dark plant forms.",
+    "layerIndex": 3,
+    "x": 49.08854,
+    "y": 82.92453,
+    "bounds": {
+     "x": 15,
+     "y": 75,
+     "w": 67,
+     "h": 15
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Yellow pointed areas sit inside the three dark plant forms. Their narrow stripes and curved bases differ from the pale blue ship.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The warm accent gives the lower edge an independent colour emphasis. Repeating it three times makes the small yellow area feel more substantial.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would one yellow plant have the same balancing effect as three?",
+    "related": [
+     "title",
+     "publisher"
+    ]
+   },
+   {
+    "id": "title",
+    "number": 7,
+    "label": "A plain line above a strange image",
+    "shortLabel": "Spanish title",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Cien años de soledad appears in heavy dark lettering across the upper cover.",
+    "layerIndex": 4,
+    "x": 54.03646,
+    "y": 21.41509,
+    "bounds": {
+     "x": 9,
+     "y": 18,
+     "w": 80,
+     "h": 7
+    },
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Cien años de soledad appears in heavy dark lettering across the upper cover. The line is compact and sits directly above the textured image field.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The clear title provides a straightforward verbal entrance to a less straightforward picture. Its broad horizontal form contrasts with the ship’s tall extensions.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "language",
+      "heading": "A duration in the title",
+      "body": "The Spanish title names a hundred years of solitude. The translation identifies the work for English readers while the original wording and its compact line remain visible in the cover.",
+      "evidence": "observation",
+      "sources": [],
+      "originalText": "Cien años de soledad",
+      "lang": "es",
+      "translation": "One Hundred Years of Solitude"
+     }
+    ],
+    "question": "Does the plain lettering make the illustration feel more unusual?",
+    "related": [
+     "author",
+     "pale-ground"
+    ]
+   },
+   {
+    "id": "author",
+    "number": 8,
+    "label": "An author in a compact upper block",
+    "shortLabel": "García Márquez",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Gabriel García Márquez is set in a dark block above the title.",
+    "layerIndex": 5,
+    "x": 61.06771,
+    "y": 11.22642,
+    "bounds": {
+     "x": 44,
+     "y": 7,
+     "w": 45,
+     "h": 11
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Gabriel García Márquez is set in a dark block above the title. The two lines occupy the upper right beside the publisher’s smaller block.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The stacked name gives authorship substantial emphasis without requiring another colour. The nearby smaller publisher line creates a second scale of information.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "context",
+      "heading": "A Colombian work in an Argentine edition",
+      "body": "García Márquez’s novel belongs to a Colombian literary context, while this first edition was published by Sudamericana in Buenos Aires. The Biblioteca Nacional Argentina catalogue dates the pictured cover to May 1967 and credits Iris Pagano. Work origin and edition location therefore answer different questions.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "object"
+       }
+      ]
+     }
+    ],
+    "question": "What distinguishes the author’s block from the publisher’s block beside it?",
+    "related": [
+     "publisher",
+     "ship"
+    ]
+   },
+   {
+    "id": "publisher",
+    "number": 9,
+    "label": "Buenos Aires publishing context",
+    "shortLabel": "Publisher block",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Editorial Sudamericana appears in two short dark lines at the upper left.",
+    "layerIndex": 5,
+    "x": 25.91146,
+    "y": 13.49057,
+    "bounds": {
+     "x": 10,
+     "y": 9,
+     "w": 33,
+     "h": 9
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Editorial Sudamericana appears in two short dark lines at the upper left. The block aligns beside the author name rather than underneath the illustration.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "Placing the imprint near the author gives publishing identity an early place in the reading order. Its smaller size keeps the two roles distinct.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "business",
+      "heading": "The first cover is a distinct design",
+      "body": "The catalogue’s caption identifies this ship cover as the first edition, May 1967. It is kept distinct from Vicente Rojo’s later familiar cover. Selecting a particular cover means following the pictured object rather than using a book’s title alone to identify its design.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "object"
+       }
+      ]
+     }
+    ],
+    "question": "How would the reading order change if the publisher moved to the bottom?",
+    "related": [
+     "pale-ground",
+     "hull"
+    ]
+   },
+   {
+    "id": "pale-ground",
+    "number": 10,
+    "label": "The paper remains part of the image",
+    "shortLabel": "Pale ground",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Cream paper shows around the upper lettering and through the thin blue hull lines.",
+    "layerIndex": 0,
+    "x": 39.97396,
+    "y": 7.45283,
+    "bounds": {
+     "x": 9,
+     "y": 6.5,
+     "w": 78,
+     "h": 3.5
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Cream paper shows around the upper lettering and through the thin blue hull lines. The reproduction retains its photographed edge and uneven tone.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The light ground links type and illustration even where their drawing styles differ. Its visible texture also reminds us that this is a reproduced physical cover.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does paper act as background, and where does it help describe an object?",
+    "related": [
+     "ship",
+     "masts"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "object",
+    "title": "One Hundred Years of Solitude: the displayed reproduction",
+    "url": "https://www.bn.gov.ar/micrositios/admin_assets/issues/files/2de6e1eff8a222dc7a10f35882afdd6d.pdf",
+    "kind": "National library exhibition catalogue",
+    "summary": "Editorial Sudamericana, Buenos Aires, May 1967. Iris Pagano’s first-edition ship cover, reproduced in Biblioteca Nacional Argentina’s exhibition catalogue; distinct from Vicente Rojo’s later 1967 design. Native 384 × 530 embedded image and its soft mask extracted from the exhibition PDF (image xref 44, mask xref 43). Original margins and transparency are preserved."
+   }
+  ],
+  "tour": [
+   "title",
+   "ship",
+   "masts",
+   "hull",
+   "plants",
+   "author",
+   "publisher"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "Cien años de soledad",
+      "meaning": "One Hundred Years of Solitude.",
+      "lang": "es"
+     },
+     {
+      "text": "Gabriel García Márquez",
+      "meaning": "The author’s name.",
+      "lang": "es"
+     },
+     {
+      "text": "Editorial Sudamericana",
+      "meaning": "The publisher’s name.",
+      "lang": "es"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected clearly legible title and credit wording is transcribed from the displayed reproduction. Line breaks are simplified; this is not a transcription of every small mark or an identification of the typefaces.",
+  "palette": [
+   {
+    "name": "Pale paper",
+    "hex": "#E2D8BD",
+    "role": "The light ground above the lettering.",
+    "region": "pale-ground"
+   },
+   {
+    "name": "Ship blue",
+    "hex": "#88B0B2",
+    "role": "The cool linear structure of the vessel.",
+    "region": "hull"
+   },
+   {
+    "name": "Plant yellow",
+    "hex": "#D8CD61",
+    "role": "A warm inner leaf in the lower trio.",
+    "region": "yellow"
+   },
+   {
+    "name": "Forest grey",
+    "hex": "#8B8D78",
+    "role": "A midtone in the irregular surrounding texture.",
+    "region": "forest"
+   }
+  ],
+  "paletteNote": "Screen colours are sampled from this exact reproduction. Age, lighting and reproduction affect the result; these are not original printing specifications.",
+  "connections": [
+   {
+    "label": "An unlikely setting",
+    "title": "A ship among branches",
+    "text": "Rough vegetation surrounds the carefully constructed vessel instead of open water.",
+    "anchors": [
+     [
+      2,
+      0.5013020833333334,
+      0.5801886792452831
+     ],
+     [
+      1,
+      0.76171875,
+      0.43113207547169813
+     ]
+    ],
+    "id": "book-one-hundred-years-of-solitude-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Two drawing languages",
+    "title": "Fine hull, bold plants",
+    "text": "Thin blue construction lines contrast with three large black and yellow silhouettes.",
+    "anchors": [
+     [
+      2,
+      0.4596354166666667,
+      0.659433962264151
+     ],
+     [
+      3,
+      0.5013020833333334,
+      0.840566037735849
+     ]
+    ],
+    "id": "book-one-hundred-years-of-solitude-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

@@ -1,0 +1,640 @@
+{
+ "poster": {
+  "id": "book-ret-samadhi",
+  "title": "Ret Samadhi",
+  "year": "2022 (catalogued)",
+  "yearNumber": 2022,
+  "coverYear": "2022 (catalogued)",
+  "bookFirstPublication": "2018",
+  "bookAuthor": "Geetanjali Shree",
+  "bookPublisher": "Rajkamal Paperbacks",
+  "bookOrigin": "Hindi novel by Geetanjali Shree, first published in India in 2018; the displayed Rajkamal paperback is retailer-catalogued 2022.",
+  "creator": "Cover designer unverified",
+  "country": "India",
+  "countries": [
+   "India"
+  ],
+  "primaryOrigin": "India",
+  "region": "South Asia",
+  "category": "Book cover",
+  "image": "images/full/book-ret-samadhi.webp",
+  "ratio": 0.75,
+  "alt": "A dark green painted cover with a blue-faced woman behind seven red-orange plant pots, a bird and butterflies, with orange Hindi title and pale author lettering below.",
+  "blurb": "Pots form a bright horizontal stage between a small figure and large title.",
+  "source": "https://www.exoticindiaart.com/book/details/ret-smadhi-novel-nzr776/",
+  "credit": "Geetanjali Shree is the author. The cover designer is not established. The image and 2022 catalogue date come from retailer Exotic India; Rajkamal’s current record supports the original work and imprint context.",
+  "reproduction": "The reproduced object is 1500 × 2000 pixels. Physical wear, visible image texture and edges are retained; small uncertain lettering is not reconstructed.",
+  "anchor": [
+   0.55,
+   0.41
+  ],
+  "accent": "#cf592b",
+  "edition": "Retailer-catalogued 2022 Rajkamal paperback, ISBN 9789387462250, matching the displayed physical-cover photograph. Actual impression and cover-design dates are unverified; the work first appeared in 2018. This is not relabelled as the publisher’s current 2026 reprint.",
+  "imageSource": "https://www.exoticindiaart.com/book/details/ret-smadhi-novel-nzr776/",
+  "imageCredit": "Geetanjali Shree is the author. The cover designer is not established. The image and 2022 catalogue date come from retailer Exotic India; Rajkamal’s current record supports the original work and imprint context.",
+  "posterYear": "2022 (catalogued)",
+  "posterTerritory": "India",
+  "posterDateStatus": "The displayed edition or explicitly qualified catalogue date. The original work date is recorded separately.",
+  "originNote": "Country and region describe the displayed edition’s publishing context, not the nationality of the cover designer.",
+  "originSources": [
+   {
+    "title": "Displayed object record",
+    "url": "https://www.exoticindiaart.com/book/details/ret-smadhi-novel-nzr776/"
+   },
+   {
+    "title": "Rajkamal publisher record and Indian publishing context",
+    "url": "https://www.rajkamalprakashan.com/products/ret-samadhi"
+   }
+  ],
+  "notes": [
+   {
+    "title": "The displayed edition",
+    "body": "Retailer-catalogued 2022 Rajkamal paperback, ISBN 9789387462250, matching the displayed physical-cover photograph. Actual impression and cover-design dates are unverified; the work first appeared in 2018. This is not relabelled as the publisher’s current 2026 reprint."
+   },
+   {
+    "title": "Writing and image-making",
+    "body": "Geetanjali Shree is the author. The cover designer is not established. The image and 2022 catalogue date come from retailer Exotic India; Rajkamal’s current record supports the original work and imprint context."
+   },
+   {
+    "title": "A visible design relationship",
+    "body": "Pots form a bright horizontal stage between a small figure and large title."
+   }
+  ],
+  "downloadURL": "https://cdn.exoticindia.com/images/products/original/books-2019-016/nzr776.webp",
+  "creditSources": [
+   {
+    "title": "Source for the displayed object and recorded credits",
+    "url": "https://www.exoticindiaart.com/book/details/ret-smadhi-novel-nzr776/"
+   }
+  ],
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-ret-samadhi.webp"
+ },
+ "studyData": {
+  "intro": "A blue face appears behind a bright row of seven pots, while a bird and butterflies occupy the dark space above. Read the visible painted relationships first; the displayed paperback photograph is retailer-catalogued 2022, with its actual printing and design dates unverified.",
+  "initial": "face",
+  "regions": [
+   {
+    "id": "bird",
+    "label": "Outlined bird",
+    "shortLabel": "Outlined bird",
+    "kicker": "A THIN WARM CONTOUR",
+    "summary": "A small profile faces into the upper field.",
+    "x": 14.03333,
+    "y": 20.025,
+    "bounds": {
+     "x": 2,
+     "y": 14,
+     "w": 23,
+     "h": 13
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A thin warm contour",
+      "body": "The bird is described largely by a warm outline around a dark interior. Its beak, body and small feet are visible against the green setting, making it a much lighter kind of shape than the solid orange containers below.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A presence without heavy mass",
+      "body": "Because the interior remains dark, the bird occupies little bright area despite its recognizable outline. It balances the more solid butterfly forms to the right without filling the upper field with another large painted block.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does an outlined animal differ in visual weight from a filled butterfly?",
+    "related": [
+     "butterflies",
+     "stick"
+    ],
+    "layerIndex": 4,
+    "number": 1
+   },
+   {
+    "id": "stick",
+    "label": "Raised diagonal stick",
+    "shortLabel": "Raised diagonal stick",
+    "kicker": "A LINE THAT CHANGES DIRECTION",
+    "summary": "A narrow line connects the hand with upper space.",
+    "x": 28.96667,
+    "y": 30.475,
+    "bounds": {
+     "x": 21,
+     "y": 23,
+     "w": 17,
+     "h": 17
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A line that changes direction",
+      "body": "A slender warm stick rises diagonally from the woman’s raised hand. Its slight bends distinguish it from a perfectly straight rule, and its narrowness lets it cross the dark setting without dividing the whole cover into separate halves.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An extended gesture",
+      "body": "The stick carries the figure’s gesture beyond the small face and torso. It gives the upper space a directional relationship to the woman, while leaving the exact action or story moment open rather than identifying an unsupported scene.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does your eye travel when you follow the stick from the hand upward?",
+    "related": [
+     "face",
+     "bird"
+    ],
+    "layerIndex": 1,
+    "number": 2
+   },
+   {
+    "id": "face",
+    "label": "Blue face and spectacles",
+    "shortLabel": "Blue face and spectacles",
+    "kicker": "BLUE WITHIN A GREEN SETTING",
+    "summary": "A cool small head sits above warm pots.",
+    "x": 55.03333,
+    "y": 41.025,
+    "bounds": {
+     "x": 49,
+     "y": 35,
+     "w": 14,
+     "h": 9
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Blue within a green setting",
+      "body": "The face uses blue and turquoise tones, with dark spectacles and lighter facial marks. It is small compared with the row of containers, but its recognizable features and cooler colour make it a clear focal point.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A figure partly concealed",
+      "body": "Only the upper figure is visible behind the pots and plants. That partial concealment can make the face feel as though it emerges from the setting, but it does not justify inventing the hidden body or a complete pose.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What makes the small face compete successfully with the much larger orange pots?",
+    "related": [
+     "hair",
+     "pots"
+    ],
+    "layerIndex": 1,
+    "number": 3
+   },
+   {
+    "id": "hair",
+    "label": "Loose pale hair",
+    "shortLabel": "Loose pale hair",
+    "kicker": "UNEVEN STRANDS AROUND THE CROWN",
+    "summary": "Fine curls soften the head’s boundary.",
+    "x": 56.03333,
+    "y": 37.025,
+    "bounds": {
+     "x": 48,
+     "y": 34,
+     "w": 16,
+     "h": 8
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Uneven strands around the crown",
+      "body": "Pale green-white hair curls extend around the head in several directions. Their thin, irregular strokes contrast with the darker face and spectacles, making the outline feel loose rather than like a solid cap.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A different kind of brightness",
+      "body": "The hair is bright in many small fragments, while the pots are bright in broad continuous areas. Comparing them shows how a small amount of pale line can attract attention without needing the same area as a large saturated shape.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which strands are clearly visible, and where does the hair blend into the dark setting?",
+    "related": [
+     "face",
+     "setting"
+    ],
+    "layerIndex": 1,
+    "number": 4
+   },
+   {
+    "id": "small-plants",
+    "label": "Small flowers and stems",
+    "shortLabel": "Small flowers and stems",
+    "kicker": "SEVERAL LOCAL RHYTHMS",
+    "summary": "Different plants rise from the lower containers.",
+    "x": 32.1,
+    "y": 45.575,
+    "bounds": {
+     "x": 6,
+     "y": 39,
+     "w": 55,
+     "h": 11
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Several local rhythms",
+      "body": "The plants above the smaller pots vary: long leaves at the left, scattered pink and orange blooms nearby, and darker low foliage farther right. Their differences interrupt the regular container row and make each small grouping worth examining.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Repetition without identical contents",
+      "body": "The pots establish a repeated structure, but their contents do not repeat mechanically. That difference keeps the row lively: the viewer can recognize a common format while comparing distinct silhouettes, heights and small colours.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which plant most clearly breaks the rhythm established by its neighbours?",
+    "related": [
+     "pots",
+     "tall-plants"
+    ],
+    "layerIndex": 2,
+    "number": 5
+   },
+   {
+    "id": "pots",
+    "label": "Seven orange-red pots",
+    "shortLabel": "Seven orange-red pots",
+    "kicker": "A LINE OF CHANGING HEIGHTS",
+    "summary": "A bright horizontal row holds the cover together.",
+    "x": 45.03333,
+    "y": 52.025,
+    "bounds": {
+     "x": 6,
+     "y": 43,
+     "w": 80,
+     "h": 13
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A line of changing heights",
+      "body": "Seven visible containers form a row in front of the figure. The first several are relatively low, while the two at the right are taller. Dark curved rims and shaded sides give each container volume without making them identical.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A stage between image and words",
+      "body": "The row sits between the upper figure and the large lower title. Its warm colour and horizontal direction create a strong middle anchor, helping the composition remain organised even though the surrounding painting is dark and varied.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does the rising height at the right make the row feel stable or in motion?",
+    "related": [
+     "face",
+     "title"
+    ],
+    "layerIndex": 2,
+    "number": 6
+   },
+   {
+    "id": "tall-plants",
+    "label": "Tall right-hand leaves",
+    "shortLabel": "Tall right-hand leaves",
+    "kicker": "VISIBLE FORMS INSIDE A DARK AREA",
+    "summary": "Dark leaves extend above the tallest containers.",
+    "x": 77.03333,
+    "y": 40.025,
+    "bounds": {
+     "x": 61,
+     "y": 29,
+     "w": 25,
+     "h": 16
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible forms inside a dark area",
+      "body": "Long green leaves rise from the right-hand pots, with orange flowers near and above them. Some leaf edges are clear against the darker setting, while others merge softly; the plants are more than isolated bright flower flecks.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Soft boundaries remain interpretive",
+      "body": "The dark plant margins and the woman’s green garment partly blend into the setting. Their most visible shapes are retained in the layer study, while ambiguous painted edges remain a qualified analytical division rather than an exact botanical outline.",
+      "evidence": "uncertain"
+     }
+    ],
+    "question": "Where can you follow a leaf’s full edge, and where does colour cease to distinguish it from the setting?",
+    "related": [
+     "small-plants",
+     "setting"
+    ],
+    "layerIndex": 2,
+    "number": 7
+   },
+   {
+    "id": "butterflies",
+    "label": "Orange butterfly forms",
+    "shortLabel": "Orange butterfly forms",
+    "kicker": "ONE LARGE FORM AND SMALLER COMPANIONS",
+    "summary": "Warm winged shapes occupy the upper right.",
+    "x": 87.03333,
+    "y": 20.025,
+    "bounds": {
+     "x": 53,
+     "y": 7,
+     "w": 45,
+     "h": 25
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "One large form and smaller companions",
+      "body": "The largest butterfly-like form has broad orange wings and dark internal marks. Smaller warm forms appear nearby and toward the centre, distributing the same colour at different scales through the upper field.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A scattered answer to the row",
+      "body": "The winged forms are dispersed rather than aligned like the pots. Their shared warm colour connects the two areas, while their spacing and changing orientation keep the upper half from repeating the lower row’s order.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What changes if you imagine all the butterflies arranged in a straight line like the pots?",
+    "related": [
+     "bird",
+     "pots"
+    ],
+    "layerIndex": 3,
+    "number": 8
+   },
+   {
+    "id": "title",
+    "label": "Orange Hindi title",
+    "shortLabel": "Orange Hindi title",
+    "kicker": "RET SAMADHI",
+    "summary": "Large warm letters occupy the lower right.",
+    "x": 68.63333,
+    "y": 80.025,
+    "bounds": {
+     "x": 39,
+     "y": 74,
+     "w": 58,
+     "h": 12
+    },
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Ret Samadhi",
+      "body": "The visible title is रेत-समाधि, transliterated Ret Samadhi. It is set apart from the picture by its size and position, and its orange colour echoes the containers and winged forms above. The English translation’s title is not printed here.",
+      "evidence": "observation",
+      "originalText": "रेत-समाधि",
+      "lang": "hi"
+     },
+     {
+      "kind": "context",
+      "heading": "Work date and photograph date",
+      "body": "Rajkamal’s current record identifies the work’s first publication as 2018 and a later 2026 reprint. The displayed photograph matches a retailer record catalogued 2022; its actual impression and cover-design dates remain unverified rather than being silently inferred from either date.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "publisher"
+       },
+       {
+        "id": "cover"
+       }
+      ]
+     }
+    ],
+    "question": "How does the title’s orange connect a reading area to the painted objects above?",
+    "related": [
+     "pots",
+     "author"
+    ],
+    "layerIndex": 5,
+    "number": 9
+   },
+   {
+    "id": "author",
+    "label": "Pale author name",
+    "shortLabel": "Pale author name",
+    "kicker": "GEETANJALI SHREE",
+    "summary": "A lighter line finishes the lower wording.",
+    "x": 75.03333,
+    "y": 91.025,
+    "bounds": {
+     "x": 53,
+     "y": 86,
+     "w": 43,
+     "h": 8
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Geetanjali Shree",
+      "body": "गीतांजलि श्री names the author. The pale line sits below the orange title and is smaller, creating a two-step verbal ending. Its lighter colour gives it a distinct role without introducing another large coloured panel.",
+      "evidence": "observation",
+      "originalText": "गीतांजलि श्री",
+      "lang": "hi"
+     },
+     {
+      "kind": "design",
+      "heading": "Two kinds of contrast",
+      "body": "The title stands out through warm saturation, while the author line stands out through brightness against the dark ground. The two lines therefore remain related by position but use different contrasts to stay readable.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Which line would be easier to find in a small thumbnail, and why?",
+    "related": [
+     "title",
+     "imprint"
+    ],
+    "layerIndex": 6,
+    "number": 10
+   },
+   {
+    "id": "imprint",
+    "label": "Small lower emblem",
+    "shortLabel": "Small lower emblem",
+    "kicker": "A COMPACT MARK NEAR THE CORNER",
+    "summary": "A warm circular mark balances the lower words.",
+    "x": 12.03333,
+    "y": 93.025,
+    "bounds": {
+     "x": 7,
+     "y": 89,
+     "w": 10,
+     "h": 7
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A compact mark near the corner",
+      "body": "The small red-orange emblem sits near the lower-left corner, separated from the title and author at the right. Its circular boundary and pale internal detail make it recognizable as a distinct printed mark without dominating the cover.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A particular paperback identity",
+      "body": "The matching retailer record identifies a Rajkamal paperback with ISBN 9789387462250, while the current publisher record confirms the imprint and Hindi edition context. These details help identify the object without claiming that the retailer’s date proves the artwork’s first design date.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cover"
+       },
+       {
+        "id": "publisher"
+       }
+      ]
+     }
+    ],
+    "question": "How does the emblem balance the lower-right wording despite its much smaller size?",
+    "related": [
+     "author",
+     "setting"
+    ],
+    "layerIndex": 6,
+    "number": 11
+   },
+   {
+    "id": "setting",
+    "label": "Dark painted setting",
+    "shortLabel": "Dark painted setting",
+    "kicker": "DARK DOES NOT MEAN EMPTY",
+    "summary": "Texture remains visible between the major forms.",
+    "x": 67.03333,
+    "y": 65.025,
+    "bounds": {
+     "x": 8,
+     "y": 56,
+     "w": 83,
+     "h": 18
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Dark does not mean empty",
+      "body": "The lower middle contains mottled greens, blue areas and darker shapes rather than a completely flat black field. The texture is subdued enough to leave the pots and title prominent, but it rewards looking beyond the brightest forms.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A place for ambiguity",
+      "body": "The setting does not define a fully measurable room or landscape. Its soft transitions allow the figure and plants to emerge without enclosing every form, so uncertainty at some edges is part of the visible painting rather than missing information to invent.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which details emerge only after your eyes adjust to the darker areas?",
+    "related": [
+     "hair",
+     "tall-plants"
+    ],
+    "layerIndex": 0,
+    "number": 12
+   }
+  ],
+  "sources": [
+   {
+    "id": "cover",
+    "title": "The displayed cover",
+    "url": "https://www.exoticindiaart.com/book/details/ret-smadhi-novel-nzr776/",
+    "kind": "Visual and edition source",
+    "summary": "Retailer-catalogued 2022 Rajkamal paperback, ISBN 9789387462250, matching the displayed physical-cover photograph. Actual impression and cover-design dates are unverified; the work first appeared in 2018. This is not relabelled as the publisher’s current 2026 reprint."
+   },
+   {
+    "id": "publisher",
+    "title": "Rajkamal: Ret-Samadhi",
+    "url": "https://www.rajkamalprakashan.com/products/ret-samadhi",
+    "kind": "Publisher record",
+    "summary": "Identifies Geetanjali Shree, Hindi, the Rajkamal paperback ISBN, first publication in 2018 and current reprint in 2026. It does not independently date the physical-cover photograph displayed here."
+   }
+  ],
+  "tour": [
+   "face",
+   "pots",
+   "small-plants",
+   "tall-plants",
+   "butterflies",
+   "title",
+   "author"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected cover wording",
+    "rows": [
+     {
+      "text": "रेत-समाधि",
+      "meaning": "Ret Samadhi — title",
+      "lang": "hi"
+     },
+     {
+      "text": "गीतांजलि श्री",
+      "meaning": "Geetanjali Shree — author",
+      "lang": "hi"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected clearly legible cover wording. Line breaks and casing may be regularized. Small uncertain print is omitted rather than guessed.",
+  "palette": [
+   {
+    "name": "Orange pot",
+    "hex": "#DE330D",
+    "role": "The warm middle row.",
+    "region": "pots"
+   },
+   {
+    "name": "Blue face",
+    "hex": "#004265",
+    "role": "A cool focal point above the containers.",
+    "region": "face"
+   },
+   {
+    "name": "Pale author",
+    "hex": "#E7E5D8",
+    "role": "The light author-name strokes.",
+    "region": "author"
+   },
+   {
+    "name": "Dark green setting",
+    "hex": "#071213",
+    "role": "The subdued lower painted field.",
+    "region": "setting"
+   }
+  ],
+  "paletteNote": "Samples come from individual pixels in this reproduction. They describe its visible colour, not original printing inks or an exact historical colour standard."
+ }
+}

@@ -1,0 +1,686 @@
+{
+ "poster": {
+  "id": "battleship-potemkin",
+  "title": "Battleship Potemkin",
+  "year": "1925",
+  "yearNumber": 1925,
+  "country": "Soviet Union",
+  "region": "Europe",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Sergei Eisenstein",
+  "edition": "Soviet release poster in Russian; source catalogue dates it to 1925",
+  "alt": "An orange and dark blue Russian Battleship Potemkin poster showing a ship’s bridge from below, a tall mast, signal flags, cheering figures and Cyrillic lettering.",
+  "blurb": "A ship’s bridge becomes a stage for a crowd, with lettering as forceful as its machinery.",
+  "notes": [
+   {
+    "title": "Looking up through the ship",
+    "body": "The rounded bridge rises above the lower crowd, and the mast runs almost to the top edge. This low viewpoint makes the vessel feel monumental."
+   },
+   {
+    "title": "A crowd made from gestures",
+    "body": "Small silhouettes raise their arms around the bridge and rigging. Their repeated diagonal gestures animate the ship’s rigid structure."
+   },
+   {
+    "title": "Colour replaces atmosphere",
+    "body": "Flat orange surrounds the blue-black ship instead of a naturalistic sea and sky. The strong colour split lets silhouette and Cyrillic type carry the drama."
+   }
+  ],
+  "source": "https://www.bfi.org.uk/bfi-film-releases/battleship-potemkin",
+  "imageCredit": "Historical Soviet poster; artist uncredited in the consulted image source. Reproduction via Wikimedia Commons; consult the source record for rights.",
+  "anchor": [
+   0.5,
+   0.48
+  ],
+  "accent": "#c56222",
+  "category": "Film",
+  "image": "images/full/battleship-potemkin.jpg",
+  "imageSource": "https://en.wikipedia.org/wiki/File:Vintage_Potemkin.jpg",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/8/85/Vintage_Potemkin.jpg",
+  "ratio": 0.708,
+  "imageWidth": 708,
+  "imageHeight": 1000,
+  "credit": "Historical Soviet poster; artist uncredited in the consulted image source. Reproduction via Wikimedia Commons; consult the source record for rights.",
+  "countries": [
+   "Soviet Union"
+  ],
+  "primaryOrigin": "Soviet Union",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/battleship-potemkin.webp"
+ },
+ "studyData": {
+  "intro": "The ship, crowd and lettering rise through the same crowded space. Read the sheet as a historical film advertisement: distinguish its release-week notice, the story’s 1905 date and the film’s documented 1925 date.",
+  "initial": "ship",
+  "regions": [
+   {
+    "id": "ship",
+    "label": "The dark ship structure",
+    "shortLabel": "The dark ship structure",
+    "kicker": "DESIGN",
+    "summary": "A heavy vessel gives the crowd several levels to occupy.",
+    "layerIndex": 1,
+    "bounds": {
+     "x": 18,
+     "y": 14,
+     "w": 52,
+     "h": 64
+    },
+    "x": 44,
+    "y": 62,
+    "question": "Which curves make the ship feel solid despite the flat colours?",
+    "related": [
+     "upper-crowd",
+     "lower-crowd",
+     "rigging"
+    ],
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A vessel built from stacked curves",
+      "body": "The ship is simplified into dark masses, curved deck edges and a tall central structure. Pale outlines distinguish the levels rather than modelling them with detailed shading. This gives the vessel a strong silhouette while leaving room for the numerous small figures around its edges.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "The film’s historical subject",
+      "body": "BFI identifies Sergei Eisenstein’s film as a 1925 work about a naval mutiny in 1905. Those are two different dates: one for the film, one for the event it depicts. This source supports that distinction but does not independently date this particular advertisement’s printing.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "bfi"
+       }
+      ]
+     }
+    ],
+    "number": 1
+   },
+   {
+    "id": "rigging",
+    "label": "The thin mast and rigging",
+    "shortLabel": "The thin mast and rigging",
+    "kicker": "DESIGN",
+    "summary": "Slender lines pull the composition upward.",
+    "layerIndex": 1,
+    "bounds": {
+     "x": 26,
+     "y": 1,
+     "w": 32,
+     "h": 48
+    },
+    "x": 34,
+    "y": 17,
+    "question": "Compare the mast’s direction with the crowd’s raised arms.",
+    "related": [
+     "ship",
+     "flags",
+     "top-number"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Height through narrow lines",
+      "body": "The mast approaches the top edge, while fine rigging lines run beside the darker structure. They use very little area but extend the ship’s presence through nearly the full height of the upper image. Their thinness contrasts with the huge printed numeral and broad deck below.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Several upward cues",
+      "body": "The mast, rigging and raised arms all direct attention upward, though they do so with different kinds of shape. Their alignment can make the composition feel energetic and collective. That is a visual reading of the arrangement, not evidence that every depicted gesture has one historical meaning.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 2
+   },
+   {
+    "id": "flags",
+    "label": "The upper signal flags",
+    "shortLabel": "The upper signal flags",
+    "kicker": "DESIGN",
+    "summary": "Bright irregular shapes interrupt the orange and black.",
+    "layerIndex": 2,
+    "bounds": {
+     "x": 9,
+     "y": 14,
+     "w": 39,
+     "h": 27
+    },
+    "x": 24,
+    "y": 25,
+    "question": "Follow the outer edge of a flag: where does it turn sharply?",
+    "related": [
+     "lower-flag",
+     "rigging",
+     "field"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A different kind of movement",
+      "body": "The flags have irregular, fluttering outlines rather than the ship’s stable curves. White, gray and dark blue areas make them conspicuous against the orange field. Their diagonals cross the mast’s vertical direction, introducing lateral movement into an otherwise strongly rising structure.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Do not invent a decoded message",
+      "body": "The shapes can be examined as signal flags, but this study does not assign them a particular coded message. An accurate decoding would need secure identification of every flag and its historical convention. Here their visible contribution is contrast, rhythm and an impression of cloth in motion.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 3
+   },
+   {
+    "id": "lower-flag",
+    "label": "The broad checked flag",
+    "shortLabel": "The broad checked flag",
+    "kicker": "DESIGN",
+    "summary": "A large light-dark patch stands beside the lower structure.",
+    "layerIndex": 2,
+    "bounds": {
+     "x": 0,
+     "y": 43,
+     "w": 28,
+     "h": 15
+    },
+    "x": 13,
+    "y": 49,
+    "question": "How does this flag differ from the more fragmented flags above?",
+    "related": [
+     "flags",
+     "upper-crowd",
+     "ship"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A simpler pattern at a lower level",
+      "body": "The lower-left flag has large alternating light and dark areas, making its pattern easier to grasp than the overlapping flags above. Its outer edge remains irregular, so the geometric pattern still reads as attached to a flexible surface rather than a rigid sign.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An interruption in the ascent",
+      "body": "This broad patch draws attention sideways just as the ship and crowd lead upward. It prevents the left edge from becoming only orange space beside a dark vertical mass. Compare its size with the small human silhouettes immediately below and to the right.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 4
+   },
+   {
+    "id": "upper-crowd",
+    "label": "Figures on the upper deck",
+    "shortLabel": "Figures on the upper deck",
+    "kicker": "DESIGN",
+    "summary": "Small raised arms repeat across the curved deck.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 26,
+     "y": 43,
+     "w": 54,
+     "h": 18
+    },
+    "x": 55,
+    "y": 53,
+    "question": "Which gestures are still recognisable without faces?",
+    "related": [
+     "lower-crowd",
+     "rigging",
+     "ship"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Gesture without portrait detail",
+      "body": "The figures are simplified dark-blue silhouettes with raised arms and angled bodies. Their faces are not individually described. Position and gesture therefore do the work of differentiation, while the repeated colour holds them together as a group on the deck.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A collective visual rhythm",
+      "body": "Repeated raised limbs create a jagged upper edge against the orange field. The rhythm can suggest collective action, but it does not tell us the private motives of the people represented. The political subject should be approached through documented context and visible organisation, not assumed emotional unanimity.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 5
+   },
+   {
+    "id": "lower-crowd",
+    "label": "The crowd around the hull",
+    "shortLabel": "The crowd around the hull",
+    "kicker": "DESIGN",
+    "summary": "A dense foreground row joins human scale to the title.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 21,
+     "y": 69,
+     "w": 77,
+     "h": 13
+    },
+    "x": 67,
+    "y": 76,
+    "question": "Where do individual bodies become hardest to separate?",
+    "related": [
+     "upper-crowd",
+     "title",
+     "ship"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A compressed band of bodies",
+      "body": "Along the lower edge of the ship, figures overlap more tightly and are outlined against the dark vessel. Their small heads and irregular arms make a busy band directly above the title. The shift in density brings the human activity close to the sheet’s main verbal identity.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Many figures, one boundary",
+      "body": "The crowd is not a row of evenly framed portraits. Bodies merge and separate along a shared curved edge, so the group reads before every individual does. Compare this treatment with the upper deck, where more orange space separates the gestures.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 6
+   },
+   {
+    "id": "title",
+    "label": "The ship type in large letters",
+    "shortLabel": "The ship type in large letters",
+    "kicker": "LANGUAGE",
+    "summary": "Pale block letters follow the hull’s broad curve.",
+    "layerIndex": 5,
+    "bounds": {
+     "x": 18,
+     "y": 76,
+     "w": 70,
+     "h": 14
+    },
+    "x": 48,
+    "y": 82,
+    "question": "Which letter edges are outlined, and what do those outlines add?",
+    "related": [
+     "name",
+     "story-date",
+     "lower-crowd"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Naming the vessel type",
+      "body": "“БРОНЕНОСЕЦ” means battleship. The pale block letters are enclosed by darker and warm outlines, making the word stand out against the black hull-like band. The title’s lettering follows the vessel’s broad curve, so writing and pictured structure occupy the same visual foundation.",
+      "evidence": "observation",
+      "originalText": "БРОНЕНОСЕЦ",
+      "lang": "ru",
+      "reading": "Bronenosets",
+      "translation": "Battleship"
+     },
+     {
+      "kind": "design",
+      "heading": "Letters with apparent depth",
+      "body": "Multiple borders around the pale letter faces suggest thickness without building a fully realistic three-dimensional word. The repeated straight strokes are much more regular than the crowd above. That contrast lets the title remain legible despite the image’s density.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 7
+   },
+   {
+    "id": "name",
+    "label": "The Potemkin name",
+    "shortLabel": "The Potemkin name",
+    "kicker": "LANGUAGE",
+    "summary": "A second enormous word fills the base.",
+    "layerIndex": 5,
+    "bounds": {
+     "x": 3,
+     "y": 85,
+     "w": 74,
+     "h": 13
+    },
+    "x": 39.463,
+    "y": 92.993,
+    "question": "How does the lower word differ in angle from the line above?",
+    "related": [
+     "title",
+     "story-date",
+     "top-number"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A proper name at the bottom",
+      "body": "“ПОТЕМКИН” is the ship’s name, conventionally written Potemkin in English. It is larger than much of the release information at the top. Separating the ship type from the proper name helps a reader unfamiliar with Russian understand how the two title lines work together.",
+      "evidence": "observation",
+      "originalText": "ПОТЕМКИН",
+      "lang": "ru",
+      "reading": "Potemkin",
+      "translation": "Potemkin — ship name"
+     },
+     {
+      "kind": "design",
+      "heading": "The final visual weight",
+      "body": "The lower word uses huge pale letters and a relatively steady baseline. It closes the composition beneath the curved upper title and active crowd. The dark surrounding band gives those letters a strong light-dark contrast, making the bottom an anchor rather than a fading conclusion.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 8
+   },
+   {
+    "id": "story-date",
+    "label": "The printed 1905 date",
+    "shortLabel": "The printed 1905 date",
+    "kicker": "CONTEXT",
+    "summary": "A small year belongs beside the title, not to the print’s dating.",
+    "layerIndex": 5,
+    "bounds": {
+     "x": 79,
+     "y": 92,
+     "w": 19,
+     "h": 6
+    },
+    "x": 89,
+    "y": 95,
+    "question": "Which other numerals appear on the poster, and do they perform the same job?",
+    "related": [
+     "name",
+     "top-number",
+     "venue"
+    ],
+    "tags": [
+     "context",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "context",
+      "heading": "Event date and film date",
+      "body": "The lower corner prints “1905 г.” BFI’s account identifies 1905 as the year of the mutiny depicted by the 1925 film. The printed year therefore should not be mistaken for the poster’s creation date. The exact date of this particular campaign sheet is still not independently established.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "bfi"
+       }
+      ]
+     },
+     {
+      "kind": "design",
+      "heading": "A compact historical cue",
+      "body": "The year sits beside the enormous ship name, in a much smaller pale block. Its location links it visually to the title rather than to the top release-week notice. Typography and placement help separate two different kinds of numerical information even before the wording is translated.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 9
+   },
+   {
+    "id": "top-number",
+    "label": "The third-week notice",
+    "shortLabel": "The third-week notice",
+    "kicker": "LANGUAGE",
+    "summary": "A huge numeral makes campaign timing a headline.",
+    "layerIndex": 4,
+    "bounds": {
+     "x": 12,
+     "y": 3,
+     "w": 85,
+     "h": 16
+    },
+    "x": 23,
+    "y": 10,
+    "question": "Why might a release-week claim be larger than a venue’s address?",
+    "related": [
+     "venue",
+     "story-date",
+     "rigging"
+    ],
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A week, not a year",
+      "body": "The top reads “3 НЕДЕЛЯ,” indicating the third week. The large 3 and broad word are campaign information rather than part of the film title. This is a useful reminder that an old film poster may advertise a particular moment in a run, not only the work in general.",
+      "evidence": "observation",
+      "originalText": "3 НЕДЕЛЯ",
+      "lang": "ru",
+      "translation": "Third week"
+     },
+     {
+      "kind": "business",
+      "heading": "Continued exhibition is foregrounded",
+      "body": "The week notice occupies unusually prominent space, competing with the mast and flags. Its size suggests that the continuation of the run was useful information to this advertisement. The notice alone does not supply attendance figures or prove the scale of the film’s commercial success.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 10
+   },
+   {
+    "id": "venue",
+    "label": "The cinema information block",
+    "shortLabel": "The cinema information block",
+    "kicker": "BUSINESS",
+    "summary": "Large venue lettering leads into much smaller practical details.",
+    "layerIndex": 4,
+    "bounds": {
+     "x": 56,
+     "y": 14,
+     "w": 42,
+     "h": 25
+    },
+    "x": 79,
+    "y": 32,
+    "question": "How many scales of type can you distinguish within this block?",
+    "related": [
+     "top-number",
+     "field",
+     "name"
+    ],
+    "tags": [
+     "business",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "A practical destination for attention",
+      "body": "The right-hand block includes large cinema-identifying lettering with smaller lines underneath for the venue and address. This makes the sheet more specific than a general commemorative image. It provides a place-related reading task after the large campaign claim and pictorial action have attracted attention.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "Partial reading is more reliable",
+      "body": "The word “ГОСКИНО” is clear, while the smaller lines require more care. The study does not turn this limited transcript into a complete cinema-management history or reconstruct an opening date. Keeping the secure large wording separate from finer details preserves what this scan actually supports.",
+      "evidence": "observation",
+      "originalText": "ГОСКИНО",
+      "lang": "ru",
+      "reading": "Goskino",
+      "translation": "Goskino — institutional name"
+     }
+    ],
+    "number": 11
+   },
+   {
+    "id": "field",
+    "label": "The orange space at right",
+    "shortLabel": "The orange space at right",
+    "kicker": "DESIGN",
+    "summary": "An open warm area makes silhouettes and text readable.",
+    "layerIndex": 0,
+    "bounds": {
+     "x": 60,
+     "y": 40,
+     "w": 37,
+     "h": 23
+    },
+    "x": 84,
+    "y": 49,
+    "question": "Compare this open patch with the dense lower title area.",
+    "related": [
+     "flags",
+     "venue",
+     "upper-crowd"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An interval inside a crowded page",
+      "body": "The orange area at middle right contains relatively little detail. It gives the flags, arms and cinema lettering distinct edges, while preventing the whole page from becoming equally dense. The open field is therefore essential to reading the surrounding dark and pale structures.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A limited colour system",
+      "body": "The image relies mainly on orange, near-black, dark blue and pale flag or letter areas. Different tones are assigned to structures, figures and text, although the separation is not absolute. This limited palette keeps a crowded historical scene closer to a graphic arrangement than a naturalistic panorama.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 12
+   }
+  ],
+  "sources": [
+   {
+    "id": "bfi",
+    "title": "BFI: Battleship Potemkin",
+    "url": "https://www.bfi.org.uk/bfi-film-releases/battleship-potemkin",
+    "kind": "Film institute release record",
+    "summary": "Identifies Eisenstein’s 1925 film and the 1905 naval mutiny it depicts; does not attribute or date this particular Russian campaign poster."
+   }
+  ],
+  "tour": [
+   "top-number",
+   "ship",
+   "upper-crowd",
+   "flags",
+   "title",
+   "story-date",
+   "venue"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "3 НЕДЕЛЯ",
+      "meaning": "Third week",
+      "lang": "ru"
+     },
+     {
+      "text": "ГОСКИНО",
+      "meaning": "Goskino — institutional name",
+      "lang": "ru"
+     },
+     {
+      "text": "БРОНЕНОСЕЦ ПОТЕМКИН",
+      "meaning": "Battleship Potemkin",
+      "lang": "ru"
+     },
+     {
+      "text": "1905 г.",
+      "meaning": "The year 1905",
+      "lang": "ru"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected large Russian wording is transcribed. The finer address, telephone and cinema lines are not expanded into a complete campaign history. 1905 is the depicted event’s year; 1925 is the film year; this sheet’s exact printing date and artist remain unverified. Signal flags are not decoded.",
+  "palette": [
+   {
+    "name": "Orange field",
+    "hex": "#ec9538",
+    "role": "Open contrast behind dark shapes",
+    "region": "field"
+   },
+   {
+    "name": "Ship black",
+    "hex": "#160910",
+    "role": "Vessel structure",
+    "region": "ship"
+   },
+   {
+    "name": "Crowd blue",
+    "hex": "#0f0d4c",
+    "role": "Repeated human silhouettes",
+    "region": "upper-crowd"
+   },
+   {
+    "name": "Flag pale",
+    "hex": "#eaede6",
+    "role": "Bright interruption",
+    "region": "flags"
+   },
+   {
+    "name": "Title pale",
+    "hex": "#ebead5",
+    "role": "Large lower lettering",
+    "region": "name"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels of the installed reproduction; these are not original ink or paper specifications.",
+  "connections": [
+   {
+    "label": "Upward energy",
+    "title": "Small figures, monumental ship",
+    "text": "The raised arms repeat the upward thrust of the mast while their scale makes the bridge appear immense.",
+    "anchors": [
+     [
+      3,
+      0.643361581920904,
+      0.7145
+     ],
+     [
+      1,
+      0.4498587570621469,
+      0.3905
+     ]
+    ],
+    "id": "battleship-potemkin-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Bright interruptions",
+    "title": "Flags and lettering cut through the dark",
+    "text": "Pale flag shapes above and large pale letters below punctuate the blue-black mass of the ship.",
+    "anchors": [
+     [
+      2,
+      0.2196327683615819,
+      0.3505
+     ],
+     [
+      5,
+      0.4399717514124294,
+      0.8605
+     ]
+    ],
+    "id": "battleship-potemkin-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

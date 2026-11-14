@@ -1,0 +1,611 @@
+{
+ "poster": {
+  "id": "book-catcher-in-the-rye",
+  "title": "The Catcher in the Rye",
+  "year": "1951",
+  "yearNumber": 1951,
+  "coverYear": "1951",
+  "bookFirstPublication": "1951",
+  "bookAuthor": "J.D. Salinger",
+  "bookPublisher": "Little, Brown and Company",
+  "bookOrigin": "American English-language novel by J.D. Salinger, first published in Boston in 1951.",
+  "creator": "E. Michael Mitchell",
+  "country": "United States",
+  "countries": [
+   "United States"
+  ],
+  "primaryOrigin": "United States",
+  "region": "North America",
+  "category": "Book cover",
+  "image": "images/full/book-catcher-in-the-rye.png",
+  "ratio": 0.6726530612244898,
+  "alt": "A red carousel horse with a bowed head at the right, flowing black tail at the upper left, and a thin pole dominates a tiny black city drawing; yellow title words fill the red upper field and black author lettering anchors the cream lower edge.",
+  "blurb": "An immense carousel horse turns a small city into a fragile background.",
+  "notes": [
+   {
+    "title": "The displayed edition",
+    "body": "Little, Brown and Company, Boston, 1951. Front-panel crop of a first-edition jacket scan. The repository describes uploader retouching; the full downloaded source is retained."
+   },
+   {
+    "title": "Writing and image-making",
+    "body": "The Morgan Library & Museum credits the jacket design to E. Michael Mitchell. J.D. Salinger is the novelist; the Wikimedia file supplies the installed reproduction."
+   },
+   {
+    "title": "A visible design relationship",
+    "body": "The horse’s flowing curves compete with straight title letters. Fine city marks require a closer look beneath the much broader red silhouette."
+   }
+  ],
+  "source": "https://commons.wikimedia.org/wiki/File:The_Catcher_in_the_Rye_(1951,_first_edition_dust_jacket).jpg",
+  "credit": "The Morgan Library & Museum credits the jacket design to E. Michael Mitchell. J.D. Salinger is the novelist; the Wikimedia file supplies the installed reproduction.",
+  "reproduction": "Front panel cropped (1586,0)–(2410,1225) from the full jacket scan, 824 × 1225. The source repository’s retouching disclosure is retained.",
+  "anchor": [
+   0.6,
+   0.52
+  ],
+  "accent": "#b42619",
+  "edition": "Little, Brown and Company, Boston, 1951. Front-panel crop of a first-edition jacket scan. The repository describes uploader retouching; the full downloaded source is retained.",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:The_Catcher_in_the_Rye_(1951,_first_edition_dust_jacket).jpg",
+  "imageCredit": "The Morgan Library & Museum credits the jacket design to E. Michael Mitchell. J.D. Salinger is the novelist; the Wikimedia file supplies the installed reproduction.",
+  "coverPublisher": "Little, Brown and Company",
+  "posterYear": "1951",
+  "posterTerritory": "United States",
+  "posterDateStatus": "The displayed edition or catalogued object date; the original work date is recorded separately.",
+  "originNote": "Country and region describe the displayed edition’s publishing context. The author and work context are recorded separately.",
+  "originSources": [
+   {
+    "title": "Displayed edition record",
+    "url": "https://commons.wikimedia.org/wiki/File:The_Catcher_in_the_Rye_(1951,_first_edition_dust_jacket).jpg"
+   }
+  ],
+  "creditSources": [
+   {
+    "title": "Morgan Library jacket record",
+    "url": "https://www.themorgan.org/printed-books/443019"
+   }
+  ],
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/e/e3/The_Catcher_in_the_Rye_%281951%2C_first_edition_dust_jacket%29.jpg",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-catcher-in-the-rye.webp"
+ },
+ "studyData": {
+  "intro": "A red carousel horse towers over a finely drawn city. This front panel keeps the horse and its visible pole together, allowing scale, line and publishing credits to be examined without inventing hidden drawing.",
+  "initial": "title",
+  "regions": [
+   {
+    "id": "horse",
+    "number": 1,
+    "label": "A carousel horse fills the sheet",
+    "shortLabel": "The horse",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "The broad red body extends across most of the front panel.",
+    "layerIndex": 1,
+    "x": 43.02184,
+    "y": 56.04082,
+    "bounds": {
+     "x": 2,
+     "y": 29,
+     "w": 97,
+     "h": 60
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "The broad red body extends across most of the front panel. Dark curved outlines describe the belly, legs and decorative interior shapes.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The horse overwhelms the smaller city drawing and becomes the first pictorial encounter. Its scale is a design relationship, not a realistic comparison of objects.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What kind of attention does the huge horse demand before you see the city?",
+    "related": [
+     "head",
+     "leg"
+    ]
+   },
+   {
+    "id": "head",
+    "number": 2,
+    "label": "An arched neck ends in a bowed head",
+    "shortLabel": "Bowed horse head",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "At the right, the horse bends its neck down into a bowed head.",
+    "layerIndex": 1,
+    "x": 81.97816,
+    "y": 62,
+    "bounds": {
+     "x": 65,
+     "y": 48,
+     "w": 33,
+     "h": 27
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "At the right, the horse bends its neck down into a bowed head. A small eye, bridle marks and muzzle distinguish the head from the legs beside it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The downward turn gives the large animal a second direction within its broad horizontal body. Following the curved neck makes the head discoverable among the overlapping red forms.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which details distinguish the bowed head from the adjacent hanging leg?",
+    "related": [
+     "tail",
+     "city"
+    ]
+   },
+   {
+    "id": "tail",
+    "number": 3,
+    "label": "Fine movement over a red field",
+    "shortLabel": "Flowing tail",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Long dark tail strokes run across the red upper field and approach the lower line of yellow title.",
+    "layerIndex": 1,
+    "x": 37.92476,
+    "y": 24.28571,
+    "bounds": {
+     "x": 4,
+     "y": 16,
+     "w": 68,
+     "h": 24
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Long dark tail strokes run across the red upper field and approach the lower line of yellow title. Their curves overlap and change direction.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The tail makes a fluid counter-rhythm to the straighter letters. The shared space can make looking and reading compete without making either disappear.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which direction do the tail strokes lead you before the title interrupts?",
+    "related": [
+     "leg",
+     "title"
+    ]
+   },
+   {
+    "id": "leg",
+    "number": 4,
+    "label": "A bent leg ends in a hanging hoof",
+    "shortLabel": "Bent leg & hoof",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "At the right, a red leg bends and narrows towards a dark-edged hoof.",
+    "layerIndex": 1,
+    "x": 88.04612,
+    "y": 77.02041,
+    "bounds": {
+     "x": 77,
+     "y": 52,
+     "w": 20,
+     "h": 34
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "At the right, a red leg bends and narrows towards a dark-edged hoof. Cream gaps separate this limb from the belly and surrounding construction.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The suspended hoof helps distinguish a posed carousel animal from an animal standing firmly on ground. The reading comes from the visible support and pose together.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What clues suggest that this horse belongs to a constructed ride?",
+    "related": [
+     "city",
+     "pole"
+    ]
+   },
+   {
+    "id": "city",
+    "number": 5,
+    "label": "A small city under a large animal",
+    "shortLabel": "City vignette",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Fine black building and landscape marks occupy the cream area below the horse.",
+    "layerIndex": 3,
+    "x": 27.9733,
+    "y": 74.89796,
+    "bounds": {
+     "x": 0,
+     "y": 61,
+     "w": 51,
+     "h": 26
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Fine black building and landscape marks occupy the cream area below the horse. Their narrow strokes contrast with the broad red body above.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The change of scale rewards a second, slower look. The city can feel delicate because the large curves around it dominate so much of the available area.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would the city remain legible if its marks were as heavy as the horse’s outline?",
+    "related": [
+     "title",
+     "author"
+    ]
+   },
+   {
+    "id": "title",
+    "number": 6,
+    "label": "Yellow words across the red",
+    "shortLabel": "Yellow title",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "The title is divided into large yellow lines across the red field.",
+    "layerIndex": 2,
+    "x": 47.0267,
+    "y": 17.18367,
+    "bounds": {
+     "x": 1,
+     "y": 0,
+     "w": 97,
+     "h": 25
+    },
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "The title is divided into large yellow lines across the red field. Taller capitals share space with smaller words and the nearby tail strokes.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "Yellow against red gives the wording a clear colour identity. Varying letter sizes creates emphasis without adding a separate title box.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "language",
+      "heading": "A title split for emphasis",
+      "body": "The English wording is kept intact even though its words are set at different sizes. Line division changes the reading rhythm without changing the title itself.",
+      "evidence": "observation",
+      "sources": [],
+      "originalText": "The Catcher in the Rye",
+      "lang": "en",
+      "translation": "The Catcher in the Rye"
+     }
+    ],
+    "question": "Which word first catches your eye, and what makes it stronger than the others?",
+    "related": [
+     "pole",
+     "paper"
+    ]
+   },
+   {
+    "id": "pole",
+    "number": 7,
+    "label": "The support passes through the picture",
+    "shortLabel": "Carousel pole",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "A narrow slanting pole runs behind and through the horse construction, with source-visible cream intervals and dark edges.",
+    "layerIndex": 1,
+    "x": 81.97816,
+    "y": 18,
+    "bounds": {
+     "x": 49,
+     "y": 0,
+     "w": 42,
+     "h": 99
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "A narrow slanting pole runs behind and through the horse construction, with source-visible cream intervals and dark edges. Lower segments approach the author line.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The support makes the animal’s artificial setting more apparent. Keeping its visible run with the horse lets the construction remain intelligible when the layers open.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What would you infer differently about the animal if this pole were absent?",
+    "related": [
+     "author",
+     "curves"
+    ]
+   },
+   {
+    "id": "author",
+    "number": 8,
+    "label": "A novel and its author at the foot",
+    "shortLabel": "Salinger’s name",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Black wording identifies the book as a novel by J.D.",
+    "layerIndex": 4,
+    "x": 56.97816,
+    "y": 94.97959,
+    "bounds": {
+     "x": 1,
+     "y": 91,
+     "w": 98,
+     "h": 8
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Black wording identifies the book as a novel by J.D. Salinger along the cream lower edge. The line is smaller than the title but has an uncluttered background.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The calmer strip provides a stopping point after the horse’s curves. It also changes from pictorial movement to the practical act of naming a writer.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "context",
+      "heading": "Two different creative roles",
+      "body": "J.D. Salinger wrote the novel. The Morgan Library & Museum credits the jacket design to E. Michael Mitchell. Keeping these roles distinct avoids attributing the cover drawing to the novelist simply because his name is prominent on the front.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "morgan"
+       }
+      ]
+     }
+    ],
+    "question": "How does the quiet background help this smaller line hold its own?",
+    "related": [
+     "paper",
+     "horse"
+    ]
+   },
+   {
+    "id": "paper",
+    "number": 9,
+    "label": "Cream makes a second field",
+    "shortLabel": "Cream paper",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "A pale cream field remains around the lower horse and author line.",
+    "layerIndex": 0,
+    "x": 81.97816,
+    "y": 88.04082,
+    "bounds": {
+     "x": 69,
+     "y": 84,
+     "w": 25,
+     "h": 7
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "A pale cream field remains around the lower horse and author line. It differs sharply from the saturated red upper field.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The broad colour division changes how the same red animal reads across the sheet. Its lower contours become more visible where red meets cream.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "business",
+      "heading": "A specific jacket reproduction",
+      "body": "The installed image is the front panel of a first-edition jacket scan in Wikimedia Commons. Its contributor describes retouching, so this is a documented reproduction rather than an untouched archival capture. The full downloaded wrap is retained with the source record.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "object"
+       }
+      ]
+     }
+    ],
+    "question": "Which part of the horse is easiest to follow against cream rather than red?",
+    "related": [
+     "curves",
+     "head"
+    ]
+   },
+   {
+    "id": "curves",
+    "number": 10,
+    "label": "Decorative loops inside the body",
+    "shortLabel": "Body curves",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Curled dark lines form nested decorative shapes within the red body.",
+    "layerIndex": 1,
+    "x": 55.03641,
+    "y": 64.04082,
+    "bounds": {
+     "x": 35,
+     "y": 42,
+     "w": 44,
+     "h": 25
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Curled dark lines form nested decorative shapes within the red body. These internal marks echo the tail while remaining enclosed by the animal’s silhouette.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The repeated curves make the horse feel ornamented as well as anatomical. They link the large silhouette to the finer surface activity near the title.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How do the inner loops change the character of the broad red shape?",
+    "related": [
+     "horse",
+     "tail"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "object",
+    "title": "The Catcher in the Rye: the displayed reproduction",
+    "url": "https://commons.wikimedia.org/wiki/File:The_Catcher_in_the_Rye_(1951,_first_edition_dust_jacket).jpg",
+    "kind": "Image repository",
+    "summary": "Little, Brown and Company, Boston, 1951. Front-panel crop of a first-edition jacket scan. The repository describes uploader retouching; the full downloaded source is retained. Front panel cropped (1586,0)–(2410,1225) from the full jacket scan, 824 × 1225. The source repository’s retouching disclosure is retained."
+   },
+   {
+    "id": "morgan",
+    "title": "Morgan Library & Museum: the 1951 jacket",
+    "url": "https://www.themorgan.org/printed-books/443019",
+    "kind": "Library object record",
+    "summary": "Identifies the 1951 Little, Brown edition and credits the jacket design to E. Michael Mitchell. The image repository is a separate reproduction source."
+   }
+  ],
+  "tour": [
+   "title",
+   "horse",
+   "tail",
+   "leg",
+   "pole",
+   "city",
+   "author"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "The Catcher in the Rye",
+      "meaning": "The English title.",
+      "lang": "en"
+     },
+     {
+      "text": "a novel by J.D. Salinger",
+      "meaning": "The genre and author credit.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected clearly legible title and credit wording is transcribed from the displayed reproduction. Line breaks are simplified; this is not a transcription of every small mark or an identification of the typefaces.",
+  "palette": [
+   {
+    "name": "Horse red",
+    "hex": "#C12317",
+    "role": "A saturated red interior of the large horse.",
+    "region": "horse"
+   },
+   {
+    "name": "Title yellow",
+    "hex": "#DEB34A",
+    "role": "A warm yellow letter stroke.",
+    "region": "title"
+   },
+   {
+    "name": "Paper cream",
+    "hex": "#EBD6B7",
+    "role": "The light field beneath the animal.",
+    "region": "paper"
+   },
+   {
+    "name": "City dark",
+    "hex": "#191813",
+    "role": "A dark mark within the tiny city.",
+    "region": "city"
+   }
+  ],
+  "paletteNote": "Screen colours are sampled from this exact reproduction. Age, lighting and reproduction affect the result; these are not original printing specifications.",
+  "connections": [
+   {
+    "label": "Unequal scales",
+    "title": "A horse above a city",
+    "text": "The animal’s broad red curves dwarf the delicate city drawing.",
+    "anchors": [
+     [
+      1,
+      0.6195388349514563,
+      0.49020408163265305
+     ],
+     [
+      3,
+      0.26031553398058255,
+      0.7604081632653061
+     ]
+    ],
+    "id": "book-catcher-in-the-rye-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Movement and reading",
+    "title": "Tail against words",
+    "text": "Fine tail strokes flow close to the straight yellow letters, setting up competing rhythms.",
+    "anchors": [
+     [
+      1,
+      0.42779126213592233,
+      0.24122448979591837
+     ],
+     [
+      2,
+      0.5006067961165048,
+      0.1579591836734694
+     ]
+    ],
+    "id": "book-catcher-in-the-rye-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

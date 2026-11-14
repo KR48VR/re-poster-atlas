@@ -1,0 +1,606 @@
+{
+ "poster": {
+  "id": "red-wedge",
+  "title": "Beat the Whites with the Red Wedge",
+  "year": "1920",
+  "yearNumber": 1920,
+  "country": "Soviet Russia",
+  "region": "Europe",
+  "category": "Politics",
+  "creator": "El Lissitzky",
+  "edition": "Russian Civil War lithographic poster; dated 1920 by the Museum of Fine Arts, Boston. Some accounts date the design 1919.",
+  "image": "images/full/red-wedge.jpg",
+  "ratio": 1.25,
+  "width": 1000,
+  "height": 800,
+  "alt": "A red triangular wedge pierces a white circle on a black field, surrounded by smaller bars, wedges and Cyrillic words.",
+  "blurb": "An entire political conflict is compressed into a collision of shapes, colours and directions.",
+  "notes": [
+   {
+    "title": "A conflict without figures",
+    "body": "The red triangle penetrates the white circle. Colour and geometry stand in for opposing forces, making political persuasion look like a diagram of motion."
+   },
+   {
+    "title": "The small shapes echo the large",
+    "body": "Scattered red bars and wedges repeat the main triangle’s direction. They make the central collision feel part of a wider field of activity."
+   },
+   {
+    "title": "Words join the action",
+    "body": "The Cyrillic lettering changes size and angle around the geometry. Reading becomes another route through the composition rather than a caption beneath it."
+   }
+  ],
+  "source": "https://collections.mfa.org/objects/314484/klinom-krasnym-bei-belykh-beat-the-whites-with-the-red-wedg",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Klinom_Krasnym_Bej_Belych.JPG",
+  "imageCredit": "El Lissitzky, 1920. Public-domain artwork; reproduction via Wikimedia Commons.",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Klinom_Krasnym_Bej_Belych.JPG",
+  "accent": "#c64629",
+  "anchor": [
+   0.49,
+   0.45
+  ],
+  "credit": "El Lissitzky, 1920. Public-domain artwork; reproduction via Wikimedia Commons.",
+  "countries": [
+   "Soviet Russia"
+  ],
+  "primaryOrigin": "Soviet Russia",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/red-wedge.webp"
+ },
+ "studyData": {
+  "intro": "A pointed red form enters a pale circle while words and smaller shapes scatter around them. Read the geometry first, then discover how the Russian command assigns political identities to colours. El Lissitzky’s poster is historical Russian Civil War propaganda; its violent message is described critically, not endorsed.",
+  "initial": "red-wedge-wedge",
+  "regions": [
+   {
+    "id": "red-wedge-wedge",
+    "number": 1,
+    "label": "A broad triangle narrows to a point",
+    "shortLabel": "A broad triangle narrows to a point",
+    "kicker": "WIDTH BECOMES DIRECTION",
+    "summary": "The largest red shape supplies the main direction.",
+    "x": 36,
+    "y": 38,
+    "bounds": {
+     "x": 14,
+     "y": 16,
+     "w": 53,
+     "h": 44
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Width becomes direction",
+      "body": "The red triangle begins with a broad sloping base on the left and narrows towards a point inside the pale circle. Its two long edges converge, creating a strong directional shape. The fill is relatively continuous, unlike the grainier grey block above it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A shape given a political role",
+      "body": "The Library of Congress explains the red wedge as the Red Army overcoming the White armies. The geometry therefore carries a partisan claim about the Russian Civil War. That documented symbolism is more specific than a universal equation of red with strength or white with weakness.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "symbol-record"
+       }
+      ]
+     }
+    ],
+    "question": "Trace the two long edges: where do they make your eye converge?",
+    "related": [
+     "red-wedge-circle",
+     "red-wedge-red-bars"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "red-wedge-circle",
+    "number": 2,
+    "label": "The pale circle receives the point",
+    "shortLabel": "The pale circle receives the point",
+    "kicker": "A LARGE CURVED ENCLOSURE",
+    "summary": "A curved boundary meets a sharp intrusion.",
+    "x": 65.5,
+    "y": 60,
+    "bounds": {
+     "x": 42,
+     "y": 32,
+     "w": 47,
+     "h": 56
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A large curved enclosure",
+      "body": "The pale circle occupies the lower-right part of the sheet, clearly outlined against the black field. The red point reaches into its left side. Small shapes and lettering interrupt its otherwise broad interior, so it is neither empty nor a perfectly isolated geometric exercise.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A collision built from overlap",
+      "body": "The pointed form seems to enter the circular one because its red surface remains visible across the circle’s boundary. A small gap between the two would create a different relation. Overlap turns separate shapes into an apparent event without requiring a pictured soldier or weapon.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What changes if you imagine the triangle stopping just outside the circle?",
+    "related": [
+     "red-wedge-wedge",
+     "red-wedge-black"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "red-wedge-black",
+    "number": 3,
+    "label": "A diagonal field surrounds the circle",
+    "shortLabel": "A diagonal field surrounds the circle",
+    "kicker": "AN UNEQUAL DIVISION OF THE SHEET",
+    "summary": "The dark area is a major shape in its own right.",
+    "x": 92,
+    "y": 48,
+    "bounds": {
+     "x": 68,
+     "y": 3,
+     "w": 29,
+     "h": 94
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An unequal division of the sheet",
+      "body": "Black fills much of the right side, with a strong diagonal boundary descending towards the lower left. The pale circle interrupts that field, and small light bars punctuate it above and below. The dark area is not just an even border around a central emblem.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Figure and ground can trade places",
+      "body": "The eye may first treat the circle as the object and black as its background. Following the black outline instead reveals another active shape with pointed edges and interruptions. Switching attention between them helps explain why this simple palette can still feel spatially complex.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Can you trace the black field as a silhouette instead of treating it as background?",
+    "related": [
+     "red-wedge-circle",
+     "red-wedge-paper"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "red-wedge-wedge-words",
+    "number": 4,
+    "label": "Two angled words name the red wedge",
+    "shortLabel": "Two angled words name the red wedge",
+    "kicker": "WITH THE RED WEDGE",
+    "summary": "Lettering follows the direction of the large form.",
+    "x": 15,
+    "y": 18,
+    "bounds": {
+     "x": 4,
+     "y": 8,
+     "w": 25,
+     "h": 53
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "With the red wedge",
+      "body": "КЛИНОМ КРАСНЫМ is the part of the Russian command meaning “with the red wedge.” The two words sit on the left, separated by the large triangle. One is dark and solid; the other has outlined letters, creating different visual weights within the phrase.",
+      "evidence": "observation",
+      "originalText": "КЛИНОМ КРАСНЫМ",
+      "lang": "ru",
+      "translation": "With the red wedge"
+     },
+     {
+      "kind": "design",
+      "heading": "Reading takes a slanted route",
+      "body": "Both word groups tilt instead of sitting on a shared horizontal baseline. Their placement helps the reader move along the same broad diagonal as the wedge. The words do not simply caption a finished diagram from below; they participate in its arrangement.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Compare the angle of the words with the edges of the triangle. Where do they agree?",
+    "related": [
+     "red-wedge-wedge",
+     "red-wedge-beat"
+    ],
+    "layerIndex": 5
+   },
+   {
+    "id": "red-wedge-beat",
+    "number": 5,
+    "label": "A red command inside the circle",
+    "shortLabel": "A red command inside the circle",
+    "kicker": "AN IMPERATIVE, NOT A DESCRIPTION",
+    "summary": "The verb appears where the geometrical encounter happens.",
+    "x": 72,
+    "y": 77.5,
+    "bounds": {
+     "x": 65,
+     "y": 72,
+     "w": 14,
+     "h": 11
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "An imperative, not a description",
+      "body": "БЕЙ is an imperative meaning “beat” or “strike.” It asks for action rather than neutrally reporting an event. Reading its grammatical force helps distinguish the poster’s advocacy from a diagram that merely identifies the opposing forces.",
+      "evidence": "observation",
+      "originalText": "БЕЙ",
+      "lang": "ru",
+      "translation": "Beat or strike; an imperative"
+     },
+     {
+      "kind": "design",
+      "heading": "Red lettering repeats the active shape",
+      "body": "The letters share the triangle’s red colour but are much smaller and more open in form. Their position inside the circle connects the verbal instruction to the visual collision. This correspondence can be observed without assuming the poster proves that the commanded victory had already occurred.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Why might the command be placed inside the pale circle rather than beside the title?",
+    "related": [
+     "red-wedge-wedge-words",
+     "red-wedge-whites"
+    ],
+    "layerIndex": 5
+   },
+   {
+    "id": "red-wedge-whites",
+    "number": 6,
+    "label": "A pale word on the dark field",
+    "shortLabel": "A pale word on the dark field",
+    "kicker": "THE WHITE FORCES ARE THE NAMED OPPONENT",
+    "summary": "The final word completes the slogan near the lower right.",
+    "x": 84.5,
+    "y": 88.5,
+    "bounds": {
+     "x": 77,
+     "y": 85,
+     "w": 15,
+     "h": 7
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "The White forces are the named opponent",
+      "body": "БЕЛЫХ completes the command with “the Whites.” In this historical slogan it refers to the anti-Bolshevik White forces, not a racial category. The Library of Congress connects the poster’s red and white forms to the opposing armies.",
+      "evidence": "documented",
+      "originalText": "БЕЛЫХ",
+      "lang": "ru",
+      "translation": "The Whites; the opposing White forces",
+      "sources": [
+       {
+        "id": "symbol-record"
+       }
+      ]
+     },
+     {
+      "kind": "design",
+      "heading": "A compact ending far from the start",
+      "body": "The pale letters form a small block against black near the lower-right edge. Their heavy shapes differ from the outlined word on the left. The phrase therefore ends at a different size and contrast from where it began, extending reading across the entire composition.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Read all four words in order. How far must your eye travel?",
+    "related": [
+     "red-wedge-beat",
+     "red-wedge-wedge-words"
+    ],
+    "layerIndex": 5
+   },
+   {
+    "id": "red-wedge-grey",
+    "number": 7,
+    "label": "A grey block between the main shapes",
+    "shortLabel": "A grey block between the main shapes",
+    "kicker": "A FOURTH TONE ENTERS THE ARRANGEMENT",
+    "summary": "An angled, grainy form complicates the simple palette.",
+    "x": 52.5,
+    "y": 29,
+    "bounds": {
+     "x": 44,
+     "y": 18,
+     "w": 17,
+     "h": 22
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A fourth tone enters the arrangement",
+      "body": "The grey quadrilateral sits above the large wedge near the diagonal black boundary. Its surface is visibly mottled in the reproduction, unlike the smoother red triangle. Its angled edges meet both pale and dark areas, making it a useful test of apparent overlap.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Spatial uncertainty can stay productive",
+      "body": "The block can suggest an intermediate plane without resolving into a realistic object. You can compare which edges are visible and which appear interrupted. The image provides relationships among shapes; it does not require us to identify each one as a particular building or weapon.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does this block seem to sit in front of or behind the black field?",
+    "related": [
+     "red-wedge-black",
+     "red-wedge-wedge"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "red-wedge-red-bars",
+    "number": 8,
+    "label": "Small red forms repeat the larger action",
+    "shortLabel": "Small red forms repeat the larger action",
+    "kicker": "A CLUSTER WITH MORE THAN ONE DIRECTION",
+    "summary": "Short bars make a secondary cluster at the lower left.",
+    "x": 24.5,
+    "y": 77,
+    "bounds": {
+     "x": 15,
+     "y": 70,
+     "w": 19,
+     "h": 14
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A cluster with more than one direction",
+      "body": "A long narrow red bar, a broader upright rectangle and several shorter horizontal strokes gather below the main triangle. Pale gaps keep them separate. Their combined area is small, yet their colour makes them distinct from the surrounding paper and grey fragments.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Repetition without exact duplication",
+      "body": "These smaller accents repeat the red of the wedge while changing its geometry. The result can make the main collision feel part of a more active field. We need not assign every bar a named military unit or a precise tactical role to recognise that visual echo.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which directions here echo the large wedge, and which interrupt it?",
+    "related": [
+     "red-wedge-wedge",
+     "red-wedge-splinters"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "red-wedge-splinters",
+    "number": 9,
+    "label": "Light bars punctuate the upper dark area",
+    "shortLabel": "Light bars punctuate the upper dark area",
+    "kicker": "SMALL MARKS ON A LARGE DARK SHAPE",
+    "summary": "Tiny straight pieces change scale and direction.",
+    "x": 77,
+    "y": 10.5,
+    "bounds": {
+     "x": 64,
+     "y": 4,
+     "w": 26,
+     "h": 13
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Small marks on a large dark shape",
+      "body": "Pale bars of different lengths and angles scatter near the top-right area. Some sit beside red accents, while others stand alone against black. Their narrow forms contrast with the expansive circle and triangle, introducing a much finer rhythm.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Activity at the edges",
+      "body": "The fragments can make the central event seem to extend beyond the two largest forms. Their changes of angle may suggest dispersal or motion, but that remains a visual interpretation. The poster does not provide a legend translating every fragment into a specific event.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What happens to the composition if these small marks are covered?",
+    "related": [
+     "red-wedge-red-bars",
+     "red-wedge-black"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "red-wedge-paper",
+    "number": 10,
+    "label": "A pale field inside a thin frame",
+    "shortLabel": "A pale field inside a thin frame",
+    "kicker": "A QUIET RECTANGLE AROUND UNSTABLE DIRECTIONS",
+    "summary": "The outer structure steadies the diagonal action.",
+    "x": 7,
+    "y": 68,
+    "bounds": {
+     "x": 2,
+     "y": 2,
+     "w": 96,
+     "h": 95
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A quiet rectangle around unstable directions",
+      "body": "Thin dark lines mark a rectangular boundary close to the sheet’s edges. Inside, the pale field occupies much of the left side and surrounds the red wedge. Its uneven screen tone and small marks are visible, but their physical causes cannot be determined from the reproduction alone.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "The work and its recorded date",
+      "body": "The Art Institute of Chicago credits El Lissitzky and dates its catalogue entry for this work to 1920. Records can describe particular impressions or later reproductions, so their physical details should not be transferred automatically to the digital image installed here.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "How does the straight border change your reading of the slanted forms inside it?",
+    "related": [
+     "red-wedge-black",
+     "red-wedge-imprint"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "red-wedge-imprint",
+    "number": 11,
+    "label": "A publication line outside the image",
+    "shortLabel": "A publication line outside the image",
+    "kicker": "A SEPARATE SCALE OF INFORMATION",
+    "summary": "Small wording sits below the drawn border.",
+    "x": 24.5,
+    "y": 98.5,
+    "bounds": {
+     "x": 3,
+     "y": 97,
+     "w": 43,
+     "h": 3
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A separate scale of information",
+      "body": "A small number and Cyrillic publication line run along the lower edge beneath the inner border. Their narrow horizontal arrangement differs from the large, angled slogan. This makes the line appear as a record attached to the design rather than another participant in its central collision.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Propaganda had a publisher",
+      "body": "The Library of Congress identifies the original publication as poster number 19 from the Western Front political administration’s publishing organisation in 1920. Its own catalogued sheet is a later reproduction. That distinction links the slogan to an institutional purpose without misdating the copy shown here.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "symbol-record"
+       }
+      ]
+     }
+    ],
+    "question": "Why might the publisher’s information sit outside the main geometric field?",
+    "related": [
+     "red-wedge-paper",
+     "red-wedge-wedge-words"
+    ],
+    "layerIndex": 5
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed Beat the Whites with the Red Wedge poster reproduction",
+    "url": "https://commons.wikimedia.org/wiki/File:Klinom_Krasnym_Bej_Belych.JPG",
+    "kind": "Visual source",
+    "summary": "The exact edition shown is the evidence for visible shapes, wording, positions and reproduction samples. The linked record identifies the image; readings of its visual effects are supplied by Poster Atlas."
+   },
+   {
+    "id": "record",
+    "title": "Art Institute of Chicago: Beat the Whites with the Red Wedge",
+    "url": "https://archive.artic.edu/tass/203887",
+    "kind": "Museum collection",
+    "summary": "Credits El Lissitzky and dates the work to 1920. The catalogue describes its own object; its medium and dimensions are not assumed to identify the installed reproduction."
+   },
+   {
+    "id": "symbol-record",
+    "title": "Library of Congress: Klinom krasnym bei belykh",
+    "url": "https://www.loc.gov/item/2016650089/",
+    "kind": "National archive",
+    "summary": "Explains the red wedge as the Red Army opposing White armies, translates the slogan, and identifies the 1920 publisher. The catalogued sheet is a later 1965–80 reproduction, not the installed copy’s proven source."
+   }
+  ],
+  "tour": [
+   "red-wedge-wedge",
+   "red-wedge-circle",
+   "red-wedge-black",
+   "red-wedge-wedge-words",
+   "red-wedge-beat",
+   "red-wedge-whites",
+   "red-wedge-splinters"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected wording in this edition",
+    "rows": [
+     {
+      "text": "КЛИНОМ КРАСНЫМ БЕЙ БЕЛЫХ",
+      "meaning": "With the red wedge, beat the Whites; a historical political command",
+      "lang": "ru"
+     },
+     {
+      "text": "КЛИНОМ КРАСНЫМ",
+      "meaning": "With the red wedge",
+      "lang": "ru"
+     },
+     {
+      "text": "БЕЙ",
+      "meaning": "Beat or strike",
+      "lang": "ru"
+     },
+     {
+      "text": "БЕЛЫХ",
+      "meaning": "The Whites; White forces in the Russian Civil War",
+      "lang": "ru"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "The four-word slogan is transcribed and translated. The bottom imprint is described from its placement and the archive record rather than offered as a full diplomatic transcription. The Library of Congress record concerns a later reproduction, not a proven provenance for this installed file.",
+  "palette": [
+   {
+    "name": "Wedge red",
+    "hex": "#DB461E",
+    "role": "Directs the main collision",
+    "region": "red-wedge-wedge"
+   },
+   {
+    "name": "Dark field",
+    "hex": "#1F2022",
+    "role": "Defines the pale circle",
+    "region": "red-wedge-black"
+   },
+   {
+    "name": "Pale circle",
+    "hex": "#F2F4E7",
+    "role": "A broad curved counterform",
+    "region": "red-wedge-circle"
+   },
+   {
+    "name": "Grey block",
+    "hex": "#5B605C",
+    "role": "Adds a rough intermediate tone",
+    "region": "red-wedge-grey"
+   }
+  ],
+  "paletteNote": "Approximate screen samples from the installed reproduction. These describe image pixels, not original inks, paper colours or calibrated printing specifications."
+ }
+}

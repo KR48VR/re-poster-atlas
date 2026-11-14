@@ -1,0 +1,686 @@
+{
+ "poster": {
+  "id": "musica-viva",
+  "title": "Musica viva",
+  "year": "1958",
+  "yearNumber": 1958,
+  "country": "Switzerland",
+  "region": "Europe",
+  "category": "Performance",
+  "creator": "Josef Müller-Brockmann",
+  "edition": "Diamond composition dated 1958 by MoMA, advertising the Tonhalle concert of 5 May 1959; printed by City-Druck AG, Zürich.",
+  "image": "images/full/musica-viva.jpg",
+  "ratio": 0.712,
+  "width": 712,
+  "height": 1000,
+  "alt": "Small red, blue, yellow and black diamonds float within a large white diamond on a grey field, with concert details set diagonally below.",
+  "blurb": "Tiny coloured marks and a tilted field suggest musical intervals through spacing, repetition and silence.",
+  "notes": [
+   {
+    "title": "Small marks, expansive space",
+    "body": "The coloured diamonds occupy only a fraction of the white field. Their separation invites a reading of pauses and intervals rather than a literal musical illustration.",
+    "anchor": {
+     "x": 0.55,
+     "y": 0.56
+    }
+   },
+   {
+    "title": "One angle holds the system",
+    "body": "The large white diamond, the small coloured squares and the sloping type share a common orientation. Scale changes while the underlying geometry stays coherent.",
+    "anchor": {
+     "x": 0.67,
+     "y": 0.29
+    }
+   },
+   {
+    "title": "Design date and performance date",
+    "body": "MoMA dates this design to 1958; the printed programme advertises 5 May 1959. The museum date and the concert date describe different stages of the same poster.",
+    "anchor": {
+     "x": 0.22,
+     "y": 0.75
+    }
+   }
+  ],
+  "source": "https://www.moma.org/collection/works/7233",
+  "imageSource": "https://www.moma.org/collection/works/7233",
+  "imageCredit": "Josef Müller-Brockmann. Collection image courtesy of The Museum of Modern Art, New York, 491.1987. Copyright status not independently cleared.",
+  "downloadURL": "https://www.moma.org/media/W1siZiIsIjIxMTU0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=ac33d16e2224cdc8",
+  "accent": "#c9a333",
+  "anchor": [
+   0.52,
+   0.47
+  ],
+  "credit": "Josef Müller-Brockmann. Collection image courtesy of The Museum of Modern Art, New York, 491.1987. Copyright status not independently cleared.",
+  "countries": [
+   "Switzerland"
+  ],
+  "primaryOrigin": "Switzerland",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/musica-viva.webp"
+ },
+ "studyData": {
+  "intro": "A tilted pale field holds a scattered set of small coloured squares, while practical concert information follows the same diagonal. Explore the difference between visual rhythm and a literal representation of music.",
+  "initial": "field",
+  "regions": [
+   {
+    "id": "field",
+    "label": "The great pale diamond",
+    "shortLabel": "The great pale diamond",
+    "kicker": "DESIGN",
+    "summary": "An enormous quiet shape makes tiny marks matter.",
+    "layerIndex": 1,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 100,
+     "h": 88
+    },
+    "x": 48,
+    "y": 25,
+    "question": "How much of the poster is left without a small motif or line of text?",
+    "related": [
+     "surround",
+     "motifs",
+     "title"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A shape larger than the sheet",
+      "body": "The pale diamond is cropped at the upper and side edges, so it seems to continue beyond the poster. Its lowest point remains visible near the lower centre. This unequal cropping makes the field feel both immense and precisely placed rather than like a small emblem floating on a background.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Space as an active comparison",
+      "body": "The tiny coloured marks become conspicuous because the pale area around them is so extensive. Empty space here is not simply unused room: it allows distances and groupings to be noticed. Cover part of the field and compare how crowded the same small marks begin to feel.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 1
+   },
+   {
+    "id": "surround",
+    "label": "The gray surrounding corners",
+    "shortLabel": "The gray surrounding corners",
+    "kicker": "DESIGN",
+    "summary": "Gray triangles reveal the pale shape’s rotation.",
+    "layerIndex": 0,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 38,
+     "h": 27
+    },
+    "x": 12,
+    "y": 9,
+    "question": "Which corner gives you the clearest clue to the large shape’s angle?",
+    "related": [
+     "field",
+     "text-angle",
+     "tickets"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A second shape made by the edges",
+      "body": "Gray appears around the pale field in large triangular and angled regions. These areas define the diamond without a drawn outline. Because the gray continues beneath the text at the bottom, the surrounding ground also becomes the practical information zone of the poster.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Quiet does not mean uniform",
+      "body": "The reproduction contains slight tonal variation in both gray and pale areas. Their main role remains a large contrast in lightness rather than a richly coloured scene. The screen samples below describe this installed image, not the exact paper and ink values of an original print.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 2
+   },
+   {
+    "id": "motifs",
+    "label": "A scattered family of squares",
+    "shortLabel": "A scattered family of squares",
+    "kicker": "DESIGN",
+    "summary": "Small diamonds repeat one orientation at different distances.",
+    "layerIndex": 2,
+    "bounds": {
+     "x": 33,
+     "y": 23,
+     "w": 65,
+     "h": 46
+    },
+    "x": 53,
+    "y": 40,
+    "question": "Can you group the marks in more than one plausible way?",
+    "related": [
+     "paired",
+     "isolated",
+     "black"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Repetition without a regular lattice",
+      "body": "The small marks share a diamond orientation, but their spacing does not form an obvious evenly filled grid. Some stand alone and some touch a neighbour. Their common shape keeps them related while changing intervals make the eye compare different possible groupings.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Rhythm as a visual reading",
+      "body": "You may read the intervals and clusters as rhythm, especially within a concert poster. That is an analogy, not a claim that each square encodes a particular note, instrument or composer. The image supplies repeated forms and pauses; the exact musical correspondence is not documented.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 3
+   },
+   {
+    "id": "paired",
+    "label": "The touching yellow-red pair",
+    "shortLabel": "The touching yellow-red pair",
+    "kicker": "DESIGN",
+    "summary": "Two small squares form a longer unit.",
+    "layerIndex": 2,
+    "bounds": {
+     "x": 78,
+     "y": 33,
+     "w": 6,
+     "h": 5
+    },
+    "x": 81,
+    "y": 35,
+    "question": "Compare this pair with a single red square nearby: what changes?",
+    "related": [
+     "motifs",
+     "lower-pair",
+     "isolated"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Two colours become one unit",
+      "body": "Near the upper right of the cluster, a yellow square touches a red one along a shared edge. Together they make an elongated diagonal unit. Their shared boundary allows them to be seen as a pair without an enclosing line or a change in size.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A local relationship inside a field",
+      "body": "The pair has a closer internal spacing than the distance to its neighbours. That difference is enough to create a small group. It offers a clear experiment in visual grouping: shapes can belong together through proximity while remaining distinct through colour.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 4
+   },
+   {
+    "id": "isolated",
+    "label": "The high blue diamond",
+    "shortLabel": "The high blue diamond",
+    "kicker": "DESIGN",
+    "summary": "A lone mark tests the edge of the composition.",
+    "layerIndex": 2,
+    "bounds": {
+     "x": 94,
+     "y": 23,
+     "w": 4,
+     "h": 4
+    },
+    "x": 96,
+    "y": 25,
+    "question": "Does this isolated mark feel part of the cluster, or separate from it?",
+    "related": [
+     "paired",
+     "field",
+     "motifs"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A small mark near a boundary",
+      "body": "The blue diamond sits close to the right edge and well above most other coloured forms. Its shape and angle match the cluster, but its distance makes it unusually isolated. The pale space between it and the other marks becomes especially noticeable because there is so little else nearby.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Belonging through resemblance",
+      "body": "Despite the large gap, shared shape and orientation can keep the blue mark connected to the group. Cover it and see whether the composition feels more centred or enclosed. This tests a visible relationship rather than assuming the mark represents a particular sound or performer.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 5
+   },
+   {
+    "id": "black",
+    "label": "The single black diamond",
+    "shortLabel": "The single black diamond",
+    "kicker": "DESIGN",
+    "summary": "A dark mark changes the balance of the colour group.",
+    "layerIndex": 2,
+    "bounds": {
+     "x": 66,
+     "y": 43,
+     "w": 4,
+     "h": 4
+    },
+    "x": 68,
+    "y": 45,
+    "question": "Compare a black diamond and a red one of similar size in grayscale.",
+    "related": [
+     "motifs",
+     "lower-pair",
+     "surround"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Weight without extra area",
+      "body": "The black diamond near the right side of the central cluster is comparable in size to the coloured marks. Its greater darkness gives it a different kind of prominence. It does not need to be larger to create a more forceful light-dark contrast against the pale field.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Colour and tone do different jobs",
+      "body": "The black marks relate visually to the concert lettering, while the red, yellow and blue marks provide hue differences. Comparing those roles helps explain why a limited palette can still offer variety. Grayscale removes the hue distinctions but leaves differences of lightness available.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 6
+   },
+   {
+    "id": "lower-pair",
+    "label": "The red-blue pair below",
+    "shortLabel": "The red-blue pair below",
+    "kicker": "DESIGN",
+    "summary": "Another touching pair turns repetition into variation.",
+    "layerIndex": 2,
+    "bounds": {
+     "x": 41,
+     "y": 59,
+     "w": 7,
+     "h": 5
+    },
+    "x": 44,
+    "y": 62,
+    "question": "How does this pair resemble the yellow-red pair, and how does it differ?",
+    "related": [
+     "paired",
+     "black",
+     "text-angle"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A repeated arrangement with new colours",
+      "body": "Near the lower part of the pale field, red and blue squares touch along the same diagonal orientation used by other pairs. The structure repeats, but the colours change. This lets the image establish a family of small units without making every unit identical.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A bridge toward the information",
+      "body": "This lower pair sits closer to the printed programme than the high blue mark does. Its position helps carry attention down through the pale field toward the text. That movement is a compositional possibility, not a prescribed reading path that every viewer must follow.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 7
+   },
+   {
+    "id": "title",
+    "label": "The small Musica Viva name",
+    "shortLabel": "The small Musica Viva name",
+    "kicker": "LANGUAGE",
+    "summary": "The event identity stays modest beside the abstract field.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 4,
+     "y": 78,
+     "w": 11,
+     "h": 11
+    },
+    "x": 9.845,
+    "y": 85.085,
+    "question": "Why is the name still easy to locate despite its small size?",
+    "related": [
+     "event",
+     "text-angle",
+     "programme"
+    ],
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A name within the information block",
+      "body": "“musica viva” appears in lowercase near the left edge of the diagonal information area. The phrase can be rendered “living music,” but here it functions as a programme name. Its scale is modest compared with the pale field, making the design’s visual identity larger than its verbal heading.",
+      "evidence": "observation",
+      "originalText": "musica viva",
+      "lang": "la",
+      "translation": "Living music; programme name"
+     },
+     {
+      "kind": "context",
+      "heading": "The documented print",
+      "body": "MoMA identifies the design as Josef Müller-Brockmann’s Musica Viva, dated 1958. The record specifies linocut and letterpress, printed by City-Druck AG in Zürich. Those documented media are not inferred from the screen texture or from the apparent sharpness of the small squares.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "moma"
+       }
+      ]
+     }
+    ],
+    "number": 8
+   },
+   {
+    "id": "event",
+    "label": "The date and concert notice",
+    "shortLabel": "The date and concert notice",
+    "kicker": "LANGUAGE",
+    "summary": "Practical details identify a later concert date.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 3,
+     "y": 64,
+     "w": 23,
+     "h": 17
+    },
+    "x": 15.049,
+    "y": 72.873,
+    "question": "What dates appear on the sheet and in the museum record?",
+    "related": [
+     "title",
+     "programme",
+     "tickets"
+    ],
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A visible 1959 event date",
+      "body": "The concert block includes “dienstag, 5. mai 1959,” meaning Tuesday, 5 May 1959. This is the advertised event date printed on the sheet. MoMA catalogues the object as 1958, but the record does not explain the discrepancy. Both dates are retained here without inventing a production chronology.",
+      "evidence": "documented",
+      "originalText": "dienstag, 5. mai 1959",
+      "lang": "de",
+      "translation": "Tuesday, 5 May 1959",
+      "sources": [
+       {
+        "id": "moma"
+       }
+      ]
+     },
+     {
+      "kind": "business",
+      "heading": "A notice must become usable",
+      "body": "The same small block supplies concert and venue information, so the abstract image is also a practical invitation. The date and place are given far less area than the visual field. That hierarchy asks a viewer first to notice the poster and then approach it closely enough to use the details.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 9
+   },
+   {
+    "id": "programme",
+    "label": "The programme and performers",
+    "shortLabel": "The programme and performers",
+    "kicker": "DESIGN",
+    "summary": "Names and titles form a denser diagonal texture.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 14,
+     "y": 74,
+     "w": 29,
+     "h": 18
+    },
+    "x": 29.817,
+    "y": 83.784,
+    "question": "Which alignment makes separate lines belong to one group?",
+    "related": [
+     "event",
+     "title",
+     "tickets"
+    ],
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Density changes within the same angle",
+      "body": "The programme block contains several short lines with similar dark strokes and a consistent diagonal direction. Its texture is denser than the isolated programme name. The repeated alignment allows many pieces of information to feel organised without placing them inside a visible ruled table.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Specificity after abstraction",
+      "body": "Conductor, soloist and repertoire information gives the concert notice content that the coloured squares cannot supply. The study does not assign one coloured motif to any one named composer. Practical text and abstract image can complement one another without having a documented one-to-one code.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 10
+   },
+   {
+    "id": "tickets",
+    "label": "The lower ticket information",
+    "shortLabel": "The lower ticket information",
+    "kicker": "BUSINESS",
+    "summary": "The final block turns attention toward attending.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 33,
+     "y": 85,
+     "w": 23,
+     "h": 14
+    },
+    "x": 45.992,
+    "y": 93.894,
+    "question": "How does this lower block conclude the diagonal reading path?",
+    "related": [
+     "event",
+     "programme",
+     "surround"
+    ],
+    "tags": [
+     "business",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "From event identity to access",
+      "body": "The lower lines visibly include ticket information, with “karten” introducing the block. This changes the task from naming the performance to helping a reader attend. Fine figures and sales-place details are not all transcribed here, because the study prioritises secure wording over a guessed complete booking notice.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A compact ending",
+      "body": "The ticket block approaches the lower edge while retaining the same angle as the programme above. It closes the long diagonal progression of text. The gray background remains uninterrupted around the letters, keeping this dense practical material separate from the scattered motifs on the pale field.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 11
+   },
+   {
+    "id": "text-angle",
+    "label": "The shared diagonal of words",
+    "shortLabel": "The shared diagonal of words",
+    "kicker": "DESIGN",
+    "summary": "The text takes its direction from the large geometry.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 1,
+     "y": 64,
+     "w": 56,
+     "h": 35
+    },
+    "x": 24.895,
+    "y": 76.176,
+    "question": "Compare a text baseline with the pale diamond’s lower-left edge.",
+    "related": [
+     "field",
+     "title",
+     "lower-pair"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "One angle across different scales",
+      "body": "The words run on a diagonal closely related to the edge of the pale diamond and the orientation of the small squares. This shared angle connects huge shape, tiny motif and practical type. The information is therefore part of the same compositional system rather than an unrelated caption.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A deliberate reading effort",
+      "body": "Diagonal lines are less immediately comfortable to scan than level text, but the consistent direction supplies order. Try mentally rotating the page: the information becomes more ordinary while the large field changes its apparent balance. The experiment reveals a tradeoff between visual integration and reading convenience.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 12
+   }
+  ],
+  "sources": [
+   {
+    "id": "moma",
+    "title": "MoMA: Josef Müller-Brockmann, Musica Viva",
+    "url": "https://www.moma.org/collection/works/7233",
+    "kind": "Museum object record",
+    "summary": "Catalogues the object as 1958, linocut and letterpress, printed by City-Druck AG, Zürich; object 491.1987. The installed image advertises 5 May 1959; the record does not explain the discrepancy."
+   }
+  ],
+  "tour": [
+   "field",
+   "motifs",
+   "paired",
+   "isolated",
+   "title",
+   "event",
+   "text-angle"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "musica viva",
+      "meaning": "Living music; programme name",
+      "lang": "la"
+     },
+     {
+      "text": "dienstag, 5. mai 1959",
+      "meaning": "Tuesday, 5 May 1959",
+      "lang": "de"
+     },
+     {
+      "text": "zürich",
+      "meaning": "Zürich — place name",
+      "lang": "de"
+     },
+     {
+      "text": "karten",
+      "meaning": "Tickets",
+      "lang": "de"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "The programme name and visible concert date are transcribed; smaller performer, repertoire, price and sales-place lines are not made into a complete transcript. MoMA catalogues the object as 1958; the sheet advertises 5 May 1959. The record does not explain this discrepancy. No literal musical notation is claimed for the squares.",
+  "palette": [
+   {
+    "name": "Pale diamond",
+    "hex": "#ebe8df",
+    "role": "Large unoccupied central field",
+    "region": "field"
+   },
+   {
+    "name": "Gray surround",
+    "hex": "#b0aab4",
+    "role": "Frame and information ground",
+    "region": "surround"
+   },
+   {
+    "name": "Blue motif",
+    "hex": "#1e50b1",
+    "role": "Small isolated accent",
+    "region": "isolated"
+   },
+   {
+    "name": "Red motif",
+    "hex": "#b53534",
+    "role": "Repeated colour within the cluster",
+    "region": "motifs"
+   },
+   {
+    "name": "Black motif",
+    "hex": "#100f0b",
+    "role": "Dense tonal accent",
+    "region": "black"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels of the installed reproduction; these are not original ink or paper specifications.",
+  "connections": [
+   {
+    "label": "Repeated angles",
+    "title": "Small signs repeat the large field",
+    "text": "The small diamonds repeat the angles of the much larger white diamond. Their varied spacing makes a loose rhythm inside a strict geometry.",
+    "anchors": [
+     [
+      1,
+      0.21980337078651685,
+      0.3205
+     ],
+     [
+      2,
+      0.5933988764044944,
+      0.5845
+     ]
+    ],
+    "id": "musica-viva-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "A shared diagonal",
+    "title": "Type follows the picture’s axis",
+    "text": "The concert lettering tilts in the same family of diagonals as the diamond edges. The text therefore belongs to the composition rather than sitting below it as a separate caption.",
+    "anchors": [
+     [
+      3,
+      0.24367977528089887,
+      0.8185
+     ],
+     [
+      2,
+      0.43469101123595505,
+      0.6215
+     ]
+    ],
+    "id": "musica-viva-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

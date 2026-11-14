@@ -1,0 +1,592 @@
+{
+ "poster": {
+  "id": "book-kampung-boy",
+  "title": "Kampung Boy — Tamil edition",
+  "year": "2011",
+  "yearNumber": 2011,
+  "coverYear": "2011",
+  "bookFirstPublication": "1979",
+  "bookAuthor": "Lat",
+  "bookPublisher": "Institut Terjemahan Negara Malaysia",
+  "bookOrigin": "Malaysian work by Lat, originally published in 1979; this Tamil translation was published in Malaysia in 2011.",
+  "creator": "Lat; edition layout credit unverified",
+  "country": "Malaysia",
+  "countries": [
+   "Malaysia"
+  ],
+  "primaryOrigin": "Malaysia",
+  "region": "Southeast Asia",
+  "category": "Book cover",
+  "image": "images/full/book-kampung-boy.jpg",
+  "ratio": 0.6666666666666666,
+  "alt": "A small boy carrying foliage walks beside a large tree with an attached cup, with a reclining figure and distant people beneath black Tamil lettering.",
+  "blurb": "Tall trunks frame a lively group of much smaller figures.",
+  "source": "https://mphonline.com/products/kampung-boy-kampathu-paiyan-tamil",
+  "credit": "Lat wrote and illustrated the original work. Malaysian institutional records distinguish translator Sriranggan Perumal from the author; the retailer’s author field alone is insufficient.",
+  "reproduction": "The reproduced object is 260 × 390 pixels. Physical wear, visible image texture and edges are retained; small uncertain lettering is not reconstructed.",
+  "anchor": [
+   0.4,
+   0.63
+  ],
+  "accent": "#879b40",
+  "edition": "Malaysian Tamil edition, ITNM, 14 July 2011, ISBN 9789830687216. Lat’s original work appeared in 1979. Sriranggan Perumal is the translator, not the original author.",
+  "imageSource": "https://mphonline.com/products/kampung-boy-kampathu-paiyan-tamil",
+  "imageCredit": "Lat wrote and illustrated the original work. Malaysian institutional records distinguish translator Sriranggan Perumal from the author; the retailer’s author field alone is insufficient.",
+  "posterYear": "2011",
+  "posterTerritory": "Malaysia",
+  "posterDateStatus": "The displayed edition or explicitly qualified catalogue date. The original work date is recorded separately.",
+  "originNote": "Country and region describe the displayed edition’s publishing context, not the nationality of the cover designer.",
+  "originSources": [
+   {
+    "title": "Displayed object record",
+    "url": "https://mphonline.com/products/kampung-boy-kampathu-paiyan-tamil"
+   }
+  ],
+  "notes": [
+   {
+    "title": "The displayed edition",
+    "body": "Malaysian Tamil edition, ITNM, 14 July 2011, ISBN 9789830687216. Lat’s original work appeared in 1979. Sriranggan Perumal is the translator, not the original author."
+   },
+   {
+    "title": "Writing and image-making",
+    "body": "Lat wrote and illustrated the original work. Malaysian institutional records distinguish translator Sriranggan Perumal from the author; the retailer’s author field alone is insufficient."
+   },
+   {
+    "title": "A visible design relationship",
+    "body": "Tall trunks frame a lively group of much smaller figures."
+   }
+  ],
+  "downloadURL": "https://mphonline.com/cdn/shop/products/9789830687216_b.jpg?v=1622726184",
+  "creditSources": [
+   {
+    "title": "Source for the displayed object and recorded credits",
+    "url": "https://mphonline.com/products/kampung-boy-kampathu-paiyan-tamil"
+   },
+   {
+    "title": "Malaysian institutional catalogue: creator and translator roles",
+    "url": "https://lib.iab.edu.my/cgi-bin/koha/opac-search.pl?count=20&limit=au%3ALat&q=ccl%3Dsu%3A%22Books%22+and+holdingbranch%3A04&sort_by=relevance_dsc"
+   }
+  ],
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-kampung-boy.webp"
+ },
+ "studyData": {
+  "intro": "A Tamil-language Malaysian edition carries Lat’s small figures through a tall wooded setting. Compare their scale and gestures, then separate the language of this translation from the place where the edition was published.",
+  "initial": "title",
+  "regions": [
+   {
+    "id": "title",
+    "label": "Tamil title",
+    "shortLabel": "Tamil title",
+    "kicker": "A TRANSLATED TITLE",
+    "summary": "Dark script crosses the pale woodland.",
+    "x": 50.19231,
+    "y": 27.5641,
+    "bounds": {
+     "x": 16,
+     "y": 20,
+     "w": 70,
+     "h": 16
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A translated title",
+      "body": "The cover’s large wording is Tamil; the edition record supplies the romanized title Kampathu Paiyan and identifies it as Kampung Boy. The script crosses the upright trunks in a compact horizontal group. The Tamil transcription here is a provisional visual reading at this small reproduction size.",
+      "evidence": "uncertain",
+      "originalText": "கம்பத்துப் பையன்",
+      "lang": "ta"
+     },
+     {
+      "kind": "business",
+      "heading": "A Malaysian Tamil edition",
+      "body": "MPH records ITNM as publisher, 14 July 2011 as the publication date and ISBN 9789830687216. Tamil text does not make this an Indian edition: the publication context is Malaysia, distinct from the language of the translation.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cover"
+       }
+      ]
+     }
+    ],
+    "question": "What can the script tell you about the intended reader, and what can it not tell you about publication place?",
+    "related": [
+     "lat",
+     "canopy"
+    ],
+    "layerIndex": 5,
+    "number": 1
+   },
+   {
+    "id": "lat",
+    "label": "Lat name below the title",
+    "shortLabel": "Lat name below the title",
+    "kicker": "A COMPACT LOWER WORD",
+    "summary": "A short second line leaves the main title dominant.",
+    "x": 50.57692,
+    "y": 41.15385,
+    "bounds": {
+     "x": 40,
+     "y": 35,
+     "w": 23,
+     "h": 10
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A compact lower word",
+      "body": "The short name line sits below the longer title with pale space around it. Its reduced width creates a small second step in the verbal hierarchy, while the wooded illustration remains visible behind and beside it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Author and translator are different roles",
+      "body": "Malaysian institutional cataloguing credits Lat as author and Sriranggan Perumal as translator. The retailer’s author field alone does not preserve that distinction. This study keeps the original creator separate from the translator of the 2011 Tamil edition.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "catalogue"
+       }
+      ]
+     }
+    ],
+    "question": "How can a short name line remain noticeable without matching the title’s width?",
+    "related": [
+     "title",
+     "head"
+    ],
+    "layerIndex": 5,
+    "number": 2
+   },
+   {
+    "id": "tree",
+    "label": "Large foreground trunk",
+    "shortLabel": "Large foreground trunk",
+    "kicker": "A TRUNK CLOSE TO THE VIEWER",
+    "summary": "One tall form gives the figures their scale.",
+    "x": 13.26923,
+    "y": 43.20513,
+    "bounds": {
+     "x": 5,
+     "y": 0,
+     "w": 21,
+     "h": 95
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A trunk close to the viewer",
+      "body": "The broad left trunk runs almost the full height of the cover. Dark edge marks and warm yellow areas give it more weight than the slender distant trunks, making it a strong foreground element beside the walking boy.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A measure for small bodies",
+      "body": "Comparing the trunk with the boy and distant figures makes their size legible. The tree does not need a measured scale: its relative width and height are enough to establish a large setting around much smaller people.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which part of the tree makes it feel closer than the trunks behind it?",
+    "related": [
+     "cup",
+     "roots"
+    ],
+    "layerIndex": 1,
+    "number": 3
+   },
+   {
+    "id": "cup",
+    "label": "Cup attached to the trunk",
+    "shortLabel": "Cup attached to the trunk",
+    "kicker": "A SMALL SHAPE ON A LARGE VERTICAL",
+    "summary": "A tiny object adds a practical-looking detail.",
+    "x": 20.19231,
+    "y": 73.20513,
+    "bounds": {
+     "x": 15,
+     "y": 69,
+     "w": 9,
+     "h": 11
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A small shape on a large vertical",
+      "body": "A cup-like form projects from the trunk near the boy’s height. Its rounded rim and darker interior distinguish it from the surrounding bark marks, making a small object legible within a much larger tree shape.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Visible object, limited action",
+      "body": "The attached cup suggests a practical use of the tree, but this small cover image does not by itself establish the exact material, species or action occurring at this moment. The reading does not turn that suggestion into a documented labour scene.",
+      "evidence": "uncertain"
+     }
+    ],
+    "question": "What extra evidence would you need before naming the cup’s exact purpose?",
+    "related": [
+     "tree",
+     "head"
+    ],
+    "layerIndex": 1,
+    "number": 4
+   },
+   {
+    "id": "head",
+    "label": "Walking boy’s face",
+    "shortLabel": "Walking boy’s face",
+    "kicker": "A FACE SET AGAINST PALE SPACE",
+    "summary": "A small profile has a lively expression.",
+    "x": 41.34615,
+    "y": 63.20513,
+    "bounds": {
+     "x": 31,
+     "y": 52,
+     "w": 20,
+     "h": 20
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A face set against pale space",
+      "body": "The boy’s dark hair and outlined profile sit against a relatively open part of the woodland. A prominent nose, open mouth and small eye make the head readable even at this modest source resolution, while the visible neck joins it to the body.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Expression through a few marks",
+      "body": "The face feels animated with very little modelling. Its effect comes from the relationship of outline and features rather than realistic shading, showing how a small drawn figure can carry energy within a detailed setting.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which single facial mark seems most responsible for the expression?",
+    "related": [
+     "legs",
+     "load"
+    ],
+    "layerIndex": 2,
+    "number": 5
+   },
+   {
+    "id": "load",
+    "label": "Carried foliage",
+    "shortLabel": "Carried foliage",
+    "kicker": "LONG THIN FORMS BESIDE THE BODY",
+    "summary": "A busy fringe extends from the figure.",
+    "x": 56.34615,
+    "y": 78.07692,
+    "bounds": {
+     "x": 43,
+     "y": 70,
+     "w": 29,
+     "h": 17
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Long thin forms beside the body",
+      "body": "Foliage projects outward around the boy’s hands and lower torso. Its narrow pointed shapes and uneven ends create a busy fringe, distinct from the simpler head and the more continuous outlines of the limbs.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A counterweight to the profile",
+      "body": "The foliage expands toward the right while the boy’s face turns toward the left. Those opposing directions widen the small figure’s presence and introduce movement without requiring a literal motion arrow.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the foliage change the balance of the boy’s silhouette?",
+    "related": [
+     "head",
+     "legs"
+    ],
+    "layerIndex": 2,
+    "number": 6
+   },
+   {
+    "id": "legs",
+    "label": "Bent walking legs",
+    "shortLabel": "Bent walking legs",
+    "kicker": "A SEQUENCE OF BENDS",
+    "summary": "Changing angles suggest a step.",
+    "x": 36.34615,
+    "y": 88.07692,
+    "bounds": {
+     "x": 28,
+     "y": 79,
+     "w": 23,
+     "h": 17
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A sequence of bends",
+      "body": "The lower limbs change direction beneath the load, with a lifted or angled foot contrasting against the other leg. The uneven spacing and bends interrupt the straight vertical rhythm of the trunks behind them.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Movement against stillness",
+      "body": "The boy’s compact zigzag can suggest walking because it differs so strongly from the tall, largely upright woodland. This is a reading of the visible pose, not a claim about the exact frame of a story episode.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would the figure feel equally active if both legs were straight and parallel?",
+    "related": [
+     "tree",
+     "reclining"
+    ],
+    "layerIndex": 2,
+    "number": 7
+   },
+   {
+    "id": "reclining",
+    "label": "Reclining figure",
+    "shortLabel": "Reclining figure",
+    "kicker": "A BODY CLOSE TO THE GROUND",
+    "summary": "A low figure changes the scene’s rhythm.",
+    "x": 69.03846,
+    "y": 84.23077,
+    "bounds": {
+     "x": 58,
+     "y": 77,
+     "w": 23,
+     "h": 14
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A body close to the ground",
+      "body": "To the right of the walking boy, a smaller figure leans or reclines along a low diagonal. The body occupies far less height than the main boy and contrasts with the forest’s long verticals.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Different kinds of activity",
+      "body": "The low pose offers a counterpoint to the upright walking figure. The cover can suggest a shared inhabited setting without making every person perform the same action or face the same direction.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does this low pose alter the pace of the scene beside the walking boy?",
+    "related": [
+     "legs",
+     "distant"
+    ],
+    "layerIndex": 3,
+    "number": 8
+   },
+   {
+    "id": "distant",
+    "label": "Small distant figures",
+    "shortLabel": "Small distant figures",
+    "kicker": "SMALLER BODIES FARTHER BACK",
+    "summary": "Several people recede between the trunks.",
+    "x": 91.34615,
+    "y": 68.07692,
+    "bounds": {
+     "x": 78,
+     "y": 52,
+     "w": 19,
+     "h": 27
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Smaller bodies farther back",
+      "body": "The figures at the right are much narrower and less detailed than the main boy. Pale gaps and thin vertical trees separate them, helping them read as people farther into the scene rather than as parts of the foreground load.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Depth through relative detail",
+      "body": "The scene uses differences in size and detail to suggest distance. The small people are still recognisable as figures, but their faces and exact actions remain unresolved at this reproduction size.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What tells you that these figures are farther away rather than simply younger or shorter?",
+    "related": [
+     "head",
+     "tree"
+    ],
+    "layerIndex": 4,
+    "number": 9
+   },
+   {
+    "id": "roots",
+    "label": "Roots at the foot",
+    "shortLabel": "Roots at the foot",
+    "kicker": "A VERTICAL FORM OPENS OUT",
+    "summary": "The trunk spreads into the lower ground.",
+    "x": 17.11538,
+    "y": 93.97436,
+    "bounds": {
+     "x": 4,
+     "y": 85,
+     "w": 33,
+     "h": 15
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A vertical form opens out",
+      "body": "Near the bottom, the tree’s base divides into irregular spreading roots. This change from a tall trunk to lower outward forms anchors it in the ground and creates a more complex edge beside the boy’s feet.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A grounded counterpoint",
+      "body": "The roots can make the tree feel settled while the boy’s bent legs feel mobile. Their different shapes share the same small lower area, so the scene can contrast stability and movement without another explanatory label.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which lower lines belong to the roots, and which belong to the moving figure?",
+    "related": [
+     "tree",
+     "legs"
+    ],
+    "layerIndex": 1,
+    "number": 10
+   },
+   {
+    "id": "canopy",
+    "label": "Pale woodland field",
+    "shortLabel": "Pale woodland field",
+    "kicker": "MANY MARKS WITHOUT A SOLID WALL",
+    "summary": "Light space keeps a dense setting readable.",
+    "x": 76.34615,
+    "y": 19.10256,
+    "bounds": {
+     "x": 57,
+     "y": 0,
+     "w": 41,
+     "h": 46
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Many marks without a solid wall",
+      "body": "Fine trunks and foliage marks fill the upper area, but substantial pale paper remains between them. The setting feels busy without becoming uniformly dark, leaving room for the black title to remain readable over the image.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A bounded reproduction",
+      "body": "The exact displayed cover is only 260 × 390 pixels. It supports the principal figures, trunks, cup and title hierarchy; fine leaves and distant facial details remain limited. No sharpened or invented drawing is used to fill those gaps.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cover"
+       }
+      ]
+     }
+    ],
+    "question": "Where does the pale paper do the most work: around the title, the main face or the distant figures?",
+    "related": [
+     "title",
+     "distant"
+    ],
+    "layerIndex": 0,
+    "number": 11
+   }
+  ],
+  "sources": [
+   {
+    "id": "cover",
+    "title": "The displayed cover",
+    "url": "https://mphonline.com/products/kampung-boy-kampathu-paiyan-tamil",
+    "kind": "Visual and edition source",
+    "summary": "Malaysian Tamil edition, ITNM, 14 July 2011, ISBN 9789830687216. Lat’s original work appeared in 1979. Sriranggan Perumal is the translator, not the original author."
+   },
+   {
+    "id": "catalogue",
+    "title": "Malaysian institutional catalogue: Tamil Kampung Boy",
+    "url": "https://lib.iab.edu.my/cgi-bin/koha/opac-search.pl?count=20&limit=au%3ALat&q=ccl%3Dsu%3A%22Books%22+and+holdingbranch%3A04&sort_by=relevance_dsc",
+    "kind": "Institutional catalogue",
+    "summary": "The institutional catalogue identifies Lat as author, Sriranggan Perumal as translator and ITNM as the 2011 publisher. It resolves the retailer’s ambiguous author field; direct page retrieval can vary, but the indexed institutional record preserves those roles."
+   }
+  ],
+  "tour": [
+   "title",
+   "tree",
+   "head",
+   "load",
+   "reclining",
+   "distant"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected cover wording",
+    "rows": [
+     {
+      "text": "கம்பத்துப் பையன்",
+      "meaning": "Provisional visual reading of the Tamil title; the edition record supplies Kampathu Paiyan",
+      "lang": "ta"
+     },
+     {
+      "text": "லாட்",
+      "meaning": "Lat — provisional visual reading of the creator name",
+      "lang": "ta"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected clearly legible cover wording. Line breaks and casing may be regularized. Small uncertain print is omitted rather than guessed. The Tamil glyph reading is provisional at this reproduction size; the institutional and retailer records establish the romanized title and creator roles, not a fluent transcription audit.",
+  "palette": [
+   {
+    "name": "Warm trunk",
+    "hex": "#FAEFD1",
+    "role": "A light warm area within the foreground tree.",
+    "region": "tree"
+   },
+   {
+    "name": "Dark title",
+    "hex": "#22221A",
+    "role": "Dark lettering against pale woodland.",
+    "region": "title"
+   },
+   {
+    "name": "Pale paper",
+    "hex": "#F9F9EF",
+    "role": "Open space between trunks.",
+    "region": "canopy"
+   }
+  ],
+  "paletteNote": "Samples come from individual pixels in this reproduction. They describe its visible colour, not original printing inks or an exact historical colour standard."
+ }
+}

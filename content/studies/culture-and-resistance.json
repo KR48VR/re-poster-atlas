@@ -1,0 +1,578 @@
+{
+ "poster": {
+  "id": "culture-and-resistance",
+  "title": "Culture and Resistance",
+  "year": "1982",
+  "yearNumber": 1982,
+  "creator": "Thami Mnyele / Medu Art Ensemble",
+  "country": "Botswana",
+  "countries": [
+   "Botswana"
+  ],
+  "region": "Africa",
+  "category": "Performance",
+  "edition": "Silkscreen poster for the Culture and Resistance symposium and festival, Gaborone, 5–9 July 1982. South African exile cultural production in Botswana.",
+  "image": "images/full/culture-and-resistance.jpg",
+  "ratio": 0.7728758169934641,
+  "imageWidth": 473,
+  "imageHeight": 612,
+  "alt": "Two black-and-white hands clasp beneath a streaming red flame, with the words culture and resistance set on a rising diagonal and red festival details at lower right.",
+  "blurb": "Joined hands and a flame make a compact emblem for a festival that connected art with collective resistance.",
+  "notes": [
+   {
+    "title": "The hands remain connected",
+    "body": "An open upright hand and a second gripping hand form one interlocked gesture. Their drawn contours and hatching make solidarity bodily rather than an abstract word alone."
+   },
+   {
+    "title": "Red carries the motion",
+    "body": "A long red flame streams to the right above the hands. The red rules beneath it repeat the sloping direction of the title, drawing separate parts of the sheet into a shared movement."
+   },
+   {
+    "title": "An event rooted in exile",
+    "body": "Medu made the poster in Gaborone for its 1982 festival. The small date and place name locate a larger statement about culture in a specific Botswana gathering shaped by South African anti-apartheid exile networks."
+   }
+  ],
+  "source": "https://post.moma.org/culture-as-a-weapon-of-struggle-the-art-of-the-medu-poster-you-have-struck-a-rock-1981/",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Thami_Mnyele_culture_and_resistance_poster.jpg",
+  "credit": "Thami Mnyele / Medu Art Ensemble, 1982. Photograph by Judy Seidman, 2007, provided through Wikimedia Commons with a CC0 dedication for the photograph; original poster attribution retained.",
+  "imageCredit": "Thami Mnyele / Medu Art Ensemble, 1982. Photograph by Judy Seidman, 2007, provided through Wikimedia Commons with a CC0 dedication for the photograph; original poster attribution retained.",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/2/27/Thami_Mnyele_culture_and_resistance_poster.jpg",
+  "anchor": [
+   0.28,
+   0.42
+  ],
+  "accent": "#c42b22",
+  "reproduction": "Photograph of the original silkscreen poster by surviving Medu member Judy Seidman. Poster date: 1982; photograph date: 2007.",
+  "anchorLayer": 1,
+  "primaryOrigin": "Botswana",
+  "thumb": "images/catalogue/culture-and-resistance.webp"
+ },
+ "studyData": {
+  "intro": "Two hands and a red flame turn a symposium announcement into an image of collective action. Read the bodily gesture closely, then follow the sloping words down to the practical invitation in Gaborone.",
+  "initial": "grip",
+  "regions": [
+   {
+    "id": "paper",
+    "label": "The open paper field",
+    "shortLabel": "The open paper field",
+    "kicker": "Blank space has a shape",
+    "summary": "Large blank areas keep black and red shapes apart.",
+    "x": 83,
+    "y": 62,
+    "bounds": {
+     "x": 1,
+     "y": 1,
+     "w": 98,
+     "h": 98
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Blank space has a shape",
+      "body": "The pale background is especially open at the upper left and lower centre. It separates the flame, hands and event details without enclosing each in a box. Near the wrists, white gaps also appear inside the drawing, so background and bodily highlights use similar light values.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A limited visual vocabulary",
+      "body": "Black, red and the pale ground create strong differences without many colours. This restraint makes small red event details connect with the much larger flame. It is a relationship visible in the reproduction; the screen colours do not specify the exact inks used on the original sheet.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which empty area does the most work in separating the messages?",
+    "related": [
+     "flame",
+     "details"
+    ],
+    "number": 1
+   },
+   {
+    "id": "flame",
+    "label": "A red shape in motion",
+    "shortLabel": "A red shape in motion",
+    "kicker": "Direction through tapering",
+    "summary": "Long red points sweep toward the right.",
+    "x": 53.5,
+    "y": 19,
+    "bounds": {
+     "x": 10,
+     "y": 5,
+     "w": 87,
+     "h": 28
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Direction through tapering",
+      "body": "The red flame stretches sideways in long, narrowing points. Black strokes run through it and pale breaks divide it into strands. Its tips move rightward above the hands, contrasting with the broad, weighty forms of the forearms below.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Energy is a reading",
+      "body": "The flame can suggest energy, continuation or urgency because it spreads beyond the grasp below. Those are interpretations of this shape. The poster does not require a single literal explanation of what is burning, and the source does not identify the flame as a particular historical incident.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which edges make the flame seem to move rather than sit still?",
+    "related": [
+     "raised",
+     "rules"
+    ],
+    "number": 2
+   },
+   {
+    "id": "raised",
+    "label": "The upright fingers",
+    "shortLabel": "The upright fingers",
+    "kicker": "An open rather than closed hand",
+    "summary": "An open hand rises beneath the flame.",
+    "x": 21.5,
+    "y": 33,
+    "bounds": {
+     "x": 7,
+     "y": 19,
+     "w": 29,
+     "h": 28
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An open rather than closed hand",
+      "body": "Several fingers extend upward, each described with dark joints and pale surfaces. Their uneven lengths and slightly different angles prevent the hand from becoming a rigid sign. The flame passes above them, while another hand crosses the lower part of the gesture.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Read the whole gesture",
+      "body": "At a glance this may resemble a single raised-hand emblem. Looking closer reveals a second hand and changes the action into a relationship between bodies. The visible openness of the fingers matters: replacing them mentally with a fist would produce a different image.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How many finger shapes can you follow before they overlap?",
+    "related": [
+     "grip",
+     "flame"
+    ],
+    "number": 3
+   },
+   {
+    "id": "grip",
+    "label": "The clasp across the palm",
+    "shortLabel": "The clasp across the palm",
+    "kicker": "Overlap makes contact",
+    "summary": "A second hand grips the first.",
+    "x": 28.5,
+    "y": 46.5,
+    "bounds": {
+     "x": 6,
+     "y": 34,
+     "w": 45,
+     "h": 25
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Overlap makes contact",
+      "body": "The horizontal hand wraps across the upright one, with fingers curling around its side. Black outlines and small white gaps separate the two sets of fingers. The contact sits near the left centre, making it the hinge between the upward flame and the downward arms.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Solidarity as a possible reading",
+      "body": "The clasp supports a reading of cooperation or mutual support because one body holds another. This is a visual interpretation, not an identification of two named people. It is stronger when tied to the actual contact than when reduced to a general statement that all hands symbolize unity.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where do the two hands meet, and which outlines help separate them?",
+    "related": [
+     "raised",
+     "forearms"
+    ],
+    "number": 4
+   },
+   {
+    "id": "forearms",
+    "label": "Two different arm shapes",
+    "shortLabel": "Two different arm shapes",
+    "kicker": "Contrast inside a single drawing",
+    "summary": "One dark mass meets a lighter, hatched arm.",
+    "x": 32,
+    "y": 63.5,
+    "bounds": {
+     "x": 2,
+     "y": 49,
+     "w": 60,
+     "h": 29
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Contrast inside a single drawing",
+      "body": "The left forearm is largely black with scattered light marks, while the arm entering from the right contains more pale space and fine dark lines. Their angled ends sit above the title. The contrast helps distinguish the bodies even though both are rendered without naturalistic colour.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Avoid identities from shading",
+      "body": "Differences in ink coverage do not establish the identities, skin colours or social positions of the people represented. They can be described securely as graphic contrasts. The collective political context comes from the documented event, rather than from assigning demographic categories to these drawn arms.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What changes when you ignore the hands and compare only the forearms?",
+    "related": [
+     "grip",
+     "title"
+    ],
+    "number": 5
+   },
+   {
+    "id": "title",
+    "label": "Words on a rising diagonal",
+    "shortLabel": "Words on a rising diagonal",
+    "kicker": "Two terms joined together",
+    "summary": "The event’s central idea tilts upward.",
+    "x": 32.5,
+    "y": 73.5,
+    "bounds": {
+     "x": 2,
+     "y": 62,
+     "w": 61,
+     "h": 23
+    },
+    "layerIndex": 4,
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Two terms joined together",
+      "body": "The words culture and resistance share the same slant and plain dark lettering. They occupy separate lines but form one phrase. The angle runs against the page’s upright edges, so reading becomes a physical movement across the sheet rather than a straight descent.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A specific gathering",
+      "body": "MoMA’s account identifies the Culture and Resistance Symposium and Festival of the Arts in Gaborone in 1982, organized by Medu Art Ensemble. The gathering brought artists and cultural workers together around the role of culture in opposing apartheid. These words therefore name an event as well as an idea.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "moma"
+       }
+      ]
+     }
+    ],
+    "question": "How does reading the title move your eye differently from reading the date?",
+    "related": [
+     "details",
+     "rules"
+    ],
+    "number": 6
+   },
+   {
+    "id": "rules",
+    "label": "Two red diagonals",
+    "shortLabel": "Two red diagonals",
+    "kicker": "Lines with unequal lengths",
+    "summary": "Thin lines extend the title’s slant.",
+    "x": 82,
+    "y": 59,
+    "bounds": {
+     "x": 24,
+     "y": 44,
+     "w": 74,
+     "h": 42
+    },
+    "layerIndex": 4,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Lines with unequal lengths",
+      "body": "Two fine red lines cross the open right half on the same rising diagonal as the title. They do not form a complete rectangle. Their long reach connects areas that would otherwise be separated by pale space, while their thinness keeps them subordinate to the hands.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A graphic echo of movement",
+      "body": "The rules repeat the title’s angle and answer the flame’s rightward sweep. One relationship is geometric and the other more fluid. Comparing them shows how very different marks can share a direction without needing to depict the same object or carry an identical meaning.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Follow the red rules: do they enclose, underline or direct?",
+    "related": [
+     "flame",
+     "title"
+    ],
+    "number": 7
+   },
+   {
+    "id": "details",
+    "label": "Date and city",
+    "shortLabel": "Date and city",
+    "kicker": "A practical change of scale",
+    "summary": "A compact red block tells people where and when.",
+    "x": 78,
+    "y": 81,
+    "bounds": {
+     "x": 63,
+     "y": 76,
+     "w": 30,
+     "h": 10
+    },
+    "layerIndex": 5,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A practical change of scale",
+      "body": "The lower-right block places the July dates above a smaller event description and the city name. These lines are upright, unlike the large title. The shift makes the information feel distinct from the expressive image while red connects it to the flame and rules.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A poster has a task",
+      "body": "The dated invitation makes this an announcement with a practical use. A reader needed both the larger idea and the smaller logistics. Studying only the dramatic hands would miss the sheet’s work of helping an audience recognize and locate a particular gathering.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which part would you need to attend the event, rather than simply admire the image?",
+    "related": [
+     "title",
+     "imprint"
+    ],
+    "number": 8
+   },
+   {
+    "id": "imprint",
+    "label": "The collective imprint",
+    "shortLabel": "The collective imprint",
+    "kicker": "Credit at the edge",
+    "summary": "A small line names Medu Art Ensemble.",
+    "x": 82,
+    "y": 96.25,
+    "bounds": {
+     "x": 70,
+     "y": 95,
+     "w": 24,
+     "h": 2.5
+    },
+    "layerIndex": 5,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Credit at the edge",
+      "body": "The tiny imprint sits close to the lower-right margin, well below the event details. Its black lettering does not compete with the red date. This hierarchy lets the public message dominate, while a patient reader can still find a statement of collective authorship.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Artist and ensemble",
+      "body": "MoMA credits the festival poster to Thami Mnyele and Medu Art Ensemble and identifies its medium as silkscreen. Its account describes Medu as a Gaborone-based collective with many South African exiles. The attribution belongs to both an individual maker and an organized cultural collaboration.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "moma"
+       }
+      ]
+     }
+    ],
+    "question": "What is lost if this bottom line is cropped away?",
+    "related": [
+     "details",
+     "grip"
+    ],
+    "number": 9
+   },
+   {
+    "id": "hatching",
+    "label": "Lines that build a body",
+    "shortLabel": "Lines that build a body",
+    "kicker": "Contour and texture",
+    "summary": "Fine marks model the right forearm.",
+    "x": 48,
+    "y": 57,
+    "bounds": {
+     "x": 36,
+     "y": 48,
+     "w": 24,
+     "h": 18
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Contour and texture",
+      "body": "A strong outer line defines the arm, while much shorter strokes describe changes within its pale surface. Their density increases near bends and overlaps. This difference between outline and internal mark gives the drawing volume even though the poster uses a very restricted colour range.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A different speed of looking",
+      "body": "The broad silhouette works from far away; these small marks reward close inspection. The two scales coexist rather than compete. Looking only at the outline simplifies the gesture, while following the internal marks makes the bodily contact feel more specific and less like a generic icon.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which marks describe an edge, and which describe the surface inside it?",
+    "related": [
+     "forearms",
+     "grip"
+    ],
+    "number": 10
+   }
+  ],
+  "sources": [
+   {
+    "id": "moma",
+    "title": "MoMA: Medu and the Culture and Resistance festival",
+    "url": "https://post.moma.org/culture-as-a-weapon-of-struggle-the-art-of-the-medu-poster-you-have-struck-a-rock-1981/",
+    "kind": "Museum research",
+    "summary": "Identifies this 1982 silkscreen by Thami Mnyele/Medu and documents the Gaborone symposium and collective’s anti-apartheid context."
+   }
+  ],
+  "tour": [
+   "grip",
+   "raised",
+   "flame",
+   "title",
+   "details",
+   "imprint"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected readable wording",
+    "rows": [
+     {
+      "text": "culture and resistance",
+      "meaning": "The event title.",
+      "lang": "en"
+     },
+     {
+      "text": "July 5th–9th",
+      "meaning": "The dates printed on the poster.",
+      "lang": "en"
+     },
+     {
+      "text": "SYMPOSIUM and FESTIVAL",
+      "meaning": "The announced forms of gathering.",
+      "lang": "en"
+     },
+     {
+      "text": "GABORONE",
+      "meaning": "The city named for the event.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "This is a partial transcript of securely readable wording in the installed reproduction. Small credits, logos and review attributions are not fully transcribed; enlargement cannot restore missing source detail.",
+  "palette": [
+   {
+    "name": "Flame red",
+    "hex": "#C00705",
+    "role": "The strongest colour accent.",
+    "region": "flame"
+   },
+   {
+    "name": "Paper cream",
+    "hex": "#FFFFF7",
+    "role": "The open ground between messages.",
+    "region": "paper"
+   },
+   {
+    "name": "Arm black",
+    "hex": "#060B0F",
+    "role": "A dense bodily silhouette.",
+    "region": "forearms"
+   }
+  ],
+  "paletteNote": "These are individual screen-pixel samples from the installed digital reproduction, not specifications for the original inks or paper. Texture, lighting, scanning and screen settings affect their appearance.",
+  "connections": [
+   {
+    "label": "Grip and movement",
+    "title": "Interlocked hands beneath a streaming flame",
+    "text": "The hands concentrate the image into a firm central grip. Above them, the long red flame carries that compact gesture outward toward the right.",
+    "anchors": [
+     [
+      2,
+      0.22093023255813954,
+      0.2949346405228758
+     ],
+     [
+      3,
+      0.2124735729386892,
+      0.4795751633986928
+     ],
+     [
+      1,
+      0.63107822410148,
+      0.19526143790849673
+     ]
+    ],
+    "id": "culture-and-resistance-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Shared diagonal",
+    "title": "Arms and lettering point through the page",
+    "text": "The sloping forearm and rising title follow related diagonals. Thin red rules extend that direction into the open paper.",
+    "anchors": [
+     [
+      3,
+      0.48731501057082455,
+      0.5743464052287581
+     ],
+     [
+      4,
+      0.36046511627906974,
+      0.7230392156862745
+     ],
+     [
+      4,
+      0.8150105708245243,
+      0.5122549019607843
+     ]
+    ],
+    "id": "culture-and-resistance-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

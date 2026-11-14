@@ -1,0 +1,539 @@
+{
+ "poster": {
+  "id": "we-can-do-it",
+  "title": "We Can Do It!",
+  "year": "1943",
+  "yearNumber": 1943,
+  "country": "United States",
+  "region": "North America",
+  "category": "Politics",
+  "creator": "J. Howard Miller",
+  "edition": "Westinghouse workplace poster, displayed for two weeks in 1943; digitally restored reproduction of NARA 535413.",
+  "image": "images/full/we-can-do-it.jpg",
+  "ratio": 0.772,
+  "width": 772,
+  "height": 1000,
+  "alt": "A woman in a blue work shirt and red polka-dot headscarf flexes her arm against a yellow ground beneath a dark blue speech bubble.",
+  "blurb": "An assertive pose, a rolled sleeve and a collective pronoun make a workplace message feel immediate.",
+  "notes": [
+   {
+    "title": "A gesture fills the frame",
+    "body": "The bent arm forms a broad diagonal across the torso. The rolled sleeve and direct gaze make bodily effort the poster’s central visual fact."
+   },
+   {
+    "title": "A statement becomes speech",
+    "body": "The dark blue heading curves into a speech-bubble shape. “We” links the pictured worker with other workers instead of naming a single individual."
+   },
+   {
+    "title": "An afterlife larger than its launch",
+    "body": "Miller made the design for Westinghouse’s internal wartime campaign. Its later association with Rosie the Riveter is broader than its brief original workplace display."
+   }
+  ],
+  "source": "https://www.archives.gov/research/still-pictures/highlights/we-can-do-it",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:We_Can_Do_It!_NARA_535413_-_Restoration_2.jpg",
+  "imageCredit": "J. Howard Miller, 1943. U.S. National Archives, 179-WP-1563 / 535413; public-domain image, restored version via Wikimedia Commons.",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/d/df/We_Can_Do_It%21_NARA_535413_-_Restoration_2.jpg",
+  "accent": "#d6a328",
+  "anchor": [
+   0.5,
+   0.45
+  ],
+  "credit": "J. Howard Miller, 1943. U.S. National Archives, 179-WP-1563 / 535413; public-domain image, restored version via Wikimedia Commons.",
+  "countries": [
+   "United States"
+  ],
+  "primaryOrigin": "United States",
+  "anchorLayer": 1,
+  "thumb": "images/catalogue/we-can-do-it.webp"
+ },
+ "studyData": {
+  "intro": "The familiar image deserves an unfamiliar question: who was “we” when it first appeared? The archive identifies an internal Westinghouse wartime campaign, while the poster’s later life made it much broader. Read the gesture and speech first, then look at the company marks and display instruction that are often cropped away.",
+  "initial": "we-can-do-it-headline",
+  "regions": [
+   {
+    "id": "we-can-do-it-headline",
+    "number": 1,
+    "label": "We Can Do It!",
+    "shortLabel": "We Can Do It!",
+    "kicker": "A CLAIM WITH AN OPEN PRONOUN",
+    "summary": "A short sentence speaks for a group.",
+    "x": 49.5,
+    "y": 11,
+    "bounds": {
+     "x": 2,
+     "y": 1,
+     "w": 95,
+     "h": 20
+    },
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A claim with an open pronoun",
+      "body": "WE CAN DO IT! is affirmative, brief and collective. “We” does not name its members; “it” does not state the task. The words can therefore be reused in many settings, but their flexibility should not erase the specific workplace context of this original campaign.",
+      "evidence": "observation",
+      "originalText": "We Can Do It!",
+      "lang": "en",
+      "translation": "A collective statement of capability"
+     },
+     {
+      "kind": "context",
+      "heading": "The first audience was specific",
+      "body": "The National Archives says Westinghouse commissioned J. Howard Miller for wartime posters and used this image internally. It also distinguishes that original use from its later association with Rosie the Riveter. The broad modern symbolism should not be projected unchanged onto the initial workplace display.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "Who might “we” include in different places where this image is displayed?",
+    "related": [
+     "we-can-do-it-tail",
+     "we-can-do-it-footer"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "we-can-do-it-tail",
+    "number": 2,
+    "label": "The headline becomes speech",
+    "shortLabel": "The headline becomes speech",
+    "kicker": "A BAND WITH A POINTED INTERRUPTION",
+    "summary": "A pointed tail connects the blue band with the figure.",
+    "x": 51.5,
+    "y": 22.5,
+    "bounds": {
+     "x": 39,
+     "y": 18,
+     "w": 25,
+     "h": 9
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A band with a pointed interruption",
+      "body": "The lower edge of the blue heading curves and then descends to a sharp point near the figure’s head. That small deviation makes the banner resemble a speech bubble. It links the large words with the person without placing type over her face.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A voice that seems embodied",
+      "body": "The point can make the sentence feel spoken rather than issued by an anonymous notice. Yet the company footer reminds us that this is a produced campaign. The visual association between voice and figure should not be mistaken for testimony from a named individual worker.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How would the sentence feel without the speech-bubble point?",
+    "related": [
+     "we-can-do-it-headline",
+     "we-can-do-it-face"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "we-can-do-it-face",
+    "number": 3,
+    "label": "A direct look beneath the scarf",
+    "shortLabel": "A direct look beneath the scarf",
+    "kicker": "EYES WITHIN A LARGE GESTURE",
+    "summary": "The face holds attention above the bent arm.",
+    "x": 28.5,
+    "y": 34.5,
+    "bounds": {
+     "x": 14,
+     "y": 18,
+     "w": 29,
+     "h": 33
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Eyes within a large gesture",
+      "body": "The eyes face outward beneath dark brows and a curl of hair. Warm skin contrasts with blue cloth and yellow ground. The face is smaller than the bent arm, but its outward gaze gives it a different kind of prominence from the surrounding colour shapes.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Determination is a reading",
+      "body": "The set mouth, raised brow area and direct look can be read as resolve. They do not establish the feelings of a real sitter or every worker who saw the poster. Describe the visible features first, then test which interpretations they can reasonably support.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which small features give the gaze its directness?",
+    "related": [
+     "we-can-do-it-headline",
+     "we-can-do-it-fist"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "we-can-do-it-scarf",
+    "number": 4,
+    "label": "A red scarf full of pale dots",
+    "shortLabel": "A red scarf full of pale dots",
+    "kicker": "PATTERN AROUND THE HEAD",
+    "summary": "Pattern interrupts the large blue and yellow areas.",
+    "x": 22.5,
+    "y": 29,
+    "bounds": {
+     "x": 0,
+     "y": 12,
+     "w": 45,
+     "h": 34
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Pattern around the head",
+      "body": "Red fabric is scattered with irregular pale dots and tied above the forehead. The knot creates a small pointed shape against the dark heading. Its busy surface differs from the broad shirt and unbroken background, concentrating detail around the face.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Colour as a connection",
+      "body": "The scarf gives the upper body a warm accent distinct from both the blue shirt and the skin. Its dots repeat small light shapes around the head, but the image does not prove a fixed political meaning for their number, spacing or pattern.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Why does the dotted scarf remain noticeable beside the much larger arm?",
+    "related": [
+     "we-can-do-it-face",
+     "we-can-do-it-shirt"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "we-can-do-it-fist",
+    "number": 5,
+    "label": "The arm forms a broad arc",
+    "shortLabel": "The arm forms a broad arc",
+    "kicker": "A LARGE CONTINUOUS SHAPE",
+    "summary": "A bent limb fills much of the right side.",
+    "x": 65,
+    "y": 53.5,
+    "bounds": {
+     "x": 43,
+     "y": 27,
+     "w": 44,
+     "h": 53
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A large continuous shape",
+      "body": "The forearm rises to a clenched fist, then joins the upper arm through a broad elbow. Shading gives the skin volume while the outline remains simple enough to read quickly. The gesture occupies far more area than the face or any company mark.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Strength made visible",
+      "body": "The bent pose can suggest readiness and physical capability, especially beside the collective sentence above. That interpretation concerns this staged illustration. The poster supplies no measurement of strength and cannot tell us what specific work the pictured figure performs.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What changes if you cover the fist but leave the elbow visible?",
+    "related": [
+     "we-can-do-it-sleeve",
+     "we-can-do-it-face"
+    ],
+    "layerIndex": 5
+   },
+   {
+    "id": "we-can-do-it-sleeve",
+    "number": 6,
+    "label": "A hand gathers the fabric",
+    "shortLabel": "A hand gathers the fabric",
+    "kicker": "A CONTACT POINT BETWEEN SKIN AND CLOTH",
+    "summary": "The second hand makes the arm gesture practical.",
+    "x": 53,
+    "y": 58.5,
+    "bounds": {
+     "x": 39,
+     "y": 50,
+     "w": 28,
+     "h": 17
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A contact point between skin and cloth",
+      "body": "One hand grips the blue sleeve near the upper arm. Fingers and cloth folds converge in a small area, showing the sleeve being gathered rather than simply ending at a smooth seam. The action connects the broad muscular outline with an everyday adjustment of clothing.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Preparation as well as display",
+      "body": "The sleeve-gripping hand can make the pose read as getting ready to work, not only showing a bent arm. Compare the practical contact point with the more emblematic fist. The two gestures allow several related meanings without a detailed workplace scene behind them.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does this smaller hand change the meaning of the raised arm?",
+    "related": [
+     "we-can-do-it-fist",
+     "we-can-do-it-shirt"
+    ],
+    "layerIndex": 5
+   },
+   {
+    "id": "we-can-do-it-shirt",
+    "number": 7,
+    "label": "Blue cloth makes a second large field",
+    "shortLabel": "Blue cloth makes a second large field",
+    "kicker": "A SOLID COLOUR WITH INTERNAL MOVEMENT",
+    "summary": "Folds prevent the garment from becoming a flat silhouette.",
+    "x": 36,
+    "y": 74,
+    "bounds": {
+     "x": 7,
+     "y": 48,
+     "w": 58,
+     "h": 52
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A solid colour with internal movement",
+      "body": "The blue shirt fills much of the lower-left image. Darker folds run diagonally across the shoulder and torso, while lighter edges show the collar and sleeve. These changes describe the body’s turn without requiring a separate background or tools.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A colour repeated at the borders",
+      "body": "Blue appears in the shirt, upper speech area and bottom band. The repetition ties figure and lettering together across the yellow ground. It also gives the warm skin and red scarf clear contrasting areas, making the limited palette do several compositional jobs.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which folds make the torso’s turn visible?",
+    "related": [
+     "we-can-do-it-sleeve",
+     "we-can-do-it-badge"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "we-can-do-it-badge",
+    "number": 8,
+    "label": "The small mark at the collar",
+    "shortLabel": "The small mark at the collar",
+    "kicker": "A CIRCLE INSIDE THE BLUE CLOTH",
+    "summary": "A pale circular badge rewards closer inspection.",
+    "x": 29.5,
+    "y": 52.5,
+    "bounds": {
+     "x": 24,
+     "y": 49,
+     "w": 11,
+     "h": 7
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A circle inside the blue cloth",
+      "body": "A pale badge sits on the collar near the neck. Its circular boundary and small internal marks distinguish it from the folds. The installed image reveals that a workplace-style mark is present, but its fine lettering is not fully transcribed here.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Institutional detail at a second scale",
+      "body": "The badge and footer locate the broad gesture within an organised workplace campaign. They are less conspicuous than the slogan but important for historical reading. Cropping them away can make the image seem more general than the complete sheet actually is.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Why might a very small badge matter even when the slogan dominates?",
+    "related": [
+     "we-can-do-it-shirt",
+     "we-can-do-it-footer"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "we-can-do-it-footer",
+    "number": 9,
+    "label": "A company, a committee and a display window",
+    "shortLabel": "A company, a committee and a display window",
+    "kicker": "INSTRUCTIONS ON THE POSTER ITSELF",
+    "summary": "Small words restore the campaign’s original setting.",
+    "x": 50,
+    "y": 95,
+    "bounds": {
+     "x": 0,
+     "y": 90,
+     "w": 100,
+     "h": 10
+    },
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Instructions on the poster itself",
+      "body": "The lower-left instruction reads POST FEB. 15 TO FEB. 28. The right side names the WAR PRODUCTION CO-ORDINATING COMMITTEE beside a Westinghouse emblem. The visible instruction specifies dates within a month; it does not print a year in that short line.",
+      "evidence": "observation",
+      "originalText": "POST FEB. 15 TO FEB. 28",
+      "lang": "en",
+      "translation": "Display from February 15 to February 28"
+     },
+     {
+      "kind": "context",
+      "heading": "Dates need careful handling",
+      "body": "The Archives describes the record as circa 1942–1943 and notes the 1942 commission. The catalogue here follows the familiar 1943 display convention. Keep the archive’s broad dating, the commission and the visible two-week instruction distinct rather than claiming the footer itself proves the year.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "What changes when the lower band is included instead of cropped away?",
+    "related": [
+     "we-can-do-it-headline",
+     "we-can-do-it-badge"
+    ],
+    "layerIndex": 6
+   },
+   {
+    "id": "we-can-do-it-yellow",
+    "number": 10,
+    "label": "The unoccupied yellow field",
+    "shortLabel": "The unoccupied yellow field",
+    "kicker": "A GROUND WITH FEW DISTRACTIONS",
+    "summary": "A strong flat colour lets the silhouette read clearly.",
+    "x": 92.5,
+    "y": 48.5,
+    "bounds": {
+     "x": 86,
+     "y": 25,
+     "w": 13,
+     "h": 47
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A ground with few distractions",
+      "body": "Yellow surrounds the head and arm without furniture, machinery or a landscape. Its relative flatness makes the figure’s outline especially clear. The largest open area lies beside the raised forearm, where even a small contour change would be easy to see.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "One body stands for a larger task",
+      "body": "Removing the workplace setting concentrates the appeal into a person, gesture and sentence. The result can travel beyond its first use, as the archive’s account of its later revival confirms. Portability of meaning, however, is not proof that all later uses share the original purpose.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What would be lost if machinery filled this area?",
+    "related": [
+     "we-can-do-it-fist",
+     "we-can-do-it-scarf"
+    ],
+    "layerIndex": 0
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed We Can Do It! poster reproduction",
+    "url": "https://commons.wikimedia.org/wiki/File:We_Can_Do_It!_NARA_535413_-_Restoration_2.jpg",
+    "kind": "Visual source",
+    "summary": "The exact edition shown is the evidence for visible shapes, wording, positions and reproduction samples. The linked record identifies the image; readings of its visual effects are supplied by Poster Atlas."
+   },
+   {
+    "id": "record",
+    "title": "National Archives: We Can Do It!",
+    "url": "https://www.archives.gov/research/still-pictures/highlights/we-can-do-it",
+    "kind": "National archive",
+    "summary": "Documents Miller’s Westinghouse commission, initial internal use, broad ca. 1942–1943 dating and later association with Rosie the Riveter. Does not identify a sitter or establish a universal meaning for the gesture."
+   }
+  ],
+  "tour": [
+   "we-can-do-it-headline",
+   "we-can-do-it-tail",
+   "we-can-do-it-face",
+   "we-can-do-it-fist",
+   "we-can-do-it-sleeve",
+   "we-can-do-it-footer"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected wording in this edition",
+    "rows": [
+     {
+      "text": "We Can Do It!",
+      "meaning": "A collective claim of capability",
+      "lang": "en"
+     },
+     {
+      "text": "POST FEB. 15 TO FEB. 28",
+      "meaning": "Display instruction: February 15–28",
+      "lang": "en"
+     },
+     {
+      "text": "WAR PRODUCTION CO-ORDINATING COMMITTEE",
+      "meaning": "The issuing committee named in the footer",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Main slogan and clear footer wording only. The tiny collar-badge inscription is not expanded. This installed file is a digitally restored reproduction; screen colours are not proof of original ink values.",
+  "palette": [
+   {
+    "name": "Yellow ground",
+    "hex": "#E9CB53",
+    "role": "Separates the silhouette from an uncluttered field",
+    "region": "we-can-do-it-yellow"
+   },
+   {
+    "name": "Dark blue bubble",
+    "hex": "#203E7A",
+    "role": "Holds the collective statement",
+    "region": "we-can-do-it-headline"
+   },
+   {
+    "name": "Red scarf",
+    "hex": "#D85936",
+    "role": "A patterned warm accent near the face",
+    "region": "we-can-do-it-scarf"
+   },
+   {
+    "name": "Work-shirt blue",
+    "hex": "#1F2F51",
+    "role": "Links figure and blue borders",
+    "region": "we-can-do-it-shirt"
+   }
+  ],
+  "paletteNote": "Approximate screen samples from the installed reproduction. These describe image pixels, not original inks, paper colours or calibrated printing specifications."
+ }
+}

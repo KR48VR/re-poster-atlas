@@ -1,0 +1,619 @@
+{
+ "poster": {
+  "id": "amores-perros",
+  "title": "Amores perros",
+  "year": "2000",
+  "yearNumber": 2000,
+  "creator": "Poster artist uncredited",
+  "country": "Mexico",
+  "countries": [
+   "Mexico"
+  ],
+  "region": "Latin America & Caribbean",
+  "category": "Film",
+  "filmCreator": "Alejandro González Iñárritu",
+  "edition": "U.S. Academy Award nominee theatrical poster, 2001 campaign",
+  "image": "images/full/amores-perros.jpg",
+  "ratio": 0.676923076923077,
+  "alt": "Black Amores perros poster with a horizontal strip of three faces in fierce orange-red light, a white-and-red title and dense red review text.",
+  "blurb": "Three cropped faces flare out of black; the title switches colour midway through.",
+  "notes": [
+   {
+    "title": "Three faces, one narrow strip",
+    "body": "The portraits are cropped tightly into a horizontal band. Similar hot highlights connect the separate faces while their different directions keep the sequence unsettled."
+   },
+   {
+    "title": "A split inside the name",
+    "body": "Amores appears in white and perros in red. The shared heavy lettering joins the words into one unit while the colour change puts a visible break within it."
+   },
+   {
+    "title": "Red becomes a second image",
+    "body": "A dense block of small red text occupies the lower middle. From a distance it reads as a textured rectangle, balancing the much brighter band of portraits above."
+   }
+  ],
+  "source": "https://www.criterion.com/films/30908-amores-perros",
+  "credit": "Copyright in the poster remains with its respective rights holders. Image reproduced via the linked Wikimedia file record; no public-domain status is claimed.",
+  "imageCredit": "Copyright in the poster remains with its respective rights holders. Image reproduced via the linked Wikimedia file record; no public-domain status is claimed.",
+  "imageSource": "https://en.wikipedia.org/wiki/File:Amores_Perros_poster.jpg",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/en/4/4b/Amores_Perros_poster.jpg",
+  "anchor": [
+   0.515,
+   0.33
+  ],
+  "accent": "#dd3120",
+  "yearNote": "The catalogue year is the film year. The reproduced poster edition is identified separately.",
+  "reproduction": "The poster advertises its Academy Award nomination, identifying a U.S. awards campaign after the film’s 2000 premiere. The small 220 × 325 source is retained without enlargement.",
+  "posterDateStatus": "2001 U.S. awards campaign; film year 2000.",
+  "posterYear": "2001",
+  "posterTerritory": "United States",
+  "primaryOrigin": "Mexico",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/amores-perros.webp"
+ },
+ "studyData": {
+  "intro": "Three cropped faces share a hot-coloured strip, while words occupy much of the black page. This U.S. campaign edition asks us to read a film’s identity through portraits, a split-colour title and selected endorsements.",
+  "initial": "portrait-band",
+  "regions": [
+   {
+    "id": "portrait-band",
+    "number": 1,
+    "label": "Three-face strip",
+    "shortLabel": "Three-face strip",
+    "kicker": "DESIGN",
+    "summary": "A narrow band contains the main human images.",
+    "x": 24,
+    "y": 31,
+    "bounds": {
+     "x": 2,
+     "y": 21,
+     "w": 96,
+     "h": 25
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A common crop",
+      "body": "The three faces are cut tightly at different edges, with little clothing or surrounding space. Similar orange highlights connect them across the strip. The crop makes eyes, noses and mouths the main information rather than complete bodies or a shared setting.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Interwoven stories",
+      "body": "Criterion describes the 2000 Mexican film as three interconnected lives in Mexico City: a young man, a woman and an older man whose stories collide. That supplies narrative context for comparing portraits. It does not prove that this campaign strip maps every face to one precise plot strand.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "criterion"
+       }
+      ]
+     }
+    ],
+    "question": "What does the narrow crop remove that a full portrait would reveal?",
+    "related": [
+     "left-face",
+     "middle-face"
+    ]
+   },
+   {
+    "id": "left-face",
+    "number": 2,
+    "label": "Left face",
+    "shortLabel": "Left face",
+    "kicker": "DESIGN",
+    "summary": "A dark eye and bright cheek create a first focal point.",
+    "x": 19,
+    "y": 34,
+    "bounds": {
+     "x": 2,
+     "y": 21,
+     "w": 35,
+     "h": 25
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Light at one side",
+      "body": "The left face is divided between deep shadow and a hot, bright cheek. Its eye, nose and mouth are visible at different contrasts. The partial crop against the left edge makes the head feel closer than a portrait surrounded by empty space.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A direction to compare",
+      "body": "The face turns into the strip rather than standing as a neutral identification photograph. Compare its angle with the central face. The contrast can suggest separate attentions or experiences without allowing us to name the emotion from the expression alone.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does this face seem to direct your attention?",
+    "related": [
+     "middle-face",
+     "right-face"
+    ]
+   },
+   {
+    "id": "middle-face",
+    "number": 3,
+    "label": "Central face",
+    "shortLabel": "Central face",
+    "kicker": "DESIGN",
+    "summary": "The brightest portrait interrupts the dark gaps.",
+    "x": 58,
+    "y": 33,
+    "bounds": {
+     "x": 39,
+     "y": 22,
+     "w": 34,
+     "h": 24
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A pale central highlight",
+      "body": "The central face has especially bright areas around the nose and cheek, surrounded by saturated orange and dark hair. Its upward angle differs from the neighbouring portraits. The near-white highlight becomes a small but strong centre within the narrow photographic band.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Brightness as hierarchy",
+      "body": "Although the face is not enormously larger than its neighbours, its lightness can make it register first. This is a useful test of hierarchy: prominence can come from contrast as well as size or central position.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Is this face dominant because it is central, bright, or both?",
+    "related": [
+     "left-face",
+     "black-gap"
+    ]
+   },
+   {
+    "id": "right-face",
+    "number": 4,
+    "label": "Right face and beard",
+    "shortLabel": "Right face and beard",
+    "kicker": "DESIGN",
+    "summary": "Texture replaces some of the broad facial planes.",
+    "x": 89,
+    "y": 34,
+    "bounds": {
+     "x": 75,
+     "y": 22,
+     "w": 25,
+     "h": 24
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A rougher surface",
+      "body": "The rightmost portrait contains a dense beard and strongly cropped features. Small bright flecks break up the dark facial hair. Compared with the smoother cheek areas beside it, this texture makes the face less immediately reducible to a few broad light shapes.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Different kinds of detail",
+      "body": "The three portraits share colour treatment while preserving distinct surface rhythms. This lets the band feel connected without making every face visually identical. A comparison of smooth highlights and broken texture can be made without inferring personality from facial hair.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which portrait remains clearest when you blur the image slightly?",
+    "related": [
+     "middle-face",
+     "portrait-band"
+    ]
+   },
+   {
+    "id": "black-gap",
+    "number": 5,
+    "label": "Black intervals",
+    "shortLabel": "Black intervals",
+    "kicker": "DESIGN",
+    "summary": "Quiet bands separate portraits from further persuasion.",
+    "x": 51,
+    "y": 56,
+    "bounds": {
+     "x": 3,
+     "y": 53,
+     "w": 94,
+     "h": 7
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Space between registers",
+      "body": "A broad black interval separates the title from the lower endorsements. Smaller dark gaps also interrupt the faces and surround the top wording. These spaces make the sheet readable as several distinct registers rather than one continuous block of high-contrast information.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Silence as a design choice",
+      "body": "The poster contains a great deal of writing, yet the black intervals prevent every part from competing at once. Try mentally removing the gap under the title: the review block would crowd the name and weaken its independence.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which gap is most important for keeping the title distinct?",
+    "related": [
+     "title",
+     "review-block"
+    ]
+   },
+   {
+    "id": "title",
+    "number": 6,
+    "label": "White and red title",
+    "shortLabel": "White and red title",
+    "kicker": "LANGUAGE",
+    "summary": "One name is visibly divided into two colour units.",
+    "x": 50,
+    "y": 48,
+    "bounds": {
+     "x": 5,
+     "y": 44,
+     "w": 89,
+     "h": 8
+    },
+    "layerIndex": 4,
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A split within the title",
+      "body": "Amores appears in white and perros in red, while the same heavy condensed style joins the words. The original Spanish title is retained in this English-language campaign. A literal word-by-word gloss would not capture all the title’s idiomatic possibilities, so it is not substituted here.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Unity and interruption",
+      "body": "The shared letter height and close spacing make one continuous title. The colour change creates an internal break at the same time. Compare this division with the face strip: both parts of the poster connect separate elements while preserving differences.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does the colour change make you pause between the two words?",
+    "related": [
+     "portrait-band",
+     "director"
+    ]
+   },
+   {
+    "id": "director",
+    "number": 7,
+    "label": "Small filmmaker line",
+    "shortLabel": "Small filmmaker line",
+    "kicker": "DESIGN",
+    "summary": "A fine credit follows the heavy name.",
+    "x": 70,
+    "y": 53,
+    "bounds": {
+     "x": 56,
+     "y": 51,
+     "w": 40,
+     "h": 4
+    },
+    "layerIndex": 5,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A quieter line",
+      "body": "A small filmmaker credit sits just below the right-hand part of the title. Its pale tone links it to the white letters, but its scale makes it clearly secondary. The narrow line is easily missed when the poster is viewed from a distance.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A film credit, not poster authorship",
+      "body": "Criterion credits Alejandro G. Iñárritu as director and Guillermo Arriaga Jordán as writer. These are film credits. They should not be transferred to the uncredited poster design simply because a filmmaker’s name is visible beneath the title.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "criterion"
+       }
+      ]
+     }
+    ],
+    "question": "Why is it useful to distinguish the film’s author from the poster’s designer?",
+    "related": [
+     "title",
+     "credits"
+    ]
+   },
+   {
+    "id": "nomination",
+    "number": 8,
+    "label": "Upper nomination line",
+    "shortLabel": "Upper nomination line",
+    "kicker": "LANGUAGE",
+    "summary": "Red campaign wording leads the page.",
+    "x": 49,
+    "y": 5,
+    "bounds": {
+     "x": 6,
+     "y": 2,
+     "w": 89,
+     "h": 6
+    },
+    "layerIndex": 5,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Reading a dated claim",
+      "body": "The upper red line announces an Academy Award nomination in the category name used by this campaign. Here it is read as visible historical wording. It should not be silently rewritten as a win, or treated as a current award-category label.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A reason to look again",
+      "body": "The line gives an English-speaking audience an external recognition cue before the faces. Its colour anticipates the second half of the title and the lower red text block. This is a marketing structure, not evidence of how every viewer responded.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What changes if the nomination line is removed but the portraits stay?",
+    "related": [
+     "review-quote",
+     "title"
+    ]
+   },
+   {
+    "id": "review-quote",
+    "number": 9,
+    "label": "Upper review excerpt",
+    "shortLabel": "Upper review excerpt",
+    "kicker": "DESIGN",
+    "summary": "A pale quotation sits between claim and image.",
+    "x": 50,
+    "y": 12,
+    "bounds": {
+     "x": 6,
+     "y": 9,
+     "w": 89,
+     "h": 7
+    },
+    "layerIndex": 5,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A change of voice",
+      "body": "Quotation marks and a small attribution distinguish the review excerpt from the red campaign headline. The pale text is finer and arranged in several lines. It asks for a slower reading before the eye reaches the much larger facial features below.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Selection is part of persuasion",
+      "body": "A campaign presents a chosen passage rather than an entire review. The passage may encourage curiosity, but it does not summarise every critic’s view. We can examine the use of endorsement without repeating long copyrighted text or treating the excerpt as neutral consensus.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What does an attribution add that an unsigned slogan would not?",
+    "related": [
+     "nomination",
+     "review-block"
+    ]
+   },
+   {
+    "id": "review-block",
+    "number": 10,
+    "label": "Dense red block",
+    "shortLabel": "Dense red block",
+    "kicker": "DESIGN",
+    "summary": "Small words become a rectangular texture.",
+    "x": 51,
+    "y": 69,
+    "bounds": {
+     "x": 6,
+     "y": 61,
+     "w": 89,
+     "h": 16
+    },
+    "layerIndex": 5,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Text at two distances",
+      "body": "At close range the lower block contains many separate lines; at a distance it becomes a single red mass. A pale introductory line distinguishes its top. The block balances the portrait band without becoming another photographic scene.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A second image made of words",
+      "body": "The density of this information can suggest accumulated recognition, but not every tiny name is legible in the installed source. Preserving that limit is better than inventing a complete festival list. The block’s size, colour and texture remain available for close looking.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "At what viewing size do these words stop being text and start being a shape?",
+    "related": [
+     "black-gap",
+     "credits"
+    ]
+   },
+   {
+    "id": "credits",
+    "number": 11,
+    "label": "Fine base and web address",
+    "shortLabel": "Fine base and web address",
+    "kicker": "DESIGN",
+    "summary": "The final information is darker and much smaller.",
+    "x": 51,
+    "y": 92,
+    "bounds": {
+     "x": 6,
+     "y": 88,
+     "w": 91,
+     "h": 8
+    },
+    "layerIndex": 5,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A low-contrast final stage",
+      "body": "Fine credits sit near the bottom, with a small red web address below them. They are considerably darker and smaller than the review text. The lower margin remains mostly black, so the practical information does not compete with the central title.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Campaign and film year",
+      "body": "The installed artwork belongs to an English-language nomination campaign, while the film record identifies a 2000 Mexican film. Those facts need not share one date. A poster can promote a later territory release of an earlier film without changing the film’s identity.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which visible features distinguish this campaign from a Spanish-only release poster?",
+    "related": [
+     "director",
+     "nomination"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed poster edition",
+    "url": "https://en.wikipedia.org/wiki/File:Amores_Perros_poster.jpg",
+    "kind": "Visual source",
+    "summary": "The reproduced edition is the evidence for visible wording, layout, marks and colour relationships. Translations and visual interpretations are supplied by Poster Atlas."
+   },
+   {
+    "id": "criterion",
+    "title": "Criterion: Amores perros",
+    "url": "https://www.criterion.com/films/30908-amores-perros",
+    "kind": "Official home-video distributor",
+    "summary": "Identifies the Mexican 2000 Spanish-language film, its three-strand story and film credits. Its newly commissioned cover is different from this installed theatrical campaign poster."
+   }
+  ],
+  "tour": [
+   "portrait-band",
+   "middle-face",
+   "title",
+   "nomination",
+   "review-block",
+   "credits"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "amores perros",
+      "meaning": "Original Spanish film title, retained rather than replaced by a literal gloss.",
+      "lang": "es"
+     },
+     {
+      "text": "ACADEMY AWARD NOMINEE",
+      "meaning": "Nomination wording on this campaign edition.",
+      "lang": "en"
+     },
+     {
+      "text": "WINNER — BEST FILM",
+      "meaning": "Visible introductory wording for the lower recognition block; the small accompanying list is not transcribed.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Only securely legible title and key wording are transcribed. Small credits are not reconstructed from this reproduction.",
+  "palette": [
+   {
+    "name": "Near-black ground",
+    "hex": "#050704",
+    "role": "The quiet lower field.",
+    "region": "black-gap"
+   },
+   {
+    "name": "Hot portrait red",
+    "hex": "#EE1109",
+    "role": "The warm left portrait.",
+    "region": "left-face"
+   },
+   {
+    "name": "Pale face highlight",
+    "hex": "#F5F4E0",
+    "role": "A bright cheek patch in the central portrait.",
+    "region": "middle-face"
+   },
+   {
+    "name": "Title red",
+    "hex": "#E60B0F",
+    "role": "The second half of the title.",
+    "region": "title"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in this installed reproduction. They are not original paint, ink or printing specifications.",
+  "connections": [
+   {
+    "label": "Three directions",
+    "title": "A conversation across the strip",
+    "text": "The three cropped faces point and look in different directions. Their shared warm light joins them even as the black intervals keep each face distinct.",
+    "anchors": [
+     [
+      1,
+      0.21136363636363636,
+      0.3
+     ],
+     [
+      3,
+      0.8340909090909091,
+      0.3
+     ]
+    ],
+    "id": "amores-perros-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Red returns",
+    "title": "A word echoes the surrounding print",
+    "text": "The red half of the title repeats the red award and review text. White lettering gives the other half of the title a different emphasis against the same dark ground.",
+    "anchors": [
+     [
+      4,
+      0.7295454545454545,
+      0.4815384615384615
+     ],
+     [
+      5,
+      0.5704545454545454,
+      0.6692307692307692
+     ]
+    ],
+    "id": "amores-perros-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

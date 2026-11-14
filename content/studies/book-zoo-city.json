@@ -1,0 +1,616 @@
+{
+ "poster": {
+  "id": "book-zoo-city",
+  "title": "Zoo City",
+  "year": "2014",
+  "yearNumber": 2014,
+  "coverYear": "2014",
+  "posterYear": "2014",
+  "posterDateStatus": "Publisher listing: July 2014; underlying cover design documented in 2010. Current award and bonsela-edition wording should not be dated to the first design without evidence.",
+  "bookFirstPublication": "2010",
+  "bookAuthor": "Lauren Beukes",
+  "bookPublisher": "Jacana Media",
+  "bookOrigin": "English-language novel by Lauren Beukes",
+  "category": "Book cover",
+  "country": "South Africa",
+  "countries": [
+   "South Africa"
+  ],
+  "primaryOrigin": "South Africa",
+  "region": "Africa",
+  "creator": "Joey Hi-Fi",
+  "image": "images/full/book-zoo-city.jpg",
+  "ratio": 0.6388888888888888,
+  "alt": "Black animals, faces, buildings and branches form the words ZOO CITY on white, with small flying birds and red promotional lettering.",
+  "blurb": "The title is a habitat: its letters contain the world they name.",
+  "notes": [
+   {
+    "title": "Reading changes into searching",
+    "body": "At a distance the black shapes form two words. Up close they resolve into animals, faces, branches and urban fragments."
+   },
+   {
+    "title": "Birds escape the letters",
+    "body": "Small flying silhouettes scatter above the title. They extend the picture into the white margin rather than remaining inside the main letter forms."
+   },
+   {
+    "title": "The edition has a history",
+    "body": "The design was discussed with Joey Hi-Fi in 2010; the current Jacana listing is 2014. Its corner says bonsela edition with author interview, not anniversary edition."
+   }
+  ],
+  "source": "https://jacana.co.za/product/zoo-city/",
+  "credit": "Jacana’s current image for ISBN 9781770098183, listed July 2014. A 2010 first-person designer/publisher interview credits Joey Hi-Fi for the South African cover.",
+  "edition": "Publisher listing: July 2014; underlying cover design documented in 2010. Current award and bonsela-edition wording should not be dated to the first design without evidence.",
+  "originNote": "Country describes this edition’s publishing/design context, not the author’s nationality. South African Jacana edition, with South African design independently documented.",
+  "originSources": [
+   {
+    "title": "Jacana Media: Zoo City, ISBN 9781770098183",
+    "url": "https://jacana.co.za/product/zoo-city/"
+   },
+   {
+    "title": "brainwavez: first-person interviews on the Zoo City cover",
+    "url": "https://www.brainwavez.org/books/features/2010/20100323001-01.html"
+   }
+  ],
+  "creditSources": [
+   {
+    "title": "Jacana Media: Zoo City, ISBN 9781770098183",
+    "url": "https://jacana.co.za/product/zoo-city/"
+   },
+   {
+    "title": "brainwavez: first-person interviews on the Zoo City cover",
+    "url": "https://www.brainwavez.org/books/features/2010/20100323001-01.html"
+   }
+  ],
+  "imageSource": "https://jacana.co.za/product/zoo-city/",
+  "imageCredit": "Jacana’s current image for ISBN 9781770098183, listed July 2014. A 2010 first-person designer/publisher interview credits Joey Hi-Fi for the South African cover.",
+  "accent": "#BD0914",
+  "anchor": [
+   0.517,
+   0.31
+  ],
+  "reproduction": "Source reproduction retained without generative reconstruction. Analytical layers partition visible source pixels; printing colours and hidden artwork cannot be recovered.",
+  "downloadURL": "https://jacana.co.za/wp-content/uploads/2021/02/ZOO-CITY-COV-HR-RGB-1.jpg",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-zoo-city.webp"
+ },
+ "studyData": {
+  "intro": "The title is a habitat: its letters contain the world they name. Follow the details to compare what is visible, what can be interpreted and what the edition record establishes.",
+  "initial": "zoo",
+  "regions": [
+   {
+    "id": "zoo",
+    "number": 1,
+    "label": "Animals become the upper word",
+    "shortLabel": "ZOO as habitat",
+    "kicker": "DESIGN",
+    "summary": "The word ZOO is built from dark animal bodies, eyes, fur, feathers and urban fragments.",
+    "layerIndex": 1,
+    "x": 51.7,
+    "y": 31.03,
+    "bounds": {
+     "x": 4,
+     "y": 9,
+     "w": 92,
+     "h": 40
+    },
+    "question": "Which detail first made you stop reading the word and start searching inside it?",
+    "related": [
+     "eye",
+     "city"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "ZOO as habitat in the image",
+      "body": "The word ZOO is built from dark animal bodies, eyes, fur, feathers and urban fragments. White gaps retain the broad outlines of the letters. At a distance the word is readable; close up, its surfaces break into many smaller recognisable forms.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Read a letter, then discover a creature",
+      "body": "Reading and searching become alternating activities. The eye can resolve a letter, then discover an animal within it, then return to the word. This double scale is visible in the design itself and does not require knowing the novel’s plot.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "city",
+    "number": 2,
+    "label": "The lower word adds urban fragments",
+    "shortLabel": "CITY as habitat",
+    "kicker": "DESIGN",
+    "summary": "CITY fills a second large row beneath ZOO.",
+    "layerIndex": 2,
+    "x": 53.09,
+    "y": 61.42,
+    "bounds": {
+     "x": 3,
+     "y": 47,
+     "w": 94,
+     "h": 30
+    },
+    "question": "Can you identify one object that remains itself while also becoming part of a letter?",
+    "related": [
+     "zoo",
+     "eye"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "CITY as habitat in the image",
+      "body": "CITY fills a second large row beneath ZOO. Buildings, branches, faces and animal forms contribute to its dark strokes. Some structures keep their own orientation while also serving the larger shape of a letter, creating several overlapping ways to read the same mark.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An object also becomes part of a letter",
+      "body": "The lower word makes city and creature visually inseparable. That is a formal relationship in this cover, not a claim that every pictured fragment has a single fixed symbolic meaning. Compare one recognisable object with the letter it helps build.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "eye",
+    "number": 3,
+    "label": "An eye survives inside a letter",
+    "shortLabel": "Animal eye",
+    "kicker": "DESIGN",
+    "summary": "A small light eye appears within the dark upper-right animal mass.",
+    "layerIndex": 1,
+    "x": 73.08696,
+    "y": 20.41667,
+    "bounds": {
+     "x": 69,
+     "y": 12,
+     "w": 28,
+     "h": 31
+    },
+    "question": "Why might this tiny light mark command more attention than a much larger white gap?",
+    "related": [
+     "zoo",
+     "city"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Animal eye in the image",
+      "body": "A small light eye appears within the dark upper-right animal mass. Nearby fur or quill-like strokes radiate into the white field. The eye is tiny compared with the letter containing it, yet its enclosed contrast makes it discoverable.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A tiny eye interrupts the act of reading",
+      "body": "A face can interrupt the act of reading. Once noticed, the eye may turn a typographic surface into a creature looking back. Compare its effect with the larger white gaps that make the O readable: both are light areas, but they carry different kinds of recognition.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "buildings",
+    "number": 4,
+    "label": "Straight architecture crosses organic marks",
+    "shortLabel": "Building fragments",
+    "kicker": "DESIGN",
+    "summary": "Small rectangular buildings and repeated windows appear among the dark letter forms.",
+    "layerIndex": 2,
+    "x": 42.65,
+    "y": 58.69,
+    "bounds": {
+     "x": 34,
+     "y": 49,
+     "w": 20,
+     "h": 24
+    },
+    "question": "What is the smallest detail that lets you recognise a building here?",
+    "related": [
+     "zoo",
+     "eye"
+    ],
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Building fragments in the image",
+      "body": "Small rectangular buildings and repeated windows appear among the dark letter forms. Their straight edges contrast with fur, feathers and branches nearby. Several fragments are cropped or merged into other forms rather than presented as complete architectural views.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Windows and fur make different textures",
+      "body": "The fragments make urban structure recognisable without constructing a consistent perspective view of a city. Repetition of windows supplies a different texture from animal hair. Compare these two kinds of repeated mark before interpreting what their combination might mean.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "context",
+      "heading": "The designer worked from a reading",
+      "body": "In the 2010 first-person interview, Beukes says Joey Hi-Fi developed ideas after reading an early version of the novel and requested animal lists and Hillbrow reference photographs. That testimony supports a deliberate relationship with the story, without assigning a unique meaning to every tiny fragment.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "zoodesign"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "birds",
+    "number": 5,
+    "label": "Small silhouettes leave the title",
+    "shortLabel": "Flying birds",
+    "kicker": "DESIGN",
+    "summary": "Small dark birds scatter above and between the upper letters.",
+    "layerIndex": 3,
+    "x": 49.7,
+    "y": 11.47,
+    "bounds": {
+     "x": 12,
+     "y": 3,
+     "w": 66,
+     "h": 18
+    },
+    "question": "Which bird most clearly connects the dense title to the open margin?",
+    "related": [
+     "zoo",
+     "eye"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Flying birds in the image",
+      "body": "Small dark birds scatter above and between the upper letters. Their wings point in different directions, and their sizes vary. A larger flying form occupies part of the upper centre, while smaller silhouettes extend into otherwise open white space.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "The image escapes the letter boundaries",
+      "body": "The birds let the image escape the main letter boundaries. They can make the title feel less like a sealed container and more like an active environment. The impression of flight comes from their outlines and distribution, not from literal movement in the printed image.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "white",
+    "number": 6,
+    "label": "Empty space keeps the words readable",
+    "shortLabel": "White intervals",
+    "kicker": "DESIGN",
+    "summary": "White appears around the entire composition and inside the large letters.",
+    "layerIndex": 0,
+    "x": 56,
+    "y": 48,
+    "bounds": {
+     "x": 0,
+     "y": 43,
+     "w": 100,
+     "h": 8
+    },
+    "question": "Which white opening would be most damaging to lose?",
+    "related": [
+     "zoo",
+     "eye"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "White intervals in the image",
+      "body": "White appears around the entire composition and inside the large letters. It also cuts into the black imagery as eyes, mouths, windows and small highlights. The same colour therefore serves both broad separation and fine internal description.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Read the title through its empty spaces",
+      "body": "The white intervals are essential to the title’s legibility. If every gap filled with another animal or building, the larger word shapes would weaken. Look at the cover as a collection of white shapes and see which letters remain easiest to recognise.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "author",
+    "number": 7,
+    "label": "A solid name follows the intricate title",
+    "shortLabel": "Author line",
+    "kicker": "LANGUAGE",
+    "summary": "LAUREN BEUKES appears beneath the illustrated words in heavy black capitals.",
+    "layerIndex": 4,
+    "x": 53.96,
+    "y": 81.08,
+    "bounds": {
+     "x": 4,
+     "y": 76,
+     "w": 92,
+     "h": 11
+    },
+    "question": "Does the name feel quieter or louder than the title, and why?",
+    "related": [
+     "zoo",
+     "eye"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Author line in the image",
+      "body": "LAUREN BEUKES appears beneath the illustrated words in heavy black capitals. Its distressed-looking texture echoes some of the image marks, but the letters remain much more conventional and uninterrupted. This makes the author line a distinct lower block.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A simpler line changes the reading pace",
+      "body": "The shift from complex image-letters to plainer name-letters provides a change of reading pace. After searching inside the title, the eye gets a more direct identification. Compare the author’s relative simplicity with the amount of detail above it.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "award",
+    "number": 8,
+    "label": "Red introduces an external credential",
+    "shortLabel": "Award wording",
+    "kicker": "DESIGN",
+    "summary": "Red award wording sits beneath the author’s name.",
+    "layerIndex": 5,
+    "x": 49.7,
+    "y": 88.25,
+    "bounds": {
+     "x": 4,
+     "y": 86,
+     "w": 92,
+     "h": 5
+    },
+    "question": "How does the red line change the order in which you read the lower cover?",
+    "related": [
+     "zoo",
+     "eye"
+    ],
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Award wording in the image",
+      "body": "ARTHUR C. CLARKE AWARD WINNER appears in red beneath the author’s name. It is one of the few substantial colour accents on an otherwise black-and-white cover. The straight line differs from the scattered and irregular imagery above.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A 2014 edition and a design documented in 2010",
+      "body": "Jacana’s current product record lists this ISBN edition in July 2014. A first-person design interview documents Joey Hi-Fi’s underlying South African cover in 2010. The current promotional wording should not automatically be assigned to that earlier design state without separate evidence.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "zoo"
+       },
+       {
+        "id": "zoodesign"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "edition-corner",
+    "number": 9,
+    "label": "A corner offers an author interview",
+    "shortLabel": "Bonsela edition",
+    "kicker": "DESIGN",
+    "summary": "A red rounded corner panel contains the words bonsela edition with author interview.",
+    "layerIndex": 5,
+    "x": 8,
+    "y": 4,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 20,
+     "h": 10
+    },
+    "question": "Which part of this corner might matter especially to someone already familiar with the novel?",
+    "related": [
+     "zoo",
+     "eye"
+    ],
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Bonsela edition in the image",
+      "body": "A red rounded corner panel contains the words bonsela edition with author interview. Its white text reverses the black-on-white arrangement of the main title. The panel is separate from the small bird-like imprint device on the opposite side.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "An interview offers another reason to read",
+      "body": "The visible wording describes an edition feature. It does not say anniversary edition, and those two labels should not be exchanged. The promise of an interview gives a returning reader a different reason to consider the book from the illustrated title alone.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "review",
+    "number": 10,
+    "label": "A quoted voice completes the pitch",
+    "shortLabel": "Review quotation",
+    "kicker": "DESIGN",
+    "summary": "A short review quotation appears at the bottom, followed by WILLIAM GIBSON in heavier lettering.",
+    "layerIndex": 6,
+    "x": 52.22,
+    "y": 93.97,
+    "bounds": {
+     "x": 14,
+     "y": 91,
+     "w": 74,
+     "h": 8
+    },
+    "question": "How does an endorsement ask you to trust differently from a title or ISBN record?",
+    "related": [
+     "zoo",
+     "eye"
+    ],
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Review quotation in the image",
+      "body": "A short review quotation appears at the bottom, followed by WILLIAM GIBSON in heavier lettering. Its conventional lines and punctuation contrast with the image-filled title. The speaker’s name is separated from the quoted words, making the attribution visible.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "An endorsement adds a persuasive voice",
+      "body": "The cover brings in another writer’s judgement as promotional evidence. Seeing the quotation proves that the cover prints the endorsement, not that every reader must agree with it. Compare this persuasive voice with the more factual author and edition information.",
+      "evidence": "interpretation"
+     }
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "visual",
+    "title": "Exact reproduced cover: Zoo City",
+    "url": "https://jacana.co.za/product/zoo-city/",
+    "kind": "Visual source",
+    "summary": "Jacana’s current image for ISBN 9781770098183, listed July 2014. A 2010 first-person designer/publisher interview credits Joey Hi-Fi for the South African cover."
+   },
+   {
+    "id": "zoo",
+    "title": "Jacana Media: Zoo City, ISBN 9781770098183",
+    "url": "https://jacana.co.za/product/zoo-city/",
+    "kind": "Publisher edition record",
+    "summary": "Jacana’s current product record lists this ISBN edition in July 2014. A first-person design interview documents Joey Hi-Fi’s underlying South African cover in 2010. The current promotional wording should not automatically be assigned to that earlier design state without separate evidence."
+   },
+   {
+    "id": "zoodesign",
+    "title": "brainwavez: first-person interviews on the Zoo City cover",
+    "url": "https://www.brainwavez.org/books/features/2010/20100323001-01.html",
+    "kind": "First-person design interview",
+    "summary": "brainwavez: first-person interviews on the Zoo City cover. Supports the specific history distinguished in the edition note."
+   }
+  ],
+  "tour": [
+   "zoo",
+   "eye",
+   "city",
+   "birds",
+   "buildings",
+   "edition-corner"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected legible cover wording",
+    "rows": [
+     {
+      "text": "ZOO CITY",
+      "meaning": "Book title",
+      "lang": "en"
+     },
+     {
+      "text": "LAUREN BEUKES",
+      "meaning": "Author’s name",
+      "lang": "en"
+     },
+     {
+      "text": "bonsela edition with author interview",
+      "meaning": "Edition feature printed in the red corner",
+      "lang": "en"
+     },
+     {
+      "text": "ARTHUR C. CLARKE AWARD WINNER",
+      "meaning": "Promotional credential printed on the cover",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected wording only. Line breaks and typographic case may be regularized. Fine print and endorsement prose are omitted where not needed for this reading. English meanings are editorial translations, not a claim of native-language reader testing.",
+  "palette": [
+   {
+    "name": "Paper white",
+    "hex": "#FFFFFF",
+    "role": "A screen sample from white intervals. Compare this local colour with its surrounding shapes.",
+    "region": "white"
+   },
+   {
+    "name": "Image black",
+    "hex": "#160D0E",
+    "role": "A screen sample from zoo as habitat. Compare this local colour with its surrounding shapes.",
+    "region": "zoo"
+   },
+   {
+    "name": "Credential red",
+    "hex": "#BD0915",
+    "role": "A screen sample from award wording. Compare this local colour with its surrounding shapes.",
+    "region": "award"
+   }
+  ],
+  "paletteNote": "Samples are exact pixels from the installed reproduction, chosen within the named feature for perceptual agreement. They describe this screen image, not original ink specifications, paper stock or universal colour meanings.",
+  "connections": [
+   {
+    "title": "Image becomes a readable title",
+    "anchors": [
+     [
+      1,
+      0.5169565217391304,
+      0.31027777777777776
+     ],
+     [
+      2,
+      0.5308695652173913,
+      0.6141666666666666
+     ]
+    ],
+    "id": "book-zoo-city-connection-0",
+    "colour": "#be3d74",
+    "label": "ZOO / CITY",
+    "text": "Animal and urban fragments accumulate into two readable words; comparing the rows reveals how local pictures contribute to larger letter shapes."
+   },
+   {
+    "title": "Birds leave the letter boundary",
+    "anchors": [
+     [
+      3,
+      0.4969565217391304,
+      0.11472222222222223
+     ],
+     [
+      1,
+      0.5221739130434783,
+      0.2536111111111111
+     ]
+    ],
+    "id": "book-zoo-city-connection-1",
+    "colour": "#496f80",
+    "label": "Birds / letters",
+    "text": "Small flying silhouettes extend from the dense upper word into white space, loosening the boundary between lettering and pictured environment."
+   }
+  ]
+ }
+}

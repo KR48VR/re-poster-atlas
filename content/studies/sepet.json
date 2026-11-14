@@ -1,0 +1,568 @@
+{
+ "poster": {
+  "id": "sepet",
+  "title": "Sepet",
+  "year": "2004",
+  "yearNumber": 2004,
+  "country": "Malaysia",
+  "countries": [
+   "Malaysia"
+  ],
+  "region": "Southeast Asia",
+  "category": "Film",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Yasmin Ahmad",
+  "edition": "Malaysian theatrical poster",
+  "posterTerritory": "Malaysia",
+  "image": "images/full/sepet.jpg",
+  "ratio": 0.6876640419947506,
+  "alt": "A young couple sits close together on a wooden platform in a warm sepia landscape, beneath large white curved Sepet lettering.",
+  "blurb": "A modest seated pose and a warm shared palette give the couple a quiet, unforced presence.",
+  "notes": [
+   {
+    "title": "The title keeps a light touch",
+    "body": "The broad white letters have soft, irregular contours rather than rigid printed edges. Set above the pair against the warm sky, they give the name a relaxed presence that echoes the seated poses below."
+   },
+   {
+    "title": "Closeness without a dramatic pose",
+    "body": "The two figures share the same low platform and a similar seated height. Their bent legs and relaxed arms create a compact grouping that communicates intimacy through proximity."
+   },
+   {
+    "title": "Warmth unifies the scene",
+    "body": "Skin, timber and background stay within a narrow range of honey and brown tones. The dark clothing and pale dress create enough contrast to distinguish the two people without breaking that continuous atmosphere."
+   }
+  ],
+  "source": "https://history.sffs.org/films/film_details.php?id=4449",
+  "imageSource": "https://en.wikipedia.org/wiki/File:Yasmin_Ahmad%27s_Sepet_2004.jpg",
+  "imageCredit": "Malaysian campaign poster reproduced through Wikipedia’s source record, which cites a historical online reproduction. Poster artist uncredited; copyright remains with the respective film, distribution and artwork rights holders.",
+  "credit": "Malaysian campaign poster reproduced through Wikipedia’s source record, which cites a historical online reproduction. Poster artist uncredited; copyright remains with the respective film, distribution and artwork rights holders.",
+  "reproduction": "Film catalogued as Malaysia, 2004; Malaysian theatrical release began February 24, 2005. The selected campaign sheet’s exact printing date is unverified. Low-resolution 262 × 381 reproduction, without enlargement.",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/en/e/e4/Yasmin_Ahmad%27s_Sepet_2004.jpg",
+  "anchor": [
+   0.52,
+   0.58
+  ],
+  "accent": "#9a7847",
+  "primaryOrigin": "Malaysia",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/sepet.webp"
+ },
+ "studyData": {
+  "intro": "A seated pair, a weathered white title and a warm landscape give this small reproduction a quiet intimacy. The interesting tensions are within that simplicity: two different poses, two contrasting outfits and a title whose social meaning is not visible from its shape.",
+  "initial": "title",
+  "regions": [
+   {
+    "id": "sky",
+    "label": "A warm open sky",
+    "shortLabel": "A warm open sky",
+    "kicker": "One colour atmosphere",
+    "summary": "A light field surrounds the title and faces.",
+    "x": 50,
+    "y": 30,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 100,
+     "h": 60
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "One colour atmosphere",
+      "body": "The sky moves through honey, cream and pale brown rather than a clear blue. Light cloudlike patches remain near the top. This warm treatment links the title area to the photographed faces, reducing the visual break between typography and the scene below.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Warmth does not settle the story",
+      "body": "The colour may invite a gentle or nostalgic reading, but it cannot establish the story’s emotional outcome. The same warm field surrounds two different expressions. Comparing those faces with the background is more revealing than treating a warm palette as proof of a happy romance.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does the warm background become brightest?",
+    "related": [
+     "faces",
+     "title"
+    ],
+    "number": 1
+   },
+   {
+    "id": "title",
+    "label": "A rough white name",
+    "shortLabel": "A rough white name",
+    "kicker": "Texture inside letters",
+    "summary": "Large letters have irregular edges and gaps.",
+    "x": 51.5,
+    "y": 18.5,
+    "bounds": {
+     "x": 14,
+     "y": 11,
+     "w": 75,
+     "h": 15
+    },
+    "layerIndex": 3,
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Texture inside letters",
+      "body": "The title is set in large pale letters across the upper portion. Small gaps and rough edges keep the white from becoming a smooth, uniform band. The letter shapes occupy most of the width, while open sky remains around them to preserve their separation.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A loaded word",
+      "body": "The San Francisco festival record explains that Sepet is a Malay term associated with narrow or single-lidded eyes and can be used pejoratively. That context gives the title a social edge absent from its soft-looking letters. It should be discussed as the film’s provocative wording, not used as a label for a person.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "festival"
+       }
+      ]
+     }
+    ],
+    "question": "Which parts of the lettering look solid, and which seem worn away?",
+    "related": [
+     "faces",
+     "director"
+    ],
+    "number": 2
+   },
+   {
+    "id": "director",
+    "label": "A small author credit",
+    "shortLabel": "A small author credit",
+    "kicker": "A quiet line above a large one",
+    "summary": "The maker’s name sits above the title.",
+    "x": 75,
+    "y": 10,
+    "bounds": {
+     "x": 61,
+     "y": 8,
+     "w": 28,
+     "h": 4
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A quiet line above a large one",
+      "body": "A small pale credit sits toward the upper right, just above the title. It follows the page horizontally, unlike the title’s uneven letter edges. Its size asks for a closer look, but its placement links the film’s name with a named filmmaker.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A film by Yasmin Ahmad",
+      "body": "The festival archive credits Yasmin Ahmad as both director and screenwriter and records the film as Malaysian, from 2004. Those facts belong to the film. They do not establish who designed this particular poster or when this individual sheet was printed.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "festival"
+       }
+      ]
+     }
+    ],
+    "question": "How does the small director line alter what the large title tells you?",
+    "related": [
+     "title",
+     "billing"
+    ],
+    "number": 3
+   },
+   {
+    "id": "left",
+    "label": "The left seated figure",
+    "shortLabel": "The left seated figure",
+    "kicker": "A body made of triangles",
+    "summary": "Bent knees and hands form a compact shape.",
+    "x": 31,
+    "y": 55.5,
+    "bounds": {
+     "x": 7,
+     "y": 28,
+     "w": 48,
+     "h": 55
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A body made of triangles",
+      "body": "The left figure’s knees rise around the torso, while the arms slope toward hands held near the feet. Darker fabric and bare skin alternate in several triangular shapes. The head tilts slightly, breaking the otherwise strong vertical arrangement of the body.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Difference within closeness",
+      "body": "This folded pose contrasts with the more upright figure beside it. Their proximity places them in one scene, while different postures prevent them from becoming a symmetrical pair. The visible pose can be described without claiming to know what the character feels at this exact moment.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which angles make this pose feel folded inward?",
+    "related": [
+     "right",
+     "hands"
+    ],
+    "number": 4
+   },
+   {
+    "id": "right",
+    "label": "The right seated figure",
+    "shortLabel": "The right seated figure",
+    "kicker": "Pattern and outline",
+    "summary": "Pale patterned clothing creates a continuous light shape.",
+    "x": 71,
+    "y": 55.5,
+    "bounds": {
+     "x": 51,
+     "y": 28,
+     "w": 40,
+     "h": 55
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Pattern and outline",
+      "body": "The right figure’s pale garment falls from shoulder to knee in a broad shape covered by small marks. The pattern is too small to read fully at this resolution, but it gives the light area texture. Dark hair draws a clear boundary against the bright background.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A relationship in a mixed society",
+      "body": "The festival synopsis describes a romance between a Chinese Malaysian young man and a Malay schoolgirl. This context is supplied by the film record, not proved by clothing or facial appearance. The poster places them together while leaving the social pressures around their relationship largely outside the image.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "festival"
+       }
+      ]
+     }
+    ],
+    "question": "Where can you distinguish the pattern from the folds?",
+    "related": [
+     "left",
+     "faces"
+    ],
+    "number": 5
+   },
+   {
+    "id": "faces",
+    "label": "Two expressions",
+    "shortLabel": "Two expressions",
+    "kicker": "Small differences in a shared light",
+    "summary": "One face is tilted; the other looks toward the viewer.",
+    "x": 64,
+    "y": 34,
+    "bounds": {
+     "x": 24,
+     "y": 29,
+     "w": 50,
+     "h": 16
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Small differences in a shared light",
+      "body": "The two faces sit at a similar height beneath the title. One head leans to the side; the other is more upright. Light softens the right face more strongly, and the small reproduction loses some fine detail, so broad orientation is more reliable than subtle expression.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Let ambiguity remain",
+      "body": "The pair may suggest familiarity, affection or a pause in conversation. Those readings are possibilities rather than facts contained in a single facial expression. An attentive reading can name the tilt, distance and direction of the faces while allowing different viewers to interpret their relationship.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What can you describe about the mouths and eyes without naming an emotion?",
+    "related": [
+     "left",
+     "right"
+    ],
+    "number": 6
+   },
+   {
+    "id": "hands",
+    "label": "Hands near the ground",
+    "shortLabel": "Hands near the ground",
+    "kicker": "A low point of contact",
+    "summary": "The left figure’s hands gather between the feet.",
+    "x": 39.5,
+    "y": 73.5,
+    "bounds": {
+     "x": 25,
+     "y": 65,
+     "w": 29,
+     "h": 17
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A low point of contact",
+      "body": "The hands sit low in the composition, near the ankles and the wooden surface. Their pale tones interrupt darker clothing, drawing attention to the folded pose. Small fingers overlap, but the source resolution does not support a confident description of every individual digit.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A quieter kind of action",
+      "body": "Unlike a pointing or raised hand, these hands do not send attention outward. They keep the body visually compact and close to the platform. Comparing their position with the broad title above reveals a poster built around stillness rather than a large narrative action.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How do the hands connect the arms to the platform?",
+    "related": [
+     "left",
+     "platform"
+    ],
+    "number": 7
+   },
+   {
+    "id": "feet",
+    "label": "Bare feet at the edge",
+    "shortLabel": "Bare feet at the edge",
+    "kicker": "A shared baseline",
+    "summary": "Small skin tones bridge bodies and timber.",
+    "x": 50,
+    "y": 79,
+    "bounds": {
+     "x": 18,
+     "y": 74,
+     "w": 64,
+     "h": 10
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A shared baseline",
+      "body": "Bare feet appear along the front of the platform beneath both figures. The dark timber edge makes their light outlines easier to locate. Although the poses differ above, this common horizontal level ties the two bodies to the same physical surface.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Do not turn detail into a stereotype",
+      "body": "Bare feet are a visible choice within this photograph. They do not establish a character’s wealth, occupation or the customs of an entire culture. Here their strongest supported role is compositional: they make the seated bodies feel grounded in a specific, close setting.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where do the feet meet the dark horizontal line?",
+    "related": [
+     "platform",
+     "right"
+    ],
+    "number": 8
+   },
+   {
+    "id": "platform",
+    "label": "The wooden foreground",
+    "shortLabel": "The wooden foreground",
+    "kicker": "Horizontal stability",
+    "summary": "Horizontal boards support the pair.",
+    "x": 50,
+    "y": 82.5,
+    "bounds": {
+     "x": 0,
+     "y": 75,
+     "w": 100,
+     "h": 15
+    },
+    "layerIndex": 4,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Horizontal stability",
+      "body": "Dark bands and warm wood tones stretch across the lower image. The boards are much straighter than the curved clothing and bent limbs above them. Their repeated horizontal lines provide a stable base under two poses that are visually uneven.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A foreground without spectacle",
+      "body": "The platform is an ordinary surface, yet it gives the image scale and a place to rest. Cropping it away would leave the figures less securely located. This is a useful example of a background detail doing structural work without becoming a separate dramatic subject.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How do the board lines compare with the angles of the seated bodies?",
+    "related": [
+     "feet",
+     "billing"
+    ],
+    "number": 9
+   },
+   {
+    "id": "billing",
+    "label": "Credits on dark timber",
+    "shortLabel": "Credits on dark timber",
+    "kicker": "Contrast with a limit",
+    "summary": "Fine pale writing occupies the darkest base.",
+    "x": 50,
+    "y": 92,
+    "bounds": {
+     "x": 8,
+     "y": 87,
+     "w": 84,
+     "h": 10
+    },
+    "layerIndex": 5,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Contrast with a limit",
+      "body": "The credit block uses pale lettering against the dark lower area, giving it a favourable light-dark contrast. But the letters are extremely small in this 262-pixel-wide reproduction. Contrast helps them remain visible as writing without making every name reliably readable.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "An honest reading boundary",
+      "body": "A catalogue can identify the film from a reliable record while still acknowledging that this scan cannot support a complete credit transcript. Enlarging the image creates larger pixels, not new evidence. The study therefore keeps the clear title and director credit separate from unresolved fine print.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which text can you honestly read at this source size?",
+    "related": [
+     "director",
+     "platform"
+    ],
+    "number": 10
+   }
+  ],
+  "sources": [
+   {
+    "id": "festival",
+    "title": "San Francisco Film Festival archive: Sepet",
+    "url": "https://history.sffs.org/films/film_details.php?id=4449",
+    "kind": "Festival archive",
+    "summary": "Records Malaysia, 2004, Yasmin Ahmad’s writing/directing credits and the interracial romance; explains the title’s potentially derogatory meaning."
+   }
+  ],
+  "tour": [
+   "title",
+   "left",
+   "right",
+   "faces",
+   "feet",
+   "billing"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected readable wording",
+    "rows": [
+     {
+      "text": "SEPET",
+      "meaning": "Malay title; the contextual note explains its potentially derogatory use.",
+      "lang": "ms"
+     },
+     {
+      "text": "YASMIN AHMAD FILM",
+      "meaning": "A director attribution visible above the title.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "This is a partial transcript of securely readable wording in the installed reproduction. Small credits, logos and review attributions are not fully transcribed; enlargement cannot restore missing source detail.",
+  "palette": [
+   {
+    "name": "Honey sky",
+    "hex": "#DABD91",
+    "role": "Warm ground behind the title.",
+    "region": "sky"
+   },
+   {
+    "name": "Letter cream",
+    "hex": "#F9FCF5",
+    "role": "Pale title against the warm ground.",
+    "region": "title"
+   },
+   {
+    "name": "Timber dark",
+    "hex": "#040005",
+    "role": "A strong horizontal base.",
+    "region": "platform"
+   },
+   {
+    "name": "Dress cream",
+    "hex": "#DEC59D",
+    "role": "The lighter half of the pair.",
+    "region": "right"
+   }
+  ],
+  "paletteNote": "These are individual screen-pixel samples from the installed digital reproduction, not specifications for the original inks or paper. Texture, lighting, scanning and screen settings affect their appearance.",
+  "connections": [
+   {
+    "label": "Two seated shapes",
+    "title": "Closeness through matching height",
+    "text": "The two heads and bent knees sit at similar heights. Their compact silhouettes make a shared group without a dramatic gesture.",
+    "anchors": [
+     [
+      1,
+      0.3683206106870229,
+      0.479002624671916
+     ],
+     [
+      2,
+      0.6698473282442748,
+      0.479002624671916
+     ]
+    ],
+    "id": "sepet-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Light above and below",
+    "title": "A pale title, a pale dress",
+    "text": "The broad white letters and the light dress provide two quiet bright areas within the continuous warm scene.",
+    "anchors": [
+     [
+      3,
+      0.47900763358778625,
+      0.17979002624671916
+     ],
+     [
+      2,
+      0.7194656488549618,
+      0.6391076115485564
+     ]
+    ],
+    "id": "sepet-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

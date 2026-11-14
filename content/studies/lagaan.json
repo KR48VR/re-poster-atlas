@@ -1,0 +1,578 @@
+{
+ "poster": {
+  "id": "lagaan",
+  "title": "Lagaan",
+  "year": "2001",
+  "yearNumber": 2001,
+  "country": "India",
+  "region": "South Asia",
+  "category": "Film",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Ashutosh Gowariker",
+  "edition": "English-language release poster",
+  "image": "images/full/lagaan.jpg",
+  "ratio": 0.7002652519893899,
+  "alt": "Lagaan English-language poster with a central man in a headcloth, two women’s faces behind him, a golden field and widely spaced green title letters at the bottom.",
+  "blurb": "One upright figure is framed by two enlarged faces, above a broad green title.",
+  "notes": [
+   {
+    "title": "One figure gives the image its spine",
+    "body": "The central man is shown from head to waist, facing outward. His upright body establishes a strong axis that holds the larger, more softly rendered faces together."
+   },
+   {
+    "title": "Faces surround rather than divide",
+    "body": "The flanking portraits blend into the warm background instead of occupying separate boxes. Their unequal sizes make the arrangement feel like an emotional field around the central figure."
+   },
+   {
+    "title": "A wide title steadies the page",
+    "body": "The green serif letters spread across the lower portion. Their spacing and horizontal reach balance the tall body above, giving the densely layered portraits a calm foundation."
+   }
+  ],
+  "source": "https://www.bfi.org.uk/film/c1155083-22b7-5a5d-8387-9bdae45b4e91/lagaan",
+  "imageSource": "https://en.wikipedia.org/wiki/File:Lagaan.jpg",
+  "imageCredit": "Copyright in the poster remains with its respective studio, distributor or artist. Low-resolution reproduction via Wikipedia for visual commentary; see the image source record.",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/en/b/b6/Lagaan.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+  "anchor": [
+   0.52,
+   0.44
+  ],
+  "accent": "#3c6b42",
+  "yearNote": "Year refers to the film’s first release; the poster edition is identified separately.",
+  "credit": "Copyright in the poster remains with its respective studio, distributor or artist. Low-resolution reproduction via Wikipedia for visual commentary; see the image source record.",
+  "countries": [
+   "India"
+  ],
+  "primaryOrigin": "India",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/lagaan.webp"
+ },
+ "studyData": {
+  "intro": "Three portraits blend into a warm field, with one upright body serving as the spine. The large green title and English subtitle introduce the story through scale and tone rather than showing its central cricket contest. Look for the places where a face, costume and empty space do different kinds of work.",
+  "initial": "lagaan-central-face",
+  "regions": [
+   {
+    "id": "lagaan-central-face",
+    "number": 1,
+    "label": "The central face looks outward",
+    "shortLabel": "The central face looks outward",
+    "kicker": "POSITION COMPETES WITH SIZE",
+    "summary": "A smaller head anchors a larger body.",
+    "x": 48.5,
+    "y": 18,
+    "bounds": {
+     "x": 36,
+     "y": 2,
+     "w": 25,
+     "h": 32
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Position competes with size",
+      "body": "The central face sits high on the vertical axis and looks outward. It is smaller than either flanking portrait, yet the attached shoulders and torso give it a complete upright presence. Central position and bodily continuity counter the other faces’ larger scale.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A wager with shared consequences",
+      "body": "Distributor trigon-film describes Bhuvan leading villagers into a cricket wager whose outcome affects their taxes. This context gives the central figure a narrative role, but it does not establish every relationship merely from the poster’s arrangement of faces.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "Why does this face remain central beside two much larger ones?",
+    "related": [
+     "lagaan-torso",
+     "lagaan-headcloth"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "lagaan-headcloth",
+    "number": 2,
+    "label": "A pale band around the head",
+    "shortLabel": "A pale band around the head",
+    "kicker": "A SMALL WRAP WITH CLEAR FOLDS",
+    "summary": "Folded cloth makes a horizontal accent above the face.",
+    "x": 49,
+    "y": 9.5,
+    "bounds": {
+     "x": 35,
+     "y": 4,
+     "w": 28,
+     "h": 11
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A small wrap with clear folds",
+      "body": "A pale cloth wraps the head with uneven edges and overlapping folds. It separates the darker hair from the forehead and creates a light horizontal interruption near the top. Its texture is different from the flatter, wider hat beside it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Costume is a clue with limits",
+      "body": "The visible cloth can prompt questions about character and setting. It should not be used alone to assign a caste, religion or exact social rank. The film’s documented period provides context, while the precise meaning of a costume needs more specific evidence than appearance.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does this band differ from the brim on the right-hand portrait?",
+    "related": [
+     "lagaan-central-face",
+     "lagaan-right-hat"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "lagaan-torso",
+    "number": 3,
+    "label": "An upright body between portraits",
+    "shortLabel": "An upright body between portraits",
+    "kicker": "A FIGURE THAT EXTENDS FARTHER DOWN",
+    "summary": "Shoulders and open clothing establish the central axis.",
+    "x": 49.5,
+    "y": 52,
+    "bounds": {
+     "x": 18,
+     "y": 29,
+     "w": 63,
+     "h": 46
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A figure that extends farther down",
+      "body": "The central man is shown below the shoulders, unlike the large faces on either side. Light cloth and an open upper garment frame the torso. His arms form descending edges, giving the montage a vertical structure that continues toward the title.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Hierarchy through bodily completeness",
+      "body": "The figure’s prominence is not simply a matter of head size. Showing more of his body makes him a structural centre, while the larger portraits become a surrounding field. This is a useful distinction between physical scale in the picture and compositional importance.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which overlap tells you the central body sits in front of the side portraits?",
+    "related": [
+     "lagaan-central-face",
+     "lagaan-left-face"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "lagaan-necklace",
+    "number": 4,
+    "label": "A small dark mark at the throat",
+    "shortLabel": "A small dark mark at the throat",
+    "kicker": "A COMPACT POINT OF CONTRAST",
+    "summary": "A tiny accessory interrupts the light chest.",
+    "x": 46.5,
+    "y": 29,
+    "bounds": {
+     "x": 40,
+     "y": 24,
+     "w": 13,
+     "h": 10
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A compact point of contrast",
+      "body": "A dark cord or necklace sits at the base of the neck with a small pendant-like shape. Its narrow lines are visible because the surrounding chest is comparatively light and uncluttered. The exact material and object identity are not established by this low-resolution reproduction.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Detail without an invented story",
+      "body": "An accessory may be narratively meaningful, but the poster alone does not explain its significance. The useful close-reading task is to notice its placement, contrast and relation to the face. A plausible story about it should not be promoted to a documented fact.",
+      "evidence": "uncertain"
+     }
+    ],
+    "question": "Why can a small dark shape become a focal detail within a large pale area?",
+    "related": [
+     "lagaan-torso",
+     "lagaan-central-face"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "lagaan-left-face",
+    "number": 5,
+    "label": "The face entering from the left",
+    "shortLabel": "The face entering from the left",
+    "kicker": "A FACE LARGER THAN ITS AVAILABLE SPACE",
+    "summary": "A large portrait is cut by the sheet and central body.",
+    "x": 16.5,
+    "y": 43,
+    "bounds": {
+     "x": 0,
+     "y": 17,
+     "w": 33,
+     "h": 52
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A face larger than its available space",
+      "body": "The left portrait is cropped by the edge and partly overlapped by the central figure. A dark hairline frames the forehead, while a small red mark draws attention between the brows. The face fades into the warm ground lower down rather than ending in a rectangular photograph.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Looking across the montage",
+      "body": "The eyes turn away from a straightforward frontal address, giving the side portrait a different orientation from the central man. Their juxtaposition can suggest a relationship, but the image does not establish romance, rivalry or any other specific story without additional context.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the crop affect your sense of proximity?",
+    "related": [
+     "lagaan-torso",
+     "lagaan-right-face"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "lagaan-right-face",
+    "number": 6,
+    "label": "A face beneath a broad brim",
+    "shortLabel": "A face beneath a broad brim",
+    "kicker": "A WARMER FACE BESIDE PALE CLOTHING",
+    "summary": "The right portrait completes an unequal balance.",
+    "x": 80,
+    "y": 39,
+    "bounds": {
+     "x": 60,
+     "y": 14,
+     "w": 40,
+     "h": 50
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A warmer face beside pale clothing",
+      "body": "The large right-hand face turns slightly leftwards. The hat and pale clothing surround it with a lighter frame, while darker hair creates a boundary near the temple. Its scale counterbalances the left portrait without making a mirror image of it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Balance through difference",
+      "body": "The two flanking faces do not need identical crops or directions to hold the central body between them. Their broad areas and shared warm treatment produce a loose balance. That visual relation should be distinguished from a claim that the characters have equal roles in the film.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does the arrangement feel symmetrical even though the faces are different sizes and shapes?",
+    "related": [
+     "lagaan-left-face",
+     "lagaan-right-hat"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "lagaan-right-hat",
+    "number": 7,
+    "label": "A brim that reaches the top edge",
+    "shortLabel": "A brim that reaches the top edge",
+    "kicker": "A BROAD LIGHT SURFACE",
+    "summary": "A horizontal costume shape widens the right portrait.",
+    "x": 80,
+    "y": 9,
+    "bounds": {
+     "x": 60,
+     "y": 0,
+     "w": 40,
+     "h": 18
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A broad light surface",
+      "body": "The pale hat has a wide brim and a darker band, extending across the upper-right corner. It creates one of the sheet’s clearest horizontal forms above the title. Its smooth area contrasts with hair and facial modelling, giving the montage a different texture on that side.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A colonial-period story",
+      "body": "Trigon-film places the fictional narrative in 1893, during British rule in India, and describes a dispute over taxation. This supports attention to period costume. It does not justify identifying a person’s nationality or legal status from a hat alone.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "Which shape would become dominant if the hat were removed?",
+    "related": [
+     "lagaan-headcloth",
+     "lagaan-right-face"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "lagaan-gold",
+    "number": 8,
+    "label": "A warm field joins the portraits",
+    "shortLabel": "A warm field joins the portraits",
+    "kicker": "SOFT JOINS RATHER THAN BOXES",
+    "summary": "The images dissolve into a common background.",
+    "x": 9,
+    "y": 73,
+    "bounds": {
+     "x": 1,
+     "y": 68,
+     "w": 16,
+     "h": 10
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Soft joins rather than boxes",
+      "body": "Pale gold fills the surrounding sheet and blends into the lower edges of the portraits. Some boundaries are distinct, while others gradually dissolve. This makes the faces feel part of a shared montage rather than separate photographs mounted next to one another.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A reproduction, not a historical colour record",
+      "body": "The warm treatment can suggest distance, memory or an expansive story, but those are interpretations. It does not show that the period itself was golden or that the film was shot in monochrome. The samples here describe only this particular digital reproduction.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where can you find a definite portrait edge, and where does it fade away?",
+    "related": [
+     "lagaan-left-face",
+     "lagaan-right-face"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "lagaan-title",
+    "number": 9,
+    "label": "LAGAAN in widely spaced green",
+    "shortLabel": "LAGAAN in widely spaced green",
+    "kicker": "A TITLE CONNECTED WITH TAXATION",
+    "summary": "A broad title steadies the upright montage.",
+    "x": 50,
+    "y": 82,
+    "bounds": {
+     "x": 1,
+     "y": 76,
+     "w": 98,
+     "h": 12
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A title connected with taxation",
+      "body": "LAGAAN is presented in Roman letters. In the distributor’s synopsis, lagaan refers to the taxes imposed on the villagers. That narrative meaning matters: the title names the obligation behind the wager, even though the poster foregrounds faces rather than a tax collector or a cricket match.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     },
+     {
+      "kind": "design",
+      "heading": "A cool base for a warm image",
+      "body": "Dark green serif letters span almost the full width below the portraits. The wide spacing gives each letter a distinct place while preserving one long horizontal line. The relatively cool hue separates the title from the gold-toned faces and ground.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "How does the spacing change the weight of the letters?",
+    "related": [
+     "lagaan-subtitle",
+     "lagaan-torso"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "lagaan-subtitle",
+    "number": 10,
+    "label": "An English storytelling invitation",
+    "shortLabel": "An English storytelling invitation",
+    "kicker": "ONCE UPON A TIME",
+    "summary": "A short line establishes a story-like tone.",
+    "x": 50,
+    "y": 90.5,
+    "bounds": {
+     "x": 2,
+     "y": 88,
+     "w": 96,
+     "h": 5
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Once upon a time",
+      "body": "The subtitle reads “Once Upon a time in India.” Its story-opening form invites a narrative before specifying a period. The wording should not be mistaken for evidence that the film is a literal folk tale or an accurate record of a particular historical match.",
+      "evidence": "observation",
+      "originalText": "Once Upon a time in India",
+      "lang": "en",
+      "translation": "An English subtitle using a traditional story opening"
+     },
+     {
+      "kind": "design",
+      "heading": "A second horizontal rhythm",
+      "body": "Much smaller letters repeat the title’s broad reach at the bottom. The difference in scale lets the main name register first, followed by the more conversational subtitle. This creates a deliberate change of pace from monumental naming to a short verbal invitation.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "What changes if the subtitle is replaced by a factual date?",
+    "related": [
+     "lagaan-title",
+     "lagaan-credits"
+    ],
+    "layerIndex": 5
+   },
+   {
+    "id": "lagaan-credits",
+    "number": 11,
+    "label": "Production names around the title",
+    "shortLabel": "Production names around the title",
+    "kicker": "SMALL LINES OCCUPY THE REMAINING SPACES",
+    "summary": "Small wording identifies makers at a closer reading distance.",
+    "x": 50,
+    "y": 86.5,
+    "bounds": {
+     "x": 0,
+     "y": 73,
+     "w": 100,
+     "h": 27
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Small lines occupy the remaining spaces",
+      "body": "A compact production line sits just above LAGAAN, and finer credits gather below the subtitle. Their smaller scale avoids competing with the faces and main title. The visible arrangement is clear even where individual letters are too small for reliable transcription.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "The campaign need not illustrate everything",
+      "body": "The distributor describes a story turning on a cricket match, yet this edition sells it mainly through people and a broad title. That selective emphasis is worth noticing. It does not establish a marketing experiment, an intended demographic or the relative commercial value of each performer.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where is the production line placed relative to the largest name?",
+    "related": [
+     "lagaan-subtitle",
+     "lagaan-title"
+    ],
+    "layerIndex": 5
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed Lagaan poster reproduction",
+    "url": "https://en.wikipedia.org/wiki/File:Lagaan.jpg",
+    "kind": "Visual source",
+    "summary": "The exact edition shown is the evidence for visible shapes, wording, positions and reproduction samples. The linked record identifies the image; readings of its visual effects are supplied by Poster Atlas."
+   },
+   {
+    "id": "record",
+    "title": "trigon-film: Lagaan",
+    "url": "https://trigon-film.org/en/films/lagaan/",
+    "kind": "Official distributor",
+    "summary": "Verifies Ashutosh Gowariker’s 2001 film, fictional 1893 setting, taxation dispute, Bhuvan and the cricket wager. Does not identify this release poster’s artist or printing date."
+   }
+  ],
+  "tour": [
+   "lagaan-central-face",
+   "lagaan-torso",
+   "lagaan-left-face",
+   "lagaan-right-face",
+   "lagaan-gold",
+   "lagaan-title",
+   "lagaan-subtitle"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected wording in this edition",
+    "rows": [
+     {
+      "text": "LAGAAN",
+      "meaning": "Lagaan; taxation in the film’s narrative",
+      "lang": "hi-Latn"
+     },
+     {
+      "text": "Once Upon a time in India",
+      "meaning": "English subtitle",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "The title and subtitle are transcribed. Fine billing and the small necklace detail are not reconstructed; costume alone is not used to assign identities or social rank.",
+  "palette": [
+   {
+    "name": "Title green",
+    "hex": "#0E4621",
+    "role": "A cool horizontal base",
+    "region": "lagaan-title"
+   },
+   {
+    "name": "Warm ground",
+    "hex": "#FAE6A1",
+    "role": "Joins the blended portraits",
+    "region": "lagaan-gold"
+   },
+   {
+    "name": "Pale hat",
+    "hex": "#D5B781",
+    "role": "Frames the right-hand face",
+    "region": "lagaan-right-hat"
+   },
+   {
+    "name": "Dark hair",
+    "hex": "#201911",
+    "role": "Defines the left portrait’s edge",
+    "region": "lagaan-left-face"
+   }
+  ],
+  "paletteNote": "Approximate screen samples from the installed reproduction. These describe image pixels, not original inks, paper colours or calibrated printing specifications."
+ }
+}

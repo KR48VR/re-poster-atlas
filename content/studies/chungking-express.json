@@ -1,0 +1,583 @@
+{
+ "poster": {
+  "id": "chungking-express",
+  "title": "Chungking Express",
+  "year": "1994",
+  "yearNumber": 1994,
+  "country": "Hong Kong",
+  "region": "East Asia",
+  "category": "Film",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Wong Kar-wai",
+  "edition": "US theatrical release poster",
+  "image": "images/full/chungking-express.jpg",
+  "ratio": 0.6762402088772846,
+  "alt": "US Chungking Express poster with a large white field, yellow-and-black title, a narrow blue photographic montage across the centre, and small review text.",
+  "blurb": "A narrow strip of blue images interrupts an unusually spacious white poster.",
+  "notes": [
+   {
+    "title": "A city compressed into a strip",
+    "body": "Several blue-tinted images are packed into one horizontal band. The strip suggests fragments and passing encounters while leaving most of the page unoccupied."
+   },
+   {
+    "title": "Yellow creates the first stop",
+    "body": "The thick yellow word above the image band is brighter than both the blue photographs and the small grey text. It catches the eye before the finer title lettering becomes legible."
+   },
+   {
+    "title": "Empty space becomes part of the pitch",
+    "body": "The large white areas make the central band feel precious and concentrated. Reviews and credits occupy that space lightly, presenting the film through a different rhythm from a densely illustrated action poster."
+   }
+  ],
+  "source": "https://www.criterion.com/films/226",
+  "imageSource": "https://en.wikipedia.org/wiki/File:Chungking_Express.jpg",
+  "imageCredit": "Copyright in the poster remains with its respective studio, distributor or artist. Low-resolution reproduction via Wikipedia for visual commentary; see the image source record.",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/en/c/c0/Chungking_Express.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+  "anchor": [
+   0.5,
+   0.45
+  ],
+  "accent": "#e2bf24",
+  "yearNote": "Year refers to the film’s first release; the poster edition is identified separately.",
+  "credit": "Copyright in the poster remains with its respective studio, distributor or artist. Low-resolution reproduction via Wikipedia for visual commentary; see the image source record.",
+  "posterTerritory": "United States",
+  "countries": [
+   "Hong Kong"
+  ],
+  "primaryOrigin": "Hong Kong",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/chungking-express.webp"
+ },
+ "studyData": {
+  "intro": "A narrow blue image interrupts a large white sheet, while two very different kinds of lettering share the title. Move between quiet spacing, cropped faces and a line about memory. This English-language campaign image promotes Wong Kar Wai’s 1994 Hong Kong film; the poster’s own printing date is not established here.",
+  "initial": "chungking-express-yellow-title",
+  "regions": [
+   {
+    "id": "chungking-express-yellow-title",
+    "number": 1,
+    "label": "A bright, crowded first word",
+    "shortLabel": "A bright, crowded first word",
+    "kicker": "A SOLID WORD ABOVE A NARROW IMAGE",
+    "summary": "Heavy yellow letters occupy a compact block.",
+    "x": 51,
+    "y": 44,
+    "bounds": {
+     "x": 22,
+     "y": 38,
+     "w": 58,
+     "h": 12
+    },
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A solid word above a narrow image",
+      "body": "The lowercase word chungking uses thick yellow strokes with little space between letters. Several forms overlap or nearly meet, so the title reads as both a word and a bright block. Its irregular upper edge differs from the level photographic strip below.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "Roman letters in this campaign",
+      "body": "The film’s name appears here in Roman letters as chungking express. This is the wording of the installed English-language campaign image, not a transcript of the film’s Chinese title. Keeping the edition in view avoids treating every release poster as if it used the same language.",
+      "evidence": "observation",
+      "originalText": "chungking",
+      "lang": "en",
+      "translation": "The first word of this English release title"
+     }
+    ],
+    "question": "Which letters seem to touch, and where does white space remain inside them?",
+    "related": [
+     "chungking-express-express",
+     "chungking-express-director"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "chungking-express-express",
+    "number": 2,
+    "label": "A thin second word overlaps the first",
+    "shortLabel": "A thin second word overlaps the first",
+    "kicker": "A CONTRAST IN LETTER WEIGHT",
+    "summary": "Light strokes alter the title’s pace.",
+    "x": 35.5,
+    "y": 47.5,
+    "bounds": {
+     "x": 20,
+     "y": 44,
+     "w": 31,
+     "h": 7
+    },
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A contrast in letter weight",
+      "body": "The word express is drawn with much thinner dark strokes than chungking. It overlaps the yellow word near the left, extending into white space. Its open counters and slender lines remain distinct instead of becoming a second dense colour block.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "Two words, two visual voices",
+      "body": "Read the title aloud as one phrase, then look at the different weights. The typography divides that phrase visually without changing its wording. The lighter word can feel less emphatic, but an emotional or musical intention cannot be established from letter weight alone.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would the two words still feel connected if express were moved below the image?",
+    "related": [
+     "chungking-express-yellow-title",
+     "chungking-express-white"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "chungking-express-director",
+    "number": 3,
+    "label": "A small filmmaker line",
+    "shortLabel": "A small filmmaker line",
+    "kicker": "A QUIETER NAME ABOVE THE MAIN NAME",
+    "summary": "The name sits just above the title.",
+    "x": 64,
+    "y": 37.5,
+    "bounds": {
+     "x": 48,
+     "y": 36,
+     "w": 32,
+     "h": 3
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A quieter name above the main name",
+      "body": "A small reddish line reads “a film by WONG KAR-WAI.” It aligns near the title’s right side rather than spanning the entire sheet. Its fine scale and subdued colour let it remain a closer-reading detail beside the bright yellow letters.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A film with two linked stories",
+      "body": "Criterion identifies the film as Wong Kar Wai’s 1994 Hong Kong work and describes two stories centred on lovelorn policemen, connected with a takeout stand. That gives context for the montage’s multiple people; it does not identify every cropped fragment in this poster.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "How does the filmmaker’s line relate to the large yellow word beneath it?",
+    "related": [
+     "chungking-express-yellow-title",
+     "chungking-express-credits"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "chungking-express-white",
+    "number": 4,
+    "label": "A broad pause above the title",
+    "shortLabel": "A broad pause above the title",
+    "kicker": "NOT EVERY PART IS EQUALLY BUSY",
+    "summary": "Open space separates reviews from the main identity.",
+    "x": 25,
+    "y": 32.5,
+    "bounds": {
+     "x": 5,
+     "y": 28,
+     "w": 40,
+     "h": 9
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Not every part is equally busy",
+      "body": "A large pale area lies between the upper review quotes and the title. It has few marks compared with the dense image strip or bottom credits. This makes the page’s separate groups easier to see before individual words become readable.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Space changes the rhythm",
+      "body": "The open area can slow the passage from praise to title and picture. That quiet interval makes the concentrated blue band seem more striking when reached. This is a compositional reading; white space does not automatically mean luxury, calm or any other fixed quality.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Cover half of this white interval: does the page become easier or harder to scan?",
+    "related": [
+     "chungking-express-reviews",
+     "chungking-express-yellow-title"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "chungking-express-reviews",
+    "number": 5,
+    "label": "Praise in small centred groups",
+    "shortLabel": "Praise in small centred groups",
+    "kicker": "SHORT AND LONG BLOCKS ALTERNATE",
+    "summary": "Other voices occupy the top of the sheet.",
+    "x": 50.5,
+    "y": 18,
+    "bounds": {
+     "x": 17,
+     "y": 8,
+     "w": 67,
+     "h": 20
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Short and long blocks alternate",
+      "body": "Several light grey review excerpts sit in centred groups near the top. The first is short, while the following groups contain more lines. Their small scale contrasts with the title; the broad white margins keep them from becoming a continuous wall of text.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Borrowing an evaluative voice",
+      "body": "Review excerpts offer praise from voices presented as separate from the film’s makers. Their presence is visible even where tiny attributions are hard to read. This study does not reconstruct those names or assume the selected praise represents every critic’s response.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Do the reviews or the yellow title attract you first at a distance?",
+    "related": [
+     "chungking-express-white",
+     "chungking-express-tagline"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "chungking-express-left-face",
+    "number": 6,
+    "label": "A tilted face at the left",
+    "shortLabel": "A tilted face at the left",
+    "kicker": "A FACE CLOSE TO THE EDGE",
+    "summary": "A pale face emerges from the blue band.",
+    "x": 19,
+    "y": 62,
+    "bounds": {
+     "x": 5,
+     "y": 54,
+     "w": 28,
+     "h": 16
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A face close to the edge",
+      "body": "The left face leans at an angle inside the blue strip, framed by dark hair and cropped surroundings. One side is brighter than the other. Its pale skin makes a clear shape despite the strongly blue treatment and small scale of the reproduction.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A fragment rather than a complete portrait",
+      "body": "The crop offers a face without enough surrounding space to establish a whole setting. That fragmentary presentation can invite attention to mood or relationship, but it does not by itself explain who the person is or what has just happened.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What does the tilt contribute that a straight passport-style portrait would not?",
+    "related": [
+     "chungking-express-right-face",
+     "chungking-express-middle"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "chungking-express-middle",
+    "number": 7,
+    "label": "A small figure within the montage",
+    "shortLabel": "A small figure within the montage",
+    "kicker": "A DIFFERENT SCALE IN THE SAME BAND",
+    "summary": "A busier central passage joins the larger faces.",
+    "x": 46.5,
+    "y": 62,
+    "bounds": {
+     "x": 35,
+     "y": 54,
+     "w": 23,
+     "h": 16
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A different scale in the same band",
+      "body": "Near the centre, a smaller figure and vertical fragments interrupt the broad facial forms on either side. Dark and light patches overlap at this scale. Some details remain indistinct in the installed image, so it is more reliable to compare their size and direction than to name every object.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Joining without a visible panel divider",
+      "body": "The montage moves between faces and smaller fragments without enclosing each in a separate box. Shared blue colour helps hold these differences together. The continuity is graphic; it is not proof that the people and setting were photographed in the same frame or instant.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How many scale changes can you find across the blue strip?",
+    "related": [
+     "chungking-express-left-face",
+     "chungking-express-right-face"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "chungking-express-right-face",
+    "number": 8,
+    "label": "A face turned upward on the right",
+    "shortLabel": "A face turned upward on the right",
+    "kicker": "AN UPWARD TILT IN COOL LIGHT",
+    "summary": "A second large face changes the direction of the image.",
+    "x": 72.5,
+    "y": 62.5,
+    "bounds": {
+     "x": 57,
+     "y": 54,
+     "w": 31,
+     "h": 17
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An upward tilt in cool light",
+      "body": "The right face turns upwards within the dark blue strip, with the forehead, nose and mouth creating a diagonal. Pale highlights interrupt the darker surroundings. Its angle differs from the left portrait, preventing the band from reading as two equivalent identity photographs.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Relationships without a complete explanation",
+      "body": "Criterion’s synopsis describes romantic disappointments and encounters across two narrative strands. The poster offers several people but does not map those relationships for us. We can use that context to recognise a relational story while avoiding claims that every adjacent image shows a couple.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "Compare the angle of this face with the one at the left. What connects them visually?",
+    "related": [
+     "chungking-express-left-face",
+     "chungking-express-middle"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "chungking-express-edge",
+    "number": 9,
+    "label": "A rough edge around the photograph",
+    "shortLabel": "A rough edge around the photograph",
+    "kicker": "SMALL PROJECTIONS BREAK THE BORDER",
+    "summary": "The blue band has a broken rather than ruled boundary.",
+    "x": 88,
+    "y": 53,
+    "bounds": {
+     "x": 0,
+     "y": 51,
+     "w": 100,
+     "h": 21
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Small projections break the border",
+      "body": "Along the top and bottom of the band, dark flecks and uneven protrusions extend into the white. They form a rough boundary rather than a clean rectangle. The interruption is most visible where the pale background gives the small dark marks room to stand out.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An apparent texture, not a proven technique",
+      "body": "The edge can suggest abrasion, brushwork or torn material, but a digital reproduction does not establish how that effect was made. Describing the visible irregularity is firmer than assigning a printing process. Compare its texture with the smoother title lettering above.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would a perfectly straight edge make this strip feel more separate from the page?",
+    "related": [
+     "chungking-express-white",
+     "chungking-express-middle"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "chungking-express-tagline",
+    "number": 10,
+    "label": "Memory described as an expiry date",
+    "shortLabel": "Memory described as an expiry date",
+    "kicker": "AN IMPOSSIBLE SPAN FOR REMEMBERING",
+    "summary": "A short italic line changes the tone below the image.",
+    "x": 52,
+    "y": 77,
+    "bounds": {
+     "x": 20,
+     "y": 74,
+     "w": 64,
+     "h": 6
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "An impossible span for remembering",
+      "body": "The tagline imagines a memory having an expiration date and asks for ten thousand years. It borrows the language of perishability for an emotional duration. This metaphor is legible without treating the sentence as a literal claim about memory or reconstructing a scene from it.",
+      "evidence": "observation",
+      "originalText": "let it be 10,000 years...",
+      "lang": "en",
+      "translation": "A wish for memory to last an extraordinarily long time"
+     },
+     {
+      "kind": "design",
+      "heading": "A softer voice beneath the blue band",
+      "body": "The reddish italic line is smaller and more delicate than the yellow title, and it sits in open white space below the image. Its two-line shape creates a pause before the denser credits. Placement and type treatment distinguish it from the review excerpts above.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "What happens when a phrase about food shelf life is applied to a memory?",
+    "related": [
+     "chungking-express-right-face",
+     "chungking-express-reviews"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "chungking-express-credits",
+    "number": 11,
+    "label": "The dense base of the sheet",
+    "shortLabel": "The dense base of the sheet",
+    "kicker": "A COMPACT BLOCK OF WORK AND NAMES",
+    "summary": "Fine billing gathers beneath the invitation.",
+    "x": 50.5,
+    "y": 88,
+    "bounds": {
+     "x": 14,
+     "y": 82,
+     "w": 73,
+     "h": 12
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A compact block of work and names",
+      "body": "Narrow grey lines make a broad, centred billing block near the bottom, accompanied by very small marks and logos. Individual characters are soft at this resolution, but the grouping remains visible. It gives the otherwise open lower page a denser final zone.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Different jobs for different text",
+      "body": "The title identifies the film, the tagline offers a poetic invitation, reviews present praise, and billing records production information. These functions occupy different places and scales. Their hierarchy is observable even when this small reproduction cannot support a responsible transcription of every credit.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which parts remain useful when these letters are too small to read individually?",
+    "related": [
+     "chungking-express-director",
+     "chungking-express-tagline"
+    ],
+    "layerIndex": 4
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed Chungking Express poster reproduction",
+    "url": "https://en.wikipedia.org/wiki/File:Chungking_Express.jpg",
+    "kind": "Visual source",
+    "summary": "The exact edition shown is the evidence for visible shapes, wording, positions and reproduction samples. The linked record identifies the image; readings of its visual effects are supplied by Poster Atlas."
+   },
+   {
+    "id": "record",
+    "title": "Criterion: Chungking Express",
+    "url": "https://www.criterion.com/films/226",
+    "kind": "Official distributor",
+    "summary": "Verifies the 1994 Hong Kong film, Wong Kar Wai, Cantonese language and two linked stories. Its contemporary cover credit does not establish the designer of this English-language campaign poster."
+   }
+  ],
+  "tour": [
+   "chungking-express-yellow-title",
+   "chungking-express-express",
+   "chungking-express-white",
+   "chungking-express-left-face",
+   "chungking-express-right-face",
+   "chungking-express-edge",
+   "chungking-express-tagline"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected wording in this edition",
+    "rows": [
+     {
+      "text": "chungking express",
+      "meaning": "The English release title",
+      "lang": "en"
+     },
+     {
+      "text": "a film by WONG KAR-WAI",
+      "meaning": "A filmmaker credit",
+      "lang": "en"
+     },
+     {
+      "text": "let it be 10,000 years...",
+      "meaning": "A short excerpt from the memory tagline",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected title, director line and a short tagline excerpt only. The review attributions and fine billing are too small to transcribe confidently. This study does not identify every person or film moment in the montage.",
+  "palette": [
+   {
+    "name": "Title yellow",
+    "hex": "#F0E00E",
+    "role": "A concentrated accent in a pale field",
+    "region": "chungking-express-yellow-title"
+   },
+   {
+    "name": "Montage blue",
+    "hex": "#262954",
+    "role": "Unifies the photographic fragments",
+    "region": "chungking-express-middle"
+   },
+   {
+    "name": "Pale field",
+    "hex": "#FCFCFC",
+    "role": "Separates groups of text and image",
+    "region": "chungking-express-white"
+   },
+   {
+    "name": "Tagline muted rose",
+    "hex": "#996E78",
+    "role": "A subdued voice below the photograph",
+    "region": "chungking-express-tagline"
+   }
+  ],
+  "paletteNote": "Approximate screen samples from the installed reproduction. These describe image pixels, not original inks, paper colours or calibrated printing specifications."
+ }
+}

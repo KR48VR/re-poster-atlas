@@ -1,0 +1,629 @@
+{
+ "poster": {
+  "id": "joyland",
+  "title": "Joyland",
+  "year": "2022",
+  "yearNumber": 2022,
+  "country": "Pakistan / United States",
+  "countries": [
+   "Pakistan",
+   "United States"
+  ],
+  "region": "South Asia",
+  "category": "Film",
+  "creator": "Salman Toor (painting); layout uncredited",
+  "filmCreator": "Saim Sadiq",
+  "edition": "Pakistan theatrical release poster",
+  "posterTerritory": "Pakistan",
+  "image": "images/full/joyland.jpg",
+  "ratio": 0.7994186046511628,
+  "alt": "Painterly close-up of a man’s face in green, cream and brown strokes, with pale curving forms across his cheek, a November 18 line above and white Joyland lettering below.",
+  "blurb": "A painted face fills the sheet, trading a crisp photographic outline for intimate, restless brushwork.",
+  "notes": [
+   {
+    "title": "A face made of strokes",
+    "body": "Short green and brown marks build the cheeks, forehead and beard. The eye can recognize the portrait at once, then return to the individual strokes that keep its surface visibly handmade."
+   },
+   {
+    "title": "A pale shape crosses the portrait",
+    "body": "The light, curving form on the left overlaps the face rather than politely framing it. That interruption breaks the face into patches of light and shadow and leaves the expression slightly difficult to settle."
+   },
+   {
+    "title": "Lettering stays light",
+    "body": "The white title and small yellow release line sit directly on the painting. Their thin, open forms avoid enclosing the portrait in a heavy graphic border; the face remains the dominant shape."
+   }
+  ],
+  "source": "https://www.filmlinc.org/films/joyland/",
+  "imageSource": "https://en.wikipedia.org/wiki/File:Joyland_film_poster.jpg",
+  "imageCredit": "Painting by Salman Toor; poster layout uncredited. Khoosat Films campaign, reproduced via Wikipedia’s source record, which points to the film’s Instagram announcement. Copyright remains with the respective rights holders.",
+  "credit": "Painting by Salman Toor; poster layout uncredited. Khoosat Films campaign, reproduced via Wikipedia’s source record, which points to the film’s Instagram announcement. Copyright remains with the respective rights holders.",
+  "reproduction": "Film: Pakistan / United States, 2022. The selected Pakistan release poster announces November 18, 2022. This is a low-resolution 275 × 344 source reproduction, without enlargement.",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/en/7/76/Joyland_film_poster.jpg",
+  "anchor": [
+   0.54,
+   0.42
+  ],
+  "accent": "#65703b",
+  "posterYear": "2022",
+  "primaryOrigin": "Pakistan",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/joyland.webp"
+ },
+ "studyData": {
+  "intro": "A painted face is interrupted by a pale curve and surrounded by green strokes. The theatrical words sit lightly on that surface, inviting close looking before the film’s social and release contexts are explained.",
+  "initial": "face",
+  "regions": [
+   {
+    "id": "face",
+    "number": 1,
+    "label": "Painted face",
+    "shortLabel": "Painted face",
+    "kicker": "DESIGN",
+    "summary": "A likeness is built from visible marks.",
+    "x": 49,
+    "y": 44,
+    "bounds": {
+     "x": 20,
+     "y": 6,
+     "w": 63,
+     "h": 67
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Recognise, then inspect",
+      "body": "The face becomes recognisable before every stroke can be separated. Short vertical and curved marks build the cheeks, forehead and beard. Warm brown and muted green coexist within the skin, so the portrait does not depend on a smooth or naturalistic surface.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An unsettled closeness",
+      "body": "The close crop gives the face intimacy, while its broken surfaces keep the expression from becoming fully settled. A viewer can compare eyes, mouth and surrounding marks without assigning the figure a definite emotion or treating painted colour as evidence of identity.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which feature becomes clear first, and which remains hardest to read?",
+    "related": [
+     "eyes",
+     "brushwork"
+    ]
+   },
+   {
+    "id": "eyes",
+    "number": 2,
+    "label": "Two unequal eyes",
+    "shortLabel": "Two unequal eyes",
+    "kicker": "DESIGN",
+    "summary": "The eyes are differently exposed by the overlapping forms.",
+    "x": 53,
+    "y": 29,
+    "bounds": {
+     "x": 23,
+     "y": 22,
+     "w": 44,
+     "h": 20
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A comparison across the face",
+      "body": "One eye is more open to view while the other is partly crowded by the pale shape at left. Their surrounding marks differ in size and density. The asymmetry interrupts a conventional balanced portrait and makes looking itself a subject of the image.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A gaze through an interruption",
+      "body": "The face seems to look outward from within overlapping forms. That can be read as a person seen in a close encounter rather than alone against a backdrop. The precise relationship should remain an interpretation unless supported by the painting’s own documented account.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Cover the pale overlap: does the gaze become easier or simply different?",
+    "related": [
+     "pale-form",
+     "face"
+    ]
+   },
+   {
+    "id": "pale-form",
+    "number": 3,
+    "label": "Pale sweeping form",
+    "shortLabel": "Pale sweeping form",
+    "kicker": "DESIGN",
+    "summary": "A light curve crosses the left side of the portrait.",
+    "x": 17,
+    "y": 25,
+    "bounds": {
+     "x": 0,
+     "y": 1,
+     "w": 38,
+     "h": 71
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An overlap with texture",
+      "body": "A pale, curving form extends from the top left down across the face. It contains green strokes rather than one flat colour. Its edge alternately hides and reveals features, making the face’s outline less self-contained than a standard head-and-shoulders portrait.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Interruption can create intimacy",
+      "body": "The crossing shape brings another presence close to the face, but not every part is anatomically explicit in this small reproduction. Describing the overlap preserves what we can see without inventing a full body or declaring a relationship solely from the crop.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does the pale shape conceal a feature, and where does it help frame one?",
+    "related": [
+     "eyes",
+     "hands"
+    ]
+   },
+   {
+    "id": "hands",
+    "number": 4,
+    "label": "Outlined lower hands",
+    "shortLabel": "Outlined lower hands",
+    "kicker": "DESIGN",
+    "summary": "Curved finger-like forms continue the foreground overlap.",
+    "x": 22,
+    "y": 88,
+    "bounds": {
+     "x": 3,
+     "y": 77,
+     "w": 48,
+     "h": 23
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Hands near the lower edge",
+      "body": "Rounded, outlined forms appear across the lower-left foreground and near the right edge. Their darker interior marks give them volume without the sharper finish of a photograph. They continue the close bodily overlap while also sharing space with the title and fine credits.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A gesture partly withheld",
+      "body": "The crop makes it difficult to reconstruct a complete pose. That limitation can keep attention on touch, proximity and surface instead of a clearly narrated action. The study names visible forms rather than filling in missing limbs behind the printed words.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which contours help you recognise a hand despite the loose painting?",
+    "related": [
+     "pale-form",
+     "title"
+    ]
+   },
+   {
+    "id": "brushwork",
+    "number": 5,
+    "label": "Marks on cheek and beard",
+    "shortLabel": "Marks on cheek and beard",
+    "kicker": "DESIGN",
+    "summary": "Small strokes retain their separate rhythms.",
+    "x": 56,
+    "y": 61,
+    "bounds": {
+     "x": 32,
+     "y": 42,
+     "w": 45,
+     "h": 29
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Different marks do different work",
+      "body": "Short dashes around the beard differ from the broader vertical strokes of the forehead and the looping greens near the eye. These changes make the surface varied. The portrait can be read as a collection of marks as well as a recognisable person.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Look twice",
+      "body": "Try first reading only the face, then reading only the directions of the strokes. Neither view cancels the other. This shift is useful when discussing a painted poster because its communication depends partly on keeping the act of painting visible.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which marks would still be interesting if you did not recognise a face?",
+    "related": [
+     "face",
+     "green-field"
+    ]
+   },
+   {
+    "id": "green-field",
+    "number": 6,
+    "label": "Green hair and ground",
+    "shortLabel": "Green hair and ground",
+    "kicker": "DESIGN",
+    "summary": "Dark greens surround the warmer facial marks.",
+    "x": 13,
+    "y": 12,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 93,
+     "h": 27
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A family of greens",
+      "body": "Deep green, pale green and near-black strokes appear around the hair and upper field. Some boundaries between hair and surrounding paint remain loose. The limited colour family helps connect these areas without requiring one smooth background behind a fully finished face.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A local colour relationship",
+      "body": "Green works here through comparison with the warm brown marks and pale overlap. It need not stand for a single universal feeling. A grayscale experiment can reveal which forms depend on lightness and which rely more strongly on the hue difference.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which boundary becomes less clear when you imagine the poster in grayscale?",
+    "related": [
+     "face",
+     "pale-form"
+    ]
+   },
+   {
+    "id": "title",
+    "number": 7,
+    "label": "Thin white title",
+    "shortLabel": "Thin white title",
+    "kicker": "LANGUAGE",
+    "summary": "The name stays light against the large painted presence.",
+    "x": 52,
+    "y": 83,
+    "bounds": {
+     "x": 26,
+     "y": 79,
+     "w": 49,
+     "h": 9
+    },
+    "layerIndex": 4,
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A name with a place-like form",
+      "body": "JOYLAND is written in thin, widely spread capitals near the bottom. The English word combines joy with land, but that positive wording should not be treated as a literal summary of every event in the film. Titles can create questions as well as descriptions.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Letting the painting lead",
+      "body": "The title is legible without enclosing the portrait in a heavy band. Its slender strokes contrast with the thick painted marks behind it. This hierarchy makes the artwork the first encounter and the film name a later point of orientation.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would a large solid title block make the face feel more distant?",
+    "related": [
+     "festival",
+     "credits"
+    ]
+   },
+   {
+    "id": "festival",
+    "number": 8,
+    "label": "Festival marks",
+    "shortLabel": "Festival marks",
+    "kicker": "DESIGN",
+    "summary": "Small yellow symbols sit above the title.",
+    "x": 52,
+    "y": 74,
+    "bounds": {
+     "x": 38,
+     "y": 70,
+     "w": 29,
+     "h": 8
+    },
+    "layerIndex": 4,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A cluster of recognitions",
+      "body": "Festival-shaped marks and a recognisable TIFF wordmark form a small yellow group above the name. Their colour links them with the release date at the top. They are compact signs of context, distinct from the larger painted forms and thin white title.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A documented festival context",
+      "body": "Film at Lincoln Center identifies Saim Sadiq’s 2022 film, its Urdu and Punjabi languages, and its story involving Haider, Mumtaz and Biba in Lahore. Its record also notes the film’s Cannes recognition. This establishes context without using festival marks as proof of artistic quality.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "flc"
+       }
+      ]
+     }
+    ],
+    "question": "What can a festival mark tell you, and what can it not tell you?",
+    "related": [
+     "title",
+     "date"
+    ]
+   },
+   {
+    "id": "date",
+    "number": 9,
+    "label": "November release line",
+    "shortLabel": "November release line",
+    "kicker": "LANGUAGE",
+    "summary": "A small yellow date occupies the top edge.",
+    "x": 53,
+    "y": 4,
+    "bounds": {
+     "x": 39,
+     "y": 2,
+     "w": 26,
+     "h": 6
+    },
+    "layerIndex": 4,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "An announcement on the sheet",
+      "body": "NOVEMBER 18 is printed at the top, with smaller Pakistan release wording beneath it. The date belongs to this campaign announcement. It should not be mistaken for the film’s festival premiere, or treated as evidence that every planned screening proceeded unchanged.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Release plans meet circumstances",
+      "body": "In a 2023 BFI interview, Sadiq describes the difficult domestic release and his deliberately quiet marketing approach, including the Salman Toor painting used for the poster. This is first-person campaign context, not a claim that every visual stroke was chosen to solve a censorship problem.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "bfi-joy"
+       }
+      ]
+     }
+    ],
+    "question": "Why is a printed release date different from a complete history of a film’s circulation?",
+    "related": [
+     "festival",
+     "artwork"
+    ]
+   },
+   {
+    "id": "artwork",
+    "number": 10,
+    "label": "Painting and campaign",
+    "shortLabel": "Painting and campaign",
+    "kicker": "DESIGN",
+    "summary": "A painting is doing the work of a film advertisement.",
+    "x": 91,
+    "y": 49,
+    "bounds": {
+     "x": 83,
+     "y": 22,
+     "w": 17,
+     "h": 46
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A change from photographic montage",
+      "body": "The right edge shows broad painted contours and visible surface marks rather than sharply separated publicity photographs. The poster does not fill the page with multiple actors’ heads. Its invitation rests on one close, overlapping painted encounter.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Two kinds of authorship",
+      "body": "The BFI interview identifies the poster painting with Salman Toor while discussing Saim Sadiq’s film and marketing decisions. Painting authorship and layout authorship remain distinct questions. The evidence here does not name the person who placed every title, logo and credit on this edition.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "bfi-joy"
+       }
+      ]
+     }
+    ],
+    "question": "What does this painting invite you to do before you know the plot?",
+    "related": [
+     "brushwork",
+     "date"
+    ]
+   },
+   {
+    "id": "credits",
+    "number": 11,
+    "label": "Small filmmaker and credits",
+    "shortLabel": "Small filmmaker and credits",
+    "kicker": "DESIGN",
+    "summary": "Fine pale lines share the painting’s lower surface.",
+    "x": 53,
+    "y": 94,
+    "bounds": {
+     "x": 17,
+     "y": 89,
+     "w": 70,
+     "h": 9
+    },
+    "layerIndex": 4,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A final close-reading level",
+      "body": "The filmmaker line and small credits appear beneath the title on the painted ground. They are much finer than the image’s strokes and can become difficult to separate at small scale. Their presence remains visible even when the complete text cannot be securely transcribed.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Language and access",
+      "body": "This edition’s prominent wording is English, while the film record identifies Urdu and Punjabi dialogue. A poster’s language and a film’s languages need not be identical. That distinction helps avoid treating the advertisement as a complete description of the work’s cultural setting.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which part would require zooming if you were looking for a specific production credit?",
+    "related": [
+     "title",
+     "festival"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed poster edition",
+    "url": "https://en.wikipedia.org/wiki/File:Joyland_film_poster.jpg",
+    "kind": "Visual source",
+    "summary": "The reproduced edition is the evidence for visible wording, layout, marks and colour relationships. Translations and visual interpretations are supplied by Poster Atlas."
+   },
+   {
+    "id": "flc",
+    "title": "Film at Lincoln Center: Joyland",
+    "url": "https://www.filmlinc.org/films/joyland/",
+    "kind": "Festival and exhibitor record",
+    "summary": "Identifies the 2022 film, Saim Sadiq, Urdu and Punjabi, the Lahore family story and festival context. It does not establish every feature of this Pakistan poster layout."
+   },
+   {
+    "id": "bfi-joy",
+    "title": "Saim Sadiq interviewed by Sight and Sound",
+    "url": "https://www.bfi.org.uk/sight-and-sound/features/how-saim-sadiq-joyland-beat-censors-pakistan",
+    "kind": "First-person filmmaker interview",
+    "summary": "Sadiq discusses the domestic release and quiet marketing; the article identifies Salman Toor’s painting used for the poster. Layout authorship remains unverified."
+   }
+  ],
+  "tour": [
+   "face",
+   "pale-form",
+   "hands",
+   "brushwork",
+   "title",
+   "date"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "JOYLAND",
+      "meaning": "The film title; its positive wording does not describe every part of the story.",
+      "lang": "en"
+     },
+     {
+      "text": "NOVEMBER 18",
+      "meaning": "The release date announced on this edition.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Only securely legible title and key wording are transcribed. Small credits are not reconstructed from this reproduction.",
+  "palette": [
+   {
+    "name": "Deep green",
+    "hex": "#1F2203",
+    "role": "The painted background.",
+    "region": "green-field"
+   },
+   {
+    "name": "Pale overlap",
+    "hex": "#B2A789",
+    "role": "The light foreground form.",
+    "region": "pale-form"
+   },
+   {
+    "name": "Warm face mark",
+    "hex": "#75663F",
+    "role": "A muted warm facial area.",
+    "region": "face"
+   },
+   {
+    "name": "Muted beard green",
+    "hex": "#474014",
+    "role": "A dark green facial texture.",
+    "region": "brushwork"
+   },
+   {
+    "name": "Yellow release ink",
+    "hex": "#A2A04D",
+    "role": "The upper release line.",
+    "region": "date"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in this installed reproduction. They are not original paint, ink or printing specifications.",
+  "connections": [
+   {
+    "label": "Curves across a face",
+    "title": "The pale form redirects the portrait",
+    "text": "A pale curve crosses the left forehead and returns across the lower foreground. It interrupts the otherwise direct, tightly cropped face.",
+    "anchors": [
+     [
+      2,
+      0.24909090909090909,
+      0.16715116279069767
+     ],
+     [
+      2,
+      0.5872727272727273,
+      0.7776162790697675
+     ]
+    ],
+    "id": "joyland-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Letters over paint",
+    "title": "A quiet title over busy brushwork",
+    "text": "Thin white title letters sit over the pale lower form. Their regular spacing contrasts with the dense vertical strokes in the painted face.",
+    "anchors": [
+     [
+      4,
+      0.5145454545454545,
+      0.8299418604651163
+     ],
+     [
+      1,
+      0.5509090909090909,
+      0.5508720930232558
+     ]
+    ],
+    "id": "joyland-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

@@ -1,0 +1,669 @@
+{
+ "poster": {
+  "id": "dune",
+  "title": "Dune",
+  "year": "2021",
+  "yearNumber": 2021,
+  "country": "United States",
+  "region": "North America",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Denis Villeneuve",
+  "edition": "2021 English-language October 22 release poster",
+  "alt": "A Dune ensemble poster with a large young man’s face above stacked portraits, dark teal atmosphere, a sandy landscape and a geometric title.",
+  "blurb": "A pyramid of faces fades into a vast desert, linking intimate portraits to an immense landscape.",
+  "notes": [
+   {
+    "title": "Faces arranged by visual weight",
+    "body": "The largest portrait sits at the top centre, with smaller faces stepping down on either side. Size and placement make the crowded ensemble readable as a hierarchy."
+   },
+   {
+    "title": "The desert restores a sense of scale",
+    "body": "The small figures near the bright horizon are dwarfed by both the landscape and the portraits above. This shift in scale joins human presence to a much larger world."
+   },
+   {
+    "title": "A title pared down to shapes",
+    "body": "The widely spaced DUNE lettering uses simple curved and straight forms. Its spare geometry contrasts with the complex photographic montage."
+   }
+  ],
+  "source": "https://www.warnerbros.com/movies/dune",
+  "imageCredit": "© 2021 Legendary and Warner Bros. Entertainment Inc. Poster artist uncredited in the consulted source; reproduction via Wikipedia.",
+  "anchor": [
+   0.5,
+   0.24
+  ],
+  "accent": "#687e7a",
+  "category": "Film",
+  "image": "images/full/dune.jpg",
+  "imageSource": "https://en.wikipedia.org/wiki/File:Dune_(2021_film).jpg",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/en/8/8e/Dune_%282021_film%29.jpg",
+  "ratio": 0.674479,
+  "imageWidth": 259,
+  "imageHeight": 384,
+  "credit": "© 2021 Legendary and Warner Bros. Entertainment Inc. Poster artist uncredited in the consulted source; reproduction via Wikipedia.",
+  "posterYear": "2021",
+  "countries": [
+   "United States"
+  ],
+  "primaryOrigin": "United States",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/dune.webp"
+ },
+ "studyData": {
+  "intro": "A pyramid of faces dissolves into a desert with one small walker. Move between those scales, then inspect the sparse title and release information that turn the imagined world into an invitation to see a particular film.",
+  "initial": "central",
+  "regions": [
+   {
+    "id": "central",
+    "label": "The largest portrait",
+    "shortLabel": "The largest portrait",
+    "kicker": "Look closely",
+    "summary": "One face establishes the top of the hierarchy.",
+    "layerIndex": 1,
+    "x": 50.965,
+    "y": 21.875,
+    "bounds": {
+     "x": 34,
+     "y": 8,
+     "w": 34,
+     "h": 28
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Scale and position agree",
+      "body": "The largest face occupies the upper centre, turned slightly to one side. Dark hair and clothing frame the pale features, while the surrounding teal field leaves room above. Its size and high position make it more immediately prominent than the smaller portraits arranged below.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A story centred on Paul",
+      "body": "Legendary’s synopsis centres the film on Paul Atreides, a young man who travels to a dangerous planet amid conflict over a valuable resource. That establishes the narrative premise. The poster’s size hierarchy is a visual choice, not a measured account of each character’s screen time.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "legendary"
+       }
+      ]
+     }
+    ],
+    "question": "How do size, height and surrounding space work together to make one face dominant?",
+    "related": [
+     "left-high",
+     "right-high",
+     "walker"
+    ],
+    "number": 1
+   },
+   {
+    "id": "left-high",
+    "label": "The upper-left portrait",
+    "shortLabel": "The upper-left portrait",
+    "kicker": "Look closely",
+    "summary": "A smaller face begins the left slope.",
+    "layerIndex": 2,
+    "x": 25.483,
+    "y": 32.031,
+    "bounds": {
+     "x": 14,
+     "y": 22,
+     "w": 23,
+     "h": 20
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A stepped silhouette",
+      "body": "The upper-left portrait sits lower than the central head and is partly wrapped in pale fabric. Its outline steps the group down towards the left edge. The face turns in a different direction, preventing the ensemble from becoming a row of identical frontal poses.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Variety inside a hierarchy",
+      "body": "Different head angles allow several figures to remain visually distinct while sharing the same atmosphere. The hierarchy does not erase those differences. Compare this portrait with the central one: similar colour treatment connects them, while scale and direction separate their roles in the composition.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What distinguishes this portrait even though it shares the same teal atmosphere?",
+    "related": [
+     "central",
+     "left-low",
+     "atmosphere"
+    ],
+    "number": 2
+   },
+   {
+    "id": "left-low",
+    "label": "The lower-left cluster",
+    "shortLabel": "The lower-left cluster",
+    "kicker": "Look closely",
+    "summary": "Overlaps gather several people into one side.",
+    "layerIndex": 2,
+    "x": 28.958,
+    "y": 46.875,
+    "bounds": {
+     "x": 8,
+     "y": 32,
+     "w": 42,
+     "h": 30
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Faces at different depths",
+      "body": "Several smaller portraits overlap along the left side beneath the upper figure. Shoulders and clothing merge into pale haze, while faces retain stronger contrast. The overlapping arrangement creates a dense cluster without drawing a complete body for each person.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "An ensemble promise",
+      "body": "Showing many recognisable performers can advertise a large cast, while the biggest head still gives the image a centre. The poster visibly offers that ensemble. It does not prove how familiar each performer was to every intended viewer or how much the arrangement affected ticket sales.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which parts of a portrait need to remain clear when the shoulders merge into haze?",
+    "related": [
+     "left-high",
+     "right-low",
+     "names"
+    ],
+    "number": 3
+   },
+   {
+    "id": "right-high",
+    "label": "The upper-right portrait",
+    "shortLabel": "The upper-right portrait",
+    "kicker": "Look closely",
+    "summary": "A bearded profile balances the left side.",
+    "layerIndex": 3,
+    "x": 74.517,
+    "y": 33.073,
+    "bounds": {
+     "x": 63,
+     "y": 23,
+     "w": 23,
+     "h": 20
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A different direction",
+      "body": "A bearded man occupies the upper right, turning away from the central axis. His dark clothing and lit face create another stepped edge in the portrait pyramid. The pose differs from the neighbouring heads, adding a sideways direction to the mostly vertical stack.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Balance without mirroring",
+      "body": "The right side answers the left without copying it exactly. Head sizes, clothing and angles vary, yet their overall mass keeps the central portrait from appearing isolated. This is a useful example of balance built from unequal parts rather than strict reflection.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where is the image balanced, and where is it deliberately unequal?",
+    "related": [
+     "central",
+     "left-high",
+     "right-low"
+    ],
+    "number": 4
+   },
+   {
+    "id": "right-low",
+    "label": "The lower-right cluster",
+    "shortLabel": "The lower-right cluster",
+    "kicker": "Look closely",
+    "summary": "Several gazes open the montage sideways.",
+    "layerIndex": 3,
+    "x": 71.815,
+    "y": 47.396,
+    "bounds": {
+     "x": 51,
+     "y": 34,
+     "w": 42,
+     "h": 27
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Separate faces, shared shoulders",
+      "body": "The smaller right-hand portraits have different head angles and facial contrasts. Their clothing overlaps and fades into the same pale field. Some faces turn sideways, so attention spreads beyond the central axis even while the overall group remains compact.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Many directions, one shape",
+      "body": "The outer silhouette forms a readable ensemble shape, but the internal gazes point in several directions. Cover the individual faces and look at the remaining mass, then reveal them again. The poster alternates between a single pyramid and a collection of distinct people.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Do the gazes lead you out of the image or back towards another portrait?",
+    "related": [
+     "right-high",
+     "left-low",
+     "hood"
+    ],
+    "number": 5
+   },
+   {
+    "id": "hood",
+    "label": "The hooded foreground figure",
+    "shortLabel": "The hooded foreground figure",
+    "kicker": "Look closely",
+    "summary": "A pale triangular form anchors the ensemble.",
+    "layerIndex": 4,
+    "x": 50.965,
+    "y": 59.115,
+    "bounds": {
+     "x": 25,
+     "y": 45,
+     "w": 52,
+     "h": 28
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A hood becomes a large shape",
+      "body": "The foreground figure’s pale hood and robe spread beneath the smaller portraits. The face sits inside a dark opening, while the garment widens towards the bottom. This triangular form provides a broad base before the portrait montage dissolves into the title and landscape.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An echo of the whole arrangement",
+      "body": "The hood’s triangular outline resembles the larger pyramid made by all the heads. A smaller form therefore repeats the organisation of the whole group. This is a visible structural comparison, not proof that the design team consciously intended a symbolic pyramid.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Can you find the same broad triangle at both the figure and ensemble scale?",
+    "related": [
+     "central",
+     "title",
+     "atmosphere"
+    ],
+    "number": 6
+   },
+   {
+    "id": "walker",
+    "label": "The solitary walker",
+    "shortLabel": "The solitary walker",
+    "kicker": "Look closely",
+    "summary": "A tiny body changes the scale of the world.",
+    "layerIndex": 5,
+    "x": 48.649,
+    "y": 76.563,
+    "bounds": {
+     "x": 39,
+     "y": 71,
+     "w": 19,
+     "h": 11
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Human size returns",
+      "body": "A small dark walker stands near the horizon beneath the title, with a trailing or wind-shaped garment. Compared with the giant faces above, this body is tiny. The image shifts from close-up portraits to a landscape-scale person within a very short vertical distance.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Two scales of one story",
+      "body": "The portraits invite attention to people; the walker suggests the size of the world around them. Their coexistence is montage, not realistic perspective. Cover the upper faces and the desert becomes more open; restore them and human drama dominates the sky.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which seems larger: the desert because of the walker, or the people because of the portraits?",
+    "related": [
+     "central",
+     "desert",
+     "title"
+    ],
+    "number": 7
+   },
+   {
+    "id": "desert",
+    "label": "The horizontal dunes",
+    "shortLabel": "The horizontal dunes",
+    "kicker": "Look closely",
+    "summary": "Warm bands replace the cool portrait field.",
+    "layerIndex": 5,
+    "x": 74.903,
+    "y": 90.885,
+    "bounds": {
+     "x": 0,
+     "y": 79,
+     "w": 100,
+     "h": 21
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A change in colour and direction",
+      "body": "The lower desert uses warm brown and ochre bands that run mostly horizontally. These contrast with the cooler teal atmosphere and vertical stacking above. The horizon provides a clear division, though pale haze links the two areas rather than creating a hard pasted border.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A resource conflict in the premise",
+      "body": "Legendary describes conflict over the planet’s exclusive supply of a highly valuable resource. That gives the desert setting narrative context. The poster itself does not identify extraction methods, political borders or real-world geography; those would require evidence beyond this landscape image.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "legendary"
+       }
+      ]
+     }
+    ],
+    "question": "How does the warm horizontal ground change the rhythm of the cool portrait stack?",
+    "related": [
+     "walker",
+     "atmosphere",
+     "release"
+    ],
+    "number": 8
+   },
+   {
+    "id": "title",
+    "label": "The geometric DUNE title",
+    "shortLabel": "The geometric DUNE title",
+    "kicker": "Words and meaning",
+    "summary": "A few separated shapes name the film.",
+    "layerIndex": 6,
+    "x": 45.174,
+    "y": 71.094,
+    "bounds": {
+     "x": 17,
+     "y": 67,
+     "w": 66,
+     "h": 8
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Letters reduced to essentials",
+      "body": "DUNE appears in widely spaced, minimal curved and straight forms. Several strokes are incomplete by ordinary lettering standards, but their sequence remains readable as a title. The sparse geometry contrasts with the many faces and folds immediately above it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A pause before the landscape",
+      "body": "The title offers a quieter band between crowded portraits and the tiny walker. Its wide spacing allows the pale atmosphere to show through. Compare it with the tightly packed names at the top: both identify, but they use very different densities and reading distances.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which letter requires the most help from the other letters to be recognised?",
+    "related": [
+     "names",
+     "hood",
+     "walker"
+    ],
+    "number": 9
+   },
+   {
+    "id": "names",
+    "label": "The top cast line",
+    "shortLabel": "The top cast line",
+    "kicker": "Look closely",
+    "summary": "Many names form a fine horizontal band.",
+    "layerIndex": 6,
+    "x": 50.579,
+    "y": 4.948,
+    "bounds": {
+     "x": 7,
+     "y": 3,
+     "w": 87,
+     "h": 4
+    },
+    "tags": [
+     "business",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "Names at the edge of visibility",
+      "body": "A row of small pale performer names sits near the upper edge. It is much less visually forceful than the faces below and the main title. The line adds information for close inspection while leaving the central portrait enough open space to remain dominant.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "Do not reconstruct blurred credits",
+      "body": "The installed image is too small for a reliable full reading of this line and the lower billing block. Familiar cast knowledge should not be substituted for visible lettering. The study identifies the line’s role and placement without claiming a complete transcript.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Why might a poster show faces prominently while keeping the corresponding name line small?",
+    "related": [
+     "central",
+     "left-low",
+     "title"
+    ],
+    "number": 10
+   },
+   {
+    "id": "release",
+    "label": "The October 22 line",
+    "shortLabel": "The October 22 line",
+    "kicker": "Look closely",
+    "summary": "A date turns atmosphere into an invitation.",
+    "layerIndex": 6,
+    "x": 51.737,
+    "y": 85.938,
+    "bounds": {
+     "x": 31,
+     "y": 83,
+     "w": 41,
+     "h": 6
+    },
+    "tags": [
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "A practical next step",
+      "body": "OCTOBER 22 appears in pale capitals below a smaller theatrical-format line. The date is placed over the desert, beneath the title and walker. Its clarity gives the viewer practical release information after the image has established the film’s name and atmosphere.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "An edition-specific date",
+      "body": "Legendary’s official page includes a main-trailer caption announcing October 22, while its general release field lists another date. The visible poster line is therefore treated as this campaign’s advertised date, not a universal first-release date for every territory or screening.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "legendary"
+       }
+      ]
+     }
+    ],
+    "question": "What would be lost if the poster kept all the atmosphere but removed the date?",
+    "related": [
+     "title",
+     "desert",
+     "names"
+    ],
+    "number": 11
+   },
+   {
+    "id": "atmosphere",
+    "label": "The teal haze",
+    "shortLabel": "The teal haze",
+    "kicker": "Look closely",
+    "summary": "A shared colour joins many separate images.",
+    "layerIndex": 0,
+    "x": 10.811,
+    "y": 14.583,
+    "bounds": {
+     "x": 1,
+     "y": 7,
+     "w": 20,
+     "h": 15
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Edges fade into one field",
+      "body": "Teal and pale blue-green tones surround the heads and soften their lower edges. Several shoulders disappear gradually instead of ending in crisp cutouts. This shared atmosphere connects separate portraits and gives the top of the sheet a broad, relatively quiet background.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Unity without a literal location",
+      "body": "The haze makes the ensemble feel visually coherent, but it does not need to be read as one room or one moment in the film. Its role is partly graphic: it bridges portraits, title and horizon while allowing their differences in scale to remain visible.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which edge fades most gradually, and what does that softness connect?",
+    "related": [
+     "hood",
+     "desert",
+     "left-high"
+    ],
+    "number": 12
+   }
+  ],
+  "sources": [
+   {
+    "id": "legendary",
+    "title": "Legendary: Dune",
+    "url": "https://www.legendary.com/film/dune/",
+    "kind": "Primary source",
+    "summary": "Official film synopsis and Warner Bros. distributor credit; includes an October 22 trailer announcement. Its general release field differs, so the study distinguishes campaign wording from universal release chronology."
+   }
+  ],
+  "tour": [
+   "central",
+   "left-low",
+   "hood",
+   "title",
+   "walker",
+   "release"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected wording on this edition",
+    "rows": [
+     {
+      "text": "DUNE",
+      "meaning": "Film title",
+      "lang": "en"
+     },
+     {
+      "text": "IT BEGINS",
+      "meaning": "Short promotional line above the title",
+      "lang": "en"
+     },
+     {
+      "text": "OCTOBER 22",
+      "meaning": "Advertised release date on this edition",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected title and release wording only. Fine top cast names and lower billing are not reconstructed. October 22 is described as the poster’s campaign date, not the first screening date worldwide.",
+  "palette": [
+   {
+    "name": "Teal atmosphere",
+    "hex": "#64938b",
+    "role": "A shared colour joins many separate images.",
+    "region": "atmosphere"
+   },
+   {
+    "name": "Pale hood",
+    "hex": "#9aad9a",
+    "role": "A pale triangular form anchors the ensemble.",
+    "region": "hood"
+   },
+   {
+    "name": "Dark hair",
+    "hex": "#25221d",
+    "role": "One face establishes the top of the hierarchy.",
+    "region": "central"
+   },
+   {
+    "name": "Warm sand",
+    "hex": "#866a45",
+    "role": "Warm bands replace the cool portrait field.",
+    "region": "desert"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in this installed reproduction. They describe this image, not original printing inks or a colour standard.",
+  "connections": [
+   {
+    "label": "Scale changes",
+    "title": "Portraits above a tiny walker",
+    "text": "The largest face and the small figure near the desert horizon make a dramatic scale contrast within one vertically stacked composition.",
+    "anchors": [
+     [
+      1,
+      0.5193050193050193,
+      0.19921875
+     ],
+     [
+      5,
+      0.4922779922779923,
+      0.7721354166666666
+     ]
+    ],
+    "id": "dune-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Complexity and simplicity",
+    "title": "A crowded ensemble above spare letters",
+    "text": "The overlapping portrait groups are visually dense; the widely spaced geometric title gives the eye a quieter rhythm below them.",
+    "anchors": [
+     [
+      2,
+      0.3803088803088803,
+      0.3997395833333333
+     ],
+     [
+      3,
+      0.7007722007722008,
+      0.3893229166666667
+     ],
+     [
+      6,
+      0.5694980694980695,
+      0.7096354166666666
+     ]
+    ],
+    "id": "dune-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

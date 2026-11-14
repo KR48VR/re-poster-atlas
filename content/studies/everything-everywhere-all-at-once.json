@@ -1,0 +1,729 @@
+{
+ "poster": {
+  "id": "everything-everywhere-all-at-once",
+  "title": "Everything Everywhere All at Once",
+  "year": "2022",
+  "yearNumber": 2022,
+  "creator": "James Jean",
+  "filmCreator": "Daniel Kwan and Daniel Scheinert",
+  "country": "United States",
+  "countries": [
+   "United States"
+  ],
+  "region": "North America",
+  "ratio": 0.6754966887417219,
+  "accent": "#237d88",
+  "anchor": [
+   0.49,
+   0.43
+  ],
+  "edition": "James Jean’s official illustrated advance campaign, 2022, with “Coming Soon” lettering.",
+  "alt": "Everything Everywhere All at Once poster with an elaborate symmetrical frame of dragons, eyes, hands and swirling colour around a central title, with Michelle Yeoh below and an inverted figure above.",
+  "blurb": "A crowded multiverse becomes an ornamental frame, pulling scattered characters and objects toward one central title.",
+  "notes": [
+   {
+    "title": "Order contains the excess",
+    "body": "The image is dense, but its roughly mirrored structure gives it a stable spine. The title sits inside a central medallion while figures, hands and objects gather around its edge."
+   },
+   {
+    "title": "The eye is everywhere",
+    "body": "Large eyes, small eyes and circular forms recur across the sheet. This repetition provides a route through the detail: we recognise the same kind of shape in different sizes and contexts."
+   },
+   {
+    "title": "An upright and an inverted world",
+    "body": "The main figure rises from the lower half while an upside-down figure enters from above. Their opposing orientations make the poster feel as though different worlds are meeting at its centre."
+   }
+  ],
+  "source": "https://a24films.com/films/everything-everywhere-all-at-once/",
+  "imageSource": "https://www.impawards.com/2022/everything_everywhere_all_at_once_ver2.html",
+  "credit": "Illustration by James Jean, commissioned by A24 and Daniels for the 2022 film. The shown advance campaign is documented by IMP Awards and the artist’s own account. Copyright remains with the artist and respective rights holders; reproduced for visual commentary.",
+  "reproduction": "The film is US / Asian American cinema. James Jean is a Taiwanese American artist; neither label makes the film a Chinese production.",
+  "category": "Film",
+  "image": "images/full/everything-everywhere-all-at-once.jpg",
+  "posterYear": "2022",
+  "primaryOrigin": "United States",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/everything-everywhere-all-at-once.webp"
+ },
+ "studyData": {
+  "intro": "James Jean’s illustrated advance campaign sets opposing figures around a central title, surrounded by eyes, portraits and small objects. Follow repeated shapes through the density rather than treating every motif as a decoded symbol; the edition shown says Coming Soon.",
+  "initial": "medallion",
+  "regions": [
+   {
+    "id": "medallion",
+    "number": 1,
+    "label": "A title inside a circle",
+    "shortLabel": "A title inside a circle",
+    "kicker": "A CALM CENTRE WITH A BUSY RIM",
+    "summary": "The most orderly words sit at the centre of the busiest image.",
+    "x": 49,
+    "y": 44,
+    "bounds": {
+     "x": 31,
+     "y": 32,
+     "w": 39,
+     "h": 25
+    },
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A calm centre with a busy rim",
+      "body": "Dark block letters stack inside a pale circular field. The title has a regular horizontal rhythm unlike the bending arms and surrounding ornament. A coloured border separates the medallion from nearby portraits without making it completely independent of the illustrated world.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "A title that accumulates",
+      "body": "Everything, Everywhere and All at Once build an increasingly expansive phrase across several lines. The repeated long words make a dense verbal block. The surrounding multiplicity can be compared with that language without assuming that every pictured object has one fixed translation.",
+      "evidence": "observation",
+      "originalText": "EVERYTHING EVERYWHERE ALL AT ONCE",
+      "lang": "en"
+     }
+    ],
+    "question": "Why is the title easier to locate than many individual faces?",
+    "related": [
+     "upright",
+     "inverted",
+     "eyes"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "upright",
+    "number": 2,
+    "label": "The lower central figure",
+    "shortLabel": "The lower central figure",
+    "kicker": "A BODY OPENS UPWARD",
+    "summary": "An upward face and open hands supply a human centre.",
+    "x": 47,
+    "y": 72,
+    "bounds": {
+     "x": 25,
+     "y": 65,
+     "w": 56,
+     "h": 22
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A body opens upward",
+      "body": "The woman’s face points upward while her hands extend on either side. Red fabric helps distinguish her torso from the elaborate surrounding shapes. Her upright orientation gives a stable direction to the lower half even though other figures are tilted around her.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "An unlikely central hero",
+      "body": "A24 describes an immigrant mother confronting a rupture across multiple universes. That provides context for the central human presence and surrounding multiplicity. It does not establish the identity or meaning of every small cameo, nor turn the poster into a literal map of the film.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "a24"
+       }
+      ]
+     }
+    ],
+    "question": "What does this figure’s gaze lead you toward before you read the title?",
+    "related": [
+     "medallion",
+     "inverted",
+     "shadow"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "inverted",
+    "number": 3,
+    "label": "The figure entering from above",
+    "shortLabel": "The figure entering from above",
+    "kicker": "A SECOND DIRECTION OF GRAVITY",
+    "summary": "An upside-down face opposes the upright one below.",
+    "x": 49,
+    "y": 20,
+    "bounds": {
+     "x": 29,
+     "y": 0,
+     "w": 44,
+     "h": 29
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A second direction of gravity",
+      "body": "The upper figure’s head points down toward the title while the lower principal figure faces up. Their opposed orientations meet at the centre of the sheet. This arrangement creates a recognisable axis without requiring a single consistent spatial viewpoint.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Symmetry with interruptions",
+      "body": "The top and bottom are related through direction and placement, but they are not mirror copies. Different costumes, hands and surrounding objects prevent perfect symmetry. The result can feel organised and unstable at once, a reading grounded in these visible oppositions.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Rotate the poster mentally: which parts remain organised around the same centre?",
+    "related": [
+     "upright",
+     "arms",
+     "medallion"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "arms",
+    "number": 4,
+    "label": "Repeated arms around the head",
+    "shortLabel": "Repeated arms around the head",
+    "kicker": "REPETITION ENLARGES A GESTURE",
+    "summary": "A fan of limbs turns anatomy into a pattern.",
+    "x": 35,
+    "y": 23,
+    "bounds": {
+     "x": 28,
+     "y": 12,
+     "w": 45,
+     "h": 18
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Repetition enlarges a gesture",
+      "body": "Several pale arm shapes curve around the inverted head and converge near the central axis. Their repetition produces a fan-like rhythm. Because they overlap, the eye can read a larger ornamental form before separating individual hands, elbows or forearms.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An impossible body as a visual device",
+      "body": "The repeated limbs prevent this from reading as an ordinary photograph of a single pose. They invite comparison between bodily gesture and pattern. No specific religious identity or iconographic source is assigned here without evidence from the artist or a specialist source.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Count the changes in direction rather than the fingers: what rhythm emerges?",
+    "related": [
+     "inverted",
+     "eyes",
+     "ornament"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "eyes",
+    "number": 5,
+    "label": "Eyes larger than faces",
+    "shortLabel": "Eyes larger than faces",
+    "kicker": "A RECOGNISABLE RECURRING UNIT",
+    "summary": "A paired set of circular eyes anchors the upper ornament.",
+    "x": 30,
+    "y": 31,
+    "bounds": {
+     "x": 24,
+     "y": 25,
+     "w": 53,
+     "h": 10
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A recognisable recurring unit",
+      "body": "Large round eyes flank the upper part of the medallion, while many smaller eye-like circles appear around the sheet. Their dark centres and contrasting rings are easy to recognise at several scales. Repetition offers a route through otherwise different kinds of detail.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Pattern without a single decoding key",
+      "body": "The recurring eyes can suggest watchfulness or multiple points of view, but those remain interpretations. The observable relationship is formal: circles with dark centres recur in faces, ornament and isolated objects, helping the viewer compare distant parts of the image.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How do these eyes connect with the smaller circular forms elsewhere?",
+    "related": [
+     "arms",
+     "medallion",
+     "cameos"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "left-man",
+    "number": 6,
+    "label": "A sideways portrait at left",
+    "shortLabel": "A sideways portrait at left",
+    "kicker": "A DIAGONAL INTERRUPTION",
+    "summary": "A tilted figure leans into the central title.",
+    "x": 20,
+    "y": 47,
+    "bounds": {
+     "x": 1,
+     "y": 31,
+     "w": 30,
+     "h": 25
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A diagonal interruption",
+      "body": "The left portrait is turned almost sideways, with clothing and an extended arm entering from the edge. Its tilt cuts across the vertical centre. The face remains readable because it is large enough and relatively pale against the surrounding darker ornament.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Portrait and movement together",
+      "body": "Rather than sitting in a regular cast grid, this figure participates in the swirling directions around the title. The poster lets a face serve as both a recognition point and a directional shape. This describes its placement, without assigning a scene or alternate identity.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What prevents this sideways figure from becoming detached from the composition?",
+    "related": [
+     "right-upper",
+     "medallion"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "right-upper",
+    "number": 7,
+    "label": "The pale portrait at right",
+    "shortLabel": "The pale portrait at right",
+    "kicker": "A BALANCING LIGHT AREA",
+    "summary": "A second tilted figure answers the left-hand diagonal.",
+    "x": 77,
+    "y": 47,
+    "bounds": {
+     "x": 68,
+     "y": 31,
+     "w": 32,
+     "h": 24
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A balancing light area",
+      "body": "The upper-right figure leans toward the centre with pale clothing and a light face. That light area balances the large tilted portrait at left without copying its exact shape. Small objects and straight vertical forms remain behind it, adding another texture.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A pairing based on placement",
+      "body": "The two side portraits can be compared through angle, scale and distance from the title. Their balancing function does not imply that they have equivalent narrative roles. Composition and character hierarchy are related questions, but the picture alone does not settle both.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the light clothing change the weight of this side of the poster?",
+    "related": [
+     "left-man",
+     "medallion",
+     "right-lower"
+    ],
+    "layerIndex": 5
+   },
+   {
+    "id": "left-lower",
+    "number": 8,
+    "label": "A bowed figure at lower left",
+    "shortLabel": "A bowed figure at lower left",
+    "kicker": "A FACE INSIDE A CROWDED MARGIN",
+    "summary": "A smaller face and dark hair occupy a busy side pocket.",
+    "x": 18,
+    "y": 66,
+    "bounds": {
+     "x": 1,
+     "y": 57,
+     "w": 32,
+     "h": 22
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A face inside a crowded margin",
+      "body": "Dark hair frames a small downward-turned face, with warm brown clothing below. The surrounding area is packed with objects, outlines and curls. The relatively continuous face shape stands out from that fragmentation, even though it is far smaller than the principal central figure.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Different scales of looking",
+      "body": "This side portrait may be missed when the poster is seen quickly. On a second look it adds another human scale between the large central bodies and tiny cameos. The density makes repeated viewing productive without requiring every detail to carry equal importance.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which edge helps this face remain visible against the surrounding objects?",
+    "related": [
+     "upright",
+     "right-lower",
+     "cameos"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "right-lower",
+    "number": 9,
+    "label": "Mustard clothing and raised hands",
+    "shortLabel": "Mustard clothing and raised hands",
+    "kicker": "A LARGE WARM PATCH",
+    "summary": "A warm lower-right figure creates a strong side accent.",
+    "x": 87,
+    "y": 69,
+    "bounds": {
+     "x": 71,
+     "y": 54,
+     "w": 29,
+     "h": 27
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A large warm patch",
+      "body": "Mustard-coloured clothing makes a clear patch amid the cooler curving ornament. Raised hands and a face break its upper edge, while the figure enters from the side. Its scale and colour counterweight the lower-left grouping without matching its silhouette.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Hands recur in different roles",
+      "body": "At the top, repeated arms become almost an ornament; here, hands belong to a more recognisable individual pose. Comparing them shows how a common body part can function as pattern in one area and as a character clue in another.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Compare the hand shapes here with the repeated arms at the top: what is similar?",
+    "related": [
+     "arms",
+     "upright",
+     "left-lower"
+    ],
+    "layerIndex": 5
+   },
+   {
+    "id": "shadow",
+    "number": 10,
+    "label": "The shadowed central figure",
+    "shortLabel": "The shadowed central figure",
+    "kicker": "A QUIETER LAYER ON THE AXIS",
+    "summary": "A darker body sits between title and upright face.",
+    "x": 50,
+    "y": 61,
+    "bounds": {
+     "x": 35,
+     "y": 49,
+     "w": 34,
+     "h": 22
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A quieter layer on the axis",
+      "body": "A shadowed figure with a dark head covering occupies the central strip below the title. Fine pale lines and hands remain visible across its torso. Its darker values let the lower face stand out while maintaining a continuous vertical chain through the image.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Overlapping centres",
+      "body": "The poster does not reserve its axis for one person or one word. It stacks several forms, each partially interrupting another. That layered arrangement can be examined as an organisation of visibility without pretending the study has recovered unseen portions of any figure.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Cover this middle figure: does the gap between title and foreground feel larger?",
+    "related": [
+     "medallion",
+     "upright"
+    ],
+    "layerIndex": 6
+   },
+   {
+    "id": "ornament",
+    "number": 11,
+    "label": "Curves around the corners",
+    "shortLabel": "Curves around the corners",
+    "kicker": "EDGES AS A CONTAINING STRUCTURE",
+    "summary": "Repeated curling borders hold the excess within a sheet.",
+    "x": 8,
+    "y": 5,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 100,
+     "h": 100
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Edges as a containing structure",
+      "body": "Bright curls and rounded corner forms recur near the sheet’s perimeter. They give the eye a boundary to follow even when the interior contains many competing objects. Their repetition links the corners without making the entire composition mechanically mirrored.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A commissioned illustration",
+      "body": "James Jean’s own edition record states that A24 and Daniels commissioned the image. It identifies the illustration’s authorship, but its description of a later signed print’s enhancements should not be applied to this digital reproduction of the Coming Soon campaign sheet.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "jean"
+       }
+      ]
+     }
+    ],
+    "question": "Find one curve that repeats in a different corner: what changes in its colour or scale?",
+    "related": [
+     "eyes",
+     "arms",
+     "cameos"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "cameos",
+    "number": 12,
+    "label": "Small objects among the portraits",
+    "shortLabel": "Small objects among the portraits",
+    "kicker": "RECOGNITION IN FRAGMENTS",
+    "summary": "Tiny animals, faces and objects reward a slower scan.",
+    "x": 87,
+    "y": 90,
+    "bounds": {
+     "x": 58,
+     "y": 79,
+     "w": 40,
+     "h": 20
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Recognition in fragments",
+      "body": "The lower margins contain small animal-like forms, faces, circular objects and pieces of clothing. Their scale makes some details difficult to identify in this 510-pixel-wide image. A careful reading can still compare contour, repetition and placement without supplying a complete inventory.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Density has a cost as well as a reward",
+      "body": "The crowded field invites discovery, but tiny forms are less legible than the title and main faces. That trade-off is visible in the reproduction. The study preserves uncertainty rather than enlarging ambiguous marks into supposedly certain characters, props or references.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Choose one small object and compare its scale with the nearest full-size face.",
+    "related": [
+     "ornament",
+     "eyes",
+     "upright"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "soon",
+    "number": 13,
+    "label": "A small advance-release notice",
+    "shortLabel": "A small advance-release notice",
+    "kicker": "AN INVITATION WITHOUT A CALENDAR DATE",
+    "summary": "Coming Soon occupies a small lower medallion.",
+    "x": 49,
+    "y": 86,
+    "bounds": {
+     "x": 41,
+     "y": 84,
+     "w": 14,
+     "h": 4
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "An invitation without a calendar date",
+      "body": "COMING SOON is centred below the main figure, using compact dark capitals on a pale shape. The phrase promises a future release without naming a day. It is therefore useful evidence for the campaign stage represented by this particular sheet.",
+      "evidence": "observation",
+      "originalText": "COMING SOON",
+      "lang": "en"
+     },
+     {
+      "kind": "business",
+      "heading": "Artwork can circulate in several forms",
+      "body": "A24 also lists a limited print of Jean’s poster, and Jean’s store records a separate signed edition. Those products show later collectible circulation, but they are not automatically the same physical object or printing process as the advance campaign image installed here.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "print"
+       }
+      ]
+     }
+    ],
+    "question": "How does this tiny block repeat the larger title’s colour and alignment?",
+    "related": [
+     "medallion",
+     "upright"
+    ],
+    "layerIndex": 0
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed poster edition",
+    "url": "https://www.impawards.com/2022/everything_everywhere_all_at_once_ver2.html",
+    "kind": "Visual source",
+    "summary": "The reproduced sheet supports observations of visible wording, colour, composition and marks; it does not establish the designer’s intention."
+   },
+   {
+    "id": "a24",
+    "title": "A24: film synopsis and credits",
+    "url": "https://a24films.com/films/everything-everywhere-all-at-once",
+    "kind": "Official distributor",
+    "summary": "Confirms the immigrant-mother multiverse premise and Daniel Kwan/Daniel Scheinert authorship; not used to decode every illustration motif."
+   },
+   {
+    "id": "jean",
+    "title": "James Jean: commissioned illustration edition",
+    "url": "https://store.jamesjean.com/products/everything-everywhere-all-at-once",
+    "kind": "Artist record",
+    "summary": "Confirms the commission by A24 and Daniels and Jean’s signed-print edition; its special finishes are not attributed to this campaign reproduction."
+   },
+   {
+    "id": "print",
+    "title": "A24: James Jean poster print",
+    "url": "https://shop.a24films.com/products/eeaao-james-jean-poster-name",
+    "kind": "Distributor product record",
+    "summary": "Confirms that a limited collectible print of Jean’s artwork was offered, separate from this advance sheet."
+   }
+  ],
+  "tour": [
+   "medallion",
+   "upright",
+   "inverted",
+   "arms",
+   "eyes",
+   "cameos",
+   "soon"
+  ],
+  "transcript": [
+   {
+    "heading": "Readable wording on this edition",
+    "rows": [
+     {
+      "text": "EVERYTHING EVERYWHERE ALL AT ONCE",
+      "meaning": "English film title.",
+      "lang": "en"
+     },
+     {
+      "text": "A FILM FROM DANIELS",
+      "meaning": "Filmmaker attribution.",
+      "lang": "en"
+     },
+     {
+      "text": "COMING SOON",
+      "meaning": "Advance-release wording with no date.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "English title and large campaign wording are transcribed. Red Chinese characters and small decorative marks are visible but are not translated here without a verified reading; their presence is not erased or treated as meaningless.",
+  "palette": [
+   {
+    "name": "Deep blue type",
+    "hex": "#030A4B",
+    "region": "medallion",
+    "role": "Dark structure inside the title circle."
+   },
+   {
+    "name": "Pale title ground",
+    "hex": "#B7D0CB",
+    "region": "medallion",
+    "role": "Contrast behind the words."
+   },
+   {
+    "name": "Red garment",
+    "hex": "#BB0029",
+    "region": "upright",
+    "role": "A strong human accent."
+   },
+   {
+    "name": "Mustard garment",
+    "hex": "#D48433",
+    "region": "right-lower",
+    "role": "A warm side counterweight."
+   },
+   {
+    "name": "Turquoise ornament",
+    "hex": "#248F83",
+    "region": "ornament",
+    "role": "A recurring cool colour."
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in the installed reproduction. These are not original ink specifications; scan, lighting and compression can alter colour.",
+  "connections": [
+   {
+    "label": "Opposing orientations",
+    "title": "An upright and an inverted portrait",
+    "text": "The main portrait rises from below while the inverted figure enters from above. Their opposing directions meet around the central medallion.",
+    "anchors": [
+     [
+      1,
+      0.5009803921568627,
+      0.2139072847682119
+     ],
+     [
+      3,
+      0.4774509803921569,
+      0.7251655629139073
+     ]
+    ],
+    "id": "everything-everywhere-all-at-once-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "A quiet centre",
+    "title": "Title within a busy world",
+    "text": "The compact dark title sits in a clear circular field, surrounded by repeated eyes, curves and crowded portraits.",
+    "anchors": [
+     [
+      2,
+      0.4950980392156863,
+      0.45364238410596025
+     ],
+     [
+      0,
+      0.3362745098039216,
+      0.3079470198675497
+     ]
+    ],
+    "id": "everything-everywhere-all-at-once-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

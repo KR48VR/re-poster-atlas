@@ -1,0 +1,632 @@
+{
+ "poster": {
+  "id": "uncle-sam",
+  "title": "I Want You for U.S. Army",
+  "year": "1917",
+  "yearNumber": 1917,
+  "country": "United States",
+  "region": "North America",
+  "category": "Politics",
+  "creator": "James Montgomery Flagg",
+  "edition": "First World War U.S. Army recruiting poster, 1917; Library of Congress impression.",
+  "image": "images/full/uncle-sam.jpg",
+  "ratio": 0.744,
+  "width": 744,
+  "height": 1000,
+  "alt": "Uncle Sam, in a star-banded top hat, points forward above large red and black recruiting text, framed by red and blue borders.",
+  "blurb": "A national personification looks the viewer in the eye, with a command whose scale is difficult to ignore.",
+  "notes": [
+   {
+    "title": "An individual address",
+    "body": "The pointing finger sits close to the centre, beneath a direct gaze. The viewer is positioned as the person being summoned."
+   },
+   {
+    "title": "Colour makes the institution",
+    "body": "Red, white and blue link the frame, hat and lettering. The national palette turns the figure’s personal address into an institutional one."
+   },
+   {
+    "title": "Space for an action",
+    "body": "The bottom line names the nearest recruiting station, with room below for local information. The poster connects an emotional appeal to a practical next step."
+   }
+  ],
+  "source": "https://www.loc.gov/item/96507165/",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:I_Want_You_for_U.S._Army_by_James_Montgomery_Flagg.jpg",
+  "imageCredit": "James Montgomery Flagg, 1917. Library of Congress; public-domain reproduction via Wikimedia Commons.",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/7/71/I_Want_You_for_U.S._Army_by_James_Montgomery_Flagg.jpg",
+  "accent": "#ad292b",
+  "anchor": [
+   0.51,
+   0.4
+  ],
+  "credit": "James Montgomery Flagg, 1917. Library of Congress; public-domain reproduction via Wikimedia Commons.",
+  "countries": [
+   "United States"
+  ],
+  "primaryOrigin": "United States",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/uncle-sam.webp"
+ },
+ "studyData": {
+  "intro": "A finger, a gaze and the word YOU turn a public notice into a direct address. Read how the figure and sentence work together, then examine the practical space below. This is a historical US Army recruitment poster, studied as persuasion rather than as an invitation to enlist today.",
+  "initial": "uncle-sam-finger",
+  "regions": [
+   {
+    "id": "uncle-sam-finger",
+    "number": 1,
+    "label": "A finger points out of the sheet",
+    "shortLabel": "A finger points out of the sheet",
+    "kicker": "FORESHORTENING CREATES THE GESTURE",
+    "summary": "The gesture supplies a visual equivalent of YOU.",
+    "x": 47.5,
+    "y": 43.5,
+    "bounds": {
+     "x": 39,
+     "y": 36,
+     "w": 17,
+     "h": 15
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Foreshortening creates the gesture",
+      "body": "The index finger points almost towards the viewer, so its end appears broad and its length compressed. Curled fingers and the wrist remain visible behind it. The hand overlaps the darker coat and pale shirt, making it feel nearer than the rest of the figure.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A direction beyond the frame",
+      "body": "Most shapes remain inside the bordered sheet, but the pointing gesture implies a direction out towards the reader. Pairing it with the pronoun YOU can make an impersonal printed notice feel individually addressed. That reading describes the mechanism, not a proven response from every viewer.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Cover the word YOU: does the hand still seem to address you?",
+    "related": [
+     "uncle-sam-you",
+     "uncle-sam-eyes"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "uncle-sam-eyes",
+    "number": 2,
+    "label": "A gaze beneath heavy brows",
+    "shortLabel": "A gaze beneath heavy brows",
+    "kicker": "LIGHT EYES INSIDE A DARK FRAME",
+    "summary": "Two small dark points reinforce the pointing hand.",
+    "x": 49.5,
+    "y": 27,
+    "bounds": {
+     "x": 40,
+     "y": 24,
+     "w": 19,
+     "h": 6
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Light eyes inside a dark frame",
+      "body": "The brows, eyelids and surrounding creases frame two small eyes directed forwards. Pale highlights contrast with dark shadow around them. The head tilts slightly, so the gaze is not simply a perfectly symmetrical pair of circles aligned with the page.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Testing a commanding expression",
+      "body": "The lowered brows and direct look can be read as stern or insistent. Compare that reading with the mouth and pointing pose, then test it by covering the hand. An expression is an interpretation supported by visible features, not direct access to a depicted person’s thoughts.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Do the eyes and finger seem to address the same position?",
+    "related": [
+     "uncle-sam-finger",
+     "uncle-sam-face"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "uncle-sam-face",
+    "number": 3,
+    "label": "The symbolic recruiter",
+    "shortLabel": "The symbolic recruiter",
+    "kicker": "A FACE FRAMED BY LIGHT HAIR",
+    "summary": "White hair and a pointed beard distinguish the face.",
+    "x": 48.5,
+    "y": 30,
+    "bounds": {
+     "x": 31,
+     "y": 21,
+     "w": 35,
+     "h": 18
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A face framed by light hair",
+      "body": "White curls spread from both sides of the head, while a narrow beard drops below the chin. Warm red and pink patches model the cheeks and nose. Against the pale background, dark brows and the mouth carry much of the facial definition.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Uncle Sam as a personification",
+      "body": "The Library of Congress identifies the figure as Uncle Sam, a symbolic character, and the poster as US Army recruitment during World War I. The figure stands for a nation’s appeal; this is not a documentary portrait of an army officer issuing an individual order.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "Which features make this figure recognisable without the headline?",
+    "related": [
+     "uncle-sam-hat",
+     "uncle-sam-eyes"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "uncle-sam-hat",
+    "number": 4,
+    "label": "A star on the tall hat",
+    "shortLabel": "A star on the tall hat",
+    "kicker": "A CURVED BAND AROUND A TALL SHAPE",
+    "summary": "A large white star interrupts a dark blue band.",
+    "x": 48,
+    "y": 15.5,
+    "bounds": {
+     "x": 31,
+     "y": 6,
+     "w": 34,
+     "h": 19
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A curved band around a tall shape",
+      "body": "The pale crown has softly shaded sides and a broad curled brim. A blue band wraps around its lower section, carrying a large white star with partial stars at the sides. The curved band gives the symbol volume rather than treating it as a flat badge.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Colour as a repeated vocabulary",
+      "body": "White, blue and red recur across hat, clothing, border and wording. Their repetition links separate parts of the page, even though the hat itself is mainly white and blue. You can trace that system without assuming every use of these colours has an identical meaning.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Follow the star, bow tie and coat: how do the colours repeat?",
+    "related": [
+     "uncle-sam-bow",
+     "uncle-sam-frame"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "uncle-sam-bow",
+    "number": 5,
+    "label": "A small red bow at the neck",
+    "shortLabel": "A small red bow at the neck",
+    "kicker": "RED CLOSE TO THE FACE",
+    "summary": "A concentrated accent connects the head to the clothing.",
+    "x": 60,
+    "y": 38.5,
+    "bounds": {
+     "x": 54,
+     "y": 34,
+     "w": 12,
+     "h": 9
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Red close to the face",
+      "body": "The bow sits just below the jaw on the viewer’s right. Its angular lobes and dark creases distinguish it from the nearby white beard and shirt. Though much smaller than the red letters below, it brings the headline’s colour into the upper figure.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A bridge between image and words",
+      "body": "The small red accent can help relate the portrait to the large lower wording. It also breaks up the broad blue coat. This is a visual connection within the poster, not evidence that the artist assigned the bow a separate political message.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How would the balance change if the bow were blue?",
+    "related": [
+     "uncle-sam-hat",
+     "uncle-sam-coat"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "uncle-sam-coat",
+    "number": 6,
+    "label": "A broad blue silhouette",
+    "shortLabel": "A broad blue silhouette",
+    "kicker": "HARD EDGES AND SOFT ENDINGS",
+    "summary": "Dark sleeves and lapels give the upper image its weight.",
+    "x": 54.5,
+    "y": 48,
+    "bounds": {
+     "x": 23,
+     "y": 29,
+     "w": 63,
+     "h": 38
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Hard edges and soft endings",
+      "body": "The lapels and sleeves contain deep blue folds with pale highlights. The outline is clearer around the shoulders and right elbow, while the lower torso fades into the background near the text. That change lets the portrait occupy the sheet without needing a rectangular picture frame.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An upright figure with a forward reach",
+      "body": "The torso creates a broad, stable base for the narrower face and hat. The extended arm cuts across this stability, bringing the hand forward. Compare the quiet mass of the right shoulder with the more active left-side sleeve and wrist.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where do the coat’s edges stay sharp, and where do they dissolve?",
+    "related": [
+     "uncle-sam-finger",
+     "uncle-sam-ground"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "uncle-sam-you",
+    "number": 7,
+    "label": "YOU reverses the headline colours",
+    "shortLabel": "YOU reverses the headline colours",
+    "kicker": "A READER INSIDE THE SENTENCE",
+    "summary": "The most personal word receives a distinct treatment.",
+    "x": 75,
+    "y": 70.5,
+    "bounds": {
+     "x": 60,
+     "y": 65,
+     "w": 30,
+     "h": 11
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A reader inside the sentence",
+      "body": "The word YOU names the person being addressed without giving that person a name. It connects the printed statement to whoever stands before it. Paired with the hand and gaze, this ordinary pronoun becomes the sentence’s most visibly individualising element.",
+      "evidence": "observation",
+      "originalText": "YOU",
+      "lang": "en",
+      "translation": "The person addressed by the poster"
+     },
+     {
+      "kind": "design",
+      "heading": "A small reversal with a large effect",
+      "body": "YOU has red interiors with dark outlines, while I WANT uses dark interiors with red outlines. The letters are also large and closely grouped. Reversing the colours preserves the shared vocabulary while distinguishing this one word from the surrounding line.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "What happens to the sentence when every word has the same fill colour?",
+    "related": [
+     "uncle-sam-finger",
+     "uncle-sam-headline"
+    ],
+    "layerIndex": 5
+   },
+   {
+    "id": "uncle-sam-headline",
+    "number": 8,
+    "label": "The appeal names its institution",
+    "shortLabel": "The appeal names its institution",
+    "kicker": "FROM A PERSONAL VOICE TO AN INSTITUTION",
+    "summary": "Two huge lines state who is wanted and for what.",
+    "x": 50.5,
+    "y": 75,
+    "bounds": {
+     "x": 10,
+     "y": 65,
+     "w": 81,
+     "h": 20
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "From a personal voice to an institution",
+      "body": "The complete headline says “I WANT YOU FOR U.S. ARMY.” The first-person I gives the appeal a speaker, while the second line names the organisation. The image supplies Uncle Sam as that speaker, allowing an institution to appear as a person addressing the reader.",
+      "evidence": "observation",
+      "originalText": "I WANT YOU FOR U.S. ARMY",
+      "lang": "en",
+      "translation": "A direct appeal to join the United States Army"
+     },
+     {
+      "kind": "business",
+      "heading": "Recruitment is the purpose",
+      "body": "The Library of Congress dates this design to about 1917 and identifies its purpose as recruiting US soldiers during World War I. That purpose is explicit in the words. Examining how the appeal works does not establish how many enlistments this particular poster produced.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "Read the words without the portrait. What information remains, and what tone is lost?",
+    "related": [
+     "uncle-sam-you",
+     "uncle-sam-station"
+    ],
+    "layerIndex": 5
+   },
+   {
+    "id": "uncle-sam-station",
+    "number": 9,
+    "label": "A local next step beneath the appeal",
+    "shortLabel": "A local next step beneath the appeal",
+    "kicker": "A CHANGE FROM DEMAND TO DESTINATION",
+    "summary": "Smaller text turns attention into a practical direction.",
+    "x": 52,
+    "y": 87,
+    "bounds": {
+     "x": 15,
+     "y": 85,
+     "w": 74,
+     "h": 4
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A change from demand to destination",
+      "body": "“NEAREST RECRUITING STATION” appears as a compact dark line below the large headline. It shifts the reading task from whom the appeal addresses to where a response might happen. Its smaller scale creates a distinct final step in the text hierarchy.",
+      "evidence": "observation",
+      "originalText": "NEAREST RECRUITING STATION",
+      "lang": "en",
+      "translation": "The closest place to enquire about enlisting"
+     },
+     {
+      "kind": "business",
+      "heading": "Room for local information",
+      "body": "The Library of Congress explains that the blank area below the station line could receive a local recruiting address. That makes the open space functional, not simply unfinished. This installed reproduction has no local address visibly added in that area.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "Why is the station line smaller than the recruiting appeal?",
+    "related": [
+     "uncle-sam-blank",
+     "uncle-sam-headline"
+    ],
+    "layerIndex": 6
+   },
+   {
+    "id": "uncle-sam-blank",
+    "number": 10,
+    "label": "Open space left for an address",
+    "shortLabel": "Open space left for an address",
+    "kicker": "A PAUSE INSIDE THE BORDER",
+    "summary": "A quiet lower area has a practical role.",
+    "x": 51.5,
+    "y": 92,
+    "bounds": {
+     "x": 15,
+     "y": 89,
+     "w": 73,
+     "h": 6
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A pause inside the border",
+      "body": "Below the station line, a broad pale strip remains free of large marks. It gives the dense headline room to end before the bottom border. Its position is aligned with the practical direction above rather than with the pointing hand or hat.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Space can carry a future action",
+      "body": "An empty area can organise a design even before anything is written in it. Here, adding an address would extend the text sequence without replacing the central portrait. Compare that use of space with the open areas surrounding the head.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Imagine a two-line street address here. Would the main appeal still be easy to find?",
+    "related": [
+     "uncle-sam-station",
+     "uncle-sam-ground"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "uncle-sam-frame",
+    "number": 11,
+    "label": "Red and blue lines hold the notice",
+    "shortLabel": "Red and blue lines hold the notice",
+    "kicker": "A NEARLY CONTINUOUS ENCLOSURE",
+    "summary": "A double border repeats colours from the figure.",
+    "x": 4,
+    "y": 50,
+    "bounds": {
+     "x": 1,
+     "y": 1,
+     "w": 98,
+     "h": 98
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A nearly continuous enclosure",
+      "body": "A red outer line and blue inner line run around all four sides, separated by pale gaps. The portrait and large letters stay inside this frame. The straight border contrasts with the shaded, irregular outline of the clothing and hair.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Containing an outward gesture",
+      "body": "The frame can give the notice a sense of completeness while the pointing finger appears to reach towards the viewer. Those two effects work in different directions: one contains the page, the other extends its address beyond it. This tension is visible without assuming a single intended emotion.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Cover the border: does the page feel more open or less official?",
+    "related": [
+     "uncle-sam-hat",
+     "uncle-sam-ground"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "uncle-sam-ground",
+    "number": 12,
+    "label": "Pale paper and a small signature",
+    "shortLabel": "Pale paper and a small signature",
+    "kicker": "A DISCREET MARK BESIDE THE COAT",
+    "summary": "The figure dissolves near an artist’s name.",
+    "x": 80,
+    "y": 63,
+    "bounds": {
+     "x": 68,
+     "y": 61,
+     "w": 24,
+     "h": 4
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A discreet mark beside the coat",
+      "body": "A small blue signature runs beside the lower-right edge of the figure. It sits on pale ground where the painted clothing fades, making it legible at closer range without competing with the main sentence. Minor unevenness in the background remains visible in the reproduction.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A documented artist",
+      "body": "The Library of Congress credits James Montgomery Flagg, matching the visible signature. The archive provides authorship; the colour and surface of this digital image do not independently prove original paper, ink or printing condition. We sample the reproduction without treating it as a conservation record.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "Can you locate the signature without letting it become the first thing you see?",
+    "related": [
+     "uncle-sam-coat",
+     "uncle-sam-frame"
+    ],
+    "layerIndex": 0
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed I Want You for U.S. Army poster reproduction",
+    "url": "https://commons.wikimedia.org/wiki/File:I_Want_You_for_U.S._Army_by_James_Montgomery_Flagg.jpg",
+    "kind": "Visual source",
+    "summary": "The exact edition shown is the evidence for visible shapes, wording, positions and reproduction samples. The linked record identifies the image; readings of its visual effects are supplied by Poster Atlas."
+   },
+   {
+    "id": "record",
+    "title": "Library of Congress: I want you for U.S. Army",
+    "url": "https://www.loc.gov/item/96507165/",
+    "kind": "National archive",
+    "summary": "Credits James Montgomery Flagg, dates the design about 1917, identifies Uncle Sam and World War I US Army recruitment, and explains the blank space for a local address."
+   }
+  ],
+  "tour": [
+   "uncle-sam-finger",
+   "uncle-sam-eyes",
+   "uncle-sam-hat",
+   "uncle-sam-you",
+   "uncle-sam-headline",
+   "uncle-sam-station",
+   "uncle-sam-blank"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected wording in this edition",
+    "rows": [
+     {
+      "text": "I WANT YOU FOR U.S. ARMY",
+      "meaning": "A direct US Army recruiting appeal",
+      "lang": "en"
+     },
+     {
+      "text": "NEAREST RECRUITING STATION",
+      "meaning": "A place for local recruiting information",
+      "lang": "en"
+     },
+     {
+      "text": "JAMES MONTGOMERY FLAGG",
+      "meaning": "The artist’s signature",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "The principal wording and artist’s name are transcribed. The tiny bottom imprint is not reconstructed. The archive dates the design approximately; no claim is made for this reproduction’s physical printing date.",
+  "palette": [
+   {
+    "name": "Border red",
+    "hex": "#D73743",
+    "role": "Repeats in the bow and headline",
+    "region": "uncle-sam-frame"
+   },
+   {
+    "name": "Coat blue",
+    "hex": "#455882",
+    "role": "Gives the figure a dark base",
+    "region": "uncle-sam-coat"
+   },
+   {
+    "name": "Pale ground",
+    "hex": "#F6EFE5",
+    "role": "Leaves the gesture visually isolated",
+    "region": "uncle-sam-ground"
+   },
+   {
+    "name": "Headline dark",
+    "hex": "#2B161D",
+    "role": "Contrasts with the red outlines",
+    "region": "uncle-sam-headline"
+   }
+  ],
+  "paletteNote": "Approximate screen samples from the installed reproduction. These describe image pixels, not original inks, paper colours or calibrated printing specifications."
+ }
+}

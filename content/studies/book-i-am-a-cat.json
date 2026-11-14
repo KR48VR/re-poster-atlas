@@ -1,0 +1,564 @@
+{
+ "poster": {
+  "id": "book-i-am-a-cat",
+  "title": "I Am a Cat",
+  "year": "1906–1909",
+  "yearNumber": 1906,
+  "coverYear": "1906–1909",
+  "bookFirstPublication": "1905",
+  "bookAuthor": "Natsume Sōseki",
+  "bookPublisher": "Hattori Shoten",
+  "bookOrigin": "Japanese novel first published in 1905; this displayed English translation was published in Tokyo and is dated 1906–1909 by Yale.",
+  "creator": "Cover artist unverified",
+  "country": "Japan",
+  "countries": [
+   "Japan"
+  ],
+  "primaryOrigin": "Japan",
+  "region": "East Asia",
+  "category": "Book cover",
+  "image": "images/full/book-i-am-a-cat.jpg",
+  "ratio": 0.6997571341833637,
+  "alt": "A worn tan cover with a red English title, a black cat framed in a small rectangle and red translator and reviser lines beneath.",
+  "blurb": "A small frontal cat holds the middle of a broad, worn paper field.",
+  "source": "https://collections.library.yale.edu/catalog/2109035",
+  "credit": "Yale records Natsume Sōseki and K. Ando; the cover names the translator and reviser. This particular cover artist is not established, so Hashiguchi Goyō’s credit is not transferred from another edition.",
+  "reproduction": "The reproduced object is 2305 × 3294 pixels. Physical wear, visible image texture and edges are retained; small uncertain lettering is not reconstructed.",
+  "anchor": [
+   0.5,
+   0.51
+  ],
+  "accent": "#a75740",
+  "edition": "Yale’s English-language Hattori Shoten, Tokyo, volume is dated 1906–1909. It is not the Japanese 1905 first volume. The visible cover credits translation to K. Ando and revision to K. Natsume.",
+  "imageSource": "https://collections.library.yale.edu/catalog/2109035",
+  "imageCredit": "Yale records Natsume Sōseki and K. Ando; the cover names the translator and reviser. This particular cover artist is not established, so Hashiguchi Goyō’s credit is not transferred from another edition.",
+  "posterYear": "1906–1909",
+  "posterTerritory": "Japan",
+  "posterDateStatus": "The displayed edition or explicitly qualified catalogue date. The original work date is recorded separately.",
+  "originNote": "Country and region describe the displayed edition’s publishing context, not the nationality of the cover designer.",
+  "originSources": [
+   {
+    "title": "Displayed object record",
+    "url": "https://collections.library.yale.edu/catalog/2109035"
+   }
+  ],
+  "notes": [
+   {
+    "title": "The displayed edition",
+    "body": "Yale’s English-language Hattori Shoten, Tokyo, volume is dated 1906–1909. It is not the Japanese 1905 first volume. The visible cover credits translation to K. Ando and revision to K. Natsume."
+   },
+   {
+    "title": "Writing and image-making",
+    "body": "Yale records Natsume Sōseki and K. Ando; the cover names the translator and reviser. This particular cover artist is not established, so Hashiguchi Goyō’s credit is not transferred from another edition."
+   },
+   {
+    "title": "A visible design relationship",
+    "body": "A small frontal cat holds the middle of a broad, worn paper field."
+   }
+  ],
+  "downloadURL": "https://collections.library.yale.edu/iiif/2/1334885/full/full/0/default.jpg",
+  "creditSources": [
+   {
+    "title": "Source for the displayed object and recorded credits",
+    "url": "https://collections.library.yale.edu/catalog/2109035"
+   }
+  ],
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-i-am-a-cat.webp"
+ },
+ "studyData": {
+  "intro": "This English-language Tokyo edition places a small framed cat between a large red title and two translation credits. Read its face and whiskers closely, then distinguish this object from the better-known Japanese covers of other volumes.",
+  "initial": "title",
+  "regions": [
+   {
+    "id": "title",
+    "label": "Red English title",
+    "shortLabel": "Red English title",
+    "kicker": "THE ANIMAL SAYS I",
+    "summary": "A first-person statement opens the cover.",
+    "x": 47.78742,
+    "y": 15.52823,
+    "bounds": {
+     "x": 13,
+     "y": 10,
+     "w": 75,
+     "h": 12
+    },
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "The animal says I",
+      "body": "The visible title is I AM A CAT. The first-person wording invites the pictured animal to be read as a speaking presence, but the cover does not need a human narrator’s portrait to establish that grammatical voice.",
+      "evidence": "observation",
+      "originalText": "I AM A CAT",
+      "lang": "en"
+     },
+     {
+      "kind": "context",
+      "heading": "A particular translated edition",
+      "body": "Yale dates this English Hattori Shoten volume to 1906–1909 and locates publication in Tokyo. It is not the Japanese 1905 first volume, so a designer credit associated with that different object is not assumed here.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "yale"
+       }
+      ]
+     }
+    ],
+    "question": "How does the title change your encounter with the cat’s direct gaze?",
+    "related": [
+     "face",
+     "translator"
+    ],
+    "layerIndex": 3,
+    "number": 1
+   },
+   {
+    "id": "face",
+    "label": "Frontal cat face",
+    "shortLabel": "Frontal cat face",
+    "kicker": "A FACE HELD NEAR THE CENTRE",
+    "summary": "Dark and light marks create a direct encounter.",
+    "x": 49.00217,
+    "y": 48.01154,
+    "bounds": {
+     "x": 36,
+     "y": 40,
+     "w": 29,
+     "h": 17
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A face held near the centre",
+      "body": "The cat faces forward inside a small rectangular picture. Dark patches around the eyes and nose contrast with pale fur shapes, while the close spacing of the features gives the head a concentrated, attentive appearance.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Small image, strong presence",
+      "body": "Although the illustration occupies only a fraction of the cover, the frontal face can hold attention against the much larger paper field. Its visual force comes from contrast and orientation rather than from sheer size.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would a profile cat have the same relationship with the first-person title?",
+    "related": [
+     "title",
+     "ears"
+    ],
+    "layerIndex": 1,
+    "number": 2
+   },
+   {
+    "id": "ears",
+    "label": "Pointed ears",
+    "shortLabel": "Pointed ears",
+    "kicker": "AN OUTWARD PAIR",
+    "summary": "Two angled tips widen the face.",
+    "x": 39.28416,
+    "y": 39.57195,
+    "bounds": {
+     "x": 32,
+     "y": 35,
+     "w": 36,
+     "h": 12
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An outward pair",
+      "body": "The ears rise to either side of the head and lean outward. Their pointed silhouettes contrast with the rounder cheek and eye shapes, making the upper part of the cat easy to recognise inside the tight frame.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A rhythm above the eyes",
+      "body": "The ear tips form a wide pair above the narrower facial features. This nesting of wide and narrow shapes gives the little portrait internal structure, even before individual fur marks are examined.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which pair spreads farther across the picture: the ears, the eyes or the whiskers?",
+    "related": [
+     "face",
+     "whiskers"
+    ],
+    "layerIndex": 1,
+    "number": 3
+   },
+   {
+    "id": "whiskers",
+    "label": "Whiskers reaching the frame",
+    "shortLabel": "Whiskers reaching the frame",
+    "kicker": "THIN STROKES IN PALE SPACE",
+    "summary": "Fine lines extend beyond the central face.",
+    "x": 63.70933,
+    "y": 51.53309,
+    "bounds": {
+     "x": 31,
+     "y": 44,
+     "w": 40,
+     "h": 14
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Thin strokes in pale space",
+      "body": "Long whisker lines run from the muzzle toward the picture boundary. They are finer than the dark body patches, so the pale intervals around them are essential to their legibility. Several reach close to the actual frame.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A scale change within one image",
+      "body": "The whiskers make the viewer move from a broad animal silhouette to very small marks. Their delicacy contrasts with the blunt red title above, giving the cover more than one level of visual attention.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What is lost if the whiskers are reduced to the same thickness as the body patches?",
+    "related": [
+     "frame",
+     "body"
+    ],
+    "layerIndex": 1,
+    "number": 4
+   },
+   {
+    "id": "body",
+    "label": "Ink body patches",
+    "shortLabel": "Ink body patches",
+    "kicker": "DARK ISLANDS AND PALE CHANNELS",
+    "summary": "Irregular shapes keep the cat from becoming a flat icon.",
+    "x": 48.74187,
+    "y": 64.82999,
+    "bounds": {
+     "x": 34,
+     "y": 54,
+     "w": 33,
+     "h": 16
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Dark islands and pale channels",
+      "body": "Below the face, broken dark patches suggest the chest and forelegs. Pale channels divide these areas, so the animal is built from alternating light and dark shapes rather than a single filled silhouette.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Texture inside a compact frame",
+      "body": "The irregular patches introduce variety within the orderly rectangular boundary. They can suggest fur and volume while still reading as printed marks, preserving a difference between the cat and its surrounding frame.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Do the pale channels look like empty paper, light fur, or both?",
+    "related": [
+     "face",
+     "frame"
+    ],
+    "layerIndex": 1,
+    "number": 5
+   },
+   {
+    "id": "frame",
+    "label": "Printed picture frame",
+    "shortLabel": "Printed picture frame",
+    "kicker": "AN UNEVEN RECTANGLE",
+    "summary": "A small boundary organises a large cover.",
+    "x": 29.21909,
+    "y": 54.02247,
+    "bounds": {
+     "x": 27,
+     "y": 31,
+     "w": 46,
+     "h": 42
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An uneven rectangle",
+      "body": "The dark border encloses the cat with rounded and slightly irregular corners. It is visibly printed rather than mechanically perfect, and it stays distinct from the much larger worn outer edge of the book.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A portrait within an object",
+      "body": "The frame turns the cat into a compact central picture, leaving generous paper above and below for words. That separation lets the cover alternate between reading language and looking at an image.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would the cat feel larger if its frame disappeared while the drawing stayed the same size?",
+    "related": [
+     "paper",
+     "whiskers"
+    ],
+    "layerIndex": 2,
+    "number": 6
+   },
+   {
+    "id": "mark",
+    "label": "Small adjacent mark",
+    "shortLabel": "Small adjacent mark",
+    "kicker": "A COMPACT DARK DETAIL",
+    "summary": "A tiny mark asks for restraint.",
+    "x": 67.00651,
+    "y": 60.00304,
+    "bounds": {
+     "x": 63,
+     "y": 57,
+     "w": 7,
+     "h": 7
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A compact dark detail",
+      "body": "A small dark mark sits near the lower-right side of the cat image. It is much smaller than the main printed words and belongs visually with the framed picture rather than the red credit lines below.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "What the source does not establish",
+      "body": "The consulted Yale catalogue does not identify this particular cover artist. The tiny mark is therefore not expanded into a guessed signature or used to transfer an attribution from another edition of the novel.",
+      "evidence": "uncertain",
+      "sources": [
+       {
+        "id": "yale"
+       }
+      ]
+     }
+    ],
+    "question": "What evidence would you want before reading a tiny mark as an artist’s signature?",
+    "related": [
+     "frame",
+     "reviser"
+    ],
+    "layerIndex": 2,
+    "number": 7
+   },
+   {
+    "id": "translator",
+    "label": "Translator credit",
+    "shortLabel": "Translator credit",
+    "kicker": "A NAMED ACT OF TRANSLATION",
+    "summary": "Translation is given its own visible line.",
+    "x": 55.20607,
+    "y": 79.73588,
+    "bounds": {
+     "x": 29,
+     "y": 76,
+     "w": 58,
+     "h": 7
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A named act of translation",
+      "body": "The lower red line reads TRANSLATED BY K. ANDO. Its smaller capitals distinguish this role from the large title, while the repeated red colour keeps the two verbal areas connected across the intervening portrait.",
+      "evidence": "observation",
+      "originalText": "TRANSLATED BY K. ANDO",
+      "lang": "en"
+     },
+     {
+      "kind": "business",
+      "heading": "An English edition published in Tokyo",
+      "body": "Yale records English as the language, Hattori Shoten as publisher and Tokyo as publication place. The visible translation credit is therefore useful edition information; English wording alone would not establish a British or American publishing context.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "yale"
+       }
+      ]
+     }
+    ],
+    "question": "How does this credit help distinguish the work’s language of origin from the language of this object?",
+    "related": [
+     "title",
+     "reviser"
+    ],
+    "layerIndex": 4,
+    "number": 8
+   },
+   {
+    "id": "reviser",
+    "label": "Separate revision credit",
+    "shortLabel": "Separate revision credit",
+    "kicker": "REVISION IS NOT THE SAME LINE",
+    "summary": "A second role follows the translator.",
+    "x": 58.45987,
+    "y": 84.83607,
+    "bounds": {
+     "x": 29,
+     "y": 82,
+     "w": 58,
+     "h": 7
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Revision is not the same line",
+      "body": "REVISED BY K. NATSUME appears beneath the translation line. Keeping the two statements separate makes two forms of textual work visible, even though the cover uses the same red colour and similar-sized lettering for both.",
+      "evidence": "observation",
+      "originalText": "REVISED BY K. NATSUME",
+      "lang": "en"
+     },
+     {
+      "kind": "design",
+      "heading": "A two-step ending",
+      "body": "The lower lines form a small stack with a narrow interval between them. They finish the cover more quietly than the title, but their alignment creates a strong base beneath the central picture.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Would combining both names in one line obscure the difference between their stated roles?",
+    "related": [
+     "translator",
+     "frame"
+    ],
+    "layerIndex": 5,
+    "number": 9
+   },
+   {
+    "id": "paper",
+    "label": "Worn paper field",
+    "shortLabel": "Worn paper field",
+    "kicker": "THE SURFACE IS NOT UNIFORM",
+    "summary": "A broad tan surface surrounds the picture.",
+    "x": 80.02169,
+    "y": 47.00971,
+    "bounds": {
+     "x": 73,
+     "y": 24,
+     "w": 22,
+     "h": 50
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "The surface is not uniform",
+      "body": "Stains, rubbed areas and folds vary across the tan paper. Much of this surface remains unprinted, especially beside the portrait, allowing the small black image and red words to remain clearly separated.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A surviving object, not a cleaned design",
+      "body": "The Yale reproduction preserves the condition of a specific volume dated 1906–1909. Wear is retained here as part of that record; it is not interpreted as a deliberate colour pattern or removed to simulate an imagined new copy.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "yale"
+       }
+      ]
+     }
+    ],
+    "question": "Which features describe the original arrangement, and which describe this copy’s survival?",
+    "related": [
+     "title",
+     "frame"
+    ],
+    "layerIndex": 0,
+    "number": 10
+   }
+  ],
+  "sources": [
+   {
+    "id": "cover",
+    "title": "The displayed cover",
+    "url": "https://collections.library.yale.edu/catalog/2109035",
+    "kind": "Visual and edition source",
+    "summary": "Yale’s English-language Hattori Shoten, Tokyo, volume is dated 1906–1909. It is not the Japanese 1905 first volume. The visible cover credits translation to K. Ando and revision to K. Natsume."
+   },
+   {
+    "id": "yale",
+    "title": "Yale: English Hattori Shoten volume",
+    "url": "https://collections.library.yale.edu/catalog/2109035",
+    "kind": "Library object record",
+    "summary": "Yale dates this Tokyo English-language volume to 1906–1909 and records Hattori Shoten, K. Ando and Natsume Sōseki. The public IIIF manifest repeats that metadata; the cover artist is not established."
+   }
+  ],
+  "tour": [
+   "title",
+   "face",
+   "whiskers",
+   "frame",
+   "translator",
+   "reviser"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected cover wording",
+    "rows": [
+     {
+      "text": "I AM A CAT",
+      "meaning": "English title",
+      "lang": "en"
+     },
+     {
+      "text": "TRANSLATED BY K. ANDO",
+      "meaning": "Translator credit",
+      "lang": "en"
+     },
+     {
+      "text": "REVISED BY K. NATSUME",
+      "meaning": "Revision credit",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected clearly legible cover wording. Line breaks and casing may be regularized. Small uncertain print is omitted rather than guessed.",
+  "palette": [
+   {
+    "name": "Tan paper",
+    "hex": "#B8AA8F",
+    "role": "The aged field surrounding the portrait.",
+    "region": "paper"
+   },
+   {
+    "name": "Red title",
+    "hex": "#954D35",
+    "role": "The title’s warm printed colour.",
+    "region": "title"
+   },
+   {
+    "name": "Dark cat ink",
+    "hex": "#312F30",
+    "role": "The small portrait’s dark structure.",
+    "region": "face"
+   }
+  ],
+  "paletteNote": "Samples come from individual pixels in this reproduction. They describe its visible colour, not original printing inks or an exact historical colour standard."
+ }
+}

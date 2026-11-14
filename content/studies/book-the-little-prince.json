@@ -1,0 +1,624 @@
+{
+ "poster": {
+  "id": "book-the-little-prince",
+  "title": "The Little Prince",
+  "year": "1946",
+  "yearNumber": 1946,
+  "coverYear": "1946",
+  "bookFirstPublication": "1943",
+  "bookAuthor": "Antoine de Saint-Exupéry",
+  "bookPublisher": "Gallimard",
+  "bookOrigin": "A French-language work first published in New York in 1943; the selected edition was published in France.",
+  "creator": "Antoine de Saint-Exupéry",
+  "country": "France",
+  "countries": [
+   "France"
+  ],
+  "primaryOrigin": "France",
+  "region": "Europe",
+  "category": "Book cover",
+  "image": "images/full/book-the-little-prince.png",
+  "ratio": 0.6666666666666666,
+  "alt": "A cream French jacket with black handwritten-looking title, blue author name, scattered yellow stars, and a small green-clothed blond figure on a lavender planet at the lower right.",
+  "blurb": "A tiny figure and a cropped planet occupy a large field of quiet paper.",
+  "notes": [
+   {
+    "title": "The displayed edition",
+    "body": "Gallimard’s first French edition published in France: printed November 1945 and released April 1946. The photographed numbered copy is documented by Librairie Walden. The original work appeared in New York in 1943."
+   },
+   {
+    "title": "Writing and image-making",
+    "body": "Saint-Exupéry wrote and illustrated the work; the jacket explicitly credits the author’s watercolours. The BnF record supports the distinction between the 1943 work and the 1946 publication in France."
+   },
+   {
+    "title": "A visible design relationship",
+    "body": "The title is broad and dark while the figure is small and delicately painted. Scattered stars connect the open paper to the illustrated planet."
+   }
+  ],
+  "source": "https://librairie-walden.com/fr/livresetdocuments/le-petit-prince-7/",
+  "credit": "Saint-Exupéry wrote and illustrated the work; the jacket explicitly credits the author’s watercolours. The BnF record supports the distinction between the 1943 work and the 1946 publication in France.",
+  "reproduction": "Front-and-spine crop (380,444)–(832,1122), 452 × 678, from the object photograph. Ageing and the photographic edge are retained.",
+  "anchor": [
+   0.83,
+   0.51
+  ],
+  "accent": "#b0a1b4",
+  "edition": "Gallimard’s first French edition published in France: printed November 1945 and released April 1946. The photographed numbered copy is documented by Librairie Walden. The original work appeared in New York in 1943.",
+  "imageSource": "https://librairie-walden.com/fr/livresetdocuments/le-petit-prince-7/",
+  "imageCredit": "Saint-Exupéry wrote and illustrated the work; the jacket explicitly credits the author’s watercolours. The BnF record supports the distinction between the 1943 work and the 1946 publication in France.",
+  "coverPublisher": "Gallimard",
+  "posterYear": "1946",
+  "posterTerritory": "France",
+  "posterDateStatus": "The displayed edition or catalogued object date; the original work date is recorded separately.",
+  "originNote": "Country and region describe the displayed edition’s publishing context. The author and work context are recorded separately.",
+  "originSources": [
+   {
+    "title": "Displayed edition record",
+    "url": "https://librairie-walden.com/fr/livresetdocuments/le-petit-prince-7/"
+   }
+  ],
+  "creditSources": [
+   {
+    "title": "BnF work record",
+    "url": "https://catalogue.bnf.fr/ark:/12148/cb11962706k"
+   }
+  ],
+  "downloadURL": "https://librairie-walden.com/wp-content/uploads/2026/11/32802.webp",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-the-little-prince.webp"
+ },
+ "studyData": {
+  "intro": "A small painted figure occupies a very large field of paper. This French jacket is studied as a surviving printed object, with the 1943 work date kept separate from its 1946 publication in France.",
+  "initial": "title",
+  "regions": [
+   {
+    "id": "prince",
+    "number": 1,
+    "label": "A small standing figure",
+    "shortLabel": "The little prince",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "A blond figure in green clothing stands at the upper edge of the lavender planet.",
+    "layerIndex": 3,
+    "x": 83.96018,
+    "y": 50.9587,
+    "bounds": {
+     "x": 77,
+     "y": 36,
+     "w": 13,
+     "h": 28
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "A blond figure in green clothing stands at the upper edge of the lavender planet. The narrow body occupies a small fraction of the cover.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The figure gives a human scale to the much larger empty field. Its smallness can invite attentive looking without making a fixed claim about the character’s emotion.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What happens to the feeling of space if you imagine the figure twice as large?",
+    "related": [
+     "planet",
+     "stars"
+    ]
+   },
+   {
+    "id": "planet",
+    "number": 2,
+    "label": "A world cropped by the jacket",
+    "shortLabel": "The small planet",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "A lavender-grey rounded surface fills the lower right corner.",
+    "layerIndex": 4,
+    "x": 79.09292,
+    "y": 80.01475,
+    "bounds": {
+     "x": 54,
+     "y": 56,
+     "w": 45,
+     "h": 41
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "A lavender-grey rounded surface fills the lower right corner. Its curved left edge and uneven upper ridge remain visible, while the right and bottom continue to the crop.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "Cropping makes the illustrated world feel larger than the visible fragment. The tiny standing figure and broad curved surface establish sharply different scales.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does the cropped edge make this world feel small, large or both?",
+    "related": [
+     "title",
+     "circle"
+    ]
+   },
+   {
+    "id": "title",
+    "number": 3,
+    "label": "Dark curves across quiet paper",
+    "shortLabel": "French title",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Le Petit Prince runs across the upper paper in large dark curling letters.",
+    "layerIndex": 1,
+    "x": 54.97788,
+    "y": 18.06785,
+    "bounds": {
+     "x": 14,
+     "y": 10,
+     "w": 84,
+     "h": 15
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Le Petit Prince runs across the upper paper in large dark curling letters. The line is broader and heavier than the small painted figure below.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The words provide an immediate entrance before the delicate illustration is examined. Their informal curves also relate to the fine organic marks elsewhere.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would rigid block capitals change the relationship between title and illustration?",
+    "related": [
+     "stars",
+     "branches"
+    ]
+   },
+   {
+    "id": "stars",
+    "number": 4,
+    "label": "Small yellow points between forms",
+    "shortLabel": "Scattered stars",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Several yellow star-like marks are dispersed across the open field.",
+    "layerIndex": 2,
+    "x": 62.05752,
+    "y": 50.07375,
+    "bounds": {
+     "x": 25,
+     "y": 28,
+     "w": 60,
+     "h": 64
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Several yellow star-like marks are dispersed across the open field. They vary in size and sit at unequal intervals rather than on a regular grid.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The scattered points connect distant parts of the cover without filling the space. They encourage the eye to travel between title, figure and planet.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which star acts most clearly as a bridge between two larger elements?",
+    "related": [
+     "circle",
+     "author"
+    ]
+   },
+   {
+    "id": "circle",
+    "number": 5,
+    "label": "A round mark among pointed stars",
+    "shortLabel": "Yellow circle",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "A yellow circular mark appears left of the figure.",
+    "layerIndex": 2,
+    "x": 36.39381,
+    "y": 44.46903,
+    "bounds": {
+     "x": 31,
+     "y": 40,
+     "w": 13,
+     "h": 10
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "A yellow circular mark appears left of the figure. Its simple rounded boundary differs from the smaller pointed stars around it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "Changing the shape within a small family of yellow marks creates variety. The circle can be noticed without needing to identify a specific celestial object.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Why might one round mark be useful among so many pointed ones?",
+    "related": [
+     "branches",
+     "watercolours"
+    ]
+   },
+   {
+    "id": "branches",
+    "number": 6,
+    "label": "Fine lines reach into the paper",
+    "shortLabel": "Fine branches",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Thin branching lines rise from the planet area into the surrounding cream field.",
+    "layerIndex": 5,
+    "x": 51.21681,
+    "y": 57.44838,
+    "bounds": {
+     "x": 42,
+     "y": 43,
+     "w": 22,
+     "h": 25
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Thin branching lines rise from the planet area into the surrounding cream field. Their weight is far lighter than the title’s black strokes.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "These barely emphatic lines make the illustration feel delicate. They also make the empty paper active by giving the eye a small structure to follow.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How close do you need to look before these branches become important?",
+    "related": [
+     "author",
+     "space"
+    ]
+   },
+   {
+    "id": "author",
+    "number": 7,
+    "label": "A blue name above the title",
+    "shortLabel": "The author line",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Antoine de Saint-Exupéry appears in a small blue line above the large title.",
+    "layerIndex": 1,
+    "x": 57.4115,
+    "y": 4.49853,
+    "bounds": {
+     "x": 30,
+     "y": 0,
+     "w": 63,
+     "h": 6
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Antoine de Saint-Exupéry appears in a small blue line above the large title. Its narrow capitals leave a wide interval of pale paper around them.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The quieter colour and smaller scale separate the author from the work’s name. Their proximity still allows the two lines to be read as a heading.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "context",
+      "heading": "An author also makes the images",
+      "body": "The BnF records the work as illustrated by Saint-Exupéry himself. It first appeared in French and English in New York in 1943; the edition published in France followed in April 1946. The author and illustrated work therefore cross more than one publishing place and date.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "bnf"
+       }
+      ]
+     }
+    ],
+    "question": "What does the blue author line do differently from the black title?",
+    "related": [
+     "watercolours",
+     "edge"
+    ]
+   },
+   {
+    "id": "watercolours",
+    "number": 8,
+    "label": "The picture-maker is credited",
+    "shortLabel": "Watercolour credit",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "The small phrase Avec des aquarelles de l’auteur sits below the title.",
+    "layerIndex": 1,
+    "x": 45.02212,
+    "y": 33.55457,
+    "bounds": {
+     "x": 21,
+     "y": 31,
+     "w": 38,
+     "h": 5
+    },
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "The small phrase Avec des aquarelles de l’auteur sits below the title. It occupies a quiet line above the scattered stars.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "This modest credit asks readers to connect writing and drawing. Its small size makes the relationship something to discover after the title has caught attention.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "language",
+      "heading": "The author’s watercolours",
+      "body": "The French credit explicitly connects the watercolours to the author. It identifies a relationship between the book’s words and images without identifying a specific reproduction or printing process.",
+      "evidence": "observation",
+      "sources": [],
+      "originalText": "Avec des aquarelles de l’auteur",
+      "lang": "fr",
+      "translation": "With watercolours by the author"
+     }
+    ],
+    "question": "How does knowing the author made the watercolours affect your view of the cover?",
+    "related": [
+     "space",
+     "prince"
+    ]
+   },
+   {
+    "id": "space",
+    "number": 9,
+    "label": "Paper gives the scene room",
+    "shortLabel": "Open paper",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Large intervals of cream paper remain between the title, small stars and painted figure.",
+    "layerIndex": 0,
+    "x": 20.02212,
+    "y": 59.95575,
+    "bounds": {
+     "x": 12,
+     "y": 35,
+     "w": 18,
+     "h": 41
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Large intervals of cream paper remain between the title, small stars and painted figure. Tone varies across the photographed physical jacket.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The open field allows very small marks to carry attention. Filling it with another illustration would change the scale relationship even if the figure stayed the same size.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which empty interval contributes most to the feeling of distance?",
+    "related": [
+     "edge",
+     "planet"
+    ]
+   },
+   {
+    "id": "edge",
+    "number": 10,
+    "label": "A physical copy around a drawn world",
+    "shortLabel": "Jacket edge",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "The lower jacket edge is uneven and the crop retains a pale photographic strip beneath it.",
+    "layerIndex": 0,
+    "x": 33.07522,
+    "y": 96.9764,
+    "bounds": {
+     "x": 0,
+     "y": 91,
+     "w": 53,
+     "h": 9
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "The lower jacket edge is uneven and the crop retains a pale photographic strip beneath it. A strip of spine text is also visible at the left.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The physical boundary distinguishes the surviving book from the imagined planet. Keeping that edge visible avoids presenting a restored or newly painted facsimile as the source.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "business",
+      "heading": "Printing and publication are different dates",
+      "body": "The photographed copy’s object record gives 30 November 1945 and identifies the first edition published in France. The BnF dates the French publication to April 1946. This study displays 1946 while explaining the earlier printing date rather than treating the two records as identical claims.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "object"
+       },
+       {
+        "id": "bnf"
+       }
+      ]
+     }
+    ],
+    "question": "Where can you distinguish a printed design from the physical object carrying it?",
+    "related": [
+     "prince",
+     "title"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "object",
+    "title": "The Little Prince: the displayed reproduction",
+    "url": "https://librairie-walden.com/fr/livresetdocuments/le-petit-prince-7/",
+    "kind": "Object / publisher record",
+    "summary": "Gallimard’s first French edition published in France: printed November 1945 and released April 1946. The photographed numbered copy is documented by Librairie Walden. The original work appeared in New York in 1943. Front-and-spine crop (380,444)–(832,1122), 452 × 678, from the object photograph. Ageing and the photographic edge are retained."
+   },
+   {
+    "id": "bnf",
+    "title": "BnF: Le petit prince work record",
+    "url": "https://catalogue.bnf.fr/ark:/12148/cb11962706k",
+    "kind": "National library record",
+    "summary": "Identifies the 1943 New York publication, the author’s illustrations and the April 1946 publication in France."
+   }
+  ],
+  "tour": [
+   "title",
+   "prince",
+   "planet",
+   "stars",
+   "space",
+   "author",
+   "watercolours"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "Le Petit Prince",
+      "meaning": "The Little Prince.",
+      "lang": "fr"
+     },
+     {
+      "text": "Antoine de Saint-Exupéry",
+      "meaning": "The author’s name.",
+      "lang": "fr"
+     },
+     {
+      "text": "Avec des aquarelles de l’auteur",
+      "meaning": "With watercolours by the author.",
+      "lang": "fr"
+     },
+     {
+      "text": "Gallimard",
+      "meaning": "The publisher’s name.",
+      "lang": "fr"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected clearly legible title and credit wording is transcribed from the displayed reproduction. Line breaks are simplified; this is not a transcription of every small mark or an identification of the typefaces.",
+  "palette": [
+   {
+    "name": "Jacket cream",
+    "hex": "#D6CAB2",
+    "role": "The broad open paper around the small forms.",
+    "region": "space"
+   },
+   {
+    "name": "Clothing green",
+    "hex": "#91A07D",
+    "role": "Muted green on the standing figure.",
+    "region": "prince"
+   },
+   {
+    "name": "Planet lavender",
+    "hex": "#ACA2A7",
+    "role": "A cool painted part of the curved planet.",
+    "region": "planet"
+   },
+   {
+    "name": "Yellow circle",
+    "hex": "#CBAA36",
+    "role": "The small round celestial mark.",
+    "region": "circle"
+   }
+  ],
+  "paletteNote": "Screen colours are sampled from this exact reproduction. Age, lighting and reproduction affect the result; these are not original printing specifications.",
+  "connections": [
+   {
+    "label": "Small and vast",
+    "title": "A figure gives scale",
+    "text": "The little figure is small even beside the cropped planet, leaving the surrounding field expansive.",
+    "anchors": [
+     [
+      3,
+      0.8396017699115044,
+      0.5007374631268436
+     ],
+     [
+      4,
+      0.790929203539823,
+      0.8296460176991151
+     ]
+    ],
+    "id": "book-the-little-prince-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Different line weights",
+    "title": "Title and branches",
+    "text": "The curling title and delicate branching marks both move through the paper, with very different visual weights.",
+    "anchors": [
+     [
+      1,
+      0.547566371681416,
+      0.21017699115044247
+     ],
+     [
+      5,
+      0.5298672566371682,
+      0.5420353982300885
+     ]
+    ],
+    "id": "book-the-little-prince-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

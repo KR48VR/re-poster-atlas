@@ -1,0 +1,684 @@
+{
+ "poster": {
+  "id": "la-dolce-vita",
+  "title": "La Dolce Vita",
+  "year": "1960",
+  "yearNumber": 1960,
+  "country": "Italy / France",
+  "region": "Europe",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Federico Fellini",
+  "edition": "Italian theatrical release poster",
+  "alt": "A blue-toned La Dolce Vita poster with a large male face on the right, a blonde woman in black on the left, a red scarf and yellow lettering.",
+  "blurb": "Cool faces, a sweeping red accent and electric yellow type turn an encounter into spectacle.",
+  "notes": [
+   {
+    "title": "Portrait against performance",
+    "body": "The enormous male face is cropped close on the right, while the woman is shown at a much smaller full-body scale on the left. Their mismatch makes the scene feel assembled rather than literal."
+   },
+   {
+    "title": "A red line through the blue",
+    "body": "The scarf cuts across the cool painted figures in a vivid sweep. It supplies movement where the large face otherwise holds the page still."
+   },
+   {
+    "title": "Type as a second spotlight",
+    "body": "The yellow title stands sharply against the dark blue lower field. The same colour in the upper lettering gives the eye another bright landing point."
+   }
+  ],
+  "source": "https://fellinimuseum.it/en/la-dolce-vita/",
+  "imageCredit": "Italian theatrical poster; artist uncredited in the consulted source. Reproduction via Wikipedia; copyright remains with the respective rights holders.",
+  "anchor": [
+   0.72,
+   0.34
+  ],
+  "accent": "#b8a834",
+  "category": "Film",
+  "image": "images/full/la-dolce-vita.jpg",
+  "imageSource": "https://en.wikipedia.org/wiki/File:La_Dolce_Vita_(1960_film)_coverart.jpg",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/en/c/c1/La_Dolce_Vita_%281960_film%29_coverart.jpg",
+  "ratio": 0.666667,
+  "imageWidth": 250,
+  "imageHeight": 375,
+  "credit": "Italian theatrical poster; artist uncredited in the consulted source. Reproduction via Wikipedia; copyright remains with the respective rights holders.",
+  "countries": [
+   "Italy",
+   "France"
+  ],
+  "primaryOrigin": "Italy",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/la-dolce-vita.webp"
+ },
+ "studyData": {
+  "intro": "A full-length woman, two unequal male portraits and a sweeping red form overlap without sharing one realistic scale. Compare the poster’s vivid colour treatment with the film’s documented black-and-white format.",
+  "initial": "large-face",
+  "regions": [
+   {
+    "id": "large-face",
+    "label": "The large blue portrait",
+    "shortLabel": "The large blue portrait",
+    "kicker": "DESIGN",
+    "summary": "A cool face occupies nearly the whole right-hand height above the title.",
+    "layerIndex": 1,
+    "bounds": {
+     "x": 54,
+     "y": 4,
+     "w": 41,
+     "h": 48
+    },
+    "x": 75,
+    "y": 27,
+    "question": "Which parts of the face are lightest, and where do they merge into darkness?",
+    "related": [
+     "small-face",
+     "cigarette",
+     "woman"
+    ],
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A portrait made of cool planes",
+      "body": "The large male face is constructed from dark blue, pale blue and near-black areas rather than ordinary flesh tones. Sharp changes of value describe cheek, brow and jaw. Its large size gives it visual authority even though a much smaller full-length figure occupies the opposite side.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Colour belongs to the advertisement",
+      "body": "The Fellini Museum records La dolce vita as a 1960 black-and-white film directed by Federico Fellini. The blue portraits, red sweep and yellow lettering are therefore part of this poster’s colour treatment, not a direct record of the film’s photographed palette.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "fellini"
+       }
+      ]
+     }
+    ],
+    "number": 1
+   },
+   {
+    "id": "cigarette",
+    "label": "The small pale cigarette",
+    "shortLabel": "The small pale cigarette",
+    "kicker": "DESIGN",
+    "summary": "A tiny diagonal cuts across the dark lower face.",
+    "layerIndex": 1,
+    "bounds": {
+     "x": 53,
+     "y": 33,
+     "w": 10,
+     "h": 10
+    },
+    "x": 57,
+    "y": 38,
+    "question": "Why is this small mark so easy to find within such a large portrait?",
+    "related": [
+     "large-face",
+     "fabric",
+     "director"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An accent at the mouth",
+      "body": "The cigarette is a narrow pale form angled down from the mouth area, with a small warm tip. Against the dark blue surrounding it, that slight shape becomes conspicuous. It adds a specific gesture to a portrait otherwise dominated by large planes of colour.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A diagonal at intimate scale",
+      "body": "Its short angle can be compared with the much longer diagonal sweep of fabric at left and centre. One is a small personal detail; the other organises a large part of the sheet. That difference in scale allows diagonals to recur without making the image mechanically repetitive.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 2
+   },
+   {
+    "id": "small-face",
+    "label": "The paler portrait behind",
+    "shortLabel": "The paler portrait behind",
+    "kicker": "DESIGN",
+    "summary": "A second face appears at a smaller scale and different angle.",
+    "layerIndex": 2,
+    "bounds": {
+     "x": 47,
+     "y": 5,
+     "w": 21,
+     "h": 26
+    },
+    "x": 57,
+    "y": 17,
+    "question": "How do overlap and contrast tell you which portrait is visually in front?",
+    "related": [
+     "large-face",
+     "background",
+     "woman"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A face partly submerged",
+      "body": "A smaller pale profile appears behind the large blue head, close to the upper centre. Only part of its contour is clear before dark shapes overlap it. The difference in size and visibility makes it secondary, but its lightness keeps it from disappearing completely.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Montage rather than shared space",
+      "body": "The portraits are not arranged at a consistent physical scale with the full-length woman. Their overlap is better read as a montage of images than as people standing together in one room. The study does not identify the smaller face without a secure matching source.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 3
+   },
+   {
+    "id": "woman",
+    "label": "The blonde head at left",
+    "shortLabel": "The blonde head at left",
+    "kicker": "DESIGN",
+    "summary": "A small bright face starts a full-body figure.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 9,
+     "y": 14,
+     "w": 24,
+     "h": 17
+    },
+    "x": 21,
+    "y": 22,
+    "question": "Compare the amount of detail given to this face and the much larger blue one.",
+    "related": [
+     "dress",
+     "leg",
+     "large-face"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Warm light at the left",
+      "body": "Yellow hair and pale skin make the woman’s head a bright focus against the dark field. Her head tilts while the body continues downward through a long dark dress. The face is much smaller than the male portrait, but its warmth and lightness help it compete.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Different ways to give prominence",
+      "body": "The large portrait gains emphasis through scale; this figure gains it through a full-body pose and bright warm highlights. Neither kind of prominence can be reduced to a simple percentage of image area. Compare what each image lets you see and what each crop withholds.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 4
+   },
+   {
+    "id": "dress",
+    "label": "The long black dress",
+    "shortLabel": "The long black dress",
+    "kicker": "DESIGN",
+    "summary": "A dark vertical figure is separated by bright skin and fabric.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 7,
+     "y": 30,
+     "w": 31,
+     "h": 48
+    },
+    "x": 19,
+    "y": 48,
+    "question": "Where does the dress merge with the background, and where does its edge return?",
+    "related": [
+     "woman",
+     "leg",
+     "fabric"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A body partly defined by its edges",
+      "body": "The dress is close in tone to the dark background, so its shape depends on pale skin, a hand and the red fabric beside it. Some boundaries are much clearer than others. This makes the silhouette alternately emerge and recede as the eye follows it down the sheet.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A dark pause among bright accents",
+      "body": "The dress supplies a relatively quiet vertical area between yellow hair, pale leg and red sweep. It does not need to be fully described with folds to remain legible. Its restrained treatment allows the surrounding warm accents to carry much of the figure’s movement.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 5
+   },
+   {
+    "id": "leg",
+    "label": "The pale leg and foot",
+    "shortLabel": "The pale leg and foot",
+    "kicker": "DESIGN",
+    "summary": "A narrow light path extends the pose downward.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 10,
+     "y": 51,
+     "w": 22,
+     "h": 33
+    },
+    "x": 20,
+    "y": 69,
+    "question": "How does this leg’s angle relate to the sweeping fabric beside it?",
+    "related": [
+     "dress",
+     "fabric",
+     "credits"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A light contour through darkness",
+      "body": "The exposed leg forms a long pale diagonal against the dark dress and background. It narrows toward the lower part of the figure, where red and pale fabric becomes more active. The bright edge makes the pose readable even where the dress itself blends into the surrounding dark.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A body with direction",
+      "body": "The leg, tilted head and hand combine to suggest a posed or moving figure rather than a neutral standing diagram. The exact action is not settled by the poster alone. Describing the visible angles is more secure than assigning this image to a particular scene in the film.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 6
+   },
+   {
+    "id": "fabric",
+    "label": "The red sweeping form",
+    "shortLabel": "The red sweeping form",
+    "kicker": "DESIGN",
+    "summary": "A warm curve links the upper figure to the lower edge.",
+    "layerIndex": 4,
+    "bounds": {
+     "x": 17,
+     "y": 40,
+     "w": 45,
+     "h": 47
+    },
+    "x": 43,
+    "y": 67,
+    "question": "Trace the red form without looking at the faces: where does it carry your eye?",
+    "related": [
+     "pale-fold",
+     "cigarette",
+     "title"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A broad curve against upright portraits",
+      "body": "The red fabric-like sweep bends through the centre and left of the image, with darker and lighter streaks suggesting folds. Its curving direction contrasts with the portraits’ more upright arrangement. This is the most continuous warm-coloured route through the middle of the sheet.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Movement without equal clarity",
+      "body": "The sweep is clear as a directional form even where its exact attachment to the figure is less obvious. That distinction matters: we can confidently describe its colour and path without inventing a hidden garment construction. Its compositional role does not depend on resolving every physical detail.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 7
+   },
+   {
+    "id": "pale-fold",
+    "label": "The pale fold inside the sweep",
+    "shortLabel": "The pale fold inside the sweep",
+    "kicker": "DESIGN",
+    "summary": "A light patch cuts into the red movement.",
+    "layerIndex": 4,
+    "bounds": {
+     "x": 22,
+     "y": 64,
+     "w": 18,
+     "h": 17
+    },
+    "x": 31,
+    "y": 73,
+    "question": "How does the pale fold keep the red shape from looking like a flat ribbon?",
+    "related": [
+     "fabric",
+     "leg",
+     "dress"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An interruption within the red",
+      "body": "A pale angular area appears inside the larger red sweep near the lower centre-left. Its lightness separates layers of the fabric-like form and adds a sharp change of direction. The contrast is especially strong because the surrounding image is mostly dark or saturated.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Depth suggested selectively",
+      "body": "The pale patch gives some impression of a turning surface, but the poster does not model the entire fabric consistently. Instead, a few highlights supply enough depth for the larger gesture to read. Compare this selective description with the more faceted blue face above.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 8
+   },
+   {
+    "id": "title",
+    "label": "The stacked yellow title",
+    "shortLabel": "The stacked yellow title",
+    "kicker": "LANGUAGE",
+    "summary": "Three short words make a tall bright block.",
+    "layerIndex": 5,
+    "bounds": {
+     "x": 55,
+     "y": 47,
+     "w": 42,
+     "h": 31
+    },
+    "x": 77.912,
+    "y": 67.647,
+    "question": "Which word is widest, and how does that alter the stack?",
+    "related": [
+     "director",
+     "fabric",
+     "credits"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A phrase rather than a character name",
+      "body": "“LA DOLCE VITA” means “The Sweet Life.” The words are stacked at the right, with DOLCE spanning the widest line. The phrase names the film and can suggest a way of living, but the title alone does not tell a viewer whether that life is being celebrated or questioned.",
+      "evidence": "observation",
+      "originalText": "LA DOLCE VITA",
+      "lang": "it",
+      "translation": "The Sweet Life"
+     },
+     {
+      "kind": "design",
+      "heading": "Yellow against the darkest area",
+      "body": "The title occupies a near-black area beside the large face, making its yellow letters vivid without an enclosing box. The thick irregular strokes are narrower and more upright than the red sweep. Their stack provides a steady lower-right counterweight to the image’s diagonal movement.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 9
+   },
+   {
+    "id": "director",
+    "label": "Fellini at the upper edge",
+    "shortLabel": "Fellini at the upper edge",
+    "kicker": "BUSINESS",
+    "summary": "A yellow name announces authorship before the images unfold.",
+    "layerIndex": 5,
+    "bounds": {
+     "x": 5,
+     "y": 4,
+     "w": 42,
+     "h": 7
+    },
+    "x": 25,
+    "y": 7,
+    "question": "Compare the director’s name with the film title: what links them?",
+    "related": [
+     "title",
+     "large-face",
+     "credits"
+    ],
+    "tags": [
+     "business",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "The filmmaker’s name is prominent",
+      "body": "Federico Fellini’s name sits at the top left, separate from the dense blue billing below. The Fellini Museum confirms his direction of the film. This makes the name a documented authorship credit and a prominent element of this sheet, without identifying the uncredited poster artist.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "fellini"
+       }
+      ]
+     },
+     {
+      "kind": "design",
+      "heading": "A repeated yellow identity",
+      "body": "The name shares the title’s yellow colour, connecting the top left to the lower right. Its smaller size prevents it from becoming a second main title, yet the colour makes it easy to recover after exploring the portraits. A limited palette can organise distant information this way.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 10
+   },
+   {
+    "id": "credits",
+    "label": "The blue cast and production band",
+    "shortLabel": "The blue cast and production band",
+    "kicker": "BUSINESS",
+    "summary": "Several lines compress names into the base of the sheet.",
+    "layerIndex": 6,
+    "bounds": {
+     "x": 4,
+     "y": 79,
+     "w": 94,
+     "h": 18
+    },
+    "x": 53.012,
+    "y": 87.166,
+    "question": "Which blue names remain readable at a distance, and which become texture?",
+    "related": [
+     "director",
+     "title",
+     "leg"
+    ],
+    "tags": [
+     "business",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "An ensemble beneath the montage",
+      "body": "The lower band includes Marcello Mastroianni and Anita Ekberg prominently, with more cast and production information below. The Fellini Museum records both performers and identifies their roles as Marcello Rubini and Sylvia. That verifies the film credits, but does not securely identify every painted face in this small reproduction.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "fellini"
+       }
+      ]
+     },
+     {
+      "kind": "design",
+      "heading": "A cool closing register",
+      "body": "Blue lettering across the dark lower area repeats the portrait’s cool colour family. Its narrow strokes and crowded lines contrast with the broad yellow title. This gives the bottom a distinct informational texture while still belonging to the poster’s limited colour system.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 11
+   },
+   {
+    "id": "background",
+    "label": "The dark blue surrounding field",
+    "shortLabel": "The dark blue surrounding field",
+    "kicker": "DESIGN",
+    "summary": "A deep field lets small bright details emerge.",
+    "layerIndex": 0,
+    "bounds": {
+     "x": 1,
+     "y": 7,
+     "w": 16,
+     "h": 9
+    },
+    "x": 8,
+    "y": 13,
+    "question": "Where can you still see a background boundary separate from a figure?",
+    "related": [
+     "small-face",
+     "dress",
+     "director"
+    ],
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A setting largely withheld",
+      "body": "The dark blue and black ground does not offer a fully readable location. It holds the unequal portraits and figure together through tone rather than through one consistent space. This allows the yellow, pale and red accents to stand out with very little environmental competition.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Story context is not a location key",
+      "body": "The Fellini Museum describes a film centred on a gossip columnist moving through Rome’s social world. That provides narrative context, but it does not identify this poster’s dark background as a specific place. The installed image should not be turned into a scene map without additional evidence.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "fellini"
+       }
+      ]
+     }
+    ],
+    "number": 12
+   }
+  ],
+  "sources": [
+   {
+    "id": "fellini",
+    "title": "Fellini Museum: La dolce vita",
+    "url": "https://fellinimuseum.it/en/la-dolce-vita/",
+    "kind": "Film museum record",
+    "summary": "Supports 1960, black-and-white format, Fellini’s direction, principal cast and the Roman gossip-columnist premise; does not identify this poster’s artist."
+   }
+  ],
+  "tour": [
+   "large-face",
+   "small-face",
+   "woman",
+   "dress",
+   "fabric",
+   "title",
+   "director"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "LA DOLCE VITA",
+      "meaning": "The Sweet Life",
+      "lang": "it"
+     },
+     {
+      "text": "FEDERICO FELLINI",
+      "meaning": "Director’s name",
+      "lang": "und"
+     },
+     {
+      "text": "MARCELLO MASTROIANNI / ANITA EKBERG",
+      "meaning": "Printed performer names",
+      "lang": "und"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "The main Italian title, director and prominent performer names are transcribed. Fine billing and the possible small signature are not used to invent an artist attribution. The smaller portrait is left unidentified; the poster’s montage is not assigned to an exact film scene.",
+  "palette": [
+   {
+    "name": "Portrait blue",
+    "hex": "#9ebfce",
+    "role": "Cool faceted portrait",
+    "region": "large-face"
+   },
+   {
+    "name": "Title yellow",
+    "hex": "#fffa0d",
+    "role": "Bright stacked identity",
+    "region": "title"
+   },
+   {
+    "name": "Fabric red",
+    "hex": "#c02835",
+    "role": "Sweeping warm route",
+    "region": "fabric"
+   },
+   {
+    "name": "Dress dark",
+    "hex": "#080510",
+    "role": "Quiet full-body silhouette",
+    "region": "dress"
+   },
+   {
+    "name": "Pale fold",
+    "hex": "#fedfa9",
+    "role": "Selective highlight",
+    "region": "pale-fold"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels of the installed reproduction; these are not original ink or paper specifications.",
+  "connections": [
+   {
+    "label": "Unequal portrait scales",
+    "title": "A full figure beside a cropped face",
+    "text": "The woman’s full-length figure is set beside a much larger face. The mismatch in scale makes the printed encounter feel deliberately assembled.",
+    "anchors": [
+     [
+      3,
+      0.234,
+      0.48133333333333334
+     ],
+     [
+      1,
+      0.73,
+      0.3
+     ]
+    ],
+    "id": "la-dolce-vita-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "A moving accent",
+    "title": "Red fabric between cool portrait and yellow type",
+    "text": "The curved red fabric moves through the lower centre, linking the standing figure to the bold yellow title across the blue ground.",
+    "anchors": [
+     [
+      3,
+      0.302,
+      0.4013333333333333
+     ],
+     [
+      4,
+      0.47,
+      0.6093333333333333
+     ],
+     [
+      5,
+      0.758,
+      0.636
+     ]
+    ],
+    "id": "la-dolce-vita-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

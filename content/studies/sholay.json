@@ -1,0 +1,696 @@
+{
+ "poster": {
+  "id": "sholay",
+  "title": "Sholay",
+  "year": "1975",
+  "yearNumber": 1975,
+  "country": "India",
+  "region": "South Asia",
+  "category": "Film",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Ramesh Sippy",
+  "edition": "Multilingual theatrical poster; printing date unverified",
+  "image": "images/full/sholay.jpg",
+  "ratio": 0.7645429362880887,
+  "alt": "Sholay poster in orange and red with six framed cast portraits along the top, huge cracked block lettering, and additional Hindi and Urdu titles below.",
+  "blurb": "A wall of cracked lettering and a row of star portraits turn the title itself into a spectacle.",
+  "notes": [
+   {
+    "title": "The title is the main image",
+    "body": "The immense block letters dominate the sheet. Cracks inside them make the name look like a physical surface under pressure, so typography carries much of the promise of action."
+   },
+   {
+    "title": "Faces establish the ensemble",
+    "body": "Six portraits sit in a regular row across the top. The repeated frames introduce a group while allowing each expression to register separately."
+   },
+   {
+    "title": "A heated field supports the spectacle",
+    "body": "Orange, red and streaks of yellow fill the space around the title. Cooler blue production lettering and format information create small interruptions within that warm field."
+   }
+  ],
+  "source": "https://www.bfi.org.uk/film/4c157d6b-5fcb-5899-b4f7-a4bf085fa9eb/sholay",
+  "imageSource": "https://en.wikipedia.org/wiki/File:Sholay-poster.jpg",
+  "imageCredit": "Copyright in the poster remains with its respective studio, distributor or artist. Low-resolution reproduction via Wikipedia for visual commentary; see the image source record.",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/en/5/52/Sholay-poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+  "anchor": [
+   0.5,
+   0.54
+  ],
+  "accent": "#d85d28",
+  "yearNote": "Year refers to the film’s first release; the poster edition is identified separately.",
+  "credit": "Copyright in the poster remains with its respective studio, distributor or artist. Low-resolution reproduction via Wikipedia for visual commentary; see the image source record.",
+  "countries": [
+   "India"
+  ],
+  "primaryOrigin": "India",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/sholay.webp"
+ },
+ "studyData": {
+  "intro": "This small, multilingual reproduction sells an ensemble, a monumental title and a large-screen presentation. Separate those promises from the film facts, and look closely at how each block competes for space.",
+  "initial": "headline",
+  "regions": [
+   {
+    "id": "headline",
+    "label": "The superlative headline",
+    "shortLabel": "The superlative headline",
+    "kicker": "LANGUAGE",
+    "summary": "A claim of exceptional casting runs across the top.",
+    "layerIndex": 5,
+    "bounds": {
+     "x": 1,
+     "y": 0,
+     "w": 98,
+     "h": 7
+    },
+    "x": 47,
+    "y": 4,
+    "question": "Which part of this sentence could be checked as a fact, and which is promotional judgement?",
+    "related": [
+     "portraits",
+     "story",
+     "billing"
+    ],
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Praise is not a measurement",
+      "body": "The top line presents the cast as the greatest ever assembled. Its superlative is a campaign claim, not an independently established ranking. The condensed capitals and exclamation mark make that judgement forceful even before the viewer has compared any of the portraits underneath.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "The ensemble as an offer",
+      "body": "The headline gives a reason to look at the six faces below it. BFI’s film record confirms the 1975 film’s director Ramesh Sippy and featured performers including Dharmendra, Amitabh Bachchan and Hema Malini. It does not verify this poster’s printed superlative.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "bfi"
+       }
+      ]
+     }
+    ],
+    "number": 1
+   },
+   {
+    "id": "portraits",
+    "label": "Six framed faces",
+    "shortLabel": "Six framed faces",
+    "kicker": "DESIGN",
+    "summary": "A row gives several performers a comparable visual unit.",
+    "layerIndex": 1,
+    "bounds": {
+     "x": 1,
+     "y": 8,
+     "w": 98,
+     "h": 21
+    },
+    "x": 46,
+    "y": 18,
+    "question": "Which faces are easiest to distinguish when you view the row at a distance?",
+    "related": [
+     "headline",
+     "title",
+     "background"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A repeated portrait format",
+      "body": "Six narrow, dark portrait boxes make a single band across the sheet. Their borders are similar, but the faces vary in angle, lighting and expression. This gives the ensemble a common frame without making the individual images look identical or arranging them into one continuous scene.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Darkness above brightness",
+      "body": "The portrait band is one of the darkest large areas on the page. The orange field immediately beneath it makes the row feel contained and separate. At this resolution, broad expressions and tonal differences are firmer evidence than fine costume details or a complete face-by-face identification.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 2
+   },
+   {
+    "id": "story",
+    "label": "A second campaign claim",
+    "shortLabel": "A second campaign claim",
+    "kicker": "LANGUAGE",
+    "summary": "The lower headline repeats the upper line’s emphatic style.",
+    "layerIndex": 5,
+    "bounds": {
+     "x": 13,
+     "y": 30,
+     "w": 76,
+     "h": 7
+    },
+    "x": 49.091,
+    "y": 34.167,
+    "question": "How do the two claims divide the poster into cast, story and title?",
+    "related": [
+     "headline",
+     "portraits",
+     "title"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "An echo with a new subject",
+      "body": "The next line shifts the superlative from cast to story. Its wording continues the top line’s tone, but now promises narrative distinction rather than a collection of performers. Repetition makes the two statements work as a pair while leaving both as advertising judgements.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A pause before the title",
+      "body": "The second headline is narrower than the portrait band and surrounded by bright ground. It creates a short horizontal pause before the much larger sloping title. This breathing space matters: it allows small condensed letters to remain visible amid a very energetic lower composition.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 3
+   },
+   {
+    "id": "title",
+    "label": "The monumental English title",
+    "shortLabel": "The monumental English title",
+    "kicker": "DESIGN",
+    "summary": "A single word occupies much of the lower half.",
+    "layerIndex": 2,
+    "bounds": {
+     "x": 2,
+     "y": 44,
+     "w": 96,
+     "h": 36
+    },
+    "x": 47,
+    "y": 58,
+    "question": "Trace the top and bottom edges: are they parallel to the page?",
+    "related": [
+     "cracks",
+     "hindi",
+     "urdu"
+    ],
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Lettering treated as a structure",
+      "body": "SHOLAY rises across the sheet in thick block letters with dark sides and broken-looking surfaces. Its outline is neither a neat rectangle nor a horizontal line. The broad shape makes the title compete with the whole portrait strip rather than with any one face.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "One title, several scripts",
+      "body": "SHOLAY is the Latin-letter form displayed most prominently here. Smaller Devanagari and Urdu versions appear below. Their presence gives several reading routes into the same film identity, but their unequal sizes show that multilingual inclusion does not necessarily mean equal visual emphasis.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 4
+   },
+   {
+    "id": "cracks",
+    "label": "The fractured letter surfaces",
+    "shortLabel": "The fractured letter surfaces",
+    "kicker": "DESIGN",
+    "summary": "Fine dark lines break the warm title into fragments.",
+    "layerIndex": 2,
+    "bounds": {
+     "x": 8,
+     "y": 47,
+     "w": 31,
+     "h": 24
+    },
+    "x": 18,
+    "y": 59,
+    "question": "Cover the cracks while keeping the outline: what quality disappears?",
+    "related": [
+     "title",
+     "background",
+     "format"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Texture within a solid word",
+      "body": "Irregular dark lines divide the red-orange letter faces into many small pieces. The outer strokes stay broad enough for the word to remain legible. The design therefore combines a stable overall title with an interior texture that appears broken or under stress.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A suggested physical force",
+      "body": "The fractured surface can suggest heat, impact or rupture, especially against the streaked orange background. Those are possible visual associations rather than documented effects in the film. The test is to compare the cracked interiors with the cleaner blue lettering beneath the title.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 5
+   },
+   {
+    "id": "background",
+    "label": "The orange and yellow streaks",
+    "shortLabel": "The orange and yellow streaks",
+    "kicker": "DESIGN",
+    "summary": "A warm field pushes diagonally behind the lettering.",
+    "layerIndex": 0,
+    "bounds": {
+     "x": 0,
+     "y": 36,
+     "w": 100,
+     "h": 10
+    },
+    "x": 79,
+    "y": 41,
+    "question": "Which direction do the brightest streaks suggest?",
+    "related": [
+     "cracks",
+     "portraits",
+     "format"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A field with direction",
+      "body": "The background shifts from red-orange to yellow in diagonal streaks. It is not a detailed landscape, so its main contribution is colour and movement. Those changing tones continue behind the title, making the large letters seem embedded in an active field rather than placed on blank paper.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Warmth does not explain everything",
+      "body": "The palette may support a reading of intensity, but it cannot specify a plot or genre on its own. The row of faces, the damaged-looking word and the format claim supply different information. Compare what each contributes instead of making colour carry the entire interpretation.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 6
+   },
+   {
+    "id": "format",
+    "label": "The 70 mm claim",
+    "shortLabel": "The 70 mm claim",
+    "kicker": "BUSINESS",
+    "summary": "Blue format lettering breaks the warm palette.",
+    "layerIndex": 4,
+    "bounds": {
+     "x": 28,
+     "y": 75,
+     "w": 47,
+     "h": 10
+    },
+    "x": 46.909,
+    "y": 79.167,
+    "question": "Why can this small blue block compete with much larger orange letters?",
+    "related": [
+     "title",
+     "production",
+     "billing"
+    ],
+    "tags": [
+     "business",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "A presentation feature is advertised",
+      "body": "The visible “70mm” line and the smaller stereophonic-sound wording present the screening format as part of the offer. They are claims printed on this sheet. They do not, by themselves, prove the format in which every cinema screened the film or the camera format used to make it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Cool colour as interruption",
+      "body": "The cyan-blue lettering is one of the clearest departures from the orange, yellow and black palette. Its position below the sloping title makes a small, relatively level landing point. Colour difference helps this technical message remain noticeable despite its much smaller size.",
+      "evidence": "observation",
+      "originalText": "70mm",
+      "lang": "en"
+     }
+    ],
+    "number": 7
+   },
+   {
+    "id": "hindi",
+    "label": "The Devanagari title",
+    "shortLabel": "The Devanagari title",
+    "kicker": "LANGUAGE",
+    "summary": "A white title supplies a second script and a lighter weight.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 15,
+     "y": 84,
+     "w": 31,
+     "h": 7
+    },
+    "x": 29,
+    "y": 88,
+    "question": "Compare the visual shape of this title with the Latin-letter version.",
+    "related": [
+     "title",
+     "urdu",
+     "format"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A repeated name in Devanagari",
+      "body": "The white title reads “शोले,” the Hindi title conventionally rendered Sholay in Latin letters. It means flames or embers. This smaller word repeats the identity rather than adding a separate subtitle; it also offers a visibly different letter structure from the huge block capitals above.",
+      "evidence": "observation",
+      "originalText": "शोले",
+      "lang": "hi",
+      "reading": "Sholay",
+      "translation": "Flames / embers"
+     },
+     {
+      "kind": "design",
+      "heading": "White against red",
+      "body": "The pale lettering sits directly on the reddish ground, where it can stand out without the deep black sides used for the large English title. Its compact width leaves room for the other script. The contrast is therefore achieved through lightness more than through monumental scale.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 8
+   },
+   {
+    "id": "urdu",
+    "label": "The Urdu title",
+    "shortLabel": "The Urdu title",
+    "kicker": "LANGUAGE",
+    "summary": "A yellow connected script balances the smaller white title.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 58,
+     "y": 81,
+     "w": 28,
+     "h": 8
+    },
+    "x": 72.364,
+    "y": 85.278,
+    "question": "How do the two smaller title forms share space without forming one continuous line?",
+    "related": [
+     "hindi",
+     "title",
+     "format"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A third written form",
+      "body": "The yellow word reads “شعلے,” the Urdu form of the title, also meaning flames. It uses a connected script running right to left. Keeping the printed word beside its English meaning allows comparison without treating the three scripts as interchangeable letter shapes.",
+      "evidence": "observation",
+      "originalText": "شعلے",
+      "lang": "ur",
+      "translation": "Flames"
+     },
+     {
+      "kind": "design",
+      "heading": "A curved counterweight",
+      "body": "The connected yellow forms are more flowing than the giant angular title. They occupy the opposite side from the compact white Devanagari word, creating an uneven but deliberate lower balance. Both remain subordinate to the title above while being distinct enough to find separately.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 9
+   },
+   {
+    "id": "production",
+    "label": "The blue producer line",
+    "shortLabel": "The blue producer line",
+    "kicker": "BUSINESS",
+    "summary": "A short blue name sits just above the title.",
+    "layerIndex": 4,
+    "bounds": {
+     "x": 28,
+     "y": 43,
+     "w": 44,
+     "h": 6
+    },
+    "x": 47,
+    "y": 46,
+    "question": "Compare this line’s placement with the director’s white credit inside the title area.",
+    "related": [
+     "format",
+     "director",
+     "headline"
+    ],
+    "tags": [
+     "business",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "Two credited responsibilities",
+      "body": "The blue line names G. P. Sippy, while the white credit nearer the right names Ramesh Sippy as director. BFI identifies G. P. Sippy as producer and Ramesh Sippy as director. Reading the roles prevents a shared surname from collapsing two responsibilities into one.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "bfi"
+       }
+      ]
+     },
+     {
+      "kind": "design",
+      "heading": "A small bridge of colour",
+      "body": "The producer line repeats the blue used more strongly in the format claim below. These two cool accents bracket the large title from above and below. Their repetition helps bind scattered information into a relationship even though the title separates them physically.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 10
+   },
+   {
+    "id": "director",
+    "label": "The compact director credit",
+    "shortLabel": "The compact director credit",
+    "kicker": "DESIGN",
+    "summary": "A white credit lies against the dark title area.",
+    "layerIndex": 2,
+    "bounds": {
+     "x": 48,
+     "y": 69,
+     "w": 39,
+     "h": 5
+    },
+    "x": 70,
+    "y": 72,
+    "question": "What gives this small line enough contrast to remain visible?",
+    "related": [
+     "production",
+     "title",
+     "billing"
+    ],
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Words placed inside a larger word",
+      "body": "The director’s line occupies a dark portion of the title’s lower edge rather than a large empty panel. White lettering makes that placement possible. It is a small example of the sheet using existing colour areas as backgrounds for practical information.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Scale indicates emphasis",
+      "body": "The director’s name is readable but much smaller than the film title and the advertised format. That is a hierarchy visible on this particular poster, not a general statement about the director’s importance. Compare it with the upper cast claim to see what the sheet foregrounds first.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 11
+   },
+   {
+    "id": "billing",
+    "label": "The lower contributor row",
+    "shortLabel": "The lower contributor row",
+    "kicker": "DESIGN",
+    "summary": "A final blue strip groups several production roles.",
+    "layerIndex": 4,
+    "bounds": {
+     "x": 1,
+     "y": 91,
+     "w": 98,
+     "h": 8
+    },
+    "x": 50,
+    "y": 96,
+    "question": "Which words can you read securely, and which remain too small?",
+    "related": [
+     "production",
+     "director",
+     "format"
+    ],
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A dense closing band",
+      "body": "At the bottom, blue names and small role labels form a narrow row. Their repeated vertical strokes create a more regular rhythm than the cracked title. The band gives the busy composition a clear lower edge even when individual words become too small to read comfortably.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "The limits of a small scan",
+      "body": "The installed image is only 276 by 361 pixels. Its major title forms and broad campaign structure are usable, but fine credits do not all support confident transcription. The film’s 1975 date is documented; the printing date and artist of this particular sheet remain unverified.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 12
+   }
+  ],
+  "sources": [
+   {
+    "id": "bfi",
+    "title": "BFI: Sholay",
+    "url": "https://www.bfi.org.uk/film/4c157d6b-5fcb-5899-b4f7-a4bf085fa9eb/sholay",
+    "kind": "Film institute record",
+    "summary": "Supports film year 1975, Indian production, Ramesh Sippy as director, G. P. Sippy as producer and principal cast; does not date or attribute this poster edition."
+   }
+  ],
+  "tour": [
+   "headline",
+   "portraits",
+   "title",
+   "cracks",
+   "format",
+   "hindi",
+   "urdu"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "SHOLAY",
+      "meaning": "Latin-letter film title",
+      "lang": "hi-Latn"
+     },
+     {
+      "text": "शोले",
+      "meaning": "Flames / embers",
+      "lang": "hi"
+     },
+     {
+      "text": "شعلے",
+      "meaning": "Flames",
+      "lang": "ur"
+     },
+     {
+      "text": "70mm",
+      "meaning": "Advertised presentation format",
+      "lang": "en"
+     },
+     {
+      "text": "DIRECTED BY RAMESH SIPPY",
+      "meaning": "Director credit",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "The multilingual title and large format claim are securely readable. Some fine credits remain too small for a full transcript. The artist and printing date of this particular sheet are unverified; 1975 refers to the film. Format wording is treated as an advertisement, not proof of every exhibition or production format.",
+  "palette": [
+   {
+    "name": "Orange ground",
+    "hex": "#faba3e",
+    "role": "Warm streaked background",
+    "region": "background"
+   },
+   {
+    "name": "Blue format",
+    "hex": "#55caf6",
+    "role": "Cool technical-message accent",
+    "region": "format"
+   },
+   {
+    "name": "Title dark",
+    "hex": "#211c19",
+    "role": "Heavy letter structure",
+    "region": "title"
+   },
+   {
+    "name": "Portrait shadow",
+    "hex": "#221a18",
+    "role": "Dark ensemble strip",
+    "region": "portraits"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels of the installed reproduction; these are not original ink or paper specifications.",
+  "connections": [
+   {
+    "label": "Ensemble and monument",
+    "title": "Small faces above an enormous name",
+    "text": "Six equal portrait frames establish a group. The much larger English title below changes the scale and makes the film name itself the main image.",
+    "anchors": [
+     [
+      1,
+      0.411231884057971,
+      0.1786703601108033
+     ],
+     [
+      1,
+      0.8097826086956522,
+      0.1786703601108033
+     ],
+     [
+      2,
+      0.519927536231884,
+      0.610803324099723
+     ]
+    ],
+    "id": "sholay-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Repeated identity",
+    "title": "One name in three scripts",
+    "text": "The English display dominates, while Hindi and Urdu forms repeat the name along the lower edge. The blue production lines add a cooler accent to the red and orange sheet.",
+    "anchors": [
+     [
+      2,
+      0.5018115942028986,
+      0.610803324099723
+     ],
+     [
+      3,
+      0.29891304347826086,
+      0.8739612188365651
+     ],
+     [
+      3,
+      0.7409420289855072,
+      0.8822714681440443
+     ],
+     [
+      4,
+      0.4692028985507246,
+      0.7936288088642659
+     ]
+    ],
+    "id": "sholay-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

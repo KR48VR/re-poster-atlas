@@ -1,0 +1,674 @@
+{
+ "poster": {
+  "id": "ne-zha-2",
+  "title": "Ne Zha 2",
+  "year": "2025",
+  "yearNumber": 2025,
+  "country": "China",
+  "countries": [
+   "China"
+  ],
+  "region": "East Asia",
+  "category": "Film",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Jiao Zi",
+  "edition": "English-language A24 theatrical campaign",
+  "posterTerritory": "United States",
+  "image": "images/full/ne-zha-2.jpg",
+  "ratio": 0.675,
+  "alt": "Ne Zha grins amid sweeping red ribbons and orange fire wheels against a nearly black background, with gold English campaign text above and a gold title below.",
+  "blurb": "Red ribbons coil around a compact figure while fire wheels push the action out toward the edges.",
+  "notes": [
+   {
+    "title": "A ribbon draws the route",
+    "body": "The red fabric bends around the central figure rather than sitting behind him as a flat backdrop. Its large loop gives the eye a curved route through an otherwise dark, dense image."
+   },
+   {
+    "title": "Fire provides the light",
+    "body": "Orange flames and bright wheel rims pick out the lower body against deep brown and black. The strongest light sits near the feet, turning the ground into an active source of movement."
+   },
+   {
+    "title": "A small figure with a large presence",
+    "body": "The face and torso occupy a comparatively compact central area. Ribbons, limbs and sparks extend the figure’s reach, while the quieter gold lettering leaves that silhouette room to register."
+   }
+  ],
+  "source": "https://cmc-pictures.com/nezha-2/",
+  "imageSource": "https://a24films.com/films/ne-zha-2",
+  "imageCredit": "Official A24 campaign image. Copyright remains with the film, distribution and artwork rights holders; poster designer is not credited on the source page.",
+  "credit": "Official A24 campaign image. Copyright remains with the film, distribution and artwork rights holders; poster designer is not credited on the source page.",
+  "reproduction": "Film: China, 2025. This is A24’s English-language campaign carrying a return-to-theaters message, not the original Chinese release sheet. The exact printing date is not established.",
+  "downloadURL": "https://api-asset-production.s3.amazonaws.com/media/images/NE_ZHA_II_Poster.jpg",
+  "anchor": [
+   0.5,
+   0.54
+  ],
+  "accent": "#d74628",
+  "primaryOrigin": "China",
+  "anchorLayer": 1,
+  "thumb": "images/catalogue/ne-zha-2.webp"
+ },
+ "studyData": {
+  "intro": "This English-language campaign gives a compact figure an enormous reach. Trace the ribbons and light, then examine the quieter machinery of titles, quotations and distributor marks around the action.",
+  "initial": "face",
+  "regions": [
+   {
+    "id": "face",
+    "number": 1,
+    "label": "Grinning face",
+    "shortLabel": "Grinning face",
+    "kicker": "DESIGN",
+    "summary": "Eyes, brows and teeth compress the drama into a small area.",
+    "x": 50,
+    "y": 57,
+    "bounds": {
+     "x": 34,
+     "y": 49,
+     "w": 34,
+     "h": 17
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A concentrated expression",
+      "body": "The tilted brows, bright eyes and broad toothy grin gather into the centre of the image. Skin highlights separate the face from the dark hair and background, while the small forehead mark gives the head another sharply coloured point of focus.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A character premise",
+      "body": "A24 describes the film as the story of a powerful, rebellious boy facing a threat to humanity, and credits Jiao Zi as writer and director. That synopsis supplies narrative context; the poster alone cannot tell us what the grin means in a particular scene.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "a24"
+       }
+      ]
+     }
+    ],
+    "question": "Which three marks make the expression readable at thumbnail size?",
+    "related": [
+     "hair",
+     "arms"
+    ]
+   },
+   {
+    "id": "hair",
+    "number": 2,
+    "label": "Hair and paired buns",
+    "shortLabel": "Hair and paired buns",
+    "kicker": "DESIGN",
+    "summary": "A dark crown gives the bright face a distinct outline.",
+    "x": 49,
+    "y": 47,
+    "bounds": {
+     "x": 30,
+     "y": 39,
+     "w": 37,
+     "h": 16
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Curves inside a silhouette",
+      "body": "Small curved strands and highlights sit within a much larger dark hair shape. The two buns rise above it at different heights. The result is recognisable both as a compact silhouette and as a textured surface when viewed closely.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A second kind of movement",
+      "body": "The swept hair and uneven bun positions complicate the face’s near-frontal orientation. They can make the head feel caught in action, although the image does not prove a specific wind direction or animation frame.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What remains recognisable when you ignore the individual strands?",
+    "related": [
+     "face",
+     "ribbons"
+    ]
+   },
+   {
+    "id": "arms",
+    "number": 3,
+    "label": "Arms reaching outward",
+    "shortLabel": "Arms reaching outward",
+    "kicker": "DESIGN",
+    "summary": "The body expands sideways beyond the face.",
+    "x": 72,
+    "y": 60,
+    "bounds": {
+     "x": 30,
+     "y": 56,
+     "w": 53,
+     "h": 18
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Two unequal gestures",
+      "body": "One arm bends close to the torso while the other extends toward the right. Their foreshortened shapes and different lengths interrupt a symmetrical portrait. The warm skin also connects the face to the smaller bright areas around the hands.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A compact centre, a wide reach",
+      "body": "The pose occupies less space than the surrounding ribbons and fire, but the arms begin the outward movement. Follow the right arm into the flame and compare that path with the left arm’s short, closed bend.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which arm leads your eye out of the figure, and which returns it toward the torso?",
+    "related": [
+     "face",
+     "right-fire"
+    ]
+   },
+   {
+    "id": "ribbons",
+    "number": 4,
+    "label": "Large ribbon loop",
+    "shortLabel": "Large ribbon loop",
+    "kicker": "DESIGN",
+    "summary": "A red route circles a large pocket of darkness.",
+    "x": 27,
+    "y": 32,
+    "bounds": {
+     "x": 5,
+     "y": 23,
+     "w": 66,
+     "h": 42
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Open space inside the loop",
+      "body": "The upper ribbon sweeps left, turns back and bends around a broad dark opening. Its lit edges vary in thickness and brightness. This keeps it from reading as a flat geometric border drawn around the figure.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Follow, then return",
+      "body": "The loop can guide a glance away from the face and back again. Its enclosed dark space matters as much as the red material: filling that gap with another figure would change the ribbon from a route into a dividing line.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Trace the loop without looking at the face. Where does it bring you back?",
+    "related": [
+     "atmosphere",
+     "low-ribbon"
+    ]
+   },
+   {
+    "id": "low-ribbon",
+    "number": 5,
+    "label": "Lower red sweep",
+    "shortLabel": "Lower red sweep",
+    "kicker": "DESIGN",
+    "summary": "A second curve answers the upper loop.",
+    "x": 17,
+    "y": 76,
+    "bounds": {
+     "x": 0,
+     "y": 67,
+     "w": 33,
+     "h": 22
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Red against darker red",
+      "body": "The lower-left ribbon is visible through changing edges and highlights, even where both ribbon and background are dark red. Its curled path differs from the sharper, brighter flames beside it, offering a useful comparison between fabric and light.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Movement without one arrow",
+      "body": "Several curves pull in different directions rather than forming a simple left-to-right arrow. This can make the scene feel turbulent. Keep that reading grounded in the changing curvature and overlaps, rather than assigning a single emotion to the colour red.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How can you distinguish the ribbon from the nearby flame without using its colour?",
+    "related": [
+     "ribbons",
+     "wheels"
+    ]
+   },
+   {
+    "id": "right-fire",
+    "number": 6,
+    "label": "Right-hand flame",
+    "shortLabel": "Right-hand flame",
+    "kicker": "DESIGN",
+    "summary": "The brightest edge reaches toward the side of the sheet.",
+    "x": 92,
+    "y": 67,
+    "bounds": {
+     "x": 79,
+     "y": 43,
+     "w": 21,
+     "h": 40
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A light source in the picture",
+      "body": "Yellow centres and orange edges build the flame, with black gaps between separate tongues. The brightest areas sit beside the extended hand and near the frame. Compared with the face, these shapes have less stable boundaries and more abrupt changes of direction.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Warmth by comparison",
+      "body": "The flame appears especially bright because it is surrounded by a dark, reddish field. It would lose some of that force against white. Try comparing the lightest fire pixels with the campaign words: both are pale, but they play different roles.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which area seems brighter: the flame or the headline, and what surrounds each one?",
+    "related": [
+     "arms",
+     "headline"
+    ]
+   },
+   {
+    "id": "wheels",
+    "number": 7,
+    "label": "Glowing lower wheels",
+    "shortLabel": "Glowing lower wheels",
+    "kicker": "DESIGN",
+    "summary": "Circular light concentrates the lower movement.",
+    "x": 52,
+    "y": 92,
+    "bounds": {
+     "x": 10,
+     "y": 74,
+     "w": 64,
+     "h": 26
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Curves with bright rims",
+      "body": "The lower region contains curved glowing forms, including a distinct circular wheel near the bottom. Its rim and interior swirls stand out against darker legs and red streaks. The image is tightly cropped, so the action seems to continue beyond the sheet.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An unstable base",
+      "body": "A conventional portrait might rest on a stable horizontal ground. Here, the lower curves and flames keep the base active. The title must supply some of the steadiness that a clear floor would otherwise provide.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would a flat ground line make the pose seem less airborne?",
+    "related": [
+     "title",
+     "low-ribbon"
+    ]
+   },
+   {
+    "id": "atmosphere",
+    "number": 8,
+    "label": "Dark interval",
+    "shortLabel": "Dark interval",
+    "kicker": "DESIGN",
+    "summary": "Darkness gives the active shapes room.",
+    "x": 83,
+    "y": 29,
+    "bounds": {
+     "x": 72,
+     "y": 23,
+     "w": 22,
+     "h": 18
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Texture rather than emptiness",
+      "body": "The background is not a uniform black. Faint reddish strokes, dim shapes and changes of brown remain visible between the brighter objects. These details create density without carrying the same contrast as the face, ribbons or fire.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Selective visibility",
+      "body": "The poster shows some information clearly and lets other areas recede. This is a useful suspense device without requiring us to identify every dark fragment as an object. The layer study preserves those fragments instead of inventing hidden scenery.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which detail disappears first when you make the image smaller?",
+    "related": [
+     "ribbons",
+     "face"
+    ]
+   },
+   {
+    "id": "title",
+    "number": 9,
+    "label": "Gold name and II",
+    "shortLabel": "Gold name and II",
+    "kicker": "LANGUAGE",
+    "summary": "English letters cross a taller Roman numeral.",
+    "x": 83,
+    "y": 90,
+    "bounds": {
+     "x": 70,
+     "y": 85,
+     "w": 25,
+     "h": 10
+    },
+    "layerIndex": 4,
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Two parts of an identity",
+      "body": "The title combines the Latin-script name NE ZHA with a tall II, the Roman numeral for two. The numeral is darker above and brighter below. Its overlapping arrangement makes the sequel number part of the graphic, rather than a separate explanatory sentence.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A steady lower landmark",
+      "body": "The compact gold title occupies a comparatively quiet area beside the lower fire. Its warm colour relates to the flames, while the readable letterforms give the eye a stable destination after the irregular curves. No precise typeface is identified from this image.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does the numeral read first as a number, a shape, or a backdrop to the name?",
+    "related": [
+     "wheels",
+     "release"
+    ]
+   },
+   {
+    "id": "headline",
+    "number": 10,
+    "label": "Upper campaign claim",
+    "shortLabel": "Upper campaign claim",
+    "kicker": "LANGUAGE",
+    "summary": "The first words announce scale before the story.",
+    "x": 49,
+    "y": 7,
+    "bounds": {
+     "x": 7,
+     "y": 4,
+     "w": 87,
+     "h": 8
+    },
+    "layerIndex": 5,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A claim framed as an event",
+      "body": "The upper line calls the film a global phenomenon. The wording is promotional: it tells readers how the campaign wants the film to be understood. The poster itself is not independent evidence for audience numbers, financial results or universal approval.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A broad opening line",
+      "body": "Its width and pale colour give the claim authority within the layout. It also leaves a clear gap before the action. Reading it as campaign language lets us discuss persuasion without repeating the claim as a verified achievement.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What evidence would you seek if you wanted to check this headline rather than simply read it?",
+    "related": [
+     "reviews",
+     "release"
+    ]
+   },
+   {
+    "id": "reviews",
+    "number": 11,
+    "label": "Quoted endorsements",
+    "shortLabel": "Quoted endorsements",
+    "kicker": "DESIGN",
+    "summary": "Small quotations offer another reason to attend.",
+    "x": 49,
+    "y": 18,
+    "bounds": {
+     "x": 7,
+     "y": 13,
+     "w": 87,
+     "h": 10
+    },
+    "layerIndex": 5,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A different textual texture",
+      "body": "Two blocks of finer gold lettering appear beneath the main claim. Their quotation marks and small attribution lines distinguish them from the title. At a distance they form horizontal bands; close up they ask for slower reading than the central figure.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Borrowed voices",
+      "body": "Review excerpts bring outside voices into a distributor’s advertisement. Their presence is a visible marketing technique, but a short chosen excerpt is not the same as a complete review or a survey of critical opinion. The fine attributions are not guessed here.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does quotation-marked copy feel different from an unquoted campaign headline?",
+    "related": [
+     "headline",
+     "title"
+    ]
+   },
+   {
+    "id": "release",
+    "number": 12,
+    "label": "Release and distributor",
+    "shortLabel": "Release and distributor",
+    "kicker": "DESIGN",
+    "summary": "Tiny lower words connect the image to a campaign.",
+    "x": 82,
+    "y": 96,
+    "bounds": {
+     "x": 70,
+     "y": 94,
+     "w": 27,
+     "h": 4
+    },
+    "layerIndex": 5,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "The smallest practical level",
+      "body": "The lower-right release words and A24 mark sit beneath the title. Their small size makes them a final reading stage after character, action and name. The lower-left company marks occupy a separate corner, keeping the central fire unobstructed.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A dated campaign record",
+      "body": "A24’s official page identifies its Ne Zha II presentation with an August 22, 2025 theatrical date. The installed artwork carries its own release wording, so the page establishes distributor context rather than proving the exact printing date of this particular sheet.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "a24"
+       }
+      ]
+     }
+    ],
+    "question": "Which lower mark helps you identify who is presenting this edition?",
+    "related": [
+     "title",
+     "headline"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed poster edition",
+    "url": "https://a24films.com/films/ne-zha-2",
+    "kind": "Visual source",
+    "summary": "The reproduced edition is the evidence for visible wording, layout, marks and colour relationships. Translations and visual interpretations are supplied by Poster Atlas."
+   },
+   {
+    "id": "a24",
+    "title": "A24: Ne Zha II",
+    "url": "https://a24films.com/films/ne-zha-2",
+    "kind": "Official distributor",
+    "summary": "Credits Jiao Zi, provides a short character premise and records the August 22, 2025 theatrical presentation. It does not identify this poster’s artist or establish the printing date."
+   }
+  ],
+  "tour": [
+   "face",
+   "ribbons",
+   "right-fire",
+   "wheels",
+   "title",
+   "headline"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "NE ZHA II",
+      "meaning": "The film name with Roman numeral two.",
+      "lang": "en"
+     },
+     {
+      "text": "THE GLOBAL PHENOMENON",
+      "meaning": "A promotional description, not an independently verified statistic.",
+      "lang": "en"
+     },
+     {
+      "text": "RETURNS TO THEATERS",
+      "meaning": "Release wording on this edition.",
+      "lang": "en"
+     },
+     {
+      "text": "COMING SOON",
+      "meaning": "A forward-looking campaign invitation.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Only securely legible title and key wording are transcribed. Small credits are not reconstructed from this reproduction.",
+  "palette": [
+   {
+    "name": "Dark brown field",
+    "hex": "#641C1F",
+    "role": "A low-contrast interval between bright forms.",
+    "region": "atmosphere"
+   },
+   {
+    "name": "Ribbon red",
+    "hex": "#D01810",
+    "role": "The upper fabric loop.",
+    "region": "ribbons"
+   },
+   {
+    "name": "Warm skin",
+    "hex": "#DE834A",
+    "role": "A lit area of the cheek.",
+    "region": "face"
+   },
+   {
+    "name": "Flame gold",
+    "hex": "#F0AA38",
+    "role": "Strong light at the right.",
+    "region": "right-fire"
+   },
+   {
+    "name": "Title gold",
+    "hex": "#F1D661",
+    "role": "A lower typographic landmark.",
+    "region": "title"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in this installed reproduction. They are not original paint, ink or printing specifications.",
+  "connections": [
+   {
+    "label": "Curves and energy",
+    "title": "Ribbons widen a compact pose",
+    "text": "The face and torso sit near the centre, but the long looping ribbons spread their movement much farther across the dark field.",
+    "anchors": [
+     [
+      2,
+      0.48950617283950615,
+      0.5695833333333333
+     ],
+     [
+      1,
+      0.10925925925925926,
+      0.41041666666666665
+     ],
+     [
+      1,
+      0.65,
+      0.3304166666666667
+     ]
+    ],
+    "id": "ne-zha-2-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Light below",
+    "title": "Fire connects the pose to the gold title",
+    "text": "The brightest orange light collects below and to the right of the body. The lower gold title repeats that warmth at a smaller scale.",
+    "anchors": [
+     [
+      3,
+      0.5203703703703704,
+      0.9104166666666667
+     ],
+     [
+      3,
+      0.9104938271604939,
+      0.6895833333333333
+     ],
+     [
+      4,
+      0.8302469135802469,
+      0.9054166666666666
+     ]
+    ],
+    "id": "ne-zha-2-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

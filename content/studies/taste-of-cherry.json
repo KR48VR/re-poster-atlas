@@ -1,0 +1,621 @@
+{
+ "poster": {
+  "id": "taste-of-cherry",
+  "title": "Taste of Cherry",
+  "year": "1997",
+  "yearNumber": 1997,
+  "country": "Iran / France",
+  "countries": [
+   "Iran",
+   "France"
+  ],
+  "region": "West Asia & Caucasus",
+  "category": "Film",
+  "creator": "Kevin Gaor",
+  "filmCreator": "Abbas Kiarostami",
+  "edition": "1998 US theatrical one-sheet",
+  "posterTerritory": "United States",
+  "image": "images/full/taste-of-cherry.jpg",
+  "ratio": 0.6791666666666667,
+  "alt": "A magenta tree with a pair of eyes hidden in its canopy stands against bright yellow, above a blue panel bearing the pink Taste of Cherry title.",
+  "blurb": "A tree becomes a face through an intense arrangement of yellow, magenta and blue.",
+  "notes": [
+   {
+    "title": "Look twice at the canopy",
+    "body": "The eyes appear within the dense tree crown, so foliage and portrait occupy the same shape. The image shifts between a landscape and a face without adding a separate picture frame."
+   },
+   {
+    "title": "Three colours, three jobs",
+    "body": "Yellow opens up the background, magenta gives the tree its dense silhouette, and blue makes a firm base. Their strong contrast separates the main parts of the sheet before any words are read."
+   },
+   {
+    "title": "A thin trunk joins two fields",
+    "body": "The broad canopy narrows into a slender trunk above the blue title panel. That change of width links the busy upper image to the open lettering below and gives the composition a clear central axis."
+   }
+  ],
+  "source": "https://kiarostami.org/filmography/taste-of-cherry",
+  "imageSource": "https://posteritati.com/poster/28116/taste-of-cherry-original-1998-us-one-sheet-movie-poster",
+  "imageCredit": "Poster design: Kevin Gaor, as credited in Posteritati’s record for the 1998 US one-sheet. Copyright remains with the respective artwork and film rights holders.",
+  "credit": "Poster design: Kevin Gaor, as credited in Posteritati’s record for the 1998 US one-sheet. Copyright remains with the respective artwork and film rights holders.",
+  "reproduction": "Film: Iran / France, 1997. Selected poster: US theatrical one-sheet, 1998. The catalogue year refers to the film, not this export edition.",
+  "downloadURL": "https://cdn.posteritati.com/posters/000/000/072/975/taste-of-cherry-md-web.jpg",
+  "anchor": [
+   0.5,
+   0.47
+  ],
+  "accent": "#b92b76",
+  "posterYear": "1998",
+  "primaryOrigin": "Iran",
+  "anchorLayer": 1,
+  "thumb": "images/catalogue/taste-of-cherry.webp"
+ },
+ "studyData": {
+  "intro": "A face and a tree occupy the same shape, so the poster changes as you decide which one to see first. Bright yellow, a blue base and flowing title lettering turn that double image into an unusually clear invitation to slow looking.",
+  "initial": "eyes",
+  "regions": [
+   {
+    "id": "yellow",
+    "label": "A large yellow field",
+    "shortLabel": "A large yellow field",
+    "kicker": "One colour in several roles",
+    "summary": "A bright ground surrounds reviews and the hybrid image.",
+    "x": 50,
+    "y": 39.5,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 100,
+     "h": 79
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "One colour in several roles",
+      "body": "Yellow fills the broad upper ground and also appears through gaps in the tree canopy. Those smaller openings connect the central image back to the surrounding field. The colour remains visually dominant even though the face supplies the most recognizable human features.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A colour without a single meaning",
+      "body": "The bright ground may feel lively or insistent, but it does not settle the film’s emotional subject. The face remains restrained within it. Comparing those two elements is more useful than deciding that yellow must mean happiness, especially in a work concerned with difficult questions.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does the yellow act as background, and where does it cut into the tree?",
+    "related": [
+     "tree",
+     "eyes"
+    ],
+    "number": 1
+   },
+   {
+    "id": "tree",
+    "label": "A canopy with a human face",
+    "shortLabel": "A canopy with a human face",
+    "kicker": "Two images share an outline",
+    "summary": "A pink tree outline contains photographic features.",
+    "x": 50,
+    "y": 57.5,
+    "bounds": {
+     "x": 6,
+     "y": 36,
+     "w": 88,
+     "h": 43
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Two images share an outline",
+      "body": "The broad pink canopy has an irregular, branching edge, while eyes, brows and ears appear inside it. Pale gaps describe smaller branches and leaves. The face does not sit in a separate portrait frame: it is integrated into the same graphic form as the tree.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An image that switches",
+      "body": "Looking for foliage emphasizes the tree’s overall contour; looking for a person emphasizes the dark eyes and brows. Neither reading completely cancels the other. That alternation can make the poster engaging without requiring a single symbolic equation between a human life and a tree.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "At what viewing distance do you notice the tree before the face?",
+    "related": [
+     "eyes",
+     "trunk"
+    ],
+    "number": 2
+   },
+   {
+    "id": "eyes",
+    "label": "The pair of eyes",
+    "shortLabel": "The pair of eyes",
+    "kicker": "Recognition from a few features",
+    "summary": "Dark photographic features look outward.",
+    "x": 48.5,
+    "y": 48.5,
+    "bounds": {
+     "x": 25,
+     "y": 43,
+     "w": 47,
+     "h": 11
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Recognition from a few features",
+      "body": "The eyes and eyebrows are darker and more photographically detailed than the surrounding pink canopy. Their horizontal alignment creates a strong face cue. They look toward the viewer, unlike the branching outer edge, which sends attention in many directions at once.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A person within a difficult journey",
+      "body": "The Kiarostami Foundation identifies the central character as Mr. Badii, played by Homayoun Ershadi, travelling around Tehran and meeting different people. That context supports a human focus. The poster does not disclose his complete thoughts, and facial appearance should not be treated as a diagnosis or a certain emotional state.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "foundation"
+       }
+      ]
+     }
+    ],
+    "question": "What changes when you cover one eye but leave the surrounding tree visible?",
+    "related": [
+     "tree",
+     "mouth"
+    ],
+    "number": 3
+   },
+   {
+    "id": "ears",
+    "label": "Edges of a partial portrait",
+    "shortLabel": "Edges of a partial portrait",
+    "kicker": "Recognition at the sides",
+    "summary": "Dark ear and hair shapes interrupt the pink edge.",
+    "x": 82,
+    "y": 49,
+    "bounds": {
+     "x": 12,
+     "y": 42,
+     "w": 75,
+     "h": 17
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Recognition at the sides",
+      "body": "Dark photographic shapes at both sides of the canopy suggest ears and hair. They do not form a complete conventional head outline. Instead, they work with the eyes to make a face recognizable while the surrounding tree keeps interrupting that recognition.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A deliberately incomplete portrait",
+      "body": "The missing continuous head contour allows the landscape shape to remain active. If a solid oval enclosed all the facial features, the tree might become a decorative overlay. Here the shared edge keeps the two images in tension, making neither one merely a background for the other.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which features persuade you that this is a face rather than only a pattern?",
+    "related": [
+     "eyes",
+     "tree"
+    ],
+    "number": 4
+   },
+   {
+    "id": "mouth",
+    "label": "A mouth inside branches",
+    "shortLabel": "A mouth inside branches",
+    "kicker": "A small feature in a busy junction",
+    "summary": "The lower face is broken by pale branching gaps.",
+    "x": 50,
+    "y": 67,
+    "bounds": {
+     "x": 41,
+     "y": 64,
+     "w": 18,
+     "h": 6
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A small feature in a busy junction",
+      "body": "The mouth sits near the point where the canopy narrows toward the trunk. Pale branching lines cross or interrupt the surrounding face tones. This makes the lower face less immediately readable than the eyes and creates a transition between recognizable portrait and plant structure.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Not every boundary can be clean",
+      "body": "This blended area cannot be divided into a wholly independent face and tree without losing part of their relationship. The study layers are analytical aids, not evidence of original production separations. Reassembling them is essential to understand the image’s shared forms.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does a facial contour turn into a branch-shaped opening?",
+    "related": [
+     "trunk",
+     "eyes"
+    ],
+    "number": 5
+   },
+   {
+    "id": "trunk",
+    "label": "A narrow support",
+    "shortLabel": "A narrow support",
+    "kicker": "A vertical ending",
+    "summary": "The hybrid image narrows down to the blue band.",
+    "x": 48,
+    "y": 70.5,
+    "bounds": {
+     "x": 41,
+     "y": 61,
+     "w": 14,
+     "h": 19
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A vertical ending",
+      "body": "The trunk descends from the canopy as a narrow pink-brown strip. Darker marks and photographic tones remain within it. It ends where the blue title panel begins, making the central tree appear to stand on the graphic division between image and lettering.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A structural anchor",
+      "body": "Without the trunk, the canopy could read more like a floating head or cloud. The narrow support establishes the tree reading with very little additional area. This is a useful example of a small connecting shape determining how a much larger mass is understood.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How much would the image change if the trunk were removed?",
+    "related": [
+     "tree",
+     "blue"
+    ],
+    "number": 6
+   },
+   {
+    "id": "blue",
+    "label": "The blue base panel",
+    "shortLabel": "The blue base panel",
+    "kicker": "A strong horizontal change",
+    "summary": "A cool rectangle holds the title and credits.",
+    "x": 50,
+    "y": 89.5,
+    "bounds": {
+     "x": 0,
+     "y": 79,
+     "w": 100,
+     "h": 21
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A strong horizontal change",
+      "body": "The yellow field stops at a slightly uneven horizontal boundary above the blue lower panel. This is the clearest large colour division on the sheet. The blue provides a distinct setting for the pink title, pale secondary wording and extremely small production credits.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A base that is also a contrast",
+      "body": "The cool lower band can stabilize the wide canopy above while making the pink lettering more conspicuous. Its role is both structural and chromatic. Removing the band mentally shows how much the title depends on a separate ground rather than simply a larger size.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the image’s temperature change at this boundary?",
+    "related": [
+     "title",
+     "trunk"
+    ],
+    "number": 7
+   },
+   {
+    "id": "title",
+    "label": "A flowing English title",
+    "shortLabel": "A flowing English title",
+    "kicker": "A change in lettering voice",
+    "summary": "Long pink curves stretch across the blue.",
+    "x": 50.5,
+    "y": 87.5,
+    "bounds": {
+     "x": 3,
+     "y": 80,
+     "w": 95,
+     "h": 15
+    },
+    "layerIndex": 4,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A change in lettering voice",
+      "body": "The English title uses large flowing forms with sweeping strokes, while the small OF is more restrained. This differs sharply from the upright review capitals above. The title’s movement extends across the width of the panel, with the final letter reaching downward near the edge.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "An edition for another audience",
+      "body": "The English title dominates this selected US sheet, while the Persian title remains visible nearby. The dealer identifies the artwork as a 1998 US one-sheet and credits Kevin Gaor. The film itself is dated 1997 by the Kiarostami Foundation, so work and edition dates must remain distinct.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "edition"
+       }
+      ]
+     }
+    ],
+    "question": "Which letter strokes travel farthest beyond the main body of the word?",
+    "related": [
+     "persian",
+     "reviews"
+    ],
+    "number": 8
+   },
+   {
+    "id": "persian",
+    "label": "The smaller Persian title",
+    "shortLabel": "The smaller Persian title",
+    "kicker": "Two scripts, unequal scale",
+    "summary": "A second script sits above the English word Cherry.",
+    "x": 85.5,
+    "y": 83.5,
+    "bounds": {
+     "x": 75,
+     "y": 81,
+     "w": 21,
+     "h": 5
+    },
+    "layerIndex": 4,
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Two scripts, unequal scale",
+      "body": "The Persian title appears in pale yellow toward the upper right of the blue panel. It is much smaller than the English title but remains visually separate. Its right-to-left script and joined forms offer another reading route without repeating the English lettering’s large flourishes.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Keep a title’s language visible",
+      "body": "The two scripts allow the edition to address English readers while retaining the film’s original-language name. Their unequal prominence is a design choice visible on the sheet. It does not tell us how fluently a particular viewer reads either language or whether the smaller wording was noticed.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does its size and placement affect which audience is addressed first?",
+    "related": [
+     "title",
+     "blue"
+    ],
+    "number": 9
+   },
+   {
+    "id": "reviews",
+    "label": "A vertical stack of praise",
+    "shortLabel": "A vertical stack of praise",
+    "kicker": "Repeated claim and source",
+    "summary": "Four review claims fill the upper middle.",
+    "x": 50,
+    "y": 21,
+    "bounds": {
+     "x": 5,
+     "y": 8,
+     "w": 90,
+     "h": 26
+    },
+    "layerIndex": 5,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Repeated claim and source",
+      "body": "The review lines use red capitals with smaller, more flowing attributions beneath. Large gaps separate the groups, so each verdict can be read as a unit. Their centred alignment builds a vertical rhythm above the much less regular outline of the tree.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Judgment is not observation",
+      "body": "These are selected critical endorsements. They are evidence of the campaign’s appeal to praise, not objective findings about beauty or artistic value. A learner can compare the words with the image, agree or disagree, and still distinguish a quoted judgment from a directly visible feature.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What changes between the large verdicts and their smaller attributions?",
+    "related": [
+     "award",
+     "title"
+    ],
+    "number": 10
+   },
+   {
+    "id": "award",
+    "label": "A festival claim at the top",
+    "shortLabel": "A festival claim at the top",
+    "kicker": "A ceremonial opening line",
+    "summary": "Dark script and laurels frame the first line.",
+    "x": 50,
+    "y": 5,
+    "bounds": {
+     "x": 4,
+     "y": 2,
+     "w": 92,
+     "h": 6
+    },
+    "layerIndex": 5,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A ceremonial opening line",
+      "body": "The top line is set in flowing dark lettering, flanked by small laurel shapes. Its wide span makes a cap over the review stack. Unlike the solid red review capitals, the thin curved strokes create a lighter, more ornamental band across the yellow ground.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A verified award",
+      "body": "The Kiarostami Foundation records Taste of Cherry as a 1997 Palme d’Or winner at Cannes and lists Iran and France as its countries. That confirms the central award claim. It does not turn the surrounding review language into neutral fact or identify the exact printing process of this poster.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "foundation"
+       }
+      ]
+     }
+    ],
+    "question": "Why might this claim use a different lettering style from the reviews below?",
+    "related": [
+     "reviews",
+     "eyes"
+    ],
+    "number": 11
+   }
+  ],
+  "sources": [
+   {
+    "id": "foundation",
+    "title": "Kiarostami Foundation: Taste of Cherry",
+    "url": "https://kiarostami.org/filmography/taste-of-cherry",
+    "kind": "Filmmaker foundation",
+    "summary": "Verifies 1997, Iran/France, director, Mr. Badii/Ershadi, the journey and the Palme d’Or."
+   },
+   {
+    "id": "edition",
+    "title": "Posteritati: Taste of Cherry US one-sheet",
+    "url": "https://posteritati.com/poster/28116/taste-of-cherry-original-1998-us-one-sheet-movie-poster",
+    "kind": "Dealer object record",
+    "summary": "Identifies the displayed 1998 US edition and attributes it to Kevin Gaor; attribution is presented as this record’s credit."
+   }
+  ],
+  "tour": [
+   "eyes",
+   "tree",
+   "mouth",
+   "trunk",
+   "title",
+   "award"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected readable wording",
+    "rows": [
+     {
+      "text": "Taste of Cherry",
+      "meaning": "English title.",
+      "lang": "en"
+     },
+     {
+      "text": "طعم گیلاس",
+      "meaning": "Persian title corresponding to Taste of Cherry.",
+      "lang": "fa"
+     },
+     {
+      "text": "A FILM BY ABBAS KIAROSTAMI",
+      "meaning": "Director credit.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "This is a partial transcript of securely readable wording in the installed reproduction. Small credits, logos and review attributions are not fully transcribed; enlargement cannot restore missing source detail.",
+  "palette": [
+   {
+    "name": "Yellow ground",
+    "hex": "#D9CB20",
+    "role": "Dominant open field.",
+    "region": "yellow"
+   },
+   {
+    "name": "Coral canopy",
+    "hex": "#C26752",
+    "role": "The shared tree and portrait colour.",
+    "region": "tree"
+   },
+   {
+    "name": "Blue panel",
+    "hex": "#438EAE",
+    "role": "Cool title ground.",
+    "region": "blue"
+   },
+   {
+    "name": "Eye shadow",
+    "hex": "#362C2A",
+    "role": "A sharp dark human feature.",
+    "region": "eyes"
+   }
+  ],
+  "paletteNote": "These are individual screen-pixel samples from the installed digital reproduction, not specifications for the original inks or paper. Texture, lighting, scanning and screen settings affect their appearance.",
+  "connections": [
+   {
+    "label": "Two images in one",
+    "title": "A canopy also becomes a face",
+    "text": "The eyes occupy the canopy while the nose and mouth fall closer to the branching trunk. One outline therefore supports both a tree and a portrait reading.",
+    "anchors": [
+     [
+      2,
+      0.36012269938650304,
+      0.49041666666666667
+     ],
+     [
+      1,
+      0.4865030674846626,
+      0.74375
+     ]
+    ],
+    "id": "taste-of-cherry-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Pink across two fields",
+    "title": "The tree colour returns in the title",
+    "text": "Pink stands against yellow in the tree and against blue in the title. Repeating the colour connects the image above to the separate lettering panel below.",
+    "anchors": [
+     [
+      1,
+      0.43374233128834355,
+      0.40041666666666664
+     ],
+     [
+      3,
+      0.907361963190184,
+      0.9454166666666667
+     ]
+    ],
+    "id": "taste-of-cherry-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

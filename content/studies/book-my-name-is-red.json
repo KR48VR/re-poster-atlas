@@ -1,0 +1,599 @@
+{
+ "poster": {
+  "id": "book-my-name-is-red",
+  "title": "My Name Is Red",
+  "year": "2012",
+  "yearNumber": 2012,
+  "coverYear": "2012",
+  "bookFirstPublication": "1998",
+  "bookAuthor": "Orhan Pamuk",
+  "bookPublisher": "İletişim",
+  "bookOrigin": "Turkish-language novel by Orhan Pamuk, originally published in 1998; the displayed Turkish edition is a later printing.",
+  "creator": "Hakkı Mısırlıoğlu",
+  "country": "Türkiye",
+  "countries": [
+   "Türkiye"
+  ],
+  "primaryOrigin": "Türkiye",
+  "region": "West Asia & Caucasus",
+  "category": "Book cover",
+  "image": "images/full/book-my-name-is-red.jpg",
+  "ratio": 0.664,
+  "alt": "Large red Orhan Pamuk lettering sits beside the black Turkish title above a muted harbour scene with minarets, a central sailing ship, small quay figures and nearer boats.",
+  "blurb": "A red author name commands a quieter harbour of masts and minarets.",
+  "notes": [
+   {
+    "title": "The displayed edition",
+    "body": "İletişim’s product page specifies the 36th printing, May 2012, ISBN 9789754707113. A current reused publisher image is not evidence of the novel’s 1998 first cover."
+   },
+   {
+    "title": "Writing and image-making",
+    "body": "The official publisher page credits Hakkı Mısırlıoğlu for the cover. Orhan Pamuk’s prominent red name identifies the novelist. The artwork’s precise historical source is not independently asserted here."
+   },
+   {
+    "title": "A visible design relationship",
+    "body": "The central mast echoes the slender minarets. Warm, muted image colours sit below a much more saturated red typographic block."
+   }
+  ],
+  "source": "https://iletisim.com.tr/kitap/benim-adim-kirmizi/6825",
+  "credit": "The official publisher page credits Hakkı Mısırlıoğlu for the cover. Orhan Pamuk’s prominent red name identifies the novelist. The artwork’s precise historical source is not independently asserted here.",
+  "reproduction": "Official 332 × 500 publisher image; visible low-resolution painted edges remain part of the source.",
+  "anchor": [
+   0.54,
+   0.58
+  ],
+  "accent": "#ad302c",
+  "edition": "İletişim’s product page specifies the 36th printing, May 2012, ISBN 9789754707113. A current reused publisher image is not evidence of the novel’s 1998 first cover.",
+  "imageSource": "https://iletisim.com.tr/kitap/benim-adim-kirmizi/6825",
+  "imageCredit": "The official publisher page credits Hakkı Mısırlıoğlu for the cover. Orhan Pamuk’s prominent red name identifies the novelist. The artwork’s precise historical source is not independently asserted here.",
+  "coverPublisher": "İletişim",
+  "posterYear": "2012",
+  "posterTerritory": "Türkiye",
+  "posterDateStatus": "The displayed edition or catalogued object date; the original work date is recorded separately.",
+  "originNote": "Country and region describe the displayed edition’s publishing context. The author and work context are recorded separately.",
+  "originSources": [
+   {
+    "title": "Displayed edition record",
+    "url": "https://iletisim.com.tr/kitap/benim-adim-kirmizi/6825"
+   }
+  ],
+  "creditSources": [],
+  "downloadURL": "https://iletisim.com.tr/Images/UserFiles/Images/Spot/benim-adim-kirmizi.jpg",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-my-name-is-red.webp"
+ },
+ "studyData": {
+  "intro": "A large red author name stands above a subdued harbour of masts, minarets and small figures. This is the publisher’s image for a 2012 Turkish printing, with the novel’s 1998 origin kept separate.",
+  "initial": "author",
+  "regions": [
+   {
+    "id": "ship",
+    "number": 1,
+    "label": "A central vessel gathers the scene",
+    "shortLabel": "Central ship",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "A dark sailing ship occupies the centre of the harbour image.",
+    "layerIndex": 3,
+    "x": 54.06627,
+    "y": 56.1,
+    "bounds": {
+     "x": 35,
+     "y": 33,
+     "w": 38,
+     "h": 42
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "A dark sailing ship occupies the centre of the harbour image. Its hull, sails, rigging and thin upper extensions overlap the more distant city.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The vessel supplies a middle scale between the tiny waterfront figures and broad skyline. Its position can make it the main visual route into the painted scene.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What makes this ship more prominent than the boats closer to the viewer?",
+    "related": [
+     "mast",
+     "city"
+    ]
+   },
+   {
+    "id": "mast",
+    "number": 2,
+    "label": "Masts echo nearby minarets",
+    "shortLabel": "Masts & streamer",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Slender masts and rigging extend above the ship’s sails.",
+    "layerIndex": 3,
+    "x": 54.06627,
+    "y": 39.1,
+    "bounds": {
+     "x": 44,
+     "y": 31,
+     "w": 40,
+     "h": 27
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Slender masts and rigging extend above the ship’s sails. A long curved streamer reaches to the right, crossing lighter sky.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "Vertical ship structures echo the city’s thin towers while the streamer introduces a freer curve. The resemblance links otherwise different parts of the harbour.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where do the masts and minarets seem to share a rhythm?",
+    "related": [
+     "minarets",
+     "quay"
+    ]
+   },
+   {
+    "id": "minarets",
+    "number": 3,
+    "label": "Thin towers above a dense shore",
+    "shortLabel": "Minarets",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Narrow pointed towers rise above the left waterfront.",
+    "layerIndex": 5,
+    "x": 25.45181,
+    "y": 39.1,
+    "bounds": {
+     "x": 9,
+     "y": 26,
+     "w": 24,
+     "h": 34
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Narrow pointed towers rise above the left waterfront. Their thin silhouettes extend much farther into the sky than the surrounding low buildings.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The tall forms create a recognisable skyline rhythm without using much colour area. Their slenderness makes the nearby ship’s broad sails seem heavier.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How do these thin verticals change the apparent weight of the sails?",
+    "related": [
+     "city",
+     "near-boat"
+    ]
+   },
+   {
+    "id": "city",
+    "number": 4,
+    "label": "A band of many small buildings",
+    "shortLabel": "Waterfront city",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Domes, roofs, walls and small openings form a dense band across the water’s edge.",
+    "layerIndex": 5,
+    "x": 85.99398,
+    "y": 56.1,
+    "bounds": {
+     "x": 1,
+     "y": 43,
+     "w": 98,
+     "h": 25
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Domes, roofs, walls and small openings form a dense band across the water’s edge. Buildings overlap and vary in height and tone.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The city gives the harbour a sustained background instead of an isolated monument. Small repeated marks reward looking beyond the dominant central ship.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which repeated building marks make this feel like an inhabited waterfront?",
+    "related": [
+     "quay",
+     "author"
+    ]
+   },
+   {
+    "id": "quay",
+    "number": 5,
+    "label": "Small figures establish a foreground",
+    "shortLabel": "Quay figures",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Several standing figures appear on the near quay at the lower left.",
+    "layerIndex": 4,
+    "x": 32.98193,
+    "y": 79.1,
+    "bounds": {
+     "x": 12,
+     "y": 70,
+     "w": 28,
+     "h": 15
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Several standing figures appear on the near quay at the lower left. Their narrow bodies are distinct from the larger ship behind them.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "These figures give the harbour a human scale. Their stillness can contrast with the many diagonals of sails, boats and rigging around them.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How much larger does the ship feel when you compare it with a standing figure?",
+    "related": [
+     "near-boat",
+     "title"
+    ]
+   },
+   {
+    "id": "near-boat",
+    "number": 6,
+    "label": "A nearer boat crosses the lower edge",
+    "shortLabel": "Near boat",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "A small boat and its occupants occupy the lower right portion of the water.",
+    "layerIndex": 6,
+    "x": 75.1506,
+    "y": 85.1,
+    "bounds": {
+     "x": 61,
+     "y": 77,
+     "w": 31,
+     "h": 12
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "A small boat and its occupants occupy the lower right portion of the water. Its long low shape differs from the taller central vessel.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The low boat adds a foreground direction across the scene. It helps create layers of distance without relying only on a change of colour.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which visible overlaps tell you that this boat is nearer than the central ship?",
+    "related": [
+     "author",
+     "water"
+    ]
+   },
+   {
+    "id": "author",
+    "number": 7,
+    "label": "A saturated red name",
+    "shortLabel": "Orhan Pamuk",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Orhan Pamuk is set in two large red lines above the painting.",
+    "layerIndex": 1,
+    "x": 25.45181,
+    "y": 18.5,
+    "bounds": {
+     "x": 3,
+     "y": 1,
+     "w": 45,
+     "h": 24
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Orhan Pamuk is set in two large red lines above the painting. The tall compact letters occupy almost half the width of the white heading band.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The author’s name becomes a strong visual block before the quieter image is examined. Red relates verbally to the title while remaining a visible contrast, not proof of a documented design intention.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "context",
+      "heading": "A writer and a credited cover designer",
+      "body": "The official publisher record names Orhan Pamuk as author and Hakkı Mısırlıoğlu as cover designer. The novel belongs to Turkish literature and first appeared in 1998. These roles and the work’s original date are separate from the later printing pictured here.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "object"
+       }
+      ]
+     }
+    ],
+    "question": "Why might this edition give the author’s name more area than the title?",
+    "related": [
+     "title",
+     "publisher"
+    ]
+   },
+   {
+    "id": "title",
+    "number": 8,
+    "label": "The Turkish title beside the name",
+    "shortLabel": "Turkish title",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Benim Adım Kırmızı appears in smaller black letters to the right of the red author block.",
+    "layerIndex": 2,
+    "x": 73.04217,
+    "y": 21.1,
+    "bounds": {
+     "x": 49,
+     "y": 13,
+     "w": 50,
+     "h": 12
+    },
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Benim Adım Kırmızı appears in smaller black letters to the right of the red author block. Its two lines align within the same white upper band.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The two typographic blocks establish different roles through colour, size and shape. Their shared band connects them without making them visually equal.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "language",
+      "heading": "A first-person title",
+      "body": "Benim Adım Kırmızı means My Name Is Red. The title names red in language while the adjacent author block supplies an actual area of red ink-like colour in the reproduced design.",
+      "evidence": "observation",
+      "sources": [],
+      "originalText": "Benim Adım Kırmızı",
+      "lang": "tr",
+      "translation": "My Name Is Red"
+     }
+    ],
+    "question": "Which feature most clearly separates the work’s name from its author?",
+    "related": [
+     "water",
+     "ship"
+    ]
+   },
+   {
+    "id": "water",
+    "number": 9,
+    "label": "Quiet water joins several distances",
+    "shortLabel": "Harbour water",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Pale blue-grey and greenish water remains between the quay, central ship and nearer boat.",
+    "layerIndex": 0,
+    "x": 51.95783,
+    "y": 80.1,
+    "bounds": {
+     "x": 31,
+     "y": 75,
+     "w": 31,
+     "h": 14
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Pale blue-grey and greenish water remains between the quay, central ship and nearer boat. Small horizontal changes suggest reflections or surface movement.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The calmer water gives the more detailed vessels space to separate. It also links several depths through a continuous lower field.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where is the water doing most of the work of separating one object from another?",
+    "related": [
+     "publisher",
+     "mast"
+    ]
+   },
+   {
+    "id": "publisher",
+    "number": 10,
+    "label": "A small mark completes the page",
+    "shortLabel": "Publisher mark",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "A small black publisher mark sits in the white band beneath the harbour.",
+    "layerIndex": 2,
+    "x": 50.1506,
+    "y": 96.3,
+    "bounds": {
+     "x": 41,
+     "y": 92,
+     "w": 19,
+     "h": 8
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "A small black publisher mark sits in the white band beneath the harbour. It is much smaller than the author block at the top.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The small footer closes the composition without competing with the image. Its isolation lets it function as a publishing signature despite its modest size.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "business",
+      "heading": "A later Turkish printing",
+      "body": "İletişim’s page specifies the 36th printing, May 2012, ISBN 9789754707113. The study follows that product record. Reuse of a current cover image on an older catalogue page would not by itself establish what the 1998 first cover looked like.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "object"
+       }
+      ]
+     }
+    ],
+    "question": "Would this mark be as easy to find if it sat inside the harbour painting?",
+    "related": [
+     "ship",
+     "minarets"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "object",
+    "title": "My Name Is Red: the displayed reproduction",
+    "url": "https://iletisim.com.tr/kitap/benim-adim-kirmizi/6825",
+    "kind": "Object / publisher record",
+    "summary": "İletişim’s product page specifies the 36th printing, May 2012, ISBN 9789754707113. A current reused publisher image is not evidence of the novel’s 1998 first cover. Official 332 × 500 publisher image; visible low-resolution painted edges remain part of the source."
+   }
+  ],
+  "tour": [
+   "author",
+   "title",
+   "ship",
+   "mast",
+   "minarets",
+   "quay",
+   "publisher"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "Orhan Pamuk",
+      "meaning": "The author’s name.",
+      "lang": "tr"
+     },
+     {
+      "text": "Benim Adım Kırmızı",
+      "meaning": "My Name Is Red.",
+      "lang": "tr"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected clearly legible title and credit wording is transcribed from the displayed reproduction. Line breaks are simplified; this is not a transcription of every small mark or an identification of the typefaces.",
+  "palette": [
+   {
+    "name": "Author red",
+    "hex": "#B2332C",
+    "role": "The saturated author-name block.",
+    "region": "author"
+   },
+   {
+    "name": "Pale sky",
+    "hex": "#E1D8B9",
+    "role": "Light sky around the slim towers.",
+    "region": "minarets"
+   },
+   {
+    "name": "Sail brown",
+    "hex": "#7F644F",
+    "role": "A subdued warm tone on the central ship.",
+    "region": "ship"
+   },
+   {
+    "name": "Water grey",
+    "hex": "#9EA89F",
+    "role": "Cooler water between nearer objects.",
+    "region": "water"
+   }
+  ],
+  "paletteNote": "Screen colours are sampled from this exact reproduction. Age, lighting and reproduction affect the result; these are not original printing specifications.",
+  "connections": [
+   {
+    "label": "Vertical echoes",
+    "title": "Masts beside minarets",
+    "text": "The ship’s masts rise among slender minarets, connecting vessel and skyline through repeated verticals.",
+    "anchors": [
+     [
+      3,
+      0.5496987951807228,
+      0.421
+     ],
+     [
+      5,
+      0.25150602409638556,
+      0.411
+     ]
+    ],
+    "id": "book-my-name-is-red-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "A stronger red",
+    "title": "A name over subdued water",
+    "text": "The red author block contrasts with the quieter painted harbour beneath.",
+    "anchors": [
+     [
+      1,
+      0.2394578313253012,
+      0.151
+     ],
+     [
+      0,
+      0.32981927710843373,
+      0.701
+     ]
+    ],
+    "id": "book-my-name-is-red-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

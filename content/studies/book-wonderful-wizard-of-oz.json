@@ -1,0 +1,546 @@
+{
+ "poster": {
+  "id": "book-wonderful-wizard-of-oz",
+  "title": "The Wonderful Wizard of Oz",
+  "year": "1900",
+  "yearNumber": 1900,
+  "coverYear": "1900",
+  "bookFirstPublication": "1900",
+  "bookAuthor": "L. Frank Baum",
+  "bookPublisher": "George M. Hill Company",
+  "bookOrigin": "American children’s fantasy by L. Frank Baum, first published in the United States in 1900.",
+  "creator": "W. W. Denslow",
+  "country": "United States",
+  "countries": [
+   "United States"
+  ],
+  "primaryOrigin": "United States",
+  "region": "North America",
+  "category": "Book cover",
+  "image": "images/full/book-wonderful-wizard-of-oz.jpg",
+  "ratio": 0.735,
+  "alt": "A worn tan cloth cover with red and green title words above a green rectangle containing a tan lion with red mane, spectacles and a curling tail.",
+  "blurb": "A warm red mane ties a carefully drawn lion to the large title above.",
+  "source": "https://www.childrenslibrary.org/library/books/b/bauwond_00950019/index.html",
+  "credit": "ICDL credits L. Frank Baum as author and W. W. Denslow as illustrator. The visible cloth cover shows the lion and the printed picture credit.",
+  "reproduction": "The reproduced object is 735 × 1000 pixels. Physical wear, visible image texture and edges are retained; small uncertain lettering is not reconstructed.",
+  "anchor": [
+   0.29,
+   0.63
+  ],
+  "accent": "#8c3223",
+  "edition": "George M. Hill Company edition, 1900, supplied to ICDL by the University of Minnesota Children’s Literature Research Collections. No claim is made about this copy’s individual first-issue or binding state.",
+  "imageSource": "https://www.childrenslibrary.org/library/books/b/bauwond_00950019/index.html",
+  "imageCredit": "ICDL credits L. Frank Baum as author and W. W. Denslow as illustrator. The visible cloth cover shows the lion and the printed picture credit.",
+  "posterYear": "1900",
+  "posterTerritory": "United States",
+  "posterDateStatus": "The displayed edition or explicitly qualified catalogue date. The original work date is recorded separately.",
+  "originNote": "Country and region describe the displayed edition’s publishing context, not the nationality of the cover designer.",
+  "originSources": [
+   {
+    "title": "Displayed object record",
+    "url": "https://www.childrenslibrary.org/library/books/b/bauwond_00950019/index.html"
+   }
+  ],
+  "notes": [
+   {
+    "title": "The displayed edition",
+    "body": "George M. Hill Company edition, 1900, supplied to ICDL by the University of Minnesota Children’s Literature Research Collections. No claim is made about this copy’s individual first-issue or binding state."
+   },
+   {
+    "title": "Writing and image-making",
+    "body": "ICDL credits L. Frank Baum as author and W. W. Denslow as illustrator. The visible cloth cover shows the lion and the printed picture credit."
+   },
+   {
+    "title": "A visible design relationship",
+    "body": "A warm red mane ties a carefully drawn lion to the large title above."
+   }
+  ],
+  "downloadURL": "https://www.childrenslibrary.org/library/books/b/bauwond_00950019/book/images/bauwond_00950019-0001-thumb20.jpg",
+  "creditSources": [
+   {
+    "title": "Source for the displayed object and recorded credits",
+    "url": "https://www.childrenslibrary.org/library/books/b/bauwond_00950019/index.html"
+   }
+  ],
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-wonderful-wizard-of-oz.webp"
+ },
+ "studyData": {
+  "intro": "A red-maned lion gives this worn cloth cover its central character. Follow the connection between coloured title words, spectacles, curving tail and green field, while keeping the 1900 edition date separate from any unverified first-issue binding claim.",
+  "initial": "red-title",
+  "regions": [
+   {
+    "id": "green-title",
+    "label": "Green opening words",
+    "shortLabel": "Green opening words",
+    "kicker": "A TITLE DIVIDED BY COLOUR",
+    "summary": "Green introduces and completes the title.",
+    "x": 21.42857,
+    "y": 8.65,
+    "bounds": {
+     "x": 1,
+     "y": 1,
+     "w": 44,
+     "h": 35
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A title divided by colour",
+      "body": "The opening The and lower of OZ are green, while the larger central title wording is red. This division creates a colour rhythm within a single title rather than presenting two different book names.",
+      "evidence": "observation",
+      "originalText": "The / of OZ",
+      "lang": "en"
+     },
+     {
+      "kind": "design",
+      "heading": "Different word sizes share a field",
+      "body": "The words vary in scale and position across the upper cloth. Green letters relate to the rectangular illustration field below, linking the verbal and pictorial areas before the viewer examines the lion itself.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Which coloured word first connects your attention to the green picture field?",
+    "related": [
+     "red-title",
+     "field"
+    ],
+    "layerIndex": 5,
+    "number": 1
+   },
+   {
+    "id": "red-title",
+    "label": "Large red title words",
+    "shortLabel": "Large red title words",
+    "kicker": "A LINE BREAK WITHIN A WORD",
+    "summary": "The warm title dominates the upper cover.",
+    "x": 52.04082,
+    "y": 19.05,
+    "bounds": {
+     "x": 1,
+     "y": 3,
+     "w": 97,
+     "h": 25
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A line break within a word",
+      "body": "The printed title breaks WONDERFUL across lines, so the word’s continuation must be joined while reading. The red words occupy most of the upper width and are much larger than the author and picture credits.",
+      "evidence": "observation",
+      "originalText": "WONDERFUL WIZARD",
+      "lang": "en"
+     },
+     {
+      "kind": "design",
+      "heading": "A warm counterpart to the mane",
+      "body": "The title’s red returns in the lion’s mane and tail tuft. That repeated colour allows the eye to connect the large wording with small details of the animal, rather than treating text and illustration as unrelated zones.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the broken word affect your reading rhythm compared with a single unbroken line?",
+    "related": [
+     "mane",
+     "green-title"
+    ],
+    "layerIndex": 4,
+    "number": 2
+   },
+   {
+    "id": "credits",
+    "label": "Author and picture credit",
+    "shortLabel": "Author and picture credit",
+    "kicker": "WRITING AND PICTURES ARE NAMED SEPARATELY",
+    "summary": "Two roles appear in a compact green block.",
+    "x": 70.13605,
+    "y": 36.55,
+    "bounds": {
+     "x": 47,
+     "y": 27,
+     "w": 51,
+     "h": 18
+    },
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Writing and pictures are named separately",
+      "body": "The visible block credits L. Frank Baum and says PICTURES BY W. W. DENSLOW. The wording distinguishes the writer from the maker of the pictures, while its small green lettering keeps those credits secondary to the title.",
+      "evidence": "observation",
+      "originalText": "L. FRANK BAUM / PICTURES BY W. W. DENSLOW",
+      "lang": "en"
+     },
+     {
+      "kind": "context",
+      "heading": "The source’s edition identification",
+      "body": "ICDL identifies a 1900 George M. Hill Company edition, credits Baum and Denslow, and records the University of Minnesota collection as contributor. That supports these roles and the edition date without proving a particular first-issue binding state.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cover"
+       }
+      ]
+     }
+    ],
+    "question": "Why does the phrase “pictures by” matter when identifying who made the visible artwork?",
+    "related": [
+     "red-title",
+     "cloth"
+    ],
+    "layerIndex": 6,
+    "number": 3
+   },
+   {
+    "id": "face",
+    "label": "Lion with spectacles",
+    "shortLabel": "Lion with spectacles",
+    "kicker": "ROUND FRAMES ON A LONG FACE",
+    "summary": "A familiar animal is given an unusual accessory.",
+    "x": 24.01361,
+    "y": 63.05,
+    "bounds": {
+     "x": 12,
+     "y": 49,
+     "w": 24,
+     "h": 27
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Round frames on a long face",
+      "body": "Green circular spectacles sit across the lion’s face, with red details within the eye areas. The long muzzle and facial lines remain visible beneath them, so the accessory changes the character without concealing the animal’s basic shape.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Character through a small addition",
+      "body": "Spectacles can suggest thoughtfulness or an incongruous human habit, but those associations are interpretive. The secure visual observation is that two round frames add a very different geometry to the surrounding mane and long face.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What changes in the lion’s character if you imagine the spectacles removed?",
+    "related": [
+     "mane",
+     "bow"
+    ],
+    "layerIndex": 2,
+    "number": 4
+   },
+   {
+    "id": "mane",
+    "label": "Red flowing mane",
+    "shortLabel": "Red flowing mane",
+    "kicker": "A SERIES OF LONG RED LOCKS",
+    "summary": "Warm curves frame the quieter face.",
+    "x": 29.04762,
+    "y": 77.05,
+    "bounds": {
+     "x": 7,
+     "y": 38,
+     "w": 48,
+     "h": 47
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A series of long red locks",
+      "body": "The mane is divided into elongated curved shapes with narrow cloth-coloured channels. Its red forms frame the face and extend down the chest, producing a flowing rhythm that differs from the broader, quieter tan body.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A link to the upper words",
+      "body": "Because the mane shares the title’s warm colour, it becomes more than local fur detail. It can pull attention from the words into the picture and back, establishing a relationship across the cover’s two main areas.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which red lock most strongly directs your eye toward the face?",
+    "related": [
+     "red-title",
+     "body"
+    ],
+    "layerIndex": 3,
+    "number": 5
+   },
+   {
+    "id": "bow",
+    "label": "Small green bow",
+    "shortLabel": "Small green bow",
+    "kicker": "A COMPACT SHAPE AT THE TOP",
+    "summary": "A tiny ornament sits above the mane.",
+    "x": 28.09524,
+    "y": 43.05,
+    "bounds": {
+     "x": 23,
+     "y": 40,
+     "w": 12,
+     "h": 6
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A compact shape at the top",
+      "body": "A small green bow-like form sits near the mane’s upper curl. It is much smaller than the spectacles or title letters, yet its position against the cloth makes it a noticeable finishing detail when the lion is examined closely.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A change from wildness to styling",
+      "body": "The combination of an arranged mane, spectacles and small bow can make the lion feel deliberately dressed or styled. That is a response to the visible accessories rather than a claim about an exact episode in the story.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which accessory changes the animal’s tone more: the bow or the spectacles?",
+    "related": [
+     "face",
+     "mane"
+    ],
+    "layerIndex": 2,
+    "number": 6
+   },
+   {
+    "id": "body",
+    "label": "Curved tan body",
+    "shortLabel": "Curved tan body",
+    "kicker": "A CONTINUOUS BACK AND BENT LEGS",
+    "summary": "A broad quieter shape supports the busy head.",
+    "x": 66.05442,
+    "y": 63.05,
+    "bounds": {
+     "x": 38,
+     "y": 52,
+     "w": 50,
+     "h": 35
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A continuous back and bent legs",
+      "body": "The tan body follows a curved back into the hindquarters and bent legs. Its large comparatively unpatterned areas contrast with the red mane’s narrow curves, making the rear of the animal visually calmer than the front.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Asymmetry within one figure",
+      "body": "The dense head and mane balance a broader, simpler body. This uneven distribution of detail helps the lion remain readable as one figure while providing a clear area of concentrated character at the front.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would the face still dominate if the whole body carried the mane’s density of lines?",
+    "related": [
+     "face",
+     "tail"
+    ],
+    "layerIndex": 2,
+    "number": 7
+   },
+   {
+    "id": "tail",
+    "label": "Curved tail and red tuft",
+    "shortLabel": "Curved tail and red tuft",
+    "kicker": "TWO VISIBLE TURNS",
+    "summary": "A thin line continues beyond the body.",
+    "x": 81.83673,
+    "y": 68.95,
+    "bounds": {
+     "x": 60,
+     "y": 57,
+     "w": 28,
+     "h": 37
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Two visible turns",
+      "body": "The narrow tail curves beside the hindquarters and continues toward a red tuft lower down. Its slim contour is easy to overlook beside the larger body, but it gives the animal an extended line beyond its main mass.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A small echo of the mane",
+      "body": "The red tuft repeats the mane’s colour at a distance. This small echo makes the rear of the animal participate in the warm-colour rhythm without giving it the same visual weight as the head.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Trace the tail with your eye: where does its direction change most sharply?",
+    "related": [
+     "mane",
+     "body"
+    ],
+    "layerIndex": 2,
+    "number": 8
+   },
+   {
+    "id": "field",
+    "label": "Green picture rectangle",
+    "shortLabel": "Green picture rectangle",
+    "kicker": "A CLEARLY PRINTED ENCLOSURE",
+    "summary": "A straight-sided field contains the animal.",
+    "x": 92.04082,
+    "y": 53.05,
+    "bounds": {
+     "x": 0,
+     "y": 44,
+     "w": 100,
+     "h": 46
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A clearly printed enclosure",
+      "body": "The illustration sits within an actual green rectangular field. Tan cloth shows through the lion’s body and face, while the green around it makes those lighter shapes visible. The rectangle’s straight sides contrast with the animal’s curves.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Figure and ground exchange roles",
+      "body": "The lion is partly defined by the printed green that surrounds it rather than by an added opaque tan fill. Looking at the green gaps between legs and around the back reveals how the surrounding field helps draw the animal.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Can you describe the lion by looking only at the green shapes around it?",
+    "related": [
+     "body",
+     "cloth"
+    ],
+    "layerIndex": 1,
+    "number": 9
+   },
+   {
+    "id": "cloth",
+    "label": "Worn cloth surface",
+    "shortLabel": "Worn cloth surface",
+    "kicker": "TEXTURE BENEATH THE PRINTING",
+    "summary": "The cover remains a physical book.",
+    "x": 88.09524,
+    "y": 95.05,
+    "bounds": {
+     "x": 1,
+     "y": 90,
+     "w": 98,
+     "h": 10
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Texture beneath the printing",
+      "body": "The woven surface and uneven wear remain visible in both open cloth and printed areas. Softened corners and rubbing belong to this particular reproduction, distinguishing the object from a smooth digital recreation of the same design.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Edition evidence has limits",
+      "body": "The institutional source identifies the 1900 edition and its contributor, but it does not establish this copy’s individual issue or binding state. Those narrower collecting claims require additional evidence beyond a familiar cover image.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "cover"
+       }
+      ]
+     }
+    ],
+    "question": "Which details would you preserve when reproducing the object, and which would disappear in a newly drawn version?",
+    "related": [
+     "credits",
+     "field"
+    ],
+    "layerIndex": 0,
+    "number": 10
+   }
+  ],
+  "sources": [
+   {
+    "id": "cover",
+    "title": "The displayed cover",
+    "url": "https://www.childrenslibrary.org/library/books/b/bauwond_00950019/index.html",
+    "kind": "Visual and edition source",
+    "summary": "George M. Hill Company edition, 1900, supplied to ICDL by the University of Minnesota Children’s Literature Research Collections. No claim is made about this copy’s individual first-issue or binding state."
+   }
+  ],
+  "tour": [
+   "red-title",
+   "face",
+   "mane",
+   "body",
+   "tail",
+   "credits"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected cover wording",
+    "rows": [
+     {
+      "text": "The Wonderful Wizard of Oz",
+      "meaning": "Title; line breaks regularized",
+      "lang": "en"
+     },
+     {
+      "text": "L. Frank Baum",
+      "meaning": "Author",
+      "lang": "en"
+     },
+     {
+      "text": "Pictures by W. W. Denslow",
+      "meaning": "Illustrator credit",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected clearly legible cover wording. Line breaks and casing may be regularized. Small uncertain print is omitted rather than guessed.",
+  "palette": [
+   {
+    "name": "Mane red",
+    "hex": "#773624",
+    "role": "Warm printed locks around the face.",
+    "region": "mane"
+   },
+   {
+    "name": "Cloth tan",
+    "hex": "#7F7250",
+    "role": "The worn surface outside the picture.",
+    "region": "cloth"
+   },
+   {
+    "name": "Field green",
+    "hex": "#4F5A32",
+    "role": "The actual printed rectangle.",
+    "region": "field"
+   }
+  ],
+  "paletteNote": "Samples come from individual pixels in this reproduction. They describe its visible colour, not original printing inks or an exact historical colour standard."
+ }
+}

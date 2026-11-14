@@ -1,0 +1,726 @@
+{
+ "poster": {
+  "id": "star-wars",
+  "title": "Star Wars",
+  "year": "1977",
+  "yearNumber": 1977,
+  "country": "United States",
+  "region": "North America",
+  "creator": "Tom Jung",
+  "filmCreator": "George Lucas",
+  "edition": "1977 U.S. Style A theatrical poster",
+  "alt": "Luke raises a bright lightsaber above Leia and two droids while a huge Darth Vader mask, the Death Star and spacecraft fill the space behind them.",
+  "blurb": "A bright human triangle stands against an immense masked presence, turning a cast into a visual myth.",
+  "notes": [
+   {
+    "title": "Light builds a central axis",
+    "body": "The raised lightsaber draws a bright vertical line above Luke. Its glow links the small foreground figures to the much larger space scene behind."
+   },
+   {
+    "title": "A face becomes the sky",
+    "body": "Vader’s mask is enlarged until it occupies the background like a landscape. That scale gives a single face the visual weight of an entire opposing world."
+   },
+   {
+    "title": "A pyramid of companions",
+    "body": "Leia and the droids sit below the raised weapon, widening the group toward the base. This triangular arrangement keeps many figures legible inside a crowded composition."
+   }
+  ],
+  "source": "https://www.starwars.com/news/7-things-you-didnt-know-about-the-original-star-wars-poster",
+  "imageCredit": "Poster artwork by Tom Jung. © Lucasfilm Ltd.; reproduction via Wikipedia.",
+  "anchor": [
+   0.45,
+   0.45
+  ],
+  "accent": "#637895",
+  "category": "Film",
+  "image": "images/full/star-wars.jpg",
+  "imageSource": "https://en.wikipedia.org/wiki/File:StarWarsMoviePoster1977.jpg",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/en/8/87/StarWarsMoviePoster1977.jpg",
+  "ratio": 0.654545,
+  "imageWidth": 252,
+  "imageHeight": 385,
+  "credit": "Poster artwork by Tom Jung. © Lucasfilm Ltd.; reproduction via Wikipedia.",
+  "posterYear": "1977",
+  "posterTerritory": "United States",
+  "countries": [
+   "United States"
+  ],
+  "primaryOrigin": "United States",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/star-wars.webp"
+ },
+ "studyData": {
+  "intro": "Tom Jung’s Style A artwork puts a small human pyramid against an enormous mask, a fleet and a bright crossing flare. The 252 × 385 reproduction limits tiny details, but Lucasfilm’s account documents several artwork revisions that make this more than a generic hero-versus-villain reading.",
+  "initial": "flare",
+  "regions": [
+   {
+    "id": "flare",
+    "number": 1,
+    "label": "A bright crossing axis",
+    "shortLabel": "A bright crossing axis",
+    "kicker": "ONE LIGHT, TWO DIRECTIONS",
+    "summary": "The strongest light links the foreground with the sky.",
+    "x": 71,
+    "y": 27,
+    "bounds": {
+     "x": 4,
+     "y": 1,
+     "w": 92,
+     "h": 31
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "One light, two directions",
+      "body": "A vertical white blade meets a broad horizontal flare near the upper-right centre. The bright crossing point contrasts with dark space and the mask behind it. This simple luminous structure remains easy to locate even when small character details are difficult to resolve.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A connection across scales",
+      "body": "The raised weapon links a small foreground body to the much larger background. Its light gives the composition an axis without making the figures physically comparable in size. The poster uses illumination as a compositional bridge rather than a measured diagram of the scene.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Cover the horizontal flare: how does the raised blade’s direction change?",
+    "related": [
+     "luke",
+     "mask",
+     "space"
+    ],
+    "layerIndex": 5
+   },
+   {
+    "id": "luke",
+    "number": 2,
+    "label": "The raised central figure",
+    "shortLabel": "The raised central figure",
+    "kicker": "A FIGURE THAT RISES",
+    "summary": "A lifted arm narrows the top of the human group.",
+    "x": 70,
+    "y": 40,
+    "bounds": {
+     "x": 63,
+     "y": 29,
+     "w": 18,
+     "h": 27
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A figure that rises",
+      "body": "The central standing figure stretches upward beneath the flare, with both arms lifted toward the blade. Light clothing separates him from the dark mask. His narrow upper silhouette forms the apex of a larger group that broadens toward the ground.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A pose with a documented revision history",
+      "body": "Lucasfilm’s account reports that, according to Jung, the Luke-and-Leia triangular pose was developed for another piece of film artwork before being incorporated into the one-sheet. That is attributed testimony about the composition, not proof that every surrounding detail was devised at the same time.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "lucasfilm"
+       }
+      ]
+     }
+    ],
+    "question": "Trace the triangle from the raised hands to the lower figures: where is its widest point?",
+    "related": [
+     "leia",
+     "flare",
+     "ground"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "leia",
+    "number": 3,
+    "label": "The lower figure and flowing fabric",
+    "shortLabel": "The lower figure and flowing fabric",
+    "kicker": "A WIDE LOWER COUNTERWEIGHT",
+    "summary": "A diagonal body broadens the human base.",
+    "x": 59,
+    "y": 54,
+    "bounds": {
+     "x": 43,
+     "y": 42,
+     "w": 35,
+     "h": 26
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A wide lower counterweight",
+      "body": "Leia’s pose and pale fabric extend sideways and downward from the standing figure. Curving cloth contrasts with the rigid raised blade. The lighter form broadens the human group while helping its lower edge remain visible against the warm ground.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Promotional painting is selective",
+      "body": "The image is an illustrated interpretation rather than a neutral costume photograph. Its pose, emphasis and drapery can be analysed as part of that presentation. The small source does not support confident identification of every weapon component or the finest painted clothing detail.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What direction does the fabric add that the raised figure does not?",
+    "related": [
+     "luke",
+     "droids",
+     "ground"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "droids",
+    "number": 4,
+    "label": "Two small companions at right",
+    "shortLabel": "Two small companions at right",
+    "kicker": "A DIFFERENT KIND OF SILHOUETTE",
+    "summary": "Tiny paired shapes extend the group’s base.",
+    "x": 88,
+    "y": 57,
+    "bounds": {
+     "x": 80,
+     "y": 50,
+     "w": 14,
+     "h": 12
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A different kind of silhouette",
+      "body": "The tall narrow droid and shorter rounded companion stand to the right of the human figures. Their scale is small, but bright highlights separate them from the darker surrounding field. Their contrasting heights add another paired rhythm near the group’s base.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "An addition by another artist",
+      "body": "Lucasfilm credits Nick Cardy with adding the droids to Jung’s poster after marketers requested their inclusion and Jung was unavailable. That documented contribution complicates a single-name authorship label without turning the whole artwork into Cardy’s design. The addition occurred before printing.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "lucasfilm"
+       }
+      ]
+     }
+    ],
+    "question": "What changes in the foreground balance if you hide the droids?",
+    "related": [
+     "leia",
+     "luke",
+     "title"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "mask",
+    "number": 5,
+    "label": "A face enlarged into a world",
+    "shortLabel": "A face enlarged into a world",
+    "kicker": "AN ENORMOUS DARK PRESENCE",
+    "summary": "Vader’s mask occupies the scale of a background landscape.",
+    "x": 63,
+    "y": 31,
+    "bounds": {
+     "x": 30,
+     "y": 8,
+     "w": 65,
+     "h": 44
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An enormous dark presence",
+      "body": "The mask fills much of the upper image, with its curved helmet edge and angular breathing apparatus appearing behind the smaller figures. It is not shown as a normal-sized head on a body. Its scale makes one face act almost like the surrounding environment.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Threat through scale is a reading",
+      "body": "The disproportion can make the mask feel dominant or threatening, especially beside the small light figures. That is an interpretation of scale and contrast. The composition does not require a literal giant or establish a precise physical distance between these pictured elements.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which mask feature stays recognisable when you squint at the whole poster?",
+    "related": [
+     "flare",
+     "eyes",
+     "orb"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "eyes",
+    "number": 6,
+    "label": "Dark eye shapes within the mask",
+    "shortLabel": "Dark eye shapes within the mask",
+    "kicker": "LOW CONTRAST PRESERVES THE SILHOUETTE",
+    "summary": "Subtle features emerge from a nearly continuous dark mass.",
+    "x": 60,
+    "y": 23,
+    "bounds": {
+     "x": 45,
+     "y": 18,
+     "w": 35,
+     "h": 12
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Low contrast preserves the silhouette",
+      "body": "The mask’s eye areas and nose are defined by small changes within dark blue-black tones. The brighter flare cuts across them, so they are partly subordinated to the luminous axis. This makes the mask readable both as a broad shape and as a face.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Darkness limits certainty",
+      "body": "The tiny reproduction loses some fine painted transitions. A close reading can still describe the major contours, but should not invent internal mechanics or sharpen indistinct marks into factual details. The viewer is looking at a low-resolution record of a painting.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "How much of the face can you locate without increasing the image’s brightness?",
+    "related": [
+     "mask",
+     "flare"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "orb",
+    "number": 7,
+    "label": "The small spherical station",
+    "shortLabel": "The small spherical station",
+    "kicker": "A ROUNDED FORM WITH INTERNAL STRUCTURE",
+    "summary": "A gridded circle gives the left sky a focal point.",
+    "x": 25,
+    "y": 16,
+    "bounds": {
+     "x": 13,
+     "y": 9,
+     "w": 23,
+     "h": 15
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A rounded form with internal structure",
+      "body": "The spherical object at upper left uses curved edges, grid-like detail and a darker circular feature. Its cool tones keep it related to the space field. The distinct round outline makes it easy to locate despite its modest size.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Pictured size is not physical scale",
+      "body": "The Death Star, mask and people appear at different illustrative scales. Their arrangement is designed for a poster, not a size comparison. Asking how they relate on the page is more productive than deriving astronomical distances or dimensions from this montage.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Compare this circle’s size with the mask: which seems larger in the story, and which is larger on the page?",
+    "related": [
+     "fleet",
+     "mask",
+     "space"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "fleet",
+    "number": 8,
+    "label": "A descending group of craft",
+    "shortLabel": "A descending group of craft",
+    "kicker": "MANY OBJECTS BECOME ONE SHAPE",
+    "summary": "Small repeated shapes form a sloping mass below the orb.",
+    "x": 20,
+    "y": 37,
+    "bounds": {
+     "x": 5,
+     "y": 23,
+     "w": 31,
+     "h": 30
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Many objects become one shape",
+      "body": "The cluster of craft descends below the round station, with small repeated light and dark forms inside a larger tapered area. At this size the collective direction is clearer than each vehicle. Repetition makes the group read as a fleet rather than unrelated marks.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Atmosphere belongs to the grouping",
+      "body": "The painted haze surrounding the craft helps them cohere and carries their sloping direction into the image. In the analytical plane, some of that atmosphere stays with the group. This is a visible montage partition, not an extraction of clean individual spacecraft assets.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Do you first see individual ships or one collective wedge?",
+    "related": [
+     "orb",
+     "ground",
+     "flare"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "ground",
+    "number": 9,
+    "label": "Warm ground and sweeping curves",
+    "shortLabel": "Warm ground and sweeping curves",
+    "kicker": "WARMTH UNDER COOL SPACE",
+    "summary": "A broad lower surface supports the light figures.",
+    "x": 29,
+    "y": 65,
+    "bounds": {
+     "x": 2,
+     "y": 48,
+     "w": 96,
+     "h": 31
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Warmth under cool space",
+      "body": "Brown-gold tones occupy the lower scene, contrasting with the blue-black sky. Long pale sweeps curve from the left toward the central figures. These broad shapes provide a base and direction without describing a detailed, easily identifiable landscape.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A setting assembled for the image",
+      "body": "The ground, atmospheric sweeps and outer space coexist as parts of an illustrated world. The sheet does not identify a specific physical location for every form. Its role is to hold the human group and connect it to the larger space imagery.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which edge suggests ground, and which seems more like a sweeping painted trail?",
+    "related": [
+     "leia",
+     "fleet",
+     "title"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "title",
+    "number": 10,
+    "label": "A compact wordmark at lower right",
+    "shortLabel": "A compact wordmark at lower right",
+    "kicker": "A DIFFERENT DIRECTIONAL ANCHOR",
+    "summary": "The title angles into the white credit area.",
+    "x": 79,
+    "y": 79,
+    "bounds": {
+     "x": 61,
+     "y": 72,
+     "w": 34,
+     "h": 13
+    },
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A different directional anchor",
+      "body": "The STAR WARS wordmark sits near the lower-right boundary, with thick outlined letters and a slanted construction. Its blue tones connect it to the upper image while its pale edges remain legible against the boundary between dark illustration and white billing area.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "Two short words after the spectacle",
+      "body": "The title is compact compared with the enormous mask and broad light beam. It names the film after the image has presented conflict and scale. The wordmark’s stylisation does not change the readable phrase, and no exact lettering designer is inferred here.",
+      "evidence": "observation",
+      "originalText": "STAR WARS",
+      "lang": "en"
+     }
+    ],
+    "question": "How does the title’s slant compare with the upright blade above?",
+    "related": [
+     "ground",
+     "billing",
+     "tagline"
+    ],
+    "layerIndex": 6
+   },
+   {
+    "id": "tagline",
+    "number": 11,
+    "label": "A story placed far away",
+    "shortLabel": "A story placed far away",
+    "kicker": "DISTANCE IN TIME AND PLACE",
+    "summary": "One small sentence opens the image like a tale.",
+    "x": 37,
+    "y": 6,
+    "bounds": {
+     "x": 5,
+     "y": 3,
+     "w": 61,
+     "h": 5
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Distance in time and place",
+      "body": "The top line places the story a long time ago and in a distant galaxy. Its small white lettering reads against dark space. The phrase supplies narrative distance rather than a release date, technical location or scientifically measurable coordinate.",
+      "evidence": "observation",
+      "originalText": "A long time ago in a galaxy far, far away...",
+      "lang": "en"
+     },
+     {
+      "kind": "design",
+      "heading": "A quiet beginning above a loud image",
+      "body": "The sentence runs close to the top edge and stays smaller than the title. It asks for a slower verbal reading before or after the central spectacle. This difference in scale allows story framing and visual drama to share the same sheet without equal emphasis.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "How does the wording affect the picture before you identify any character?",
+    "related": [
+     "title",
+     "space"
+    ],
+    "layerIndex": 6
+   },
+   {
+    "id": "billing",
+    "number": 12,
+    "label": "The white block below the painting",
+    "shortLabel": "The white block below the painting",
+    "kicker": "A DIFFERENT READING DISTANCE",
+    "summary": "Dense credits sit outside the main illustrated world.",
+    "x": 49,
+    "y": 89,
+    "bounds": {
+     "x": 4,
+     "y": 80,
+     "w": 92,
+     "h": 18
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A different reading distance",
+      "body": "The pale lower field contains a tight credit block beneath the sweeping illustration. Fine dark letters demand closer viewing than the mask or light beam. The boundary clearly separates the visual invitation from the contractual and informational texture of billing.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Date the edition cautiously",
+      "body": "Lucasfilm dates Jung’s Style A artwork to 1977 but notes uncertainty about whether it was available at the May opening. The study therefore calls it a 1977 theatrical design without asserting that this exact sheet was present on opening day.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "lucasfilm"
+       }
+      ]
+     }
+    ],
+    "question": "What changes when the image gives way to white paper and small black text?",
+    "related": [
+     "title",
+     "tagline",
+     "droids"
+    ],
+    "layerIndex": 6
+   },
+   {
+    "id": "space",
+    "number": 13,
+    "label": "A dark field around the light",
+    "shortLabel": "A dark field around the light",
+    "kicker": "DARKNESS GIVES LIGHT ITS REACH",
+    "summary": "Small stars and open darkness keep the luminous axis visible.",
+    "x": 90,
+    "y": 8,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 100,
+     "h": 79
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Darkness gives light its reach",
+      "body": "The outer sky contains small points and broad dark areas around the mask, orb and beam. The white flare can stretch across this field without losing its shape. The openness near the edges makes the centre’s dense montage easier to approach.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "No need to fill every gap",
+      "body": "Leaving some dark areas relatively quiet lets the other forms carry different scales and functions. The space is not empty of design work; it provides contrast, separation and room for the opening line. That reading follows the visible organisation rather than an undocumented statement of intent.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where is the darkest open area, and what would happen if it were filled with another figure?",
+    "related": [
+     "flare",
+     "mask",
+     "tagline"
+    ],
+    "layerIndex": 0
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed poster edition",
+    "url": "https://en.wikipedia.org/wiki/File:StarWarsMoviePoster1977.jpg",
+    "kind": "Visual source",
+    "summary": "The reproduced sheet supports observations of visible wording, colour, composition and marks; it does not establish the designer’s intention."
+   },
+   {
+    "id": "lucasfilm",
+    "title": "Lucasfilm: history of the Style A poster",
+    "url": "https://www.starwars.com/news/7-things-you-didnt-know-about-the-original-star-wars-poster",
+    "kind": "Official archival account",
+    "summary": "Identifies Tom Jung’s 1977 Style A artwork, reports the pose’s revision history, credits Nick Cardy’s droids and notes uncertainty about opening-day availability."
+   }
+  ],
+  "tour": [
+   "flare",
+   "luke",
+   "leia",
+   "droids",
+   "mask",
+   "orb",
+   "billing"
+  ],
+  "transcript": [
+   {
+    "heading": "Readable wording on this edition",
+    "rows": [
+     {
+      "text": "STAR WARS",
+      "meaning": "Film title.",
+      "lang": "en"
+     },
+     {
+      "text": "A long time ago in a galaxy far, far away...",
+      "meaning": "Narrative framing rather than a factual date or location.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "The large wordmark and opening line are readable. The 252 × 385 reproduction does not support a complete confident billing transcription or fine prop identification.",
+  "palette": [
+   {
+    "name": "Dark space",
+    "hex": "#000308",
+    "region": "space",
+    "role": "Contrast around the luminous axis."
+   },
+   {
+    "name": "White flare",
+    "hex": "#FEFFFD",
+    "region": "flare",
+    "role": "The brightest crossing point."
+   },
+   {
+    "name": "Cool mask",
+    "hex": "#1E323B",
+    "region": "mask",
+    "role": "Large background presence."
+   },
+   {
+    "name": "Warm ground",
+    "hex": "#68462A",
+    "region": "ground",
+    "role": "A base for the figures."
+   },
+   {
+    "name": "White billing field",
+    "hex": "#FFFFFF",
+    "region": "billing",
+    "role": "A different reading zone below the image."
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in the installed reproduction. These are not original ink specifications; scan, lighting and compression can alter colour.",
+  "connections": [
+   {
+    "label": "A luminous axis",
+    "title": "The raised blade links two scales",
+    "text": "The lightsaber rises from the small foreground figure into the enormous mask behind it. The bright cross-shaped flare makes that vertical link unmistakable.",
+    "anchors": [
+     [
+      3,
+      0.7083333333333334,
+      0.34935064935064936
+     ],
+     [
+      5,
+      0.7043650793650794,
+      0.2662337662337662
+     ],
+     [
+      1,
+      0.5813492063492064,
+      0.2688311688311688
+     ]
+    ],
+    "id": "star-wars-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "A broadening base",
+    "title": "Companions make a triangle",
+    "text": "The raised figure narrows the group at the top; Leia and the small droids widen it below, making the crowded foreground readable as a triangle.",
+    "anchors": [
+     [
+      3,
+      0.7003968253968254,
+      0.34935064935064936
+     ],
+     [
+      3,
+      0.5892857142857143,
+      0.5493506493506494
+     ],
+     [
+      4,
+      0.871031746031746,
+      0.5753246753246753
+     ]
+    ],
+    "id": "star-wars-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

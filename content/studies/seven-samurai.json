@@ -1,0 +1,622 @@
+{
+ "poster": {
+  "id": "seven-samurai",
+  "title": "Seven Samurai",
+  "year": "1954",
+  "yearNumber": 1954,
+  "country": "Japan",
+  "region": "East Asia",
+  "category": "Film",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Akira Kurosawa",
+  "edition": "Japanese theatrical poster",
+  "image": "images/full/seven-samurai.jpg",
+  "ratio": 0.7112299465240641,
+  "alt": "Japanese Seven Samurai poster with a large sword-wielding warrior, red vertical lettering, a woman’s face and smaller figures against green and gold.",
+  "blurb": "A raised sword, a forward-moving figure and a crowd of smaller faces turn the sheet into a compressed action scene.",
+  "notes": [
+   {
+    "title": "A diagonal that sets everything moving",
+    "body": "The raised sword and wide stance make the central body a strong diagonal. Smaller scenes gather below it, so the eye meets a gesture before it reads the cast."
+   },
+   {
+    "title": "Scale makes a hierarchy",
+    "body": "The warrior and the woman’s face are much larger than the figures along the bottom. The different scales promise both individual drama and a collective story."
+   },
+   {
+    "title": "A title that stands its ground",
+    "body": "The deep red Japanese title runs down the left edge. Its upright weight balances the angled sword and separates the words from the busy illustrated action."
+   }
+  ],
+  "source": "https://www.criterion.com/films/165-seven-samurai",
+  "imageSource": "https://en.wikipedia.org/wiki/File:Seven_Samurai_Poster.png",
+  "imageCredit": "Copyright in the poster remains with its respective studio, distributor or artist. Low-resolution reproduction via Wikipedia for visual commentary; see the image source record.",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/en/c/c8/Seven_Samurai_Poster.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+  "anchor": [
+   0.54,
+   0.46
+  ],
+  "accent": "#a92b3a",
+  "yearNote": "Year refers to the film’s first release; the poster edition is identified separately.",
+  "credit": "Copyright in the poster remains with its respective studio, distributor or artist. Low-resolution reproduction via Wikipedia for visual commentary; see the image source record.",
+  "countries": [
+   "Japan"
+  ],
+  "primaryOrigin": "Japan",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/seven-samurai.webp"
+ },
+ "studyData": {
+  "intro": "A raised sword, a huge face and a crowded lower montage operate at different scales. Read the poster as a collection of visual promises rather than one continuous scene, and compare its painted colour with the film’s documented black-and-white photography.",
+  "initial": "sword",
+  "regions": [
+   {
+    "id": "sword",
+    "label": "The raised sword",
+    "shortLabel": "The raised sword",
+    "kicker": "Look closely",
+    "summary": "A long diagonal begins the action.",
+    "layerIndex": 1,
+    "x": 46.617,
+    "y": 16.31,
+    "bounds": {
+     "x": 25,
+     "y": 1,
+     "w": 36,
+     "h": 26
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Arm and blade form a route",
+      "body": "The warrior’s raised arm reaches towards a sword that runs diagonally near the top edge. The narrow blade extends the gesture beyond the body. Together they create a strong route from the central figure into the small figures and open hillside above.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A gesture before a story",
+      "body": "A raised weapon communicates readiness or conflict without explaining who is fighting whom. The poster gives an action cue before detailed narrative information. Compare the clear direction of this gesture with the less easily resolved crowd of smaller scenes below.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Can you follow the arm into the blade without looking at the face?",
+    "related": [
+     "warrior",
+     "hillside",
+     "title"
+    ],
+    "number": 1
+   },
+   {
+    "id": "warrior",
+    "label": "The central warrior",
+    "shortLabel": "The central warrior",
+    "kicker": "Look closely",
+    "summary": "One body towers over several smaller scenes.",
+    "layerIndex": 1,
+    "x": 51.128,
+    "y": 49.465,
+    "bounds": {
+     "x": 27,
+     "y": 15,
+     "w": 48,
+     "h": 69
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An enlarged body",
+      "body": "The central figure spreads across much of the sheet, with bare limbs, dark armour and a broad stance. His scale is much larger than the people near the bottom. Overlapping those smaller images makes him a dominant figure rather than a person standing at a consistent distance.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A village hires defenders",
+      "body": "Criterion describes a sixteenth-century village hiring seven warriors to protect it from bandits. That provides the film’s central situation. The poster’s different-sized figures are a promotional montage, so their relative size should not be mistaken for a literal arrangement of the story’s space.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "criterion"
+       }
+      ]
+     }
+    ],
+    "question": "What tells you that these figures do not all occupy one realistic space?",
+    "related": [
+     "sword",
+     "crowd",
+     "face"
+    ],
+    "number": 2
+   },
+   {
+    "id": "armour",
+    "label": "Armour and bare limbs",
+    "shortLabel": "Armour and bare limbs",
+    "kicker": "Look closely",
+    "summary": "Different textures divide the body.",
+    "layerIndex": 1,
+    "x": 48.872,
+    "y": 42.513,
+    "bounds": {
+     "x": 34,
+     "y": 28,
+     "w": 30,
+     "h": 29
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Hard panels, soft modelling",
+      "body": "Dark panels and straps cover the torso, while highlights model the exposed arms and legs. These contrasting textures make the figure readable inside a busy background. The armour forms a compact centre, and the limbs extend its directions outward across the sheet.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "More than a silhouette",
+      "body": "The stance would remain clear in outline, but the internal details add a second level of attention. Look first at the whole body, then at the straps and surfaces. The shift shows how a large figure can support both rapid recognition and closer inspection.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which details disappear when you squint, and which parts of the stance survive?",
+    "related": [
+     "warrior",
+     "sword",
+     "bridge"
+    ],
+    "number": 3
+   },
+   {
+    "id": "face",
+    "label": "The large right-hand face",
+    "shortLabel": "The large right-hand face",
+    "kicker": "Look closely",
+    "summary": "A cropped portrait offers another kind of drama.",
+    "layerIndex": 2,
+    "x": 85.338,
+    "y": 27.005,
+    "bounds": {
+     "x": 71,
+     "y": 8,
+     "w": 29,
+     "h": 38
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Close-up beside action",
+      "body": "The face at the upper right is much larger than the heads in the lower montage. It is cropped by the sheet’s edge, with eyes directed sideways and an open mouth. Its proximity contrasts with the full-body action of the central warrior.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Expression without a complete scene",
+      "body": "The close-up can suggest alarm, urgency or a moment of speech, but the surrounding image does not prove a specific feeling. Compare the face’s direction with the warrior’s pose: the poster offers emotional and physical action without requiring them to be one instant.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which detail supports your reading of the expression, and which part remains uncertain?",
+    "related": [
+     "warrior",
+     "horse",
+     "title"
+    ],
+    "number": 4
+   },
+   {
+    "id": "title",
+    "label": "The red vertical title",
+    "shortLabel": "The red vertical title",
+    "kicker": "Words and meaning",
+    "summary": "The name holds the left edge.",
+    "layerIndex": 4,
+    "x": 16.541,
+    "y": 30.749,
+    "bounds": {
+     "x": 4,
+     "y": 0,
+     "w": 25,
+     "h": 59
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Seven Samurai",
+      "body": "七人の侍 is read Shichinin no samurai and means “Seven Samurai.” The large red characters descend along the left, with pale edging that helps them stand apart from the green setting. Their uneven contours feel different from the narrow supporting text nearby.",
+      "evidence": "observation",
+      "originalText": "七人の侍",
+      "lang": "ja",
+      "translation": "Seven Samurai",
+      "reading": "Shichinin no samurai"
+     },
+     {
+      "kind": "design",
+      "heading": "A stable counterweight",
+      "body": "The title gives a strong vertical direction while the warrior and sword create diagonals. Cover it and the image becomes more dependent on moving bodies. Restore it and the left edge has a firm organising weight, even for a viewer who does not read Japanese.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the title balance the raised arm and sword?",
+    "related": [
+     "sword",
+     "director",
+     "hillside"
+    ],
+    "number": 5
+   },
+   {
+    "id": "director",
+    "label": "The director’s name",
+    "shortLabel": "The director’s name",
+    "kicker": "Words and meaning",
+    "summary": "A narrow line sits beside the large title.",
+    "layerIndex": 5,
+    "x": 30.451,
+    "y": 23.262,
+    "bounds": {
+     "x": 26,
+     "y": 9,
+     "w": 10,
+     "h": 29
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A different size of authority",
+      "body": "The vertically printed name 黒澤明 identifies Akira Kurosawa. It is smaller and straighter than the red title beside it. The close placement links the filmmaker’s name with the film’s identity while preserving a clear difference in their visual importance.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A checked film credit",
+      "body": "Criterion confirms Akira Kurosawa as the director of the 1954 Japanese film. This verifies the name’s relevance to the film, not the identity of the poster artist. The installed sheet’s printing date and uncredited design authorship remain separate questions.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "criterion"
+       }
+      ]
+     }
+    ],
+    "question": "Why might a director’s name sit near the title but use a quieter scale?",
+    "related": [
+     "title",
+     "credits",
+     "warrior"
+    ],
+    "number": 6
+   },
+   {
+    "id": "hillside",
+    "label": "A distant hillside",
+    "shortLabel": "A distant hillside",
+    "kicker": "Look closely",
+    "summary": "Tiny silhouettes extend the world above.",
+    "layerIndex": 0,
+    "x": 37.594,
+    "y": 11.497,
+    "bounds": {
+     "x": 2,
+     "y": 1,
+     "w": 69,
+     "h": 22
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Small figures on a ridge",
+      "body": "A green slope and a row of very small dark figures run behind the upper action. They establish a much more distant scale than the enlarged warrior. The pale sky and open hill also provide breathing space around the blade and upper lettering.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An abrupt change of distance",
+      "body": "The ridge invites a landscape reading, but the giant portrait and warrior interrupt realistic scale. This is one reason the sheet works as montage. The viewer moves between separate kinds of view rather than looking through a single consistent window.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which is the smallest human figure you can find, and how does it change the main figure’s scale?",
+    "related": [
+     "warrior",
+     "bridge",
+     "face"
+    ],
+    "number": 7
+   },
+   {
+    "id": "horse",
+    "label": "The horse at right",
+    "shortLabel": "The horse at right",
+    "kicker": "Look closely",
+    "summary": "An animal adds another diagonal.",
+    "layerIndex": 3,
+    "x": 81.955,
+    "y": 56.417,
+    "bounds": {
+     "x": 67,
+     "y": 44,
+     "w": 30,
+     "h": 25
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A compact burst of motion",
+      "body": "The horse and rider occupy a smaller patch on the right beneath the large face. The animal’s angled head and bent legs produce a different silhouette from the upright human figures. Its dark mass is separated from the nearby face by a shift in scale and texture.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Multiple promises of action",
+      "body": "The horse adds another kind of movement to the sword gesture and crowd below. The image need not identify one continuous battle to suggest variety. Notice how the montage accumulates attractions rather than leaving one central image to carry every part of the film.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What new direction does the horse add to the composition?",
+    "related": [
+     "face",
+     "crowd",
+     "sword"
+    ],
+    "number": 8
+   },
+   {
+    "id": "crowd",
+    "label": "The lower gathering",
+    "shortLabel": "The lower gathering",
+    "kicker": "Look closely",
+    "summary": "Many small bodies make a collective scene.",
+    "layerIndex": 3,
+    "x": 25.564,
+    "y": 74.599,
+    "bounds": {
+     "x": 0,
+     "y": 62,
+     "w": 51,
+     "h": 25
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Density at the base",
+      "body": "A cluster of smaller people fills the lower-left area. Heads, garments and weapons form a dense texture, with individual figures harder to separate than the central warrior. The group supplies a collective scale that contrasts with the enlarged single body above it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Colour does not prove the film’s palette",
+      "body": "Criterion records Seven Samurai as a black-and-white film. The greens, reds and warm skin tones belong to this promotional image. A coloured poster can interpret or advertise a monochrome film; it should not be used as evidence for the colours of its photographed scenes.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "criterion"
+       }
+      ]
+     }
+    ],
+    "question": "What would a viewer wrongly infer if they assumed the poster copied the film’s colours?",
+    "related": [
+     "warrior",
+     "bridge",
+     "credits"
+    ],
+    "number": 9
+   },
+   {
+    "id": "bridge",
+    "label": "The low crossing",
+    "shortLabel": "The low crossing",
+    "kicker": "Look closely",
+    "summary": "A pale diagonal links the lower scenes.",
+    "layerIndex": 3,
+    "x": 47.368,
+    "y": 81.551,
+    "bounds": {
+     "x": 20,
+     "y": 74,
+     "w": 55,
+     "h": 15
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An angled structure",
+      "body": "A pale bridge-like crossing runs through the lower montage, its repeated uprights making a small rhythm. It passes behind or among figures rather than standing as an isolated architectural subject. Its diagonal helps tie the crowded base to the larger body above.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A route through density",
+      "body": "When the lower area feels crowded, the repeated posts offer a line to follow. They organise a patch filled with people and clothing without requiring every figure to be identified. Compare this small diagonal with the much longer blade near the top.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which diagonal is easier to follow: the sword or the crossing below?",
+    "related": [
+     "crowd",
+     "sword",
+     "armour"
+    ],
+    "number": 10
+   },
+   {
+    "id": "credits",
+    "label": "The bottom credit block",
+    "shortLabel": "The bottom credit block",
+    "kicker": "Look closely",
+    "summary": "Small lettering completes the crowded base.",
+    "layerIndex": 5,
+    "x": 53.008,
+    "y": 93.048,
+    "bounds": {
+     "x": 10,
+     "y": 86,
+     "w": 86,
+     "h": 14
+    },
+    "tags": [
+     "business",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "Information changes density",
+      "body": "Several short vertical columns and lines occupy the bottom in pale lettering. They sit close to the lower montage, so image detail and written information become densely packed together. The title remains much easier to distinguish than these individual names at the installed resolution.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "Reading with limits",
+      "body": "The presence and arrangement of the credit block are clear, but a trustworthy full transcription needs a larger source. Rather than guessing names from partial characters, compare its rhythm with the title: the same sheet carries a bold identifier and a demanding layer of detailed information.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What does the dense base contribute even before its individual words are readable?",
+    "related": [
+     "title",
+     "director",
+     "crowd"
+    ],
+    "number": 11
+   }
+  ],
+  "sources": [
+   {
+    "id": "criterion",
+    "title": "Criterion: Seven Samurai",
+    "url": "https://www.criterion.com/films/165-seven-samurai",
+    "kind": "Primary source",
+    "summary": "Verifies the 1954 Japanese film, Kurosawa’s direction, sixteenth-century village-defence premise and black-and-white format. Its modern cover credit does not identify this poster artist."
+   }
+  ],
+  "tour": [
+   "sword",
+   "warrior",
+   "face",
+   "title",
+   "crowd",
+   "credits"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected wording on this edition",
+    "rows": [
+     {
+      "text": "七人の侍",
+      "meaning": "Seven Samurai; Shichinin no samurai",
+      "lang": "ja"
+     },
+     {
+      "text": "黒澤明",
+      "meaning": "Akira Kurosawa",
+      "lang": "ja"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Only the secure title and director name are transcribed. Long edge copy and fine lower credits remain untranscribed at this resolution; no complete translation is claimed.",
+  "palette": [
+   {
+    "name": "Title red",
+    "hex": "#940c32",
+    "role": "The name holds the left edge.",
+    "region": "title"
+   },
+   {
+    "name": "Hillside green",
+    "hex": "#819c4d",
+    "role": "Tiny silhouettes extend the world above.",
+    "region": "hillside"
+   },
+   {
+    "name": "Pale sky",
+    "hex": "#e0ebe7",
+    "role": "Tiny silhouettes extend the world above.",
+    "region": "hillside"
+   },
+   {
+    "name": "Armour shadow",
+    "hex": "#251c1d",
+    "role": "Different textures divide the body.",
+    "region": "armour"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in this installed reproduction. They describe this image, not original printing inks or a colour standard.",
+  "connections": [
+   {
+    "label": "A diagonal and an upright",
+    "title": "Gesture meets title",
+    "text": "The raised arm and sword pull the eye diagonally while the deep red title holds a strong vertical position at the left.",
+    "anchors": [
+     [
+      1,
+      0.35526315789473684,
+      0.15106951871657753
+     ],
+     [
+      4,
+      0.17481203007518797,
+      0.4505347593582888
+     ]
+    ],
+    "id": "seven-samurai-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Several scales of drama",
+    "title": "Large faces, small scenes",
+    "text": "The large warrior and right-hand face tower over the smaller lower scenes, giving the sheet more than one scale of storytelling.",
+    "anchors": [
+     [
+      2,
+      0.8515037593984962,
+      0.23128342245989306
+     ],
+     [
+      3,
+      0.17857142857142858,
+      0.75
+     ]
+    ],
+    "id": "seven-samurai-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

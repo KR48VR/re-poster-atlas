@@ -1,0 +1,364 @@
+{
+ "order": [
+  "the-wind-rises",
+  "rrr",
+  "vertigo",
+  "normandie",
+  "mother-india",
+  "ilo-ilo",
+  "mexico-1968",
+  "the-piano",
+  "spirited-away",
+  "ne-zha-2",
+  "moulin-rouge",
+  "touki-bouki",
+  "jaws",
+  "barbie",
+  "nihon-buyo",
+  "the-goddess",
+  "black-girl",
+  "culture-and-resistance",
+  "metropolis",
+  "flow",
+  "sholay",
+  "casablanca",
+  "gismonda",
+  "sepet",
+  "in-the-mood-for-love",
+  "the-color-of-pomegranates",
+  "bauhaus",
+  "mad-max-fury-road",
+  "city-of-god",
+  "visit-palestine",
+  "seven-samurai",
+  "everything-everywhere-all-at-once",
+  "nord-express",
+  "ong-bak",
+  "pulp-fiction",
+  "yeelen",
+  "cairo-station",
+  "tokyo-1964-first-poster",
+  "priester",
+  "amores-perros",
+  "akira",
+  "hope",
+  "solidarnosc",
+  "skegness-is-so-bracing",
+  "bicycle-thieves",
+  "joyland",
+  "we-can-do-it",
+  "harder-they-come",
+  "raise-the-red-lantern",
+  "the-third-man",
+  "musica-viva",
+  "the-raid",
+  "parasite",
+  "taste-of-cherry",
+  "jane-avril",
+  "central-station",
+  "battleship-potemkin",
+  "daily-herald-early-bird",
+  "lagaan",
+  "tsotsi",
+  "heroic-guerrilla",
+  "project-hail-mary",
+  "amelie",
+  "yol",
+  "godzilla",
+  "ignorance-equals-fear",
+  "delftsche-slaolie",
+  "manila-in-the-claws-of-light",
+  "breathless",
+  "secret-in-their-eyes",
+  "uncle-sam",
+  "timbuktu",
+  "pather-panchali",
+  "obama-hope",
+  "keep-calm",
+  "battle-of-algiers",
+  "chungking-express",
+  "divan-japonais",
+  "dune",
+  "kitchener",
+  "la-dolce-vita",
+  "oldboy",
+  "red-wedge",
+  "a-separation",
+  "nosferatu",
+  "star-wars",
+  "aristide-bruant",
+  "la-revue-blanche",
+  "my-neighbor-totoro",
+  "le-chat-noir",
+  "siam-mashq",
+  "festival-teatro-1968",
+  "book-for-the-voice",
+  "book-great-gatsby",
+  "book-charlie-chan",
+  "book-i-am-a-cat",
+  "book-macunaima",
+  "book-mrs-dalloway",
+  "book-norwegian-wood",
+  "book-human-acts",
+  "book-kampung-boy",
+  "book-wonderful-wizard-of-oz",
+  "book-ret-samadhi",
+  "book-frankenstein-in-baghdad",
+  "book-pride-and-prejudice",
+  "book-metamorphosis",
+  "book-the-hobbit",
+  "book-the-little-prince",
+  "book-catcher-in-the-rye",
+  "book-pedro-paramo",
+  "book-one-hundred-years-of-solitude",
+  "book-call-to-arms",
+  "book-my-name-is-red",
+  "book-the-rabbits",
+  "book-sahaj-path",
+  "book-seven-moons-of-maali-almeida",
+  "book-the-handmaids-tale",
+  "book-three-body-problem",
+  "book-god-of-small-things",
+  "book-bumi-manusia",
+  "book-dekada-70",
+  "book-rayuela",
+  "book-zoo-city",
+  "book-born-a-crime",
+  "book-the-whale-rider",
+  "book-my-sister-serial-killer",
+  "book-the-stone-virgins",
+  "book-of-air-and-mirrors"
+ ],
+ "themes": [
+  {
+   "title": "Colour becomes a signal.",
+   "short": "Colour",
+   "description": "France, Mexico and Japan. Follow the accents that turn a name, an identity and a title into something unmistakable.",
+   "ids": [
+    "moulin-rouge",
+    "mexico-1968",
+    "the-wind-rises"
+   ],
+   "connection": "Colour gives the eye a destination",
+   "labels": [
+    "Red becomes rhythm",
+    "Colour interrupts the optical field",
+    "Pink anchors the title"
+   ]
+  },
+  {
+   "title": "A character emerges.",
+   "short": "Character",
+   "description": "France, Japan and South Africa. A seated cat, a forest companion and animals woven into lettering show how a silhouette becomes a presence.",
+   "ids": [
+    "le-chat-noir",
+    "my-neighbor-totoro",
+    "book-zoo-city"
+   ],
+   "connection": "Shape makes a character",
+   "labels": [
+    "A cat holds the centre",
+    "A large figure beside a small umbrella",
+    "Animals become the title"
+   ]
+  },
+  {
+   "title": "A gesture carries the message.",
+   "short": "Gesture",
+   "description": "The United States, Botswana and India. Hands, arms and bodies turn shared effort into a visible force.",
+   "ids": [
+    "we-can-do-it",
+    "culture-and-resistance",
+    "rrr"
+   ],
+   "connection": "The body becomes the message",
+   "labels": [
+    "An arm makes the promise",
+    "Hands turn culture into solidarity",
+    "Two bodies repeat a rhythm"
+   ]
+  },
+  {
+   "title": "A frame shapes the story.",
+   "short": "Framing",
+   "description": "Japan, New Zealand and Singapore. A small cat portrait, an intimate close-up and comic panels choose how near we stand to a story.",
+   "ids": [
+    "book-i-am-a-cat",
+    "the-piano",
+    "book-charlie-chan"
+   ],
+   "connection": "The frame chooses our distance",
+   "labels": [
+    "A small cat inside a border",
+    "A close-up fills the printed frame",
+    "Panels divide a life into moments"
+   ]
+  },
+  {
+   "title": "The page begins to move.",
+   "short": "Motion",
+   "description": "The United States, Jamaica and New Zealand. A carousel horse, a performer and a sweeping form across water turn still images into paths for the eye.",
+   "ids": [
+    "book-catcher-in-the-rye",
+    "harder-they-come",
+    "book-the-whale-rider"
+   ],
+   "connection": "Direction gives an image momentum",
+   "labels": [
+    "A horse’s tail sweeps across the field",
+    "A figure commands the stage",
+    "A warm curve crosses blue water"
+   ]
+  },
+  {
+   "title": "Scale tells the story.",
+   "short": "Scale",
+   "description": "France, the Philippines and Australia. A ship, a large film title and a towering illustrated vessel change the weight of figures, objects and words.",
+   "ids": [
+    "normandie",
+    "manila-in-the-claws-of-light",
+    "book-the-rabbits"
+   ],
+   "connection": "Size creates a hierarchy",
+   "labels": [
+    "A vast hull and tiny birds",
+    "A huge title interrupts a quiet portrait",
+    "A ship towers over marching figures"
+   ]
+  },
+  {
+   "title": "Colour sets the mood.",
+   "short": "Mood",
+   "description": "Britain, Iran and the United States. A seaside promise, a tree with watchful eyes and a pink fantasy invite three different feelings.",
+   "ids": [
+    "skegness-is-so-bracing",
+    "taste-of-cherry",
+    "barbie"
+   ],
+   "connection": "A palette changes the invitation",
+   "labels": [
+    "Open sky and a playful leap",
+    "A tree glows in impossible colours",
+    "Pink makes a world of its own"
+   ]
+  },
+  {
+   "title": "Writing becomes a shape.",
+   "short": "Writing",
+   "description": "A Russian-language book published in Berlin, a Puerto Rican theatre poster and an Iranian exhibition announcement. Writing can be structure, invitation and image.",
+   "ids": [
+    "book-for-the-voice",
+    "festival-teatro-1968",
+    "siam-mashq"
+   ],
+   "connection": "Words belong to the composition",
+   "labels": [
+    "A letter becomes architecture",
+    "A festival name stacks into a block",
+    "Writing crosses a human silhouette"
+   ]
+  }
+ ],
+ "waysIn": {
+  "normandie": {
+   "concept": "Scale",
+   "question": "What makes this ship feel enormous?",
+   "reading": "The bow nearly fills the sheet, but the tiny pale birds give its size a point of comparison. Imagine the birds were absent. The ship would remain large; would it feel quite as immense without them?",
+   "noteEvidence": [
+    "observation",
+    "interpretation",
+    "interpretation"
+   ],
+   "comparisons": [
+    {
+     "id": "timbuktu",
+     "question": "Compare the birds beside the ship with the person beneath the tree. How does something small make its surroundings feel larger?"
+    },
+    {
+     "id": "jaws",
+     "question": "Both posters pair a huge form with something tiny. What changes when the smaller form is a swimmer rather than a flock of birds?"
+    }
+   ]
+  },
+  "godzilla": {
+   "concept": "Lettering",
+   "question": "Does the red title simply name the monster, or become another giant shape?",
+   "reading": "The title occupies much of the left side, beside Godzilla’s body on the right. Its broad red shapes can feel almost as imposing as the creature. Compare their size in the exploded view, then bring them together and see which catches your attention first.",
+   "noteEvidence": [
+    "interpretation",
+    "interpretation",
+    "interpretation"
+   ],
+   "comparisons": [
+    {
+     "id": "barbie",
+     "question": "In Godzilla the letters stand beside a creature; in Barbie a giant letter surrounds the actors. How can lettering behave like an object in a scene?"
+    },
+    {
+     "id": "jaws",
+     "question": "How do the red title and the threatening creature share attention in each poster?"
+    }
+   ]
+  },
+  "mexico-1968": {
+   "concept": "Pattern",
+   "question": "Where do the letters end and the surrounding pattern begin?",
+   "reading": "The parallel lines continue the contours of MEXICO68 into the surrounding field. Dividing word and pattern is therefore a choice made for this study. Bring the layers together. Compare the whole sheet with a small area of stripes: when do the words become easier to notice?",
+   "noteEvidence": [
+    "observation",
+    "interpretation",
+    "interpretation"
+   ],
+   "comparisons": [
+    {
+     "id": "solidarnosc",
+     "question": "Mexico 1968 extends letters into a pattern; Solidarity joins letters into a crowded shape. What does each word become before you read it?"
+    },
+    {
+     "id": "pather-panchali",
+     "question": "Compare the repeated curves in Mexico 1968 with the curved title and circular portrait frame in Pather Panchali. How do letters echo the rest of an image?"
+    }
+   ]
+  },
+  "ilo-ilo": {
+   "concept": "Gesture",
+   "question": "Where does the boy’s pointing hand lead your attention?",
+   "reading": "The arm reaches left from the close pair toward the distant city. The railing provides another route between foreground and background. Trace those directions, then return to the two faces. One possible reading is a small shared moment opening onto a much larger setting.",
+   "noteEvidence": [
+    "interpretation",
+    "interpretation",
+    "interpretation"
+   ],
+   "comparisons": [
+    {
+     "id": "bicycle-thieves",
+     "question": "Compare a pointing hand with an upward-looking face. How does each poster connect two people without drawing an arrow between them?"
+    },
+    {
+     "id": "visit-palestine",
+     "question": "A balcony places us beside people looking outward; a tree frames a view of a city. Where does each poster make you feel you are standing?"
+    }
+   ]
+  },
+  "rrr": {
+   "concept": "Rhythm",
+   "question": "What makes two frozen poses feel like a shared dance step?",
+   "reading": "Both dancers bend a knee, lift a heel and cross their arms, but the poses are not exact copies. The repeated angles can suggest a shared beat while the small differences keep the pair lively. Compare the figures separately, then bring them together again.",
+   "noteEvidence": [
+    "interpretation",
+    "interpretation",
+    "interpretation"
+   ],
+   "comparisons": [
+    {
+     "id": "jane-avril",
+     "question": "How does a single lifted leg suggest movement in Jane Avril, compared with the repeated poses of two dancers in RRR?"
+    },
+    {
+     "id": "culture-and-resistance",
+     "question": "Compare two bodies repeating a pose with two hands joining in a grip. How can a still image make togetherness visible?"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,607 @@
+{
+ "poster": {
+  "id": "raise-the-red-lantern",
+  "title": "Raise the Red Lantern",
+  "year": "1991",
+  "yearNumber": 1991,
+  "country": "China / Hong Kong / Taiwan",
+  "region": "East Asia",
+  "category": "Film",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Zhang Yimou",
+  "edition": "Chinese-language promotional poster; printing date unverified",
+  "image": "images/full/raise-the-red-lantern.jpg",
+  "ratio": 0.7665505226480837,
+  "alt": "Chinese-language Raise the Red Lantern promotional artwork with large red lanterns down the left, red vertical title, a seated woman at lower right and a yellow text band above.",
+  "blurb": "A descending row of red lanterns faces a still, seated figure across a dark field.",
+  "notes": [
+   {
+    "title": "Repetition creates a receding path",
+    "body": "The lanterns decrease in size as they descend into the image. Their repeated round forms give the flat poster a clear sense of depth."
+   },
+   {
+    "title": "A figure held against a larger system",
+    "body": "The seated woman occupies a relatively small rectangle at the lower right. The much larger lanterns and extensive black field make her stillness more conspicuous."
+   },
+   {
+    "title": "Red connects object and language",
+    "body": "The vertical title shares the lanterns’ red. Words and objects become one visual system against the dark background. The dated film is 1991; the printing date of this promotional edition is not established."
+   }
+  ],
+  "source": "https://www.bfi.org.uk/film/d4bb41b5-d42a-5555-8430-d875e297d329/raise-the-red-lantern",
+  "imageSource": "https://en.wikipedia.org/wiki/File:Raise_the_Red_Lantern_poster.jpg",
+  "imageCredit": "Copyright in the poster remains with its respective studio, distributor or artist. Low-resolution reproduction via Wikipedia for visual commentary; see the image source record.",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/en/c/ca/Raise_the_Red_Lantern_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+  "anchor": [
+   0.22,
+   0.39
+  ],
+  "accent": "#b43122",
+  "yearNote": "Year refers to the film’s first release; the poster edition is identified separately.",
+  "credit": "Copyright in the poster remains with its respective studio, distributor or artist. Low-resolution reproduction via Wikipedia for visual commentary; see the image source record.",
+  "countries": [
+   "China",
+   "Hong Kong",
+   "Taiwan"
+  ],
+  "primaryOrigin": "China",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/raise-the-red-lantern.webp"
+ },
+ "studyData": {
+  "intro": "A large glowing lantern begins a descending sequence beside a still seated figure. The red title connects object and language, while a yellow announcement band and fine copy reveal that this is a promotional sheet, not simply a film still.",
+  "initial": "lantern",
+  "regions": [
+   {
+    "id": "lantern",
+    "label": "The nearest lantern",
+    "shortLabel": "The nearest lantern",
+    "kicker": "Look closely",
+    "summary": "A cropped red globe dominates the left.",
+    "layerIndex": 2,
+    "x": 14.091,
+    "y": 28.92,
+    "bounds": {
+     "x": 0,
+     "y": 13,
+     "w": 36,
+     "h": 35
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Light inside a contour",
+      "body": "The largest lantern is cut by the top-left edge of the picture area. Dark curved ribs divide its red surface, while a bright yellow band suggests light within. Its size and cropping make it feel close compared with the smaller lanterns below and behind it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An object larger than a person",
+      "body": "The lantern occupies more space than the seated woman’s head and torso. This unequal scale can make the object seem structurally important to the image. It does not, on its own, explain the film’s rules or establish a universal meaning for red lanterns.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does cropping the lantern change its apparent distance from you?",
+    "related": [
+     "repetition",
+     "title",
+     "face"
+    ],
+    "number": 1
+   },
+   {
+    "id": "repetition",
+    "label": "Lanterns into depth",
+    "shortLabel": "Lanterns into depth",
+    "kicker": "Look closely",
+    "summary": "Repeated circles become a receding path.",
+    "layerIndex": 2,
+    "x": 29.091,
+    "y": 55.052,
+    "bounds": {
+     "x": 13,
+     "y": 42,
+     "w": 32,
+     "h": 26
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Smaller, lower, farther",
+      "body": "The lanterns decrease in size as they descend towards the middle of the sheet. Their glowing centres and dark ribs repeat, making them recognisable as a group. The changing scale supplies a clear depth cue within an otherwise very dark, shallow-looking composition.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Repetition can suggest a system",
+      "body": "A sequence of similar objects can be read as an ordered environment rather than one decorative prop. Here the lanterns form a path that leads away from the nearest globe. Compare that repeated rhythm with the single seated figure on the opposite side.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What makes the lanterns feel like a sequence rather than a pile?",
+    "related": [
+     "lantern",
+     "figure",
+     "dark"
+    ],
+    "number": 2
+   },
+   {
+    "id": "ribs",
+    "label": "The lantern’s dark ribs",
+    "shortLabel": "The lantern’s dark ribs",
+    "kicker": "Look closely",
+    "summary": "Thin dark curves organise the glow.",
+    "layerIndex": 2,
+    "x": 28.182,
+    "y": 40.07,
+    "bounds": {
+     "x": 3,
+     "y": 25,
+     "w": 29,
+     "h": 18
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Light divided into segments",
+      "body": "Dark curved lines run over the bright surface of the nearest lantern. They describe its rounded volume and interrupt the red-yellow glow. Without those lines, the shape would be closer to a flat coloured disk; with them, its construction and curvature become easier to read.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A small structure echoes a large one",
+      "body": "The ribs offer a measured rhythm inside the object, while the full lantern sequence repeats outside it. These are two scales of organisation. Comparing them can reveal how detail supports the poster’s overall pattern without needing a separate explanatory caption.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the lantern change if you imagine its ribs removed?",
+    "related": [
+     "lantern",
+     "repetition",
+     "chair"
+    ],
+    "number": 3
+   },
+   {
+    "id": "figure",
+    "label": "The seated silhouette",
+    "shortLabel": "The seated silhouette",
+    "kicker": "Look closely",
+    "summary": "A still body balances the moving sequence.",
+    "layerIndex": 3,
+    "x": 69.545,
+    "y": 71.08,
+    "bounds": {
+     "x": 47,
+     "y": 49,
+     "w": 45,
+     "h": 44
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A compact figure at right",
+      "body": "The woman sits in the lower-right portion, with dark clothing, pale face and visible hands. Her body remains compact within the chair area. The figure is much less expansive than the lantern sequence, which occupies the opposite side and seems to recede into the dark field.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Stillness beside repetition",
+      "body": "The contrast can suggest a person held within an ordered setting, but that is a visual reading rather than a proven emotion. Describe the posture and surrounding space before deciding whether it feels formal, constrained, calm or isolated to you.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which visible feature most strongly creates the impression of stillness?",
+    "related": [
+     "face",
+     "hands",
+     "repetition"
+    ],
+    "number": 4
+   },
+   {
+    "id": "face",
+    "label": "A pale face in darkness",
+    "shortLabel": "A pale face in darkness",
+    "kicker": "Look closely",
+    "summary": "A small light area becomes a focal point.",
+    "layerIndex": 3,
+    "x": 74.091,
+    "y": 57.491,
+    "bounds": {
+     "x": 65,
+     "y": 49,
+     "w": 18,
+     "h": 17
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Brightness without size",
+      "body": "The face is small compared with the lantern, yet its pale tone separates it sharply from the dark hair and clothing. The head tilts slightly, with the gaze directed sideways. Its visibility depends on local contrast rather than on occupying a large part of the sheet.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A checked film identity",
+      "body": "The BFI identifies Raise the Red Lantern as a 1991 film directed by Zhang Yimou and lists Gong Li among its performers. This supports the film context. The record does not authenticate the printing date or identify the designer of this particular promotional image.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "bfi"
+       }
+      ]
+     }
+    ],
+    "question": "Why is the face easy to locate despite being much smaller than the lantern?",
+    "related": [
+     "figure",
+     "lantern",
+     "yellow"
+    ],
+    "number": 5
+   },
+   {
+    "id": "hands",
+    "label": "Hands in the lap",
+    "shortLabel": "Hands in the lap",
+    "kicker": "Look closely",
+    "summary": "A quieter gesture sits below the face.",
+    "layerIndex": 3,
+    "x": 74.545,
+    "y": 79.094,
+    "bounds": {
+     "x": 66,
+     "y": 73,
+     "w": 17,
+     "h": 12
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A small pale interruption",
+      "body": "A hand rests near the lap, appearing as a pale shape against the dark garment. It is less prominent than the face but gives the seated body a specific gesture. The posture is contained, with no broad arm movement reaching into the surrounding field.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A second point of human scale",
+      "body": "Moving attention from the face to the hand slows the reading. The lantern sequence encourages a broad sweep, while this small gesture asks for close inspection. The poster can therefore support different tempos of looking within one limited image.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does looking at the hand change how you read the seated posture?",
+    "related": [
+     "figure",
+     "face",
+     "chair"
+    ],
+    "number": 6
+   },
+   {
+    "id": "chair",
+    "label": "The chair’s repeating details",
+    "shortLabel": "The chair’s repeating details",
+    "kicker": "Look closely",
+    "summary": "A patterned support outlines the body.",
+    "layerIndex": 3,
+    "x": 86.364,
+    "y": 73.171,
+    "bounds": {
+     "x": 79,
+     "y": 58,
+     "w": 15,
+     "h": 30
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A narrow textured edge",
+      "body": "The chair’s back and side create a narrow patterned area beside the woman. Small repeated light marks distinguish it from her darker clothing. This detail helps separate figure and furnishing, particularly where both occupy a compressed, dim rectangle at the lower right.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Structure around the body",
+      "body": "The chair provides straight and repeated elements beside the softer contours of the person. Compare this local enclosure with the lantern’s ribs. Both use repeated marks to organise a form, but one surrounds a body and the other describes a glowing object.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does the figure end and the chair begin?",
+    "related": [
+     "hands",
+     "figure",
+     "ribs"
+    ],
+    "number": 7
+   },
+   {
+    "id": "title",
+    "label": "The vertical red title",
+    "shortLabel": "The vertical red title",
+    "kicker": "Words and meaning",
+    "summary": "Words share the lanterns’ colour.",
+    "layerIndex": 4,
+    "x": 50.909,
+    "y": 55.401,
+    "bounds": {
+     "x": 45,
+     "y": 31,
+     "w": 12,
+     "h": 49
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Raise the Red Lantern",
+      "body": "The vertical title 大红灯笼高高挂 can be rendered as “Hang the big red lanterns high.” It identifies the film known in English as Raise the Red Lantern. The red characters descend between the lanterns and figure, using the same broad colour family as the glowing objects.",
+      "evidence": "observation",
+      "originalText": "大红灯笼高高挂",
+      "lang": "zh-Hans",
+      "translation": "Hang the big red lanterns high"
+     },
+     {
+      "kind": "design",
+      "heading": "A hinge between image areas",
+      "body": "The title forms a narrow upright between two unequal visual groups. It links the red lanterns with the otherwise quieter figure area without adding another photograph. Cover the title and the gap becomes darker and less clearly divided into a reading path.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the red title connect the lanterns to the right-hand figure?",
+    "related": [
+     "lantern",
+     "figure",
+     "copy"
+    ],
+    "number": 8
+   },
+   {
+    "id": "yellow",
+    "label": "The yellow announcement band",
+    "shortLabel": "The yellow announcement band",
+    "kicker": "Look closely",
+    "summary": "A bright strip gives the upper words priority.",
+    "layerIndex": 1,
+    "x": 50,
+    "y": 6.969,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 100,
+     "h": 14
+    },
+    "tags": [
+     "business",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "A separate voice at the top",
+      "body": "A yellow band spans the full width above the main picture. Dark Chinese copy sits within it, clearly separated from the dimmer red and pale lines below. Its colour and rectangular edge give the announcement a distinct promotional voice before the viewer enters the image.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "A partial transcript is safer",
+      "body": "The band contains more wording than can be securely reproduced from this small image. Its layout and contrast are clear, but a full translation would need a better source. Treating it as promotional copy does not justify guessing a quotation, endorsement or exact claim.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What makes this band feel different from the title running down the centre?",
+    "related": [
+     "title",
+     "copy",
+     "face"
+    ],
+    "number": 9
+   },
+   {
+    "id": "copy",
+    "label": "Small red and pale copy",
+    "shortLabel": "Small red and pale copy",
+    "kicker": "Words and meaning",
+    "summary": "Information gathers in the dark intervals.",
+    "layerIndex": 5,
+    "x": 78.182,
+    "y": 33.449,
+    "bounds": {
+     "x": 58,
+     "y": 15,
+     "w": 40,
+     "h": 33
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Several levels of text",
+      "body": "Small pale lines appear above a denser red block at the upper right, with another red block lower left. Their size and subdued contrast distinguish them from the title. They occupy intervals around the main objects rather than forming one conventional bottom credit strip.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Promotion beyond identification",
+      "body": "The title names the film, while these smaller blocks evidently carry additional information. At this resolution their full content remains unresolved. A useful reading can still compare their placement and hierarchy without inventing awards, synopsis details or release instructions that cannot be securely read.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which small text block is easiest to notice, and what gives it that advantage?",
+    "related": [
+     "yellow",
+     "title",
+     "dark"
+    ],
+    "number": 10
+   },
+   {
+    "id": "dark",
+    "label": "The dark central field",
+    "shortLabel": "The dark central field",
+    "kicker": "Look closely",
+    "summary": "Unfilled space separates object and person.",
+    "layerIndex": 0,
+    "x": 40,
+    "y": 79.443,
+    "bounds": {
+     "x": 34,
+     "y": 66,
+     "w": 12,
+     "h": 27
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A dark interval",
+      "body": "A broad dark area surrounds the lower lanterns and separates parts of the image and copy. It is not simply an absent background: it gives the red and pale elements sharply different levels of visibility. Some shapes emerge clearly, while others remain submerged in the low contrast.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Visibility becomes selective",
+      "body": "The image lets the lantern glow and face remain legible while much of the setting recedes. That selective visibility can create atmosphere without showing a complete room. The black field does not by itself establish a literal nighttime scene or the person’s emotional state.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which elements would lose emphasis if the background were much lighter?",
+    "related": [
+     "lantern",
+     "face",
+     "copy"
+    ],
+    "number": 11
+   }
+  ],
+  "sources": [
+   {
+    "id": "bfi",
+    "title": "BFI: Raise the Red Lantern",
+    "url": "https://www.bfi.org.uk/film/d4bb41b5-d42a-5555-8430-d875e297d329/raise-the-red-lantern",
+    "kind": "Primary source",
+    "summary": "Verifies the 1991 film, Zhang Yimou’s direction and principal cast. Does not establish the printing date or promotional claims of this edition."
+   }
+  ],
+  "tour": [
+   "lantern",
+   "repetition",
+   "figure",
+   "face",
+   "title",
+   "yellow"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected wording on this edition",
+    "rows": [
+     {
+      "text": "大红灯笼高高挂",
+      "meaning": "Hang the big red lanterns high; English release title: Raise the Red Lantern",
+      "lang": "zh-Hans"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Only the large film title is transcribed. The yellow-band wording and small red/pale copy need a higher-resolution source for a reliable complete transcription. The promotional edition’s printing date remains unverified.",
+  "palette": [
+   {
+    "name": "Lantern red",
+    "hex": "#d32b10",
+    "role": "A cropped red globe dominates the left.",
+    "region": "lantern"
+   },
+   {
+    "name": "Yellow band",
+    "hex": "#f2b24e",
+    "role": "A bright strip gives the upper words priority.",
+    "region": "yellow"
+   },
+   {
+    "name": "Dark field",
+    "hex": "#070302",
+    "role": "Unfilled space separates object and person.",
+    "region": "dark"
+   },
+   {
+    "name": "Face highlight",
+    "hex": "#d6b19e",
+    "role": "A small light area becomes a focal point.",
+    "region": "face"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in this installed reproduction. They describe this image, not original printing inks or a colour standard.",
+  "connections": [
+   {
+    "label": "A descending sequence",
+    "title": "Lanterns make depth through scale",
+    "text": "The lanterns become smaller as they descend. The red vertical title repeats their direction while holding a steady character size.",
+    "anchors": [
+     [
+      2,
+      0.17045454545454544,
+      0.3397212543554007
+     ],
+     [
+      4,
+      0.5113636363636364,
+      0.5836236933797909
+     ]
+    ],
+    "id": "raise-the-red-lantern-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Two kinds of weight",
+    "title": "A bright chain balances a dark figure",
+    "text": "The red lantern chain occupies the left side while the subdued seated figure anchors the lower right. The dark interval between them leaves the vertical title clearly visible.",
+    "anchors": [
+     [
+      2,
+      0.20227272727272727,
+      0.43031358885017423
+     ],
+     [
+      3,
+      0.7431818181818182,
+      0.740418118466899
+     ]
+    ],
+    "id": "raise-the-red-lantern-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

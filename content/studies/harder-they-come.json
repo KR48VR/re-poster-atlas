@@ -1,0 +1,664 @@
+{
+ "poster": {
+  "id": "harder-they-come",
+  "title": "The Harder They Come",
+  "year": "1972",
+  "yearNumber": 1972,
+  "creator": "Poster artist uncredited",
+  "country": "Jamaica",
+  "countries": [
+   "Jamaica"
+  ],
+  "region": "Latin America & Caribbean",
+  "category": "Film",
+  "filmCreator": "Perry Henzell",
+  "edition": "1973 U.S. Style A theatrical one-sheet, New World Pictures",
+  "image": "images/full/harder-they-come.jpg",
+  "ratio": 0.6683333333333333,
+  "alt": "Illustrated Harder They Come poster: Jimmy Cliff in sunglasses, a red shirt and green flared trousers holds two guns, surrounded by music and action scenes, with a stack of records at right.",
+  "blurb": "A flared silhouette strides through an illustrated collision of music, action and lettering.",
+  "notes": [
+   {
+    "title": "A figure that crosses the layout",
+    "body": "The central figure stretches from a raised gun near the top to flared trousers near the bottom. The wide pose bridges the smaller vignettes around him."
+   },
+   {
+    "title": "Music takes physical shape",
+    "body": "A tall stack of records rises at the right, with concentric edges repeating down its side. Music becomes an object large enough to balance the central body."
+   },
+   {
+    "title": "The title moves around the legs",
+    "body": "Heavy black outlined words occupy separate blocks across the lower sheet. Their staggered arrangement works around the figure instead of forming one straight caption."
+   }
+  ],
+  "source": "https://www.bfi.org.uk/film/f1aa1035-2202-5bda-8e24-6a25934bf33e/the-harder-they-come",
+  "credit": "Poster bears a 1973 New World Pictures copyright line. Photograph via Posteritati, record 12867. Reproduction rights remain with the respective rights holders.",
+  "imageCredit": "Poster bears a 1973 New World Pictures copyright line. Photograph via Posteritati, record 12867. Reproduction rights remain with the respective rights holders.",
+  "imageSource": "https://posteritati.com/poster/12867/the-harder-they-come-original-1973-us-one-sheet-movie-poster",
+  "downloadURL": "https://cdn.posteritati.com/posters/000/000/067/348/the-harder-they-come-md-web.jpg",
+  "anchor": [
+   0.525,
+   0.39
+  ],
+  "accent": "#c84b27",
+  "yearNote": "The catalogue year is the film year. The reproduced poster edition is identified separately.",
+  "reproduction": "Photograph of a 1973 U.S. one-sheet for the Jamaican film released in 1972. The paper edges and printed frame remain visible. This is not the distinct 1977 British poster associated with artist John Bryant.",
+  "posterDateStatus": "1973 U.S. poster; film year 1972.",
+  "posterYear": "1973",
+  "posterTerritory": "United States",
+  "primaryOrigin": "Jamaica",
+  "anchorLayer": 1,
+  "thumb": "images/catalogue/harder-they-come.webp"
+ },
+ "studyData": {
+  "intro": "This US release poster builds an outsized star from music, firearms, romance and action. Its overlapping illustrations are deliberately unequal in scale; read those campaign choices critically rather than treating them as a neutral summary of Jamaica or of the film.",
+  "initial": "star",
+  "regions": [
+   {
+    "id": "frame",
+    "label": "A picture inside a sheet",
+    "shortLabel": "A picture inside a sheet",
+    "kicker": "A clear boundary with busy contents",
+    "summary": "A thin black rectangle contains the main campaign.",
+    "x": 4,
+    "y": 48,
+    "bounds": {
+     "x": 3,
+     "y": 10,
+     "w": 94,
+     "h": 80
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A clear boundary with busy contents",
+      "body": "The thin black frame separates the main illustration and type from a broad pale outer margin. Within it, words and pictures crowd close together; outside it, small production marks remain near the bottom. The quiet margin makes the interior seem even more densely packed.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A particular release object",
+      "body": "The BFI dates Perry Henzell’s Jamaican film to 1972. This selected US sheet visibly carries a 1973 copyright line, consistent with the dealer’s object record. Those dates describe different stages of circulation; this artwork should not be confused with a later British campaign by another artist.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "bfi"
+       },
+       {
+        "id": "edition"
+       }
+      ]
+     }
+    ],
+    "question": "What lies inside the frame, and what remains in the outer margin?",
+    "related": [
+     "title",
+     "billing"
+    ],
+    "number": 1
+   },
+   {
+    "id": "star",
+    "label": "The largest body",
+    "shortLabel": "The largest body",
+    "kicker": "Size makes a hierarchy",
+    "summary": "A standing figure towers over the smaller scenes.",
+    "x": 47.5,
+    "y": 50.5,
+    "bounds": {
+     "x": 25,
+     "y": 21,
+     "w": 45,
+     "h": 59
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Size makes a hierarchy",
+      "body": "The central illustrated figure stretches from near the upper slogans to the lower title. Wide trousers, a patterned shirt and a dark vest give the body several contrasting textures. A forward leg crosses the title area, while smaller scenes gather around the torso and hips.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Star billing becomes a body",
+      "body": "The large Jimmy Cliff name at left and the oversized central figure reinforce each other. The poster offers a recognizable performer as its main anchor while surrounding him with other selling points. That hierarchy is visible without proving that every illustrated scene depicts one continuous action.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which body part gives the strongest sense of scale?",
+    "related": [
+     "guns",
+     "title"
+    ],
+    "number": 2
+   },
+   {
+    "id": "guns",
+    "label": "Two directions of action",
+    "shortLabel": "Two directions of action",
+    "kicker": "Opposing diagonals",
+    "summary": "One weapon points upward and another outward.",
+    "x": 45,
+    "y": 28,
+    "bounds": {
+     "x": 24,
+     "y": 12,
+     "w": 42,
+     "h": 32
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Opposing diagonals",
+      "body": "The raised arm carries a handgun toward the top, with a pale orange burst beyond it. The other arm extends left with a second weapon. These two diagonals widen the figure’s reach far beyond the narrow torso and connect it to the surrounding promotional wording.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "Words amplify the pose",
+      "body": "The black slogan above the figure uses slang and a confrontational rhythm. Read alongside the firearms, it frames the star through force and defiance. This is the campaign’s rhetoric, not a neutral endorsement of violence or a complete account of the character’s motives.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How do the two arms divide your attention across the page?",
+    "related": [
+     "slogans",
+     "star"
+    ],
+    "number": 3
+   },
+   {
+    "id": "singer",
+    "label": "A smaller performing figure",
+    "shortLabel": "A smaller performing figure",
+    "kicker": "A different action at a smaller scale",
+    "summary": "A microphone scene appears behind the main body.",
+    "x": 34.5,
+    "y": 40.5,
+    "bounds": {
+     "x": 23,
+     "y": 29,
+     "w": 23,
+     "h": 23
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A different action at a smaller scale",
+      "body": "A light-clothed figure at left raises a hand near a microphone, with a curved cable descending beside the body. This smaller image overlaps the central arm and remains partly obscured. It introduces a performance setting through a few recognizable objects and gestures.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Music beside action",
+      "body": "The microphone scene supplies a music-related promise beside the firearms. Its smaller scale makes it supporting evidence in the campaign rather than the first thing a viewer sees. Comparing those sizes is a way to discuss how a distributor can emphasize some aspects of a film over others.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What shows performance here even when the face is too small to identify?",
+    "related": [
+     "records",
+     "soundtrack"
+    ],
+    "number": 4
+   },
+   {
+    "id": "kiss",
+    "label": "An intimate inset",
+    "shortLabel": "An intimate inset",
+    "kicker": "A rounded cluster of faces",
+    "summary": "Two faces meet above the records.",
+    "x": 69.5,
+    "y": 39.5,
+    "bounds": {
+     "x": 59,
+     "y": 33,
+     "w": 21,
+     "h": 13
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A rounded cluster of faces",
+      "body": "The kissing pair forms a small, rounded cluster on the right. Light skin and clothing tones separate their faces from the darker records below. The image is not enclosed in a formal panel; soft, irregular edges let it sit within the surrounding pale ground.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A critical look at the pitch",
+      "body": "The red slogan next to this scene links women and chart success as measures of the man’s conquest. That framing belongs to the historical advertisement and can be questioned. The study need not repeat its assumptions as facts about relationships, women or the film’s value.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the scale of this scene compare with the slogan beside it?",
+    "related": [
+     "slogans",
+     "records"
+    ],
+    "number": 5
+   },
+   {
+    "id": "records",
+    "label": "A stack of oversized records",
+    "shortLabel": "A stack of oversized records",
+    "kicker": "Circles seen at an angle",
+    "summary": "Dark ellipses become a second stage.",
+    "x": 68,
+    "y": 55,
+    "bounds": {
+     "x": 51,
+     "y": 43,
+     "w": 34,
+     "h": 24
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Circles seen at an angle",
+      "body": "Several dark discs overlap on the right, their rims forming repeated ellipses. A pale record label interrupts the largest dark surface. The discs are far larger than they would be beside a human body in a naturalistic scene, announcing the poster’s montage logic.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A product within the picture",
+      "body": "The records turn recorded music into a visible object, not just an abstract theme. Together with the soundtrack notice, they create a bridge between watching a film and listening to its music. The poster demonstrates that cross-promotion without establishing any sales figures or commercial outcome.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which curves make the records look stacked rather than flat?",
+    "related": [
+     "soundtrack",
+     "singer"
+    ],
+    "number": 6
+   },
+   {
+    "id": "record-figure",
+    "label": "A person on the record stack",
+    "shortLabel": "A person on the record stack",
+    "kicker": "A miniature human anchor",
+    "summary": "A small seated figure shares space with giant discs.",
+    "x": 74,
+    "y": 53.5,
+    "bounds": {
+     "x": 67,
+     "y": 45,
+     "w": 14,
+     "h": 17
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A miniature human anchor",
+      "body": "The seated figure overlaps the records, with pale clothing and skin standing out against dark vinyl. The body is small relative to both the central star and the discs. Its position helps the record stack read as a distinct visual episode rather than a plain black shape.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Montage is not geography",
+      "body": "This combination asks the viewer to move between separate ideas rather than reconstruct a believable room. The mismatched scales are a visible clue. Treating the figure as literally sitting on enormous records would miss the image’s graphic structure and add an unnecessary narrative claim.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What tells you that the scales here are deliberately incompatible?",
+    "related": [
+     "records",
+     "star"
+    ],
+    "number": 7
+   },
+   {
+    "id": "motorcycle",
+    "label": "A small burst of road action",
+    "shortLabel": "A small burst of road action",
+    "kicker": "Motion in a crowded corner",
+    "summary": "A rider and vehicle occupy the lower-left gap.",
+    "x": 31,
+    "y": 57,
+    "bounds": {
+     "x": 18,
+     "y": 50,
+     "w": 26,
+     "h": 14
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Motion in a crowded corner",
+      "body": "The motorcycle scene uses small red accents, pale wheels and angled mechanical lines. It sits between the large star name and the central figure’s leg. The scene is much denser in detail than its size suggests, so its general action is clearer than every individual part.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A third scale of information",
+      "body": "This inset rewards closer viewing after the main figure and title have registered. Its compressed scale also makes it easy to overlook. Comparing it with the microphone and kissing scenes reveals how the poster packs several narrative promises into the spaces around one dominant body.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which red and pale shapes help you locate the motorcycle first?",
+    "related": [
+     "singer",
+     "title"
+    ],
+    "number": 8
+   },
+   {
+    "id": "title",
+    "label": "A title that steps downward",
+    "shortLabel": "A title that steps downward",
+    "kicker": "Words arranged as steps",
+    "summary": "Huge outlined words bend around the figure.",
+    "x": 50.5,
+    "y": 72,
+    "bounds": {
+     "x": 5,
+     "y": 59,
+     "w": 91,
+     "h": 26
+    },
+    "layerIndex": 4,
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Words arranged as steps",
+      "body": "The title begins at left, expands into a very large HARDER, then continues across the lower right. Tall dark capitals with pale internal outlines keep the letters distinct from the figure crossing them. The line breaks produce a stepped route rather than one centred block.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Typography makes room for a body",
+      "body": "The lettering and the forward leg compete for the same space. Instead of isolating the illustration above the title, this layout interlocks them. Covering the figure reveals an unusual title shape; covering the words reveals how much the body depends on them for its lower frame.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does the title force you to change reading direction?",
+    "related": [
+     "star",
+     "frame"
+    ],
+    "number": 9
+   },
+   {
+    "id": "slogans",
+    "label": "Two forceful sales voices",
+    "shortLabel": "Two forceful sales voices",
+    "kicker": "Colour separates the pitches",
+    "summary": "Black and red copy fill the upper corners.",
+    "x": 56,
+    "y": 28.5,
+    "bounds": {
+     "x": 20,
+     "y": 13,
+     "w": 72,
+     "h": 31
+    },
+    "layerIndex": 5,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Colour separates the pitches",
+      "body": "The left slogan is heavy black and divided into several short lines. The right slogan is red, narrower and even more vertically stacked. Their different colour and placement separate two claims, while both remain much bolder than the production credits below.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Claims are part of the evidence",
+      "body": "These slogans are evidence of how this release was advertised. They are not reliable summaries of every character or an objective measure of the film. Reading their verbs and implied power relations is part of studying the poster, especially when the language is boastful or sexist.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which words describe the film, and which try to persuade you about the hero?",
+    "related": [
+     "guns",
+     "kiss"
+    ],
+    "number": 10
+   },
+   {
+    "id": "soundtrack",
+    "label": "A second invitation",
+    "shortLabel": "A second invitation",
+    "kicker": "A box within the frame",
+    "summary": "A small red box promotes the music.",
+    "x": 21.5,
+    "y": 80.5,
+    "bounds": {
+     "x": 6,
+     "y": 79,
+     "w": 31,
+     "h": 3
+    },
+    "layerIndex": 5,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A box within the frame",
+      "body": "The soundtrack notice sits in a thin red rectangle near the lower left. Its small capitals and regular alignment make it more orderly than the large title beside it. The box gives this secondary message a boundary so it remains visible in a crowded area.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Listening as another action",
+      "body": "The notice directs attention to the soundtrack and names a record label. It gives the poster another practical purpose beyond film identification. Because the words are part of the historical sheet, they should be read as contemporary campaign material, not as a current offer to buy a particular release.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does this invitation differ from the main film title?",
+    "related": [
+     "records",
+     "billing"
+    ],
+    "number": 11
+   },
+   {
+    "id": "billing",
+    "label": "Names at the bottom",
+    "shortLabel": "Names at the bottom",
+    "kicker": "Several kinds of credit",
+    "summary": "Production credits close the interior composition.",
+    "x": 51,
+    "y": 86.5,
+    "bounds": {
+     "x": 6,
+     "y": 84,
+     "w": 90,
+     "h": 5
+    },
+    "layerIndex": 5,
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Several kinds of credit",
+      "body": "The lower block gives supporting performers in a larger line and production roles in smaller lettering beneath. Red and black separate parts of the information. This hierarchy differs from the large star name at left, making distinctions among headline billing, supporting cast and filmmaking credits visible.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A verified filmmaking record",
+      "body": "The BFI credits Perry Henzell as director and producer, and Henzell with Trevor D. Rhone as writers; it lists Jimmy Cliff, Janet Bartley and Carl Bradshaw among the performers. These are film credits, not evidence of who illustrated the US poster, whose artist remains unconfirmed here.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "bfi"
+       }
+      ]
+     }
+    ],
+    "question": "Which names are large enough to read before the smallest production line?",
+    "related": [
+     "star",
+     "soundtrack"
+    ],
+    "number": 12
+   }
+  ],
+  "sources": [
+   {
+    "id": "bfi",
+    "title": "BFI: The Harder They Come",
+    "url": "https://www.bfi.org.uk/film/f1aa1035-2202-5bda-8e24-6a25934bf33e/the-harder-they-come",
+    "kind": "Film institute",
+    "summary": "Verifies the 1972 Jamaican film, Henzell/Rhone credits and principal performers."
+   },
+   {
+    "id": "edition",
+    "title": "Posteritati: 1973 US Style A sheet",
+    "url": "https://posteritati.com/poster/12867/the-harder-they-come-original-1973-us-one-sheet-movie-poster",
+    "kind": "Dealer object record",
+    "summary": "Identifies the pictured US Style A one-sheet, consistent with the visible 1973 copyright; does not establish an illustrator."
+   }
+  ],
+  "tour": [
+   "star",
+   "guns",
+   "singer",
+   "records",
+   "slogans",
+   "title"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected readable wording",
+    "rows": [
+     {
+      "text": "THE HARDER THEY COME",
+      "meaning": "Film title.",
+      "lang": "en"
+     },
+     {
+      "text": "JIMMY CLIFF",
+      "meaning": "Headline performer credit.",
+      "lang": "en"
+     },
+     {
+      "text": "HEAR THE SUPER-REGGAE SOUNDTRACK ON MANGO RECORDS",
+      "meaning": "Historical soundtrack promotion.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "This is a partial transcript of securely readable wording in the installed reproduction. Small credits, logos and review attributions are not fully transcribed; enlargement cannot restore missing source detail.",
+  "palette": [
+   {
+    "name": "Paper pale",
+    "hex": "#EBE6E2",
+    "role": "The open field around the montage.",
+    "region": "frame"
+   },
+   {
+    "name": "Slogan red",
+    "hex": "#BC362B",
+    "role": "A second promotional voice.",
+    "region": "slogans"
+   },
+   {
+    "name": "Record dark",
+    "hex": "#2E1116",
+    "role": "A dense music-related mass.",
+    "region": "records"
+   },
+   {
+    "name": "Trouser grey-green",
+    "hex": "#606058",
+    "role": "The long central body shape.",
+    "region": "star"
+   }
+  ],
+  "paletteNote": "These are individual screen-pixel samples from the installed digital reproduction, not specifications for the original inks or paper. Texture, lighting, scanning and screen settings affect their appearance.",
+  "connections": [
+   {
+    "label": "Figure breaks the type",
+    "title": "A stride crosses a stepped title",
+    "text": "The central figure’s long legs cross the low title lettering. The line break in the title leaves room for this vertical movement.",
+    "anchors": [
+     [
+      1,
+      0.6165835411471322,
+      0.6929166666666666
+     ],
+     [
+      4,
+      0.53428927680798,
+      0.7929166666666667
+     ]
+    ],
+    "id": "harder-they-come-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Music and action",
+    "title": "Round records beside a long figure",
+    "text": "The dark circular record stack balances the tall central figure. Its rounded edges contrast with the guns, legs and block lettering around it.",
+    "anchors": [
+     [
+      2,
+      0.736284289276808,
+      0.59625
+     ],
+     [
+      4,
+      0.24750623441396508,
+      0.6879166666666666
+     ]
+    ],
+    "id": "harder-they-come-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

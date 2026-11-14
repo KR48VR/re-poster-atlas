@@ -1,0 +1,671 @@
+{
+ "poster": {
+  "id": "bicycle-thieves",
+  "title": "Bicycle Thieves",
+  "year": "1948",
+  "yearNumber": 1948,
+  "country": "Italy",
+  "region": "Europe",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Vittorio De Sica",
+  "edition": "Italian-language theatrical poster",
+  "alt": "A painted Bicycle Thieves poster with a large serious man in a brown jacket, a small boy at his side, a street scene and a red title.",
+  "blurb": "A father’s face carries the scale of a city, while a small boy gives the composition its emotional counterweight.",
+  "notes": [
+   {
+    "title": "Two different scales of attention",
+    "body": "The father occupies the foreground, but the boy’s upward glance redirects attention between them. Their unequal sizes establish a relationship before a story is read."
+   },
+   {
+    "title": "A city kept behind the face",
+    "body": "Pale architecture and smaller street figures recede behind the portrait. The setting remains visible without competing with the large, sombre features."
+   },
+   {
+    "title": "Red interrupts the earth colours",
+    "body": "The bright title breaks through the muted browns and greys. The red bicycle in the smaller street scene repeats that accent at a different scale."
+   }
+  ],
+  "source": "https://www.criterion.com/films/210-bicycle-thieves",
+  "imageCredit": "Italian theatrical poster; artist uncredited in the consulted source. Reproduction via Wikipedia; copyright remains with the respective rights holders.",
+  "anchor": [
+   0.51,
+   0.35
+  ],
+  "accent": "#aa3e34",
+  "category": "Film",
+  "image": "images/full/bicycle-thieves.jpg",
+  "imageSource": "https://en.wikipedia.org/wiki/File:Ladri3.jpg",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/en/2/20/Ladri3.jpg",
+  "ratio": 0.694006,
+  "imageWidth": 220,
+  "imageHeight": 317,
+  "credit": "Italian theatrical poster; artist uncredited in the consulted source. Reproduction via Wikipedia; copyright remains with the respective rights holders.",
+  "countries": [
+   "Italy"
+  ],
+  "primaryOrigin": "Italy",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/bicycle-thieves.webp"
+ },
+ "studyData": {
+  "intro": "A father and boy occupy the near space while another figure and bicycle recede into the city. Look at the differences in height, colour and detail before connecting them to the film’s documented premise.",
+  "initial": "father-face",
+  "regions": [
+   {
+    "id": "father-face",
+    "label": "The father’s averted face",
+    "shortLabel": "The father’s averted face",
+    "kicker": "DESIGN",
+    "summary": "The large adult looks beyond the page.",
+    "layerIndex": 1,
+    "bounds": {
+     "x": 21,
+     "y": 5,
+     "w": 31,
+     "h": 23
+    },
+    "x": 35,
+    "y": 16,
+    "question": "Compare his gaze with the boy’s: where do their directions meet or diverge?",
+    "related": [
+     "boy",
+     "coat",
+     "city"
+    ],
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A face turned away",
+      "body": "The father’s head is shown in three-quarter view, with a hat brim casting a dark band above the eyes. His gaze goes left rather than meeting the viewer. The pale and dark patches on the face create more modelling than the distant architecture receives.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "The father in the film’s premise",
+      "body": "Criterion describes a father searching postwar Rome with his young son after the bicycle needed for his new job is stolen. That establishes the central relationship and the bicycle’s practical importance. It does not prove the exact thought or emotion represented in this painted facial expression.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "criterion"
+       }
+      ]
+     }
+    ],
+    "number": 1
+   },
+   {
+    "id": "coat",
+    "label": "The long ochre coat",
+    "shortLabel": "The long ochre coat",
+    "kicker": "DESIGN",
+    "summary": "One warm vertical shape gives the adult bodily weight.",
+    "layerIndex": 1,
+    "bounds": {
+     "x": 23,
+     "y": 24,
+     "w": 42,
+     "h": 51
+    },
+    "x": 48,
+    "y": 49,
+    "question": "Follow the coat’s outer edge: where does it overlap the boy and street?",
+    "related": [
+     "father-face",
+     "hand",
+     "boy"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A broad foreground mass",
+      "body": "The coat forms the largest warm-coloured shape in the picture. Its dark lapel, buttons and fold lines break up the surface while the outer silhouette remains continuous. The long vertical shape makes the father feel substantial beside the much smaller figure at his left.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Colour as a distance cue",
+      "body": "The coat is warmer and more strongly defined than much of the pale street behind it. That difference helps separate foreground from background without a hard enclosing outline everywhere. The poster’s colour is part of its painted advertisement, not evidence that the film itself was shot in colour.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 2
+   },
+   {
+    "id": "hand",
+    "label": "The lowered hand",
+    "shortLabel": "The lowered hand",
+    "kicker": "DESIGN",
+    "summary": "A small clenched-looking shape closes the adult’s vertical pose.",
+    "layerIndex": 1,
+    "bounds": {
+     "x": 39,
+     "y": 64,
+     "w": 20,
+     "h": 16
+    },
+    "x": 48,
+    "y": 73,
+    "question": "How does this hand change your reading of the otherwise upright figure?",
+    "related": [
+     "coat",
+     "boy",
+     "title"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Detail at the end of a sleeve",
+      "body": "The hand hangs near the coat’s lower edge, where a dark sleeve boundary and pale skin separate it from the garment. Its compact shape contrasts with the long vertical torso. This small detail gives the figure an articulated body rather than leaving it as a broad coat silhouette.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible sign of tension",
+      "body": "The closed-looking fingers may suggest tension, but the scan is small and the pose does not establish a single emotion. Compare the hand with the face and the boy’s upward look. Any interpretation is stronger when it accounts for several visible clues instead of isolating one gesture.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 3
+   },
+   {
+    "id": "boy",
+    "label": "The boy’s upward look",
+    "shortLabel": "The boy’s upward look",
+    "kicker": "DESIGN",
+    "summary": "A smaller face points back toward the adult.",
+    "layerIndex": 2,
+    "bounds": {
+     "x": 3,
+     "y": 47,
+     "w": 24,
+     "h": 38
+    },
+    "x": 15,
+    "y": 58,
+    "question": "What changes if you cover the boy while leaving the father visible?",
+    "related": [
+     "father-face",
+     "scarf",
+     "hand"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A second viewing direction",
+      "body": "The boy is placed low at the left, with his face tilted upward. His head is much smaller than the adult’s and closer to the image edge. This sets up a visual relationship through both scale and direction, even before a reader knows the film’s story.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An unequal pair",
+      "body": "The adult looks outward while the child looks upward, so the two do not form a matched portrait. The difference can suggest dependence or attention, but those are readings of the arrangement. The visible evidence is the height difference, proximity and contrasting directions of their faces.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 4
+   },
+   {
+    "id": "scarf",
+    "label": "The boy’s red accent",
+    "shortLabel": "The boy’s red accent",
+    "kicker": "DESIGN",
+    "summary": "A small red garment detail links the figure to the title.",
+    "layerIndex": 2,
+    "bounds": {
+     "x": 5,
+     "y": 59,
+     "w": 19,
+     "h": 25
+    },
+    "x": 11,
+    "y": 73,
+    "question": "Find the other red marks on the sheet and compare their sizes.",
+    "related": [
+     "boy",
+     "title",
+     "bicycle"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A warm trace in the foreground",
+      "body": "Red clothing around the boy’s neck and chest stands out against pale skin, dark outlines and lighter ground. The area is small but saturated. It helps keep the child visible next to the larger ochre coat and repeats a colour used more forcefully in the title below.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A link across unlike forms",
+      "body": "The red garment, the distant bicycle and the title differ in subject and scale, yet their colour gives the eye a route between them. This is a compositional connection, not proof of a symbolic code. Test it by comparing the poster in grayscale.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 5
+   },
+   {
+    "id": "distant-man",
+    "label": "The receding figure",
+    "shortLabel": "The receding figure",
+    "kicker": "DESIGN",
+    "summary": "A smaller back view supplies another direction of movement.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 57,
+     "y": 19,
+     "w": 23,
+     "h": 37
+    },
+    "x": 66,
+    "y": 34,
+    "question": "What makes this figure feel farther away than the father?",
+    "related": [
+     "bicycle",
+     "city",
+     "father-face"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A body seen from behind",
+      "body": "The smaller figure faces into the scene with a dark head and back, while the legs step through a paler area. Less facial information and a smaller scale distinguish this figure from the foreground portraits. The back view also directs attention into the city rather than out of the sheet.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A story left incomplete",
+      "body": "The figure’s proximity to the bicycle invites a narrative connection, but the poster alone does not securely name the person or depict an entire event. Holding that uncertainty leaves room to study the useful visible relationship: a receding human shape beside the object named by the title.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 6
+   },
+   {
+    "id": "bicycle",
+    "label": "The small red bicycle",
+    "shortLabel": "The small red bicycle",
+    "kicker": "DESIGN",
+    "summary": "A few thin lines describe the crucial object.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 70,
+     "y": 34,
+     "w": 15,
+     "h": 24
+    },
+    "x": 79,
+    "y": 45,
+    "question": "How does the bicycle remain recognisable with so little solid area?",
+    "related": [
+     "distant-man",
+     "title",
+     "scarf"
+    ],
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An object drawn mostly with lines",
+      "body": "The bicycle is far smaller than either foreground figure. Thin red frame lines and pale wheel curves identify it without making it a heavy block. That openness allows the city’s light ground to remain visible through the object, reinforcing its place in the receding scene.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A practical object, not just a symbol",
+      "body": "Criterion’s synopsis explains that the bicycle is needed for the father’s work and that its theft starts the search. That documented premise gives the small object narrative weight. The source does not identify the particular distant figure in this poster or explain the designer’s intention.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "criterion"
+       }
+      ]
+     }
+    ],
+    "number": 7
+   },
+   {
+    "id": "city",
+    "label": "The pale painted city",
+    "shortLabel": "The pale painted city",
+    "kicker": "DESIGN",
+    "summary": "Loose architecture establishes setting without overtaking the pair.",
+    "layerIndex": 0,
+    "bounds": {
+     "x": 3,
+     "y": 3,
+     "w": 82,
+     "h": 44
+    },
+    "x": 74,
+    "y": 12,
+    "question": "Which building edges are clear, and which dissolve into colour?",
+    "related": [
+     "distant-man",
+     "father-face",
+     "ground"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Detail decreases with distance",
+      "body": "Buildings, openings and a distant skyline are suggested with relatively loose patches of colour. Some edges are firm, while others merge into light ground. Compared with the foreground coat and faces, this setting is less tightly defined, leaving the main figures dominant.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A city without a map",
+      "body": "The painted setting offers an urban atmosphere rather than enough detail to identify an exact walking route. The film’s Rome setting is documented, but these shapes should not be assigned individual landmarks without stronger evidence. Their compositional role can be examined independently of precise geography.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 8
+   },
+   {
+    "id": "title",
+    "label": "The tall red title",
+    "shortLabel": "The tall red title",
+    "kicker": "LANGUAGE",
+    "summary": "Narrow letters form a vivid horizontal band.",
+    "layerIndex": 4,
+    "bounds": {
+     "x": 3,
+     "y": 80,
+     "w": 94,
+     "h": 13
+    },
+    "x": 51,
+    "y": 87,
+    "question": "Compare the title’s red with the scarf and bicycle: which is most forceful?",
+    "related": [
+     "bicycle",
+     "scarf",
+     "director"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A plural title",
+      "body": "“Ladri di biciclette” means “Bicycle Thieves.” The plural matters: the wording is broader than naming one individual thief. The large red title can be read independently of the picture, while the small bicycle above makes its subject visible without repeating the title’s scale.",
+      "evidence": "observation",
+      "originalText": "Ladri di biciclette",
+      "lang": "it",
+      "translation": "Bicycle Thieves"
+     },
+     {
+      "kind": "design",
+      "heading": "Narrow letters, wide reach",
+      "body": "The title spans almost the full sheet in tall, compressed letters. Its strong red is much more uniform than the painted scene above. That change from shaded illustration to flat lettering gives the lower edge a clear identity and keeps the word readable across several pale background tones.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 9
+   },
+   {
+    "id": "director",
+    "label": "The filmmaker’s lower credit",
+    "shortLabel": "The filmmaker’s lower credit",
+    "kicker": "LANGUAGE",
+    "summary": "A black name grounds the bright title.",
+    "layerIndex": 5,
+    "bounds": {
+     "x": 17,
+     "y": 93,
+     "w": 80,
+     "h": 6
+    },
+    "x": 63.014,
+    "y": 95.57,
+    "question": "How does the lower line’s weight compare with the red title?",
+    "related": [
+     "title",
+     "mark",
+     "father-face"
+    ],
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A film by the named director",
+      "body": "The lower line reads “UN FILM DI VITTORIO DE SICA,” meaning a film by Vittorio De Sica. Criterion independently credits him as director and dates the film to 1948. The source’s modern home-video cover credit is not an attribution for this older illustrated poster.",
+      "evidence": "documented",
+      "originalText": "UN FILM DI VITTORIO DE SICA",
+      "lang": "it",
+      "translation": "A film by Vittorio De Sica",
+      "sources": [
+       {
+        "id": "criterion"
+       }
+      ]
+     },
+     {
+      "kind": "business",
+      "heading": "Authorship at the base",
+      "body": "The director’s name is larger and darker than the smallest production words nearby. It gives a close reader a second identifying anchor after the title. The poster therefore combines the emotional prominence of the pair with an explicit filmmaking credit, rather than relying on portraits alone.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 10
+   },
+   {
+    "id": "mark",
+    "label": "The upper-right emblem",
+    "shortLabel": "The upper-right emblem",
+    "kicker": "DESIGN",
+    "summary": "A small circular mark occupies a pale corner.",
+    "layerIndex": 5,
+    "bounds": {
+     "x": 86,
+     "y": 3,
+     "w": 12,
+     "h": 11
+    },
+    "x": 92,
+    "y": 8,
+    "question": "Why can this mark remain separate from the painted skyline?",
+    "related": [
+     "director",
+     "city",
+     "ground"
+    ],
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An emblem outside the scene",
+      "body": "The circular upper-right mark sits in a pale margin, apart from the painted buildings and figures. Its dark outline and compact letters have a different texture from the illustration. The separation makes it read as an identifying imprint rather than an object in the depicted street.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A limit worth retaining",
+      "body": "The mark is visible, but the installed 220-by-317-pixel file does not support a confident account of every fine character around it. The study therefore records its placement and function as an imprint without expanding it into an unverified distributor history or exact printing date.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 11
+   },
+   {
+    "id": "ground",
+    "label": "The light space at right",
+    "shortLabel": "The light space at right",
+    "kicker": "DESIGN",
+    "summary": "A pale interval opens the crowded composition.",
+    "layerIndex": 0,
+    "bounds": {
+     "x": 66,
+     "y": 60,
+     "w": 32,
+     "h": 20
+    },
+    "x": 84,
+    "y": 71,
+    "question": "What would happen if the right-hand space were as dark as the coat?",
+    "related": [
+     "city",
+     "mark",
+     "title"
+    ],
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A resting place beside the figures",
+      "body": "The right side below the bicycle is comparatively pale, with only a few loose street marks. This open interval lets the father’s outline remain distinct and prevents the upper illustration from becoming an evenly filled surface. It also provides a quiet background for the red title’s approach.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Colour in a black-and-white film advertisement",
+      "body": "Criterion records Bicycle Thieves as a black-and-white film. This poster’s ochres, reds and pale washes belong to the advertisement’s visual treatment. Comparing the two reminds us that a poster can interpret a film’s world without reproducing the film’s own colour conditions.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "criterion"
+       }
+      ]
+     }
+    ],
+    "number": 12
+   }
+  ],
+  "sources": [
+   {
+    "id": "criterion",
+    "title": "Criterion: Bicycle Thieves",
+    "url": "https://www.criterion.com/films/210-bicycle-thieves",
+    "kind": "Film distributor record",
+    "summary": "Supports De Sica, 1948, Italian black-and-white film, postwar Rome setting and the father/son search for the bicycle needed for work; does not attribute this poster."
+   }
+  ],
+  "tour": [
+   "father-face",
+   "boy",
+   "coat",
+   "distant-man",
+   "bicycle",
+   "title",
+   "director"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "Ladri di biciclette",
+      "meaning": "Bicycle Thieves",
+      "lang": "it"
+     },
+     {
+      "text": "UN FILM DI VITTORIO DE SICA",
+      "meaning": "A film by Vittorio De Sica",
+      "lang": "it"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "The Italian title and major director credit are readable. Fine production and emblem wording is not fully transcribed at 220 by 317 pixels. The poster artist and exact impression date remain unverified; the modern Criterion cover attribution is not transferred to this edition.",
+  "palette": [
+   {
+    "name": "Coat ochre",
+    "hex": "#bd8e34",
+    "role": "Largest warm foreground form",
+    "region": "coat"
+   },
+   {
+    "name": "Title red",
+    "hex": "#f21413",
+    "role": "Flat lettering beneath painted scene",
+    "region": "title"
+   },
+   {
+    "name": "Street cream",
+    "hex": "#fef0d6",
+    "role": "Open interval at right",
+    "region": "ground"
+   },
+   {
+    "name": "Distant gray",
+    "hex": "#a18f77",
+    "role": "Receding back-view figure",
+    "region": "distant-man"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels of the installed reproduction; these are not original ink or paper specifications.",
+  "connections": [
+   {
+    "label": "Two heights",
+    "title": "An upward glance meets a long vertical",
+    "text": "The boy’s face sits low beside the long coat and turns upward. The difference in height directs attention from the smaller figure to the taller one.",
+    "anchors": [
+     [
+      2,
+      0.18863636363636363,
+      0.5599369085173501
+     ],
+     [
+      1,
+      0.3568181818181818,
+      0.2192429022082019
+     ]
+    ],
+    "id": "bicycle-thieves-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Foreground and distance",
+    "title": "A bicycle recedes behind the figures",
+    "text": "The smaller back-turned figure and bicycle are lighter and farther up the street. They add a second scale behind the close foreground pair.",
+    "anchors": [
+     [
+      1,
+      0.5204545454545455,
+      0.5031545741324921
+     ],
+     [
+      3,
+      0.7477272727272727,
+      0.43690851735015773
+     ]
+    ],
+    "id": "bicycle-thieves-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

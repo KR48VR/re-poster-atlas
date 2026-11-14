@@ -1,0 +1,631 @@
+{
+ "poster": {
+  "id": "nord-express",
+  "title": "Nord Express",
+  "year": "1927",
+  "yearNumber": 1927,
+  "country": "France",
+  "region": "Europe",
+  "category": "Advertising",
+  "creator": "A. M. Cassandre",
+  "edition": "1927 lithographic railway advertising poster; MoMA collection, 65.1943.22.",
+  "image": "images/full/nord-express.jpg",
+  "ratio": 0.714,
+  "width": 714,
+  "height": 1000,
+  "alt": "An enormous dark locomotive seen from below cuts across a blue sky, with converging rails, wires and cream Nord Express lettering.",
+  "blurb": "A train becomes an imposing machine of speed through radical viewpoint and a web of converging lines.",
+  "notes": [
+   {
+    "title": "The viewer stands below",
+    "body": "The locomotive is cropped and enlarged until its wheels and body dominate the sheet. The low viewpoint turns ordinary transport into a monumental object."
+   },
+   {
+    "title": "Lines suggest acceleration",
+    "body": "Rails, telegraph wires and the train’s edges converge toward the distance. Their shared direction makes the static image feel pulled along a route."
+   },
+   {
+    "title": "The name belongs to the machine",
+    "body": "Geometric lettering sits against the sky like another engineered structure. Smaller place names around the border translate that image of speed into a travel network."
+   }
+  ],
+  "source": "https://www.moma.org/collection/works/105963",
+  "imageSource": "https://www.moma.org/collection/works/105963",
+  "imageCredit": "A. M. Cassandre. Artwork © Mouron A.M. Cassandre; collection image courtesy of The Museum of Modern Art, New York.",
+  "downloadURL": "https://www.moma.org/media/W1siZiIsIjU4OTE1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=e62b9b209220c8a5",
+  "accent": "#3d6278",
+  "anchor": [
+   0.46,
+   0.54
+  ],
+  "credit": "A. M. Cassandre. Artwork © Mouron A.M. Cassandre; collection image courtesy of The Museum of Modern Art, New York.",
+  "countries": [
+   "France"
+  ],
+  "primaryOrigin": "France",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/nord-express.webp"
+ },
+ "studyData": {
+  "intro": "A locomotive becomes a monument seen from below, while wires and city names make a network around it. Compare the machine’s immense scale with the very small information that identifies the journey.",
+  "initial": "engine",
+  "regions": [
+   {
+    "id": "engine",
+    "label": "The locomotive’s great diagonal",
+    "shortLabel": "The locomotive’s great diagonal",
+    "kicker": "DESIGN",
+    "summary": "An enormous dark structure cuts across the page.",
+    "layerIndex": 1,
+    "bounds": {
+     "x": 5,
+     "y": 4,
+     "w": 65,
+     "h": 64
+    },
+    "x": 31,
+    "y": 39,
+    "question": "Where would a viewer have to stand to see the machine this way?",
+    "related": [
+     "wheels",
+     "steam",
+     "wires"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A low view of a machine",
+      "body": "The locomotive fills the left side and runs diagonally from the upper-left edge toward the lower centre. Its visible surfaces are broad and simplified, with few small fittings. The absence of a comfortable full view makes the machine feel larger than the frame that contains it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Scale without a person",
+      "body": "No human figure supplies an ordinary measuring point. Instead, giant wheels, cropped surfaces and the low angle establish scale relative to the page. Calling the result monumental is a reading of those choices, not a claim about the actual dimensions or speed of a particular locomotive.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 1
+   },
+   {
+    "id": "wheels",
+    "label": "The giant wheels",
+    "shortLabel": "The giant wheels",
+    "kicker": "DESIGN",
+    "summary": "Circles are stretched and partly concealed by the viewpoint.",
+    "layerIndex": 1,
+    "bounds": {
+     "x": 5,
+     "y": 49,
+     "w": 67,
+     "h": 41
+    },
+    "x": 39,
+    "y": 76,
+    "question": "How many wheel-like curves can you follow confidently?",
+    "related": [
+     "engine",
+     "rods",
+     "sky"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Curves inside a hard machine",
+      "body": "Large curved wheel surfaces occupy the lower left and centre, with highlights fading into deep shadows. Parts are hidden behind rods and other structures. The curves keep the machine from becoming only a stack of straight diagonals, while their repetition implies mechanical organisation.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Volume from a few tones",
+      "body": "The broad light-to-dark transitions suggest rounded volume without describing every piece of hardware. Compare the wheels with the flat title above: both use simple shapes, but the wheel shading suggests depth. This difference helps separate the pictured engine from the poster’s overlaid words.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 2
+   },
+   {
+    "id": "rods",
+    "label": "The fine mechanical rods",
+    "shortLabel": "The fine mechanical rods",
+    "kicker": "DESIGN",
+    "summary": "Thin lines cross the engine’s heavy mass.",
+    "layerIndex": 1,
+    "bounds": {
+     "x": 5,
+     "y": 46,
+     "w": 61,
+     "h": 32
+    },
+    "x": 41,
+    "y": 63,
+    "question": "Find the point where several lines nearly meet: what does it organise?",
+    "related": [
+     "wheels",
+     "wires",
+     "steam"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A second scale of detail",
+      "body": "Fine pale rods cut across the darker wheels and side structure. Their repeated diagonals are much thinner than the large surfaces behind them. They give the eye a precise path through an otherwise massive shape, turning mechanical detail into part of the composition’s directional rhythm.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Lines linking distant areas",
+      "body": "These rods echo the slender lines on the right side of the sheet, even though the two groups belong to different depicted structures. Comparing their angles reveals a formal connection across the open middle. The resemblance is visible without requiring a literal physical connection between the objects.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 3
+   },
+   {
+    "id": "steam",
+    "label": "The rising pale steam",
+    "shortLabel": "The rising pale steam",
+    "kicker": "DESIGN",
+    "summary": "A soft edge runs beside the locomotive’s hard one.",
+    "layerIndex": 2,
+    "bounds": {
+     "x": 6,
+     "y": 4,
+     "w": 62,
+     "h": 60
+    },
+    "x": 44,
+    "y": 38,
+    "question": "Compare the steam’s boundary with the straight edge of the engine.",
+    "related": [
+     "engine",
+     "sky",
+     "rods"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A textured counterline",
+      "body": "A pale, irregular plume follows the engine’s long diagonal and breaks into fine grain against the blue field. Its softness contrasts with the hard machine edges. The plume is therefore both an atmospheric element and a second line reinforcing the composition’s strong upward-left direction.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Motion without blur",
+      "body": "The engine remains sharply constructed; the plume supplies the most visibly unstable texture. That contrast can suggest movement or released energy without turning the whole machine into a blur. Follow the plume from its narrow lower portion toward the more dispersed area at the top.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 4
+   },
+   {
+    "id": "wires",
+    "label": "Converging lines at right",
+    "shortLabel": "Converging lines at right",
+    "kicker": "DESIGN",
+    "summary": "Several pale lines compress toward the lower-right corner.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 70,
+     "y": 14,
+     "w": 26,
+     "h": 76
+    },
+    "x": 85.835,
+    "y": 53.954,
+    "question": "Where do the intervals between the lines become smallest?",
+    "related": [
+     "rods",
+     "engine",
+     "routes"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Distance from repeated intervals",
+      "body": "The pale lines spread widely near the top and gather tightly near the bottom right. Small repeated hanging forms also diminish as they approach that point. Their changing size and spacing establish depth in a part of the page that otherwise contains little detailed scenery.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A competing direction",
+      "body": "The line group draws the eye down and right, whereas the steam and engine tend to pull up and left. That opposition gives the page tension rather than one simple arrow of movement. Compare the two paths before deciding where your gaze naturally begins.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 5
+   },
+   {
+    "id": "title",
+    "label": "The engineered service name",
+    "shortLabel": "The engineered service name",
+    "kicker": "LANGUAGE",
+    "summary": "Large letters combine pale, blue and red areas.",
+    "layerIndex": 4,
+    "bounds": {
+     "x": 20,
+     "y": 4,
+     "w": 61,
+     "h": 17
+    },
+    "x": 48,
+    "y": 10,
+    "question": "Which letters become shapes before you read them as a word?",
+    "related": [
+     "red-accents",
+     "engine",
+     "border"
+    ],
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A service named in two lines",
+      "body": "NORD appears above EXPRESS in large geometric capitals. The word arrangement makes the name a compact block, even though the letters change colour where they cross different fields. The title identifies the service while also echoing the locomotive’s simplified planes and circles.",
+      "evidence": "observation",
+      "originalText": "NORD EXPRESS",
+      "lang": "fr",
+      "translation": "Nord Express — service name; literally North Express"
+     },
+     {
+      "kind": "context",
+      "heading": "The documented poster",
+      "body": "MoMA identifies this design as Cassandre’s Nord Express, dated 1927, and records it as a lithograph. The museum’s copy was given by the French National Railroads. These facts support the work’s railway context without proving a particular speed, timetable or performance claim.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "moma"
+       }
+      ]
+     }
+    ],
+    "number": 6
+   },
+   {
+    "id": "red-accents",
+    "label": "Red pieces within the name",
+    "shortLabel": "Red pieces within the name",
+    "kicker": "DESIGN",
+    "summary": "Small warm areas disrupt the cool upper field.",
+    "layerIndex": 4,
+    "bounds": {
+     "x": 65,
+     "y": 4,
+     "w": 16,
+     "h": 17
+    },
+    "x": 72.931,
+    "y": 7.007,
+    "question": "Find all the red fragments: do they belong to one letter or several?",
+    "related": [
+     "title",
+     "sky",
+     "steam"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Colour divided by geometry",
+      "body": "Red appears in selected portions of the title rather than filling the entire word. It is especially prominent at the right of NORD, with smaller fragments elsewhere. The warm accents interrupt the blue and pale lettering while preserving the overall block of the service name.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An asymmetrical balance",
+      "body": "The large warm accent at upper right counters the locomotive’s heavy dark mass on the left. Its colour and position give it influence beyond its area. This is a compositional comparison, not evidence that a particular colour was chosen to describe a railway company’s official identity.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 7
+   },
+   {
+    "id": "sky",
+    "label": "The open blue field",
+    "shortLabel": "The open blue field",
+    "kicker": "DESIGN",
+    "summary": "An unoccupied interval allows the machinery to remain readable.",
+    "layerIndex": 0,
+    "bounds": {
+     "x": 42,
+     "y": 21,
+     "w": 25,
+     "h": 25
+    },
+    "x": 57,
+    "y": 31,
+    "question": "What information would be lost if this open area were filled with buildings?",
+    "related": [
+     "steam",
+     "wires",
+     "title"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Room around the diagonal",
+      "body": "A large blue region occupies the upper middle between the engine, plume and wires. It contains very little depicted detail. That openness lets the major diagonals remain distinct and provides enough contrast for the pale steam to be followed as a continuous irregular form.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A gradual change of tone",
+      "body": "The blue becomes paler toward the lower right, where the page opens into a warmer field. This transition contributes depth without a conventional horizon line. The image therefore implies space through gradients and convergence rather than through a fully described railway landscape.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 8
+   },
+   {
+    "id": "routes",
+    "label": "Cities along the lower edge",
+    "shortLabel": "Cities along the lower edge",
+    "kicker": "LANGUAGE",
+    "summary": "Names turn the border into a compact travel network.",
+    "layerIndex": 5,
+    "bounds": {
+     "x": 5,
+     "y": 89,
+     "w": 90,
+     "h": 9
+    },
+    "x": 50,
+    "y": 94,
+    "question": "Read the city names, then follow the wires: which suggests a network more literally?",
+    "related": [
+     "border",
+     "wires",
+     "title"
+    ],
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A named route vocabulary",
+      "body": "The lower band includes LONDRES, BRUXELLES, PARIS, LIÈGE, BERLIN, VARSOVIE and RIGA. Several are French forms of city names. Their arrangement supplies a geographic vocabulary for the service without giving a complete timetable, order of stops or proof that every journey reached every listed city.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "The journey around the machine",
+      "body": "The image celebrates a locomotive, but the city names bring the advertisement back to travel between places. They occupy a much smaller scale than the engine. The sheet thus combines an impressive general image with specific names that a reader can connect to possible destinations.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 9
+   },
+   {
+    "id": "border",
+    "label": "The railway-company frame",
+    "shortLabel": "The railway-company frame",
+    "kicker": "LANGUAGE",
+    "summary": "Institutional names surround the pictorial field.",
+    "layerIndex": 5,
+    "bounds": {
+     "x": 1,
+     "y": 1,
+     "w": 98,
+     "h": 4
+    },
+    "x": 51,
+    "y": 2,
+    "question": "How does the border change from a frame into a line of writing?",
+    "related": [
+     "routes",
+     "signature",
+     "title"
+    ],
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Names become the frame",
+      "body": "CHEMIN DE FER DU NORD spans the top, while other railway names run along the sides and bottom. The lettering is not only a caption: its repeated strokes make a continuous-looking border. Reading it requires turning attention around the sheet rather than following one ordinary horizontal paragraph.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Several scales of identity",
+      "body": "The prominent service name sits inside a frame of institutional names, with city names forming another band near the bottom. This arrangement distinguishes the advertised journey from the organisations and places around it. It shows the communication structure of the sheet without establishing contractual relationships not stated here.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 10
+   },
+   {
+    "id": "signature",
+    "label": "The small Cassandre credit",
+    "shortLabel": "The small Cassandre credit",
+    "kicker": "CONTEXT",
+    "summary": "A maker’s name sits beside the large service title.",
+    "layerIndex": 5,
+    "bounds": {
+     "x": 81,
+     "y": 4,
+     "w": 14,
+     "h": 3
+    },
+    "x": 86.957,
+    "y": 4.905,
+    "question": "Why does the signature remain legible without becoming a second headline?",
+    "related": [
+     "border",
+     "title",
+     "routes"
+    ],
+    "tags": [
+     "context",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "context",
+      "heading": "An attribution with support",
+      "body": "A. M. Cassandre’s name appears near the upper right, and MoMA independently attributes the 1927 lithograph to him. The small credit and the museum record reinforce one another. The study does not infer a named typeface or particular workshop procedure from the lettering alone.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "moma"
+       }
+      ]
+     },
+     {
+      "kind": "design",
+      "heading": "A quiet horizontal note",
+      "body": "The signature is small, dark and relatively level beside the oversized geometric title. It occupies a pale area with little competing texture. That restrained placement keeps it available to a close reader while leaving the service name and locomotive as the dominant elements.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 11
+   }
+  ],
+  "sources": [
+   {
+    "id": "moma",
+    "title": "MoMA: Cassandre, Nord Express",
+    "url": "https://www.moma.org/collection/works/105963",
+    "kind": "Museum object record",
+    "summary": "Supports Cassandre attribution, date 1927, lithographic medium and gift from the French National Railroads; object 65.1943.22."
+   }
+  ],
+  "tour": [
+   "title",
+   "engine",
+   "wheels",
+   "steam",
+   "wires",
+   "routes",
+   "border"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "NORD EXPRESS",
+      "meaning": "Nord Express — service name",
+      "lang": "fr"
+     },
+     {
+      "text": "CHEMIN DE FER DU NORD",
+      "meaning": "Northern Railway",
+      "lang": "fr"
+     },
+     {
+      "text": "LONDRES / BRUXELLES / PARIS / LIÈGE / BERLIN / VARSOVIE / RIGA",
+      "meaning": "London / Brussels / Paris / Liège / Berlin / Warsaw / Riga",
+      "lang": "fr"
+     },
+     {
+      "text": "A. M. CASSANDRE",
+      "meaning": "Designer’s name",
+      "lang": "und"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "The main service name, selected city names and signature are readable. The complete multilingual company border and small printer information are not fully transcribed. Listed cities are not expanded into a reconstructed timetable or service map.",
+  "palette": [
+   {
+    "name": "Blue sky",
+    "hex": "#435a7c",
+    "role": "Open field behind the plume",
+    "region": "sky"
+   },
+   {
+    "name": "Engine charcoal",
+    "hex": "#2b2b2d",
+    "role": "Monumental mechanical mass",
+    "region": "engine"
+   },
+   {
+    "name": "Steam pale",
+    "hex": "#dacbb6",
+    "role": "Soft directional accent",
+    "region": "steam"
+   },
+   {
+    "name": "Title red",
+    "hex": "#be4942",
+    "role": "Warm counterweight",
+    "region": "red-accents"
+   },
+   {
+    "name": "Border lettering",
+    "hex": "#c0a59a",
+    "role": "Railway names framing the pictorial field",
+    "region": "border"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels of the installed reproduction; these are not original ink or paper specifications.",
+  "connections": [
+   {
+    "label": "Direction shared",
+    "title": "Steam and wires draw the distance",
+    "text": "The steam follows the engine’s diagonal, while the telegraph lines narrow toward the lower-right distance. Both make the static sheet feel directional.",
+    "anchors": [
+     [
+      2,
+      0.43487394957983194,
+      0.3935
+     ],
+     [
+      3,
+      0.8410364145658263,
+      0.5905
+     ]
+    ],
+    "id": "nord-express-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Engineered lettering",
+    "title": "Name above machine",
+    "text": "The broad geometric title and oversized wheels use simple, weighty shapes at very different scales.",
+    "anchors": [
+     [
+      4,
+      0.49369747899159666,
+      0.1035
+     ],
+     [
+      1,
+      0.4012605042016807,
+      0.7305
+     ]
+    ],
+    "id": "nord-express-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

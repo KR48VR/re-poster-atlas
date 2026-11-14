@@ -1,0 +1,675 @@
+{
+ "poster": {
+  "id": "rrr",
+  "title": "RRR",
+  "year": "2022",
+  "yearNumber": 2022,
+  "country": "India",
+  "countries": [
+   "India"
+  ],
+  "region": "South Asia",
+  "category": "Film",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "S. S. Rajamouli",
+  "edition": "US encore theatrical campaign, Naatu design",
+  "posterTerritory": "United States",
+  "image": "images/full/rrr.jpg",
+  "ratio": 0.6756756756756757,
+  "alt": "Two men dance side by side on a wooden platform beneath a large metallic RRR title, with a pale palace and crowd behind them.",
+  "blurb": "Two bodies repeat a dance step, making rhythm visible in a single still image.",
+  "notes": [
+   {
+    "title": "Repetition with small differences",
+    "body": "Bent knees, angled shoes and crossed arms create a paired rhythm. The dancers are close enough in pose to read as a unit, yet the different leg positions keep the image from becoming perfectly symmetrical."
+   },
+   {
+    "title": "A stage with a horizon",
+    "body": "The wooden floor gives the feet a clear surface while the distant palace and crowd make a horizontal band behind them. The dancers sit between these two stable planes, so their movement becomes easier to read."
+   },
+   {
+    "title": "Weight above, movement below",
+    "body": "The thick metallic title spans the pale upper field. Its compact rectangular mass balances the open spaces and diagonals between the dancers’ limbs without competing with their gestures."
+   }
+  ],
+  "source": "https://www.variancefilms.com/project/rrr",
+  "imageSource": "https://www.variancefilms.com/project/rrr",
+  "imageCredit": "Official Variance Films campaign image for RRR. Copyright remains with the film, distributor and artwork rights holders; poster artist uncredited.",
+  "credit": "Official Variance Films campaign image for RRR. Copyright remains with the film, distributor and artwork rights holders; poster artist uncredited.",
+  "reproduction": "Film: India, 2022; a Telugu-language production. This Naatu design comes from the US encore theatrical campaign. Its exact poster date is not established.",
+  "downloadURL": "https://cdn.prod.website-files.com/5df6a343f373c895f9e57f70/636e9d273785bc80423c0aaf_RRR_NaatuPoster_1080x1600.jpg",
+  "anchor": [
+   0.32,
+   0.5
+  ],
+  "accent": "#98724b",
+  "anchorLayer": 1,
+  "primaryOrigin": "India",
+  "thumb": "images/catalogue/rrr.webp"
+ },
+ "studyData": {
+  "intro": "A US encore campaign turns a shared dance step into the main invitation. Read the two intact bodies first, then the stage, the oversized title and the quiet release marks; the film’s 2022 date does not establish the exact printing date of this sheet.",
+  "initial": "left-pose",
+  "regions": [
+   {
+    "id": "title",
+    "number": 1,
+    "label": "Metallic title",
+    "shortLabel": "Metallic title",
+    "kicker": "LETTERS WITH DEPTH",
+    "summary": "Three initials become a heavy object above moving bodies.",
+    "x": 49,
+    "y": 16,
+    "bounds": {
+     "x": 17,
+     "y": 8,
+     "w": 69,
+     "h": 20
+    },
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Letters with depth",
+      "body": "The three broad letters carry bright edges, dark bevels and internal shading. Their lower edge rises toward the right, so the wordmark has direction as well as mass. This is an appearance of metal in the reproduction, not evidence of metallic printing.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "An abbreviation with small companions",
+      "body": "The large R letters dominate, while the much smaller English words RISE, ROAR and REVOLT sit near their bases. A distant viewer can recognise the abbreviation before reading those words; the sheet therefore offers a second verbal layer at closer range.",
+      "evidence": "observation",
+      "originalText": "RRR / RISE / ROAR / REVOLT",
+      "lang": "en"
+     }
+    ],
+    "question": "What changes if you cover the title and compare the weight of the remaining shapes?",
+    "related": [
+     "left-pose",
+     "sky"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "director",
+    "number": 2,
+    "label": "A name above the name",
+    "shortLabel": "A name above the name",
+    "kicker": "A RESTRAINED ARC",
+    "summary": "Spaced capitals give authorship a narrow upper line.",
+    "x": 50,
+    "y": 6,
+    "bounds": {
+     "x": 21,
+     "y": 3,
+     "w": 58,
+     "h": 8
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A restrained arc",
+      "body": "The small pale capitals run along the same rising direction as the logo below. Generous gaps between characters keep the line visually light, so it can signal authorship without forming another solid block in the upper field.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "The director and the language",
+      "body": "Variance Films identifies S. S. Rajamouli as director and the film as a Telugu-language Indian production with English subtitles. That supports the credit and film context; it does not identify the uncredited designer of this English-language campaign sheet.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "variance"
+       }
+      ]
+     }
+    ],
+    "question": "How does the reading order change if the director’s line is made as large as the title?",
+    "related": [
+     "title",
+     "release"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "left-pose",
+    "number": 3,
+    "label": "Left dancer’s zigzag",
+    "shortLabel": "Left dancer’s zigzag",
+    "kicker": "A BODY MADE OF CHANGES IN DIRECTION",
+    "summary": "Crossed arms and a folded leg make one continuous rhythm.",
+    "x": 32,
+    "y": 51,
+    "bounds": {
+     "x": 17,
+     "y": 28,
+     "w": 38,
+     "h": 60
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A body made of changes in direction",
+      "body": "The shoulders angle one way, the forearms cross back, and the raised lower leg turns outward again. The visible figure stays complete despite those reversals. Following its contour gives a sequence of bends rather than a single straight line of action.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A comparison without perfect symmetry",
+      "body": "The left dancer’s paler shirt and checked trousers distinguish him from his companion. Their similar gestures make a pair, but fabric, lean and limb spacing prevent a mirror image. The resulting rhythm depends on repetition with visible differences.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Trace the silhouette from the raised finger to the standing boot: where does its direction reverse?",
+    "related": [
+     "right-pose",
+     "hands",
+     "boots"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "right-pose",
+    "number": 4,
+    "label": "Right dancer’s lean",
+    "shortLabel": "Right dancer’s lean",
+    "kicker": "DIRECTION WITHIN A REPEATED POSE",
+    "summary": "The second figure answers the first without duplicating it.",
+    "x": 69,
+    "y": 51,
+    "bounds": {
+     "x": 51,
+     "y": 27,
+     "w": 37,
+     "h": 61
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Direction within a repeated pose",
+      "body": "The right figure holds his shoulders and crossed sleeves at a different angle, with an open mouth and a more frontal face. His dark trousers form a strong vertical through the lower half while the lifted boot interrupts that stability.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A fictional pairing",
+      "body": "The distributor describes the film as imagining a meeting between Komaram Bheem and Alluri Sitarama Raju, rather than recording an actual shared adventure. The paired image can introduce that companionship, but the photograph alone does not establish the historical event depicted.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "variance"
+       }
+      ]
+     }
+    ],
+    "question": "Which difference in the two poses is easiest to see before you look at their faces?",
+    "related": [
+     "left-pose",
+     "gap",
+     "shadows"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "hands",
+    "number": 5,
+    "label": "Fingers and crossed sleeves",
+    "shortLabel": "Fingers and crossed sleeves",
+    "kicker": "FINE DETAILS INSIDE BROAD FOLDS",
+    "summary": "Small hand shapes make the gesture readable.",
+    "x": 28,
+    "y": 39,
+    "bounds": {
+     "x": 17,
+     "y": 34,
+     "w": 25,
+     "h": 20
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Fine details inside broad folds",
+      "body": "A small extended finger projects from the upper hand, while the lower hand crosses the torso. Pale sleeves make a larger crossed structure around those small accents. The fingers add precision to a movement already established by the arms.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Read at two distances",
+      "body": "At thumbnail size the crossed sleeves can be read as a compact X; closer viewing reveals individual fingers and fabric folds. This shift lets the same figure supply both an immediate pose and a slower study of its construction.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Try covering the hands while leaving the forearms visible: how much of the gesture survives?",
+    "related": [
+     "left-pose",
+     "right-pose"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "boots",
+    "number": 6,
+    "label": "Lifted and planted boots",
+    "shortLabel": "Lifted and planted boots",
+    "kicker": "WARM ACCENTS NEAR THE GROUND",
+    "summary": "Warm footwear marks the extremes of movement.",
+    "x": 36,
+    "y": 65,
+    "bounds": {
+     "x": 25,
+     "y": 60,
+     "w": 30,
+     "h": 28
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Warm accents near the ground",
+      "body": "The reddish boots contrast with the muted grey trousers. One points sideways behind the bent leg while the other meets the boards below. The gap beneath the lifted boot is as important as its angled shape in making the step visible.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A moment held still",
+      "body": "The image does not show a full dance sequence, but the unequal relation of feet to floor suggests a temporary position. The viewer can infer motion from support and imbalance without needing to invent the preceding or following step.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Compare the raised boot with the boot touching the boards: what makes one seem airborne?",
+    "related": [
+     "stage",
+     "shadows",
+     "left-pose"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "stage",
+    "number": 7,
+    "label": "Horizontal floorboards",
+    "shortLabel": "Horizontal floorboards",
+    "kicker": "PARALLEL LINES UNDER ANGLED BODIES",
+    "summary": "A steady base makes the limbs look more mobile.",
+    "x": 61,
+    "y": 93,
+    "bounds": {
+     "x": 0,
+     "y": 66,
+     "w": 100,
+     "h": 34
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Parallel lines under angled bodies",
+      "body": "Long horizontal joints run across the wooden platform. Their regular spacing contrasts with the dancers’ bent legs and sleeves. Dark seams and brighter strips give the floor texture, yet none is as visually sharp as the outlines of the boots.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A surface rather than a void",
+      "body": "The floor gives the figures somewhere to stand, and its perspective suggests depth toward the crowd. It also leaves a broad quiet area below the action, allowing the small release marks to sit apart from the detailed bodies.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would the movement read as clearly if the floor had the same diagonal as the legs?",
+    "related": [
+     "boots",
+     "shadows"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "shadows",
+    "number": 8,
+    "label": "Bodies leave traces",
+    "shortLabel": "Bodies leave traces",
+    "kicker": "FLATTENED COMPANIONS",
+    "summary": "Dark shapes remain attached to the boards.",
+    "x": 22,
+    "y": 81,
+    "bounds": {
+     "x": 4,
+     "y": 75,
+     "w": 77,
+     "h": 14
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Flattened companions",
+      "body": "The cast shadows stretch across the floor as dark, low shapes. Unlike the upright dancers, they follow the plane of the boards and lose much of the internal detail. Their position makes the feet’s contact with the surface easier to judge.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Why the analytical split matters",
+      "body": "Keeping shadows on the stage separates a person from the light pattern that person casts. This is a useful reading of the finished poster, not a reconstruction of the photographer’s layers or evidence that the campaign was assembled in this order.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "In the exploded view, what changes when the dancers move forward but their shadows stay behind?",
+    "related": [
+     "stage",
+     "boots",
+     "right-pose"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "palace",
+    "number": 9,
+    "label": "Palace and spectators",
+    "shortLabel": "Palace and spectators",
+    "kicker": "A LINE BEHIND TWO SILHOUETTES",
+    "summary": "A horizontal crowd supplies scale behind the pair.",
+    "x": 92,
+    "y": 51,
+    "bounds": {
+     "x": 0,
+     "y": 42,
+     "w": 100,
+     "h": 24
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A line behind two silhouettes",
+      "body": "The pale facade stretches across the sheet, with many small spectators in front. Repeated windows, heads and garden shapes form a dense horizontal band. The foreground bodies interrupt it, making their much larger scale immediately apparent.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Setting without equal emphasis",
+      "body": "The crowd provides a social setting, but individual spectators are too small here for a reliable roll call. Their smaller scale and lighter contrast let them support the dance scene without demanding the same scrutiny as the two foreground faces.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the size of the distant people change your reading of the dancers?",
+    "related": [
+     "left-pose",
+     "stage",
+     "sky"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "sky",
+    "number": 10,
+    "label": "A pastel upper field",
+    "shortLabel": "A pastel upper field",
+    "kicker": "SOFT TRANSITIONS AROUND HARD EDGES",
+    "summary": "Cool open space prevents the title from crowding the dancers.",
+    "x": 8,
+    "y": 28,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 100,
+     "h": 43
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Soft transitions around hard edges",
+      "body": "Cyan and pale pink blend through the sky behind the crisp logo. That softness makes the title’s bevels and outer contour easier to separate. The field also leaves small gaps around the director’s line and the upper-right circular mark.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Colour can organise without a fixed meaning",
+      "body": "The cool upper field and warm wooden floor divide the poster into broad zones. They help organise where the eye finds title, people and ground; the image does not establish that any one colour has a universal emotional meaning.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Compare the pink cloud at left with the blue at right: do either compete with the boots?",
+    "related": [
+     "title",
+     "palace"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "gap",
+    "number": 11,
+    "label": "The space between partners",
+    "shortLabel": "The space between partners",
+    "kicker": "AN ACTIVE ABSENCE",
+    "summary": "A narrow window keeps two bodies distinct.",
+    "x": 49,
+    "y": 47,
+    "bounds": {
+     "x": 40,
+     "y": 31,
+     "w": 14,
+     "h": 31
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An active absence",
+      "body": "Between shoulders, elbows and hips, thin pieces of palace and sky remain visible. These gaps give each contour room to be followed. They are background pixels, yet their shapes are determined by the adjacent poses as strongly as by the setting.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Pairing without merging",
+      "body": "The figures feel coordinated while keeping individual outlines. Closing the gap would turn their sleeves and torsos into a more continuous mass. Leaving it open lets the poster emphasise partnership without losing the separate bodies that produce the rhythm.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Cover the pale gap between the dancers: does the pair become harder to separate?",
+    "related": [
+     "left-pose",
+     "right-pose",
+     "palace"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "release",
+    "number": 12,
+    "label": "Small campaign signatures",
+    "shortLabel": "Small campaign signatures",
+    "kicker": "THE INVITATION IS TO RETURN",
+    "summary": "Release marks occupy the quietest edge of the stage.",
+    "x": 90,
+    "y": 96,
+    "bounds": {
+     "x": 3,
+     "y": 94,
+     "w": 94,
+     "h": 4
+    },
+    "tags": [
+     "business",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "The invitation is to return",
+      "body": "Variance’s official page frames this release as an encore theatrical engagement and supplies this campaign artwork. That establishes a return-to-cinemas purpose. It does not establish the sheet’s exact printing date or prove how any individual design choice affected attendance.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "variance"
+       }
+      ]
+     },
+     {
+      "kind": "design",
+      "heading": "A different scale of reading",
+      "body": "The tiny white marks at the lower corners sit far from the main title and faces. Their position rewards closer inspection after the image has been recognised. Fine lettering remains limited by the 500-pixel-wide source and is not expanded into guessed credits.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "Which information is still missing if you read only the two small lower marks?",
+    "related": [
+     "director",
+     "title"
+    ],
+    "layerIndex": 1
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed poster edition",
+    "url": "https://www.variancefilms.com/project/rrr",
+    "kind": "Visual source",
+    "summary": "The reproduced sheet supports observations of visible wording, colour, composition and marks; it does not establish the designer’s intention."
+   },
+   {
+    "id": "variance",
+    "title": "Variance Films: RRR",
+    "url": "https://www.variancefilms.com/project/rrr",
+    "kind": "Official distributor",
+    "summary": "Identifies the director, Telugu language, Indian origin, fictional meeting and encore theatrical campaign; supplies the poster."
+   }
+  ],
+  "tour": [
+   "left-pose",
+   "right-pose",
+   "boots",
+   "shadows",
+   "title",
+   "release"
+  ],
+  "transcript": [
+   {
+    "heading": "Readable wording on this edition",
+    "rows": [
+     {
+      "text": "RRR",
+      "meaning": "Film title abbreviation.",
+      "lang": "en"
+     },
+     {
+      "text": "RISE / ROAR / REVOLT",
+      "meaning": "Three English words printed beneath the initials.",
+      "lang": "en"
+     },
+     {
+      "text": "S. S. RAJAMOULI’S",
+      "meaning": "Director credit.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Only the large title, small English companion words and director line are transcribed. Tiny badges and lower marks are not treated as complete credits.",
+  "palette": [
+   {
+    "name": "Cool sky",
+    "hex": "#C9DEE1",
+    "region": "sky",
+    "role": "A light field behind the logo."
+   },
+   {
+    "name": "Warm stage",
+    "hex": "#46322B",
+    "region": "stage",
+    "role": "Horizontal base beneath the figures."
+   },
+   {
+    "name": "Red boot",
+    "hex": "#9A4D3B",
+    "region": "boots",
+    "role": "A warm accent at the feet."
+   },
+   {
+    "name": "Dark trouser",
+    "hex": "#2C2221",
+    "region": "right-pose",
+    "role": "Contrast within the second silhouette."
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in the installed reproduction. These are not original ink specifications; scan, lighting and compression can alter colour.",
+  "connections": [
+   {
+    "label": "Follow the paired rhythm",
+    "title": "Two bodies, one visual beat",
+    "text": "The two dancers repeat bent knees, crossing arms and lifted heels without making identical silhouettes. Trace their separate poses, then bring the planes together to see the rhythm they create as a pair.",
+    "anchors": [
+     [
+      2,
+      0.36,
+      0.58
+     ],
+     [
+      3,
+      0.7,
+      0.58
+     ]
+    ],
+    "id": "rrr-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Bodies and their shadows",
+    "title": "The dancers move; the stage holds them",
+    "text": "The figures come forward while their cast shadows remain on the floor. The broad metallic title sits above both dancers, balancing the lighter shapes of their moving limbs.",
+    "anchors": [
+     [
+      4,
+      0.5,
+      0.18
+     ],
+     [
+      2,
+      0.36,
+      0.58
+     ],
+     [
+      1,
+      0.5,
+      0.88
+     ],
+     [
+      3,
+      0.7,
+      0.58
+     ]
+    ],
+    "id": "rrr-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

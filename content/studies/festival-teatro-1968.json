@@ -1,0 +1,836 @@
+{
+ "poster": {
+  "id": "festival-teatro-1968",
+  "title": "4to Festival de Teatro Internacional",
+  "year": "1968",
+  "yearNumber": 1968,
+  "creator": "Rafael Tufiño",
+  "country": "Puerto Rico",
+  "countries": [
+   "Puerto Rico"
+  ],
+  "primaryOrigin": "Puerto Rico",
+  "region": "Latin America & Caribbean",
+  "category": "Performance",
+  "image": "images/full/festival-teatro-1968.jpg",
+  "ratio": 0.75,
+  "alt": "A photographed Spanish-language theatre festival poster: orange, coral, yellow and dark blue panels surround three circular eyes, angular profile-like shapes, a large quartered heart and a narrow oval. Block lettering announces the fourth festival at Teatro Tapia, 5 September to 20 October 1968. The photograph includes the sheet edges and mounting strips.",
+  "blurb": "Three eyes, a divided heart and a changing grid: geometric colour makes a theatre announcement into a study of seeing and overlap.",
+  "notes": [
+   {
+    "title": "Three circles across the field",
+    "body": "Coral surrounds the left dark centre, orange surrounds the middle orange centre, and yellow surrounds the right dark centre. Their unequal heights turn a repeated form into a route through the composition."
+   },
+   {
+    "title": "A heart crossing two boundaries",
+    "body": "The heart remains continuous while its colour changes at a vertical and a horizontal division. Compare its four visible areas with the narrower oval crossing the same horizontal boundary on the right."
+   },
+   {
+    "title": "A poster within a photograph",
+    "body": "This museum reproduction retains the sheet, a surrounding support and mounting strips. Those pale outer areas belong to the photographed object presentation, not the festival’s printed colour grid."
+   }
+  ],
+  "source": "https://mapr.org/artists/rafael-tufino/",
+  "credit": "Rafael Tufiño, 1968. Collection Museo de Arte de Puerto Rico; museum colour photograph. The MAPR record identifies a screenprint on paper. No public-domain or reproduction-permission claim.",
+  "edition": "1968 fourth International Theatre Festival poster, MAPR impression. The installed image depicts the MAPR sheet, not MoMA object 919.2015.",
+  "posterYear": "1968",
+  "posterTerritory": "Puerto Rico",
+  "posterDateStatus": "documented",
+  "imageSource": "https://mapr.org/artists/rafael-tufino/",
+  "imageCredit": "Museo de Arte de Puerto Rico collection image. Copyright status and reuse permission are not established by the public collection page; no open-licence claim.",
+  "downloadURL": "https://mapr.org/wp-content/uploads/2026/10/15.rafaeltufino_web.jpg",
+  "reproduction": "Unmodified 1200 × 1600 museum JPEG. Slight perspective, uneven illumination, sheet edges and mounting strips are retained. MAPR lists this impression as 23 3/16 × 17 11/16 inches; measurements and credit for other museum impressions are not assigned to this sheet.",
+  "originNote": "Puerto Rico denotes the festival and its Instituto de Cultura Puertorriqueña publishing context, not an inference from the artist’s birthplace. The University of Puerto Rico identifies the festival at Teatro Tapia; MoMA separately identifies the Institute in San Juan as publisher of its impression.",
+  "originSources": [
+   {
+    "title": "University of Puerto Rico: festival, venue and institutional context",
+    "url": "https://museocoleccion.uprrp.edu/objects/6495/4to-festival-de-teatro-internacional"
+   },
+   {
+    "title": "MoMA: separately held impression and publisher",
+    "url": "https://www.moma.org/collection/works/192998"
+   }
+  ],
+  "creditSources": [
+   {
+    "title": "MAPR: artist, date, medium and collection image",
+    "url": "https://mapr.org/artists/rafael-tufino/"
+   }
+  ],
+  "anchor": [
+   0.46,
+   0.37
+  ],
+  "anchorLayer": 3,
+  "accent": "#DC6157",
+  "thumb": "images/catalogue/festival-teatro-1968.webp"
+ },
+ "studyData": {
+  "intro": "A theatre announcement becomes a set of visual comparisons: three circular eyes, profile-like fields, a heart and an oval change as they meet the colour grid. Start with a visible feature, then compare how words and shapes cross the same boundaries. This is the Museo de Arte de Puerto Rico impression, photographed with its sheet and support.",
+  "initial": "heart",
+  "regions": [
+   {
+    "id": "headline",
+    "number": 1,
+    "label": "The festival becomes a block of colour",
+    "shortLabel": "Festival title",
+    "kicker": "LANGUAGE / DESIGN",
+    "summary": "The announcement changes colour within individual words.",
+    "layerIndex": 1,
+    "x": 52,
+    "y": 14,
+    "bounds": {
+     "x": 33.5,
+     "y": 5.5,
+     "w": 33,
+     "h": 16
+    },
+    "question": "Where does a colour change divide a word without interrupting your ability to read it?",
+    "related": [
+     "ordinal",
+     "small-emblems",
+     "year"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Read the words across the colours",
+      "body": "The central heading names an international theatre festival. Its words run across several rows, but changes of colour do not consistently follow word boundaries: TEATRO moves from dark blue to coral, and the final line shifts from blue to orange. The lettering makes the announcement participate in the colour structure.",
+      "evidence": "observation",
+      "originalText": "FESTIVAL DE TEATRO INTERNACIONAL",
+      "lang": "es",
+      "translation": "International Theatre Festival"
+     },
+     {
+      "kind": "design",
+      "heading": "Broad strokes, uneven edges",
+      "body": "Most letters use heavy, squared strokes with narrow spaces between them. Slightly uneven edges and changing proportions prevent the heading from looking like a perfectly regular grid. Compare the broad T in TEATRO with the compressed letters in INTERNACIONAL before deciding which line dominates from a distance.",
+      "evidence": "observation"
+     }
+    ]
+   },
+   {
+    "id": "ordinal",
+    "number": 2,
+    "label": "A numeral large enough to be an image",
+    "shortLabel": "Fourth festival",
+    "kicker": "LANGUAGE / DESIGN",
+    "summary": "The pale 4 occupies almost the full height of its information block.",
+    "layerIndex": 1,
+    "x": 22.8,
+    "y": 12,
+    "bounds": {
+     "x": 10,
+     "y": 6,
+     "w": 22.5,
+     "h": 12.5
+    },
+    "question": "What still tells you this is the fourth festival when you cover the smaller letters?",
+    "related": [
+     "headline",
+     "year",
+     "sponsor"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A number and its small ending",
+      "body": "The large 4 is followed by the much smaller letters to, forming the Spanish ordinal abbreviation 4to: fourth. The small ending sits high at the right rather than along a shared baseline. Read the two sizes together, then compare their relationship with the huge year opposite.",
+      "evidence": "observation",
+      "originalText": "4to",
+      "lang": "es",
+      "translation": "4th"
+     },
+     {
+      "kind": "design",
+      "heading": "A numeral built from areas",
+      "body": "A broad diagonal and a near-vertical yellow block make the 4. The diagonal appears paler than the upright, so the numeral contains a colour division of its own. Its size allows it to be recognised before the low-contrast sponsor lettering immediately underneath becomes readable.",
+      "evidence": "observation"
+     }
+    ]
+   },
+   {
+    "id": "sponsor",
+    "number": 3,
+    "label": "The institution in the small print",
+    "shortLabel": "Sponsor",
+    "kicker": "LANGUAGE / BUSINESS / CONTEXT",
+    "summary": "Compact wording gives the announcement an institutional voice.",
+    "layerIndex": 1,
+    "x": 20.458333333333336,
+    "y": 18.90625,
+    "bounds": {
+     "x": 8.5,
+     "y": 15.4,
+     "w": 24,
+     "h": 6.1
+    },
+    "question": "How does the sponsor line’s contrast compare with the numeral above it?",
+    "related": [
+     "ordinal",
+     "dates",
+     "photograph"
+    ],
+    "tags": [
+     "language",
+     "business",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "What the small lines say",
+      "body": "The sponsor area contains AUSPICIADO, meaning sponsored, and the words naming the Instituto de Cultura Puertorriqueña. This is a partial reading: the small linking wording and its arrangement are not confidently transcribed. Orange lettering close in tone to its ground makes the institution less immediately legible than the central title.",
+      "evidence": "observation",
+      "originalText": "AUSPICIADO … INSTITUTO DE CULTURA … PUERTORRIQUEÑA",
+      "lang": "es",
+      "translation": "Sponsored … Institute of Puerto Rican Culture. Partial excerpt; ellipses mark omitted linking wording and uncertain reading order."
+     },
+     {
+      "kind": "context",
+      "heading": "A programme supporting theatre",
+      "body": "The University of Puerto Rico’s record connects this festival to the Institute’s programme for supporting and promoting theatrical arts. That establishes an institutional setting for the announcement. It does not tell us how many people saw this particular sheet or which colours Tufiño expected them to notice first.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "upr",
+        "note": "The record identifies the festival at Teatro Tapia and explains the Institute’s theatre-support programme. It is a separate museum impression, used here for event context."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "small-emblems",
+    "number": 4,
+    "label": "Small faces among the words",
+    "shortLabel": "Small emblems",
+    "kicker": "DESIGN",
+    "summary": "Tiny profile-like shapes preview the large geometric forms.",
+    "layerIndex": 1,
+    "x": 38.4,
+    "y": 15.9,
+    "bounds": {
+     "x": 28,
+     "y": 11.5,
+     "w": 13,
+     "h": 6.8
+    },
+    "question": "Which features make these small shapes read as faces rather than letters?",
+    "related": [
+     "left-profile",
+     "central-eye",
+     "headline"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A second scale of imagery",
+      "body": "Two small emblem areas interrupt the upper information: one beside the large numeral and another beneath DE. Within them, a dot and an angular edge can suggest an eye and nose. They are much smaller than the circular features below, yet still use sharp corners and contrasting colour areas.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Compare without naming a character",
+      "body": "The little profiles invite comparison with the larger profile-like fields. That relationship can help you shift between reading words and recognising shapes. No named character, theatrical role or fixed emotion is assigned here: test any such reading against the few features actually visible rather than supplying a missing face.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "venue",
+    "number": 5,
+    "label": "A theatre name close to its ground",
+    "shortLabel": "Teatro Tapia",
+    "kicker": "LANGUAGE / BUSINESS",
+    "summary": "The venue is present, but it does not use the strongest contrast.",
+    "layerIndex": 1,
+    "x": 79.79166666666667,
+    "y": 6.78125,
+    "bounds": {
+     "x": 66.4,
+     "y": 4.5,
+     "w": 24.6,
+     "h": 4.2
+    },
+    "question": "Would you find the venue or the date first, and what difference in colour explains that?",
+    "related": [
+     "dates",
+     "headline",
+     "sponsor"
+    ],
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A proper name at the upper right",
+      "body": "The top line of the right block reads TEATRO TAPIA. Orange letters sit on coral, making portions of the name less distinct than the pale date below. Tapia remains a proper name in English; the useful translation is simply Tapia Theatre, not a description of an architectural style.",
+      "evidence": "observation",
+      "originalText": "TEATRO TAPIA",
+      "lang": "es",
+      "translation": "Tapia Theatre"
+     },
+     {
+      "kind": "business",
+      "heading": "A destination for the notice",
+      "body": "The University of Puerto Rico identifies Teatro Tapia as the venue advertised by this festival poster. The location gives the image a practical purpose alongside its geometric play. The sheet does not supply a street address, seating plan or ticket price, and this study does not infer those missing details.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "upr",
+        "note": "The university museum’s description explicitly names Teatro Tapia as the location of the fourth International Theatre Festival."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "dates",
+    "number": 6,
+    "label": "A date range in pale lettering",
+    "shortLabel": "Festival dates",
+    "kicker": "LANGUAGE / BUSINESS",
+    "summary": "A compact pale notice bridges the venue name and the oversized year.",
+    "layerIndex": 1,
+    "x": 79.04166666666667,
+    "y": 10.71875,
+    "bounds": {
+     "x": 66.5,
+     "y": 8,
+     "w": 24.5,
+     "h": 5.2
+    },
+    "question": "What information survives when you reduce the whole poster to thumbnail size?",
+    "related": [
+     "venue",
+     "year",
+     "headline"
+    ],
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "From September into October",
+      "body": "The printed date range runs from 5 September to 20 October. The year is separated into much larger numerals immediately below. Reading the small lines and the large year together gives the event timing; neither the museum photograph’s upload date nor its present display date belongs to that announcement.",
+      "evidence": "observation",
+      "originalText": "5 DE SEPTIEMBRE / AL 20 DE OCTUBRE",
+      "lang": "es",
+      "translation": "5 September to 20 October"
+     },
+     {
+      "kind": "business",
+      "heading": "Two scales of practical information",
+      "body": "The date lines are pale and compact, while 1968 is broad, orange and almost as tall as the central heading block. Try following the date from a distance and then close up. The design gives the year a different visual role from the month and day, although all are practical information.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "year",
+    "number": 7,
+    "label": "Four digits treated as a panel",
+    "shortLabel": "1968",
+    "kicker": "DESIGN / CONTEXT",
+    "summary": "The year nearly fills the lower part of the coral announcement block.",
+    "layerIndex": 1,
+    "x": 79,
+    "y": 24,
+    "bounds": {
+     "x": 66.4,
+     "y": 15.5,
+     "w": 25,
+     "h": 15.2
+    },
+    "question": "Which digit feels widest, and how does that affect the spacing of the complete year?",
+    "related": [
+     "ordinal",
+     "dates",
+     "heart"
+    ],
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A tall and shallow contrast",
+      "body": "The numerals are unusually tall, with large rectangular openings inside the 9, 6 and 8. Their orange is close to the coral ground, so they can act first as a broad pattern and only then as a date. The narrow 1 leaves much more surrounding space than the other digits.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "The printed year and the museum date",
+      "body": "The year 1968 is visible on the sheet, and the Museo de Arte de Puerto Rico also catalogues the work to 1968. Its record identifies Rafael Tufiño and a screenprint on paper. These points support the study’s date and attribution without establishing the exact day this particular impression was printed.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "mapr",
+        "note": "The entry for this work within Tufiño’s artist page lists 1968, screenprint on paper, its dimensions and the MAPR collection."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "left-eye",
+    "number": 8,
+    "label": "A small eye within a large blue field",
+    "shortLabel": "Coral-ringed eye",
+    "kicker": "DESIGN",
+    "summary": "A dark centre is enclosed by coral rather than drawn with an outline alone.",
+    "layerIndex": 2,
+    "x": 19.4,
+    "y": 42.6,
+    "bounds": {
+     "x": 14.8,
+     "y": 38.8,
+     "w": 9.2,
+     "h": 8.2
+    },
+    "question": "What changes if you cover the ring but leave its dark centre visible?",
+    "related": [
+     "left-profile",
+     "central-eye",
+     "right-profile"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A centre related to its surroundings",
+      "body": "The eye-like circle has a dark blue centre close in colour to the large field around it. Coral rings intervene between those two blue areas. The centre therefore remains distinct through the enclosing warm colour, not because it introduces a wholly different dark colour into the poster.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Repetition with unequal positions",
+      "body": "Compare this circle with the higher orange circle in the centre and the yellow-ringed circle on the right. The three do not sit on a level line. Their shifted heights can encourage a movement across the page; test whether you follow them left to right or begin with the raised middle one.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "left-profile",
+    "number": 9,
+    "label": "A rectangle that begins to resemble a face",
+    "shortLabel": "Blue profile",
+    "kicker": "DESIGN",
+    "summary": "A small interruption in a straight edge changes how the large field can be read.",
+    "layerIndex": 2,
+    "x": 28.5,
+    "y": 51.8,
+    "bounds": {
+     "x": 8,
+     "y": 30.5,
+     "w": 26,
+     "h": 37
+    },
+    "question": "Which edge feature makes the blue field seem most like a profile to you?",
+    "related": [
+     "left-eye",
+     "small-emblems",
+     "diagonal"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A straight edge with one sharp interruption",
+      "body": "The dark blue area begins as a broad rectangular field. On its right, a sloping boundary meets a short horizontal edge beside the central pale area. Combined with the coral-ringed circle, that interruption can suggest a profile. The silhouette is built from the field itself rather than a separately outlined head.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Recognition remains provisional",
+      "body": "A circle can become an eye once another edge begins to resemble a nose. Cover either feature and compare the result: the same blue area may become more abstract. This experiment does not settle a single intended character; it shows how a very small cue can alter a reading of a large shape.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "central-eye",
+    "number": 10,
+    "label": "An orange circle at the top of a yellow sweep",
+    "shortLabel": "Raised orange eye",
+    "kicker": "DESIGN",
+    "summary": "The central circle repeats the eye motif with a warmer centre and a different setting.",
+    "layerIndex": 3,
+    "x": 46,
+    "y": 36.9,
+    "bounds": {
+     "x": 39.5,
+     "y": 32.4,
+     "w": 12.7,
+     "h": 9.2
+    },
+    "question": "How is the middle circle different from the two dark-centred circles at its sides?",
+    "related": [
+     "left-eye",
+     "diagonal",
+     "right-profile"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A warm centre inside a warm ring",
+      "body": "The middle circular form contains a brighter orange centre surrounded by a lighter orange ring and a thin yellow edge. Unlike the circles at left and right, its centre is not dark blue. The enclosing yellow sweep also attaches the circle to a longer downward movement.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Compare the ring with the sweep",
+      "body": "Look at the nearly circular outer edge, then follow the yellow area down and left into a tapering shape. One part is compact and enclosed; the other narrows and extends. Their meeting gives the same small circle both a focal role and a direction beyond itself.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "diagonal",
+    "number": 11,
+    "label": "A pale diagonal between yellow forms",
+    "shortLabel": "Yellow diagonal",
+    "kicker": "DESIGN",
+    "summary": "A long slant breaks the poster’s mostly upright and horizontal structure.",
+    "layerIndex": 3,
+    "x": 56.7,
+    "y": 50.5,
+    "bounds": {
+     "x": 32.5,
+     "y": 29.5,
+     "w": 35.7,
+     "h": 38.4
+    },
+    "question": "Follow the pale diagonal to both ends: which printed boundaries does it interrupt?",
+    "related": [
+     "central-eye",
+     "heart",
+     "left-profile"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A diagonal cut through a grid",
+      "body": "The centre contains a long pale diagonal between yellow areas. It runs from the upper-right side of the image field toward the junction above the heart. Against the poster’s many vertical and horizontal divisions, this slant becomes a conspicuous change of direction without requiring a drawn arrow.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Space can carry a shape",
+      "body": "The cream-coloured opening matters as much as the yellow beside it. Cover the opening mentally and the centre becomes a much heavier block. Follow its narrowing edge instead, and the gap begins to direct attention toward the heart. This is a comparison of visible spaces, not a reconstruction of hidden printing layers.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "right-profile",
+    "number": 12,
+    "label": "An orange field interrupted by an eye and a notch",
+    "shortLabel": "Orange profile",
+    "kicker": "DESIGN",
+    "summary": "Warm area, dark centre and a narrow blue wedge make another profile-like group.",
+    "layerIndex": 4,
+    "x": 77.7,
+    "y": 44.4,
+    "bounds": {
+     "x": 62.8,
+     "y": 29.7,
+     "w": 29.5,
+     "h": 38.4
+    },
+    "question": "Which contrasts separate this eye from its field, and which separate the field from the centre?",
+    "related": [
+     "left-eye",
+     "central-eye",
+     "oval"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Two different boundaries",
+      "body": "The right eye has a dark centre inside a yellow ring on orange. At the field’s left edge, a narrow blue wedge separates orange from the central yellow area. The circle and the wedge perform different jobs: one encloses a focal feature, while the other sharpens a long boundary.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A warmer counterpart",
+      "body": "The orange field can be compared with the blue field on the left. Both carry an eye-like circle and meet a curved shape near the lower horizontal division. Their colours and contours differ, so the two sides feel related without being mirror images. No emotional meaning is assigned to orange or blue as a fact.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "heart",
+    "number": 13,
+    "label": "One heart, four visible colour areas",
+    "shortLabel": "Divided heart",
+    "kicker": "DESIGN",
+    "summary": "The outline stays continuous across two intersecting divisions.",
+    "layerIndex": 5,
+    "x": 33.5,
+    "y": 72,
+    "bounds": {
+     "x": 13.7,
+     "y": 55.5,
+     "w": 40.2,
+     "h": 25.2
+    },
+    "question": "Can you trace the heart continuously while naming each change of colour you cross?",
+    "related": [
+     "oval",
+     "diagonal",
+     "year"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Continuity across a crossing",
+      "body": "The heart’s upper lobes appear coral on the left and dark blue on the right. Below the shared horizontal boundary, the left becomes orange and the right becomes a darker reddish brown. Its pointed bottom and paired lobes remain recognisable even though the colour changes at the vertical and horizontal divisions.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Visible overlap is not a printing recipe",
+      "body": "The colour changes can suggest transparent forms or overlapping fields, but the photograph alone does not establish an ink order or original stencil separation. This analytical heart layer keeps all its visible colours together. A small cursive signature remains on the dark upper lobe; it is not treated as evidence for an unseen earlier state.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "oval",
+    "number": 14,
+    "label": "A narrow curved shape crossing the same line",
+    "shortLabel": "Narrow oval",
+    "kicker": "DESIGN",
+    "summary": "A smaller shape repeats the heart’s change at the horizontal division.",
+    "layerIndex": 6,
+    "x": 78.7,
+    "y": 72.6,
+    "bounds": {
+     "x": 67,
+     "y": 55,
+     "w": 18,
+     "h": 28.5
+    },
+    "question": "How does the narrow oval make the heart’s shared horizontal boundary easier to notice?",
+    "related": [
+     "heart",
+     "right-profile",
+     "photograph"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Dark above, ochre below",
+      "body": "On the right, a tall narrow curved form is dark blue above the horizontal boundary and ochre beneath it. Its sides swell and taper rather than forming a perfect geometric ellipse. The upper-left edge meets the adjacent panel, while the lower part continues farther inward before ending in a narrow point.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A second example to test the rule",
+      "body": "The heart might initially seem like a unique divided symbol. The oval supplies another shape whose colour changes at the same level. Comparing both lets you recognise a wider compositional relationship. Their colours are retained as photographed; neither shape is replaced by an imagined uniform colour when the layers separate.",
+      "evidence": "interpretation"
+     }
+    ]
+   },
+   {
+    "id": "photograph",
+    "number": 15,
+    "label": "The artwork and its photographed support",
+    "shortLabel": "Sheet and support",
+    "kicker": "DESIGN / CONTEXT",
+    "summary": "Pale strips and slight perspective belong to the museum reproduction.",
+    "layerIndex": 0,
+    "x": 95.8,
+    "y": 50.2,
+    "bounds": {
+     "x": 91,
+     "y": 1,
+     "w": 9,
+     "h": 97
+    },
+    "question": "Which outer edges belong to the printed design, and which belong to the photographed sheet or its support?",
+    "related": [
+     "sponsor",
+     "heart",
+     "oval"
+    ],
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Look outside the coloured rectangle",
+      "body": "The printed field sits inside a pale sheet, with further pale mounting strips visible around it. Edges are slightly slanted and the illumination is not completely even. These features are preserved in the original image and the assembled study; they should not be read as additional decorative panels designed for the festival.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "One photographed impression",
+      "body": "This study uses the Museo de Arte de Puerto Rico photograph, whose record supplies dimensions for its own sheet. MoMA holds a separately catalogued impression with different listed dimensions and credit. The two records corroborate the design’s identity but are not merged into one physical object or one reproduction.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "mapr",
+        "note": "MAPR lists its own collection impression and dimensions, and supplies the installed photograph."
+       },
+       {
+        "id": "moma",
+        "note": "MoMA separately catalogues object 919.2015. Its measurements and anonymous-gift credit do not describe the installed MAPR sheet."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "mapr",
+    "title": "Museo de Arte de Puerto Rico: Rafael Tufiño and this collection impression",
+    "url": "https://mapr.org/artists/rafael-tufino/",
+    "kind": "Museum collection record",
+    "summary": "The work entry identifies Tufiño, 1968, screenprint on paper, the MAPR collection and this impression’s dimensions. Its linked photograph is the installed image; the page does not grant an open image licence."
+   },
+   {
+    "id": "image",
+    "title": "MAPR: unmodified source photograph",
+    "url": "https://mapr.org/wp-content/uploads/2026/10/15.rafaeltufino_web.jpg",
+    "kind": "Primary visual source",
+    "summary": "The 1200 × 1600 JPEG supplies the visible Spanish wording, colour relationships, signature, sheet edges and mounting. Translations and visual interpretations are supplied by Poster Atlas."
+   },
+   {
+    "id": "upr",
+    "title": "University of Puerto Rico museum: fourth International Theatre Festival",
+    "url": "https://museocoleccion.uprrp.edu/objects/6495/4to-festival-de-teatro-internacional",
+    "kind": "University museum record",
+    "summary": "A separately held impression identifies the festival at Teatro Tapia and explains its connection with the Instituto de Cultura Puertorriqueña’s theatre programme. Used for event context, not as the image or physical-object credit."
+   },
+   {
+    "id": "moma",
+    "title": "MoMA: separately held 1968 impression",
+    "url": "https://www.moma.org/collection/works/192998",
+    "kind": "Museum collection record",
+    "summary": "MoMA identifies Tufiño, 1968, silkscreen, the Institute in San Juan as publisher and object 919.2015. Its dimensions and gift credit belong to that impression, not the installed MAPR photograph."
+   }
+  ],
+  "tour": [
+   "headline",
+   "small-emblems",
+   "left-eye",
+   "central-eye",
+   "diagonal",
+   "heart",
+   "dates"
+  ],
+  "transcript": [
+   {
+    "heading": "Festival and institution",
+    "rows": [
+     {
+      "text": "4to FESTIVAL DE TEATRO INTERNACIONAL",
+      "meaning": "4th International Theatre Festival",
+      "lang": "es"
+     },
+     {
+      "text": "AUSPICIADO … INSTITUTO DE CULTURA … PUERTORRIQUEÑA",
+      "meaning": "Sponsored … Institute of Puerto Rican Culture. Partial excerpt; the institution is also identified by the university museum record.",
+      "lang": "es"
+     }
+    ]
+   },
+   {
+    "heading": "Venue and dates",
+    "rows": [
+     {
+      "text": "TEATRO TAPIA",
+      "meaning": "Tapia Theatre",
+      "lang": "es"
+     },
+     {
+      "text": "5 DE SEPTIEMBRE / AL 20 DE OCTUBRE / 1968",
+      "meaning": "5 September to 20 October 1968",
+      "lang": "es"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Partial transcription from the installed MAPR photograph. Capitalization and line breaks are retained where helpful. Ellipses in the sponsor excerpt mark omitted linking wording and uncertain reading order; the institution’s name is corroborated by the University of Puerto Rico record. The fine cursive signature is visible but is not diplomatically transcribed. No printer, cast list, ticket price or exact printing day is inferred from unreadable or absent detail.",
+  "palette": [
+   {
+    "name": "Dark blue",
+    "hex": "#4A5072",
+    "role": "The large left profile-like field.",
+    "region": "left-profile"
+   },
+   {
+    "name": "Coral",
+    "hex": "#DD6157",
+    "role": "The upper-left lobe of the heart.",
+    "region": "heart"
+   },
+   {
+    "name": "Orange",
+    "hex": "#E96125",
+    "role": "The warm right field around the circular eye.",
+    "region": "right-profile"
+   },
+   {
+    "name": "Yellow",
+    "hex": "#DDC472",
+    "role": "The central yellow area beside the pale diagonal.",
+    "region": "diagonal"
+   },
+   {
+    "name": "Reddish brown",
+    "hex": "#A8534C",
+    "role": "The lower-right quarter of the heart.",
+    "region": "heart"
+   },
+   {
+    "name": "Cream photograph tone",
+    "hex": "#E3C89B",
+    "role": "The pale central ground, distinct from bright white interface space.",
+    "region": "photograph"
+   }
+  ],
+  "paletteNote": "Six individual pixels sampled from the unmodified 1200 × 1600 MAPR JPEG. These approximate this photographed impression under its lighting; they are not original ink specifications, calibrated physical measurements or colours inferred from another museum image."
+ }
+}

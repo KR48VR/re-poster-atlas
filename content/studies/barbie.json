@@ -1,0 +1,632 @@
+{
+ "poster": {
+  "id": "barbie",
+  "title": "Barbie",
+  "year": "2023",
+  "yearNumber": 2023,
+  "creator": "Warner Bros. · theatrical campaign",
+  "filmCreator": "Greta Gerwig",
+  "country": "United States / United Kingdom",
+  "countries": [
+   "United States",
+   "United Kingdom"
+  ],
+  "region": "North America",
+  "ratio": 0.6741721854304635,
+  "accent": "#c64280",
+  "anchor": [
+   0.5,
+   0.59
+  ],
+  "edition": "English-language 2023 advance theatrical campaign with the large B, Barbie and Ken, and July 21 release date.",
+  "alt": "Barbie advance poster with Margot Robbie seated above Ryan Gosling inside an enormous sculpted white-and-pink B against a bright blue sky, with the July 21 release date below.",
+  "blurb": "An enormous pink initial becomes a stage for two stars, making a brand shape feel like an entire world.",
+  "notes": [
+   {
+    "title": "A letter becomes a place",
+    "body": "The huge B is not simply printed beside the actors: it surrounds them and appears to support their poses. Typography takes on the scale and solidity of a piece of scenery."
+   },
+   {
+    "title": "Pink holds against blue",
+    "body": "The pink structure and clothing stand out against the cool blue sky. The broad, uncluttered colour fields let the silhouette remain readable at a distance."
+   },
+   {
+    "title": "Two poses, an unequal introduction",
+    "body": "Barbie sits upright with an open gesture while Ken reclines below. The positions echo the campaign’s playful distinction between its central heroine and her companion, before the smaller copy is read."
+   }
+  ],
+  "source": "https://bfidatadigipres.github.io/new%20releases/2023/07/21/barbie/",
+  "imageSource": "https://www.impawards.com/2023/barbie_ver2.html",
+  "credit": "Warner Bros. Pictures / Mattel Films, 2023 campaign. English-language theatrical artwork reproduced via IMP Awards for visual commentary. Individual designer attribution is not independently established.",
+  "category": "Film",
+  "image": "images/full/barbie.jpg",
+  "posterYear": "2023",
+  "primaryOrigin": "United States",
+  "anchorLayer": 1,
+  "thumb": "images/catalogue/barbie.webp"
+ },
+ "studyData": {
+  "intro": "A giant glossy B becomes both the title’s initial and a place for two contrasting poses. This English-language advance sheet gives the characters a clear hierarchy, then closes with a theatrical date; its blue-and-pink construction is more specific than a generic colour theme.",
+  "initial": "letter",
+  "regions": [
+   {
+    "id": "letter",
+    "number": 1,
+    "label": "A letter made into scenery",
+    "shortLabel": "A letter made into scenery",
+    "kicker": "SCALE CHANGES THE JOB OF A LETTER",
+    "summary": "The oversized B appears to hold the people.",
+    "x": 83,
+    "y": 53,
+    "bounds": {
+     "x": 0,
+     "y": 2,
+     "w": 100,
+     "h": 96
+    },
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Scale changes the job of a letter",
+      "body": "The B fills almost the entire sheet, extending beyond the lower and side edges. Its curved strokes become apparent seats and supports for the figures. A familiar letter therefore works as a large structure while remaining recognisable as part of the film’s name.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "An initial does the naming",
+      "body": "This sheet does not need a separately spelled-out Barbie title to make its largest sign readable as a brand initial. That is a visual reading of this particular campaign; recognition still depends on what a viewer already knows about the letter and accompanying imagery.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which parts of the B make it look solid rather than like flat printed text?",
+    "related": [
+     "gloss",
+     "barbie",
+     "ken"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "gloss",
+    "number": 2,
+    "label": "White highlights on pink",
+    "shortLabel": "White highlights on pink",
+    "kicker": "SHADING FOLLOWS THE CURVE",
+    "summary": "Curved reflections give the letter a polished surface.",
+    "x": 14,
+    "y": 26,
+    "bounds": {
+     "x": 4,
+     "y": 4,
+     "w": 91,
+     "h": 41
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Shading follows the curve",
+      "body": "Broad off-white faces are surrounded by saturated pink edges, while smaller bright highlights trace the rounded contours. The changes in tone suggest depth and smoothness. They remain coloured pixels on the poster, not evidence of an actual three-dimensional object at the shoot.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A material association",
+      "body": "The shine can suggest a polished toy-like surface, but the picture alone cannot establish its construction material. The useful comparison is between smooth reflective curves and the more detailed skin, hair and fabric of the people placed on them.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Cover one white highlight: does the curved stroke become flatter?",
+    "related": [
+     "letter",
+     "sky"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "barbie",
+    "number": 3,
+    "label": "The upper seated figure",
+    "shortLabel": "The upper seated figure",
+    "kicker": "AN UPWARD EXTENSION",
+    "summary": "An upright pose occupies the upper loop.",
+    "x": 57,
+    "y": 32,
+    "bounds": {
+     "x": 38,
+     "y": 7,
+     "w": 36,
+     "h": 49
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An upward extension",
+      "body": "The seated figure’s raised arm reaches toward the top of the B, while her legs descend toward its middle. The long vertical gesture makes her larger than the seated torso alone. She occupies a high position within the letter’s upper curve.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A named central performer",
+      "body": "Warner Bros. identifies Margot Robbie and Ryan Gosling as the leads in Greta Gerwig’s Barbie. The poster’s names and poses make that casting visible, but the unequal height of the figures is a compositional observation rather than evidence about production authority.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "wb"
+       }
+      ]
+     }
+    ],
+    "question": "How do her height and posture affect which person you notice first?",
+    "related": [
+     "hand",
+     "dress",
+     "ken"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "hand",
+    "number": 4,
+    "label": "A gesture toward the top",
+    "shortLabel": "A gesture toward the top",
+    "kicker": "A THIN SHAPE AGAINST A BROAD ONE",
+    "summary": "The lifted hand lengthens the silhouette.",
+    "x": 52,
+    "y": 10,
+    "bounds": {
+     "x": 47,
+     "y": 7,
+     "w": 10,
+     "h": 18
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A thin shape against a broad one",
+      "body": "The arm is narrow beside the thick white stroke of the B. Its warm skin separates from both pink and cream, and the spread hand finishes the upward movement near the top. This small detail gives the large curve a human measure.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Energy without a sequence",
+      "body": "The raised arm can read as a greeting or exuberant gesture, but the still image does not specify a complete action. Its compositional role is clearer: it links the seated body to the upper edge and interrupts a large uninterrupted arc.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What happens to the balance if you hide only the raised arm?",
+    "related": [
+     "barbie",
+     "letter"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "dress",
+    "number": 5,
+    "label": "Pink checks and tied fabric",
+    "shortLabel": "Pink checks and tied fabric",
+    "kicker": "SMALL PATTERN AGAINST LARGE SURFACES",
+    "summary": "A patterned garment breaks up the smooth structure.",
+    "x": 59,
+    "y": 32,
+    "bounds": {
+     "x": 48,
+     "y": 25,
+     "w": 25,
+     "h": 16
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Small pattern against large surfaces",
+      "body": "The pink-and-white checks are much smaller than the broad letter strokes. A tied section and folds break their grid, making the clothing visibly flexible beside the smooth apparent solidity of the B. Related colours connect the figure to the structure.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Matching without disappearing",
+      "body": "The pink garment belongs to the same colour family as the surrounding letter but remains distinguishable through white checks, folds and skin edges. Repetition of colour can unify an image without requiring each element to have the same texture or level of detail.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Compare the garment’s checks with the B’s highlights: which has the more regular rhythm?",
+    "related": [
+     "gloss",
+     "barbie",
+     "ken"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "ken",
+    "number": 6,
+    "label": "The reclining lower figure",
+    "shortLabel": "The reclining lower figure",
+    "kicker": "A DIFFERENT DIRECTION OF ATTENTION",
+    "summary": "A diagonal body stretches across the lower curve.",
+    "x": 30,
+    "y": 62,
+    "bounds": {
+     "x": 8,
+     "y": 47,
+     "w": 56,
+     "h": 42
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A different direction of attention",
+      "body": "The lower figure props his head on one hand and stretches across the letter’s lower curve. His bent knee and extended leg form a long diagonal. This relaxed-looking arrangement contrasts with the upper figure’s raised arm and more vertical body.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Hierarchy comes from relationships",
+      "body": "He is lower in the sheet and lies across a support, while the other figure rises within the upper loop. These relationships can make him read as a companion to the principal figure. The nearby copy reinforces that reading rather than the pose proving it alone.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the reclining pose answer the upright figure above?",
+    "related": [
+     "barbie",
+     "shoes",
+     "tagline"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "shoes",
+    "number": 7,
+    "label": "Two kinds of footwear",
+    "shortLabel": "Two kinds of footwear",
+    "kicker": "A LIGHT ENDPOINT",
+    "summary": "A white shoe closes the lower diagonal.",
+    "x": 53,
+    "y": 80,
+    "bounds": {
+     "x": 37,
+     "y": 74,
+     "w": 28,
+     "h": 15
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A light endpoint",
+      "body": "The white shoe sits near the end of the lower figure’s extended leg, contrasting with the saturated pink beneath it. Its angle continues the body’s diagonal. Above, the small pink heels finish a different downward line from the seated figure.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Costume details as compositional clues",
+      "body": "The footwear helps differentiate two silhouettes through colour, shape and orientation. It can be compared without assigning personality or status from clothing alone. The contrast is useful because both people otherwise occupy the same enormous letter and shared blue setting.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Compare the lower white shoe with the pink heels above: how do their angles continue each pose?",
+    "related": [
+     "ken",
+     "barbie"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "tagline",
+    "number": 8,
+    "label": "A two-sentence distinction",
+    "shortLabel": "A two-sentence distinction",
+    "kicker": "EVERYTHING AND JUST",
+    "summary": "The wording makes the unequal introduction explicit.",
+    "x": 65,
+    "y": 58,
+    "bounds": {
+     "x": 50,
+     "y": 55,
+     "w": 29,
+     "h": 7
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Everything and just",
+      "body": "The line reads She’s everything. He’s just Ken. The first sentence offers a sweeping description; the second reduces its subject to a name qualified by just. Their parallel grammar makes the difference sharper than two unrelated character descriptions would be.",
+      "evidence": "observation",
+      "originalText": "She’s everything. He’s just Ken.",
+      "lang": "en"
+     },
+     {
+      "kind": "business",
+      "heading": "A joke placed beside the pairing",
+      "body": "The copy sits in an open pink pocket between the figures and asks viewers to read their contrast humorously. This is an interpretation of words and layout, not evidence that all viewers find the joke effective or that it describes the full narrative.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the word just change the relationship between the two sentences?",
+    "related": [
+     "barbie",
+     "ken",
+     "letter"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "sky",
+    "number": 9,
+    "label": "Blue beyond the letter",
+    "shortLabel": "Blue beyond the letter",
+    "kicker": "A COOL FIELD WITH FEW DISTRACTIONS",
+    "summary": "A simple sky separates the pink structure from the sheet.",
+    "x": 12,
+    "y": 43,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 100,
+     "h": 100
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A cool field with few distractions",
+      "body": "Cyan sky and a small band of soft clouds remain visible around the huge B. The relatively even field gives the letter a clear outer contour. It also creates blue openings through which the shape can be understood as a letter, not a solid rectangle.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Colour contrast is relational",
+      "body": "The pink appears especially vivid beside the cool blue, while white highlights connect to the pale clouds. That relationship can be observed without treating either hue as a fixed symbol or assuming a universal response to the campaign’s palette.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where can you still see blue inside or around the B, and what do those gaps do?",
+    "related": [
+     "letter",
+     "gloss"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "names",
+    "number": 10,
+    "label": "Two names at the corners",
+    "shortLabel": "Two names at the corners",
+    "kicker": "A PAIR ABOVE THE PAIR",
+    "summary": "Performer credits balance the upper edge.",
+    "x": 88,
+    "y": 5,
+    "bounds": {
+     "x": 3,
+     "y": 2,
+     "w": 94,
+     "h": 7
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A pair above the pair",
+      "body": "Margot Robbie appears at upper left and Ryan Gosling at upper right, each broken into two lines. White letters separate from the blue sky. Their placement balances the top without placing another block directly over the raised hand.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Casting as a second entry point",
+      "body": "The actor names let a viewer identify the people even before seeing the smaller tagline. The sheet combines character imagery and performer recognition; it provides no evidence for how much either route contributed to the campaign’s commercial results.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Why do the corner credits remain distinct from the large central initial?",
+    "related": [
+     "barbie",
+     "ken",
+     "date"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "date",
+    "number": 11,
+    "label": "A date at the base",
+    "shortLabel": "A date at the base",
+    "kicker": "FROM DESCRIPTION TO INSTRUCTION",
+    "summary": "The invitation ends with a theatrical opening.",
+    "x": 64,
+    "y": 93,
+    "bounds": {
+     "x": 52,
+     "y": 89,
+     "w": 28,
+     "h": 7
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "From description to instruction",
+      "body": "Only in Theaters sits above July 21, moving the copy from characters to a place and time for seeing the film. The date has the strongest weight in this lower block and remains separate from the tiny logos at the edge.",
+      "evidence": "observation",
+      "originalText": "Only in Theaters / July 21",
+      "lang": "en"
+     },
+     {
+      "kind": "business",
+      "heading": "A date with a territory",
+      "body": "Warner Bros.’ release announcement confirms the North American theatrical opening on 21 July 2023 and international openings beginning earlier. The English date printed here belongs to this campaign; it should not be treated as the single opening date for every country.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "wb"
+       }
+      ]
+     }
+    ],
+    "question": "What practical information does the lower block add that the character image cannot?",
+    "related": [
+     "names",
+     "tagline"
+    ],
+    "layerIndex": 4
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed poster edition",
+    "url": "https://www.impawards.com/2023/barbie_ver2.html",
+    "kind": "Visual source",
+    "summary": "The reproduced sheet supports observations of visible wording, colour, composition and marks; it does not establish the designer’s intention."
+   },
+   {
+    "id": "wb",
+    "title": "Warner Bros.: Barbie release announcement",
+    "url": "https://press.wbd.com/us/media-release/barbie-skates-past-500-million-worldwide?language_content_entity=en",
+    "kind": "Studio press release",
+    "summary": "Confirms the principal cast, Greta Gerwig, distributor and 21 July 2023 North American opening; its sales figures are not used to infer design effectiveness."
+   }
+  ],
+  "tour": [
+   "letter",
+   "barbie",
+   "ken",
+   "tagline",
+   "gloss",
+   "date"
+  ],
+  "transcript": [
+   {
+    "heading": "Readable wording on this edition",
+    "rows": [
+     {
+      "text": "She’s everything. He’s just Ken.",
+      "meaning": "Parallel sentences establish a playful contrast.",
+      "lang": "en"
+     },
+     {
+      "text": "Only in Theaters / July 21",
+      "meaning": "Theatrical invitation and campaign date.",
+      "lang": "en"
+     },
+     {
+      "text": "Margot Robbie / Ryan Gosling",
+      "meaning": "Performer names.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Secure large wording is transcribed. Tiny studio and format marks are present but not expanded into a complete credits list.",
+  "palette": [
+   {
+    "name": "Sky cyan",
+    "hex": "#43C6FE",
+    "region": "sky",
+    "role": "Cool field beyond the structure."
+   },
+   {
+    "name": "Saturated pink",
+    "hex": "#EE16A7",
+    "region": "letter",
+    "role": "The strong outer letter surface."
+   },
+   {
+    "name": "Pale highlight",
+    "hex": "#F9EFEE",
+    "region": "gloss",
+    "role": "A light band suggesting curvature."
+   },
+   {
+    "name": "Green costume",
+    "hex": "#90D3B4",
+    "region": "ken",
+    "role": "An accent separating the lower figure."
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in the installed reproduction. These are not original ink specifications; scan, lighting and compression can alter colour.",
+  "connections": [
+   {
+    "label": "A letter as a stage",
+    "title": "Two poses occupy one oversized initial",
+    "text": "The upper figure sits in the B while the lower figure reclines along its curve. A typographic form becomes a shared physical setting.",
+    "anchors": [
+     [
+      2,
+      0.6296660117878192,
+      0.31059602649006623
+     ],
+     [
+      1,
+      0.8791748526522594,
+      0.2894039735099338
+     ],
+     [
+      3,
+      0.3605108055009823,
+      0.6496688741721854
+     ]
+    ],
+    "id": "barbie-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Pink against blue",
+    "title": "A simple colour contrast makes room for detail",
+    "text": "The expansive pink letter is set against a clear cyan sky. That large contrast lets the smaller pale costumes and white words remain legible.",
+    "anchors": [
+     [
+      1,
+      0.45088408644400785,
+      0.2099337748344371
+     ],
+     [
+      0,
+      0.04027504911591356,
+      0.3794701986754967
+     ],
+     [
+      4,
+      0.6198428290766208,
+      0.9225165562913907
+     ]
+    ],
+    "id": "barbie-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

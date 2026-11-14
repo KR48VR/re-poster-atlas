@@ -1,0 +1,604 @@
+{
+ "poster": {
+  "id": "a-separation",
+  "title": "A Separation",
+  "year": "2011",
+  "yearNumber": 2011,
+  "country": "Iran",
+  "region": "West Asia & Caucasus",
+  "category": "Film",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Asghar Farhadi",
+  "edition": "English-language theatrical release poster",
+  "image": "images/full/a-separation.jpg",
+  "ratio": 0.6894736842105263,
+  "alt": "A Separation English-language poster with a woman in a brown headscarf sharply focused in front of a softly focused bearded man, pale title lettering across the bottom and small reviews above.",
+  "blurb": "Two faces share the same space, but focus and direction keep them apart.",
+  "notes": [
+   {
+    "title": "Focus creates the separation",
+    "body": "The woman’s face is sharply defined while the man behind her is softer. Depth of field becomes a visual way to keep two close figures apart."
+   },
+   {
+    "title": "Gazes do not quite meet",
+    "body": "Both faces look beyond the frame rather than toward each other. The composition offers proximity without a reciprocal exchange, leaving the relationship tense and unfinished."
+   },
+   {
+    "title": "A restrained palette leaves room for expression",
+    "body": "Brown, cream and muted skin tones keep the colour range narrow. The pale title and small review text recede enough for the two expressions to carry the image."
+   }
+  ],
+  "source": "https://www.sonypictures.com/movies/aseparation",
+  "imageSource": "https://en.wikipedia.org/wiki/File:A_Separation_(2011_film_poster).png",
+  "imageCredit": "Copyright in the poster remains with its respective studio, distributor or artist. Low-resolution reproduction via Wikipedia for visual commentary; see the image source record.",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/en/4/41/A_Separation_%282011_film_poster%29.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+  "anchor": [
+   0.33,
+   0.41
+  ],
+  "accent": "#8f6653",
+  "yearNote": "Year refers to the film’s first release; the poster edition is identified separately.",
+  "credit": "Copyright in the poster remains with its respective studio, distributor or artist. Low-resolution reproduction via Wikipedia for visual commentary; see the image source record.",
+  "countries": [
+   "Iran"
+  ],
+  "primaryOrigin": "Iran",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/a-separation.webp"
+ },
+ "studyData": {
+  "intro": "Two faces occupy nearly the whole sheet, but they are not equally sharp or equally close. Read the distance between them, the directions of their gazes and the quieter title before deciding what kind of separation the image suggests.",
+  "initial": "woman",
+  "regions": [
+   {
+    "id": "woman",
+    "label": "The foreground face",
+    "shortLabel": "The foreground face",
+    "kicker": "The nearer plane of attention",
+    "summary": "A sharply focused face dominates the left.",
+    "x": 32,
+    "y": 43,
+    "bounds": {
+     "x": 5,
+     "y": 17,
+     "w": 54,
+     "h": 52
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "The nearer plane of attention",
+      "body": "The foreground face shows clear eyebrows, eyes, lips and small changes in skin tone. It occupies more of the sheet than the face behind it. Dark fabric and hair frame its pale areas, making the expression readable without an isolated portrait border.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Describe before interpreting",
+      "body": "The mouth is partly open and the eyebrows are drawn together. Those are visible features; a precise emotion or spoken sentence is not. Different viewers may read concern, urgency or disagreement, but the study keeps those interpretations separate from the observable facial arrangement.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which facial details are clearest, and which disappear into shadow?",
+    "related": [
+     "eyes",
+     "man"
+    ],
+    "number": 1
+   },
+   {
+    "id": "eyes",
+    "label": "A gaze beyond the frame",
+    "shortLabel": "A gaze beyond the frame",
+    "kicker": "A direction inside a close portrait",
+    "summary": "Two dark eyes point toward an unseen subject.",
+    "x": 32.5,
+    "y": 37.5,
+    "bounds": {
+     "x": 13,
+     "y": 33,
+     "w": 39,
+     "h": 9
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A direction inside a close portrait",
+      "body": "The dark eyes sit within a strongly lit face and look toward the right side of the image. The gaze does not directly address the viewer. Their small highlights and sharp outlines make them especially noticeable compared with the softer eye area of the person behind.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An absent destination",
+      "body": "Both faces appear oriented toward something beyond the frame, but the poster does not reveal what it is. That absence can make the viewer curious about a conversation or confrontation. It is a spatial clue, not evidence of a particular scene or person outside the crop.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Do the eyes appear to meet yours, or look somewhere beside you?",
+    "related": [
+     "man",
+     "mouth"
+    ],
+    "number": 2
+   },
+   {
+    "id": "mouth",
+    "label": "A partly open mouth",
+    "shortLabel": "A partly open mouth",
+    "kicker": "A sharp local contrast",
+    "summary": "A small light opening interrupts the lower face.",
+    "x": 32,
+    "y": 56.5,
+    "bounds": {
+     "x": 20,
+     "y": 51,
+     "w": 24,
+     "h": 11
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A sharp local contrast",
+      "body": "The lips and pale teeth create a small, high-contrast area beneath the eyes. The opening is asymmetric, and shadow defines the lower lip and chin. This detail contributes to the sense of an active moment rather than a formally posed, closed-mouth portrait.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "Speech without words",
+      "body": "The open mouth can suggest speech, surprise or a pause in breathing, but no speech is printed beside it. Supplying imagined dialogue would turn interpretation into invention. The poster lets a bodily cue raise a question while the title and reviews supply the only explicit verbal messages.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What does the open mouth suggest, and what can it not prove?",
+    "related": [
+     "eyes",
+     "title"
+    ],
+    "number": 3
+   },
+   {
+    "id": "scarf",
+    "label": "A dark frame of fabric",
+    "shortLabel": "A dark frame of fabric",
+    "kicker": "A frame within the crop",
+    "summary": "Brown folds surround the face and descend toward the title.",
+    "x": 34,
+    "y": 46,
+    "bounds": {
+     "x": 0,
+     "y": 9,
+     "w": 68,
+     "h": 74
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A frame within the crop",
+      "body": "The head covering surrounds the forehead, cheeks and neck in dark brown folds. Its irregular outer edge separates the foreground person from the warmer background and the second face. Beneath the chin, overlapping fabric makes a series of curved bands across the upper chest.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Clothing is not a complete identity",
+      "body": "The fabric is visible evidence of what is worn in this image. It does not establish a person’s beliefs, political position or emotional state. The film’s Iranian setting comes from the distributor’s record, rather than from treating one garment as a sufficient explanation of a culture.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does fabric define the face’s outline most strongly?",
+    "related": [
+     "woman",
+     "background"
+    ],
+    "number": 4
+   },
+   {
+    "id": "man",
+    "label": "The softer face behind",
+    "shortLabel": "The softer face behind",
+    "kicker": "Overlap and focus work together",
+    "summary": "A second portrait is partly hidden and less sharply focused.",
+    "x": 77.5,
+    "y": 38.5,
+    "bounds": {
+     "x": 55,
+     "y": 6,
+     "w": 45,
+     "h": 65
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Overlap and focus work together",
+      "body": "The foreground head covers part of the man’s left side. His face is also softer in focus, especially around the eyes and hair, while the beard forms a broad dark area. These two cues establish depth even though the faces are very close together on the sheet.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A marriage under strain",
+      "body": "Sony’s synopsis identifies the central conflict as a marriage in contemporary Iran: Simin wants to leave with Nader and their daughter, while Nader will not leave his father. That provides narrative context for the title. It does not make the two printed portraits a complete account of either person’s position.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "sony"
+       }
+      ]
+     }
+    ],
+    "question": "What tells you that this person is behind the foreground figure?",
+    "related": [
+     "woman",
+     "gap"
+    ],
+    "number": 5
+   },
+   {
+    "id": "gap",
+    "label": "The narrow interval between faces",
+    "shortLabel": "The narrow interval between faces",
+    "kicker": "Very little literal space",
+    "summary": "A thin overlap zone separates two human planes.",
+    "x": 58,
+    "y": 46,
+    "bounds": {
+     "x": 52,
+     "y": 23,
+     "w": 13,
+     "h": 39
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Very little literal space",
+      "body": "The faces are not divided by a large blank gap. The nearer scarf overlaps the softer portrait, and a narrow band of shadow marks the boundary. The image therefore brings the people physically close on the page while still making their visual planes distinct.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A title tested against an image",
+      "body": "The word separation might lead a viewer to expect a wide physical gap. Here the distinction is made through focus, overlap and different facial directions. That tension is a plausible reading of the design; it is not proof of an intended metaphor documented by the poster’s maker.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Is the separation created by empty space, by overlap or by focus?",
+    "related": [
+     "title",
+     "man"
+    ],
+    "number": 6
+   },
+   {
+    "id": "background",
+    "label": "A small amount of warm ground",
+    "shortLabel": "A small amount of warm ground",
+    "kicker": "A setting almost removed",
+    "summary": "Only narrow areas remain outside the portraits.",
+    "x": 3,
+    "y": 5,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 100,
+     "h": 12
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A setting almost removed",
+      "body": "Warm beige and brown areas remain above and beside the heads, but they do not describe a clear room or landscape. Most of the sheet is taken up by people and text. The crop gives little environmental information with which to explain the expressions.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A human-scale invitation",
+      "body": "This edition asks viewers to approach through faces rather than scenery, spectacle or a detailed plot summary. That is a visible campaign choice. It can make personal conflict seem central without proving that the film excludes broader social questions or that all viewers respond to the portraits in the same way.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How much setting information has been excluded by this crop?",
+    "related": [
+     "reviews",
+     "woman"
+    ],
+    "number": 7
+   },
+   {
+    "id": "reviews",
+    "label": "Three small review groups",
+    "shortLabel": "Three small review groups",
+    "kicker": "A compressed top band",
+    "summary": "Fine pale writing forms a band over the heads.",
+    "x": 50.5,
+    "y": 5.5,
+    "bounds": {
+     "x": 4,
+     "y": 2,
+     "w": 93,
+     "h": 7
+    },
+    "layerIndex": 4,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A compressed top band",
+      "body": "Three groups of small pale text sit across the top, separated by narrow spaces. The lettering remains visible as a row of endorsements, but this 262-pixel-wide source cannot reliably reveal every word or attribution. The broad arrangement is more secure than a full transcript.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Borrowed voices above faces",
+      "body": "The review band brings external judgments into an otherwise intimate image. It can signal that others have valued the film before a viewer has formed an opinion. The study treats those endorsements as campaign material and does not promote unreadable fragments into verified quotations.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which matters first at this size: the words themselves or the fact that several voices are quoted?",
+    "related": [
+     "awards",
+     "background"
+    ],
+    "number": 8
+   },
+   {
+    "id": "awards",
+    "label": "A small credential block",
+    "shortLabel": "A small credential block",
+    "kicker": "Information on a human surface",
+    "summary": "Festival information sits over the lower background portrait.",
+    "x": 84.5,
+    "y": 70.5,
+    "bounds": {
+     "x": 72,
+     "y": 62,
+     "w": 25,
+     "h": 17
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Information on a human surface",
+      "body": "The award and festival block occupies a narrow area on the right, over dark clothing and the lower part of the rear portrait. Small pale letters and laurel-like marks form a compact texture. Their position avoids the clearest foreground facial features while using the available darker ground.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A limit to reliable reading",
+      "body": "Some large words and marks can be recognized, but the source size does not support an exact inventory of every festival or prize here. The study therefore describes their function without inventing a complete list. A sharper original would be needed to verify a full transcription.",
+      "evidence": "uncertain"
+     }
+    ],
+    "question": "How does placing text over a person change the way that portrait is read?",
+    "related": [
+     "reviews",
+     "title"
+    ],
+    "number": 9
+   },
+   {
+    "id": "title",
+    "label": "A pale title across both portraits",
+    "shortLabel": "A pale title across both portraits",
+    "kicker": "A plain phrase over a complex image",
+    "summary": "The film name spans nearly the full width.",
+    "x": 50.5,
+    "y": 84.5,
+    "bounds": {
+     "x": 3,
+     "y": 81,
+     "w": 95,
+     "h": 7
+    },
+    "layerIndex": 3,
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A plain phrase over a complex image",
+      "body": "The English title appears in large pale capitals near the bottom. Its relatively even strokes and straight baseline contrast with the detailed faces and folded fabric. The first word is short, while the longer second word stretches across both portrait areas, visually connecting them.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "One line across two planes",
+      "body": "Because the title crosses the foreground and background figures, it can be read as a bridge over their difference or as another layer separating image from viewer. Both readings begin with its actual placement. Neither requires a claim that the designer intended one fixed meaning.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does the title feel like a divider, a bridge or both?",
+    "related": [
+     "gap",
+     "billing"
+    ],
+    "number": 10
+   },
+   {
+    "id": "billing",
+    "label": "The dense credit base",
+    "shortLabel": "The dense credit base",
+    "kicker": "A shallow, dense band",
+    "summary": "Very small production text finishes the sheet.",
+    "x": 50.5,
+    "y": 94,
+    "bounds": {
+     "x": 3,
+     "y": 89,
+     "w": 95,
+     "h": 10
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A shallow, dense band",
+      "body": "The production credits occupy several tightly packed lines beneath the main title. Their pale tone helps on dark clothing but becomes less distinct over lighter fabric. At this resolution they contribute a visible base of information without supporting reliable reading of every name.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Film record and poster evidence",
+      "body": "Sony’s official page supports the film’s identity and synopsis, but it does not establish the designer or exact printing date of this selected English-language image. Keeping those limits explicit prevents a film date, a distributor’s webpage or a familiar face from being mistaken for complete poster provenance.",
+      "evidence": "uncertain",
+      "sources": [
+       {
+        "id": "sony"
+       }
+      ]
+     }
+    ],
+    "question": "Where does the small writing become indistinguishable from image texture?",
+    "related": [
+     "title",
+     "reviews"
+    ],
+    "number": 11
+   }
+  ],
+  "sources": [
+   {
+    "id": "sony",
+    "title": "Sony Pictures: A Separation",
+    "url": "https://www.sonypictures.com/movies/aseparation",
+    "kind": "Distributor",
+    "summary": "Verifies the film’s identity, contemporary Iranian setting and the Simin/Nader family conflict; does not verify this selected poster’s designer or exact printing date."
+   }
+  ],
+  "tour": [
+   "woman",
+   "man",
+   "gap",
+   "scarf",
+   "title",
+   "reviews"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected readable wording",
+    "rows": [
+     {
+      "text": "A SEPARATION",
+      "meaning": "English film title.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "This is a partial transcript of securely readable wording in the installed reproduction. Small credits, logos and review attributions are not fully transcribed; enlargement cannot restore missing source detail.",
+  "palette": [
+   {
+    "name": "Scarf brown",
+    "hex": "#57443E",
+    "role": "A dark frame around the foreground face.",
+    "region": "scarf"
+   },
+   {
+    "name": "Skin light",
+    "hex": "#E8CFB9",
+    "role": "The most detailed portrait plane.",
+    "region": "woman"
+   },
+   {
+    "name": "Backdrop brown",
+    "hex": "#967562",
+    "role": "A narrow warm field around the heads.",
+    "region": "background"
+   },
+   {
+    "name": "Beard dark",
+    "hex": "#35292B",
+    "role": "A softer dark area in the rear portrait.",
+    "region": "man"
+   }
+  ],
+  "paletteNote": "These are individual screen-pixel samples from the installed digital reproduction, not specifications for the original inks or paper. Texture, lighting, scanning and screen settings affect their appearance.",
+  "connections": [
+   {
+    "label": "Near but separate",
+    "title": "Focus makes two depths",
+    "text": "The woman’s sharp features sit directly in front of a softer male portrait. The difference in focus creates depth even where their silhouettes almost touch.",
+    "anchors": [
+     [
+      2,
+      0.3187022900763359,
+      0.40131578947368424
+     ],
+     [
+      1,
+      0.799618320610687,
+      0.36973684210526314
+     ]
+    ],
+    "id": "a-separation-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Faces and quiet type",
+    "title": "Expression carries the centre",
+    "text": "The title spans the lower image while the two faces occupy the main field above it. Its muted pale tone keeps the expressions visually prominent.",
+    "anchors": [
+     [
+      2,
+      0.3416030534351145,
+      0.5513157894736842
+     ],
+     [
+      1,
+      0.799618320610687,
+      0.48026315789473684
+     ],
+     [
+      3,
+      0.5019083969465649,
+      0.8381578947368421
+     ]
+    ],
+    "id": "a-separation-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

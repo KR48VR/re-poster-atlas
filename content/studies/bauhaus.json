@@ -1,0 +1,640 @@
+{
+ "poster": {
+  "id": "bauhaus",
+  "title": "Bauhaus Exhibition, Weimar",
+  "year": "1923",
+  "yearNumber": 1923,
+  "country": "Germany",
+  "region": "Europe",
+  "category": "Design",
+  "creator": "Joost Schmidt",
+  "edition": "Lithograph for the 1923 Bauhaus exhibition in Weimar; visible dates belong to the early printed layout.",
+  "image": "images/full/bauhaus.jpg",
+  "ratio": 0.771698,
+  "width": 409,
+  "height": 530,
+  "alt": "A black diagonal geometric figure built from circles and bars crosses an ochre sheet with red accents and Bauhaus exhibition lettering.",
+  "blurb": "A head-like construction of circles and bars makes the Bauhaus exhibition announcement feel both mechanical and human.",
+  "notes": [
+   {
+    "title": "A face made from geometry",
+    "body": "Circles, semicircles and straight bars can be read as a head and neck. Recognition arrives through a small vocabulary of abstract parts."
+   },
+   {
+    "title": "Text follows the construction",
+    "body": "The exhibition words climb, curve and tilt with the shapes. They help construct the figure instead of occupying a conventional headline box."
+   },
+   {
+    "title": "A limited palette, many roles",
+    "body": "Black supplies the heaviest masses, red marks a circular counterweight, and the warm paper remains visible throughout. Few colours produce a surprisingly layered structure."
+   }
+  ],
+  "source": "https://www.moma.org/collection/works/6235/",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Joost_Schmidt_Bauhausausstellung_1923.jpg",
+  "imageCredit": "Joost Schmidt, 1923. Public-domain artwork; reproduction via Wikimedia Commons.",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Joost_Schmidt_Bauhausausstellung_1923.jpg",
+  "accent": "#bb3b20",
+  "anchor": [
+   0.26,
+   0.19
+  ],
+  "credit": "Joost Schmidt, 1923. Public-domain artwork; reproduction via Wikimedia Commons.",
+  "anchorLayer": 2,
+  "countries": [
+   "Germany"
+  ],
+  "primaryOrigin": "Germany",
+  "thumb": "images/catalogue/bauhaus.webp"
+ },
+ "studyData": {
+  "intro": "Letters, circles and a constructed profile share one diagonal scaffold. Follow how this exhibition notice turns practical information into part of an abstract figure, while retaining different levels of reading.",
+  "initial": "profile",
+  "regions": [
+   {
+    "id": "profile",
+    "label": "The constructed upper profile",
+    "shortLabel": "The constructed upper profile",
+    "kicker": "DESIGN",
+    "summary": "A dark mass links circle, block and suggestion of a head.",
+    "layerIndex": 2,
+    "bounds": {
+     "x": 19,
+     "y": 15,
+     "w": 69,
+     "h": 43
+    },
+    "x": 47,
+    "y": 33,
+    "question": "At what point does an arrangement of shapes begin to resemble a profile?",
+    "related": [
+     "circle",
+     "arc",
+     "bar"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A figure assembled from geometry",
+      "body": "The upper black form begins near the red circle, drops diagonally and turns into a horizontal-looking extension. Small curves and a dot suggest a face without describing one naturalistically. The shape remains readable as a combination of simple pieces even after a head-like image appears.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Two readings at once",
+      "body": "You can move between seeing a profile and seeing a rigid diagram. Neither reading fully replaces the other. This is a useful experiment in how little information a face requires, but it does not justify assigning the abstract figure a particular identity or symbolic personality.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 1
+   },
+   {
+    "id": "circle",
+    "label": "The red ring",
+    "shortLabel": "The red ring",
+    "kicker": "DESIGN",
+    "summary": "A broad arc gives the upper-left area weight.",
+    "layerIndex": 1,
+    "bounds": {
+     "x": 9,
+     "y": 15,
+     "w": 31,
+     "h": 32
+    },
+    "x": 17,
+    "y": 32,
+    "question": "Compare the ring’s width with the black shapes beside it.",
+    "related": [
+     "profile",
+     "arc",
+     "hook"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A curve with a missing sector",
+      "body": "The red form is closer to a thick ring than a solid disc. A pale centre remains visible, while the black structure covers part of its circumference. Its broad curved band balances the straight diagonal and gives the upper-left portion a concentrated area of colour.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A family of different curves",
+      "body": "The red ring, the thin upper arc and the lower black hook are all curved, but they differ greatly in thickness and completeness. Comparing them reveals a small formal vocabulary used at several scales. Repetition here does not mean mechanical duplication.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 2
+   },
+   {
+    "id": "arc",
+    "label": "The thin upper arc",
+    "shortLabel": "The thin upper arc",
+    "kicker": "DESIGN",
+    "summary": "A fine line encloses a much lighter area.",
+    "layerIndex": 0,
+    "bounds": {
+     "x": 56,
+     "y": 24,
+     "w": 30,
+     "h": 18
+    },
+    "x": 70,
+    "y": 26,
+    "question": "What changes if you compare only the arc and the heavy ring?",
+    "related": [
+     "circle",
+     "profile",
+     "paper"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An almost weightless boundary",
+      "body": "A narrow curved line rises from the upper structure and crosses the ochre ground. Because it encloses nearly the same tone as its surroundings, it suggests an area without filling it. That makes it markedly lighter than the dense black and red forms nearby.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Line and mass in conversation",
+      "body": "The arc’s fragility makes the adjacent blocks feel heavier. It also extends the constructed profile without needing another large colour shape. Look for the small dark circle near its base: a tiny filled mark can become conspicuous when set beside such fine geometry.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 3
+   },
+   {
+    "id": "bar",
+    "label": "The red diagonal bar",
+    "shortLabel": "The red diagonal bar",
+    "kicker": "DESIGN",
+    "summary": "A broad accent separates two large black structures.",
+    "layerIndex": 4,
+    "bounds": {
+     "x": 49,
+     "y": 40,
+     "w": 49,
+     "h": 20
+    },
+    "x": 79,
+    "y": 48,
+    "question": "Follow the bar’s edges into the lettering: what shares its angle?",
+    "related": [
+     "profile",
+     "hook",
+     "date"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A hinge across the composition",
+      "body": "The red bar runs beneath the upper profile and above the lower hook, connecting them while keeping their shapes distinct. Its angle is shared by nearby text. It therefore works as both an independent coloured block and a hinge between the composition’s upper and lower parts.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Red used in two ways",
+      "body": "The ring concentrates colour into a curve; the bar stretches it into a straight directional shape. Their shared hue ties them together across the page. Cover one red area and see whether the remaining one appears more isolated or changes the apparent centre of weight.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 4
+   },
+   {
+    "id": "hook",
+    "label": "The lower black hook",
+    "shortLabel": "The lower black hook",
+    "kicker": "DESIGN",
+    "summary": "A large curved end anchors the diagonal structure.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 44,
+     "y": 49,
+     "w": 52,
+     "h": 48
+    },
+    "x": 76,
+    "y": 82,
+    "question": "How does the hook counter the red ring above?",
+    "related": [
+     "circle",
+     "bar",
+     "weimar"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A heavy ending",
+      "body": "The lower form descends as a thick slanted stem and rounds into a broad hook near the bottom. Its large uninterrupted black area is among the heaviest shapes on the sheet. The rounded ending contrasts with the smaller stepped elements nested nearer the centre.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Balance without symmetry",
+      "body": "The hook sits lower and farther right than the red ring, so the two do not mirror each other. They balance through different combinations of size, darkness and position. This gives the composition a diagonal equilibrium rather than the stillness of a centred symmetrical emblem.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 5
+   },
+   {
+    "id": "bauhaus-word",
+    "label": "The curved Bauhaus name",
+    "shortLabel": "The curved Bauhaus name",
+    "kicker": "LANGUAGE",
+    "summary": "The institution’s name follows the upper shape.",
+    "layerIndex": 5,
+    "bounds": {
+     "x": 16,
+     "y": 8,
+     "w": 42,
+     "h": 21
+    },
+    "x": 37.99,
+    "y": 12.476,
+    "question": "Which letters are upright relative to the page, and which rotate?",
+    "related": [
+     "state",
+     "exhibition",
+     "profile"
+    ],
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "The institution names itself",
+      "body": "The large word “BAUHAUS” curves across the top of the constructed head. Its changing letter angles turn the name into part of the shape’s outer contour. The title does more than identify the institution: it also helps draw the upper edge of the composition.",
+      "evidence": "observation",
+      "originalText": "BAUHAUS",
+      "lang": "de"
+     },
+     {
+      "kind": "context",
+      "heading": "A documented exhibition poster",
+      "body": "MoMA attributes Staatliches Bauhaus Ausstellung to Joost Schmidt and dates it 1923. The museum records a lithograph printed by von Reineck & Klein in Weimar. These details establish the object’s attribution and production context without assigning a hidden meaning to each geometric component.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "moma"
+       }
+      ]
+     }
+    ],
+    "number": 6
+   },
+   {
+    "id": "state",
+    "label": "The smaller red qualifier",
+    "shortLabel": "The smaller red qualifier",
+    "kicker": "LANGUAGE",
+    "summary": "A narrower red word follows a different part of the curve.",
+    "layerIndex": 5,
+    "bounds": {
+     "x": 1,
+     "y": 10,
+     "w": 19,
+     "h": 22
+    },
+    "x": 7.598,
+    "y": 22.684,
+    "question": "How does this smaller word remain connected to the larger black name?",
+    "related": [
+     "bauhaus-word",
+     "circle",
+     "paper"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A qualifier on the outer edge",
+      "body": "“STAATLICHES” means state or state-run in this institutional phrase. It is smaller and red, set along the outer-left arc before BAUHAUS. The change of scale establishes a hierarchy within the name while retaining the curved reading path.",
+      "evidence": "observation",
+      "originalText": "STAATLICHES",
+      "lang": "de",
+      "translation": "State / state-run"
+     },
+     {
+      "kind": "design",
+      "heading": "Colour separates the parts",
+      "body": "The red word shares colour with the nearby ring, but its thin strokes distinguish it from the broad band. This lets related elements remain separate. Read the word first as lettering, then as a sequence of small red marks following the curve.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 7
+   },
+   {
+    "id": "exhibition",
+    "label": "The rising exhibition word",
+    "shortLabel": "The rising exhibition word",
+    "kicker": "LANGUAGE",
+    "summary": "A word climbs toward the central structure.",
+    "layerIndex": 5,
+    "bounds": {
+     "x": 1,
+     "y": 54,
+     "w": 49,
+     "h": 24
+    },
+    "x": 23,
+    "y": 64,
+    "question": "Follow the baseline from the large A: where does it lead?",
+    "related": [
+     "bauhaus-word",
+     "bar",
+     "weimar"
+    ],
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "The event is named diagonally",
+      "body": "“AUSSTELLUNG” means exhibition. Its unusually large opening A sits near the left edge, while the remaining letters climb toward the centre. The word gives practical event information, but its baseline also behaves like a structural diagonal connecting the margin to the main image.",
+      "evidence": "observation",
+      "originalText": "AUSSTELLUNG",
+      "lang": "de",
+      "translation": "Exhibition"
+     },
+     {
+      "kind": "business",
+      "heading": "Information shares the artwork",
+      "body": "An exhibition notice must identify what is being offered, not only create a memorable shape. Here that task is absorbed into the geometry rather than isolated in a conventional caption below it. The result rewards close reading, though the rotated words require more effort than a single level line.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 8
+   },
+   {
+    "id": "weimar",
+    "label": "Place inside a stepped form",
+    "shortLabel": "Place inside a stepped form",
+    "kicker": "LANGUAGE",
+    "summary": "Small dark bars enclose location and month information.",
+    "layerIndex": 5,
+    "bounds": {
+     "x": 46,
+     "y": 59,
+     "w": 29,
+     "h": 24
+    },
+    "x": 59.069,
+    "y": 77.316,
+    "question": "What is easiest to read here before you tilt your head?",
+    "related": [
+     "exhibition",
+     "hook",
+     "date"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A place within the construction",
+      "body": "“WEIMAR” sits on a diagonal within the lower central arrangement. Above it are abbreviated month labels, including JUL, AUG and SEPT. These details place the notice in time and place, but this study does not resolve the exact public exhibition schedule from the poster wording alone.",
+      "evidence": "observation",
+      "originalText": "WEIMAR",
+      "lang": "de",
+      "translation": "Weimar — place name"
+     },
+     {
+      "kind": "design",
+      "heading": "A miniature structure",
+      "body": "The short bars around the small lettering form a stepped shape that echoes the larger composition. Their changes of direction make a compact secondary image inside the main one. This is a denser reading zone than the broad ring or hook, so it asks for a closer viewing distance.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 9
+   },
+   {
+    "id": "date",
+    "label": "The 1923 date",
+    "shortLabel": "The 1923 date",
+    "kicker": "BUSINESS",
+    "summary": "Small numerals follow the red bar’s direction.",
+    "layerIndex": 5,
+    "bounds": {
+     "x": 82,
+     "y": 50,
+     "w": 17,
+     "h": 11
+    },
+    "x": 91.667,
+    "y": 54.82,
+    "question": "How does the date remain connected to the bar without sharing its colour?",
+    "related": [
+     "bar",
+     "weimar",
+     "bauhaus-word"
+    ],
+    "tags": [
+     "business",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "A year anchored to the event",
+      "body": "The numerals 1923 appear at the right end of the diagonal structure. MoMA’s object date agrees with that year. The agreement is useful evidence, but the month abbreviations on this particular layout still deserve separate attention rather than being silently replaced with a later event chronology.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "moma"
+       }
+      ]
+     },
+     {
+      "kind": "design",
+      "heading": "A small edge marker",
+      "body": "The date is much smaller than the institution’s name, but its location near the right margin makes it easy to find after following the bar. Its black strokes stand against the warm ground, while the shared angle keeps it attached to the larger visual system.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 10
+   },
+   {
+    "id": "paper",
+    "label": "The warm surrounding ground",
+    "shortLabel": "The warm surrounding ground",
+    "kicker": "DESIGN",
+    "summary": "Ochre space keeps the separated structures readable.",
+    "layerIndex": 0,
+    "bounds": {
+     "x": 2,
+     "y": 43,
+     "w": 35,
+     "h": 10
+    },
+    "x": 17,
+    "y": 48,
+    "question": "Find the largest uninterrupted area and compare it with the crowded centre.",
+    "related": [
+     "arc",
+     "state",
+     "hook"
+    ],
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Space with a visible surface",
+      "body": "The installed reproduction shows a mottled ochre ground rather than a perfectly uniform digital colour. This ground appears between and within the large shapes, allowing the diagonal structure to remain distinct. Its warmth also makes the red and black areas feel like a limited, coordinated palette.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Reproduction and object are different",
+      "body": "The museum documents lithography, but the screen image cannot reveal the complete physical surface of the original sheet. Visible grain and colour variation can be described here without assigning every mark to a specific printing action, paper stock or later condition change.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "moma"
+       }
+      ]
+     }
+    ],
+    "number": 11
+   }
+  ],
+  "sources": [
+   {
+    "id": "moma",
+    "title": "MoMA: Joost Schmidt, Staatliches Bauhaus Ausstellung",
+    "url": "https://www.moma.org/collection/works/6235/",
+    "kind": "Museum object record",
+    "summary": "Attributes the poster to Schmidt, dates it 1923 and records lithography and printer von Reineck & Klein, Weimar; object 320.1957."
+   }
+  ],
+  "tour": [
+   "bauhaus-word",
+   "profile",
+   "circle",
+   "bar",
+   "hook",
+   "exhibition",
+   "weimar"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "STAATLICHES BAUHAUS",
+      "meaning": "State Bauhaus",
+      "lang": "de"
+     },
+     {
+      "text": "AUSSTELLUNG",
+      "meaning": "Exhibition",
+      "lang": "de"
+     },
+     {
+      "text": "WEIMAR",
+      "meaning": "Weimar — place name",
+      "lang": "de"
+     },
+     {
+      "text": "1923",
+      "meaning": "Printed year",
+      "lang": "und"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Large institutional, event and place words and the year are legible. Visible month abbreviations are discussed without turning them into a verified public-opening schedule. Fine imprint and monogram details are not expanded into uncertain text.",
+  "palette": [
+   {
+    "name": "Ochre ground",
+    "hex": "#f0ae4d",
+    "role": "Space around the construction",
+    "region": "paper"
+   },
+   {
+    "name": "Ring red",
+    "hex": "#c33221",
+    "role": "Broad curved accent",
+    "region": "circle"
+   },
+   {
+    "name": "Black structure",
+    "hex": "#0d080e",
+    "role": "Lower visual weight",
+    "region": "hook"
+   },
+   {
+    "name": "Fine warm field",
+    "hex": "#e0a54b",
+    "role": "Ground enclosed by thin geometry",
+    "region": "arc"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels of the installed reproduction; these are not original ink or paper specifications.",
+  "connections": [
+   {
+    "label": "Repeated curves",
+    "title": "Circle and hook",
+    "text": "The open red circle and the black hook give the construction two large curved weights at different heights.",
+    "anchors": [
+     [
+      1,
+      0.18948655256723718,
+      0.38018867924528305
+     ],
+     [
+      3,
+      0.8007334963325183,
+      0.910377358490566
+     ]
+    ],
+    "id": "bauhaus-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Words join the structure",
+    "title": "The title follows the head",
+    "text": "The arched Bauhaus word follows the upper curve, while the diagonal exhibition words point along the construction beneath it.",
+    "anchors": [
+     [
+      5,
+      0.3484107579462103,
+      0.12924528301886792
+     ],
+     [
+      2,
+      0.4511002444987775,
+      0.3594339622641509
+     ]
+    ],
+    "id": "bauhaus-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

@@ -1,0 +1,584 @@
+{
+ "poster": {
+  "id": "daily-herald-early-bird",
+  "title": "Daily Herald — The Early Bird",
+  "year": "1918–19",
+  "yearNumber": 1918,
+  "creator": "E. McKnight Kauffer",
+  "country": "United Kingdom",
+  "countries": [
+   "United Kingdom"
+  ],
+  "region": "Europe",
+  "category": "Advertising",
+  "edition": "Cooper Hewitt 1963-39-1229: variant catalogued “1918, printed later”, published by Her Majesty’s Stationery Office and printed by UDO (Litho), London. The newspaper campaign appeared in 1919.",
+  "image": "images/full/daily-herald-early-bird.jpg",
+  "ratio": 0.521,
+  "imageWidth": 521,
+  "imageHeight": 1000,
+  "alt": "Angular black, white and grey birds fly across the top of a tall yellow poster, leaving a large empty field above the Daily Herald name and the Early Bird slogan.",
+  "blurb": "A sharply folded flock climbs through yellow space while the newspaper’s name waits far below.",
+  "notes": [
+   {
+    "title": "A flock built from angles",
+    "body": "Long beaks, triangular wings and alternating black, white and grey facets make the birds resemble folded constructions. Their overlapping forms read as one directional group before individual birds emerge."
+   },
+   {
+    "title": "Empty space becomes distance",
+    "body": "The large yellow interval separates the airborne flock from the words at the bottom. It makes the birds seem to have risen beyond the text rather than merely sit above a caption."
+   },
+   {
+    "title": "A design and its later printing",
+    "body": "The Daily Herald used the design in its 1919 campaign. This museum sheet is a later HMSO printing of a variant catalogued 1918, so the design history and the physical reproduction are identified separately."
+   }
+  ],
+  "source": "https://collection.cooperhewitt.org/objects/18447233/",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Poster,_Variant_of_the_Poster-_Soaring_to_Success-_The_Early_Bird,_1918_(CH_18447233).jpg",
+  "credit": "E. McKnight Kauffer. Cooper Hewitt, Smithsonian Design Museum, gift of Mrs. E. McKnight Kauffer, 1963-39-1229. Museum photograph by Demian Cacciolo, via Wikimedia Commons; resized.",
+  "imageCredit": "E. McKnight Kauffer. Cooper Hewitt, Smithsonian Design Museum, gift of Mrs. E. McKnight Kauffer, 1963-39-1229. Museum photograph by Demian Cacciolo, via Wikimedia Commons; resized.",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/7/70/Poster%2C_Variant_of_the_Poster-_Soaring_to_Success-_The_Early_Bird%2C_1918_%28CH_18447233%29.jpg",
+  "anchor": [
+   0.49,
+   0.22
+  ],
+  "accent": "#9c8615",
+  "reproduction": "Later museum reproduction of a 1918 design variant associated with the 1919 campaign. The photograph includes the sheet border and surrounding mount.",
+  "anchorLayer": 1,
+  "primaryOrigin": "United Kingdom",
+  "thumb": "images/catalogue/daily-herald-early-bird.webp"
+ },
+ "studyData": {
+  "intro": "A faceted flock flies across a remarkable amount of yellow space. Follow the small eye marks, the long diagonals and the newspaper’s name, while keeping this later museum sheet distinct from the design’s early campaign history.",
+  "initial": "flock",
+  "regions": [
+   {
+    "id": "flock",
+    "number": 1,
+    "label": "Angular flock",
+    "shortLabel": "Angular flock",
+    "kicker": "DESIGN",
+    "summary": "Many sharp facets become a group of birds.",
+    "x": 48,
+    "y": 22,
+    "bounds": {
+     "x": 15,
+     "y": 9,
+     "w": 77,
+     "h": 27
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "One group, several heads",
+      "body": "Black, white and grey triangles overlap across the upper sheet. Long pointed beaks and small circular eyes help individual birds emerge from the shared geometry. Seen from farther away, the forms first register as one directional cluster rather than separate naturalistic animals.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Recognition through essentials",
+      "body": "The birds do not need feathers drawn one by one. Beaks, eyes and wing-like diagonals carry enough information for recognition. This simplification can make a complicated group more forceful at poster distance while rewarding closer looking at its internal structure.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which two details are essential for seeing birds rather than folded shapes?",
+    "related": [
+     "eyes",
+     "wings"
+    ]
+   },
+   {
+    "id": "eyes",
+    "number": 2,
+    "label": "Tiny eye marks",
+    "shortLabel": "Tiny eye marks",
+    "kicker": "DESIGN",
+    "summary": "Small circles give angular shapes a face.",
+    "x": 31,
+    "y": 15,
+    "bounds": {
+     "x": 18,
+     "y": 13,
+     "w": 51,
+     "h": 14
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A small interruption",
+      "body": "Several pale or yellow-ringed eye marks sit within dark triangular heads. Their roundness differs from the surrounding pointed forms. They are tiny in relation to the flock, yet they help locate heads and clarify which way the birds are facing.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A test of recognition",
+      "body": "Cover the eyes mentally and notice whether the flock becomes more abstract. The beaks still indicate direction, but the small circles make the forms feel more specifically alive. Their effect comes from position as well as contrast.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Can you find all the eye marks without following a beak to each one?",
+    "related": [
+     "flock",
+     "beaks"
+    ]
+   },
+   {
+    "id": "beaks",
+    "number": 3,
+    "label": "Long pointed beaks",
+    "shortLabel": "Long pointed beaks",
+    "kicker": "DESIGN",
+    "summary": "Narrow points establish a shared direction.",
+    "x": 24,
+    "y": 24,
+    "bounds": {
+     "x": 14,
+     "y": 14,
+     "w": 34,
+     "h": 16
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Points extending left",
+      "body": "The beaks project leftward from the clustered heads. Their thin shapes contrast with the broad wing facets behind them. Because several points align loosely, the group acquires a direction even though its individual bodies overlap and are difficult to separate completely.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Direction without blur",
+      "body": "No motion blur is needed to suggest travel. Repeated points and slanting forms can orient a still group. The exact species is not established by these stylised marks, so the comparison concerns graphic direction rather than ornithological identification.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which points seem fastest, and is that because they are longer or more isolated?",
+    "related": [
+     "eyes",
+     "wings"
+    ]
+   },
+   {
+    "id": "wings",
+    "number": 4,
+    "label": "Overlapping wing facets",
+    "shortLabel": "Overlapping wing facets",
+    "kicker": "DESIGN",
+    "summary": "Alternating light and dark planes make a rhythmic surface.",
+    "x": 68,
+    "y": 25,
+    "bounds": {
+     "x": 29,
+     "y": 9,
+     "w": 63,
+     "h": 27
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Edges continue across bodies",
+      "body": "Large triangular facets cross and overlap, making it difficult to assign every patch to a single bird. Black and pale areas alternate, while grey facets soften some transitions. This creates a coherent group without turning it into one flat silhouette.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Compare with folded paper",
+      "body": "The sharp changes can recall folded constructions, but resemblance does not prove that the design was made from actual folded models. The visual comparison is useful because it directs attention to planes, edges and alternating light values.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where do you lose track of one bird and begin to see the flock as a single structure?",
+    "related": [
+     "flock",
+     "trails"
+    ]
+   },
+   {
+    "id": "trails",
+    "number": 5,
+    "label": "Long lower diagonals",
+    "shortLabel": "Long lower diagonals",
+    "kicker": "DESIGN",
+    "summary": "Pale streak-like forms continue the flock’s movement.",
+    "x": 70,
+    "y": 33,
+    "bounds": {
+     "x": 10,
+     "y": 27,
+     "w": 82,
+     "h": 11
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A stretched lower edge",
+      "body": "Long pale and grey diagonals extend below the denser group. They become thinner as they cross the yellow field and echo the directions established by the wings. Their simpler rhythm forms a transition from the crowded flock to the empty centre.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A bridge into space",
+      "body": "These lines can make the group feel as if it has moved through the open yellow area. That is a reading of shape, not evidence of a literal flight path. Compare their long sweep with the compact eye and beak details above.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How would the flock feel if these long lower diagonals were removed?",
+    "related": [
+     "space",
+     "wings"
+    ]
+   },
+   {
+    "id": "space",
+    "number": 6,
+    "label": "Large yellow interval",
+    "shortLabel": "Large yellow interval",
+    "kicker": "DESIGN",
+    "summary": "Most of the sheet is deliberately quiet.",
+    "x": 51,
+    "y": 55,
+    "bounds": {
+     "x": 10,
+     "y": 38,
+     "w": 81,
+     "h": 39
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An unusually open centre",
+      "body": "A broad uninterrupted yellow field separates the upper birds from the words near the bottom. There is no large central illustration filling that interval. Its openness makes the two active areas—the flock and the newspaper name—especially easy to distinguish.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Distance and anticipation",
+      "body": "The empty interval can make the flock seem to have risen away from the text. It also slows the move from image to message. More content would not necessarily communicate more clearly: the open field is part of how the existing elements relate.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would moving the newspaper name halfway up the page make the birds seem closer?",
+    "related": [
+     "name",
+     "flock"
+    ]
+   },
+   {
+    "id": "success",
+    "number": 7,
+    "label": "Soaring to Success",
+    "shortLabel": "Soaring to Success",
+    "kicker": "LANGUAGE",
+    "summary": "A small sentence links flight to an idea.",
+    "x": 39,
+    "y": 79,
+    "bounds": {
+     "x": 13,
+     "y": 77,
+     "w": 48,
+     "h": 4
+    },
+    "layerIndex": 4,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A metaphor stated plainly",
+      "body": "The phrase Soaring to Success turns upward movement into a verbal promise. The birds offer a literal visual counterpart to the word soaring. The line is smaller than the newspaper name, so it supplies an interpretation of the image without becoming the main identity.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A promotional association",
+      "body": "The design links the newspaper with energy and progress through word and picture. That association is a campaign proposition, not a measured fact about readers’ lives or the paper’s commercial performance. The useful evidence is the pairing of the sentence with the flock.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Could the same phrase work as strongly without the birds?",
+    "related": [
+     "flock",
+     "name"
+    ]
+   },
+   {
+    "id": "name",
+    "number": 8,
+    "label": "Daily Herald name",
+    "shortLabel": "Daily Herald name",
+    "kicker": "LANGUAGE",
+    "summary": "A dark wordmark anchors the bottom.",
+    "x": 51,
+    "y": 84,
+    "bounds": {
+     "x": 17,
+     "y": 81,
+     "w": 67,
+     "h": 6
+    },
+    "layerIndex": 3,
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "The advertised publication",
+      "body": "DAILY HERALD is the most prominent wording on the sheet. Its dark, angular and shadowed-looking forms are heavier than the lines above and below. The wordmark names a newspaper, so this poster’s purpose differs from the film campaigns elsewhere in the atlas.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A grounded counterweight",
+      "body": "The broad name balances the airborne flock far above. Its visual weight sits low in the composition, giving the tall yellow field a firm base. This relationship can be studied without identifying a specific typeface from the reproduction.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the name’s weight differ from the light lower slogan?",
+    "related": [
+     "success",
+     "early"
+    ]
+   },
+   {
+    "id": "early",
+    "number": 9,
+    "label": "The Early Bird",
+    "shortLabel": "The Early Bird",
+    "kicker": "LANGUAGE",
+    "summary": "A lower phrase completes the bird-and-newspaper link.",
+    "x": 67,
+    "y": 90,
+    "bounds": {
+     "x": 43,
+     "y": 88,
+     "w": 44,
+     "h": 4
+    },
+    "layerIndex": 4,
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "An economical association",
+      "body": "The Early Bird appears as a small final line beneath the publication name. The phrase links a morning newspaper with the familiar idea of arriving early. Its modest scale makes it a closing connection rather than an additional large headline.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Campaign and later sheet",
+      "body": "Cooper Hewitt’s exhibition material identifies a Daily Herald campaign poster from 1919. The Smithsonian record for this particular object, 1963-39-1229, instead dates the variant 1918, printed later. Keeping both records visible avoids pretending that design date and physical printing date are identical.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "smithsonian"
+       },
+       {
+        "id": "campaign"
+       }
+      ]
+     }
+    ],
+    "question": "What changes when you know this is a later printing of an earlier design?",
+    "related": [
+     "margin",
+     "name"
+    ]
+   },
+   {
+    "id": "margin",
+    "number": 10,
+    "label": "Border, mount and imprint",
+    "shortLabel": "Border, mount and imprint",
+    "kicker": "DESIGN",
+    "summary": "The photographed object extends beyond its yellow design.",
+    "x": 6,
+    "y": 53,
+    "bounds": {
+     "x": 3,
+     "y": 4,
+     "w": 7,
+     "h": 92
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A sheet inside a photograph",
+      "body": "A dark rectangular border encloses the yellow field, with a muted outer edge and pale photographic surround. Small marks near the bottom belong to the printed or mounted object. These boundaries are different from the free diagonals of the birds.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "An object record limits claims",
+      "body": "The Smithsonian catalogue names E. McKnight Kauffer, the Daily Herald client, Her Majesty’s Stationery Office as publisher and UDO (Litho) as printer for this later sheet. These are object-specific facts; they should not be applied automatically to every version of the design.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "smithsonian"
+       }
+      ]
+     }
+    ],
+    "question": "Which border would disappear if the image were cropped to the yellow design alone?",
+    "related": [
+     "early",
+     "space"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed poster edition",
+    "url": "https://commons.wikimedia.org/wiki/File:Poster,_Variant_of_the_Poster-_Soaring_to_Success-_The_Early_Bird,_1918_(CH_18447233).jpg",
+    "kind": "Visual source",
+    "summary": "The reproduced edition is the evidence for visible wording, layout, marks and colour relationships. Translations and visual interpretations are supplied by Poster Atlas."
+   },
+   {
+    "id": "smithsonian",
+    "title": "Smithsonian: Soaring to Success, 1963-39-1229",
+    "url": "https://collections.si.edu/search/results.htm?fq=place%3A%22London%22&q=%22Posters+--+Design%22",
+    "kind": "Museum collection record",
+    "summary": "The indexed entry identifies Kauffer, the Daily Herald client, HMSO publisher, UDO printer and the date 1918, printed later, for accession 1963-39-1229."
+   },
+   {
+    "id": "campaign",
+    "title": "Cooper Hewitt: Underground Modernist",
+    "url": "https://www.cooperhewitt.org/exhibition/underground-modernist-e-mcknight-kauffer/",
+    "kind": "Museum exhibition record",
+    "summary": "Documents the separate 1919 Daily Herald campaign lithograph and Kauffer’s advertising practice; it is not the same physical sheet as the installed later variant."
+   }
+  ],
+  "tour": [
+   "flock",
+   "eyes",
+   "trails",
+   "space",
+   "name",
+   "early"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "Soaring to Success!",
+      "meaning": "A promotional metaphor connecting upward flight with success.",
+      "lang": "en"
+     },
+     {
+      "text": "DAILY HERALD",
+      "meaning": "The newspaper being advertised.",
+      "lang": "en"
+     },
+     {
+      "text": "— the Early Bird.",
+      "meaning": "The lower slogan linking the publication to being early.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Only securely legible title and key wording are transcribed. Small credits are not reconstructed from this reproduction.",
+  "palette": [
+   {
+    "name": "Yellow field",
+    "hex": "#FFE500",
+    "role": "The broad open interval.",
+    "region": "space"
+   },
+   {
+    "name": "Near-black bird",
+    "hex": "#28281E",
+    "role": "An interior dark wing facet.",
+    "region": "wings"
+   },
+   {
+    "name": "Pale facet",
+    "hex": "#F5F5F5",
+    "role": "A light plane within the bird group.",
+    "region": "wings"
+   },
+   {
+    "name": "Grey-brown facet",
+    "hex": "#ADA48D",
+    "role": "An intermediate facet between black and pale.",
+    "region": "wings"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in this installed reproduction. They are not original paint, ink or printing specifications.",
+  "connections": [
+   {
+    "label": "Flight and space",
+    "title": "A small flock activates a large field",
+    "text": "The pointed birds concentrate movement near the top, while the uninterrupted yellow below lets that movement read clearly.",
+    "anchors": [
+     [
+      2,
+      0.5403071017274472,
+      0.2305
+     ],
+     [
+      1,
+      0.5403071017274472,
+      0.5905
+     ]
+    ],
+    "id": "daily-herald-early-bird-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Name and promise",
+    "title": "Two scales of type",
+    "text": "The newspaper name carries the visual weight; the smaller early-bird line connects the birds to the printed promise.",
+    "anchors": [
+     [
+      3,
+      0.5095969289827256,
+      0.8395
+     ],
+     [
+      4,
+      0.6477927063339731,
+      0.9005
+     ]
+    ],
+    "id": "daily-herald-early-bird-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

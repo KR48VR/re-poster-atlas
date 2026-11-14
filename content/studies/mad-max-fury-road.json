@@ -1,0 +1,574 @@
+{
+ "poster": {
+  "id": "mad-max-fury-road",
+  "title": "Mad Max: Fury Road",
+  "year": "2015",
+  "yearNumber": 2015,
+  "creator": "Poster artist uncredited",
+  "country": "Australia / United States",
+  "countries": [
+   "Australia",
+   "United States"
+  ],
+  "region": "Oceania",
+  "category": "Film",
+  "filmCreator": "George Miller",
+  "edition": "2015 Australian theatrical poster",
+  "image": "images/full/mad-max-fury-road.jpg",
+  "ratio": 0.6984126984126984,
+  "alt": "Mad Max: Fury Road poster with huge weathered yellow title letters against a teal sky, two armed figures and a motorcycle below, and a chain crossing the sandy foreground.",
+  "blurb": "The title towers like a structure; the characters stand against it at human scale.",
+  "notes": [
+   {
+    "title": "Type becomes the largest object",
+    "body": "MAD MAX fills most of the upper sheet in two immense lines. The figures overlap the letters, making the title feel like another plane behind them."
+   },
+   {
+    "title": "Heat meets a cold sky",
+    "body": "Yellow-orange letters and sand push against the deep teal sky. The colour boundary makes both the title and the low horizon unusually emphatic."
+   },
+   {
+    "title": "A chain leads from the edge",
+    "body": "The chain enters at the lower left and recedes toward the figures. It adds a foreground cue and a diagonal route through the more frontal arrangement of bodies and words."
+   }
+  ],
+  "source": "https://www.screenaustralia.gov.au/screen-guide/mad-max-fury-road-18718/",
+  "credit": "Copyright in the poster remains with its respective rights holders. Image reproduced via the linked Wikimedia file record; no public-domain status is claimed.",
+  "imageCredit": "Copyright in the poster remains with its respective rights holders. Image reproduced via the linked Wikimedia file record; no public-domain status is claimed.",
+  "imageSource": "https://en.wikipedia.org/wiki/File:Mad_Max_Fury_Road.jpg",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/en/6/6e/Mad_Max_Fury_Road.jpg",
+  "anchor": [
+   0.44,
+   0.59
+  ],
+  "accent": "#d99421",
+  "yearNote": "The catalogue year is the film year. The reproduced poster edition is identified separately.",
+  "reproduction": "Australian release artwork, with an Australian classification mark and May 2015 release line. The small 264 × 378 source is retained without enlargement.",
+  "posterDateStatus": "2015 theatrical campaign.",
+  "posterYear": "2015",
+  "posterTerritory": "Australia",
+  "primaryOrigin": "Australia",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/mad-max-fury-road.webp"
+ },
+ "studyData": {
+  "intro": "The film name is almost architecture: enormous yellow letters stand behind small figures. Compare that bold first reading with the finer clues in the chain, clothing, sky and release information.",
+  "initial": "title",
+  "regions": [
+   {
+    "id": "title",
+    "number": 1,
+    "label": "Giant MAD MAX",
+    "shortLabel": "Giant MAD MAX",
+    "kicker": "DESIGN",
+    "summary": "The name is the largest object on the page.",
+    "x": 51,
+    "y": 29,
+    "bounds": {
+     "x": 8,
+     "y": 15,
+     "w": 85,
+     "h": 50
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Letters occupy the scene",
+      "body": "MAD and MAX form two huge lines across most of the sheet. Their counters reveal the teal sky, while the foreground figures overlap the lower letters. This arrangement makes the name feel like a physical plane behind the people rather than a caption above them.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Recognition at a distance",
+      "body": "The title can remain readable after faces, clothes and credits become too small to distinguish. A familiar franchise name can therefore lead the invitation. That is a visible hierarchy, not evidence that every viewer recognised the series or chose the film because of it.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Shrink the image until the figures blur. What information survives?",
+    "related": [
+     "figures",
+     "subtitle"
+    ]
+   },
+   {
+    "id": "letter-texture",
+    "number": 2,
+    "label": "Worn yellow surfaces",
+    "shortLabel": "Worn yellow surfaces",
+    "kicker": "DESIGN",
+    "summary": "Small orange marks disturb the huge letterforms.",
+    "x": 80,
+    "y": 29,
+    "bounds": {
+     "x": 67,
+     "y": 16,
+     "w": 24,
+     "h": 23
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A rough interior",
+      "body": "Orange speckles and darker patches interrupt the yellow letters. Their outer shapes remain bold enough to read, but their interiors look uneven. This texture connects the type visually with the dusty, worn surfaces in the lower scene.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Type as material",
+      "body": "The letters can feel more like stained objects than clean digital labels. That effect does not establish a physical printing technique or a specific material. Compare the visual roughness of a letter with the smoother sky visible through its counter.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would perfectly smooth yellow letters make the setting feel different?",
+    "related": [
+     "title",
+     "ground"
+    ]
+   },
+   {
+    "id": "figures",
+    "number": 3,
+    "label": "Foreground pair",
+    "shortLabel": "Foreground pair",
+    "kicker": "DESIGN",
+    "summary": "Small bodies stand before a much larger name.",
+    "x": 43,
+    "y": 65,
+    "bounds": {
+     "x": 23,
+     "y": 47,
+     "w": 41,
+     "h": 37
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Different poses share one base",
+      "body": "One figure stands higher and extends an arm, while another sits or crouches lower. Dark clothing, pale skin and small highlights separate them from the bright letters. Their overlapping equipment and limbs form a compact group near the centre of the lower image.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Two named protagonists",
+      "body": "Screen Australia’s film record describes Max joining a group fleeing in a War Rig driven by Furiosa. It identifies the 2015 film as George Miller’s work. This provides story context for the pair, without identifying the poster as a single literal moment from the film.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "screen"
+       }
+      ]
+     }
+    ],
+    "question": "How do the different body heights help you distinguish the two figures?",
+    "related": [
+     "weapon",
+     "title"
+    ]
+   },
+   {
+    "id": "weapon",
+    "number": 4,
+    "label": "Extended arm and weapon",
+    "shortLabel": "Extended arm and weapon",
+    "kicker": "DESIGN",
+    "summary": "A thin horizontal line counters the vertical title.",
+    "x": 36,
+    "y": 53,
+    "bounds": {
+     "x": 21,
+     "y": 49,
+     "w": 42,
+     "h": 13
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A line across the letters",
+      "body": "The standing figure’s outstretched arm and weapon reach leftward across the yellow type. Their long, relatively narrow silhouette differs from the heavy upright bodies and letters. The gesture gives the central group a direction without moving it away from the lower centre.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A route into conflict",
+      "body": "The extended line can imply readiness or confrontation, but the target is outside the information the poster supplies. Describing the direction is firmer than inventing a person being aimed at. The crop turns an incomplete action into a question.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does the line lead when it reaches the edge of the visible group?",
+    "related": [
+     "figures",
+     "chain"
+    ]
+   },
+   {
+    "id": "chain",
+    "number": 5,
+    "label": "Chain from the edge",
+    "shortLabel": "Chain from the edge",
+    "kicker": "DESIGN",
+    "summary": "Large foreground links pull the viewer toward the figures.",
+    "x": 15,
+    "y": 87,
+    "bounds": {
+     "x": 0,
+     "y": 81,
+     "w": 37,
+     "h": 11
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Links change in size",
+      "body": "The chain enters from the lower-left corner and recedes toward the central group. Its nearest links are much larger than those farther away. Their curved repeated shapes offer a strong depth cue against the otherwise broad, flat sandy foreground.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A path into the picture",
+      "body": "Following the chain is a different way to enter the image from reading the title. It begins almost at the viewer’s feet and moves toward the people. The visual connection is clear even without assigning the chain a particular plot function.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would the chain still imply depth if every link were the same size?",
+    "related": [
+     "figures",
+     "ground"
+    ]
+   },
+   {
+    "id": "sky",
+    "number": 6,
+    "label": "Deep teal sky",
+    "shortLabel": "Deep teal sky",
+    "kicker": "DESIGN",
+    "summary": "Cool darkness separates the yellow letters.",
+    "x": 91,
+    "y": 47,
+    "bounds": {
+     "x": 84,
+     "y": 35,
+     "w": 16,
+     "h": 26
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A contrasting field",
+      "body": "The sky is deep blue-green above and around the title, with lighter clouds near the horizon. It shows through the letter counters and the spaces between words. These openings keep the large yellow block from becoming a solid unreadable rectangle.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Colour through adjacency",
+      "body": "Yellow-orange and teal intensify one another here because they are placed side by side. The relationship matters more than a universal emotional meaning for either colour. Compare the same yellow where it touches dark sky and where it meets the warm ground.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does yellow stand out most strongly, and what is next to it?",
+    "related": [
+     "title",
+     "ground"
+    ]
+   },
+   {
+    "id": "ground",
+    "number": 7,
+    "label": "Hot horizon and sand",
+    "shortLabel": "Hot horizon and sand",
+    "kicker": "DESIGN",
+    "summary": "Warm horizontal layers support the cool upper field.",
+    "x": 84,
+    "y": 78,
+    "bounds": {
+     "x": 3,
+     "y": 69,
+     "w": 96,
+     "h": 25
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A low band of activity",
+      "body": "Orange haze, small silhouettes and the pale sandy foreground make a shallow horizontal base beneath the towering name. The lower scene contains more detail than is obvious at first glance, but its overall colour remains much warmer than the sky.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Two directions of reading",
+      "body": "The title asks us to look up and down through huge stacked words; the horizon asks us to scan sideways. The figures and chain mediate between these directions. Covering the horizon would make the poster feel more like isolated people on a typographic background.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which parts encourage sideways looking rather than vertical reading?",
+    "related": [
+     "sky",
+     "chain"
+    ]
+   },
+   {
+    "id": "subtitle",
+    "number": 8,
+    "label": "FURY ROAD",
+    "shortLabel": "FURY ROAD",
+    "kicker": "LANGUAGE",
+    "summary": "Widely spaced words cross the lower group.",
+    "x": 60,
+    "y": 69,
+    "bounds": {
+     "x": 8,
+     "y": 66,
+     "w": 85,
+     "h": 9
+    },
+    "layerIndex": 4,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A second title scale",
+      "body": "FURY ROAD appears below the enormous main name in a much narrower line. The letters are widely separated, spreading the short subtitle across the page. Their yellow colour connects them to MAD MAX while their reduced height establishes a clear hierarchy.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Naming the instalment",
+      "body": "The main name and subtitle perform related but different tasks: one identifies the series, the other this instalment. Keeping them visually linked yet unequal lets both be read. The poster does not need a separate explanatory paragraph to make that distinction.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would equally large main title and subtitle be easier or harder to scan?",
+    "related": [
+     "title",
+     "names"
+    ]
+   },
+   {
+    "id": "tagline",
+    "number": 9,
+    "label": "Upper slogan",
+    "shortLabel": "Upper slogan",
+    "kicker": "LANGUAGE",
+    "summary": "A short sentence sits above the monumental title.",
+    "x": 49,
+    "y": 8,
+    "bounds": {
+     "x": 11,
+     "y": 5,
+     "w": 78,
+     "h": 6
+    },
+    "layerIndex": 4,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A statement about a world",
+      "body": "The visible line says THE FUTURE BELONGS TO THE MAD. Its rough pale lettering is smaller than the title but spans a wide area. The word mad links the sentence to the name below, creating a verbal as well as a visual repetition.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A promise of tone",
+      "body": "The slogan frames the film’s world before offering concrete plot information. Treat it as campaign rhetoric rather than a prediction or a clinical claim about mental health. Its role is to set expectations within this fictional advertising context.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which word in the slogan connects it most directly to the title?",
+    "related": [
+     "title",
+     "names"
+    ]
+   },
+   {
+    "id": "names",
+    "number": 10,
+    "label": "Names and release block",
+    "shortLabel": "Names and release block",
+    "kicker": "DESIGN",
+    "summary": "Fine information follows the spectacle.",
+    "x": 51,
+    "y": 95,
+    "bounds": {
+     "x": 7,
+     "y": 85,
+     "w": 88,
+     "h": 13
+    },
+    "layerIndex": 4,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Different small-print jobs",
+      "body": "The stars’ names sit near the top, while production credits, a classification mark and a release invitation occupy the base. Their sizes differ, but all remain secondary to the huge title and the figures. Each belongs to a different practical part of the campaign.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Read this edition as an edition",
+      "body": "The installed sheet uses an Australian classification box and release wording. Those visible features identify its campaign setting more securely than the desert image does. A film’s production history, a poster’s territory and a particular printing date are separate questions.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which lower detail tells you this is an advertisement with a release plan?",
+    "related": [
+     "subtitle",
+     "tagline"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed poster edition",
+    "url": "https://en.wikipedia.org/wiki/File:Mad_Max_Fury_Road.jpg",
+    "kind": "Visual source",
+    "summary": "The reproduced edition is the evidence for visible wording, layout, marks and colour relationships. Translations and visual interpretations are supplied by Poster Atlas."
+   },
+   {
+    "id": "screen",
+    "title": "Screen Australia: Mad Max: Fury Road",
+    "url": "https://www.screenaustralia.gov.au/screen-guide/mad-max-fury-road-18718/",
+    "kind": "National screen agency record",
+    "summary": "The indexed official record identifies the 2015 film, George Miller and the Max/Furiosa escape premise. Direct page retrieval was restricted; no poster-artist or print-process claim is based on it."
+   }
+  ],
+  "tour": [
+   "title",
+   "figures",
+   "chain",
+   "sky",
+   "subtitle",
+   "tagline"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "MAD MAX / FURY ROAD",
+      "meaning": "Main title and instalment subtitle.",
+      "lang": "en"
+     },
+     {
+      "text": "THE FUTURE BELONGS TO THE MAD",
+      "meaning": "The campaign slogan, read in its fictional context.",
+      "lang": "en"
+     },
+     {
+      "text": "IN CINEMAS SOON",
+      "meaning": "A release invitation on this edition.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Only securely legible title and key wording are transcribed. Small credits are not reconstructed from this reproduction.",
+  "palette": [
+   {
+    "name": "Deep blue sky",
+    "hex": "#082432",
+    "role": "The cool field above the giant title.",
+    "region": "sky"
+   },
+   {
+    "name": "Yellow title",
+    "hex": "#FDE42F",
+    "role": "A bright stroke in MAD.",
+    "region": "title"
+   },
+   {
+    "name": "Rust-orange texture",
+    "hex": "#9A3C18",
+    "role": "A warm distressed patch in the lettering.",
+    "region": "letter-texture"
+   },
+   {
+    "name": "Pale sand",
+    "hex": "#F9E284",
+    "role": "The light ground beneath the figures.",
+    "region": "ground"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in this installed reproduction. They are not original paint, ink or printing specifications.",
+  "connections": [
+   {
+    "label": "Type as scenery",
+    "title": "Figures in front of letters",
+    "text": "The figures interrupt the enormous yellow words, giving the title the role of a large plane behind the action.",
+    "anchors": [
+     [
+      1,
+      0.3503787878787879,
+      0.23941798941798942
+     ],
+     [
+      2,
+      0.5284090909090909,
+      0.6388888888888888
+     ]
+    ],
+    "id": "mad-max-fury-road-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "A route into the frame",
+    "title": "Chain and standing group",
+    "text": "The chain begins close to the lower-left edge and narrows toward the figures, adding a diagonal depth cue to the frontal lettering.",
+    "anchors": [
+     [
+      3,
+      0.11931818181818182,
+      0.8637566137566137
+     ],
+     [
+      2,
+      0.3806818181818182,
+      0.7605820105820106
+     ]
+    ],
+    "id": "mad-max-fury-road-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

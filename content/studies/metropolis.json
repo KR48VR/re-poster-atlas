@@ -1,0 +1,634 @@
+{
+ "poster": {
+  "id": "metropolis",
+  "title": "Metropolis",
+  "year": "1927",
+  "yearNumber": 1927,
+  "country": "Germany",
+  "region": "Europe",
+  "creator": "Heinz Schulz-Neudamm",
+  "filmCreator": "Fritz Lang",
+  "edition": "German three-sheet theatrical poster",
+  "alt": "A gold and black Metropolis poster with angular towers, radiating beams and the head and shoulders of a metallic robot.",
+  "blurb": "A city becomes a machine: towers, light and a metallic face share one severe geometry.",
+  "notes": [
+   {
+    "title": "A city that points upward",
+    "body": "The narrow format stacks the buildings into a steep vertical climb. Their converging edges make the city feel taller than the paper."
+   },
+   {
+    "title": "The face as architecture",
+    "body": "The robot’s polished planes echo the buildings above. Portrait and skyline appear to belong to the same constructed world."
+   },
+   {
+    "title": "Light cut into wedges",
+    "body": "Pale rays divide the dark skyline into sharp triangles. The title repeats those angular cuts, joining lettering to the image."
+   }
+  ],
+  "source": "https://player.bfi.org.uk/subscription/film/watch-metropolis-1927-online",
+  "imageCredit": "Poster artwork by Heinz Schulz-Neudamm; reproduction via Wikipedia. No reuse licence asserted.",
+  "anchor": [
+   0.5,
+   0.63
+  ],
+  "accent": "#b59a4c",
+  "category": "Film",
+  "image": "images/full/metropolis.jpg",
+  "imageSource": "https://en.wikipedia.org/wiki/File:Metropolis_(German_three-sheet_poster).jpg",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/en/9/97/Metropolis_%28German_three-sheet_poster%29.jpg",
+  "ratio": 0.451,
+  "imageWidth": 451,
+  "imageHeight": 1000,
+  "credit": "Poster artwork by Heinz Schulz-Neudamm; reproduction via Wikipedia. No reuse licence asserted.",
+  "anchorLayer": 1,
+  "countries": [
+   "Germany"
+  ],
+  "primaryOrigin": "Germany",
+  "thumb": "images/catalogue/metropolis.webp"
+ },
+ "studyData": {
+  "intro": "A robot, a city and a film title share the same tall, angular world. Follow the shifts between letters that resemble structures, structures that frame a face, and the smaller credits that return this imagined future to the people who made the film.",
+  "initial": "title",
+  "regions": [
+   {
+    "id": "title",
+    "label": "Letters like structures",
+    "shortLabel": "Letters like structures",
+    "kicker": "Words and meaning",
+    "summary": "The title occupies the skyline.",
+    "layerIndex": 1,
+    "x": 50.554,
+    "y": 12.5,
+    "bounds": {
+     "x": 5,
+     "y": 2,
+     "w": 91,
+     "h": 20
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A jagged name",
+      "body": "METROPOLIS stretches across the top in angular, unevenly extended capitals. Some strokes become long points, while others hold small enclosed spaces. It remains a word, but its irregular lower edge also resembles a jagged skyline above the buildings depicted beneath it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A shared construction",
+      "body": "The lettering and architecture both rely on strong verticals and sharp changes of direction. That resemblance helps the name belong to the pictured world. It is a formal comparison, not evidence that a particular building or typeface directly supplied the design.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which letter looks most like part of the city?",
+    "related": [
+     "tower",
+     "rays",
+     "credits"
+    ],
+    "number": 1
+   },
+   {
+    "id": "rays",
+    "label": "Gold wedges of light",
+    "shortLabel": "Gold wedges of light",
+    "kicker": "Look closely",
+    "summary": "Diagonal bands interrupt the vertical city.",
+    "layerIndex": 2,
+    "x": 35.477,
+    "y": 33.1,
+    "bounds": {
+     "x": 7,
+     "y": 18,
+     "w": 87,
+     "h": 28
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A fan of pointed spaces",
+      "body": "Pale golden wedges spread between the title and the buildings. Their narrow points and broad ends make distinct directions across the sheet. They are flatter and more sharply bounded than naturalistic clouds, so they can be read as graphic shapes as well as light.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Two directions at once",
+      "body": "The buildings pull upward, while the wedges push diagonally outward. That opposition gives a still scene a sense of expansion. Cover the wedges and compare: the city becomes more solid and upright, with less movement between the top word and the lower portrait.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What changes when you cover the diagonal wedges?",
+    "related": [
+     "title",
+     "tower",
+     "ground"
+    ],
+    "number": 2
+   },
+   {
+    "id": "tower",
+    "label": "The central tower",
+    "shortLabel": "The central tower",
+    "kicker": "Look closely",
+    "summary": "One tall mass holds the middle.",
+    "layerIndex": 3,
+    "x": 50.998,
+    "y": 41.5,
+    "bounds": {
+     "x": 37,
+     "y": 20,
+     "w": 28,
+     "h": 43
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An axis through the city",
+      "body": "The central tower rises behind the robot’s head. Its roof is sharply peaked and its narrow vertical grooves repeat downward. Because it shares the middle of the sheet with the portrait, it establishes a strong axis rather than behaving as distant scenery alone.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A divided future city",
+      "body": "The BFI describes the film’s future society as separated between workers underground and those who dominate above ground. That documented premise makes vertical architecture relevant to the story. The poster does not, by itself, label each depicted building as a particular social class.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "bfi"
+       }
+      ]
+     }
+    ],
+    "question": "How does the tower connect the title above to the head below?",
+    "related": [
+     "head",
+     "left-buildings",
+     "rays"
+    ],
+    "number": 3
+   },
+   {
+    "id": "left-buildings",
+    "label": "The narrow left towers",
+    "shortLabel": "The narrow left towers",
+    "kicker": "Look closely",
+    "summary": "Repeated uprights make a dense edge.",
+    "layerIndex": 3,
+    "x": 21.951,
+    "y": 52.5,
+    "bounds": {
+     "x": 8,
+     "y": 31,
+     "w": 28,
+     "h": 43
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A stepped group",
+      "body": "Several narrow buildings gather at the left, rising to different heights. Their closely repeated lines create a darker, denser band than the open wedges above. The changes in height produce a stepped contour that keeps the group from becoming one simple rectangle.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A frame within the city",
+      "body": "The left buildings and their counterparts at right make a corridor around the central tower and head. They do not have to form a realistic street to guide attention. Their unequal outlines hold the middle while leaving a sense of accumulated urban mass.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Do the left towers feel like separate buildings or one textured wall?",
+    "related": [
+     "right-buildings",
+     "tower",
+     "head"
+    ],
+    "number": 4
+   },
+   {
+    "id": "right-buildings",
+    "label": "The right-hand wall",
+    "shortLabel": "The right-hand wall",
+    "kicker": "Look closely",
+    "summary": "Long grooves outweigh tiny windows.",
+    "layerIndex": 3,
+    "x": 81.596,
+    "y": 59,
+    "bounds": {
+     "x": 66,
+     "y": 35,
+     "w": 31,
+     "h": 48
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Vertical texture",
+      "body": "The right-hand architecture is dominated by extended dark grooves and pale vertical edges. These marks matter more visually than individual windows. At a small scale, the buildings become a rhythm of stripes, with their highest points answering the angular forms on the opposite side.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Scale without a person",
+      "body": "There is no ordinary pedestrian beside these structures to measure their height. Their apparent size comes from repetition, cropping and their relation to the oversized robot. This is a constructed sense of scale, not a city plan from which dimensions can be calculated.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What makes the buildings seem tall when no normal-sized person stands beside them?",
+    "related": [
+     "left-buildings",
+     "head",
+     "shoulders"
+    ],
+    "number": 5
+   },
+   {
+    "id": "head",
+    "label": "The metallic face",
+    "shortLabel": "The metallic face",
+    "kicker": "Look closely",
+    "summary": "A frontal face interrupts the architecture.",
+    "layerIndex": 4,
+    "x": 39.911,
+    "y": 76,
+    "bounds": {
+     "x": 31,
+     "y": 58,
+     "w": 41,
+     "h": 24
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Almost symmetrical",
+      "body": "The robot’s face looks straight out, with a central ridge, paired eyes and a small mouth. Curved highlights separate its parts from the darker surrounds. Its approximate symmetry contrasts with the more irregular building heights, making it a stable focal point near the lower third.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A robot in the story",
+      "body": "The BFI synopsis identifies a scientist’s robot as a force that threatens upheaval in the divided city. This confirms the figure’s narrative category. The poster’s frontal pose and lighting remain choices to analyse visually, rather than a complete account of that character’s role.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "bfi"
+       }
+      ]
+     }
+    ],
+    "question": "Which feature makes this face read as constructed rather than ordinary skin?",
+    "related": [
+     "eyes",
+     "tower",
+     "shoulders"
+    ],
+    "number": 6
+   },
+   {
+    "id": "eyes",
+    "label": "Eyes and brow",
+    "shortLabel": "Eyes and brow",
+    "kicker": "Look closely",
+    "summary": "Small dark marks organise the face.",
+    "layerIndex": 4,
+    "x": 56.098,
+    "y": 71,
+    "bounds": {
+     "x": 37,
+     "y": 67,
+     "w": 28,
+     "h": 8
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Local contrast",
+      "body": "The eye openings form a pair of dark accents under a pale brow. They are tiny compared with the city but are close enough together to establish a face immediately. The highlights around them make the gaze readable even within the limited gold-and-black palette.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A face to meet",
+      "body": "A frontal gaze can make a viewer feel addressed, but responses need not be identical. Compare looking at the eyes with looking only at the tower: one invites a face-to-face relation, while the other encourages an upward reading of space.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where does your eye return after you scan the buildings?",
+    "related": [
+     "head",
+     "title"
+    ],
+    "number": 7
+   },
+   {
+    "id": "shoulders",
+    "label": "Curved shoulders",
+    "shortLabel": "Curved shoulders",
+    "kicker": "Look closely",
+    "summary": "Rounded forms widen at the base.",
+    "layerIndex": 4,
+    "x": 25.055,
+    "y": 85,
+    "bounds": {
+     "x": 7,
+     "y": 79,
+     "w": 87,
+     "h": 13
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A change of contour",
+      "body": "Below the head, the neck and shoulders spread towards both sides. Their curves contrast with the straight architectural grooves behind them. They create a broad base for the portrait and partly block the city, making the figure feel nearer than the structures it overlaps.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A machine with a body",
+      "body": "The face and shoulders borrow the familiar organisation of a human bust, while their hard highlights suggest an artificial surface. That mixture lets the image be read as both body and object. The comparison is visible without assigning a particular emotion to the figure.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which curves make the robot feel bodily despite its metallic surface?",
+    "related": [
+     "head",
+     "right-buildings",
+     "credits"
+    ],
+    "number": 8
+   },
+   {
+    "id": "credits",
+    "label": "A film by Fritz Lang",
+    "shortLabel": "A film by Fritz Lang",
+    "kicker": "Words and meaning",
+    "summary": "A horizontal credit steadies the bottom.",
+    "layerIndex": 5,
+    "x": 52.55,
+    "y": 89.6,
+    "bounds": {
+     "x": 11,
+     "y": 87,
+     "w": 81,
+     "h": 5
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A clear authorship line",
+      "body": "EIN FILM VON FRITZ LANG means “A film by Fritz Lang.” The phrase sits in a horizontal band beneath the portrait, with more regular spacing than the title above. It names the film’s director rather than the artist who designed this poster.",
+      "evidence": "observation",
+      "originalText": "EIN FILM VON FRITZ LANG",
+      "lang": "de",
+      "translation": "A film by Fritz Lang"
+     },
+     {
+      "kind": "business",
+      "heading": "Two kinds of authorship",
+      "body": "The BFI confirms Fritz Lang as the director of the 1927 German film. That supports the credit’s meaning but does not establish the poster’s printing date or prove its design attribution. Film authorship and poster authorship need separate evidence.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "bfi"
+       }
+      ]
+     }
+    ],
+    "question": "Why is it useful to distinguish the film’s director from the poster’s designer?",
+    "related": [
+     "title",
+     "marks",
+     "head"
+    ],
+    "number": 9
+   },
+   {
+    "id": "marks",
+    "label": "Marks and small credits",
+    "shortLabel": "Marks and small credits",
+    "kicker": "Look closely",
+    "summary": "Logos sit among the smallest information.",
+    "layerIndex": 5,
+    "x": 50.333,
+    "y": 95.2,
+    "bounds": {
+     "x": 8,
+     "y": 92,
+     "w": 84,
+     "h": 7
+    },
+    "tags": [
+     "business",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "A lower information zone",
+      "body": "Small names and company marks fill the bottom strip, including an angular UFA emblem at left and a rectangular mark at right. These compact signs belong to a different scale of reading from the robot and title. They reward inspection rather than the first glance.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "Knowing when not to guess",
+      "body": "A familiar-looking name can tempt a viewer to fill in blurred letters. Here the large director line is secure, but the whole small-credit block is not transcribed. An honest reading can identify its role and layout while leaving uncertain wording unresolved.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which lower mark remains recognisable when the small words become unreadable?",
+    "related": [
+     "credits",
+     "ground"
+    ],
+    "number": 10
+   },
+   {
+    "id": "ground",
+    "label": "Gold against black",
+    "shortLabel": "Gold against black",
+    "kicker": "Look closely",
+    "summary": "A restricted palette ties unlike forms together.",
+    "layerIndex": 0,
+    "x": 1.996,
+    "y": 59,
+    "bounds": {
+     "x": 2,
+     "y": 45,
+     "w": 7,
+     "h": 28
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "One tonal family",
+      "body": "The sheet uses warm pale gold, deeper ochre and very dark areas across lettering, buildings and the robot. The objects do not need different colours to remain distinct: contour, overlap and light-dark contrast carry much of the separation within this narrow range.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Unity with local differences",
+      "body": "A shared colour family makes the city and figure feel related, while changes in texture distinguish them. Try looking only for the palest shapes. They lead from title to rays to face, creating a route through objects that otherwise differ greatly in scale.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Can you trace a path using only the lightest shapes?",
+    "related": [
+     "rays",
+     "head",
+     "marks"
+    ],
+    "number": 11
+   }
+  ],
+  "sources": [
+   {
+    "id": "bfi",
+    "title": "BFI Player: Metropolis",
+    "url": "https://player.bfi.org.uk/subscription/film/watch-metropolis-1927-online",
+    "kind": "Primary source",
+    "summary": "Verifies the 1927 German film directed by Fritz Lang and its divided-city and robot premise. Does not authenticate this poster printing."
+   }
+  ],
+  "tour": [
+   "title",
+   "rays",
+   "tower",
+   "head",
+   "eyes",
+   "credits"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected wording on this edition",
+    "rows": [
+     {
+      "text": "METROPOLIS",
+      "meaning": "Film title",
+      "lang": "de"
+     },
+     {
+      "text": "EIN FILM VON FRITZ LANG",
+      "meaning": "A film by Fritz Lang",
+      "lang": "de"
+     },
+     {
+      "text": "UFA",
+      "meaning": "Company mark printed on the sheet",
+      "lang": "de"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "The title and large director credit are transcribed. Fine names and distribution wording are not expanded from this reproduction. Film year is not an independently verified printing date.",
+  "palette": [
+   {
+    "name": "Pale gold",
+    "hex": "#bfa46f",
+    "role": "A restricted palette ties unlike forms together.",
+    "region": "ground"
+   },
+   {
+    "name": "Dark architecture",
+    "hex": "#464032",
+    "role": "One tall mass holds the middle.",
+    "region": "tower"
+   },
+   {
+    "name": "Warm face highlight",
+    "hex": "#b0935b",
+    "role": "A frontal face interrupts the architecture.",
+    "region": "head"
+   },
+   {
+    "name": "Ochre title",
+    "hex": "#b99f64",
+    "role": "The title occupies the skyline.",
+    "region": "title"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in this installed reproduction. They describe this image, not original printing inks or a colour standard.",
+  "connections": [
+   {
+    "label": "Vertical monument",
+    "title": "The face repeats the architecture",
+    "text": "The robot’s long neck and central symmetry echo the tall tower behind it. Both are held within a very narrow format.",
+    "anchors": [
+     [
+      4,
+      0.4977827050997783,
+      0.7415
+     ],
+     [
+      3,
+      0.5,
+      0.3775
+     ],
+     [
+      3,
+      0.24057649667405764,
+      0.5405
+     ]
+    ],
+    "id": "metropolis-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Angles above curves",
+    "title": "The title introduces a hard-edged world",
+    "text": "The title’s abrupt angles connect visually with the triangular rays and tower roofline, before the rounded face changes the geometry below.",
+    "anchors": [
+     [
+      1,
+      0.5687361419068736,
+      0.0675
+     ],
+     [
+      2,
+      0.7749445676274944,
+      0.2725
+     ],
+     [
+      4,
+      0.5,
+      0.6705
+     ]
+    ],
+    "id": "metropolis-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

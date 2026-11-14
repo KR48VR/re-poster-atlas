@@ -1,0 +1,619 @@
+{
+ "poster": {
+  "id": "book-pride-and-prejudice",
+  "title": "Pride and Prejudice",
+  "year": "1894",
+  "yearNumber": 1894,
+  "coverYear": "1894",
+  "bookFirstPublication": "1813",
+  "bookAuthor": "Jane Austen",
+  "bookPublisher": "George Allen",
+  "bookOrigin": "English-language novel by Jane Austen; the original work appeared in 1813.",
+  "creator": "Hugh Thomson",
+  "country": "United Kingdom",
+  "countries": [
+   "United Kingdom"
+  ],
+  "primaryOrigin": "United Kingdom",
+  "region": "Europe",
+  "category": "Book cover",
+  "image": "images/full/book-pride-and-prejudice.jpg",
+  "ratio": 0.61796875,
+  "alt": "A dark cloth binding filled with gold peacock feathers, a small spread-wing bird on a decorated pedestal, and ornate title and author lettering.",
+  "blurb": "A peacock and its radiating feathers turn a binding into a field of gold lines.",
+  "notes": [
+   {
+    "title": "The displayed edition",
+    "body": "George Allen, London, 1894. Hugh Thomson’s peacock edition of the novel first published in 1813."
+   },
+   {
+    "title": "Writing and image-making",
+    "body": "Jane Austen wrote the novel. Jane Austen’s House identifies this 1894 illustrated peacock edition with Hugh Thomson; his name appears separately on the binding."
+   },
+   {
+    "title": "A visible design relationship",
+    "body": "Fine feather eyes surround the larger title strokes. Dark cloth opens around the words while the upper fan remains densely patterned."
+   }
+  ],
+  "source": "https://janeaustens.house/object/peacock-edition-of-pride-and-prejudice/",
+  "credit": "Jane Austen wrote the novel. Jane Austen’s House identifies this 1894 illustrated peacock edition with Hugh Thomson; his name appears separately on the binding.",
+  "reproduction": "The actual binding reproduction retains gilt reflections, cloth texture and physical wear.",
+  "anchor": [
+   0.22,
+   0.6
+  ],
+  "accent": "#b8a360",
+  "edition": "George Allen, London, 1894. Hugh Thomson’s peacock edition of the novel first published in 1813.",
+  "imageSource": "https://janeaustens.house/object/peacock-edition-of-pride-and-prejudice/",
+  "imageCredit": "Jane Austen wrote the novel. Jane Austen’s House identifies this 1894 illustrated peacock edition with Hugh Thomson; his name appears separately on the binding.",
+  "coverPublisher": "George Allen",
+  "posterYear": "1894",
+  "posterTerritory": "United Kingdom",
+  "posterDateStatus": "The displayed edition or catalogued object date; the original work date is recorded separately.",
+  "originNote": "Country and region describe the displayed edition’s publishing context. The author and work context are recorded separately.",
+  "originSources": [
+   {
+    "title": "Displayed edition record",
+    "url": "https://janeaustens.house/object/peacock-edition-of-pride-and-prejudice/"
+   }
+  ],
+  "creditSources": [
+   {
+    "title": "Jane Austen’s House: illustrated editions",
+    "url": "https://janeaustens.house/online-exhibition/the-illustrations-of-pride-prejudice/room-1-hugh-thomson/"
+   }
+  ],
+  "downloadURL": "https://janeaustens.house/wp-content/uploads/2021/09/Hugh-Thomson-1894-Cover.jpg",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/book-pride-and-prejudice.webp"
+ },
+ "studyData": {
+  "intro": "A bird, its ornamental feathers and curling words share one gilt surface. Follow the changes of scale, then separate Jane Austen’s novel from this much later illustrated binding.",
+  "initial": "peacock",
+  "regions": [
+   {
+    "id": "peacock",
+    "number": 1,
+    "label": "A small bird holds the fan together",
+    "shortLabel": "The peacock",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "A spread-wing peacock stands near the left centre.",
+    "layerIndex": 2,
+    "x": 17.00379,
+    "y": 55.03906,
+    "bounds": {
+     "x": 2,
+     "y": 43,
+     "w": 42,
+     "h": 31
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "A spread-wing peacock stands near the left centre. Its curved neck and small head remain recognisable inside the much larger surrounding feather pattern.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The bird gives the radiating ornament a living reference point. Reading it as pride is possible beside this title, but the image alone cannot establish Thomson’s intended symbolism.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does the small bird or the great feather fan first tell you what this image depicts?",
+    "related": [
+     "crest",
+     "wing"
+    ]
+   },
+   {
+    "id": "crest",
+    "number": 2,
+    "label": "A tiny upward gesture",
+    "shortLabel": "The crest",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Fine stems and small tips rise above the peacock’s head.",
+    "layerIndex": 2,
+    "x": 15.99241,
+    "y": 44.49219,
+    "bounds": {
+     "x": 12,
+     "y": 43,
+     "w": 10,
+     "h": 6
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Fine stems and small tips rise above the peacock’s head. These marks use much less surface than the thick scaled neck beneath them.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The crest helps the small head remain distinct from the surrounding feather eyes. Its delicacy asks for a slower look after the large fan catches attention.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which few marks are enough to make this head recognisable as a peacock?",
+    "related": [
+     "feather-eyes",
+     "pedestal"
+    ]
+   },
+   {
+    "id": "feather-eyes",
+    "number": 3,
+    "label": "Repeated eyes across the cloth",
+    "shortLabel": "Feather eyes",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Loops enclose smaller dark centres at the tips of many feather strands.",
+    "layerIndex": 1,
+    "x": 64.03287,
+    "y": 3.47656,
+    "bounds": {
+     "x": 34,
+     "y": 2,
+     "w": 57,
+     "h": 39
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Loops enclose smaller dark centres at the tips of many feather strands. Their sizes and angles vary across the upper fan.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "Repeated enclosed forms unite a very busy surface without making it mechanically uniform. Following their changing direction can lead the eye back towards the bird.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Do you read the repeating loops as a pattern before noticing individual feathers?",
+    "related": [
+     "wing",
+     "title"
+    ]
+   },
+   {
+    "id": "wing",
+    "number": 4,
+    "label": "Two wings, many smaller marks",
+    "shortLabel": "The wings",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Both wings spread downward and outward from the body.",
+    "layerIndex": 2,
+    "x": 28.00253,
+    "y": 57.69531,
+    "bounds": {
+     "x": 2,
+     "y": 52,
+     "w": 41,
+     "h": 15
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Both wings spread downward and outward from the body. Fine parallel curves and enclosed feather marks divide their broader silhouettes.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The wings echo the larger fan but work at a smaller scale. This repetition allows the bird to belong to the ornament while retaining its own anatomy.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What changes when you compare a wing feather with one of the large decorative feather eyes?",
+    "related": [
+     "pedestal",
+     "author"
+    ]
+   },
+   {
+    "id": "pedestal",
+    "number": 5,
+    "label": "A decorated support below the bird",
+    "shortLabel": "The pedestal",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "A narrow neck and wider curved base form the support beneath the peacock.",
+    "layerIndex": 3,
+    "x": 20.03793,
+    "y": 85.03906,
+    "bounds": {
+     "x": 9,
+     "y": 72,
+     "w": 22,
+     "h": 26
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "A narrow neck and wider curved base form the support beneath the peacock. Its surface carries small gilt decorative marks.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The vertical support steadies the sweeping feathers above. Its narrower proportions also leave room for the author and illustrator wording to the right.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would the bird feel as settled if the decorated support were removed?",
+    "related": [
+     "title",
+     "artist"
+    ]
+   },
+   {
+    "id": "title",
+    "number": 6,
+    "label": "The name of the novel in gilt curves",
+    "shortLabel": "The title",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Pride and Prejudice occupies two large lines, linked by the smaller word and.",
+    "layerIndex": 4,
+    "x": 53.03413,
+    "y": 60.50781,
+    "bounds": {
+     "x": 33,
+     "y": 57,
+     "w": 54,
+     "h": 16
+    },
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Pride and Prejudice occupies two large lines, linked by the smaller word and. Broad curves sit within a darker opening in the ornament.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The title participates in the curving design while remaining coarser and more widely spaced than the feathers. That difference lets ornament become readable words.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "language",
+      "heading": "Three linked words",
+      "body": "The visible English title joins two nouns with a much smaller and. The difference of scale is visible; it does not change the word’s connecting role.",
+      "evidence": "observation",
+      "sources": [],
+      "originalText": "Pride and Prejudice",
+      "lang": "en",
+      "translation": "Pride and Prejudice"
+     }
+    ],
+    "question": "Where does a decorative curve stop being a feather and start being a letter?",
+    "related": [
+     "author",
+     "cloth"
+    ]
+   },
+   {
+    "id": "author",
+    "number": 7,
+    "label": "Jane Austen in another rhythm",
+    "shortLabel": "Jane Austen",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Jane Austen’s name sits below the title in a smaller sloping script.",
+    "layerIndex": 5,
+    "x": 59.60809,
+    "y": 79.49219,
+    "bounds": {
+     "x": 36,
+     "y": 76,
+     "w": 50,
+     "h": 8
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Jane Austen’s name sits below the title in a smaller sloping script. The opening around this line is less crowded than the upper feather fan.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "A second lettering rhythm separates authorship from the work’s name. The visual hierarchy lets the title announce itself before the author credit is read.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "context",
+      "heading": "A novel and a later visual edition",
+      "body": "Austen’s novel first appeared in 1813. The displayed George Allen edition dates from 1894, so the peacock binding belongs to a later illustrated encounter with the work, not to its first publication.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "object"
+       },
+       {
+        "id": "illustrator"
+       }
+      ]
+     }
+    ],
+    "question": "How does the author line’s smaller scale change the order in which you read?",
+    "related": [
+     "artist",
+     "border"
+    ]
+   },
+   {
+    "id": "artist",
+    "number": 8,
+    "label": "The illustrator is named too",
+    "shortLabel": "Hugh Thomson",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Illustrated by introduces Hugh Thomson beneath Jane Austen’s name.",
+    "layerIndex": 5,
+    "x": 62.5158,
+    "y": 91.05469,
+    "bounds": {
+     "x": 38,
+     "y": 84,
+     "w": 47,
+     "h": 11
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Illustrated by introduces Hugh Thomson beneath Jane Austen’s name. The credit remains inside the same flowing gilt scheme as the rest of the binding.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "Naming the illustrator makes image-making visible as a separate contribution. The credit can remind a reader that a novel’s visual presentation has its own authorship.",
+      "evidence": "interpretation"
+     },
+     {
+      "kind": "business",
+      "heading": "Illustration as an edition feature",
+      "body": "Jane Austen’s House identifies this as George Allen’s 1894 illustrated edition, with Hugh Thomson’s contribution named on the cover. The binding helps distinguish this particular published object from other editions of the same novel.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "object"
+       }
+      ]
+     }
+    ],
+    "question": "What does this extra name tell you about who made the object in front of you?",
+    "related": [
+     "cloth",
+     "peacock"
+    ]
+   },
+   {
+    "id": "cloth",
+    "number": 9,
+    "label": "Dark material between bright lines",
+    "shortLabel": "Dark cloth",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Dark blue-green cloth shows between the gilt marks.",
+    "layerIndex": 0,
+    "x": 84.00759,
+    "y": 76.99219,
+    "bounds": {
+     "x": 78,
+     "y": 70,
+     "w": 12,
+     "h": 12
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Dark blue-green cloth shows between the gilt marks. Its woven texture and changes of reflected light differ from the smoother bright decoration.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The dark intervals give the gold room to separate into feathers and letters. A uniformly bright surface would weaken those differences even with the same drawing.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How much of the pattern’s clarity comes from the dark spaces between its lines?",
+    "related": [
+     "border",
+     "crest"
+    ]
+   },
+   {
+    "id": "border",
+    "number": 10,
+    "label": "The fan reaches the physical edge",
+    "shortLabel": "Edge ornament",
+    "kicker": "LOOKING CLOSELY",
+    "summary": "Feather strands and eyes approach the right edge of the binding.",
+    "layerIndex": 1,
+    "x": 91.97219,
+    "y": 36.99219,
+    "bounds": {
+     "x": 84,
+     "y": 10,
+     "w": 14,
+     "h": 75
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Visible in the cover",
+      "body": "Feather strands and eyes approach the right edge of the binding. The pattern continues into narrow spaces around the large central title area.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A possible reading",
+      "body": "The close edge treatment makes the ornament feel abundant. The title’s quieter opening becomes more apparent when compared with this densely worked margin.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does a nearly filled edge make the central wording feel calmer or more crowded?",
+    "related": [
+     "peacock",
+     "feather-eyes"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "object",
+    "title": "Pride and Prejudice: the displayed reproduction",
+    "url": "https://janeaustens.house/object/peacock-edition-of-pride-and-prejudice/",
+    "kind": "Object / publisher record",
+    "summary": "George Allen, London, 1894. Hugh Thomson’s peacock edition of the novel first published in 1813. The actual binding reproduction retains gilt reflections, cloth texture and physical wear."
+   },
+   {
+    "id": "illustrator",
+    "title": "Jane Austen’s House: Hugh Thomson’s illustrated edition",
+    "url": "https://janeaustens.house/online-exhibition/the-illustrations-of-pride-prejudice/room-1-hugh-thomson/",
+    "kind": "Museum interpretation",
+    "summary": "Explains Thomson’s 1894 illustrated edition and its relationship to the earlier novel."
+   }
+  ],
+  "tour": [
+   "peacock",
+   "feather-eyes",
+   "wing",
+   "title",
+   "cloth",
+   "author",
+   "artist"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "Pride and Prejudice",
+      "meaning": "The novel’s title.",
+      "lang": "en"
+     },
+     {
+      "text": "by Jane Austen",
+      "meaning": "The author credit.",
+      "lang": "en"
+     },
+     {
+      "text": "Illustrated by Hugh Thomson",
+      "meaning": "The illustration credit.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected clearly legible title and credit wording is transcribed from the displayed reproduction. Line breaks are simplified; this is not a transcription of every small mark or an identification of the typefaces.",
+  "palette": [
+   {
+    "name": "Dark cloth",
+    "hex": "#243338",
+    "role": "The dark interval around the gilt decoration.",
+    "region": "cloth"
+   },
+   {
+    "name": "Gilt title",
+    "hex": "#C4A972",
+    "role": "A warm light stroke within the title.",
+    "region": "title"
+   },
+   {
+    "name": "Pale gilt",
+    "hex": "#DFD2AF",
+    "role": "A brighter reflection within the feather ornament.",
+    "region": "feather-eyes"
+   },
+   {
+    "name": "Pedestal gold",
+    "hex": "#BB9A67",
+    "role": "A warmer midtone in the decorated support.",
+    "region": "pedestal"
+   }
+  ],
+  "paletteNote": "Screen colours are sampled from this exact reproduction. Age, lighting and reproduction affect the result; these are not original printing specifications.",
+  "connections": [
+   {
+    "label": "Repeated eyes",
+    "title": "A bird becomes ornament",
+    "text": "The small enclosed wing marks echo the larger feather eyes around the fan.",
+    "anchors": [
+     [
+      2,
+      0.20037926675094817,
+      0.590234375
+     ],
+     [
+      1,
+      0.6466498103666245,
+      0.209765625
+     ]
+    ],
+    "id": "book-pride-and-prejudice-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Different curves",
+    "title": "Words within feathers",
+    "text": "The title’s broad curves share the feather ornament’s flowing character but leave wider dark gaps for reading.",
+    "anchors": [
+     [
+      4,
+      0.6175726927939317,
+      0.622265625
+     ],
+     [
+      1,
+      0.7730720606826802,
+      0.538671875
+     ]
+    ],
+    "id": "book-pride-and-prejudice-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

@@ -1,0 +1,529 @@
+{
+ "poster": {
+  "id": "city-of-god",
+  "title": "City of God",
+  "year": "2002",
+  "yearNumber": 2002,
+  "country": "Brazil / Germany / France",
+  "region": "Latin America & Caribbean",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Fernando Meirelles; co-director Kátia Lund",
+  "edition": "Brazilian theatrical release poster in Portuguese",
+  "alt": "A warm orange City of God poster with a line of young men across the top, a large white Portuguese title and a chicken spreading its wings below.",
+  "blurb": "A crowd, a huge title and a startled chicken turn a narrow page into a chain of competing energies.",
+  "notes": [
+   {
+    "title": "The cast forms a horizon",
+    "body": "A row of figures stretches across the top edge. Their small scale and close spacing read first as a collective silhouette, then as individual bodies."
+   },
+   {
+    "title": "White type cuts through heat",
+    "body": "The enormous title interrupts the orange and brown field. Its solid white mass gives the eye a firm anchor amid the photographic texture."
+   },
+   {
+    "title": "An unexpected foreground",
+    "body": "The chicken’s spread wings dominate the lower section. Its close scale and abrupt movement offer a very different kind of image from the group above."
+   }
+  ],
+  "source": "https://www.bfi.org.uk/film/9b7c5b2d-5aef-521e-ac6e-629736313de1/the-city-of-god",
+  "imageCredit": "Brazilian theatrical poster; artist uncredited in the consulted source. Reproduction via Wikipedia; copyright remains with the respective rights holders.",
+  "anchor": [
+   0.51,
+   0.74
+  ],
+  "accent": "#b46c28",
+  "category": "Film",
+  "image": "images/full/city-of-god.jpg",
+  "imageSource": "https://en.wikipedia.org/wiki/File:CidadedeDeus.jpg",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/en/1/10/CidadedeDeus.jpg",
+  "ratio": 0.678851,
+  "imageWidth": 260,
+  "imageHeight": 383,
+  "credit": "Brazilian theatrical poster; artist uncredited in the consulted source. Reproduction via Wikipedia; copyright remains with the respective rights holders.",
+  "countries": [
+   "Brazil",
+   "Germany",
+   "France"
+  ],
+  "primaryOrigin": "Brazil",
+  "anchorLayer": 1,
+  "thumb": "images/catalogue/city-of-god.webp"
+ },
+ "studyData": {
+  "intro": "This Portuguese-language campaign joins a small crowd, a forceful title and an unexpectedly large chicken. Look at the scale changes before deciding what kind of story the poster promises. The warm treatment unifies the picture, but the three bands ask to be read at very different distances.",
+  "initial": "city-of-god-ensemble",
+  "regions": [
+   {
+    "id": "city-of-god-ensemble",
+    "number": 1,
+    "label": "People form the upper horizon",
+    "shortLabel": "People form the upper horizon",
+    "kicker": "MANY FIGURES, ONE BROAD SHAPE",
+    "summary": "A row of bodies occupies the narrow top band.",
+    "x": 49.5,
+    "y": 15.5,
+    "bounds": {
+     "x": 2,
+     "y": 3,
+     "w": 95,
+     "h": 25
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Many figures, one broad shape",
+      "body": "Closely placed figures stretch nearly across the poster. Heads rise to different heights and clothing creates alternating dark and light patches. The row first reads as a collective horizontal band; only closer looking separates faces, stances and relationships between neighbouring bodies.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "An ensemble within a neighbourhood story",
+      "body": "Miramax’s synopsis places the film in Rio de Janeiro’s Cidade de Deus and centres a young person’s ambition to become a photographer amid violence. That establishes narrative context, not the identities or moral roles of every small person pictured in this campaign.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "record"
+       }
+      ]
+     }
+    ],
+    "question": "Which individual gestures remain distinct when you step back?",
+    "related": [
+     "city-of-god-raised-arm",
+     "city-of-god-title"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "city-of-god-raised-arm",
+    "number": 2,
+    "label": "A gesture at the left edge",
+    "shortLabel": "A gesture at the left edge",
+    "kicker": "AN UNEVEN SKYLINE",
+    "summary": "One raised arm breaks the row’s rhythm.",
+    "x": 9,
+    "y": 15,
+    "bounds": {
+     "x": 2,
+     "y": 3,
+     "w": 14,
+     "h": 24
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An uneven skyline",
+      "body": "Near the left, an arm rises above a body and makes a sharper upward movement than the neighbouring upright figures. The surrounding open orange area keeps that gesture legible. Its small scale contrasts with the very broad wing movement at the bottom.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Comparing motions without inventing a scene",
+      "body": "The arm and wings both interrupt a horizontal band, but they do so at different scales. Looking between them is a compositional exercise. The poster does not establish that these moments occurred together, or that one was designed as a literal symbol for the other.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Where else does a limb interrupt the group’s outline?",
+    "related": [
+     "city-of-god-ensemble",
+     "city-of-god-wings"
+    ],
+    "layerIndex": 1
+   },
+   {
+    "id": "city-of-god-title",
+    "number": 3,
+    "label": "CIDADE DE DEUS",
+    "shortLabel": "CIDADE DE DEUS",
+    "kicker": "A PLACE IN PORTUGUESE",
+    "summary": "White capitals cut through the hot field.",
+    "x": 50,
+    "y": 34,
+    "bounds": {
+     "x": 5,
+     "y": 29,
+     "w": 90,
+     "h": 10
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A place in Portuguese",
+      "body": "CIDADE DE DEUS translates as City of God. The words form a place name in the film’s title, not a caption identifying the chicken or a claim about everything shown. The English release title preserves that basic meaning while changing the language.",
+      "evidence": "observation",
+      "originalText": "CIDADE DE DEUS",
+      "lang": "pt",
+      "translation": "City of God"
+     },
+     {
+      "kind": "design",
+      "heading": "A hard edge between images",
+      "body": "Thick white letters create a strong horizontal block below the small crowd. Their clean light surfaces contrast with the surrounding orange-red photographic texture. The title is large enough to compete with the giant foreground bird, providing a fixed reading point between the two images.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "What becomes the main anchor if the title is covered?",
+    "related": [
+     "city-of-god-ensemble",
+     "city-of-god-link-word"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "city-of-god-link-word",
+    "number": 4,
+    "label": "The small word inside the title",
+    "shortLabel": "The small word inside the title",
+    "kicker": "A RELATIONSHIP CARRIED BY TWO LETTERS",
+    "summary": "DE changes size without breaking the name.",
+    "x": 56.5,
+    "y": 33.5,
+    "bounds": {
+     "x": 52,
+     "y": 30,
+     "w": 9,
+     "h": 7
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A relationship carried by two letters",
+      "body": "DE is the Portuguese linking word meaning “of” in this title. It is much smaller than the neighbouring words, but the phrase depends on it. The design shows how grammatical importance and visual size need not be the same thing.",
+      "evidence": "observation",
+      "originalText": "DE",
+      "lang": "pt",
+      "translation": "Of"
+     },
+     {
+      "kind": "design",
+      "heading": "Compression within a heavy line",
+      "body": "The reduced linking word fits into the narrow central space rather than forcing all three words to share one height. That decision keeps the two main word shapes large. It also introduces a brief visual pause within an otherwise almost continuous white strip.",
+      "evidence": "observation"
+     }
+    ],
+    "question": "How does the smaller word affect the rhythm between CIDADE and DEUS?",
+    "related": [
+     "city-of-god-title",
+     "city-of-god-credits"
+    ],
+    "layerIndex": 2
+   },
+   {
+    "id": "city-of-god-red-field",
+    "number": 5,
+    "label": "A wide field between title and bird",
+    "shortLabel": "A wide field between title and bird",
+    "kicker": "AN INTERVAL WITH TEXTURE",
+    "summary": "Texture occupies space that could have held another portrait.",
+    "x": 31.5,
+    "y": 52.5,
+    "bounds": {
+     "x": 3,
+     "y": 40,
+     "w": 57,
+     "h": 25
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An interval with texture",
+      "body": "Red-orange marks spread across the centre without resolving into a clearly separate figure. The area is not empty white paper: variations in light and grain keep it active. Yet it is quieter in outline than the crowded upper band and the bird below.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Space can prepare an entrance",
+      "body": "The interval delays the next recognisable subject after the title. That can make the chicken’s appearance more abrupt and prominent. This is a reading of spacing, not evidence that the colour has one universal emotional effect or that the campaign caused a particular audience response.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does this open interval make the bird feel farther away or more sudden?",
+    "related": [
+     "city-of-god-title",
+     "city-of-god-head"
+    ],
+    "layerIndex": 0
+   },
+   {
+    "id": "city-of-god-head",
+    "number": 6,
+    "label": "The chicken close to the viewer",
+    "shortLabel": "The chicken close to the viewer",
+    "kicker": "HEAD, BEAK AND BRIGHT EYE",
+    "summary": "A small animal becomes a monumental foreground.",
+    "x": 44.5,
+    "y": 84.5,
+    "bounds": {
+     "x": 28,
+     "y": 70,
+     "w": 33,
+     "h": 29
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Head, beak and bright eye",
+      "body": "The bird’s head sits near the lower centre, with its beak directed leftwards and a small bright eye. The neck and feathers enlarge rapidly toward the bottom crop. Its proximity is established by scale and cutting, not by a conventional landscape horizon.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An unexpected hierarchy",
+      "body": "The chicken is much larger on the sheet than the humans. That reversal can unsettle a first expectation of a film poster built around star faces. It invites curiosity about the animal’s narrative importance without requiring the study to reveal the film’s opening sequence.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does its scale compare with a whole person at the top?",
+    "related": [
+     "city-of-god-ensemble",
+     "city-of-god-wings"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "city-of-god-wings",
+    "number": 7,
+    "label": "Wings wider than the body",
+    "shortLabel": "Wings wider than the body",
+    "kicker": "A BROAD, IRREGULAR FAN",
+    "summary": "A spread silhouette reaches both sides.",
+    "x": 50,
+    "y": 80.5,
+    "bounds": {
+     "x": 0,
+     "y": 65,
+     "w": 100,
+     "h": 31
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A broad, irregular fan",
+      "body": "The two wings stretch sideways with long feather shapes and softened edges. Their upward spread contrasts with the narrow vertical bodies above. The warm colour treatment links bird and background even while the wing outline remains a distinct large gesture.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Motion without a diagram",
+      "body": "Blurred areas and changing feather directions can make the wings feel active. We do not need an arrow to infer movement, but a still poster cannot establish its exact speed or sequence. Compare the sharper head with the less settled outer feathers.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which feather edges are sharp, and which suggest motion?",
+    "related": [
+     "city-of-god-head",
+     "city-of-god-raised-arm"
+    ],
+    "layerIndex": 3
+   },
+   {
+    "id": "city-of-god-credits",
+    "number": 8,
+    "label": "A narrow column beside the red field",
+    "shortLabel": "A narrow column beside the red field",
+    "kicker": "FINE TEXT AS A TEXTURE",
+    "summary": "Small lines share the page with three giant forms.",
+    "x": 79,
+    "y": 50,
+    "bounds": {
+     "x": 62,
+     "y": 39,
+     "w": 34,
+     "h": 22
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Fine text as a texture",
+      "body": "A right-aligned cluster of pale lines descends beneath the title. At this image size it reads more readily as a shaped column than as a complete list of names. Its small scale keeps it subordinate to the crowd, title and bird.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Acknowledgement at a closer distance",
+      "body": "Production lettering supplies a different kind of information from the arresting images. The exact roles should be read from a sharper copy before citation. The visible hierarchy tells us that some information is meant to reward close inspection rather than compete at first glance.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Why might the credits occupy a comparatively quiet area?",
+    "related": [
+     "city-of-god-red-field",
+     "city-of-god-title"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "city-of-god-footer",
+    "number": 9,
+    "label": "Small marks at the foot of the bird",
+    "shortLabel": "Small marks at the foot of the bird",
+    "kicker": "A THIN CLOSING BAND",
+    "summary": "The campaign closes with compact lettering and logos.",
+    "x": 50,
+    "y": 97.5,
+    "bounds": {
+     "x": 1,
+     "y": 95,
+     "w": 98,
+     "h": 5
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A thin closing band",
+      "body": "Tiny white lettering and several marks sit along the lower edge, crossing a much larger photographic subject. Their placement gives the composition a practical footer. The contrast is adequate to reveal their presence, but this 260-pixel-wide image cannot support a trustworthy complete transcription.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "What a reproduction cannot prove",
+      "body": "Logos and credits may identify production or distribution participants, but they do not disclose financing shares or creative control. This study avoids filling the miniature line from memory. A convincing explanation should make room for the limits of the actual image.",
+      "evidence": "uncertain"
+     }
+    ],
+    "question": "Can you recognise the presence of institutions without reading their names?",
+    "related": [
+     "city-of-god-credits",
+     "city-of-god-head"
+    ],
+    "layerIndex": 4
+   },
+   {
+    "id": "city-of-god-orange",
+    "number": 10,
+    "label": "The warm upper ground",
+    "shortLabel": "The warm upper ground",
+    "kicker": "A COMMON COLOUR ENVIRONMENT",
+    "summary": "A warm field links figures that remain separate.",
+    "x": 83,
+    "y": 2,
+    "bounds": {
+     "x": 76,
+     "y": 0,
+     "w": 14,
+     "h": 4
+    },
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A common colour environment",
+      "body": "The upper background is light orange-yellow, while the middle becomes a deeper red. This gradual shift ties distinct photographic elements into a common warm environment. It does not make them one continuous moment: the changes in subject scale and cropping remain conspicuous.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "An invitation rather than a report",
+      "body": "The strong palette and compressed cast can promise energy and intensity, but they are not a factual portrait of every resident of the real neighbourhood. Miramax identifies the film’s setting; the poster remains a selective publicity image rather than evidence about a whole community.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What changes if you imagine a cool blue ground behind the group?",
+    "related": [
+     "city-of-god-ensemble",
+     "city-of-god-red-field"
+    ],
+    "layerIndex": 0
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed City of God poster reproduction",
+    "url": "https://en.wikipedia.org/wiki/File:CidadedeDeus.jpg",
+    "kind": "Visual source",
+    "summary": "The exact edition shown is the evidence for visible shapes, wording, positions and reproduction samples. The linked record identifies the image; readings of its visual effects are supplied by Poster Atlas."
+   },
+   {
+    "id": "record",
+    "title": "Miramax: City of God",
+    "url": "https://www.miramax.com/movie/city-of-god/",
+    "kind": "Official distributor",
+    "summary": "Verifies the 2002 film, Fernando Meirelles and the photography-centred narrative in Rio de Janeiro’s Cidade de Deus. No poster design intention is inferred from its promotional synopsis."
+   }
+  ],
+  "tour": [
+   "city-of-god-ensemble",
+   "city-of-god-title",
+   "city-of-god-red-field",
+   "city-of-god-head",
+   "city-of-god-wings",
+   "city-of-god-credits"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected wording in this edition",
+    "rows": [
+     {
+      "text": "CIDADE DE DEUS",
+      "meaning": "City of God",
+      "lang": "pt"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "The large Portuguese title is transcribed. Cast and production lines are too small for a reliable complete reading from this 260 × 383 image.",
+  "palette": [
+   {
+    "name": "Upper orange",
+    "hex": "#ED942C",
+    "role": "A common field behind the ensemble",
+    "region": "city-of-god-orange"
+   },
+   {
+    "name": "Title white",
+    "hex": "#F6FAFB",
+    "role": "A sharp horizontal anchor",
+    "region": "city-of-god-title"
+   },
+   {
+    "name": "Middle red",
+    "hex": "#AF2322",
+    "role": "A textured interval between subjects",
+    "region": "city-of-god-red-field"
+   },
+   {
+    "name": "Wing orange",
+    "hex": "#CE521C",
+    "role": "Connects bird and warm ground",
+    "region": "city-of-god-wings"
+   }
+  ],
+  "paletteNote": "Approximate screen samples from the installed reproduction. These describe image pixels, not original inks, paper colours or calibrated printing specifications."
+ }
+}

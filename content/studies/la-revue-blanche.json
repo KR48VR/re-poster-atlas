@@ -1,0 +1,697 @@
+{
+ "poster": {
+  "id": "la-revue-blanche",
+  "title": "La Revue Blanche",
+  "year": "1895",
+  "creator": "Henri de Toulouse-Lautrec",
+  "country": "France",
+  "category": "Publishing",
+  "image": "images/full/la-revue-blanche.jpg",
+  "ratio": 0.75,
+  "accent": "#35413a",
+  "anchor": [
+   0.45,
+   0.56
+  ],
+  "monochrome": true,
+  "alt": "A monochrome reproduction of La Revue Blanche with a woman in a dark dotted dress and feathered hat beside large lettering.",
+  "blurb": "A dark figure and a field of lettering share the page, balanced by a pale collar and face.",
+  "notes": [
+   {
+    "title": "A figure assembled from contrasts",
+    "body": "The dark hat and dress are interrupted by a pale face and collar. Small light marks in the dress make its surface lively without dissolving the larger silhouette."
+   },
+   {
+    "title": "Words occupy their own space",
+    "body": "The publication’s name sits beside the figure. The lettering and body create two distinct masses that can be read together from a distance."
+   },
+   {
+    "title": "Read the reproduction carefully",
+    "body": "This museum image is monochrome, although the catalogue describes a colour lithograph. Its tonal relationships are useful here; its appearance cannot establish the original palette."
+   }
+  ],
+  "source": "https://www.metmuseum.org/art/collection/search/334255",
+  "credit": "The Metropolitan Museum of Art, Gift of Chester Dale, 1963 (63.663.8). Public-domain image. Catalogued as a lithograph in four colours.",
+  "reproduction": "Monochrome museum reproduction of a colour print.",
+  "countries": [
+   "France"
+  ],
+  "primaryOrigin": "France",
+  "anchorLayer": null,
+  "yearNumber": 1895,
+  "region": "Europe",
+  "thumb": "images/catalogue/la-revue-blanche.webp"
+ },
+ "studyData": {
+  "intro": "A sweeping figure and a practical publication notice share this tall sheet. The installed reproduction is monochrome, so study its tones and edges while keeping the museum’s four-colour lithograph record separate from what this image can show.",
+  "initial": "hat",
+  "regions": [
+   {
+    "id": "hat",
+    "number": 1,
+    "label": "Curling feathered hat",
+    "shortLabel": "Curling feathered hat",
+    "kicker": "DESIGN",
+    "summary": "Dark curls rise above a pale face.",
+    "x": 38,
+    "y": 10,
+    "bounds": {
+     "x": 20,
+     "y": 1,
+     "w": 34,
+     "h": 26
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A flourish at the top",
+      "body": "The hat contains broad black shapes and curling, feather-like forms. Some curves turn inward into pale openings, while others extend upward and sideways. Their lively outline differs from the more stable letterforms beside them and the repeated small dots farther down the dress.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An upward counterweight",
+      "body": "The hat’s height balances the dress’s long downward sweep. Its large curves also prepare the eye for the fur and hand below without repeating their exact shapes. This rhythm can be described without identifying a precise hat model or inferring the wearer’s social status.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which curl most strongly directs your eye toward the publication name?",
+    "related": [
+     "title",
+     "face"
+    ]
+   },
+   {
+    "id": "brim",
+    "number": 2,
+    "label": "Pale hat brim",
+    "shortLabel": "Pale hat brim",
+    "kicker": "DESIGN",
+    "summary": "A pale angled shape separates feathers from face.",
+    "x": 29,
+    "y": 25,
+    "bounds": {
+     "x": 14,
+     "y": 19,
+     "w": 33,
+     "h": 13
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A quiet shape under the flourish",
+      "body": "Below the dark hat mass, a pale brim-like form extends left and tilts across the head. Sparse dark marks define its edge. Its lighter tone leaves the nearby face delicate rather than enclosing it in one continuous black silhouette.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Finding the boundary",
+      "body": "The pale brim, face and paper share similar values in this reproduction. Their boundaries depend on small marks and changes of direction. Look slowly here: a detail can be structurally important even when it is not the highest-contrast part of the poster.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which small mark tells you where the brim ends and the face begins?",
+    "related": [
+     "hat",
+     "face"
+    ]
+   },
+   {
+    "id": "face",
+    "number": 3,
+    "label": "Small pale face",
+    "shortLabel": "Small pale face",
+    "kicker": "DESIGN",
+    "summary": "A few facial marks sit within a broad costume.",
+    "x": 31,
+    "y": 32,
+    "bounds": {
+     "x": 23,
+     "y": 27,
+     "w": 20,
+     "h": 12
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Very little ink, a recognisable face",
+      "body": "Eyes, nose and mouth are suggested with sparse marks inside a pale area. The face is small compared with the hat, collar and dress. Rather than modelling every surface, the image lets a few well-placed details establish a person within the larger silhouette.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Costume and person",
+      "body": "The costume occupies far more area than the face, so the viewer may first read a fashionable figure and only then look for expression. The reproduction does not by itself establish a sitter’s identity. Keep visible description separate from an unsupported portrait identification.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How few facial marks could remain before you would stop seeing a face?",
+    "related": [
+     "collar",
+     "hand"
+    ]
+   },
+   {
+    "id": "collar",
+    "number": 4,
+    "label": "Broad fur collar",
+    "shortLabel": "Broad fur collar",
+    "kicker": "DESIGN",
+    "summary": "A pale textured band widens the upper body.",
+    "x": 29,
+    "y": 49,
+    "bounds": {
+     "x": 3,
+     "y": 35,
+     "w": 66,
+     "h": 25
+    },
+    "layerIndex": 3,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Soft edges across the torso",
+      "body": "The collar spreads broadly from the shoulders and drops into several pale hanging forms. Fine dark marks create a furry texture along the edge. This broken softness differs from the clean dark outline of the dress and the relatively sharp printed letters.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Texture as separation",
+      "body": "The collar separates the small face from the large dotted body. Its pale value also prevents the upper torso from becoming one uninterrupted dark area. The visible texture suggests fur, but the image alone does not establish the material’s origin or manufacture.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which edge looks softest, and what kind of marks produces that effect?",
+    "related": [
+     "dress",
+     "muff"
+    ]
+   },
+   {
+    "id": "dress",
+    "number": 5,
+    "label": "Long dotted dress",
+    "shortLabel": "Long dotted dress",
+    "kicker": "DESIGN",
+    "summary": "A dark body widens toward the bottom edge.",
+    "x": 48,
+    "y": 80,
+    "bounds": {
+     "x": 8,
+     "y": 48,
+     "w": 87,
+     "h": 50
+    },
+    "layerIndex": 4,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A sweeping dark mass",
+      "body": "The dress extends down almost the full lower half and widens toward the right. Its silhouette forms a long diagonal edge, while scattered pale dots break the surface. The repeated marks stay subordinate to the broad overall shape when the image is viewed small.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Movement without a complete setting",
+      "body": "The angled body and trailing lower shape can suggest movement, although the print supplies little background explaining where the figure is going. The direction is a visual effect of contour and pose; it does not confirm a specific activity on its own.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which edge makes the figure seem most in motion?",
+    "related": [
+     "dots",
+     "arm"
+    ]
+   },
+   {
+    "id": "dots",
+    "number": 6,
+    "label": "Irregular pale dots",
+    "shortLabel": "Irregular pale dots",
+    "kicker": "DESIGN",
+    "summary": "Small repeated marks keep the dark garment active.",
+    "x": 43,
+    "y": 66,
+    "bounds": {
+     "x": 25,
+     "y": 55,
+     "w": 42,
+     "h": 35
+    },
+    "layerIndex": 4,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Pattern without a rigid grid",
+      "body": "The pale dots vary in size, spacing and shape. They follow the dress area but do not form a perfectly regular matrix. This looseness gives the dark field texture while preserving enough open dark space for it to remain a coherent silhouette.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A pattern changes with scale",
+      "body": "At close range the dots become individual marks; from farther away they form a light vibration across the dress. This scale change differs from reading the title, whose letters must remain separate enough to recognise as words at a distance.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "When you make the poster smaller, do the dots disappear or merge into a tone?",
+    "related": [
+     "dress",
+     "title"
+    ]
+   },
+   {
+    "id": "hand",
+    "number": 7,
+    "label": "Lower pale hand",
+    "shortLabel": "Lower pale hand",
+    "kicker": "DESIGN",
+    "summary": "A pale hand interrupts the left side of the dark dress.",
+    "x": 31,
+    "y": 77,
+    "bounds": {
+     "x": 20,
+     "y": 68,
+     "w": 20,
+     "h": 14
+    },
+    "layerIndex": 4,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A curved light interruption",
+      "body": "A pale hand and wrist appear near the left edge of the dress, with a dark curved cuff-like area above. The fingers turn downward. Their light shape makes a small but noticeable interruption in the large dark mass, echoing the pale face much higher up.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Connecting distant details",
+      "body": "Looking from face to hand reveals how a few pale human details organise a largely costume-based silhouette. Their separation creates a long visual path. No extra gesture or held object needs to be invented where the marks remain ambiguous.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does the hand feel like a small accent or an important guide to the body’s posture?",
+    "related": [
+     "face",
+     "dress"
+    ]
+   },
+   {
+    "id": "arm",
+    "number": 8,
+    "label": "Outstretched right sleeve",
+    "shortLabel": "Outstretched right sleeve",
+    "kicker": "DESIGN",
+    "summary": "A dark bent sleeve reaches toward the right.",
+    "x": 69,
+    "y": 55,
+    "bounds": {
+     "x": 56,
+     "y": 43,
+     "w": 24,
+     "h": 19
+    },
+    "layerIndex": 4,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A short directional bridge",
+      "body": "The dark sleeve bends outward and narrows toward the hand-and-muff area. Its angular contour contrasts with the collar’s soft texture. Pale dots continue across it, helping identify the sleeve as part of the same garment rather than a separate background shape.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Reading a body from fragments",
+      "body": "The sleeve joins the central torso to the larger furry form at the right, making the pose understandable even though some boundaries overlap. The body emerges from connected shapes rather than anatomical detail. Follow those joins before assigning an action to the figure.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which edge best explains the bend in the arm?",
+    "related": [
+     "muff",
+     "dress"
+    ]
+   },
+   {
+    "id": "muff",
+    "number": 9,
+    "label": "Large fur muff",
+    "shortLabel": "Large fur muff",
+    "kicker": "DESIGN",
+    "summary": "A pale furry shape occupies the right side.",
+    "x": 87,
+    "y": 68,
+    "bounds": {
+     "x": 72,
+     "y": 56,
+     "w": 26,
+     "h": 19
+    },
+    "layerIndex": 5,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A second soft texture",
+      "body": "The muff-like form has an irregular hairy outline and curled darker marks inside. It is larger than the pale hand at the opposite side. Its light value gives the right edge a counterweight to the dark dress and repeats the collar’s texture.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An asymmetrical balance",
+      "body": "The two sides are not mirror images: a small hand appears at left, while the much larger furry form sits at right. The difference helps create a lively pose. Balance here depends on tone and placement rather than identical objects on both sides.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Why can an uneven pair still feel visually balanced?",
+    "related": [
+     "collar",
+     "hand"
+    ]
+   },
+   {
+    "id": "title",
+    "number": 10,
+    "label": "La revue blanche",
+    "shortLabel": "La revue blanche",
+    "kicker": "LANGUAGE",
+    "summary": "A publication name shares the upper space with the hat.",
+    "x": 74,
+    "y": 19,
+    "bounds": {
+     "x": 50,
+     "y": 8,
+     "w": 47,
+     "h": 18
+    },
+    "layerIndex": 1,
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "The magazine’s name",
+      "body": "La revue blanche translates as The White Review. The two main words are arranged on separate lines in large, lightly irregular lettering. Their open spacing gives them room beside the ornate hat, so the name can remain legible without becoming a dense black block.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A documented print",
+      "body": "The Metropolitan Museum identifies this as Henri de Toulouse-Lautrec’s 1895 lithograph in four colours. The installed reproduction is monochrome, so it cannot support claims about the original colour relationships. Its layout, lettering and tonal separations can still be studied directly.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "met"
+       }
+      ]
+     }
+    ],
+    "question": "Does the hat or the publication name attract you first, and how do their shapes differ?",
+    "related": [
+     "hat",
+     "frequency"
+    ]
+   },
+   {
+    "id": "frequency",
+    "number": 11,
+    "label": "Frequency and prices",
+    "shortLabel": "Frequency and prices",
+    "kicker": "LANGUAGE",
+    "summary": "Small practical lines explain the publication offer.",
+    "x": 83,
+    "y": 35,
+    "bounds": {
+     "x": 64,
+     "y": 27,
+     "w": 34,
+     "h": 12
+    },
+    "layerIndex": 1,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Read the sales information",
+      "body": "The French copy identifies a twice-monthly publication, then gives a single-issue price of sixty centimes and an annual price of twelve francs. These are printed historical prices, not present-day equivalents. The practical wording remains much smaller than the publication name above.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "From image to purchase",
+      "body": "The figure attracts attention, while price and frequency help a reader decide what is being offered. Both tasks belong to the advertisement. A calculation of modern purchasing power would require evidence beyond this print, so the original amounts are retained without conversion.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which information would matter most if you were considering a subscription?",
+    "related": [
+     "title",
+     "address"
+    ]
+   },
+   {
+    "id": "address",
+    "number": 12,
+    "label": "Paris address and imprint",
+    "shortLabel": "Paris address and imprint",
+    "kicker": "LANGUAGE",
+    "summary": "The publication’s location appears below the prices.",
+    "x": 83,
+    "y": 45,
+    "bounds": {
+     "x": 69,
+     "y": 39,
+     "w": 29,
+     "h": 14
+    },
+    "layerIndex": 1,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "An address completes the offer",
+      "body": "The larger lower address reads 1 rue Laffitte, Paris. A much smaller publisher imprint follows beneath it. The difference in scale separates practical location information from finer production detail; the smallest lettering should be checked against a higher-resolution object image before a full transcription.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A place beyond the pictured figure",
+      "body": "The address connects an expressive image to a real publication operation. It gives the reader a concrete next point of contact while the figure supplies no literal office scene. This is an economical division of work between visual attraction and usable information.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How would the poster’s purpose change if the address and prices were removed?",
+    "related": [
+     "frequency",
+     "title"
+    ]
+   },
+   {
+    "id": "paper",
+    "number": 13,
+    "label": "Paper and reproduction",
+    "shortLabel": "Paper and reproduction",
+    "kicker": "DESIGN",
+    "summary": "Grey paper and a narrow margin surround the figure.",
+    "x": 8,
+    "y": 83,
+    "bounds": {
+     "x": 1,
+     "y": 75,
+     "w": 13,
+     "h": 23
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An object beyond the image",
+      "body": "A narrow outer border and uneven grey paper remain visible beside the large dark figure. Small surface variations continue through apparently empty areas. They help distinguish this particular reproduction from a clean digital tracing of the figure and publication lettering.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Tones are not original colours",
+      "body": "The monochrome file lets us compare dark and light areas, but it does not reveal which original inks produced them. Its grey paper tone is also affected by photography and reproduction. Treat the screen palette as samples of this file, not a specification for the historical print.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which visible marks belong to the photographed sheet rather than to the advertised publication?",
+    "related": [
+     "title",
+     "dress"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed poster edition",
+    "url": "https://www.metmuseum.org/art/collection/search/334255",
+    "kind": "Visual source",
+    "summary": "The reproduced edition is the evidence for visible wording, layout, marks and colour relationships. Translations and visual interpretations are supplied by Poster Atlas."
+   },
+   {
+    "id": "met",
+    "title": "The Metropolitan Museum of Art: La Revue Blanche",
+    "url": "https://www.metmuseum.org/art/collection/search/334255",
+    "kind": "Museum object record",
+    "summary": "Identifies Toulouse-Lautrec, 1895, lithography in four colours, and accession 63.663.8. The displayed local reproduction is monochrome, so original colour claims are withheld."
+   }
+  ],
+  "tour": [
+   "hat",
+   "face",
+   "collar",
+   "dress",
+   "muff",
+   "title",
+   "frequency"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "La revue blanche",
+      "meaning": "The White Review; the publication name.",
+      "lang": "fr"
+     },
+     {
+      "text": "bi-mensuelle",
+      "meaning": "Twice monthly.",
+      "lang": "fr"
+     },
+     {
+      "text": "le n° 60 cent.",
+      "meaning": "Single issue: sixty centimes.",
+      "lang": "fr"
+     },
+     {
+      "text": "12 Francs par An",
+      "meaning": "Twelve francs per year.",
+      "lang": "fr"
+     },
+     {
+      "text": "1 rue Laffitte, Paris",
+      "meaning": "The printed publication address.",
+      "lang": "fr"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "French title, frequency, prices and publication address are transcribed from the installed image. The tiny publisher imprint is not reconstructed. This monochrome reproduction does not preserve the original four-colour palette.",
+  "palette": [
+   {
+    "name": "Dark dress",
+    "hex": "#252525",
+    "role": "The large garment silhouette.",
+    "region": "dress"
+   },
+   {
+    "name": "Pale collar",
+    "hex": "#919191",
+    "role": "A lighter textured band.",
+    "region": "collar"
+   },
+   {
+    "name": "Paper tone",
+    "hex": "#8C8C8C",
+    "role": "Open space around the wording.",
+    "region": "title"
+   },
+   {
+    "name": "Dark hat",
+    "hex": "#272727",
+    "role": "The top flourish.",
+    "region": "hat"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in this installed reproduction. They are not original paint, ink or printing specifications.",
+  "connections": [
+   {
+    "label": "Two masses share a page",
+    "title": "Lettering balances the dress",
+    "text": "The publication name and the broad dotted dress occupy different sides of the sheet. Their separated dark masses make the figure and the publication readable together.",
+    "anchors": [
+     [
+      1,
+      0.7497225305216426,
+      0.21125
+     ],
+     [
+      4,
+      0.5399556048834628,
+      0.7804166666666666
+     ]
+    ],
+    "id": "la-revue-blanche-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Light interrupts dark",
+    "title": "Face and collar sit between hat and dress",
+    "text": "The pale face and fur collar separate two dark shapes, creating a small bright centre below the elaborate hat.",
+    "anchors": [
+     [
+      2,
+      0.39012208657047726,
+      0.17041666666666666
+     ],
+     [
+      3,
+      0.3201997780244173,
+      0.35041666666666665
+     ],
+     [
+      4,
+      0.37014428412874584,
+      0.6604166666666667
+     ]
+    ],
+    "id": "la-revue-blanche-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

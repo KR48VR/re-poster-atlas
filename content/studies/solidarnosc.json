@@ -1,0 +1,526 @@
+{
+ "poster": {
+  "id": "solidarnosc",
+  "title": "Solidarity. Poland ’80",
+  "year": "1980",
+  "yearNumber": 1980,
+  "country": "Poland / United Kingdom",
+  "region": "Europe",
+  "category": "Politics",
+  "creator": "Jerzy Janiszewski",
+  "edition": "Polish Solidarity identity in a British-printed 1980 campaign poster, issued by Solidarity With Solidarity; V&A E.3124-1990.",
+  "image": "images/full/solidarnosc.jpg",
+  "ratio": 1.348624,
+  "width": 735,
+  "height": 545,
+  "alt": "A red hand-drawn Solidarność wordmark with tightly joined letters and a small Polish flag fills a pale landscape sheet; Polska ’80 appears below.",
+  "blurb": "A word becomes a crowd: linked, irregular letters make solidarity visible in the structure of the name.",
+  "notes": [
+   {
+    "title": "Letters lean together",
+    "body": "The thick red characters touch and crowd one another. Their uneven rhythm gives the impression of a gathering rather than a neutral typeset label."
+   },
+   {
+    "title": "A flag grows from the word",
+    "body": "A small red-and-white flag rises from the lettering. National identification is attached to the collective shape instead of placed in a separate emblem."
+   },
+   {
+    "title": "A Polish message travels",
+    "body": "The V&A identifies this impression as printed in the United Kingdom for Solidarity With Solidarity. It shows a Polish movement’s visual identity circulating abroad in 1980."
+   }
+  ],
+  "source": "https://collections.vam.ac.uk/item/O192065/solidarity-poland-80-poster-janiszewski-jerzy/",
+  "imageSource": "https://collections.vam.ac.uk/item/O192065/solidarity-poland-80-poster-janiszewski-jerzy/",
+  "imageCredit": "Jerzy Janiszewski, 1980. Collection image © Victoria and Albert Museum, London. Underlying design rights retained by their owner.",
+  "downloadURL": "https://framemark.vam.ac.uk/collections/2009CA2181/full/735,/0/default.jpg",
+  "accent": "#c83339",
+  "anchor": [
+   0.48,
+   0.45
+  ],
+  "credit": "Jerzy Janiszewski, 1980. Collection image © Victoria and Albert Museum, London. Underlying design rights retained by their owner.",
+  "countries": [
+   "Poland",
+   "United Kingdom"
+  ],
+  "primaryOrigin": "Poland",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/solidarnosc.webp"
+ },
+ "studyData": {
+  "intro": "A single red word carries most of this poster’s force. Look at its joins, uneven heights, accents and flag, then compare that crowded centre with the large pale spaces and the small place-and-date line below.",
+  "initial": "word",
+  "regions": [
+   {
+    "id": "word",
+    "label": "The joined word",
+    "shortLabel": "The joined word",
+    "kicker": "Words and meaning",
+    "summary": "The letters behave like a collective shape.",
+    "layerIndex": 1,
+    "x": 50.748,
+    "y": 50.459,
+    "bounds": {
+     "x": 5,
+     "y": 32,
+     "w": 90,
+     "h": 37
+    },
+    "tags": [
+     "language",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Solidarność means solidarity",
+      "body": "The Polish word Solidarność is drawn in heavy red letters that touch and overlap. Its baseline and upper edge are irregular, so the word reads as a group of related forms rather than mechanically spaced type. The whole name remains the dominant element on the sheet.",
+      "evidence": "observation",
+      "originalText": "Solidarność",
+      "lang": "pl",
+      "translation": "Solidarity"
+     },
+     {
+      "kind": "context",
+      "heading": "A sign made during a strike",
+      "body": "On his own website, Jerzy Janiszewski dates the first Solidarity sign to August 1980 and describes making it in support of the workers’ strike at the Lenin Shipyards in Gdańsk. That is evidence for the logo’s origin, not for this impression’s printing method.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "artist"
+       }
+      ]
+     }
+    ],
+    "question": "Where do the letters remain individual, and where do they become one shape?",
+    "related": [
+     "joins",
+     "flag",
+     "date"
+    ],
+    "number": 1
+   },
+   {
+    "id": "initial",
+    "label": "The opening S",
+    "shortLabel": "The opening S",
+    "kicker": "Look closely",
+    "summary": "One broad curve begins the word.",
+    "layerIndex": 1,
+    "x": 16.054,
+    "y": 48.44,
+    "bounds": {
+     "x": 5,
+     "y": 33,
+     "w": 22,
+     "h": 31
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A large entrance",
+      "body": "The initial S is broad, rounded and uneven at its edges. It rises above nearby parts of the word and bends back into the dense red band. Its open curves offer a relatively clear starting point before the more tightly interlocked middle letters.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An individual within a group",
+      "body": "The first letter is distinctive without becoming detached. That balance can support a reading of solidarity as separate people acting together, but the shape is still a letter, not a literal portrait. Compare its space with the more compressed joins at the centre.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What makes the first letter distinct without breaking the unity of the word?",
+    "related": [
+     "word",
+     "joins",
+     "ground"
+    ],
+    "number": 2
+   },
+   {
+    "id": "joins",
+    "label": "Where letters meet",
+    "shortLabel": "Where letters meet",
+    "kicker": "Look closely",
+    "summary": "Shared edges reduce the gaps.",
+    "layerIndex": 1,
+    "x": 45.986,
+    "y": 53.945,
+    "bounds": {
+     "x": 25,
+     "y": 40,
+     "w": 42,
+     "h": 28
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Dense middle strokes",
+      "body": "At the centre, red strokes press against one another and leave only small pale openings. Some letter boundaries are easier to follow at the top than at the base. The image asks the viewer to read through a connected mass rather than a sequence of isolated characters.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A visible metaphor",
+      "body": "The connected forms can be read as a metaphor for mutual support: individual parts gain a common outline. That interpretation comes from their arrangement and the word’s meaning. It does not require claiming that every letter represents a particular worker or named participant.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Can you point to a place where two letters seem to support one another?",
+    "related": [
+     "word",
+     "initial",
+     "accents"
+    ],
+    "number": 3
+   },
+   {
+    "id": "accents",
+    "label": "The marks above",
+    "shortLabel": "The marks above",
+    "kicker": "Words and meaning",
+    "summary": "Small detached marks still belong to the word.",
+    "layerIndex": 1,
+    "x": 84.898,
+    "y": 37.982,
+    "bounds": {
+     "x": 79,
+     "y": 31,
+     "w": 13,
+     "h": 15
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Not decorative dots",
+      "body": "The small red accents near the word’s right end belong to Polish spelling. They sit above the main red mass, creating a different rhythm from the joined lower strokes. Removing them would alter the written word, even though its broad silhouette might remain familiar.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Together does not mean identical",
+      "body": "The word achieves unity while retaining small separated elements. This complicates a simple claim that every part must touch. Compare the accents with the flag: both rise above the main band, but one belongs to spelling and the other supplies an emblem.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How can a detached mark still be essential to a connected word?",
+    "related": [
+     "word",
+     "flag",
+     "joins"
+    ],
+    "number": 4
+   },
+   {
+    "id": "flag",
+    "label": "The flag above the word",
+    "shortLabel": "The flag above the word",
+    "kicker": "Look closely",
+    "summary": "A national sign grows from the lettering.",
+    "layerIndex": 2,
+    "x": 61.497,
+    "y": 32.477,
+    "bounds": {
+     "x": 49,
+     "y": 18,
+     "w": 25,
+     "h": 29
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Two unequal colour areas",
+      "body": "A small flag rises above the middle-right of the word. Its red lower stripe is solid, while the pale upper stripe shares the sheet’s light tone and is outlined by a thin red edge. The pole links this separate shape to the lettering below.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A second kind of identification",
+      "body": "The white-and-red flag adds a Polish national reference to a word that already names solidarity. It does not make the two ideas identical. A viewer can compare how language identifies a movement while a flag situates that movement within a national frame.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which part of the flag depends on the pale paper to remain visible?",
+    "related": [
+     "pole",
+     "word",
+     "ground"
+    ],
+    "number": 5
+   },
+   {
+    "id": "pole",
+    "label": "The narrow flagpole",
+    "shortLabel": "The narrow flagpole",
+    "kicker": "Look closely",
+    "summary": "A thin upright connects unlike shapes.",
+    "layerIndex": 2,
+    "x": 69.932,
+    "y": 35.046,
+    "bounds": {
+     "x": 67,
+     "y": 20,
+     "w": 6,
+     "h": 30
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A small but necessary link",
+      "body": "The flagpole is much narrower than the thick letter strokes. It rises from the word and meets the flag’s upper edge, turning two separate kinds of sign into one construction. Without it, the flag would float above rather than visibly grow from the name.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A controlled interruption",
+      "body": "The pole breaks the word’s uneven horizontal band with a clear upright. Its narrowness allows the flag to rise without adding another large block of red. Cover the pole alone and compare the relationship between emblem and lettering.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What changes when the flag is visually disconnected from the word?",
+    "related": [
+     "flag",
+     "joins",
+     "date"
+    ],
+    "number": 6
+   },
+   {
+    "id": "date",
+    "label": "Polska ’80",
+    "shortLabel": "Polska ’80",
+    "kicker": "Words and meaning",
+    "summary": "Small dark type supplies place and time.",
+    "layerIndex": 3,
+    "x": 84.49,
+    "y": 84.587,
+    "bounds": {
+     "x": 76,
+     "y": 81,
+     "w": 17,
+     "h": 7
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Poland and a year",
+      "body": "POLSKA ’80 means “Poland ’80,” with the shortened date referring to 1980. It sits apart from the red word in small dark letters near the lower right. Its conventional, compact appearance contrasts with the large hand-drawn identity above.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A caption rather than a second slogan",
+      "body": "The small line helps locate the poster’s message without competing with it. Its separation also lets the main word operate as an emblem. The visible date supports the poster’s stated occasion; it does not independently authenticate when this particular sheet was printed.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Why might the date be quieter and more regular than the main word?",
+    "related": [
+     "word",
+     "ground",
+     "marks"
+    ],
+    "number": 7
+   },
+   {
+    "id": "ground",
+    "label": "The pale open sheet",
+    "shortLabel": "The pale open sheet",
+    "kicker": "Look closely",
+    "summary": "Large intervals let the red mass stand alone.",
+    "layerIndex": 0,
+    "x": 37.959,
+    "y": 81.468,
+    "bounds": {
+     "x": 6,
+     "y": 70,
+     "w": 64,
+     "h": 23
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Space around a dense centre",
+      "body": "Much of the sheet remains pale, especially below the word and around the outer edges. That space is not filled with explanatory paragraphs or pictures. It makes the red lettering’s irregular boundary easier to see and gives the small lower caption a separate location.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Density needs an interval",
+      "body": "The word feels crowded internally because the surrounding page is comparatively open. Filling the empty lower area with more copy would change that balance. Try covering a wide outer margin: the red shape may feel more compressed even though none of its letters have changed.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does the open space make the word feel quieter or more forceful?",
+    "related": [
+     "word",
+     "initial",
+     "date"
+    ],
+    "number": 8
+   },
+   {
+    "id": "marks",
+    "label": "Tiny edge inscriptions",
+    "shortLabel": "Tiny edge inscriptions",
+    "kicker": "Look closely",
+    "summary": "The smallest marks need a different kind of evidence.",
+    "layerIndex": 3,
+    "x": 5.85,
+    "y": 96.514,
+    "bounds": {
+     "x": 1,
+     "y": 93,
+     "w": 9,
+     "h": 6
+    },
+    "tags": [
+     "business",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "Information at the margins",
+      "body": "Small dark inscriptions appear near the bottom-left edge and elsewhere near the right. They are clearly separate from the large message but too small here for a reliable full reading. Their marginal placement keeps production or ownership information from dominating the main word.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "An edition is not the logo",
+      "body": "A logo can appear on many sheets, badges and other objects. Knowing its origin does not identify every later printing. The catalogue’s British-printing attribution is retained as a lead, but the inaccessible collection record is not treated here as newly verified evidence.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What would you need to inspect to distinguish this sheet from another use of the same logo?",
+    "related": [
+     "date",
+     "word",
+     "ground"
+    ],
+    "number": 9
+   }
+  ],
+  "sources": [
+   {
+    "id": "artist",
+    "title": "Jerzy Janiszewski: The very first Solidarność sign",
+    "url": "https://www.jerzy-janiszewski.com/solidarnosc_s/01_first_s.html",
+    "kind": "Primary source",
+    "summary": "The designer dates the first sign to August 1980 and explains its support for the Gdańsk shipyard strike. It describes a different original impression, not the material of the installed sheet."
+   }
+  ],
+  "tour": [
+   "word",
+   "joins",
+   "accents",
+   "flag",
+   "date",
+   "ground"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected wording on this edition",
+    "rows": [
+     {
+      "text": "Solidarność",
+      "meaning": "Solidarity",
+      "lang": "pl"
+     },
+     {
+      "text": "POLSKA ’80",
+      "meaning": "Poland ’80; Poland 1980",
+      "lang": "pl"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "The large word and place/date are transcribed. Tiny edge inscriptions are not. The V&A object page could not be fetched during this review, so its edition-specific printing attribution is not expanded into a documented section.",
+  "palette": [
+   {
+    "name": "Red word",
+    "hex": "#cb1a24",
+    "role": "The letters behave like a collective shape.",
+    "region": "word"
+   },
+   {
+    "name": "Pale sheet",
+    "hex": "#eae7e2",
+    "role": "Large intervals let the red mass stand alone.",
+    "region": "ground"
+   },
+   {
+    "name": "Dark caption",
+    "hex": "#2b2823",
+    "role": "Small dark type supplies place and time.",
+    "region": "date"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in this installed reproduction. They describe this image, not original printing inks or a colour standard.",
+  "connections": [
+   {
+    "label": "Joined strokes",
+    "title": "A flag grows out of the word",
+    "text": "The upright pole appears to rise directly from the crowded letters. The same red joins the flag and word into one emphatic sign.",
+    "anchors": [
+     [
+      1,
+      0.47006802721088436,
+      0.5293577981651376
+     ],
+     [
+      2,
+      0.6795918367346939,
+      0.2908256880733945
+     ]
+    ],
+    "id": "solidarnosc-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Large and small",
+    "title": "A second scale of reading",
+    "text": "The small dark date in the lower right is separated from the large red word by a wide pale interval. Its scale asks the viewer to move from recognition to closer reading.",
+    "anchors": [
+     [
+      1,
+      0.5,
+      0.5403669724770642
+     ],
+     [
+      3,
+      0.8496598639455782,
+      0.8431192660550458
+     ]
+    ],
+    "id": "solidarnosc-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

@@ -1,0 +1,679 @@
+{
+ "poster": {
+  "id": "nosferatu",
+  "title": "Nosferatu",
+  "year": "1922",
+  "yearNumber": 1922,
+  "country": "Germany",
+  "region": "Europe",
+  "creator": "Albin Grau",
+  "filmCreator": "F. W. Murnau",
+  "edition": "German long-format poster; printing date unverified",
+  "alt": "A tall green and black Nosferatu poster with a hunched vampire, bright round eyes, pointed teeth and clawed hands beside curved white lettering.",
+  "blurb": "A cramped, elongated format gives a shadowy figure almost nowhere to hide.",
+  "notes": [
+   {
+    "title": "A body too large for the frame",
+    "body": "The vampire fills nearly the entire narrow sheet. His bent silhouette presses against the edges, turning the format itself into a source of unease."
+   },
+   {
+    "title": "The title bends around the threat",
+    "body": "NOSFERATU climbs in a pale curved band rather than sitting on a straight baseline. The lettering follows the figure’s mass and pulls the eye upward."
+   },
+   {
+    "title": "Tiny lights in a dark face",
+    "body": "Two pale eyes and exposed teeth puncture the black head. Those few bright marks draw attention before the softer town silhouettes and dense credits below."
+   }
+  ],
+  "source": "https://player.bfi.org.uk/subscription/film/watch-nosferatu-1922-online",
+  "imageSource": "https://www.filmposter-archiv.de/filmplakat.php?id=10369",
+  "downloadURL": "https://www.filmposter-archiv.de/filmplakat/1922/nosferatu-3.jpg",
+  "imageCredit": "Poster by Albin Grau; reproduction via Filmposter-Archiv. Rights remain with their respective holders; no reuse licence asserted.",
+  "anchor": [
+   0.6,
+   0.25
+  ],
+  "accent": "#718246",
+  "category": "Film",
+  "image": "images/full/nosferatu.jpg",
+  "ratio": 0.294286,
+  "imageWidth": 206,
+  "imageHeight": 700,
+  "credit": "Poster by Albin Grau; reproduction via Filmposter-Archiv. Rights remain with their respective holders; no reuse licence asserted.",
+  "countries": [
+   "Germany"
+  ],
+  "primaryOrigin": "Germany",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/nosferatu.webp"
+ },
+ "studyData": {
+  "intro": "A long narrow sheet holds a looming figure, a curved title and a surprisingly busy credit area. Follow the bright eyes and pale lettering through the dark silhouette, and ask how much of the unease comes from the figure and how much from the format.",
+  "initial": "face",
+  "regions": [
+   {
+    "id": "face",
+    "label": "The dark face",
+    "shortLabel": "The dark face",
+    "kicker": "Look closely",
+    "summary": "A few pale marks make the head legible.",
+    "layerIndex": 3,
+    "x": 74.757,
+    "y": 23,
+    "bounds": {
+     "x": 46,
+     "y": 14,
+     "w": 35,
+     "h": 13
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A face with little light",
+      "body": "The head is mostly dark, with small pale eyes, a narrow nose area and exposed teeth. The surrounding black mass merges into the shoulders. Instead of modelling every facial plane, the image relies on a handful of bright marks to make the figure recognisable.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A documented vampire film",
+      "body": "The BFI identifies Nosferatu as F. W. Murnau’s 1922 German horror film and names Max Schreck’s character Count Orlok. That supplies the film context. The poster is a graphic interpretation of its threatening figure, not a medical or zoological depiction of a real creature.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "bfi"
+       }
+      ]
+     }
+    ],
+    "question": "How few pale marks are needed before this dark shape becomes a face?",
+    "related": [
+     "eyes",
+     "teeth",
+     "body"
+    ],
+    "number": 1
+   },
+   {
+    "id": "eyes",
+    "label": "Two pale eyes",
+    "shortLabel": "Two pale eyes",
+    "kicker": "Look closely",
+    "summary": "Tiny points become a strong focal signal.",
+    "layerIndex": 3,
+    "x": 55.825,
+    "y": 18,
+    "bounds": {
+     "x": 53,
+     "y": 16,
+     "w": 20,
+     "h": 4
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Small and widely separated",
+      "body": "The eyes are pale circular marks set apart within the dark head. Their contrast is stronger than much of the surrounding modelling. Because they form a familiar pair, a viewer can locate a face even when the larger silhouette initially reads as an irregular black mass.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Attention without a large portrait",
+      "body": "The face does not have to occupy most of the sheet to command attention. These small highlights can compete with the much larger pale title. Cover the eyes and compare how quickly you locate the head; the loss may be greater than their size suggests.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How much does the figure change when you cover just the eyes?",
+    "related": [
+     "face",
+     "title",
+     "town"
+    ],
+    "number": 2
+   },
+   {
+    "id": "teeth",
+    "label": "The exposed teeth",
+    "shortLabel": "The exposed teeth",
+    "kicker": "Look closely",
+    "summary": "A second bright cluster sits below the eyes.",
+    "layerIndex": 3,
+    "x": 60.194,
+    "y": 24,
+    "bounds": {
+     "x": 55,
+     "y": 21,
+     "w": 16,
+     "h": 5
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Vertical accents in a dark opening",
+      "body": "Several pale pointed or elongated tooth shapes sit beneath the face’s upper highlights. They differ from the round eyes and from the blockier windows in the town. Their small sharp forms give the lower face a recognisable feature without a fully outlined mouth.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A contrast of shapes",
+      "body": "Round eyes and narrow teeth supply different kinds of accent within the same dark area. Comparing them helps explain why the face feels specific rather than merely shadowed. The reading concerns shapes on the sheet, not a claim about the figure’s actual anatomy.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which feels more prominent: the round eye marks or the narrow tooth marks?",
+    "related": [
+     "eyes",
+     "face",
+     "hands"
+    ],
+    "number": 3
+   },
+   {
+    "id": "body",
+    "label": "The hunched silhouette",
+    "shortLabel": "The hunched silhouette",
+    "kicker": "Look closely",
+    "summary": "A body presses against the narrow sheet.",
+    "layerIndex": 2,
+    "x": 50,
+    "y": 42,
+    "bounds": {
+     "x": 0,
+     "y": 15,
+     "w": 100,
+     "h": 54
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Little room around the figure",
+      "body": "The dark body bends through most of the upper and middle sheet, with shoulders spreading towards the side edges. The long format leaves little lateral space. Rough strokes and uneven contours distinguish the silhouette from the more regular pale letters beside and below it.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Format as pressure",
+      "body": "The figure can feel too large for its frame because it nearly fills the width while remaining elongated. Widen the page mentally and that pressure changes. The sense of confinement comes from the relationship between body and border as much as from facial detail.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would the figure feel as imposing on a much wider sheet?",
+    "related": [
+     "title",
+     "hands",
+     "ground"
+    ],
+    "number": 4
+   },
+   {
+    "id": "hands",
+    "label": "The crossing clawed hands",
+    "shortLabel": "The crossing clawed hands",
+    "kicker": "Look closely",
+    "summary": "Long fingers stretch across the body.",
+    "layerIndex": 4,
+    "x": 50.971,
+    "y": 55,
+    "bounds": {
+     "x": 2,
+     "y": 49,
+     "w": 98,
+     "h": 12
+    },
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Horizontal interruptions",
+      "body": "Elongated hands and fingers cross the lower part of the upper silhouette, with thin projections reaching towards the sides. Their near-horizontal direction interrupts the body’s long diagonal. Pale and dark strokes overlap, making the fingers stand out from the clothing behind them.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Reaching beyond a closed shape",
+      "body": "The fingers break the body’s mass into extensions rather than a single block. They can suggest grasping or reaching, but the still image leaves the exact action unresolved. Compare their sideways spread with the vertical confinement of the poster’s format.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How do the fingers change the body from a closed mass into an active shape?",
+    "related": [
+     "body",
+     "teeth",
+     "town"
+    ],
+    "number": 5
+   },
+   {
+    "id": "town",
+    "label": "The pale town at right",
+    "shortLabel": "The pale town at right",
+    "kicker": "Look closely",
+    "summary": "Small buildings provide another scale.",
+    "layerIndex": 1,
+    "x": 80.583,
+    "y": 44.429,
+    "bounds": {
+     "x": 63,
+     "y": 37,
+     "w": 35,
+     "h": 15
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A stepped pale silhouette",
+      "body": "A cluster of pale buildings appears beside the body on the right. Stepped rooflines and small dark window marks distinguish them from the figure. Their much smaller scale creates a comparison between a looming body and an inhabited setting without supplying a detailed city view.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Threat through juxtaposition",
+      "body": "Placing a large dark figure beside small pale buildings can make the figure seem to overshadow a community. That is a visual relationship, not proof that the poster depicts a literal giant. The image compresses story elements through scale and adjacency.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What makes the buildings read as distant or small beside the figure?",
+    "related": [
+     "body",
+     "eyes",
+     "ground"
+    ],
+    "number": 6
+   },
+   {
+    "id": "title",
+    "label": "The curved Nosferatu title",
+    "shortLabel": "The curved Nosferatu title",
+    "kicker": "Words and meaning",
+    "summary": "The name bends around the head.",
+    "layerIndex": 5,
+    "x": 40.777,
+    "y": 19.286,
+    "bounds": {
+     "x": 4,
+     "y": 1,
+     "w": 93,
+     "h": 44
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A title on an arcing path",
+      "body": "NOSFERATU is arranged along a pale curved band that climbs the left side and turns above the head. The letters follow the curve rather than a straight baseline. Their large scale makes the title readable in stages as the eye moves up the narrow sheet.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Words make room for a body",
+      "body": "The title appears to bend around the figure instead of pushing it into a separate picture box. That gives word and image a shared spatial problem. Trace the curved path, then compare it with the more horizontal credit lines at the bottom.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does the title frame the figure, or does the figure seem to push the title aside?",
+    "related": [
+     "body",
+     "subtitle",
+     "eyes"
+    ],
+    "number": 7
+   },
+   {
+    "id": "subtitle",
+    "label": "A symphony of horror",
+    "shortLabel": "A symphony of horror",
+    "kicker": "Words and meaning",
+    "summary": "A descriptive phrase bridges image and credits.",
+    "layerIndex": 6,
+    "x": 51.942,
+    "y": 73,
+    "bounds": {
+     "x": 8,
+     "y": 68,
+     "w": 88,
+     "h": 10
+    },
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "The genre is named",
+      "body": "EINE SYMPHONIE DES GRAUENS means “A symphony of horror.” The pale phrase sits beneath the large figure, linking the title to the lower credit area. Its musical metaphor does not make the poster a concert advertisement; it describes the film in figurative language.",
+      "evidence": "observation",
+      "originalText": "EINE SYMPHONIE DES GRAUENS",
+      "lang": "de",
+      "translation": "A symphony of horror"
+     },
+     {
+      "kind": "design",
+      "heading": "A change of reading mode",
+      "body": "Above, the viewer follows a body and arcing name. Here, shorter lines invite ordinary word-by-word reading. The subtitle therefore acts as a transition between the dramatic picture and the dense practical information below, while retaining an expressive phrase of its own.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What does the word “symphony” add to a title about horror?",
+    "related": [
+     "title",
+     "director",
+     "music"
+    ],
+    "number": 8
+   },
+   {
+    "id": "director",
+    "label": "F. W. Murnau’s credit",
+    "shortLabel": "F. W. Murnau’s credit",
+    "kicker": "Words and meaning",
+    "summary": "A large name punctuates the lower block.",
+    "layerIndex": 6,
+    "x": 46.602,
+    "y": 80.429,
+    "bounds": {
+     "x": 1,
+     "y": 77,
+     "w": 94,
+     "h": 7
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Direction named explicitly",
+      "body": "The lower text includes REGIE, meaning direction, followed by F. W. Murnau. His name is larger than several neighbouring role labels. This makes a filmmaker’s credit a clear landmark in a lower area otherwise crowded with different lines and lettering sizes.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A verified director, a separate poster",
+      "body": "The BFI confirms Murnau’s direction and the film’s 1922 date. These facts identify the advertised work. They do not establish this long-format sheet’s printing date, and the film director’s credit should not be confused with the poster’s design attribution.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "bfi"
+       }
+      ]
+     }
+    ],
+    "question": "Which difference in size makes the director’s name stand out among the other credits?",
+    "related": [
+     "subtitle",
+     "music",
+     "emblem"
+    ],
+    "number": 9
+   },
+   {
+    "id": "music",
+    "label": "The music and design lines",
+    "shortLabel": "The music and design lines",
+    "kicker": "Look closely",
+    "summary": "Several crafts share the lower information area.",
+    "layerIndex": 6,
+    "x": 32.039,
+    "y": 90,
+    "bounds": {
+     "x": 0,
+     "y": 83,
+     "w": 64,
+     "h": 14
+    },
+    "tags": [
+     "business",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "More than a director",
+      "body": "The lower block includes role words for photography, costumes and sets, and music. The line naming Albin Grau appears with costumes and sets, while Erdmann appears beneath music. These are film-production credits visible on the sheet; they are not automatically a complete poster-design credit.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Music in a silent-film presentation",
+      "body": "The BFI describes its restored version as using Hans Erdmann’s original 1922 score. That supports the relevance of the music credit to the film. A silent-era film could have musical accompaniment; the word “silent” does not mean this poster advertised an experience without music.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "bfi"
+       }
+      ]
+     }
+    ],
+    "question": "Why does the music credit matter when discussing a silent-era film?",
+    "related": [
+     "director",
+     "subtitle",
+     "emblem"
+    ],
+    "number": 10
+   },
+   {
+    "id": "emblem",
+    "label": "The circular Prana-Film mark",
+    "shortLabel": "The circular Prana-Film mark",
+    "kicker": "Words and meaning",
+    "summary": "A round badge closes the narrow sheet.",
+    "layerIndex": 6,
+    "x": 78.641,
+    "y": 93,
+    "bounds": {
+     "x": 60,
+     "y": 86,
+     "w": 37,
+     "h": 14
+    },
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A company name in a circle",
+      "body": "A circular emblem at the lower right contains the readable name PRANA FILM. Its curved border distinguishes it from the surrounding horizontal credit lines. The badge occupies a substantial part of the narrow bottom area, becoming a final shape after the long body above.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A different kind of signature",
+      "body": "The company mark identifies an organisational presence, while the nearby personal names credit individual work. Their coexistence reminds us that a film advertisement carries several kinds of authorship and production information. The logo’s presence alone does not establish a printing workshop or edition date.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How does the round company mark differ from the personal names around it?",
+    "related": [
+     "director",
+     "music",
+     "title"
+    ],
+    "number": 11
+   },
+   {
+    "id": "ground",
+    "label": "The green intervals",
+    "shortLabel": "The green intervals",
+    "kicker": "Look closely",
+    "summary": "Muted colour keeps the pale and dark marks distinct.",
+    "layerIndex": 0,
+    "x": 92.718,
+    "y": 32.286,
+    "bounds": {
+     "x": 79,
+     "y": 26,
+     "w": 19,
+     "h": 10
+    },
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A limited background field",
+      "body": "Green areas remain visible around the black body, pale town and curved lettering. They are relatively muted compared with the sharp light-dark contrasts. This middle tone allows both pale and dark elements to stand out without requiring several bright colours.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Reproduction colour is not a print recipe",
+      "body": "The green and cream tones describe the installed image, including its age and reproduction history. They should not be treated as precise original ink formulas. Comparing the tones is useful; reconstructing a printing process would require material evidence beyond the digital picture.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which would lose more clarity on a white background: the pale town or the black figure?",
+    "related": [
+     "town",
+     "title",
+     "body"
+    ],
+    "number": 12
+   }
+  ],
+  "sources": [
+   {
+    "id": "bfi",
+    "title": "BFI Player: Nosferatu",
+    "url": "https://player.bfi.org.uk/subscription/film/watch-nosferatu-1922-online",
+    "kind": "Primary source",
+    "summary": "Verifies Murnau’s 1922 German film, Max Schreck as Count Orlok and the restored presentation’s Hans Erdmann score. Does not authenticate this poster impression."
+   }
+  ],
+  "tour": [
+   "face",
+   "eyes",
+   "body",
+   "hands",
+   "town",
+   "title"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected wording on this edition",
+    "rows": [
+     {
+      "text": "NOSFERATU",
+      "meaning": "Film title",
+      "lang": "de"
+     },
+     {
+      "text": "EINE SYMPHONIE DES GRAUENS",
+      "meaning": "A symphony of horror",
+      "lang": "de"
+     },
+     {
+      "text": "REGIE: F. W. MURNAU",
+      "meaning": "Direction: F. W. Murnau",
+      "lang": "de"
+     },
+     {
+      "text": "PRANA FILM",
+      "meaning": "Company name in the lower emblem",
+      "lang": "de"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Selected large title, subtitle and clear credits only. The complete small-print block is not transcribed. Film-production credits are distinguished from the poster attribution; this printing date remains unverified.",
+  "palette": [
+   {
+    "name": "Muted green",
+    "hex": "#6f803c",
+    "role": "Muted colour keeps the pale and dark marks distinct.",
+    "region": "ground"
+   },
+   {
+    "name": "Dark silhouette",
+    "hex": "#17170f",
+    "role": "A body presses against the narrow sheet.",
+    "region": "body"
+   },
+   {
+    "name": "Pale town",
+    "hex": "#e9deb1",
+    "role": "Small buildings provide another scale.",
+    "region": "town"
+   },
+   {
+    "name": "Cream title",
+    "hex": "#f5f0c8",
+    "role": "The name bends around the head.",
+    "region": "title"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in this installed reproduction. They describe this image, not original printing inks or a colour standard.",
+  "connections": [
+   {
+    "label": "A title follows a body",
+    "title": "The name bends around the silhouette",
+    "text": "The title rises along the left side and curves above the head. Its path reinforces the pressure of the figure inside the narrow sheet.",
+    "anchors": [
+     [
+      5,
+      0.220873786407767,
+      0.2507142857142857
+     ],
+     [
+      3,
+      0.6723300970873787,
+      0.2007142857142857
+     ],
+     [
+      2,
+      0.44902912621359226,
+      0.39071428571428574
+     ]
+    ],
+    "id": "nosferatu-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "A few bright marks",
+    "title": "Eyes above tiny windows",
+    "text": "The pale eyes and teeth are small but striking against the dark head. The lighter town provides a second, smaller-scale group of marks below them.",
+    "anchors": [
+     [
+      3,
+      0.6480582524271845,
+      0.19071428571428573
+     ],
+     [
+      1,
+      0.8422330097087378,
+      0.4307142857142857
+     ]
+    ],
+    "id": "nosferatu-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

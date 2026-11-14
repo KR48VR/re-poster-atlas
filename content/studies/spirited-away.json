@@ -1,0 +1,739 @@
+{
+ "poster": {
+  "id": "spirited-away",
+  "title": "Spirited Away",
+  "year": "2001",
+  "yearNumber": 2001,
+  "country": "Japan",
+  "region": "East Asia",
+  "category": "Film",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Hayao Miyazaki",
+  "edition": "Japanese theatrical poster",
+  "image": "images/full/spirited-away.jpg",
+  "ratio": 0.707,
+  "alt": "Spirited Away Japanese poster with Chihiro in pink beside a pig behind a railing, red-lit buildings above and white Japanese title lettering below.",
+  "blurb": "A girl and a pig meet our gaze at a railing, with a glowing, unfamiliar town behind them.",
+  "notes": [
+   {
+    "title": "A familiar face at an unfamiliar threshold",
+    "body": "Chihiro turns toward us from the foreground. The railing gives her a clear position at the edge of the scene, making the densely layered town behind her feel like somewhere we might enter."
+   },
+   {
+    "title": "Warm light gives depth to darkness",
+    "body": "Red and amber windows punctuate the dark architecture. Their repeated glow draws attention upward through the buildings without needing a bright daytime sky."
+   },
+   {
+    "title": "Lettering follows the layers of the world",
+    "body": "The white title sits across the lower foreground while a smaller vertical line occupies the darker space above. Two reading directions echo the poster’s near and far spaces."
+   }
+  ],
+  "source": "https://www.ghibli.jp/works/chihiro/",
+  "imageSource": "https://www.ghibli.jp/works/chihiro/",
+  "imageCredit": "© 2001 Hayao Miyazaki/Studio Ghibli, NDDTM. Japanese poster image from Studio Ghibli’s official film page.",
+  "downloadURL": "https://www.ghibli.jp/images/chihiro.jpg",
+  "anchor": [
+   0.34,
+   0.6
+  ],
+  "accent": "#d56c72",
+  "yearNote": "Year refers to the film’s first release; the poster edition is identified separately.",
+  "credit": "© 2001 Hayao Miyazaki/Studio Ghibli, NDDTM. Japanese poster image from Studio Ghibli’s official film page.",
+  "countries": [
+   "Japan"
+  ],
+  "primaryOrigin": "Japan",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/spirited-away.webp"
+ },
+ "studyData": {
+  "intro": "The girl faces us while the street recedes into darkness. Explore how railings, pigs, coloured windows and two directions of writing make this exact Japanese poster both inviting and obstructed.",
+  "initial": "girl-face",
+  "regions": [
+   {
+    "id": "girl-face",
+    "label": "Chihiro looks outward",
+    "shortLabel": "Chihiro looks outward",
+    "kicker": "DESIGN",
+    "summary": "A small human face becomes the main point of contact.",
+    "layerIndex": 1,
+    "bounds": {
+     "x": 15,
+     "y": 33,
+     "w": 33,
+     "h": 23
+    },
+    "x": 37,
+    "y": 46,
+    "question": "Follow her eyes, then the street: do they lead in the same direction?",
+    "related": [
+     "pig-face",
+     "street",
+     "shirt"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Light inside a dark setting",
+      "body": "The girl’s pale face sits between dark hair, a shadowed street and the pig beside her. Her eyes turn outward while her shoulders turn away. That small change of direction gives the portrait more activity than a face placed squarely in the centre would have.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An interrupted journey",
+      "body": "The turn can be read as a pause between moving into the picture and looking back at its viewer. The poster alone does not tell us precisely what she is thinking. Its evidence is bodily orientation, eye direction and the contrast between her light face and the setting.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 1
+   },
+   {
+    "id": "shirt",
+    "label": "The pink clothing",
+    "shortLabel": "The pink clothing",
+    "kicker": "DESIGN",
+    "summary": "A warm vertical shape holds the foreground together.",
+    "layerIndex": 1,
+    "bounds": {
+     "x": 25,
+     "y": 55,
+     "w": 25,
+     "h": 27
+    },
+    "x": 34,
+    "y": 67,
+    "question": "Find every echo of this pink elsewhere on the sheet.",
+    "related": [
+     "girl-face",
+     "title",
+     "lanterns"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A figure held together by colour",
+      "body": "The pink shirt forms a broad, continuous shape below the face. Dark fold lines describe the sleeve and waist without breaking that colour block apart. Against the brown and gray surroundings, the garment keeps the girl legible even where the white title overlaps her lower body.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Echoes without equivalence",
+      "body": "The clothing shares warmth with the illuminated building on the left and with the pig’s snout. Those echoes connect different distances in the image, but their tones and textures differ. Follow the colour as a compositional relationship rather than assuming it gives all three objects the same meaning.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 2
+   },
+   {
+    "id": "tie",
+    "label": "The pale tied cloth",
+    "shortLabel": "The pale tied cloth",
+    "kicker": "DESIGN",
+    "summary": "A narrow light shape crosses the dark railing area.",
+    "layerIndex": 1,
+    "bounds": {
+     "x": 13,
+     "y": 56,
+     "w": 21,
+     "h": 22
+    },
+    "x": 19.122,
+    "y": 63.964,
+    "question": "How does this pale strip differ from the title’s white?",
+    "related": [
+     "shirt",
+     "rail",
+     "girl-face"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A small edge that separates",
+      "body": "The pale cloth extends to the left of the torso, where the surroundings are mostly dark. Its long edges make the girl’s silhouette easier to follow near the rail. It also offers a narrow, angular counterpoint to the large rounded sleeve and cheek.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Texture changes the light",
+      "body": "The cloth is shaded and folded, so its pale surface belongs to the depicted world. The title is much flatter and brighter. Comparing these two kinds of light helps distinguish illustration from overlaid lettering even where both occupy the same crowded foreground.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 3
+   },
+   {
+    "id": "pig-face",
+    "label": "The large pig",
+    "shortLabel": "The large pig",
+    "kicker": "DESIGN",
+    "summary": "A frontal animal face competes with the human one.",
+    "layerIndex": 2,
+    "bounds": {
+     "x": 46,
+     "y": 46,
+     "w": 50,
+     "h": 24
+    },
+    "x": 66,
+    "y": 59,
+    "question": "Which face seems closer, and which visual clues support that?",
+    "related": [
+     "girl-face",
+     "small-pig",
+     "rail"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A second kind of portrait",
+      "body": "The pig’s broad snout sits near the horizontal middle of the sheet, with ears spreading toward both sides. Its frontal symmetry contrasts with the girl’s turned body. The pale ears and muzzle also create a large light area without becoming as bright as the title.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An uneasy pairing",
+      "body": "The two faces are close enough to compare but neither explains the other. Their different scales and orientations invite a question about their relationship. The image supplies a striking juxtaposition; identifying a specific transformation or plot event would require narrative evidence beyond this visual pairing.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 4
+   },
+   {
+    "id": "small-pig",
+    "label": "The partly hidden pig",
+    "shortLabel": "The partly hidden pig",
+    "kicker": "DESIGN",
+    "summary": "A cropped animal makes the pen extend beyond the frame.",
+    "layerIndex": 2,
+    "bounds": {
+     "x": 0,
+     "y": 66,
+     "w": 22,
+     "h": 31
+    },
+    "x": 7,
+    "y": 77,
+    "question": "What tells you there is more of this animal outside the visible area?",
+    "related": [
+     "pig-face",
+     "rail",
+     "title"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A body cut by two boundaries",
+      "body": "At the lower left, another pig is interrupted by both the image edge and the horizontal rail. Only parts of its face and body remain available. Those crops make the foreground feel more crowded than a row of complete, evenly spaced animal portraits would.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A repeated shape at another scale",
+      "body": "The visible ear, eye and snout repeat parts of the larger pig, but in darker tones and a more obstructed view. This repetition builds the sense of an enclosure. The smaller animal is an important spatial clue even though it does not carry the composition’s brightest accents.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 5
+   },
+   {
+    "id": "rail",
+    "label": "The foreground barrier",
+    "shortLabel": "The foreground barrier",
+    "kicker": "DESIGN",
+    "summary": "A dark horizontal bar crosses the scene.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 0,
+     "y": 69,
+     "w": 100,
+     "h": 10
+    },
+    "x": 80,
+    "y": 71,
+    "question": "Cover the rail: how does the relationship between viewer and pigs change?",
+    "related": [
+     "pig-face",
+     "small-pig",
+     "street"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A strong near horizontal",
+      "body": "The thick rail stretches almost from edge to edge, flattening the foreground into a strong band. Vertical bars and a tied tag add smaller interruptions below it. This near-straight structure is especially clear against the soft shapes of the pigs and clothing.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Access and obstruction",
+      "body": "The rail can make us feel outside an enclosure even though the figures are drawn very close. It gives the image a physical threshold without closing off every view through it. Compare that immediate barrier with the less tangible darkness at the end of the street.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 6
+   },
+   {
+    "id": "street",
+    "label": "The narrow street",
+    "shortLabel": "The narrow street",
+    "kicker": "DESIGN",
+    "summary": "Buildings funnel the view into a dark passage.",
+    "layerIndex": 0,
+    "bounds": {
+     "x": 32,
+     "y": 3,
+     "w": 25,
+     "h": 34
+    },
+    "x": 45,
+    "y": 27,
+    "question": "Trace the path into the distance: where does certainty about space weaken?",
+    "related": [
+     "lanterns",
+     "rail",
+     "tagline"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A long route in a narrow gap",
+      "body": "A strip of paving and walls recedes between the red building and the raised structure on the right. It occupies much less width than the foreground figures. The converging edges suggest depth while the dark upper area prevents a clear view of where the route ends.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Looking past the figures",
+      "body": "The opening offers somewhere for the eye to travel after meeting the girl. Yet its small width and uneven lighting make that journey uncertain. The contrast between a readable face and a partly concealed environment can support curiosity without requiring a complete account of the film’s world.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 7
+   },
+   {
+    "id": "lanterns",
+    "label": "Red windows and lamps",
+    "shortLabel": "Red windows and lamps",
+    "kicker": "DESIGN",
+    "summary": "Small lights colour the architecture.",
+    "layerIndex": 0,
+    "bounds": {
+     "x": 0,
+     "y": 5,
+     "w": 34,
+     "h": 26
+    },
+    "x": 16,
+    "y": 16,
+    "question": "Compare the warm windows with the darkness immediately around them.",
+    "related": [
+     "street",
+     "shirt",
+     "studio"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Light with a local effect",
+      "body": "The red lamps and yellow windowpanes do not illuminate the whole street evenly. Their glow gathers around doors, frames and roof edges, leaving adjoining areas dark. This uneven light makes individual architectural details vivid while keeping the wider setting difficult to survey.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Geometry in the atmosphere",
+      "body": "Arches, rectangles and diagonal window divisions remain visible inside the glow. They provide a constructed rhythm behind the organic foreground shapes. Looking for those repeated edges is a useful way to separate the architecture’s organisation from the atmospheric colour that initially attracts attention.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 8
+   },
+   {
+    "id": "tagline",
+    "label": "The vertical invitation",
+    "shortLabel": "The vertical invitation",
+    "kicker": "LANGUAGE",
+    "summary": "Yellow copy occupies the dark right-hand passage.",
+    "layerIndex": 5,
+    "bounds": {
+     "x": 66,
+     "y": 25,
+     "w": 10,
+     "h": 23
+    },
+    "x": 73,
+    "y": 33,
+    "question": "Why is the yellow sentence readable without a separate text box?",
+    "related": [
+     "street",
+     "title",
+     "director"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A place beyond the tunnel",
+      "body": "The visible sentence reads “トンネルのむこうは、不思議の町でした。” A close English rendering is “Beyond the tunnel was a mysterious town.” The wording establishes a place and a discovery, while leaving the particular strangeness unexplained. Its vertical arrangement prolongs the movement down the dark passage.",
+      "evidence": "observation",
+      "originalText": "トンネルのむこうは、不思議の町でした。",
+      "lang": "ja",
+      "translation": "Beyond the tunnel was a mysterious town."
+     },
+     {
+      "kind": "design",
+      "heading": "A bright narrow column",
+      "body": "Yellow characters create a slender vertical accent beside the pig’s ear and above its head. The darker architecture supplies contrast naturally. Unlike the broad title below, this line can be followed as a sequence through space, connecting the upper street to the crowded foreground.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 9
+   },
+   {
+    "id": "title",
+    "label": "The white Japanese title",
+    "shortLabel": "The white Japanese title",
+    "kicker": "LANGUAGE",
+    "summary": "Large lettering overlays both girl and animals.",
+    "layerIndex": 4,
+    "bounds": {
+     "x": 4,
+     "y": 83,
+     "w": 93,
+     "h": 15
+    },
+    "x": 47,
+    "y": 91,
+    "question": "Where does the lettering stay distinct, and where does its outline help most?",
+    "related": [
+     "tagline",
+     "shirt",
+     "credits"
+    ],
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Two names in one title",
+      "body": "The title is 千と千尋の神隠し, the official Japanese title also used on Studio Ghibli’s film record. The international English title is Spirited Away. Rather than treating those as a word-for-word match, keep the Japanese title and the established English release title distinct.",
+      "evidence": "documented",
+      "originalText": "千と千尋の神隠し",
+      "lang": "ja",
+      "reading": "Sen to Chihiro no kamikakushi",
+      "translation": "Spirited Away (established English release title)",
+      "sources": [
+       {
+        "id": "ghibli"
+       }
+      ]
+     },
+     {
+      "kind": "design",
+      "heading": "Lettering across the picture",
+      "body": "Large white strokes cross several surfaces: clothing, fur and the dark spaces between bars. Their purple edging helps them remain separate from pale parts of the illustration. The title therefore behaves as a foreground overlay, rather than as an object located within the depicted street.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 10
+   },
+   {
+    "id": "director",
+    "label": "The director’s bright credit",
+    "shortLabel": "The director’s bright credit",
+    "kicker": "LANGUAGE",
+    "summary": "A compact yellow panel sits above the title.",
+    "layerIndex": 4,
+    "bounds": {
+     "x": 4,
+     "y": 79,
+     "w": 30,
+     "h": 5
+    },
+    "x": 18.697,
+    "y": 81.582,
+    "question": "Compare the area given to the director’s credit and the cast list.",
+    "related": [
+     "title",
+     "studio",
+     "credits"
+    ],
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A film by the named director",
+      "body": "The panel reads “宮崎 駿 監督作品,” identifying the film as a work directed by Hayao Miyazaki. Studio Ghibli’s official record also credits him with original work and screenplay. Those additional roles come from the record; the short visible panel itself emphasises direction.",
+      "evidence": "documented",
+      "originalText": "宮崎 駿 監督作品",
+      "lang": "ja",
+      "translation": "A film directed by Hayao Miyazaki",
+      "sources": [
+       {
+        "id": "ghibli"
+       }
+      ]
+     },
+     {
+      "kind": "business",
+      "heading": "A compact point of recognition",
+      "body": "The yellow lettering is grouped tightly and placed directly above the main title, giving it a clear relationship to the film’s identity. The white cast list at the left follows a different rhythm. These are visible billing choices, not evidence about individual viewers’ prior knowledge.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 11
+   },
+   {
+    "id": "studio",
+    "label": "The small studio identity",
+    "shortLabel": "The small studio identity",
+    "kicker": "CONTEXT",
+    "summary": "A small white mark occupies the upper corner.",
+    "layerIndex": 5,
+    "bounds": {
+     "x": 1,
+     "y": 1,
+     "w": 18,
+     "h": 5
+    },
+    "x": 9,
+    "y": 4,
+    "question": "How is this corner kept readable despite the glow below it?",
+    "related": [
+     "director",
+     "lanterns",
+     "credits"
+    ],
+    "tags": [
+     "context",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "context",
+      "heading": "The official release record",
+      "body": "The small Studio Ghibli identity occupies a relatively quiet dark corner, far from the oversized title. Studio Ghibli’s official page supplies this poster and records the Japanese release on 20 July 2001 with Toho as distributor. The page does not identify this poster’s individual illustrator.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "ghibli"
+       }
+      ]
+     },
+     {
+      "kind": "design",
+      "heading": "A restrained corner",
+      "body": "The logo and compact words are pale but small, with enough dark space around them to avoid competing with the girl’s face. Their position closes the upper left corner visually while the red architectural glow continues beneath. Identification remains available without becoming the main event.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 12
+   },
+   {
+    "id": "credits",
+    "label": "The fine lower edge",
+    "shortLabel": "The fine lower edge",
+    "kicker": "DESIGN",
+    "summary": "Tiny credits form a final baseline.",
+    "layerIndex": 4,
+    "bounds": {
+     "x": 4,
+     "y": 97,
+     "w": 94,
+     "h": 3
+    },
+    "x": 76.062,
+    "y": 98.198,
+    "question": "What remains visible when these credits are too small to read?",
+    "related": [
+     "title",
+     "director",
+     "studio"
+    ],
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Information becomes texture",
+      "body": "A thin run of pale credits and small marks occupies the very bottom. At ordinary viewing size they read as a light texture across a dark ground. This fine line gives the composition a final baseline beneath the much larger, looser shapes of the title.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "The limit of this transcript",
+      "body": "The poster carries more production information than the selected transcript records. Fine text at this scale is not equally secure throughout, so the study uses the official studio page for verified release and maker information. It does not turn uncertain marks into a fabricated complete billing list.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 13
+   }
+  ],
+  "sources": [
+   {
+    "id": "ghibli",
+    "title": "Studio Ghibli: Spirited Away",
+    "url": "https://www.ghibli.jp/works/chihiro/",
+    "kind": "Official studio film record",
+    "summary": "Supplies the exact Japanese poster, Japanese and English film titles, Miyazaki’s roles, 20 July 2001 Japanese release and Toho distribution; no individual poster-artist credit."
+   }
+  ],
+  "tour": [
+   "girl-face",
+   "pig-face",
+   "rail",
+   "street",
+   "tagline",
+   "title",
+   "studio"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "千と千尋の神隠し",
+      "meaning": "Spirited Away — established English release title",
+      "lang": "ja"
+     },
+     {
+      "text": "トンネルのむこうは、不思議の町でした。",
+      "meaning": "Beyond the tunnel was a mysterious town.",
+      "lang": "ja"
+     },
+     {
+      "text": "宮崎 駿 監督作品",
+      "meaning": "A film directed by Hayao Miyazaki",
+      "lang": "ja"
+     },
+     {
+      "text": "STUDIO GHIBLI",
+      "meaning": "Studio identity",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "The title, main vertical sentence, director panel and English studio name are transcribed. Shop signs, the small hanging tag and fine bottom credits are not expanded where reading is insecure. English title follows the official studio record rather than a literal title translation.",
+  "palette": [
+   {
+    "name": "Shirt pink",
+    "hex": "#fd7a82",
+    "role": "Warm foreground block",
+    "region": "shirt"
+   },
+   {
+    "name": "Window amber",
+    "hex": "#d5c065",
+    "role": "Local architectural illumination",
+    "region": "lanterns"
+   },
+   {
+    "name": "Pig gray",
+    "hex": "#85766f",
+    "role": "Animal against darker structure",
+    "region": "pig-face"
+   },
+   {
+    "name": "Street shadow",
+    "hex": "#29282d",
+    "role": "Receding dark passage",
+    "region": "street"
+   },
+   {
+    "name": "Title white",
+    "hex": "#fffaff",
+    "role": "Bright overlaid lettering",
+    "region": "title"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels of the installed reproduction; these are not original ink or paper specifications.",
+  "connections": [
+   {
+    "label": "At the threshold",
+    "title": "The railing makes a foreground boundary",
+    "text": "The front-facing child and pig sit immediately behind the long horizontal bar. The glowing street recedes beyond this shared threshold.",
+    "anchors": [
+     [
+      1,
+      0.35997171145685997,
+      0.4905
+     ],
+     [
+      2,
+      0.7036775106082037,
+      0.6205
+     ],
+     [
+      3,
+      0.6004243281471005,
+      0.7145
+     ],
+     [
+      0,
+      0.27934936350777934,
+      0.1705
+     ]
+    ],
+    "id": "spirited-away-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Two reading directions",
+    "title": "Vertical words above a broad title",
+    "text": "The narrow yellow line rises through the architecture, while the large white title spreads across the lower bodies and railing.",
+    "anchors": [
+     [
+      5,
+      0.7220650636492221,
+      0.3385
+     ],
+     [
+      4,
+      0.557991513437058,
+      0.8875
+     ],
+     [
+      0,
+      0.6103253182461104,
+      0.1605
+     ]
+    ],
+    "id": "spirited-away-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

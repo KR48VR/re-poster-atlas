@@ -1,0 +1,578 @@
+{
+ "poster": {
+  "id": "oldboy",
+  "title": "Oldboy",
+  "year": "2003",
+  "yearNumber": 2003,
+  "country": "South Korea",
+  "region": "East Asia",
+  "category": "Film",
+  "creator": "Poster artist uncredited",
+  "filmCreator": "Park Chan-wook",
+  "edition": "Korean theatrical release poster",
+  "image": "images/full/oldboy.jpg",
+  "ratio": 0.7008086253369272,
+  "alt": "Korean Oldboy poster with a large cropped male face at the lower left, a smaller suited man at the upper right, white Korean title lettering and an almost black background.",
+  "blurb": "A cropped face, a distant suited figure and a field of black turn absence into tension.",
+  "notes": [
+   {
+    "title": "A portrait pushed beyond the edge",
+    "body": "The large face is cropped tightly at the left and bottom. Showing only part of it makes the visible eye especially intense and denies us the comfort of a complete portrait."
+   },
+   {
+    "title": "Distance is built from unequal scale",
+    "body": "The smaller suited figure sits high on the opposite edge. The difference in size and position produces a charged relationship without placing the men in a shared, clearly defined room."
+   },
+   {
+    "title": "Black space withholds the explanation",
+    "body": "Most of the central area is dark. The white Korean title bridges that gap, but the emptiness keeps the connection between the two figures unresolved."
+   }
+  ],
+  "source": "https://www.bfi.org.uk/film/c14329d9-111d-520f-bf5a-be7760d76c72/oldboy",
+  "imageSource": "https://en.wikipedia.org/wiki/File:Oldboykoreanposter.jpg",
+  "imageCredit": "Copyright in the poster remains with its respective studio, distributor or artist. Low-resolution reproduction via Wikipedia for visual commentary; see the image source record.",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/en/6/67/Oldboykoreanposter.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+  "anchor": [
+   0.21,
+   0.62
+  ],
+  "accent": "#b9afa0",
+  "yearNote": "Year refers to the film’s first release; the poster edition is identified separately.",
+  "credit": "Copyright in the poster remains with its respective studio, distributor or artist. Low-resolution reproduction via Wikipedia for visual commentary; see the image source record.",
+  "countries": [
+   "South Korea"
+  ],
+  "primaryOrigin": "South Korea",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/oldboy.webp"
+ },
+ "studyData": {
+  "intro": "Two cropped men emerge from a nearly black field. The large Korean title binds their unequal scales, while a single open hand and a few subdued lines keep the composition sparse rather than empty.",
+  "initial": "foreground-face",
+  "regions": [
+   {
+    "id": "foreground-face",
+    "number": 1,
+    "label": "Cropped foreground face",
+    "shortLabel": "Cropped foreground face",
+    "kicker": "DESIGN",
+    "summary": "A face enters from the left edge at close range.",
+    "x": 12,
+    "y": 63,
+    "bounds": {
+     "x": 0,
+     "y": 30,
+     "w": 34,
+     "h": 64
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A face larger than its frame",
+      "body": "The foreground head extends beyond the left edge and reaches almost to the bottom. One eye, the nose, mouth and beard are strongly visible while the other side is cropped away. This partial view places the viewer unusually close to the face.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Film context, not a diagnosis",
+      "body": "BFI identifies Park Chan-wook’s South Korean film as a 2003 release. The exhibitor’s synopsis describes Oh Dae-su, played by Choi Min-sik, being released after fifteen years of unexplained confinement. This provides story context; it does not prove a specific emotion in the poster photograph.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "ifc"
+       },
+       {
+        "id": "bfi"
+       }
+      ]
+     }
+    ],
+    "question": "How would showing the whole head change the intensity of this crop?",
+    "related": [
+     "eye",
+     "upper-face"
+    ]
+   },
+   {
+    "id": "eye",
+    "number": 2,
+    "label": "One visible eye",
+    "shortLabel": "One visible eye",
+    "kicker": "DESIGN",
+    "summary": "A small bright area concentrates attention within the portrait.",
+    "x": 16,
+    "y": 59,
+    "bounds": {
+     "x": 6,
+     "y": 54,
+     "w": 21,
+     "h": 11
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Light at a focal point",
+      "body": "The eye sits beneath a heavy dark brow, with a small pale area and highlight interrupting the surrounding shadow. It is tiny compared with the whole head, but the contrast makes it a strong focal point beside the much larger white title.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A gaze directed outward",
+      "body": "The visible eye can create a sense of being watched, while the crop withholds the complete face. This is a response to framing and contrast rather than evidence of what the character knows or intends. Compare it with the smaller upper portrait’s gaze.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Does the eye draw you before or after the title, and at what viewing size?",
+    "related": [
+     "foreground-face",
+     "title"
+    ]
+   },
+   {
+    "id": "mouth",
+    "number": 3,
+    "label": "Mouth and beard",
+    "shortLabel": "Mouth and beard",
+    "kicker": "DESIGN",
+    "summary": "Closed lips and dark hair form the portrait’s lower edge.",
+    "x": 11,
+    "y": 83,
+    "bounds": {
+     "x": 0,
+     "y": 72,
+     "w": 30,
+     "h": 21
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A dense lower texture",
+      "body": "The mouth is closed and surrounded by moustache and beard. Warm highlights along the lips and chin contrast with the dark hair. These details keep the lower face from becoming a single silhouette even where it merges into the black field.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Expression needs caution",
+      "body": "The set mouth may feel severe, but a publicity still cannot establish a complete psychological state. Describing lips, shadow and crop first leaves space for different readings. The poster’s intensity can be discussed without treating an expression as a medical or personal diagnosis.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which visible feature makes the expression seem strongest to you?",
+    "related": [
+     "eye",
+     "black-field"
+    ]
+   },
+   {
+    "id": "upper-face",
+    "number": 4,
+    "label": "Upper-right portrait",
+    "shortLabel": "Upper-right portrait",
+    "kicker": "DESIGN",
+    "summary": "A second head is cut by the top and right boundaries.",
+    "x": 94,
+    "y": 9,
+    "bounds": {
+     "x": 83,
+     "y": 0,
+     "w": 17,
+     "h": 21
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Another partial face",
+      "body": "The upper-right figure is much smaller than the foreground portrait and is cropped by two edges. Part of the face and one eye remain visible above the white collar. The placement creates a distant counterpoint without giving either person a complete outline.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An unequal pairing",
+      "body": "Differences in size and position can suggest an unequal relationship, but the composition alone does not establish who controls whom. The pairing is more informative when treated as a question: why does one face fill the lower left while the other barely enters above?",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What relationship do the two crops suggest before you know the story?",
+    "related": [
+     "foreground-face",
+     "collar"
+    ]
+   },
+   {
+    "id": "collar",
+    "number": 5,
+    "label": "White collar and tie",
+    "shortLabel": "White collar and tie",
+    "kicker": "DESIGN",
+    "summary": "A pale triangle cuts through the upper darkness.",
+    "x": 92,
+    "y": 29,
+    "bounds": {
+     "x": 86,
+     "y": 14,
+     "w": 14,
+     "h": 27
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An economical body cue",
+      "body": "The white shirt collar and dark tie are enough to suggest a suited torso even though most of the clothing merges into black. The pale edges taper downward, giving the figure a long vertical shape distinct from the wide foreground face.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Formal shape, limited inference",
+      "body": "The clothing reads as formal dress, but it cannot establish occupation, wealth or moral character by itself. Its clearest role here is graphic: the white triangle balances the title and keeps the smaller figure visible within the surrounding darkness.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "If the collar were black, how much of the smaller body could you still locate?",
+    "related": [
+     "upper-face",
+     "hand"
+    ]
+   },
+   {
+    "id": "hand",
+    "number": 6,
+    "label": "Open hand at lower right",
+    "shortLabel": "Open hand at lower right",
+    "kicker": "DESIGN",
+    "summary": "A hand appears far below the smaller head.",
+    "x": 91,
+    "y": 82,
+    "bounds": {
+     "x": 77,
+     "y": 75,
+     "w": 23,
+     "h": 16
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A separated human detail",
+      "body": "The hand and pale cuff emerge from the right edge below a long stretch of black clothing. Fingers extend across the lower corner. This bright fragment makes the suited figure’s height easier to follow even though much of its body remains visually absent.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A gesture without a caption",
+      "body": "An open hand can suggest an offer, invitation or challenge, but the poster gives no explicit caption fixing one meaning. Compare its gesture with the closed mouth opposite. Their contrast is observable even when its story significance remains unresolved.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What different meanings could this gesture carry without changing its shape?",
+    "related": [
+     "mouth",
+     "collar"
+    ]
+   },
+   {
+    "id": "black-field",
+    "number": 7,
+    "label": "Large black interval",
+    "shortLabel": "Large black interval",
+    "kicker": "DESIGN",
+    "summary": "Much of the upper half remains nearly empty.",
+    "x": 47,
+    "y": 22,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 82,
+     "h": 31
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Space with very little detail",
+      "body": "The upper-left and central areas contain few distinguishable marks. This broad dark field separates the cropped figures and gives the title a clear landing place below. Subtle tonal variations remain, but they do not compete with faces or white lettering.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Withholding as a visual effect",
+      "body": "The dark interval can make the pairing feel unresolved because it offers little setting or explanatory action. This is a compositional effect, not a claim that darkness has one universal emotional meaning. Compare the uncertainty with a crowded narrative montage elsewhere in the atlas.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What would be lost if the dark area contained a detailed room?",
+    "related": [
+     "title",
+     "upper-face"
+    ]
+   },
+   {
+    "id": "title",
+    "number": 8,
+    "label": "올드보이",
+    "shortLabel": "올드보이",
+    "kicker": "LANGUAGE",
+    "summary": "A broad white Korean title crosses the middle.",
+    "x": 60,
+    "y": 47,
+    "bounds": {
+     "x": 27,
+     "y": 40,
+     "w": 68,
+     "h": 15
+    },
+    "layerIndex": 3,
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A Korean rendering of the name",
+      "body": "올드보이 is the Korean-script rendering of Oldboy. Its large pale forms spread across the centre, with long horizontal strokes and an uneven, worn-looking surface. The wording should be read as one film title rather than translated character by character as unrelated symbols.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A bridge between two figures",
+      "body": "The title reaches from near the foreground hair toward the suited figure’s torso. Its horizontal extent links areas that the black field separates. The imperfect white texture also differs from the smoother pale collar and the small highlights in the faces.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which title stroke most clearly connects the left and right sides?",
+    "related": [
+     "black-field",
+     "eye"
+    ]
+   },
+   {
+    "id": "small-copy",
+    "number": 9,
+    "label": "Subdued Korean copy",
+    "shortLabel": "Subdued Korean copy",
+    "kicker": "DESIGN",
+    "summary": "A low-contrast sentence crosses the lower face area.",
+    "x": 48,
+    "y": 71,
+    "bounds": {
+     "x": 25,
+     "y": 67,
+     "w": 45,
+     "h": 7
+    },
+    "layerIndex": 4,
+    "tags": [
+     "design",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Words that recede",
+      "body": "Muted reddish lettering sits below the title, while other small copy appears above it and near the upper-right face. These lines have much less contrast than the main title. They become a secondary reading level rather than competing with the large name.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "Do not invent faint wording",
+      "body": "The small copy is not securely legible enough here for a complete transcription. Its placement and subdued colour can still be studied. Enlarging a low-resolution reproduction does not create reliable letter details, so uncertain words should remain explicitly untranscribed.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which small line can you locate most easily even when you cannot read all its words?",
+    "related": [
+     "title",
+     "release"
+    ]
+   },
+   {
+    "id": "release",
+    "number": 10,
+    "label": "Lower release line",
+    "shortLabel": "Lower release line",
+    "kicker": "LANGUAGE",
+    "summary": "A date-bearing line and credits occupy the bottom.",
+    "x": 72,
+    "y": 93,
+    "bounds": {
+     "x": 49,
+     "y": 90,
+     "w": 46,
+     "h": 9
+    },
+    "layerIndex": 4,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A partial secure reading",
+      "body": "The lower line visibly includes 2003 and 11, alongside Korean wording. This supports reading it as campaign release information, while the small surrounding sentence is left untranscribed. These printed numerals do not by themselves establish the exact printing date of this particular sheet.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "Practical detail after mystery",
+      "body": "A release advertisement eventually needs to tell viewers when and where to act. Placing this information below the dramatic pair preserves the main image’s sparseness while providing a final reading level. The fine credits are visual evidence of attribution, even where names remain unclear.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Is the release line easy to find once you decide to look for practical information?",
+    "related": [
+     "small-copy",
+     "title"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed poster edition",
+    "url": "https://en.wikipedia.org/wiki/File:Oldboykoreanposter.jpg",
+    "kind": "Visual source",
+    "summary": "The reproduced edition is the evidence for visible wording, layout, marks and colour relationships. Translations and visual interpretations are supplied by Poster Atlas."
+   },
+   {
+    "id": "bfi",
+    "title": "BFI: Oldboy, 2003",
+    "url": "https://www.bfi.org.uk/film/c14329d9-111d-520f-bf5a-be7760d76c72/oldboy",
+    "kind": "Film archive record",
+    "summary": "Identifies the 2003 South Korean film, director Park Chan-wook and principal cast."
+   },
+   {
+    "id": "ifc",
+    "title": "IFC Center: Oldboy",
+    "url": "https://www.ifccenter.com/films/oldboy/",
+    "kind": "Exhibitor film record",
+    "summary": "Summarises Oh Dae-su’s unexplained fifteen-year confinement and release. Used for film context, not to establish poster-design intent."
+   }
+  ],
+  "tour": [
+   "foreground-face",
+   "eye",
+   "upper-face",
+   "hand",
+   "black-field",
+   "title"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "올드보이",
+      "meaning": "Oldboy; the Korean-script film title.",
+      "lang": "ko"
+     },
+     {
+      "text": "2003년 11월",
+      "meaning": "November 2003; the legible date portion of the lower line.",
+      "lang": "ko"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "The main title and the securely legible date portion are transcribed. Faint Korean campaign sentences and fine credits are not guessed from this small reproduction.",
+  "palette": [
+   {
+    "name": "Black field",
+    "hex": "#010101",
+    "role": "The broad interval between the figures.",
+    "region": "black-field"
+   },
+   {
+    "name": "Warm skin",
+    "hex": "#E8D3B4",
+    "role": "A lit area of the foreground face.",
+    "region": "foreground-face"
+   },
+   {
+    "name": "White title",
+    "hex": "#FBFBFB",
+    "role": "The largest bright lettering.",
+    "region": "title"
+   },
+   {
+    "name": "Pale collar",
+    "hex": "#B0C0CF",
+    "role": "A narrow body cue in the darkness.",
+    "region": "collar"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in this installed reproduction. They are not original paint, ink or printing specifications.",
+  "connections": [
+   {
+    "label": "An unequal encounter",
+    "title": "Two faces at opposite scales",
+    "text": "The cropped foreground face and the smaller face at the opposite edge never settle into a shared photographic room; scale and position create their relationship.",
+    "anchors": [
+     [
+      1,
+      0.1519230769230769,
+      0.610512129380054
+     ],
+     [
+      2,
+      0.9442307692307692,
+      0.0876010781671159
+     ]
+    ],
+    "id": "oldboy-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "A bridge of type",
+    "title": "White letters span the dark interval",
+    "text": "The title crosses the open black area between the figures. Its brightness makes that empty interval an active part of the composition.",
+    "anchors": [
+     [
+      1,
+      0.20192307692307693,
+      0.5512129380053908
+     ],
+     [
+      3,
+      0.5980769230769231,
+      0.47304582210242585
+     ],
+     [
+      2,
+      0.9173076923076923,
+      0.3490566037735849
+     ]
+    ],
+    "id": "oldboy-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

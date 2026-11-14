@@ -1,0 +1,575 @@
+{
+ "poster": {
+  "id": "the-raid",
+  "title": "The Raid",
+  "year": "2011",
+  "yearNumber": 2011,
+  "country": "Indonesia / France / United States",
+  "countries": [
+   "Indonesia",
+   "France",
+   "United States"
+  ],
+  "region": "Southeast Asia",
+  "category": "Film",
+  "creator": "@oswarez",
+  "filmCreator": "Gareth Evans",
+  "edition": "2011 English-language main poster",
+  "posterTerritory": "International (English-language)",
+  "image": "images/full/the-raid.jpg",
+  "ratio": 0.6765625,
+  "alt": "A small armed figure faces an enormous concrete tower under a blue-green sky, with The Raid title appearing as massive lettering at the top of the building.",
+  "blurb": "A tower swallows the page, making a single figure at its base feel almost weightless.",
+  "notes": [
+   {
+    "title": "Architecture sets the scale",
+    "body": "The high-rise occupies nearly the full height of the sheet, while the armed figure is a small silhouette near its base. The imbalance makes the building the dominant visual presence."
+   },
+   {
+    "title": "The title joins the building",
+    "body": "The large block letters sit at the upper edge of the tower and share its heavy, grey appearance. They read almost like another piece of the structure instead of a separate caption."
+   },
+   {
+    "title": "A grid pulls the eye upward",
+    "body": "Repeated windows and converging vertical edges carry the gaze from the dark foreground to the pale sky. The figure becomes an entry point into that steep upward movement."
+   }
+  ],
+  "source": "https://www.ifccenter.com/films/the-raid-redemption/",
+  "imageSource": "https://theraid-movie.blogspot.com/2011/08/new-poster-design-raid.html",
+  "imageCredit": "Main poster design credited to @oswarez by director Gareth Evans in his August 16, 2011 production-blog post. Copyright remains with the respective artwork and film rights holders.",
+  "credit": "Main poster design credited to @oswarez by director Gareth Evans in his August 16, 2011 production-blog post. Copyright remains with the respective artwork and film rights holders.",
+  "reproduction": "Film: Indonesia / France / United States, 2011. This English-language main poster was published by the director in August 2011, before later Redemption-branded export campaigns.",
+  "downloadURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4EfmicugE8VB2mwKGk-SbjNk-ToVCydP4xgCuCWyGJQAUEc_lfr69hZcAOnQ34efsvAvYr9cJwoWJvkp4BRqdB6ahxwpEOSnF9uZr0rjCn-ayOBjLDGXLgtXN2Bpqq_jRVT0V0CujyQ/s640/The_Raid_Poster_Final.jpg",
+  "anchor": [
+   0.5,
+   0.43
+  ],
+  "accent": "#477277",
+  "posterYear": "2011",
+  "primaryOrigin": "Indonesia",
+  "anchorLayer": null,
+  "thumb": "images/catalogue/the-raid.webp"
+ },
+ "studyData": {
+  "intro": "An apartment tower overwhelms a lone foreground figure. The title adopts the building’s angle and texture, so reading the name becomes part of looking up at the threat.",
+  "initial": "tower",
+  "regions": [
+   {
+    "id": "tower",
+    "number": 1,
+    "label": "Towering block",
+    "shortLabel": "Towering block",
+    "kicker": "DESIGN",
+    "summary": "The architecture dominates the human scale.",
+    "x": 59,
+    "y": 44,
+    "bounds": {
+     "x": 10,
+     "y": 2,
+     "w": 81,
+     "h": 67
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A building seen from below",
+      "body": "The tower’s vertical edges converge upward and its top narrows against the sky. Repeated windows make its height countable in small units. The foreground figure occupies only a fraction of this mass, giving the scene a clear imbalance before any wording is read.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "A setting with narrative force",
+      "body": "IFC Center’s record describes Gareth Evans’s 2011 film as a police raid on a Jakarta apartment block that becomes a fight to escape. That synopsis explains why a building can lead the campaign. It does not establish this image as a documentary view of a specific address.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "ifc"
+       }
+      ]
+     }
+    ],
+    "question": "What makes the building feel larger: its crop, its windows or the small person?",
+    "related": [
+     "figure",
+     "windows"
+    ]
+   },
+   {
+    "id": "windows",
+    "number": 2,
+    "label": "Repeated windows",
+    "shortLabel": "Repeated windows",
+    "kicker": "DESIGN",
+    "summary": "A grid supplies both scale and texture.",
+    "x": 73,
+    "y": 45,
+    "bounds": {
+     "x": 31,
+     "y": 34,
+     "w": 49,
+     "h": 28
+    },
+    "layerIndex": 1,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Repetition with interruptions",
+      "body": "Rows of windows, balconies and air-conditioning-like projections cover the facade. Their irregular shadows keep the grid from becoming perfectly uniform. The many small openings contrast with the large title letters that cover part of the same building.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Counting the difficulty",
+      "body": "A viewer can imagine many separate interior spaces behind the facade, although the poster does not show what any one room contains. The repeated openings can make the building feel difficult to comprehend as a whole. That reading arises from density and scale.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How many different kinds of opening can you distinguish without counting every window?",
+    "related": [
+     "tower",
+     "title"
+    ]
+   },
+   {
+    "id": "title",
+    "number": 3,
+    "label": "Concrete-like title",
+    "shortLabel": "Concrete-like title",
+    "kicker": "LANGUAGE",
+    "summary": "The name follows the same tilted plane as the facade.",
+    "x": 48,
+    "y": 23,
+    "bounds": {
+     "x": 18,
+     "y": 10,
+     "w": 58,
+     "h": 28
+    },
+    "layerIndex": 3,
+    "tags": [
+     "language",
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "Words become part of the structure",
+      "body": "THE RAID appears in two huge lines, tilted with the building. The pale letters have worn-looking interiors and dark edges, so they resemble another heavy surface on the facade. The words remain readable even though the treatment blurs the boundary between lettering and architecture.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A built name",
+      "body": "The title seems attached to the building rather than hovering above it. Compare its angle with the window rows: both help establish the same steep upward view. The exact digital process used to make this effect is not documented by the image alone.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Would level horizontal lettering weaken the upward viewpoint?",
+    "related": [
+     "windows",
+     "sky"
+    ]
+   },
+   {
+    "id": "figure",
+    "number": 4,
+    "label": "Lone foreground figure",
+    "shortLabel": "Lone foreground figure",
+    "kicker": "DESIGN",
+    "summary": "A dark back becomes the viewer’s nearest point of entry.",
+    "x": 50,
+    "y": 68,
+    "bounds": {
+     "x": 37,
+     "y": 47,
+     "w": 26,
+     "h": 42
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Facing the same direction",
+      "body": "The figure is shown from behind, looking toward the tower rather than outward at us. Clothing and equipment form a largely dark silhouette. Its position near the centre creates a route into the architecture without revealing a facial expression.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A shared viewpoint",
+      "body": "Because the person faces into the picture, we can compare our own imagined position with theirs. This may invite anticipation, but it does not tell us what the character feels. Scale and orientation are the visible evidence; an inner state remains an interpretation.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "How would a direct gaze at the viewer change the invitation?",
+    "related": [
+     "tower",
+     "equipment"
+    ]
+   },
+   {
+    "id": "equipment",
+    "number": 5,
+    "label": "Arms and equipment",
+    "shortLabel": "Arms and equipment",
+    "kicker": "DESIGN",
+    "summary": "Small hard shapes clarify the figure’s role.",
+    "x": 60,
+    "y": 70,
+    "bounds": {
+     "x": 39,
+     "y": 57,
+     "w": 27,
+     "h": 20
+    },
+    "layerIndex": 2,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Details at the silhouette edge",
+      "body": "The hands, belt and weapon-like equipment interrupt the figure’s outline. Small highlights distinguish some edges from the dark clothes, while other details merge into shadow. These signs make the pose more specific than an anonymous person standing before a building.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Information without a full inventory",
+      "body": "The poster gives enough equipment detail to suggest an armed mission, but not enough to identify every item reliably. Avoiding a speculative inventory keeps attention on how the outline communicates purpose and vulnerability at the same time.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which single edge detail most changes how you understand this figure?",
+    "related": [
+     "figure",
+     "tagline"
+    ]
+   },
+   {
+    "id": "sky",
+    "number": 6,
+    "label": "Storm-lit sky",
+    "shortLabel": "Storm-lit sky",
+    "kicker": "DESIGN",
+    "summary": "Bright clouds frame the upper tower.",
+    "x": 11,
+    "y": 22,
+    "bounds": {
+     "x": 0,
+     "y": 0,
+     "w": 22,
+     "h": 46
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Light around the roofline",
+      "body": "Pale clouds and darker teal areas surround the building, particularly near its top corners. This alternating light helps the roofline stand out. The cloud texture is less regular than the facade, giving the rigid architecture a contrasting surrounding field.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A world beyond the block",
+      "body": "The sky offers open space that the dense tower does not. This contrast can make the building feel more enclosing, even though the image is outdoors. The cloud appearance alone does not prove a particular weather event or filming condition.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which edge of the building is clearest because of the sky behind it?",
+    "related": [
+     "tower",
+     "title"
+    ]
+   },
+   {
+    "id": "foreground",
+    "number": 7,
+    "label": "Wall, barrel and car",
+    "shortLabel": "Wall, barrel and car",
+    "kicker": "DESIGN",
+    "summary": "A low horizontal barrier establishes the nearest ground.",
+    "x": 80,
+    "y": 82,
+    "bounds": {
+     "x": 0,
+     "y": 73,
+     "w": 100,
+     "h": 15
+    },
+    "layerIndex": 0,
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Small objects below a giant",
+      "body": "A wall crosses the lower scene, with a barrel-like object and a dark damaged-looking car nearby. These forms are much smaller and less regular than the tower. Their horizontal spread helps anchor the foreground figure in a physical space.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Evidence of setting, not a complete event",
+      "body": "The worn objects can suggest a harsh environment, but the image does not establish how they reached this condition. Reading them as local visual clues is more responsible than constructing an unseen explosion or conflict around them.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "Which foreground object gives you the strongest sense of ordinary human scale?",
+    "related": [
+     "figure",
+     "tower"
+    ]
+   },
+   {
+    "id": "tagline",
+    "number": 8,
+    "label": "Survival sentence",
+    "shortLabel": "Survival sentence",
+    "kicker": "LANGUAGE",
+    "summary": "A short white block stands beside the figure.",
+    "x": 77,
+    "y": 64,
+    "bounds": {
+     "x": 63,
+     "y": 61,
+     "w": 29,
+     "h": 8
+    },
+    "layerIndex": 4,
+    "tags": [
+     "language",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "language",
+      "heading": "A compact narrative problem",
+      "body": "The tagline describes having no way to run or hide and frames fighting as the remaining choice. Its short stacked lines make the sentence a compact block. The wording simplifies the film’s situation for promotion rather than supplying a complete account of its plot.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A readable pause",
+      "body": "The small pale words sit beside the dark figure, where contrast makes them noticeable without overtaking the title. They turn the image’s imbalance of person and building into a verbal problem. The image could suggest danger without them; the line narrows that suggestion.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What does the sentence explain that the scale contrast leaves open?",
+    "related": [
+     "figure",
+     "title"
+    ]
+   },
+   {
+    "id": "festivals",
+    "number": 9,
+    "label": "Lower festival laurels",
+    "shortLabel": "Lower festival laurels",
+    "kicker": "DESIGN",
+    "summary": "Small emblems precede the dense production lines.",
+    "x": 51,
+    "y": 88,
+    "bounds": {
+     "x": 24,
+     "y": 85,
+     "w": 54,
+     "h": 7
+    },
+    "layerIndex": 4,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A row of compact signs",
+      "body": "Three laurel-shaped marks occupy a narrow band below the figure. Their repeated shapes and pale colour link them visually, even when their fine wording is difficult to read. They form a transition between the cinematic image and the small production credits.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "An invitation through recognition",
+      "body": "Festival marks can locate a film within a circulation network and offer a recognition cue. Their presence does not by itself establish an award win. In this reproduction, uncertain small wording is left untranscribed rather than promoted into an unsupported achievement.",
+      "evidence": "interpretation"
+     }
+    ],
+    "question": "What is the difference between a selection mark and a claim that a film won?",
+    "related": [
+     "credits",
+     "tagline"
+    ]
+   },
+   {
+    "id": "credits",
+    "number": 10,
+    "label": "Credits and poster origin",
+    "shortLabel": "Credits and poster origin",
+    "kicker": "DESIGN",
+    "summary": "A production register sits at the foot of the building.",
+    "x": 48,
+    "y": 94,
+    "bounds": {
+     "x": 5,
+     "y": 91,
+     "w": 91,
+     "h": 8
+    },
+    "layerIndex": 4,
+    "tags": [
+     "design",
+     "business"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "The smallest horizontal level",
+      "body": "Names and company marks are gathered tightly along the bottom. Their horizontal rows contrast with the slanted title and converging architecture. The block is readable as information even when the small source does not support a reliable transcription of every name.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "business",
+      "heading": "A creator’s dated publication",
+      "body": "Gareth Evans’s production blog published this main poster on August 16, 2011 and credited the designs to @oswarez. That primary post distinguishes this edition from later export campaigns carrying the Redemption subtitle. It does not identify a font or explain every compositing decision.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "blog"
+       }
+      ]
+     }
+    ],
+    "question": "Which details help distinguish a particular poster edition from the film in general?",
+    "related": [
+     "title",
+     "festivals"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "id": "poster",
+    "title": "The installed poster edition",
+    "url": "https://theraid-movie.blogspot.com/2011/08/new-poster-design-raid.html",
+    "kind": "Visual source",
+    "summary": "The reproduced edition is the evidence for visible wording, layout, marks and colour relationships. Translations and visual interpretations are supplied by Poster Atlas."
+   },
+   {
+    "id": "ifc",
+    "title": "IFC Center: The Raid: Redemption",
+    "url": "https://www.ifccenter.com/films/the-raid-redemption/",
+    "kind": "Exhibitor film record",
+    "summary": "Identifies Gareth Evans, the 2011 film, and the apartment-block raid premise. The exhibitor uses the later export title; this does not rename the installed main poster."
+   },
+   {
+    "id": "blog",
+    "title": "Gareth Evans: New Poster Design, 16 August 2011",
+    "url": "https://theraid-movie.blogspot.com/2011/08/new-poster-design-raid.html",
+    "kind": "Director’s production blog",
+    "summary": "Publishes the main poster and credits designs to @oswarez. Retrieved through the search index after direct access was blocked; used only for the dated publication and credit."
+   }
+  ],
+  "tour": [
+   "tower",
+   "figure",
+   "windows",
+   "title",
+   "tagline",
+   "credits"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "THE RAID",
+      "meaning": "The title on this main-poster edition.",
+      "lang": "en"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "Only securely legible title and key wording are transcribed. Small credits are not reconstructed from this reproduction.",
+  "palette": [
+   {
+    "name": "Dark teal sky",
+    "hex": "#31545A",
+    "role": "The cool space beside the tower.",
+    "region": "sky"
+   },
+   {
+    "name": "Pale concrete",
+    "hex": "#869497",
+    "role": "The front face of the building.",
+    "region": "tower"
+   },
+   {
+    "name": "Dark figure",
+    "hex": "#040D16",
+    "role": "The foreground body.",
+    "region": "figure"
+   },
+   {
+    "name": "Pale title",
+    "hex": "#ADB9B7",
+    "role": "The large architectural lettering.",
+    "region": "title"
+   }
+  ],
+  "paletteNote": "Approximate screen samples taken from pixels in this installed reproduction. They are not original paint, ink or printing specifications.",
+  "connections": [
+   {
+    "label": "Against a giant",
+    "title": "A small figure meets a huge vertical",
+    "text": "The dark foreground figure is much smaller than the tower. Looking up the narrowing building exaggerates that difference in scale.",
+    "anchors": [
+     [
+      2,
+      0.4930715935334873,
+      0.63359375
+     ],
+     [
+      1,
+      0.6131639722863741,
+      0.08515625
+     ]
+    ],
+    "id": "the-raid-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "Letters as architecture",
+    "title": "The title inherits the building’s perspective",
+    "text": "The title is skewed to sit across the tower’s face. Its pale surfaces share the concrete texture, making the words feel embedded in the setting.",
+    "anchors": [
+     [
+      3,
+      0.44226327944572746,
+      0.25078125
+     ],
+     [
+      1,
+      0.6039260969976905,
+      0.38359375
+     ]
+    ],
+    "id": "the-raid-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}

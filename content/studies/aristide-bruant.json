@@ -1,0 +1,709 @@
+{
+ "poster": {
+  "id": "aristide-bruant",
+  "title": "Aristide Bruant",
+  "year": "1893",
+  "creator": "Henri de Toulouse-Lautrec",
+  "country": "France",
+  "category": "Performance",
+  "image": "images/full/aristide-bruant.jpg",
+  "ratio": 0.7366666666666667,
+  "accent": "#35413a",
+  "anchor": [
+   0.57,
+   0.65
+  ],
+  "monochrome": true,
+  "alt": "A monochrome reproduction of Aristide Bruant in a wide hat, scarf and sweeping dark cloak, looking over his shoulder.",
+  "blurb": "A hat, a scarf, a sweeping cloak: a public identity reduced to a few unmistakable shapes.",
+  "notes": [
+   {
+    "title": "Recognition through the outline",
+    "body": "The broad hat and sweeping cloak occupy much of the sheet. The small face gains emphasis from the much larger shapes around it."
+   },
+   {
+    "title": "A turn that meets the viewer",
+    "body": "The body faces away while the head turns in profile. The scarf breaks across the cloak, leading attention back toward the face."
+   },
+   {
+    "title": "Before the words",
+    "body": "The Met describes this impression as “before text”. The absent advertising lettering makes the relationship between silhouette and empty space especially clear."
+   }
+  ],
+  "source": "https://www.metmuseum.org/art/collection/search/334198",
+  "credit": "The Metropolitan Museum of Art, Bequest of Clifford A. Furst, 1958 (58.621.19). Public-domain image. Catalogued as a lithograph in four colours, before text.",
+  "reproduction": "Monochrome museum reproduction of a colour print. This study discusses shape, not the original colours.",
+  "countries": [
+   "France"
+  ],
+  "primaryOrigin": "France",
+  "anchorLayer": null,
+  "yearNumber": 1893,
+  "region": "Europe",
+  "thumb": "images/catalogue/aristide-bruant.webp"
+ },
+ "studyData": {
+  "intro": "This monochrome reproduction shows a version before the advertising text was added. Study the immense cloak, tiny facial details and turning pose, while keeping the original print’s documented colour process separate from what this file lets us see.",
+  "initial": "cloak",
+  "regions": [
+   {
+    "id": "cloak",
+    "label": "The great dark cloak",
+    "shortLabel": "The great dark cloak",
+    "kicker": "DESIGN",
+    "summary": "An enormous silhouette carries most of the image’s weight.",
+    "layerIndex": 1,
+    "bounds": {
+     "x": 4,
+     "y": 28,
+     "w": 90,
+     "h": 65
+    },
+    "x": 39,
+    "y": 54,
+    "question": "How much portrait information remains if you cover the face?",
+    "related": [
+     "hat",
+     "scarf",
+     "edge"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A person reduced to a broad mass",
+      "body": "The cloak occupies most of the sheet, expanding from the shoulder toward the left before rounding back toward the lower right. Its interior is nearly dark throughout. The figure is therefore described primarily by silhouette, with only a few smaller details needed to establish clothing and pose.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Recognition beyond the face",
+      "body": "The broad garment, hat and scarf can hold a recognisable figure together even when the face is small. That is a visual reading of their combined proportions, not proof that every historical viewer recognised the sitter. Covering the facial detail is a useful way to test how much the silhouette contributes.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 1
+   },
+   {
+    "id": "hat",
+    "label": "The broad-brimmed hat",
+    "shortLabel": "The broad-brimmed hat",
+    "kicker": "DESIGN",
+    "summary": "A second dark mass crowns the small profile.",
+    "layerIndex": 4,
+    "bounds": {
+     "x": 40,
+     "y": 4,
+     "w": 41,
+     "h": 26
+    },
+    "x": 59,
+    "y": 12,
+    "question": "Compare the direction of the brim with the slope of the shoulders.",
+    "related": [
+     "cloak",
+     "face",
+     "brim"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A large shape above a small face",
+      "body": "The hat combines a high rounded crown with a long brim that extends to both sides of the head. Like the cloak, it is mostly dark, with little interior modelling. Its size makes the face seem smaller and concentrates facial detail in a narrow pale opening beneath the brim.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "An angled upper counterweight",
+      "body": "The hat’s diagonal brim crosses the figure’s turning direction and gives the top a strong lateral spread. It balances the much larger cloak without matching its area. Two dark shapes at different scales can therefore establish the portrait’s structure before any facial line is examined.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 2
+   },
+   {
+    "id": "brim",
+    "label": "The descending brim edge",
+    "shortLabel": "The descending brim edge",
+    "kicker": "DESIGN",
+    "summary": "A narrow curved tip points toward the shoulder.",
+    "layerIndex": 4,
+    "bounds": {
+     "x": 61,
+     "y": 18,
+     "w": 20,
+     "h": 12
+    },
+    "x": 75,
+    "y": 25,
+    "question": "Follow the brim into the scarf: where do the shapes stop touching?",
+    "related": [
+     "hat",
+     "hair",
+     "scarf"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A tapering edge rather than a solid block",
+      "body": "The right end of the brim narrows into a curved point, unlike the hat’s broad crown. This taper brings the large upper mass toward the shoulder without making it merge completely with the cloak. The small interval around the edge helps the head remain distinct.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Curves organise the turn",
+      "body": "The brim, hair and scarf all curve around the back of the head, each with a different thickness. Their sequence helps describe the figure’s turn without using a fully modelled neck. Compare those curved transitions with the sharper small lines at the nose and eyebrow.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 3
+   },
+   {
+    "id": "face",
+    "label": "The small pale profile",
+    "shortLabel": "The small pale profile",
+    "kicker": "DESIGN",
+    "summary": "A handful of lines gives the broad silhouette a particular face.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 42,
+     "y": 12,
+     "w": 19,
+     "h": 14
+    },
+    "x": 48,
+    "y": 19,
+    "question": "Which two or three marks make the profile most specific?",
+    "related": [
+     "eye",
+     "mouth",
+     "hat"
+    ],
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Detail concentrated in a small area",
+      "body": "The nose, brow, eye and mouth are drawn with fine dark lines inside a pale face. That density of small marks is unusual on a sheet dominated by broad garment shapes. The face rewards a closer view after the silhouette has established the figure at a distance.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "The identified sitter and version",
+      "body": "The Met identifies the work as Aristide Bruant, dans son cabaret, by Henri de Toulouse-Lautrec, dated 1893. It describes this impression as before text. That establishes the sitter and version; the absence of a large name in the image is not an accidental missing crop.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "met"
+       }
+      ]
+     }
+    ],
+    "number": 4
+   },
+   {
+    "id": "eye",
+    "label": "The sharply drawn eyebrow and eye",
+    "shortLabel": "The sharply drawn eyebrow and eye",
+    "kicker": "DESIGN",
+    "summary": "Fine angular strokes direct attention to the left.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 46,
+     "y": 13,
+     "w": 6,
+     "h": 6
+    },
+    "x": 49,
+    "y": 16,
+    "question": "What changes in the expression if you cover the eyebrow but leave the eye?",
+    "related": [
+     "face",
+     "mouth",
+     "cloak"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A tiny dark accent",
+      "body": "The eyebrow is one of the strongest short marks within the pale face, with the eye described more lightly beneath it. Their angled relationship suggests a directed look toward the left. This small dark accent competes effectively because it sits in an otherwise sparsely marked light area.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Expression without certainty",
+      "body": "The brow may appear alert, stern or simply concentrated, depending on how it is read with the mouth. Those remain interpretations of line and pose. The portrait record identifies the sitter, but it does not establish a single emotion for this precise facial arrangement.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 5
+   },
+   {
+    "id": "mouth",
+    "label": "The moustache and mouth lines",
+    "shortLabel": "The moustache and mouth lines",
+    "kicker": "DESIGN",
+    "summary": "Small irregular contours interrupt the profile.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 43,
+     "y": 20,
+     "w": 7,
+     "h": 5
+    },
+    "x": 46,
+    "y": 22,
+    "question": "How do these lines differ from the smooth outline of the cloak?",
+    "related": [
+     "face",
+     "eye",
+     "scarf"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A different kind of contour",
+      "body": "The mouth and moustache area uses short, irregular lines and small changes of direction. This is a much more descriptive texture than the broad sweep of the cloak. The contrast gives the face specificity without distributing fine detail evenly across the entire figure.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Economy is selective",
+      "body": "The image is spare overall, but it is not uniformly simplified. Facial marks are allowed to be complex where they help establish identity, while garment interiors stay broad. Comparing those areas shows that economy can mean concentrating detail rather than removing it everywhere.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 6
+   },
+   {
+    "id": "hair",
+    "label": "The pale hair behind the ear",
+    "shortLabel": "The pale hair behind the ear",
+    "kicker": "DESIGN",
+    "summary": "Curving strands connect face, hat and scarf.",
+    "layerIndex": 3,
+    "bounds": {
+     "x": 56,
+     "y": 19,
+     "w": 14,
+     "h": 10
+    },
+    "x": 61.835,
+    "y": 25.521,
+    "question": "Which boundaries belong to hair, and which belong to the collar or scarf?",
+    "related": [
+     "brim",
+     "face",
+     "scarf"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A softer intermediate shape",
+      "body": "The hair behind the ear forms a lighter gray area with a few curved internal lines. It sits between the dark hat and the scarf’s broader gray shape. This intermediate tone makes the transition around the back of the head more legible than a single unbroken black mass would be.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A turn described through overlap",
+      "body": "The ear, hair and scarf overlap in a compact zone rather than following one clean outline. Their ordering helps the head seem turned relative to the shoulders. The effect depends on a handful of visible boundaries, not on continuous realistic shading across every surface.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 7
+   },
+   {
+    "id": "scarf",
+    "label": "The long gray scarf",
+    "shortLabel": "The long gray scarf",
+    "kicker": "DESIGN",
+    "summary": "A lighter form runs down the dark back.",
+    "layerIndex": 2,
+    "bounds": {
+     "x": 42,
+     "y": 23,
+     "w": 42,
+     "h": 43
+    },
+    "x": 70,
+    "y": 45,
+    "question": "Follow its edge from collar to tip: where does the direction change?",
+    "related": [
+     "cloak",
+     "hair",
+     "scarf-tip"
+    ],
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "One lighter path through darkness",
+      "body": "The scarf begins high around the neck and descends over the cloak in a long uneven shape. In this monochrome file it is a middle gray, clearly lighter than the garment behind it. Its continuous path breaks up the broad dark back without requiring many separate decorative details.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "Colour lost in this reproduction",
+      "body": "The Met records a lithograph printed in four colours, but the installed reproduction is monochrome. We can compare lightness and contours here; we cannot sample the original scarf colour from this file. The palette therefore deliberately records grays rather than supplying colours remembered from other versions.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "met"
+       }
+      ]
+     }
+    ],
+    "number": 8
+   },
+   {
+    "id": "scarf-tip",
+    "label": "The curved lower scarf end",
+    "shortLabel": "The curved lower scarf end",
+    "kicker": "DESIGN",
+    "summary": "A rounded hanging end gives the vertical accent movement.",
+    "layerIndex": 2,
+    "bounds": {
+     "x": 60,
+     "y": 46,
+     "w": 24,
+     "h": 20
+    },
+    "x": 76,
+    "y": 59,
+    "question": "Compare this tip with the cloak’s lower curve: which is more tightly bent?",
+    "related": [
+     "scarf",
+     "edge",
+     "glove"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A small turn inside a larger one",
+      "body": "The scarf narrows, bends and broadens again near its lower end, with a dark internal line suggesting a fold. Its local curve sits inside the much larger curve of the cloak. The nested shapes give the broad garment area a more varied rhythm.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Weight suggested by contour",
+      "body": "The hanging end can feel soft or weighted because of its downward curve and folded-looking edge. That is a reading of the shape, not a documented fabric specification. Compare it with the rigid-looking cane below to see how different contours suggest different material behaviours.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 9
+   },
+   {
+    "id": "edge",
+    "label": "The sweeping cloak hem",
+    "shortLabel": "The sweeping cloak hem",
+    "kicker": "DESIGN",
+    "summary": "A pale border traces the garment’s broad turn.",
+    "layerIndex": 1,
+    "bounds": {
+     "x": 3,
+     "y": 58,
+     "w": 57,
+     "h": 25
+    },
+    "x": 29,
+    "y": 76,
+    "question": "Trace the edge from the leftmost point toward the inward hook: how does it change speed?",
+    "related": [
+     "cloak",
+     "scarf-tip",
+     "glove"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "An outline with changing curvature",
+      "body": "A lighter border follows the cloak from its leftmost point through a long descending sweep and into a narrow inward curl. The changing curvature keeps the vast dark area from reading as a simple triangle. It also separates the garment from the pale surrounding paper.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "Line leads toward the hand",
+      "body": "Following the lower sweep brings attention toward the gloved hand and cane. This is a visible route through the design, although a viewer may begin elsewhere. The edge connects the broad silhouette to a small practical object, shifting the scale of attention near the base.",
+      "evidence": "interpretation"
+     }
+    ],
+    "number": 10
+   },
+   {
+    "id": "glove",
+    "label": "The hand and cane",
+    "shortLabel": "The hand and cane",
+    "kicker": "DESIGN",
+    "summary": "A small articulated detail emerges beneath the cloak.",
+    "layerIndex": 5,
+    "bounds": {
+     "x": 14,
+     "y": 75,
+     "w": 27,
+     "h": 18
+    },
+    "x": 24,
+    "y": 84,
+    "question": "Which pale marks distinguish the hand from the dark garment?",
+    "related": [
+     "edge",
+     "scarf-tip",
+     "imprint"
+    ],
+    "tags": [
+     "design"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "A detail partly concealed",
+      "body": "The gloved hand and cane appear low on the left, partly enclosed by the garment above. Pale marks identify the grip and the cane’s direction against surrounding dark shapes. Their small scale and partial concealment make them a discovery after the hat, face and cloak have been read.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "design",
+      "heading": "A different diagonal at the base",
+      "body": "The cane angles toward the lower right, contrasting with the cloak’s broad curved hem. It gives the lower part a firmer directional line and an object held by the figure. The study describes the visible accessory without claiming a particular performance gesture or moment.",
+      "evidence": "observation"
+     }
+    ],
+    "number": 11
+   },
+   {
+    "id": "imprint",
+    "label": "The maker and printer marks",
+    "shortLabel": "The maker and printer marks",
+    "kicker": "BUSINESS",
+    "summary": "Small marks remain despite the absence of a headline.",
+    "layerIndex": 0,
+    "bounds": {
+     "x": 4,
+     "y": 72,
+     "w": 17,
+     "h": 23
+    },
+    "x": 10,
+    "y": 89,
+    "question": "How does this writing differ in purpose from a large advertising title?",
+    "related": [
+     "paper",
+     "glove",
+     "face"
+    ],
+    "tags": [
+     "business",
+     "language"
+    ],
+    "sections": [
+     {
+      "kind": "business",
+      "heading": "Before text does not mean no marks",
+      "body": "The Met’s before-text description concerns the state of the print; small signature and printer information are still visible near the lower left. These marks serve different purposes from a large performer or venue headline. Their presence should not be confused with a complete public advertising message.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "language",
+      "heading": "A title supplied by the record",
+      "body": "The museum title “Aristide Bruant, dans son cabaret” means “Aristide Bruant, in his cabaret.” It is useful identification, but it is not printed as a large title on this installed version. The transcript therefore distinguishes catalogue wording from the small visible signature rather than pretending the title is on the sheet.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "met"
+       }
+      ]
+     }
+    ],
+    "number": 12
+   },
+   {
+    "id": "paper",
+    "label": "The pale surrounding sheet",
+    "shortLabel": "The pale surrounding sheet",
+    "kicker": "DESIGN",
+    "summary": "A large quiet area lets the profile face into space.",
+    "layerIndex": 0,
+    "bounds": {
+     "x": 5,
+     "y": 7,
+     "w": 29,
+     "h": 45
+    },
+    "x": 20,
+    "y": 30,
+    "question": "What does the empty space in front of the face contribute to the pose?",
+    "related": [
+     "face",
+     "cloak",
+     "imprint"
+    ],
+    "tags": [
+     "design",
+     "context"
+    ],
+    "sections": [
+     {
+      "kind": "design",
+      "heading": "Space in the direction of the gaze",
+      "body": "The figure looks toward a broad pale area on the left. That space contains little detail above the lower imprint, leaving room in front of the face. The asymmetry helps the turned pose remain open rather than pressing the profile immediately against another large shape.",
+      "evidence": "observation"
+     },
+     {
+      "kind": "context",
+      "heading": "The sheet as a printed object",
+      "body": "The Met records a lithograph on machine-wove paper, measuring 139.5 by 99.5 centimetres. The installed image also retains a narrow outer border around the figure. That visible frame makes the broad silhouette belong to a bounded sheet rather than an indefinitely extending dark field.",
+      "evidence": "documented",
+      "sources": [
+       {
+        "id": "met"
+       }
+      ]
+     }
+    ],
+    "number": 13
+   }
+  ],
+  "sources": [
+   {
+    "id": "met",
+    "title": "The Met: Aristide Bruant, dans son cabaret",
+    "url": "https://www.metmuseum.org/art/collection/search/334198",
+    "kind": "Museum object record",
+    "summary": "Identifies Toulouse-Lautrec, 1893, before-text lithograph printed in four colours on machine-wove paper; object 58.621.19. The installed digital file is monochrome."
+   }
+  ],
+  "tour": [
+   "cloak",
+   "hat",
+   "face",
+   "eye",
+   "scarf",
+   "glove",
+   "imprint"
+  ],
+  "transcript": [
+   {
+    "heading": "Selected visible wording",
+    "rows": [
+     {
+      "text": "T-Lautrec",
+      "meaning": "Visible artist signature, abbreviated",
+      "lang": "und"
+     }
+    ]
+   }
+  ],
+  "transcriptNote": "This is the before-text version, shown in monochrome. The catalogue title is explained in a note, not falsely transcribed as visible headline text. The small signature is recorded conservatively; the long printer line is not expanded in full. Original colours cannot be inferred from this grayscale file.",
+  "palette": [
+   {
+    "name": "Cloak charcoal",
+    "hex": "#212121",
+    "role": "Largest dark silhouette",
+    "region": "cloak"
+   },
+   {
+    "name": "Scarf gray",
+    "hex": "#8e8e8e",
+    "role": "Lighter path across the back",
+    "region": "scarf"
+   },
+   {
+    "name": "Face pale",
+    "hex": "#cacaca",
+    "role": "Small detailed profile",
+    "region": "face"
+   },
+   {
+    "name": "Paper gray",
+    "hex": "#d0d0d0",
+    "role": "Open space in front of the figure",
+    "region": "paper"
+   },
+   {
+    "name": "Hat dark",
+    "hex": "#1d1d1d",
+    "role": "Upper silhouette",
+    "region": "hat"
+   }
+  ],
+  "paletteNote": "Approximate grayscale pixel samples from the installed monochrome reproduction. The Met records a four-colour original print; this file cannot establish its original ink colours or paper tone.",
+  "connections": [
+   {
+    "label": "A small face, broad forms",
+    "title": "The profile sits between hat and scarf",
+    "text": "The comparatively small face gains emphasis from two much larger shapes: the wide hat above it and the scarf crossing beneath it.",
+    "anchors": [
+     [
+      4,
+      0.5503393665158371,
+      0.10041666666666667
+     ],
+     [
+      3,
+      0.4802036199095023,
+      0.19208333333333333
+     ],
+     [
+      2,
+      0.5503393665158371,
+      0.2704166666666667
+     ]
+    ],
+    "id": "aristide-bruant-connection-0",
+    "colour": "#be3d74"
+   },
+   {
+    "label": "A turn through the silhouette",
+    "title": "The scarf interrupts the cloak",
+    "text": "The pale scarf bends over the shoulder and drops across the dark cloak, leading the eye back from the large body toward the turned head.",
+    "anchors": [
+     [
+      1,
+      0.49038461538461536,
+      0.6104166666666667
+     ],
+     [
+      2,
+      0.7697963800904978,
+      0.5604166666666667
+     ],
+     [
+      3,
+      0.5096153846153846,
+      0.21041666666666667
+     ]
+    ],
+    "id": "aristide-bruant-connection-1",
+    "colour": "#496f80"
+   }
+  ]
+ }
+}
