@@ -1,5 +1,7 @@
 # Poster Atlas
 
+Posters, book covers & more.
+
 128 posters and book covers from 1891 to 2026, each one opened up detail by detail.
 Made for teachers and anyone who wants to look more closely.
 

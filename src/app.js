@@ -104,7 +104,7 @@ function mount(view, node, mid) {
   const key = el('button', { class: 'key', type: 'button', 'aria-pressed': String(S.held), 'aria-label': 'Hold back the notes until you choose to reveal them' }, keyIcon());
   on(key, 'click', () => { setHeld(!S.held); key.setAttribute('aria-pressed', String(S.held)); });
   const bar = el('header', { class: 'bar' },
-    link('', { class: 'mark' }, 'Poster Atlas'),
+    link('', { class: 'mark' }, 'Poster Atlas', el('span', { class: 'sub-mark' }, 'Posters, book covers & more')),
     el('span', { class: 'mid' }, key, mid),
     el('nav', { class: 'bar-nav', 'aria-label': 'Site' }, link('collection/', null, 'Collection'), el('a', { href: url('teachers/') }, 'For teachers'), el('a', { href: url('about/') }, 'About')));
   const main = el('main', { id: 'main', tabindex: '-1' }, node);

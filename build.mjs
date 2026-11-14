@@ -152,7 +152,7 @@ const page = ({ root, path, title, description, image, ground, ink, view, id, bo
 <body data-view="${view}"${id ? ` data-id="${id}"` : ''}>
 <a class="skip" href="#main">Skip to the content</a>
 <div id="app">
-<header class="bar"><a class="mark" href="${root}">Poster Atlas</a><nav class="bar-nav"><a href="${root}collection/">Collection</a><a href="${root}teachers/">For teachers</a></nav></header>
+<header class="bar"><a class="mark" href="${root}">Poster Atlas<span class="sub-mark">Posters, book covers &amp; more</span></a><nav class="bar-nav"><a href="${root}collection/">Collection</a><a href="${root}teachers/">For teachers</a></nav></header>
 <main id="main" class="plain">
 ${body}
 </main>
@@ -164,7 +164,7 @@ ${view === 'page' ? '' : `<script type="module" src="${root}app.js"></script>`}
 
 const first = byId[home.themes[0].ids[0]];
 write(join(OUT, 'index.html'), page({
-  root: './', path: '', title: 'Poster Atlas', description: `${TAGLINE.join(' ')} ${posters.length} posters and book covers from 1891 to 2026, each one opened up detail by detail.`,
+  root: './', path: '', title: 'Poster Atlas · Posters, book covers & more', description: `${TAGLINE.join(' ')} ${posters.length} posters and book covers from 1891 to 2026, each one opened up detail by detail.`,
   image: 'img/full/' + share[first.id], ground: '#101010', ink: '#ffffff', view: 'home',
   body: `<h1>${TAGLINE.join(' ')}</h1><p>${QUESTION}</p><p>${posters.length} posters and book covers across eras and cultures. Discover the choices that make them work.</p><p><a href="./collection/">Browse the collection</a></p>`,
 }));
@@ -217,7 +217,7 @@ prose('../', 'teachers/', 'For teachers', 'How to use Poster Atlas with a class:
 
 prose('../', 'about/', 'About', 'What Poster Atlas is, how its notes are sourced, and how it was made.', `
 <h1>About Poster Atlas</h1>
-<p class="lead">${posters.length} posters and book covers from ${Math.min(...posters.map(p => p.yearNumber))} to ${Math.max(...posters.map(p => p.yearNumber))}, each opened up detail by detail. It is an independent educational project by King.</p>
+<p class="lead">${posters.length} posters and book covers from ${Math.min(...posters.map(p => p.yearNumber))} to ${Math.max(...posters.map(p => p.yearNumber))}, each opened up detail by detail. Posters, book covers and more: it is an independent educational project by King.</p>
 <h2>What the notes are</h2>
 <p>Each poster has between ten and eighteen details. Every detail has a short note, a mark that says how sure the note is, and a question to take away. Sources, edition details and image credits are inside each poster's page.</p>
 <h2>What the layers are</h2>
