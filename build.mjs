@@ -6,6 +6,7 @@ import { readFileSync, writeFileSync, mkdirSync, readdirSync, cpSync, rmSync, ex
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { createHash } from 'node:crypto';
+import { makeSearch } from './src/search.js';
 
 const ROOT = dirname(fileURLToPath(import.meta.url));
 const C = join(ROOT, 'content');
@@ -130,7 +131,8 @@ for (const t of threads) t.links.forEach((l, i) => {
 
 /* A short stamp of everything a visitor's browser might have kept from last time. It changes whenever the site does,
    so a returning visitor always gets the new files and never a mix of old and new. */
-const VER = createHash('sha1').update(readFileSync(join(ROOT, 'src', 'app.js'))).update(readFileSync(join(ROOT, 'src', 'app.css')))
+const VER = createHash('sha1').update(readFileSync(join(ROOT, 'src', 'app.js'))).update(readFileSync(join(ROOT, 'src', 'app.css'))).update(readFileSync(join(ROOT, 'src', 'search.js')))
+  .update(existsSync(join(C, 'ideas.json')) ? readFileSync(join(C, 'ideas.json')) : '')
   .update(JSON.stringify(posters)).update(JSON.stringify(threads)).update(JSON.stringify(home)).digest('hex').slice(0, 10);
 
 /* ---------- write the site ---------- */
@@ -149,6 +151,20 @@ const catalogue = {
 write(join(OUT, 'data', 'catalogue.json'), JSON.stringify(catalogue));
 for (const p of posters) write(join(OUT, 'data', 'posters', p.id + '.json'), JSON.stringify(p));
 write(join(OUT, 'data', 'threads.json'), JSON.stringify(threads));
+/* Everything search reads: every note in full, the threads, and the hand-made list of which words sit close to which idea. */
+const ideas = existsSync(join(C, 'ideas.json')) ? read(join(C, 'ideas.json')).ideas : [];
+const searchData = {
+  details: posters.flatMap(p => p.regions.map(r => ({ p: p.id, r: r.id, l: r.label, s: r.sum, q: r.q || '', b: r.b, t: r.threads.map(t => t.id),
+    x: r.secs.map(x => [x.h || '', [x.body, x.note].filter(Boolean).join(' ')]),
+    o: r.secs.filter(x => x.orig).map(x => [x.orig.text, x.orig.reading, x.orig.translation].filter(Boolean).join(' / ')).join(' / ') }))),
+  threads: threads.map(t => ({ id: t.id, name: t.name, headline: t.headline, idea: t.idea, count: t.links.length })),
+  ideas,
+};
+/* The index of ideas shows, for each idea, how many details it leads to and wears the colour of the poster it finds first.
+   Both are worked out here with the very search the site uses, so the index can never promise what search does not find. */
+const finder = makeSearch({ posters: catalogue.posters, ...searchData });
+searchData.ideas = ideas.map(g => { const r = finder.search(g.name); return { ...g, n: r.details.length, on: new Set(r.details.map(x => x.doc.p.id)).size, first: r.details[0] ? r.details[0].doc.p.id : null }; });
+write(join(OUT, 'data', 'search.json'), JSON.stringify(searchData));
 
 cpSync(join(C, 'images', 'catalogue'), join(OUT, 'img', 'poster'), { recursive: true });
 cpSync(join(C, 'images', 'thumb'), join(OUT, 'img', 'thumb'), { recursive: true });
@@ -162,7 +178,7 @@ const share = {};                                   // a picture for link previe
 for (const f of readdirSync(join(C, 'images', 'full'))) { share[f.replace(/\.[^.]+$/, '')] = f; }
 cpSync(join(C, 'images', 'full'), join(OUT, 'img', 'full'), { recursive: true });
 cpSync(join(ROOT, 'src', 'fonts'), join(OUT, 'fonts'), { recursive: true });
-for (const f of ['app.css', 'app.js', 'favicon.svg']) cpSync(join(ROOT, 'src', f), join(OUT, f));
+for (const f of ['app.css', 'app.js', 'search.js', 'favicon.svg']) cpSync(join(ROOT, 'src', f), join(OUT, f));
 write(join(OUT, '.nojekyll'), '');
 
 const page = ({ root, path, title, description, image, ground, ink, view, id, body, cls = 'plain' }) => `<!doctype html>
@@ -192,7 +208,7 @@ const page = ({ root, path, title, description, image, ground, ink, view, id, bo
 <body data-view="${view}"${id ? ` data-id="${id}"` : ''}>
 <a class="skip" href="#main">Skip to the content</a>
 <div id="app">
-<header class="bar"><a class="mark" href="${root}">Poster Atlas<span class="sub-mark">Posters, book covers &amp; more</span></a><nav class="bar-nav"><a href="${root}collection/">Collection</a><a href="${root}threads/">Threads</a><a href="${root}teachers/">For teachers</a><a href="${root}about/">About</a></nav></header>
+<header class="bar"><a class="mark" href="${root}">Poster Atlas<span class="sub-mark">Posters, book covers &amp; more</span></a><nav class="bar-nav"><a href="${root}collection/">Collection</a><a href="${root}threads/">Threads</a><a href="${root}search/">Search</a><a href="${root}teachers/">For teachers</a><a href="${root}about/">About</a></nav></header>
 <main id="main" class="${cls}">
 ${body}
 </main>
@@ -261,6 +277,9 @@ prose('../', 'teachers/', 'For teachers', 'How to use Poster Atlas with a class:
 <h2>Threads</h2>
 <p>A thread is one idea, such as scale or gesture, followed across many posters. Under a detail's note you will find the thread it belongs to and the next poster on it. The <a href="../threads/">threads page</a> shows all ${threads.length} at once, which makes a ready-made lesson: one idea, a dozen posters, several countries and decades.</p>
 <p>Threads are visual readings. They are a way of seeing details together, and students can argue with them.</p>
+<h2>Search by idea</h2>
+<p><a href="../search/">Search</a> looks through every note on every poster. Type an idea, such as loneliness, hand-drawn lettering or the colour red, and it shows the details that match, each outlined on its poster. It also finds titles, makers, countries and decades.</p>
+<p>Under the search line there is an index of ${searchData.ideas.length} ideas to start from. Search reads only the Atlas's own words. It needs no sign-in, and nothing a student types leaves the page. Each result shows the sentence that put it there, so a class can judge whether it belongs.</p>
 <h2>How sure is each note?</h2>
 <p>Every note carries one of four marks.</p>
 <ul>
@@ -360,9 +379,13 @@ ${band('facts', [last.ground, last.ink], `<div>
     image: 'img/full/' + share[first.id], ground: '#101010', ink: '#ffffff', view: 'page', cls: 'full', body }));
 }
 
+write(join(OUT, 'search', 'index.html'), page({ root: '../', path: 'search/', title: 'Search · Poster Atlas', description: 'Look something up in Poster Atlas: an idea, a colour, a name. Or start from the index of ideas.',
+  image: 'img/full/' + share[first.id], ground: '#101010', ink: '#ffffff', view: 'search',
+  body: `<article class="prose"><h1>Search</h1><p>Look something up: an idea, a colour, a name. Search reads the Atlas's own notes.</p><h2>Index of ideas</h2><ul>${searchData.ideas.map(g => `<li><a href="./?q=${encodeURIComponent(g.name)}">${esc(g.name)}</a> (${g.n})</li>`).join('')}</ul></article>` }));
+
 write(join(OUT, '404.html'), page({ root: '/re-poster-atlas/', path: '404.html', title: 'Not found · Poster Atlas', description: 'That page is not in the Atlas.', image: 'img/full/' + share[first.id], ground: '#f3f2ee', ink: '#141414', view: 'page',
   body: `<article class="prose"><h1>That page is not in the Atlas.</h1><p><a href="/re-poster-atlas/">Go to the opening page</a> or <a href="/re-poster-atlas/collection/">browse the collection</a>.</p></article>` }));
-write(join(OUT, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${['', 'collection/', 'threads/', ...threads.map(t => `threads/${t.id}/`), 'teachers/', 'about/', ...posters.map(p => `posters/${p.id}/`)].map(u => `<url><loc>${SITE_URL}/${u}</loc></url>`).join('\n')}\n</urlset>\n`);
+write(join(OUT, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${['', 'collection/', 'threads/', ...threads.map(t => `threads/${t.id}/`), 'search/', 'teachers/', 'about/', ...posters.map(p => `posters/${p.id}/`)].map(u => `<url><loc>${SITE_URL}/${u}</loc></url>`).join('\n')}\n</urlset>\n`);
 write(join(OUT, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${SITE_URL}/sitemap.xml\n`);
 
 const low = posters.filter(p => contrast(p.ground, p.ink) < 4.5).map(p => p.id);

@@ -122,7 +122,7 @@ function mount(view, node, mid, withKey) {
   const bar = el('header', { class: 'bar' },
     link('', { class: 'mark' }, 'Poster Atlas', el('span', { class: 'sub-mark' }, 'Posters, book covers & more')),
     el('span', { class: 'mid' }, withKey ? key : null, mid),
-    el('nav', { class: 'bar-nav', 'aria-label': 'Site' }, link('collection/', null, 'Collection'), link('threads/', null, 'Threads'), el('a', { href: url('teachers/') }, 'For teachers'), el('a', { href: url('about/') }, 'About')));
+    el('nav', { class: 'bar-nav', 'aria-label': 'Site' }, link('collection/', null, 'Collection'), link('threads/', null, 'Threads'), link('search/', null, 'Search'), el('a', { href: url('teachers/') }, 'For teachers'), el('a', { href: url('about/') }, 'About')));
   const main = el('main', { id: 'main', tabindex: '-1' }, node);
   document.getElementById('app').replaceChildren(bar, main);
   return main;
@@ -532,12 +532,86 @@ async function viewThread(id) {
     el('p', { class: 'between' }, link(`threads/${before.id}/`, { class: 'link' }, `‹ ${before.name}`), link(`threads/${after.id}/`, { class: 'link' }, `${after.name} ›`))), null, false);
 }
 
+/* ---------- search: the Atlas's own words, and an index of ideas ---------- */
+let searching = null;
+const loadSearch = () => (searching ||= Promise.all([import(url('search.js') + (VER ? '?v=' + VER : '')), getJSON('data/search.json')])
+  .then(([m, data]) => ({ data, find: m.makeSearch({ posters: S.cat.posters, ...data }) })));
+const many = (n, one) => `${n} ${one}${n === 1 ? '' : 's'}`;
+
+async function viewSearch() {
+  const cat = S.cat, byId = Object.fromEntries(cat.posters.map(p => [p.id, p]));
+  colours('#101010', '#ffffff');
+  document.title = 'Search · Poster Atlas';
+  const input = el('input', { type: 'search', id: 'sq', autocomplete: 'off', autocapitalize: 'off', spellcheck: 'false', enterkeyhint: 'search', placeholder: 'an idea, a colour, a name', 'aria-describedby': 'sline' });
+  const line = el('p', { class: 'sline', id: 'sline', 'aria-live': 'polite' }, 'Getting the index ready.');
+  const res = el('div', { class: 'sres' });
+  mount('search', el('div', { class: 'srch' }, el('h1', { class: 'sr-only' }, 'Search'), el('label', { class: 'sq', for: 'sq' }, 'Look something up'), input, line, res), null, false);
+  input.value = new URLSearchParams(location.search).get('q') || '';
+  const { data, find } = await loadSearch();
+  if (document.body.dataset.view !== 'search' || !input.isConnected) return;      // the visitor moved on while the index was loading
+  let shown = 24, timer = 0;
+  const setQ = q => history.replaceState(null, '', url('search/') + (q ? '?q=' + encodeURIComponent(q) : ''));
+
+  const index = () => el('section', { class: 'sindex' },
+    el('h2', null, 'Or start from the index of ideas'),
+    [...new Set(data.ideas.map(g => g.under))].map(u => el('div', { class: 'srow' }, el('h3', null, u),
+      el('p', null, data.ideas.filter(g => g.under === u && g.n > 0).map(g => link('search/?q=' + encodeURIComponent(g.name), { class: 'idea', style: g.first ? `color:${byId[g.first].dark}` : '', 'aria-label': `${g.name}, ${many(g.n, 'detail')}` },
+        g.name, el('sup', { 'aria-hidden': 'true' }, String(g.n))))))),
+    el('p', { class: 'small' }, 'The number beside an idea is how many details it leads to. Each idea wears the colour of the first poster it finds.'),
+    el('p', { class: 'small' }, 'Search reads the Atlas’s own notes and nothing else. It treats forms of a word as one word, knows which words in the notes sit close to an idea, and forgives a slip of the keyboard. Nothing you type leaves this page.'));
+
+  const clip = (t, n, fromEnd) => (t.length <= n ? t : fromEnd ? '…' + t.slice(-n).replace(/^\S*\s/, '') : t.slice(0, n).replace(/\s\S*$/, '') + '…');
+  function detailTile(x) {
+    const p = x.doc.p, d = x.doc.d, y = find.why(x);
+    const quote = !y || ['label', 'thread', 'strand', 'ctx'].includes(y.field) ? d.s
+      : y.field === 'sum' ? [y.before, el('mark', null, y.word), y.after]
+      : [clip(y.before, 70, true), el('mark', null, y.word), clip(y.after, 90)];
+    const why = y && y.thread ? `On the thread ${y.thread.name}` : y && y.how === 'close' ? `“${y.word.toLowerCase()}” sits close to “${y.said}”` : null;
+    return link(`posters/${p.id}/#${d.r}`, { class: 'tile dt' },
+      el('span', { class: 'sw', style: `--g:${p.ground}` }, el('span', { class: 'pic' }, el('span', { style: fit(p.ratio) },
+        el('img', { src: url(`img/thumb/${p.id}.webp`), alt: '', loading: 'lazy' }),
+        el('i', { style: `left:${d.b[0]}%;top:${d.b[1]}%;width:${d.b[2]}%;height:${d.b[3]}%`, 'aria-hidden': 'true' })))),
+      el('span', { class: 't' }, d.l), el('span', { class: 'm' }, quote),
+      el('span', { class: 'm from' }, `${p.title} · ${p.country} · ${p.when}`), why && el('span', { class: 'm why' }, why));
+  }
+  const posterTile = p => link(`posters/${p.id}/`, { class: 'tile' },
+    el('span', { class: 'sw', style: `--g:${p.ground}` }, el('img', { src: url(`img/thumb/${p.id}.webp`), alt: '', loading: 'lazy' })),
+    el('span', { class: 't' }, p.title), el('span', { class: 'm' }, `${p.country} · ${p.when}`));
+
+  function draw(typing) {
+    const q = input.value.trim();
+    if (!q) { line.textContent = `${data.details.length.toLocaleString('en-GB')} details on ${cat.total} posters, read word by word.`; res.replaceChildren(index()); return; }
+    const r = find.search(q, { typing }), across = new Set(r.details.map(x => x.doc.p.id)).size;
+    const found = [r.details.length && `${r.details.length === 150 ? 'More than 150' : r.details.length} detail${r.details.length === 1 ? '' : 's'} on ${many(across, 'poster')}`,
+      r.posters.length && many(r.posters.length, 'poster'), r.threads.length && many(r.threads.length, 'thread')].filter(Boolean);
+    line.replaceChildren(found.length ? found.join(' · ') + '.' : `Nothing in the Atlas for “${q}”.`,
+      r.fixed.length && found.length ? ` Read as “${r.fixed.map(f => f[1]).join(' ')}”.` : '',
+      r.missing.length && found.length ? ` Not in the notes: ${r.missing.join(', ')}.` : '');
+    // A name, a place or a date was asked for: posters first. An idea was asked for: the details first.
+    const named = r.posters.some(x => x.got.every(g => ['title', 'maker', 'place'].includes(x.doc.best.get(g.term))));
+    const posters = r.posters.length > 0 && el('section', null, el('h2', null, named ? 'Posters' : 'Posters that are about this as a whole'), el('div', { class: 'wall' }, r.posters.slice(0, 12).map(x => posterTile(x.doc.p))));
+    const details = r.details.length > 0 && el('section', null, el('h2', null, 'Details'), el('div', { class: 'wall' }, r.details.slice(0, shown).map(detailTile)),
+      r.details.length > shown && on(el('button', { class: 'link more24', type: 'button' }, `Show ${Math.min(24, r.details.length - shown)} more`), 'click', () => { shown += 24; draw(false); }));
+    res.replaceChildren(...[
+      r.threads.length > 0 && el('section', null, el('h2', null, 'Threads'), r.threads.slice(0, 3).map(x => el('p', { class: 'sthread' }, tgo(`threads/${x.doc.t.id}/`, x.doc.t.name), el('span', null, x.doc.t.headline)))),
+      ...(named ? [posters, details] : [details, posters]),
+      !found.length && el('p', { class: 'lead' }, 'Try a plainer word, or start from an idea below.'), !found.length && index(),
+    ].filter(Boolean));
+  }
+  on(input, 'input', () => { clearTimeout(timer); timer = setTimeout(() => { shown = 24; setQ(input.value.trim()); draw(true); }, 140); });
+  on(input, 'keydown', e => { if (e.key === 'Enter') { clearTimeout(timer); setQ(input.value.trim()); draw(false); input.blur(); } });
+  S.leave = () => clearTimeout(timer);
+  draw(false);
+  if (!input.value && !narrow()) input.focus({ preventScroll: true });
+}
+
 /* ---------- finding the right view for the address ---------- */
 function where() {
   const path = location.pathname.startsWith(BASE) ? location.pathname.slice(BASE.length) : '';
   const seg = path.split('/').filter(Boolean);
   if (seg[0] === 'posters' && seg[1]) return { view: 'poster', id: seg[1] };
   if (seg[0] === 'collection') return { view: 'collection' };
+  if (seg[0] === 'search') return { view: 'search' };
   if (seg[0] === 'threads') return seg[1] ? { view: 'thread', id: seg[1] } : { view: 'threads' };
   return { view: 'home' };
 }
@@ -548,6 +622,7 @@ async function route(state, first) {
     S.cat ||= await getJSON('data/catalogue.json');
     if (w.view === 'poster' && S.cat.posters.some(p => p.id === w.id)) await viewPoster(w.id, state?.look || null);
     else if (w.view === 'collection') await viewCollection();
+    else if (w.view === 'search') await viewSearch();
     else if (w.view === 'thread' && S.cat.threads.some(t => t.id === w.id)) await viewThread(w.id);
     else if (w.view === 'threads' || w.view === 'thread') await viewThreads();
     else await viewHome();
