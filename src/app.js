@@ -311,13 +311,14 @@ async function viewHome() {
   document.title = 'Poster Atlas · Posters, book covers & more';
   if (S.theme === null) S.theme = Math.floor(Date.now() / 864e5) % N;      // a different thread starts each day
   const trio = el('div', { class: 'trio' }), tabs = el('div', { class: 'tabs', role: 'group', 'aria-labelledby': 'chooser-label' });
-  const title = el('h2', { class: 'thread-title' }), desc = el('p', { class: 'thread' });
+  const title = el('strong'), desc = el('span');
+  const words = (cat.tagline[1] || '').split(' ').map(w => el('span', { class: 'w' }, w));     // each word wears one poster's colour
   const toggle = el('button', { class: 'link tab-toggle', type: 'button' });
   const chooser = el('div', { class: 'chooser' }, el('span', { class: 'chooser-label', id: 'chooser-label' }, 'Choose a thread'), tabs, calm ? null : toggle);
-  const home = el('div', { class: 'home' }, chooser, trio,
+  const home = el('div', { class: 'home' }, chooser, el('p', { class: 'about' }, title, desc), trio,
     el('div', { class: 'words' },
-      el('h1', { class: 'tag' }, cat.tagline.map(t => el('span', null, t))),
-      el('div', { class: 'side' }, title, desc, el('p', { class: 'ask2' }, cat.question, el('span', { class: 'hint' }, ' Tap a poster.')))));
+      el('h1', { class: 'tag' }, el('span', null, cat.tagline[0]), el('span', null, words.flatMap((w, k) => (k ? [' ', w] : [w])))),
+      el('p', { class: 'ask2' }, cat.question, el('span', { class: 'hint' }, 'Tap a poster.'))));
   mount('home', home, null, false);
 
   let plates = [], timers = [], auto = !calm, hovering = false, elapsed = 0, flat = calm, turn = 0;
@@ -337,6 +338,7 @@ async function viewHome() {
     S.theme = i; elapsed = 0; flat = calm;
     const mine = ++turn, t = cat.themes[i];
     title.textContent = t.title; desc.textContent = t.description;
+    words.forEach((w, k) => { w.style.color = byId[t.ids[k % t.ids.length]].dark; });
     tabs.replaceChildren(...cat.themes.map((x, k) => on(
       el('button', { class: 'tab', type: 'button', 'aria-pressed': String(k === i) }, el('span', null, x.short), el('i', { 'aria-hidden': 'true' })),
       'click', () => { setAuto(false); show(k); })));

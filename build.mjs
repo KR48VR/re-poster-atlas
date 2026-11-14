@@ -59,6 +59,13 @@ function pickColours(palette, accent) {
   return { ground, ink };
 }
 
+// The same colour, lightened until words set in it can be read on the dark opening page.
+function onDark(hex) {
+  let c = hex;
+  for (let i = 0; i < 90 && contrast(c, '#101010') < 4.5; i++) { const o = oklch(c); o.L += 0.012; c = fromOklch(o); }
+  return c;
+}
+
 /* ---------- read the content ---------- */
 const home = read(join(C, 'home.json'));
 const layersAll = read(join(C, 'layers.json')).layers;
@@ -107,7 +114,7 @@ mkdirSync(OUT, { recursive: true });
 
 const catalogue = {
   total: posters.length, tagline: TAGLINE, question: QUESTION, record: RECORD_URL,
-  posters: posters.map(p => ({ id: p.id, n: p.n, title: p.title, when: p.when, yearNumber: p.yearNumber, country: p.country, countries: p.countries, category: p.category, creator: p.creator, ratio: p.ratio, ground: p.ground, ink: p.ink, blurb: p.blurb, alt: p.alt, layers: p.layers.length })),
+  posters: posters.map(p => ({ id: p.id, n: p.n, title: p.title, when: p.when, yearNumber: p.yearNumber, country: p.country, countries: p.countries, category: p.category, creator: p.creator, ratio: p.ratio, ground: p.ground, ink: p.ink, dark: onDark(p.ground), blurb: p.blurb, alt: p.alt, layers: p.layers.length })),
   themes: home.themes.map(t => ({ title: t.title, short: t.short, description: t.description, ids: t.ids, labels: t.labels })),
 };
 write(join(OUT, 'data', 'catalogue.json'), JSON.stringify(catalogue));
