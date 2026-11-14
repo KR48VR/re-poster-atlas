@@ -73,6 +73,7 @@ function onDark(hex) {
 const home = read(join(C, 'home.json'));
 const layersAll = read(join(C, 'layers.json')).layers;
 const overrides = existsSync(join(C, 'colours.json')) ? read(join(C, 'colours.json')) : {};
+const extraTours = existsSync(join(C, 'tours.json')) ? read(join(C, 'tours.json')).tours : {};   // tours drafted here, for posters whose study had none
 const tones = existsSync(join(C, 'layer-tones.json')) ? read(join(C, 'layer-tones.json')).posters : {};   // what each layer needs behind it to be seen (scripts/layer_tones.py)
 const EV = { documented: 'Documented', observation: 'In the image', interpretation: 'Visual reading', uncertain: 'Uncertain' };
 
@@ -102,6 +103,7 @@ const posters = home.order.map((id, i) => {
     tones: L && tones[id] && tones[id].film.length === L.labels.length ? tones[id] : null,
     readings: (s.connections || []).map(c => ({ label: c.label, title: c.title, text: c.text, layers: [...new Set((c.anchors || []).map(a => a[0]))] })),
     began: id === BEGAN.poster ? BEGAN.region : null,
+    tour: (Array.isArray(s.tour) && s.tour.length ? s.tour : extraTours[id] || []).filter(rid => (s.regions || []).some(r => r.id === rid)),   // a prepared order to walk the details in
     palette: (s.palette || []).map(c => ({ name: c.name, hex: c.hex, role: c.role || '' })), paletteNote: s.paletteNote || null,
     transcript: (s.transcript || []).map(t => ({ heading: t.heading, rows: (t.rows || []).map(r => ({ text: r.text || r.jp || '', meaning: r.meaning || r.en || '', lang: r.lang || (r.jp ? 'ja' : null) })) })),
     transcriptNote: s.transcriptNote || null,
@@ -453,5 +455,6 @@ write(join(OUT, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${SITE_URL}/si
 const low = posters.filter(p => contrast(p.ground, p.ink) < 4.5).map(p => p.id);
 console.log(`Threads: ${threads.length}, links: ${threads.reduce((n, t) => n + t.links.length, 0)}, posters on no thread: ${posters.filter(p => !p.regions.some(r => r.threads.length)).length}`);
 console.log(`Built ${posters.length} poster pages, ${posters.reduce((n, p) => n + p.regions.length, 0)} details, ${posters.reduce((n, p) => n + p.layers.length, 0)} layers.`);
+console.log(`Guided tours: ${posters.filter(p => p.tour.length).length} of ${posters.length} posters, ${posters.reduce((n, p) => n + p.tour.length, 0)} stops. Without a tour: ${posters.filter(p => !p.tour.length).map(p => p.id).join(', ') || 'none'}`);
 console.log(`Posters without layers: ${posters.filter(p => !p.layers.length).map(p => p.id).join(', ') || 'none'}`);
 console.log(`Pages whose text contrast is under 4.5 to 1: ${low.join(', ') || 'none'}`);

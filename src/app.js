@@ -34,6 +34,7 @@ function keyIcon() {
 /* ---------- what the site remembers while it is open ---------- */
 const S = { cat: null, posters: new Map(), memory: {}, leave: null, held: false, theme: null, threads: null };
 try { S.held = sessionStorage.getItem('pa-held') === '1'; } catch { /* private window: carry on without it */ }
+const tbtn = (text, fn) => on(el('button', { class: 'tgo', type: 'button' }, el('span', null, text), el('i', { 'aria-hidden': 'true' })), 'click', fn);   // the same, as a button
 const tgo = (path, text) => link(path, { class: 'tgo' }, el('span', null, text), el('i', { 'aria-hidden': 'true' }));   // a link drawn as a thread: words, then a fine line that lengthens
 const setHeld = v => { S.held = v; try { sessionStorage.setItem('pa-held', v ? '1' : '0'); } catch { /* fine */ } document.dispatchEvent(new CustomEvent('pa-key')); };
 const VER = document.querySelector('meta[name="pa-v"]')?.content || '';      // changes with every release, so saved copies of the data are never stale
@@ -143,6 +144,7 @@ async function viewPoster(id, firstLook) {
 
   const mem = (S.memory[id] ||= { trail: [], found: new Set() });
   let revealed = false, welcomed = !!firstLook || mem.trail.length > 0 || calm, layersOn = null, geo = null, staged = false;
+  let tour = null;                                    // on the guided tour: which stop, counting from 0. Otherwise null.
   const apart = () => P.input && +P.input.value > 0;
   const GROUNDS = { night: ['#141312', '#f1ede4'], paper: ['#f1ede4', '#141312'] };
   function stage(on) {                                // pulled apart, the poster stands on a quiet ground of its own, not on its own colour
@@ -153,6 +155,7 @@ async function viewPoster(id, firstLook) {
   }
   const region = rid => p.regions.find(r => r.id === rid);
   const last = () => mem.trail[mem.trail.length - 1];
+  const stops = (p.tour || []).map(rid => p.regions.find(r => r.id === rid)).filter(Boolean);    // the tour: a prepared order to walk the details in
 
   function regionAt(x, y) {
     const inside = p.regions.filter(r => x >= r.b[0] && x <= r.b[0] + r.b[2] && y >= r.b[1] && y <= r.b[1] + r.b[3]);
@@ -193,6 +196,15 @@ async function viewPoster(id, firstLook) {
     sheet.style.setProperty('--pully', Math.max(0, Math.round(H - 38 - 22 - ph)) + 'px');   // the pull bar goes to the foot of the page with the sheets' names above it
   }
   function drawMarks() {
+    if (tour !== null) {                               // on the tour the plate shows the whole prepared route, and where we are on it
+      const way = stops.slice(0, tour + 1).map(r => r.x + ',' + r.y).join(' ');      // the line grows as the tour goes; stops still to come show as fainter pins
+      P.casing.setAttribute('points', way); P.route.setAttribute('points', way);
+      P.marks.replaceChildren();
+      const b = stops[tour].b;
+      if (!(S.held && !revealed)) P.marks.append(el('div', { class: 'box', style: `left:${b[0]}%;top:${b[1]}%;width:${b[2]}%;height:${b[3]}%` }));
+      stops.forEach((r, i) => P.marks.append(el('span', { class: 'pin' + (i === tour ? ' now' : i > tour ? ' ahead' : ''), style: `left:${r.x}%;top:${r.y}%` }, String(i + 1))));
+      return;
+    }
     const pts = mem.trail.map(t => t.x + ',' + t.y).join(' ');
     P.casing.setAttribute('points', pts); P.route.setAttribute('points', pts);
     P.marks.replaceChildren();
@@ -281,28 +293,38 @@ async function viewPoster(id, firstLook) {
 
   function render() {
     drawMarks();
-    const l = last();
+    const l = last(), touring = tour !== null;
     let kids;
     if (apart() && !P.busy) kids = renderApart();
     else if (!welcomed) kids = [el('h1', { class: 'ask' }, S.cat.tagline.join(' '))];
-    else if (!l) {
+    else if (!l && !touring) {
       kids = [el('h1', { class: 'ask fade' }, S.cat.question),
         el('p', { class: 'lead' }, 'Tap that spot on the poster. There is no wrong place to start.'),
+        stops.length > 0 && el('p', { class: 'tourin' }, tbtn(`Or take the tour: ${stops.length} stops`, () => goTour(0))),
         el('p', { class: 'meta' }, el('strong', null, p.title), el('br'), [p.creator, p.country, p.when].filter(Boolean).join(' · ')),
         S.held ? null : el('p', { class: 'meta' }, p.blurb),
         p.began && !S.held ? el('p', { class: 'began' }, 'This is the poster that started Poster Atlas. ', el('a', { href: url('about/') + '#began' }, 'How it began')) : null,
         S.held ? null : extras()];
     } else {
-      const r = region(l.rid), here = P.gridRef(l.x, l.y);
+      const r = touring ? stops[tour] : region(l.rid), here = touring ? P.gridRef(r.x, r.y) : P.gridRef(l.x, l.y);
+      const lastStop = touring && tour === stops.length - 1;
+      const tourNav = () => el('div', { class: 'tournav' },              // the way along the tour, always in view
+        lastStop ? el('span', { class: 'tend' }, 'The tour ends here.') : tbtn(`Next: ${stops[tour + 1].label}`, () => goTour(tour + 1)),
+        tour > 0 && on(el('button', { class: 'link', type: 'button' }, '‹ Back'), 'click', () => goTour(tour - 1)),
+        lastStop && on(el('button', { class: 'link', type: 'button' }, 'Start again'), 'click', () => goTour(0)),
+        on(el('button', { class: 'link', type: 'button' }, lastStop ? 'Explore on your own' : 'Leave the tour'), 'click', leaveTour),
+        lastStop && tgo(`posters/${p.next.id}/#tour`, `Tour the next plate: ${p.next.title}`));
       if (S.held && !revealed) {
-        kids = [el('p', { class: 'where' }, `Look ${mem.trail.length} · ${here}`), el('p', { class: 'bigq fade' }, r.q),
-          el('div', null, on(el('button', { class: 'key turn', type: 'button', 'aria-label': 'Reveal the note' }, keyIcon()), 'click', reveal))];
+        kids = [el('p', { class: 'where' }, touring ? `Tour · stop ${tour + 1} of ${stops.length} · ${here}` : `Look ${mem.trail.length} · ${here}`), el('p', { class: 'bigq fade' }, r.q),
+          el('div', null, on(el('button', { class: 'key turn', type: 'button', 'aria-label': 'Reveal the note' }, keyIcon()), 'click', reveal)),
+          touring && tourNav()];
       } else {
         const also = r.related.map(region).filter(Boolean);
         kids = [
-          el('p', { class: 'where' }, l.exact ? `Look ${mem.trail.length} · you went to ${here}`
+          el('p', { class: 'where' }, touring ? `Tour · stop ${tour + 1} of ${stops.length} · ${here}` : l.exact ? `Look ${mem.trail.length} · you went to ${here}`
             : `Look ${mem.trail.length} · you went to ${here}. Nothing is written about that exact spot yet. The nearest detail is at ${P.gridRef(r.x, r.y)}.`),
           el('h2', { class: 'name' }, r.label), el('p', { class: 'sum' }, r.sum),
+          touring && tourNav(),
           p.began === r.id && !S.held ? el('p', { class: 'began' }, 'Reading about this brush-written line is what started Poster Atlas. ', el('a', { href: url('about/') + '#began' }, 'How it began')) : null,
           S.held ? null : r.threads.map(t => el('div', { class: 'follow' },          // right under the detail's name, where it is seen without scrolling
             el('p', { class: 'ft' }, el('span', { class: 'ev interpretation' }, el('i', { 'aria-hidden': 'true' }), 'Thread'), el('strong', null, t.name), el('span', null, t.idea)),
@@ -314,6 +336,7 @@ async function viewPoster(id, firstLook) {
             also.map(a => on(el('button', { type: 'button' }, `${P.gridRef(a.x, a.y)} ${a.short}`), 'click', () => look(a.x, a.y, a)))),
           el('p', { class: 'next' }, mem.found.size === p.regions.length
             ? `You have found all ${p.regions.length} details on this plate.` : `Where next? ${mem.found.size} of ${p.regions.length} details found.`),
+          !touring && stops.length > 0 && el('div', null, tbtn(`Take the tour: ${stops.length} stops`, () => goTour(0))),
           again(), S.held ? null : extras()];
       }
     }
@@ -321,7 +344,22 @@ async function viewPoster(id, firstLook) {
     panel.querySelector('.key.turn')?.focus({ preventScroll: true });     // Enter or Space then turns the key
   }
 
+  function goTour(i) {                                // step to a stop on the guided tour
+    if (P.busy || apart()) { P.settle(); stage(false); layersOn = null; }
+    tour = Math.max(0, Math.min(stops.length - 1, i)); const r = stops[tour];
+    mem.found.add(r.id); revealed = false; welcomed = true; render();
+    if (!S.held) { P.spot(r.layer, 1150); mark(r.id); }
+    if (narrow()) scrollTo({ top: 0, behavior: calm ? 'auto' : 'smooth' }); else panel.scrollTop = 0;
+  }
+  function leaveTour() { tour = null; revealed = false; mark(last() ? last().rid : null); render(); }
+  const onTourKey = e => {                            // a clicker or the arrow keys walk the tour
+    if (tour === null || e.altKey || e.ctrlKey || e.metaKey || /^(INPUT|SELECT|TEXTAREA)$/.test(e.target.tagName)) return;
+    if (e.key === 'ArrowRight' || e.key === 'PageDown') { e.preventDefault(); if (tour < stops.length - 1) goTour(tour + 1); }
+    else if (e.key === 'ArrowLeft' || e.key === 'PageUp') { e.preventDefault(); if (tour > 0) goTour(tour - 1); }
+    else if (e.key === 'Escape') leaveTour();
+  };
   function look(x, y, known) {
+    tour = null;                                       // a tap of your own leaves the tour
     if (P.busy || apart()) { P.settle(); stage(false); layersOn = null; }
     const hit = known ? { r: known, exact: true } : regionAt(x, y);
     mem.trail.push({ x: +x.toFixed(1), y: +y.toFixed(1), rid: hit.r.id, exact: hit.exact });
@@ -331,9 +369,9 @@ async function viewPoster(id, firstLook) {
   }
   const mark = rid => history.replaceState(null, '', location.pathname + (rid ? '#' + rid : ''));   // the address always names the detail on show
   function reveal() {                                 // the teacher turns the key: the poster opens on the answer
-    const l = last(); if (!l || P.busy) return;
-    P.flourish(0.62, 1200, 1.0, region(l.rid).layer, () => { revealed = true; mark(l.rid); render(); });
-    if (calm || !P.count) { revealed = true; mark(l.rid); render(); }
+    const l = last(), r = tour !== null ? stops[tour] : l && region(l.rid); if (!r || P.busy) return;
+    P.flourish(0.62, 1200, 1.0, r.layer, () => { revealed = true; mark(r.id); render(); });
+    if (calm || !P.count) { revealed = true; mark(r.id); render(); }
   }
 
   on(P.plate, 'click', e => {
@@ -355,14 +393,17 @@ async function viewPoster(id, firstLook) {
   const onKey = () => { revealed = false; welcomed = true; if (!P.busy) render(); };
   document.addEventListener('pa-key', onKey);
   addEventListener('resize', size);
-  S.leave = () => { P.stop(); document.removeEventListener('pa-key', onKey); removeEventListener('resize', size); };
+  document.addEventListener('keydown', onTourKey);
+  S.leave = () => { P.stop(); document.removeEventListener('pa-key', onKey); document.removeEventListener('keydown', onTourKey); removeEventListener('resize', size); };
 
   const linked = region(decodeURIComponent(location.hash.slice(1)));     // a link can point straight at one detail
-  const opening = !welcomed && !linked && P.count > 0;
+  const toTour = location.hash === '#tour' && stops.length > 0;          // or straight at the start of the tour
+  const opening = !welcomed && !linked && !toTour && P.count > 0;
   if (opening) P.openNow(0.8);                      // arrive layered, then come together
   size(); render();
   await P.ready();
   if (firstLook) look(firstLook[0], firstLook[1]);
+  else if (toTour) { P.settle(); goTour(0); }
   else if (linked) { P.settle(); look(linked.x, linked.y, linked); }
   else if (opening) P.collapse(1300, 1.2, () => { welcomed = true; render(); });
   else if (!welcomed) { welcomed = true; render(); }

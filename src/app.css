@@ -104,6 +104,7 @@ body[data-view="collection"] #app, body[data-view="page"] #app, body[data-view="
 .is-open svg.trail, .is-open .marks, .is-open .ref { opacity: 0; }
 .pin { position: absolute; transform: translate(-50%, -50%); width: 24px; height: 24px; border-radius: 50%; display: grid; place-items: center; background: var(--route); color: var(--casing); border: 2px solid var(--casing); font-size: 12px; font-weight: 700; pointer-events: none; }
 .pin.now { width: 32px; height: 32px; font-size: 14px; background: var(--casing); color: var(--route); border-color: var(--route); }
+.pin.ahead { width: 20px; height: 20px; font-size: 11px; opacity: .72; }   /* stops still to come on the guided tour */
 .box { position: absolute; border: 2px solid var(--route); box-shadow: 0 0 0 1px var(--casing), inset 0 0 0 1px var(--casing); pointer-events: none; }
 .ref { position: absolute; right: 0; bottom: 0; background: var(--casing); color: var(--route); padding: 2px 8px; font-size: 13px; font-variant-numeric: tabular-nums; pointer-events: none; }
 /* The pull bar sits under the plate like the scale bar on a map. */
@@ -267,6 +268,12 @@ body[data-view="home"] .bar-nav a:hover, .tab-toggle:hover { color: var(--ink); 
 .follow .ft { display: flex; flex-wrap: wrap; align-items: baseline; gap: 2px 12px; font-size: 17px; }
 .follow .ft strong { font-family: var(--display); font-weight: 800; font-size: 21px; font-optical-sizing: none; font-variation-settings: "opsz" 8; }
 .follow .fn { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 2px 24px; }
+/* The guided tour: the way along it sits right under the detail's name. */
+.tournav { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 26px; padding: 10px 0; border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); max-width: 36em; }
+.tournav .link { padding: 4px 0 2px; font-size: 16px; border-bottom-width: 1px; font-weight: 600; }
+.tournav .tend { font-family: var(--display); font-style: italic; font-weight: 600; font-size: 21px; }
+.tourin { margin: -6px 0 0; }
+button.tgo { text-align: left; }
 /* A link drawn as a thread: the words, then a fine line that lengthens when you reach for it. */
 .tgo { display: inline-flex; align-items: center; gap: 14px; padding: 4px 0; font-family: var(--display); font-style: italic; font-weight: 600; font-size: 21px; line-height: 1.25; text-decoration: none; font-optical-sizing: none; font-variation-settings: "opsz" 10; }
 .tgo i { position: relative; flex: none; display: block; width: 44px; height: 1px; background: currentColor; transition: width .35s cubic-bezier(.3, .7, .2, 1); }
