@@ -11,7 +11,7 @@ const C = join(ROOT, 'content');
 const OUT = join(ROOT, 'dist');
 const SITE_URL = (process.env.SITE_URL || 'https://kr48vr.github.io/re-poster-atlas').replace(/\/$/, '');
 const RECORD_URL = 'https://claude.ai/artifact/6b8VcjxP12aoZZqoQekWxo';
-const TAGLINE = ['Made for a glance.', 'Worth a long look.'];
+const TAGLINE = ['Look by layers.', 'See more worlds.'];
 const QUESTION = 'Where does your eye go first?';
 
 const read = p => JSON.parse(readFileSync(p, 'utf8'));
