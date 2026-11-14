@@ -31,7 +31,7 @@ function keyIcon() {
 }
 
 /* ---------- what the site remembers while it is open ---------- */
-const S = { cat: null, posters: new Map(), memory: {}, leave: null, held: false, theme: null };
+const S = { cat: null, posters: new Map(), memory: {}, leave: null, held: false, theme: null, threads: null };
 try { S.held = sessionStorage.getItem('pa-held') === '1'; } catch { /* private window: carry on without it */ }
 const setHeld = v => { S.held = v; try { sessionStorage.setItem('pa-held', v ? '1' : '0'); } catch { /* fine */ } document.dispatchEvent(new CustomEvent('pa-key')); };
 const getJSON = async p => { const r = await fetch(url(p)); if (!r.ok) throw new Error(p); return r.json(); };
@@ -113,7 +113,7 @@ function mount(view, node, mid, withKey) {
   const bar = el('header', { class: 'bar' },
     link('', { class: 'mark' }, 'Poster Atlas', el('span', { class: 'sub-mark' }, 'Posters, book covers & more')),
     el('span', { class: 'mid' }, withKey ? key : null, mid),
-    el('nav', { class: 'bar-nav', 'aria-label': 'Site' }, link('collection/', null, 'Collection'), el('a', { href: url('teachers/') }, 'For teachers'), el('a', { href: url('about/') }, 'About')));
+    el('nav', { class: 'bar-nav', 'aria-label': 'Site' }, link('collection/', null, 'Collection'), link('threads/', null, 'Threads'), el('a', { href: url('teachers/') }, 'For teachers'), el('a', { href: url('about/') }, 'About')));
   const main = el('main', { id: 'main', tabindex: '-1' }, node);
   document.getElementById('app').replaceChildren(bar, main);
   return main;
@@ -194,7 +194,7 @@ async function viewPoster(id, firstLook) {
       p.sources.length > 0 && el('p', { class: 'small' }, 'Sources used on this plate:'),
       p.sources.map(s => el('p', { class: 'small' }, s.url ? el('a', { href: s.url, target: '_blank', rel: 'noopener' }, s.title) : s.title, s.kind ? ` (${s.kind})` : ''))));
   const extras = () => [indexList(), wordsList(), coloursList(), aboutPlate()];
-  const again = () => el('div', null, on(el('button', { class: 'link', type: 'button' }, 'Start this plate again'), 'click', () => { mem.trail = []; mem.found = new Set(); revealed = false; render(); }));
+  const again = () => el('div', null, on(el('button', { class: 'link', type: 'button' }, 'Start this plate again'), 'click', () => { mem.trail = []; mem.found = new Set(); revealed = false; mark(null); render(); }));
 
   const secNode = s => el('div', { class: 'sec' },
     el('h3', null, s.h),
@@ -254,6 +254,11 @@ async function viewPoster(id, firstLook) {
           S.held ? null : el('p', { class: 'question' }, el('small', null, 'A question to take with you'), r.q),
           also.length > 0 && el('div', { class: 'also' }, el('span', null, 'Connected on this plate'),
             also.map(a => on(el('button', { type: 'button' }, `${P.gridRef(a.x, a.y)} ${a.short}`), 'click', () => look(a.x, a.y, a)))),
+          r.threads.map(t => el('div', { class: 'follow' },
+            el('span', { class: 'ev interpretation' }, el('i', { 'aria-hidden': 'true' }), `Thread · ${t.name}`),
+            el('p', null, t.idea),
+            link(`posters/${t.next.poster}/#${t.next.region}`, { class: 'go' }, `Next on this thread: ${t.next.title}`),
+            el('p', { class: 'small' }, `${t.next.label}. `, link(`threads/${t.id}/`, null, `See all ${t.count} on this thread`)))),
           el('p', { class: 'next' }, mem.found.size === p.regions.length
             ? `You have found all ${p.regions.length} details on this plate.` : `Where next? ${mem.found.size} of ${p.regions.length} details found.`),
           again(), S.held ? null : extras()];
@@ -268,13 +273,14 @@ async function viewPoster(id, firstLook) {
     const hit = known ? { r: known, exact: true } : regionAt(x, y);
     mem.trail.push({ x: +x.toFixed(1), y: +y.toFixed(1), rid: hit.r.id, exact: hit.exact });
     mem.found.add(hit.r.id); revealed = false; welcomed = true; render();
-    if (!S.held) P.spot(hit.r.layer, 1150);          // the layer you touched steps forward for a moment
+    if (!S.held) { P.spot(hit.r.layer, 1150); mark(hit.r.id); }   // the layer you touched steps forward for a moment
     if (narrow()) scrollTo({ top: 0, behavior: calm ? 'auto' : 'smooth' }); else panel.scrollTop = 0;
   }
+  const mark = rid => history.replaceState(null, '', location.pathname + (rid ? '#' + rid : ''));   // the address always names the detail on show
   function reveal() {                                 // the teacher turns the key: the poster opens on the answer
     const l = last(); if (!l || P.busy) return;
-    P.flourish(0.62, 1200, 1.0, region(l.rid).layer, () => { revealed = true; render(); });
-    if (calm || !P.count) { revealed = true; render(); }
+    P.flourish(0.62, 1200, 1.0, region(l.rid).layer, () => { revealed = true; mark(l.rid); render(); });
+    if (calm || !P.count) { revealed = true; mark(l.rid); render(); }
   }
 
   on(P.plate, 'click', e => {
@@ -295,11 +301,13 @@ async function viewPoster(id, firstLook) {
   addEventListener('resize', size);
   S.leave = () => { P.stop(); document.removeEventListener('pa-key', onKey); removeEventListener('resize', size); };
 
-  const opening = !welcomed && P.count > 0;
+  const linked = region(decodeURIComponent(location.hash.slice(1)));     // a link can point straight at one detail
+  const opening = !welcomed && !linked && P.count > 0;
   if (opening) P.openNow(0.8);                      // arrive layered, then come together
   size(); render();
   await P.ready();
   if (firstLook) look(firstLook[0], firstLook[1]);
+  else if (linked) { P.settle(); look(linked.x, linked.y, linked); }
   else if (opening) P.collapse(1300, 1.2, () => { welcomed = true; render(); });
   else if (!welcomed) { welcomed = true; render(); }
 }
@@ -314,8 +322,9 @@ async function viewHome() {
   const title = el('strong'), desc = el('span');
   const words = (cat.tagline[1] || '').split(' ').map(w => el('span', { class: 'w' }, w));     // each word wears one poster's colour
   const toggle = el('button', { class: 'link tab-toggle', type: 'button' });
+  const more = el('span', { class: 'about-more' });
   const chooser = el('div', { class: 'chooser' }, el('span', { class: 'chooser-label', id: 'chooser-label' }, 'Choose a thread'), tabs, calm ? null : toggle);
-  const home = el('div', { class: 'home' }, chooser, el('p', { class: 'about' }, title, desc), trio,
+  const home = el('div', { class: 'home' }, chooser, el('p', { class: 'about' }, title, desc, more), trio,
     el('div', { class: 'words' },
       el('h1', { class: 'tag' }, el('span', null, cat.tagline[0]), el('span', null, words.flatMap((w, k) => (k ? [' ', w] : [w])))),
       el('p', { class: 'ask2' }, cat.question, el('span', { class: 'hint' }, 'Tap a poster.'))));
@@ -339,6 +348,7 @@ async function viewHome() {
     const mine = ++turn, t = cat.themes[i];
     title.textContent = t.title; desc.textContent = t.description;
     words.forEach((w, k) => { w.style.color = byId[t.ids[k % t.ids.length]].dark; });
+    more.replaceChildren(t.thread ? link(`threads/${t.thread}/`, null, 'Follow this thread') : '', ' · ', link('threads/', null, `All ${cat.threads.length} threads`));
     tabs.replaceChildren(...cat.themes.map((x, k) => on(
       el('button', { class: 'tab', type: 'button', 'aria-pressed': String(k === i) }, el('span', null, x.short), el('i', { 'aria-hidden': 'true' })),
       'click', () => { setAuto(false); show(k); })));
@@ -417,12 +427,59 @@ async function viewCollection() {
   draw();
 }
 
+/* ---------- threads: one idea followed across posters ---------- */
+const loadThreads = async () => (S.threads ||= await getJSON('data/threads.json'));
+const readingNote = () => el('p', { class: 'evnote' }, el('span', { class: 'ev interpretation' }, el('i', { 'aria-hidden': 'true' }), 'Visual reading'),
+  ' Threads are a way of seeing details together. They are not a claim about how any poster was made.');
+
+async function viewThreads() {
+  const T = await loadThreads();
+  colours('#f3f2ee', '#141414');
+  document.title = 'Threads · Poster Atlas';
+  mount('threads', el('div', { class: 'coll' },
+    el('h1', null, 'Threads'),
+    el('p', { class: 'lead' }, 'A thread is one idea that turns up on many posters. Pick one and follow it across countries and decades.'),
+    readingNote(),
+    el('nav', { class: 'filters', 'aria-label': 'All threads' }, T.map(t => link(`threads/${t.id}/`, { class: 'tlink' }, t.name))),
+    T.map(t => el('section', { class: 'trow' },
+      el('div', { class: 'trow-head' },
+        el('h2', null, link(`threads/${t.id}/`, null, t.name)),
+        el('p', { class: 'trow-line' }, t.headline),
+        el('p', { class: 'meta' }, `${t.idea} ${t.links.length} posters, ${t.links[0].year} to ${t.links[t.links.length - 1].year}.`)),
+      el('div', { class: 'strip' }, t.links.map(l => link(`posters/${l.poster}/#${l.region}`, { class: 'chip', style: `--g:${l.ground}`, title: `${l.title} · ${l.label}`, 'aria-label': `${l.title}: ${l.label}` },
+        el('img', { src: url(`img/thumb/${l.poster}.webp`), alt: '', loading: 'lazy' }))))))), null, false);
+}
+
+// Where a poster of a given shape sits inside the picture area of a card (which is 0.759 wide for every 1 tall).
+const fit = r => { const w = r <= 0.759 ? r / 0.759 * 100 : 100, h = r <= 0.759 ? 100 : 0.759 / r * 100; return `width:${w.toFixed(2)}%;height:${h.toFixed(2)}%;left:${((100 - w) / 2).toFixed(2)}%;top:${((100 - h) / 2).toFixed(2)}%`; };
+
+async function viewThread(id) {
+  const T = await loadThreads(), i = T.findIndex(t => t.id === id), t = T[i];
+  const before = T[(i + T.length - 1) % T.length], after = T[(i + 1) % T.length];
+  colours('#f3f2ee', '#141414');
+  document.title = `${t.name} · Threads · Poster Atlas`;
+  mount('thread', el('div', { class: 'coll' },
+    el('p', { class: 'where' }, link('threads/', null, 'Threads'), ` · ${i + 1} of ${T.length}`),
+    el('h1', null, t.name),
+    el('p', { class: 'lead' }, el('strong', null, t.headline), ' ', t.idea),
+    el('p', { class: 'meta' }, `${t.links.length} posters, from ${t.links[0].year} to ${t.links[t.links.length - 1].year}, oldest first. Each opens at the detail outlined.`),
+    readingNote(),
+    el('div', { class: 'wall' }, t.links.map(l => link(`posters/${l.poster}/#${l.region}`, { class: 'tile' },
+      el('span', { class: 'sw', style: `--g:${l.ground}` }, el('span', { class: 'pic' },
+        el('span', { style: fit(l.ratio) },
+          el('img', { src: url(`img/thumb/${l.poster}.webp`), alt: '', loading: 'lazy' }),
+          el('i', { style: `left:${l.b[0]}%;top:${l.b[1]}%;width:${l.b[2]}%;height:${l.b[3]}%`, 'aria-hidden': 'true' })))),
+      el('span', { class: 't' }, l.label), el('span', { class: 'm' }, l.sum), el('span', { class: 'm' }, `${l.title} · ${l.country} · ${l.when}`)))),
+    el('p', { class: 'between' }, link(`threads/${before.id}/`, { class: 'link' }, `‹ ${before.name}`), link(`threads/${after.id}/`, { class: 'link' }, `${after.name} ›`))), null, false);
+}
+
 /* ---------- finding the right view for the address ---------- */
 function where() {
   const path = location.pathname.startsWith(BASE) ? location.pathname.slice(BASE.length) : '';
   const seg = path.split('/').filter(Boolean);
   if (seg[0] === 'posters' && seg[1]) return { view: 'poster', id: seg[1] };
   if (seg[0] === 'collection') return { view: 'collection' };
+  if (seg[0] === 'threads') return seg[1] ? { view: 'thread', id: seg[1] } : { view: 'threads' };
   return { view: 'home' };
 }
 async function route(state, first) {
@@ -432,6 +489,8 @@ async function route(state, first) {
     S.cat ||= await getJSON('data/catalogue.json');
     if (w.view === 'poster' && S.cat.posters.some(p => p.id === w.id)) await viewPoster(w.id, state?.look || null);
     else if (w.view === 'collection') await viewCollection();
+    else if (w.view === 'thread' && S.cat.threads.some(t => t.id === w.id)) await viewThread(w.id);
+    else if (w.view === 'threads' || w.view === 'thread') await viewThreads();
     else await viewHome();
   } catch (e) {
     document.getElementById('main')?.prepend(el('p', { class: 'lead' }, 'This page could not be loaded. Reload to try again.'));

@@ -86,7 +86,7 @@ const posters = home.order.map((id, i) => {
     ratio: +(+p.ratio).toFixed(4), alt: p.alt, blurb: p.blurb, intro: s.intro, ...colours,
     regions: s.regions.map(r => ({
       id: r.id, n: r.number, label: r.label, short: r.shortLabel || r.label, sum: r.summary, x: r.x, y: r.y,
-      b: [r.bounds.x, r.bounds.y, r.bounds.w, r.bounds.h], layer: r.layerIndex ?? 0, q: r.question, related: r.related || [],
+      b: [r.bounds.x, r.bounds.y, r.bounds.w, r.bounds.h], layer: r.layerIndex ?? 0, q: r.question, related: r.related || [], threads: [],
       secs: r.sections.map(x => ({
         kind: x.kind, h: x.heading, body: x.body, ev: x.evidence,
         orig: (x.originalText || x.japanese) ? { text: x.originalText || x.japanese, lang: x.lang || (x.japanese ? 'ja' : null), reading: x.reading || null, translation: x.translation || null } : null,
@@ -108,6 +108,21 @@ posters.forEach((p, i) => {
   p.prev = { id: a.id, title: a.title }; p.next = { id: b.id, title: b.title };
 });
 
+/* ---------- threads: one idea followed across posters, oldest first ---------- */
+const threads = read(join(C, 'threads.json')).map(t => ({
+  id: t.id, name: t.name, headline: t.headline, idea: t.idea, fromKing: !!t.fromKing,
+  links: t.links.map(l => {
+    const p = byId[l.poster], r = p && p.regions.find(x => x.id === l.region);
+    if (!r) throw new Error(`Thread ${t.id}: ${l.poster}/${l.region} is not in the studies`);
+    return { poster: p.id, title: p.title, country: p.country, when: p.when, year: p.yearNumber, ratio: p.ratio, ground: p.ground, region: r.id, label: r.label, sum: r.sum, b: r.b };
+  }).sort((x, y) => x.year - y.year),
+}));
+for (const t of threads) t.links.forEach((l, i) => {
+  const next = t.links[(i + 1) % t.links.length];
+  byId[l.poster].regions.find(r => r.id === l.region).threads.push({ id: t.id, name: t.name, idea: t.idea, count: t.links.length,
+    next: { poster: next.poster, region: next.region, title: next.title, label: next.label } });
+});
+
 /* ---------- write the site ---------- */
 rmSync(OUT, { recursive: true, force: true });
 mkdirSync(OUT, { recursive: true });
@@ -115,10 +130,12 @@ mkdirSync(OUT, { recursive: true });
 const catalogue = {
   total: posters.length, tagline: TAGLINE, question: QUESTION, record: RECORD_URL,
   posters: posters.map(p => ({ id: p.id, n: p.n, title: p.title, when: p.when, yearNumber: p.yearNumber, country: p.country, countries: p.countries, category: p.category, creator: p.creator, ratio: p.ratio, ground: p.ground, ink: p.ink, dark: onDark(p.ground), blurb: p.blurb, alt: p.alt, layers: p.layers.length })),
-  themes: home.themes.map(t => ({ title: t.title, short: t.short, description: t.description, ids: t.ids, labels: t.labels })),
+  themes: home.themes.map(t => ({ title: t.title, short: t.short, description: t.description, ids: t.ids, labels: t.labels, thread: (threads.find(x => x.name === t.short) || {}).id || null })),
+  threads: threads.map(t => ({ id: t.id, name: t.name, headline: t.headline, count: t.links.length })),
 };
 write(join(OUT, 'data', 'catalogue.json'), JSON.stringify(catalogue));
 for (const p of posters) write(join(OUT, 'data', 'posters', p.id + '.json'), JSON.stringify(p));
+write(join(OUT, 'data', 'threads.json'), JSON.stringify(threads));
 
 cpSync(join(C, 'images', 'catalogue'), join(OUT, 'img', 'poster'), { recursive: true });
 cpSync(join(C, 'images', 'thumb'), join(OUT, 'img', 'thumb'), { recursive: true });
@@ -151,7 +168,8 @@ const page = ({ root, path, title, description, image, ground, ink, view, id, bo
 <meta name="theme-color" content="${ground}">
 <link rel="canonical" href="${SITE_URL}/${path}">
 <link rel="icon" href="${root}favicon.svg" type="image/svg+xml">
-<link rel="preload" as="font" type="font/woff2" href="${root}fonts/latin-700-normal.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="${root}fonts/bodoni-moda-latin-normal.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="${root}fonts/instrument-sans-latin-normal.woff2" crossorigin>
 <link rel="stylesheet" href="${root}app.css">
 <meta name="pa-root" content="${root}">
 <style>:root{--ground:${ground};--ink:${ink}}</style>
@@ -159,7 +177,7 @@ const page = ({ root, path, title, description, image, ground, ink, view, id, bo
 <body data-view="${view}"${id ? ` data-id="${id}"` : ''}>
 <a class="skip" href="#main">Skip to the content</a>
 <div id="app">
-<header class="bar"><a class="mark" href="${root}">Poster Atlas<span class="sub-mark">Posters, book covers &amp; more</span></a><nav class="bar-nav"><a href="${root}collection/">Collection</a><a href="${root}teachers/">For teachers</a></nav></header>
+<header class="bar"><a class="mark" href="${root}">Poster Atlas<span class="sub-mark">Posters, book covers &amp; more</span></a><nav class="bar-nav"><a href="${root}collection/">Collection</a><a href="${root}threads/">Threads</a><a href="${root}teachers/">For teachers</a></nav></header>
 <main id="main" class="plain">
 ${body}
 </main>
@@ -180,6 +198,17 @@ write(join(OUT, 'collection', 'index.html'), page({
   root: '../', path: 'collection/', title: 'The collection · Poster Atlas', description: `All ${posters.length} posters and book covers in the Poster Atlas, from 1891 to 2026.`,
   image: 'img/full/' + share[first.id], ground: '#f3f2ee', ink: '#141414', view: 'collection',
   body: `<h1>The collection</h1><ol>${posters.map(p => `<li><a href="../posters/${p.id}/">${esc(p.title)}</a>, ${esc(p.country)}, ${esc(p.when)}</li>`).join('')}</ol>`,
+}));
+
+write(join(OUT, 'threads', 'index.html'), page({
+  root: '../', path: 'threads/', title: 'Threads · Poster Atlas', description: `${threads.length} ideas that turn up on many posters. Pick one and follow it across countries and decades.`,
+  image: 'img/full/' + share[first.id], ground: '#f3f2ee', ink: '#141414', view: 'threads',
+  body: `<h1>Threads</h1><p>A thread is one idea that turns up on many posters.</p>${threads.map(t => `<h2><a href="./${t.id}/">${esc(t.name)}</a></h2><p>${esc(t.headline)} ${esc(t.idea)}</p><ul>${t.links.map(l => `<li><a href="../posters/${l.poster}/#${l.region}">${esc(l.title)}: ${esc(l.label)}</a></li>`).join('')}</ul>`).join('')}`,
+}));
+for (const t of threads) write(join(OUT, 'threads', t.id, 'index.html'), page({
+  root: '../../', path: `threads/${t.id}/`, title: `${t.name} · Threads · Poster Atlas`, description: `${t.headline} ${t.idea} Followed across ${t.links.length} posters.`,
+  image: 'img/full/' + share[t.links[0].poster], ground: '#f3f2ee', ink: '#141414', view: 'thread', id: t.id,
+  body: `<h1>${esc(t.name)}</h1><p>${esc(t.headline)} ${esc(t.idea)}</p><ol>${t.links.map(l => `<li><a href="../../posters/${l.poster}/#${l.region}">${esc(l.title)}, ${esc(l.country)}, ${esc(l.when)}</a>: ${esc(l.label)}. ${esc(l.sum)}</li>`).join('')}</ol>`,
 }));
 
 for (const p of posters) {
@@ -210,6 +239,9 @@ prose('../', 'teachers/', 'For teachers', 'How to use Poster Atlas with a class:
 <h2>Pull the poster apart</h2>
 <p>The bar under each poster runs from Together to Apart. Drag it to separate the poster into its layers. The list beside it names each layer, and choosing one lights it up.</p>
 <p>The layers show what is visible in the artwork. They are not the original production separations.</p>
+<h2>Threads</h2>
+<p>A thread is one idea, such as scale or gesture, followed across many posters. Under a detail's note you will find the thread it belongs to and the next poster on it. The <a href="../threads/">threads page</a> shows all ${threads.length} at once, which makes a ready-made lesson: one idea, a dozen posters, several countries and decades.</p>
+<p>Threads are visual readings. They are a way of seeing details together, and students can argue with them.</p>
 <h2>How sure is each note?</h2>
 <p>Every note carries one of four marks.</p>
 <ul>
@@ -236,10 +268,11 @@ prose('../', 'about/', 'About', 'What Poster Atlas is, how its notes are sourced
 
 write(join(OUT, '404.html'), page({ root: '/re-poster-atlas/', path: '404.html', title: 'Not found · Poster Atlas', description: 'That page is not in the Atlas.', image: 'img/full/' + share[first.id], ground: '#f3f2ee', ink: '#141414', view: 'page',
   body: `<article class="prose"><h1>That page is not in the Atlas.</h1><p><a href="/re-poster-atlas/">Go to the opening page</a> or <a href="/re-poster-atlas/collection/">browse the collection</a>.</p></article>` }));
-write(join(OUT, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${['', 'collection/', 'teachers/', 'about/', ...posters.map(p => `posters/${p.id}/`)].map(u => `<url><loc>${SITE_URL}/${u}</loc></url>`).join('\n')}\n</urlset>\n`);
+write(join(OUT, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${['', 'collection/', 'threads/', ...threads.map(t => `threads/${t.id}/`), 'teachers/', 'about/', ...posters.map(p => `posters/${p.id}/`)].map(u => `<url><loc>${SITE_URL}/${u}</loc></url>`).join('\n')}\n</urlset>\n`);
 write(join(OUT, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${SITE_URL}/sitemap.xml\n`);
 
 const low = posters.filter(p => contrast(p.ground, p.ink) < 4.5).map(p => p.id);
+console.log(`Threads: ${threads.length}, links: ${threads.reduce((n, t) => n + t.links.length, 0)}, posters on no thread: ${posters.filter(p => !p.regions.some(r => r.threads.length)).length}`);
 console.log(`Built ${posters.length} poster pages, ${posters.reduce((n, p) => n + p.regions.length, 0)} details, ${posters.reduce((n, p) => n + p.layers.length, 0)} layers.`);
 console.log(`Posters without layers: ${posters.filter(p => !p.layers.length).map(p => p.id).join(', ') || 'none'}`);
 console.log(`Pages whose text contrast is under 4.5 to 1: ${low.join(', ') || 'none'}`);

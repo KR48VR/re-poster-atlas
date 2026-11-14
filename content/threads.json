@@ -145,6 +145,26 @@
     "label": "The tall red title",
     "sum": "Narrow letters form a vivid horizontal band.",
     "fromKing": false
+   },
+   {
+    "poster": "casablanca",
+    "region": "red-title",
+    "title": "Casablanca",
+    "country": "United States",
+    "year": 1942,
+    "label": "Red script",
+    "sum": "One colour changes the lower half of the poster.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-god-of-small-things",
+    "region": "bud",
+    "title": "The God of Small Things",
+    "country": "India",
+    "year": 1998,
+    "label": "A pink bud interrupts dark water",
+    "sum": "A small pink bud rises between broad leaves.",
+    "fromKing": false
    }
   ]
  },
@@ -712,6 +732,46 @@
     "label": "The pale circular frame",
     "sum": "A round field gathers separate portraits.",
     "fromKing": false
+   },
+   {
+    "poster": "sholay",
+    "region": "portraits",
+    "title": "Sholay",
+    "country": "India",
+    "year": 1975,
+    "label": "Six framed faces",
+    "sum": "A row gives several performers a comparable visual unit.",
+    "fromKing": false
+   },
+   {
+    "poster": "visit-palestine",
+    "region": "trunk",
+    "title": "Visit Palestine",
+    "country": "Mandatory Palestine",
+    "year": 1936,
+    "label": "The tree as a side frame",
+    "sum": "A dark trunk links canopy and lower title field.",
+    "fromKing": false
+   },
+   {
+    "poster": "amores-perros",
+    "region": "portrait-band",
+    "title": "Amores perros",
+    "country": "Mexico",
+    "year": 2000,
+    "label": "Three-face strip",
+    "sum": "A narrow band contains the main human images.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-my-sister-serial-killer",
+    "region": "seams",
+    "title": "My Sister, the Serial Killer",
+    "country": "Nigeria",
+    "year": 2018,
+    "label": "Two irregular white lines divide the cover",
+    "sum": "Two white jagged seams run horizontally across the cover, separating the upper tableau, central faces and lower title.",
+    "fromKing": false
    }
   ]
  },
@@ -901,6 +961,26 @@
     "label": "A diagonal from the open mouth",
     "sum": "An orange streak cuts across the upright forms.",
     "fromKing": false
+   },
+   {
+    "poster": "cairo-station",
+    "region": "rails",
+    "title": "Cairo Station",
+    "country": "Egypt",
+    "year": 1958,
+    "label": "The converging rails",
+    "sum": "A narrow route leads towards the engine.",
+    "fromKing": false
+   },
+   {
+    "poster": "la-dolce-vita",
+    "region": "fabric",
+    "title": "La Dolce Vita",
+    "country": "Italy / France",
+    "year": 1960,
+    "label": "The red sweeping form",
+    "sum": "A warm curve links the upper figure to the lower edge.",
+    "fromKing": false
    }
   ]
  },
@@ -1079,6 +1159,26 @@
     "year": 1954,
     "label": "A distant hillside",
     "sum": "Tiny silhouettes extend the world above.",
+    "fromKing": false
+   },
+   {
+    "poster": "secret-in-their-eyes",
+    "region": "tiny-figures",
+    "title": "The Secret in Their Eyes",
+    "country": "Argentina / Spain",
+    "year": 2009,
+    "label": "Distant figures",
+    "sum": "Two small silhouettes make the station measurable.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-kampung-boy",
+    "region": "tree",
+    "title": "Kampung Boy — Tamil edition",
+    "country": "Malaysia",
+    "year": 2011,
+    "label": "Large foreground trunk",
+    "sum": "One tall form gives the figures their scale.",
     "fromKing": false
    }
   ]
@@ -1398,6 +1498,26 @@
     "label": "Three huge red characters",
     "sum": "The name is another towering presence.",
     "fromKing": false
+   },
+   {
+    "poster": "book-sahaj-path",
+    "region": "outline",
+    "title": "Sahaj Path",
+    "country": "India",
+    "year": 1930,
+    "label": "White contours keep letters distinct",
+    "sum": "White contours follow the large black title bodies.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-seven-moons-of-maali-almeida",
+    "region": "title",
+    "title": "The Seven Moons of Maali Almeida",
+    "country": "India",
+    "year": 2022,
+    "label": "A title crosses the whole face",
+    "sum": "The title forms a tall stack of white words from the forehead to the chin.",
+    "fromKing": false
    }
   ]
  },
@@ -1546,6 +1666,36 @@
     "year": 1943,
     "label": "The unoccupied yellow field",
     "sum": "A strong flat colour lets the silhouette read clearly.",
+    "fromKing": false
+   },
+   {
+    "poster": "central-station",
+    "region": "wall",
+    "title": "Central Station",
+    "country": "Brazil / France",
+    "year": 1998,
+    "label": "The broad pale wall",
+    "sum": "An ordinary surface becomes a large field for words.",
+    "fromKing": false
+   },
+   {
+    "poster": "timbuktu",
+    "region": "sand",
+    "title": "Timbuktu",
+    "country": "Mauritania / France",
+    "year": 2014,
+    "label": "An expansive sandy ground",
+    "sum": "Warm space surrounds a compact tree and figure.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-the-little-prince",
+    "region": "space",
+    "title": "The Little Prince",
+    "country": "France",
+    "year": 1946,
+    "label": "Paper gives the scene room",
+    "sum": "Large intervals of cream paper remain between the title, small stars and painted figure.",
     "fromKing": false
    }
   ]
@@ -1725,6 +1875,16 @@
     "year": 1908,
     "label": "A small echo in the pool",
     "sum": "A dark vertical trace repeats the figure below.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-pride-and-prejudice",
+    "region": "feather-eyes",
+    "title": "Pride and Prejudice",
+    "country": "United Kingdom",
+    "year": 1894,
+    "label": "Repeated eyes across the cloth",
+    "sum": "Loops enclose smaller dark centres at the tips of many feather strands.",
     "fromKing": false
    }
   ]
@@ -2073,6 +2233,16 @@
     "year": 1994,
     "label": "A paperback inside a paperback-like poster",
     "sum": "The prop echoes the design of the whole sheet.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-rayuela",
+    "region": "wear",
+    "title": "Rayuela",
+    "country": "Argentina",
+    "year": 1963,
+    "label": "The edge belongs to a particular copy",
+    "sum": "The dark cover is bordered by scuffed, uneven pale areas.",
     "fromKing": false
    }
   ]
@@ -2441,6 +2611,26 @@
     "year": 2026,
     "label": "A direct portrait meets the reader",
     "sum": "The photographic face looks outward from the lower half of the cover.",
+    "fromKing": false
+   },
+   {
+    "poster": "joyland",
+    "region": "eyes",
+    "title": "Joyland",
+    "country": "Pakistan / United States",
+    "year": 2022,
+    "label": "Two unequal eyes",
+    "sum": "The eyes are differently exposed by the overlapping forms.",
+    "fromKing": false
+   },
+   {
+    "poster": "lagaan",
+    "region": "lagaan-central-face",
+    "title": "Lagaan",
+    "country": "India",
+    "year": 2001,
+    "label": "The central face looks outward",
+    "sum": "A smaller head anchors a larger body.",
     "fromKing": false
    }
   ]

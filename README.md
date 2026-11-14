@@ -42,4 +42,4 @@ Then open `http://localhost:8000`.
 ## Credits
 
 The notes, selection and idea are King's. Image credits and sources are shown on each poster's page.
-The typeface is Atkinson Hyperlegible, from the Braille Institute, used under the SIL Open Font License.
+The typefaces are Bodoni Moda for the big lines and Instrument Sans for reading. Both are used under the SIL Open Font License, and their licences are in `src/fonts/`.
