@@ -88,6 +88,10 @@ body[data-view="collection"] #app, body[data-view="page"] #app, body[data-view="
 .plane::before { content: ""; position: absolute; inset: 0; opacity: 0; transition: opacity .3s ease; }
 .plane.film-night::before { background: var(--night); }
 .plane.film-paper::before { background: var(--paper); }
+/* Each sheet carries the pins of the details that sit on it. They show only when the poster is apart. */
+.lpin { position: absolute; transform: translate(-50%, -50%); width: 42px; height: 42px; display: grid; place-items: center; border-radius: 50%; background: var(--route); color: var(--casing); border: 3px solid var(--casing); font-size: 22px; font-weight: 700; line-height: 1; opacity: 0; transition: opacity .3s ease; pointer-events: none; }
+.plate.wide.is-open .lpin { opacity: 1; transition-delay: .5s; }
+.plate.wide .plane.on .lpin { background: var(--casing); color: var(--route); border-color: var(--route); }
 /* Pulled apart across the page: every sheet turns the same way and stands beside the next, first layer on the left. */
 .plate.wide { perspective: none; }
 .plate.wide .stack { transform-style: flat; transform: translate(calc(var(--open) * var(--sx, 0) * 1px), calc(var(--open) * var(--sy, 0) * 1px)); }
@@ -131,6 +135,13 @@ main { min-height: 0; min-width: 0; }
 .tags button { display: grid; justify-items: center; gap: 2px; width: 100%; padding: 6px 8px 8px; text-align: center; }
 .tags .num { font-family: var(--display); font-weight: 800; font-size: 22px; line-height: 1; font-optical-sizing: none; font-variation-settings: "opsz" 8; }
 .tags strong { font-size: 15px; font-weight: 500; line-height: 1.25; text-wrap: balance; }
+.tags .top { display: flex; align-items: baseline; gap: 8px; }
+.tags .cnt { font-size: 13px; color: var(--soft); white-space: nowrap; }
+.afoot .onit { font-size: 15px; gap: 0 18px; }
+.afoot .onit button { padding: 4px 0; }
+.onit { margin-top: 2px; }
+.onit button b { font-variant-numeric: tabular-nums; }
+.rows .onit { padding: 0 0 12px calc(2em + 8px); border-bottom: 1px solid var(--rule); }
 .tags button[aria-pressed="true"] strong { font-weight: 700; text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 4px; }
 .afoot { display: grid; grid-template-columns: minmax(0, .9fr) minmax(0, 1.8fr) minmax(0, .95fr); gap: 12px clamp(24px, 4vw, 64px); align-items: start; padding-top: 6px; border-top: 1px solid var(--rule); }
 .afoot > div { display: flex; flex-direction: column; gap: 6px; padding-top: 12px; min-width: 0; }

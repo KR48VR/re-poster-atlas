@@ -156,6 +156,13 @@ async function viewPoster(id, firstLook) {
   const region = rid => p.regions.find(r => r.id === rid);
   const last = () => mem.trail[mem.trail.length - 1];
   const stops = (p.tour || []).map(rid => p.regions.find(r => r.id === rid)).filter(Boolean);    // the tour: a prepared order to walk the details in
+  const onLayer = k => p.regions.filter(r => r.layer === k);            // the details that sit on one layer
+  p.regions.forEach(r => P.planes[r.layer]?.append(el('span', { class: 'lpin', style: `left:${r.x}%;top:${r.y}%` }, String(r.n))));   // each sheet carries the pins of its own details, seen when the poster is apart
+  function showLayer(k) {                             // from a detail to its layer: pull the poster apart with that sheet lit
+    if (!P.input) return;
+    tour = null; P.input.value = 100; layersOn = [k];
+    P.input.dispatchEvent(new Event('input', { bubbles: true }));
+  }
 
   function regionAt(x, y) {
     const inside = p.regions.filter(r => x >= r.b[0] && x <= r.b[0] + r.b[2] && y >= r.b[1] && y <= r.b[1] + r.b[3]);
@@ -184,7 +191,7 @@ async function viewPoster(id, firstLook) {
     const turn = Math.max(TURN, Math.min(54, TURN + (p.ratio - 0.8) * 22));     // a wide poster turns further, so its sheets can stay large
     const rad = turn * Math.PI / 180, cos = Math.cos(rad), near = FAR / (FAR - pw / 2 * Math.sin(rad));   // the near edge of a turned sheet stands taller
     const widest = (W - pad * 2) / (1 + 0.8 * (n - 1));                    // a sheet may hide at most a fifth of its neighbour
-    const room = Math.min(H * 0.56, H - 352);                              // leave space under the sheets for their names, the note and the pull bar
+    const room = Math.min(H * 0.56, H - 392);                              // leave space under the sheets for their names, the note and the pull bar
     const s = Math.min(room / (ph * near), widest / (pw * cos)), face = pw * s * cos, hs = ph * s, ext = hs * (near - 1) / 2;
     const pitch = Math.min(face * 1.07, (W - pad * 2 - face) / Math.max(1, n - 1));
     const set = (k, v) => P.plate.style.setProperty(k, v);
@@ -267,11 +274,16 @@ async function viewPoster(id, firstLook) {
     const is = ks => String(same(ks)), n = p.layers.length;
     const head = [el('p', { class: 'where' }, `${p.title}, pulled apart`), el('h2', { class: 'name' }, `${COUNT[n] || n} layers make this poster.`)];
     const small = el('p', { class: 'small' }, CAVEAT);
+    const details = k => {                                                 // which details sit on a layer, each a way back to its note
+      const rs = onLayer(k);
+      return el('div', { class: 'also onit' }, el('span', null, rs.length === 1 ? 'One detail on this layer' : `${rs.length} details on this layer`),
+        rs.map(r => on(el('button', { type: 'button' }, el('b', null, String(r.n)), ` ${r.short || r.label}`), 'click', () => look(r.x, r.y, r))));
+    };
     if (!sheet.classList.contains('apart')) return [                       // a narrow screen: the layers stay stacked, with a list beside them
       ...head,
       el('ol', { class: 'rows' }, p.layers.map((l, k) => el('li', null, on(
-        el('button', { type: 'button', 'aria-pressed': is([k]) }, el('span', { class: 'num' }, String(k + 1)), el('strong', null, l.label), el('span', { class: 'd' }, l.desc)),
-        'click', () => pick([k]))))),
+        el('button', { type: 'button', 'aria-pressed': is([k]) }, el('span', { class: 'num' }, String(k + 1)), el('strong', null, l.label), el('span', { class: 'd' }, `${l.desc} ${many(onLayer(k).length, 'detail')}.`)),
+        'click', () => pick([k])), same([k]) ? details(k) : null))),
       p.readings.length > 0 && el('p', { class: 'sub' }, 'Ways to read the layers together'),
       p.readings.length > 0 && el('ul', { class: 'rows' }, p.readings.map(r => el('li', null, on(
         el('button', { type: 'button', 'aria-pressed': is(r.layers) }, el('span', { class: 'num', 'aria-hidden': 'true' }, '+'), el('strong', null, r.title), el('span', { class: 'd' }, r.text)),
@@ -280,13 +292,13 @@ async function viewPoster(id, firstLook) {
     const one = layersOn && layersOn.length === 1 ? layersOn[0] : null, way = layersOn && one === null ? p.readings.find(r => same(r.layers)) : null;
     return [                                                                // a wide screen: each sheet is named where it stands
       el('ol', { class: 'tags' }, p.layers.map((l, k) => el('li', null, on(
-        el('button', { type: 'button', 'aria-pressed': is([k]) }, el('span', { class: 'num' }, String(k + 1)), el('strong', null, l.label)),
+        el('button', { type: 'button', 'aria-pressed': is([k]) }, el('span', { class: 'top' }, el('span', { class: 'num' }, String(k + 1)), el('span', { class: 'cnt' }, many(onLayer(k).length, 'detail'))), el('strong', null, l.label)),
         'click', () => pick([k]))))),
       el('div', { class: 'afoot' },
         el('div', { class: 'ahead' }, head[1]),
-        el('div', { class: 'anote' }, one !== null ? [el('p', { class: 'where' }, `Layer ${one + 1} of ${n} · ${p.layers[one].label}`), el('p', { class: 'sum' }, p.layers[one].desc)]
+        el('div', { class: 'anote' }, one !== null ? [el('p', { class: 'where' }, `Layer ${one + 1} of ${n} · ${p.layers[one].label}`), el('p', { class: 'sum' }, p.layers[one].desc), details(one)]
           : way ? [el('p', { class: 'where' }, way.title), el('p', { class: 'sum' }, way.text)]
-          : el('p', { class: 'sum quiet' }, 'Choose a layer to see it on its own.')),
+          : el('p', { class: 'sum quiet' }, 'Choose a layer to see it on its own, with the details that sit on it. The numbered pins are those details.')),
         p.readings.length > 0 && el('div', { class: 'aways' }, el('p', { class: 'where' }, 'Read layers together'),
           el('ul', null, p.readings.map(r => el('li', null, on(el('button', { type: 'button', 'aria-pressed': is(r.layers) }, r.title), 'click', () => pick(r.layers)))))))];
   }
@@ -335,6 +347,8 @@ async function viewPoster(id, firstLook) {
           S.held ? null : el('p', { class: 'question' }, el('small', null, 'A question to take with you'), r.q),
           also.length > 0 && el('div', { class: 'also' }, el('span', null, 'Connected on this plate'),
             also.map(a => on(el('button', { type: 'button' }, `${P.gridRef(a.x, a.y)} ${a.short}`), 'click', () => look(a.x, a.y, a)))),
+          P.count > 0 && p.layers[r.layer] && el('div', { class: 'also' }, el('span', null, `On layer ${r.layer + 1} of ${p.layers.length}`),
+            on(el('button', { type: 'button' }, `${p.layers[r.layer].label}, with ${onLayer(r.layer).length - 1 === 0 ? 'no other detail' : many(onLayer(r.layer).length - 1, 'other detail')}`), 'click', () => showLayer(r.layer))),
           el('p', { class: 'next' }, mem.found.size === p.regions.length
             ? `You have found all ${p.regions.length} details on this plate.` : `Where next? ${mem.found.size} of ${p.regions.length} details found.`),
           !touring && stops.length > 0 && el('div', null, tbtn(`Take the tour: ${stops.length} stops`, () => goTour(0))),
