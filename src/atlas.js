@@ -67,7 +67,7 @@ export function makeAtlas(stage, { continents, pins, calm = false, onPick = () =
     p.k = k; p.pt = line(p.at);
     p.node = el('button', 'wpin', { type: 'button', 'aria-label': `${p.label}, ${p.posters.length} poster${p.posters.length === 1 ? '' : 's'}`, title: p.label });
     const r = Math.round(9 + Math.sqrt(p.posters.length) * 4.2); p.node.style.setProperty('--d', r + 'px');
-    if (p.posters.length > 2) p.node.textContent = String(p.posters.length);
+    const dot = el('i'); if (p.posters.length > 2) dot.textContent = String(p.posters.length); p.node.append(dot);   // the button is at least a fingertip wide; the dot inside it shows the size
     p.node.addEventListener('click', e => { e.stopPropagation(); if (!moved) api.pick(p.k); });
     byId[p.on].plane.append(p.node);
   });
@@ -185,6 +185,7 @@ export function makeAtlas(stage, { continents, pins, calm = false, onPick = () =
   const setOpen = v => {
     clearTimeout(joining); open = v;
     if (v) part(true); else joining = setTimeout(() => part(false), calm ? 0 : 1250);     // the sheets become one picture again once they have come together
+    pins.forEach(p => { p.node.disabled = v > 0; });                      // pulled apart, the pins lie too flat to press: the list beside the map does that job
     plate.style.setProperty('--open', v); plate.classList.toggle('wopen', v > 0); stage.classList.toggle('wapart', v > 0); if (!v) api.focus(null);
   };
 

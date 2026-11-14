@@ -301,42 +301,91 @@ const prose = (root, path, title, description, html) => write(join(OUT, path, 'i
   root, path, title: `${title} · Poster Atlas`, description, image: 'img/full/' + share[first.id], ground: '#f3f2ee', ink: '#141414', view: 'page', body: `<article class="prose">${html}</article>`,
 }));
 
-prose('../', 'teachers/', 'For teachers', 'How to use Poster Atlas with a class: the key, the pull bar and the trail.', `
+/* ---------- the teachers' page: the same bands of colour as the About page ---------- */
+function teachersPage() {
+  const V = byId['vertigo'] || posters[2], six = spectrum(6, [V]).map(x => x.p), marksBand = byId['the-piano'] || posters[7];
+  const band = (cls, c, html, id) => `<section class="band ${cls}"${id ? ` id="${id}"` : ''} style="--ground:${c[0]};--ink:${c[1]}">${html}</section>`;
+  const go = (href, text) => `<a class="tgo" href="${href}"><span>${text}</span><i aria-hidden="true"></i></a>`;
+  const moves = [['Look', 'Ask where the eye goes first. A student points, and you tap that spot.'], ['Ask', 'Hold the notes back with the key. The class sees only a question.'], ['Reveal', 'Turn the key. The poster opens on the answer.']];
+  const body = `<article class="abt">
+<section class="band hero">
 <h1>For teachers</h1>
 <p class="lead">Poster Atlas is built for looking together. Everything on a poster page works on a projector or a shared screen, and nothing needs a sign-in.</p>
+<ul class="tiles three">${moves.map(([name, text], k) => `<li style="--g:${six[k * 2].ground};--i:${six[k * 2].ink}"><div class="fig"><b>${k + 1}</b><span>${name}</span></div><p>${text}</p></li>`).join('')}</ul>
+</section>
+${band('two keyband', [six[1].ground, six[1].ink], `<div class="tell">
 <h2>The key</h2>
 <p>Beside the plate number at the top of every poster page there is a small key. It has no label, so most students will not notice it.</p>
 <p>Press it once and the notes are held back. Now, when you tap a spot on the poster, the screen shows only a question about that spot. Let the class talk. When you are ready, press the key under the question. The poster opens, the layer that holds the answer steps forward, and the note appears.</p>
 <p>Press the key at the top again to go back to showing notes straight away. The key stays as you set it while you move between posters.</p>
+</div>
+<svg class="bigkey" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="7.5" cy="15.5" r="4.5"/><path d="M10.7 12.3 20 3"/><path d="m17 6 3 3"/><path d="m14 9 2.5 2.5"/></svg>`)}
+${band('facts', ['#f1ede4', '#141312'], `<div>
 <h2>Where does your eye go first?</h2>
 <p>Every poster opens with the same question. Ask a student to point, then tap that spot. Each tap is numbered and joined to the last one, so the class can see the path their eyes took and compare it with someone else's.</p>
+</div>
+<div>
+<h2>Guided tours</h2>
+<p>Every poster also has a tour: a prepared order through six or seven of its details. Choose &ldquo;take the tour&rdquo; under the opening question, then step through with Next, the arrow keys or a clicker.</p>
+<p>With the key held, each stop shows its question first. A tap of your own leaves the tour. ${`<a href="../posters/${BEGAN.poster}/#tour">Try the tour of The Wind Rises</a>`}.</p>
+</div>
+<div>
 <h2>The finger and the moon</h2>
 <p>A second question works well after the first: what is this poster pointing you towards?</p>
-<p>It comes from the book that started Poster Atlas. In <i>Zen and Ghibli</i>, the priest Shinsuke Hosokawa tells the producer Toshio Suzuki that a film's advertising is like a finger pointing at the moon: &ldquo;the way you point your finger is so that the eye can aim toward the moon.&rdquo;</p>
-<p>The poster is the finger. The film, the book or the idea behind it is the moon. Ask the class where the finger sends their eye, and then what they think the moon is. <a href="../about/#began">How Poster Atlas began</a>.</p>
+<p>In <i>Zen and Ghibli</i>, the priest Shinsuke Hosokawa tells the producer Toshio Suzuki that a film's advertising is like a finger pointing at the moon: &ldquo;the way you point your finger is so that the eye can aim toward the moon.&rdquo; The poster is the finger. The film, the book or the idea behind it is the moon. <a href="../about/#began">How Poster Atlas began</a>.</p>
+</div>`)}
+${band('fanband', stageOf(V), `<div class="tell">
 <h2>Pull the poster apart</h2>
 <p>The bar under each poster runs from Together to Apart. Drag it to pull the poster into its layers. On a wide screen the sheets stand side by side across the page, each with its name under it. Choose a name, or touch a sheet, to see that layer on its own.</p>
 <p>The layers show what is visible in the artwork. They are not the original production separations.</p>
-<h2>Threads</h2>
-<p>A thread is one idea, such as scale or gesture, followed across many posters. Under a detail's note you will find the thread it belongs to and the next poster on it. The <a href="../threads/">threads page</a> shows all ${threads.length} at once, which makes a ready-made lesson: one idea, a dozen posters, several countries and decades.</p>
-<p>Threads are visual readings. They are a way of seeing details together, and students can argue with them.</p>
+</div>
+${fanOf(V)}
+<p>${go(`../posters/${V.id}/`, `Pull ${esc(V.title)} apart yourself`)}</p>`)}
+${band('facts', ['#101010', '#ffffff'], `<div>
 <h2>A map, a timeline and colours</h2>
-<p>The <a href="../collection/">collection</a> can be seen four ways. As a <a href="../map/">map</a>, the world is a globe you can turn and pause, a flat map, or a stack of layers with one sheet for each continent, and it changes from one to the next as a poster does when it is pulled apart. Choose a pin to see the posters from that place.</p>
-<p>The <a href="../timeline/">timeline</a> sets the posters out decade by decade, so a class can see what was being made in different places at the same time. <a href="../colour/">Colours</a> sets them out as a spectrum and can show every poster that uses, say, teal.</p>
+<p>The <a href="../collection/">collection</a> can be seen four ways. As a <a href="../map/">map</a>, the world is a globe you can turn and pause, a flat map, or a stack of layers with one sheet for each continent. Choose a pin to see the posters from that place.</p>
+<p>The <a href="../timeline/">timeline</a> sets the posters out decade by decade. <a href="../colour/">Colours</a> sets them out as a spectrum and can show every poster that uses, say, teal.</p>
+</div>
+<div>
+<h2>Threads</h2>
+<p>A thread is one idea, such as scale or gesture, followed across many posters. Under a detail's name you will find the thread it belongs to and the next poster on it. The <a href="../threads/">threads page</a> shows all ${threads.length} at once, which makes a ready-made lesson: one idea, a dozen posters, several countries and decades.</p>
+<p>Threads are visual readings. Students can argue with them.</p>
+</div>
+<div>
 <h2>Search by idea</h2>
-<p><a href="../search/">Search</a> looks through every note on every poster. Type an idea, such as loneliness, hand-drawn lettering or the colour red, and it shows the details that match, each outlined on its poster. It also finds titles, makers, countries and decades.</p>
-<p>Under the search line there is an index of ${searchData.ideas.length} ideas to start from. Search reads only the Atlas's own words. It needs no sign-in, and nothing a student types leaves the page. Each result shows the sentence that put it there, so a class can judge whether it belongs.</p>
+<p><a href="../search/">Search</a> looks through every note on every poster. Type an idea, such as loneliness, hand-drawn lettering or the colour red, and it shows the details that match, each outlined on its poster.</p>
+<p>It reads only the Atlas's own words, needs no sign-in, and nothing a student types leaves the page. Each result shows the sentence that put it there, so a class can judge whether it belongs.</p>
+</div>`)}
+${band('facts', [marksBand.ground, marksBand.ink], `<div>
 <h2>How sure is each note?</h2>
 <p>Every note carries one of four marks.</p>
-<ul>
-<li><strong>Documented</strong>: a source is given, and you can open it.</li>
-<li><strong>In the image</strong>: something anyone can check by looking.</li>
-<li><strong>Visual reading</strong>: an interpretation. Students are welcome to disagree with it.</li>
-<li><strong>Uncertain</strong>: the record is unclear, and the note says so.</li>
+<ul class="marks">
+<li><span class="ev documented"><i aria-hidden="true"></i>Documented</span><span>A source is given, and you can open it.</span></li>
+<li><span class="ev observation"><i aria-hidden="true"></i>In the image</span><span>Something anyone can check by looking.</span></li>
+<li><span class="ev interpretation"><i aria-hidden="true"></i>Visual reading</span><span>An interpretation. Students are welcome to disagree with it.</span></li>
+<li><span class="ev uncertain"><i aria-hidden="true"></i>Uncertain</span><span>The record is unclear, and the note says so.</span></li>
 </ul>
+</div>
+<div>
 <h2>Grid references</h2>
-<p>Each poster has letters along the top and numbers down the side, like a map. "Look at D4" gets a whole room looking at the same place.</p>
-<p><a href="../collection/">Browse the collection</a></p>`);
+<p>Each poster has letters along the top and numbers down the side, like a map. &ldquo;Look at D4&rdquo; gets a whole room looking at the same place.</p>
+</div>
+<div>
+<h2>Start here</h2>
+<p>${go('../collection/', 'Browse the collection')}</p>
+<p>${go('../about/', 'How Poster Atlas began')}</p>
+</div>`)}
+</article>`;
+  write(join(OUT, 'teachers', 'index.html'), page({ root: '../', path: 'teachers/', title: 'For teachers · Poster Atlas', description: 'How to use Poster Atlas with a class: the key, guided tours, the pull bar, threads, search and the map.',
+    image: 'img/full/' + share[first.id], ground: '#101010', ink: '#ffffff', view: 'page', cls: 'full', body }));
+}
+
+
+/* One real poster standing in its sheets, as a still picture for the plain pages. */
+function fanOf(P) {
+  return `<ol class="fan" style="--n:${P.layers.length};--ratio:${P.ratio}">${P.layers.map((l, k) => `<li><span class="sh${P.tones && P.tones.film[k] ? ' film-' + P.tones.film[k] : ''}"><img src="../img/layers/${P.id}/${k}.webp" alt="" loading="lazy" width="${Math.round(600 * P.ratio)}" height="600"></span><b>${k + 1}</b><span class="nm">${esc(l.label)}</span></li>`).join('')}</ol>`;
+}
+const stageOf = P => (P.tones && P.tones.stage === 'paper' ? ['#f1ede4', '#141312'] : ['#141312', '#f1ede4']);
 
 /* Posters whose page colours sit as far apart as the collection allows, set out in the order of the rainbow.
    The About page's tiles and the map's continents both wear them. */
@@ -405,7 +454,7 @@ ${band('fanband', WR.tones && WR.tones.stage === 'paper' ? ['#f1ede4', '#141312'
 <h2>What the layers are</h2>
 <p>Every poster here can be pulled apart into the layers that make it. Layers analyse the visible artwork. They are not original production separations.</p>
 </div>
-<ol class="fan" style="--n:${WR.layers.length};--ratio:${WR.ratio}">${WR.layers.map((l, k) => `<li><span class="sh${WR.tones && WR.tones.film[k] ? ' film-' + WR.tones.film[k] : ''}"><img src="../img/layers/${WR.id}/${k}.webp" alt="" loading="lazy" width="${Math.round(600 * WR.ratio)}" height="600"></span><b>${k + 1}</b><span class="nm">${esc(l.label)}</span></li>`).join('')}</ol>
+${fanOf(WR)}
 <p>${go(`../posters/${WR.id}/`, 'Pull The Wind Rises apart yourself')}</p>`)}
 ${band('facts', [last.ground, last.ink], `<div>
 <h2>What the notes are</h2>
@@ -432,6 +481,7 @@ ${band('facts', [last.ground, last.ink], `<div>
     image: 'img/full/' + share[first.id], ground: '#101010', ink: '#ffffff', view: 'page', cls: 'full', body }));
 }
 
+teachersPage();
 write(join(OUT, 'search', 'index.html'), page({ root: '../', path: 'search/', title: 'Search · Poster Atlas', description: 'Look something up in Poster Atlas: an idea, a colour, a name. Or start from the index of ideas.',
   image: 'img/full/' + share[first.id], ground: '#101010', ink: '#ffffff', view: 'search',
   body: `<article class="prose"><h1>Search</h1><p>Look something up: an idea, a colour, a name. Search reads the Atlas's own notes.</p><h2>Index of ideas</h2><ul>${searchData.ideas.map(g => `<li><a href="./?q=${encodeURIComponent(g.name)}">${esc(g.name)}</a> (${g.n})</li>`).join('')}</ul></article>` }));

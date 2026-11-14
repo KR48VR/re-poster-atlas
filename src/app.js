@@ -292,6 +292,7 @@ async function viewPoster(id, firstLook) {
   }
 
   function render() {
+    const hadFocus = panel.contains(document.activeElement);   // someone is using the keyboard inside the panel, which is about to be redrawn
     drawMarks();
     const l = last(), touring = tour !== null;
     let kids;
@@ -342,6 +343,10 @@ async function viewPoster(id, firstLook) {
     }
     panel.replaceChildren(...kids.flat().filter(Boolean));
     panel.querySelector('.key.turn')?.focus({ preventScroll: true });     // Enter or Space then turns the key
+    if (hadFocus && !panel.contains(document.activeElement)) {            // keep the keyboard where the action is: the chosen sheet, the way along the tour, or the new heading
+      const to = panel.querySelector('[aria-pressed="true"], .tournav .tgo, .tournav .link') || panel.querySelector('.name, .ask');
+      if (to) { if (!to.matches('a, button')) to.tabIndex = -1; to.focus({ preventScroll: true }); }
+    }
   }
 
   function goTour(i) {                                // step to a stop on the guided tour
@@ -426,7 +431,7 @@ async function viewHome() {
   const home = el('div', { class: 'home' }, chooser, el('div', { class: 'about' }, el('p', { class: 'about-text' }, title, desc), more), trio,
     el('div', { class: 'words' },
       el('h1', { class: 'tag' }, el('span', null, cat.tagline[0]), el('span', null, words.flatMap((w, k) => (k ? [' ', w] : [w])))),
-      el('p', { class: 'ask2' }, cat.question, el('span', { class: 'hint' }, 'Tap a poster.'))));
+      el('p', { class: 'ask2' }, cat.question, el('span', { class: 'hint' }, 'Tap a poster. Or ', link('search/', null, 'look something up'), ', or ', link('map/', null, 'see the map'), '.'))));
   mount('home', home, null, false);
 
   let plates = [], timers = [], auto = !calm, hovering = false, elapsed = 0, flat = calm, turn = 0;
@@ -439,7 +444,7 @@ async function viewHome() {
   const setAuto = v => {
     auto = v; chooser.classList.toggle('manual', !auto);
     toggle.textContent = auto ? 'Pause' : 'Play';
-    toggle.setAttribute('aria-label', auto ? 'Stop the threads changing by themselves' : 'Let the threads change by themselves');
+    toggle.setAttribute('aria-label', auto ? 'Pause: stop the threads changing by themselves' : 'Play: let the threads change by themselves');
   };
   function show(i) {
     timers.forEach(clearTimeout); timers = []; plates.forEach(x => x.P.stop());
@@ -616,7 +621,7 @@ async function viewMap() {
         sheet ? null : el('p', { class: 'small' }, 'A poster made in several places has a pin in each. Former states keep the names the records give them.')].flat().filter(Boolean));
     }
   }
-  const drawSpin = () => { spin.hidden = !A || A.mode !== 'globe' || calm; spin.textContent = A && A.spinning ? 'Pause' : 'Play'; spin.setAttribute('aria-label', A && A.spinning ? 'Stop the globe turning' : 'Let the globe turn'); };
+  const drawSpin = () => { spin.hidden = !A || A.mode !== 'globe' || calm; spin.textContent = A && A.spinning ? 'Pause' : 'Play'; spin.setAttribute('aria-label', A && A.spinning ? 'Pause: stop the globe turning' : 'Play: let the globe turn'); };
   const drawModes = () => { modes.replaceChildren(...[['globe', 'A globe'], ['flat', 'A flat map'], ['layers', 'Layers']].map(([id, t]) => on(
     el('button', { class: 'tab', type: 'button', 'aria-pressed': String(A.mode === id) }, el('span', null, t), el('i', { 'aria-hidden': 'true' })), 'click', () => A.setMode(id)))); drawSpin(); };
   A = mod.makeAtlas(stage, { continents: world.continents, pins: world.pins, calm, onPick: show, onMode: () => drawModes(), onSpin: drawSpin });
@@ -696,8 +701,8 @@ async function viewSearch() {
   const index = () => el('section', { class: 'sindex' },
     el('h2', null, 'Or start from the index of ideas'),
     [...new Set(data.ideas.map(g => g.under))].map(u => el('div', { class: 'srow' }, el('h3', null, u),
-      el('p', null, data.ideas.filter(g => g.under === u && g.n > 0).map(g => link('search/?q=' + encodeURIComponent(g.name), { class: 'idea', style: g.first ? `color:${byId[g.first].dark}` : '', 'aria-label': `${g.name}, ${many(g.n, 'detail')}` },
-        g.name, el('sup', { 'aria-hidden': 'true' }, String(g.n))))))),
+      el('p', null, data.ideas.filter(g => g.under === u && g.n > 0).map(g => link('search/?q=' + encodeURIComponent(g.name), { class: 'idea', style: g.first ? `color:${byId[g.first].dark}` : '' },
+        g.name, el('sup', null, el('span', { class: 'sr-only' }, ', '), String(g.n), el('span', { class: 'sr-only' }, g.n === 1 ? ' detail' : ' details'))))))),
     el('p', { class: 'small' }, 'The number beside an idea is how many details it leads to. Each idea wears the colour of the first poster it finds.'),
     el('p', { class: 'small' }, 'Search reads the Atlas’s own notes and nothing else. It treats forms of a word as one word, knows which words in the notes sit close to an idea, and forgives a slip of the keyboard. Nothing you type leaves this page.'));
 

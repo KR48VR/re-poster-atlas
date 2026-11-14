@@ -149,6 +149,7 @@ main { min-height: 0; min-width: 0; }
 .lead { margin: 0; font-size: 23px; line-height: 1.35; max-width: 26em; }
 .meta { margin: 0; font-size: 17px; max-width: 34em; }
 .where { margin: 0; font-size: 16px; font-weight: 700; max-width: 34em; }
+.name:focus, .ask:focus { outline: none; }
 .name { margin: 0; font-size: clamp(32px, 3.8vw, 58px); line-height: 1.04; text-wrap: balance; }
 .sum { margin: 0; font-size: 24px; line-height: 1.3; max-width: 26em; }
 .secs { display: flex; flex-direction: column; gap: 26px; }
@@ -243,6 +244,8 @@ body[data-view="home"] .bar-nav a:hover, .tab-toggle:hover { color: var(--ink); 
 .side { display: flex; flex-direction: column; gap: 10px; min-width: 0; }
 .ask2 { margin: 0 0 6px; font-size: clamp(22px, 2.3vw, 34px); font-weight: 700; line-height: 1.1; text-align: right; }
 .ask2 .hint { display: block; font-weight: 400; font-size: 17px; margin-top: 6px; }
+.ask2 .hint a { text-underline-offset: 4px; text-decoration-thickness: 1px; }
+.ask2 .hint a:hover { color: var(--ink); }
 .thread { margin: 0; font-size: 16px; max-width: 34em; }
 
 /* ---- the collection ---- */
@@ -375,11 +378,12 @@ body:is([data-view="search"], [data-view="map"], [data-view="timeline"], [data-v
 .wopen .wplane { pointer-events: auto; cursor: pointer; box-shadow: 0 0 0 1px var(--rule); background: color-mix(in srgb, var(--ink) 3%, transparent); }
 .wopen .wplane.sea { cursor: default; }
 .wfocus .wplane:not(.on):not(.sea) { opacity: .18; }
-.wpin { position: absolute; left: 0; top: 0; width: var(--d, 14px); height: var(--d, 14px); margin: calc(var(--d, 14px) / -2) 0 0 calc(var(--d, 14px) / -2); padding: 0; display: grid; place-items: center; pointer-events: auto;
-  border-radius: 50%; border: 2px solid var(--casing); background: var(--route); color: var(--casing); font-size: 11px; font-weight: 700; line-height: 1; text-align: center; }
-.wpin::after { content: ""; position: absolute; inset: -7px; border-radius: 50%; }
-.wpin:hover, .wpin.on { background: var(--casing); color: var(--route); border-color: var(--route); z-index: 2; }
-.wpin:focus-visible { outline: 3px solid var(--route); outline-offset: 2px; z-index: 2; }
+.wpin { position: absolute; left: 0; top: 0; --t: max(24px, var(--d, 14px)); width: var(--t); height: var(--t); margin: calc(var(--t) / -2) 0 0 calc(var(--t) / -2); padding: 0; display: grid; place-items: center; pointer-events: auto; border-radius: 50%; }
+.wpin i { width: var(--d, 14px); height: var(--d, 14px); display: grid; place-items: center; border-radius: 50%; border: 2px solid var(--casing); background: var(--route); color: var(--casing); font-size: 11px; font-weight: 700; font-style: normal; line-height: 1; }
+.wpin:hover, .wpin.on { z-index: 2; }
+.wpin:hover i, .wpin.on i { background: var(--casing); color: var(--route); border-color: var(--route); }
+.wpin:focus-visible { outline: 3px solid var(--route); outline-offset: 0; z-index: 2; }
+.wpin:disabled { pointer-events: none; cursor: default; }
 .wtags { list-style: none; margin: 0; padding: 0; position: absolute; left: 0; top: 0; bottom: 0; width: 150px; opacity: 0; visibility: hidden; transition: opacity .4s ease; }
 .wapart .wtags { opacity: 1; visibility: visible; transition-delay: .7s; }
 .wtags li { position: absolute; left: 0; transform: translateY(-50%); }
@@ -469,8 +473,11 @@ main.full { min-width: 0; }
 .tiles .fig span { display: block; margin-top: 10px; font-size: 18px; font-weight: 600; line-height: 1.25; text-wrap: balance; }
 .tiles a.fig:hover span { text-decoration: underline; text-underline-offset: 4px; }
 .tiles small { font-size: 13px; line-height: 1.3; }
+.tiles.three { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.tiles p { margin: 0; max-width: none; font-size: 17px; line-height: 1.35; }
+.bigkey { width: min(100%, 340px); height: auto; justify-self: center; align-self: center; }
 /* How this began: King's words on the left, the book, the page and the poster on the right. */
-.band.story, .band.moon { display: grid; grid-template-columns: minmax(0, 27em) minmax(0, 1fr); gap: 28px clamp(28px, 5vw, 84px); align-items: start; }
+.band.story, .band.moon, .band.two { display: grid; grid-template-columns: minmax(0, 27em) minmax(0, 1fr); gap: 28px clamp(28px, 5vw, 84px); align-items: start; }
 .story .tell p { font-size: clamp(20px, 1.55vw, 23px); }
 .abt .sig { margin: 10px 0 0; font-family: var(--display); font-style: italic; font-weight: 600; font-size: 28px; font-optical-sizing: none; font-variation-settings: "opsz" 10; }
 .plates { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; align-items: start; }
@@ -506,12 +513,14 @@ main.full { min-width: 0; }
 .marks .ev { font-size: 15px; }
 @media (max-width: 1100px) {
   .tiles { grid-template-columns: repeat(3, minmax(0, 1fr)); }
-  .band.story, .band.moon, .band.facts { grid-template-columns: 1fr; }
+  .bigkey { width: 180px; justify-self: start; }
+  .band.story, .band.moon, .band.two, .band.facts { grid-template-columns: 1fr; }
   .fan { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 }
 @media (max-width: 560px) {
   .abt { font-size: 18px; }
   .tiles { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .tiles.three { grid-template-columns: 1fr; }
   .tiles li { min-height: 150px; }
   .plates { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .marks li { grid-template-columns: 1fr; }
