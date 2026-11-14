@@ -85,9 +85,9 @@ function makePlate(p, { ticks = true, pull = false, loupe = false } = {}) {
       if (v > 0 && count) { plate.classList.add('is-open'); plate.style.setProperty('--open', v); }
       else { plate.style.setProperty('--open', 0); closing = setTimeout(() => plate.classList.remove('is-open'), dur * 1000); }
     },
-    light(cls, ks) {                       // light some layers and quieten the rest: "spot" when flat, "focus" when apart
+    light(cls, ks, pins) {                 // light some layers and quieten the rest: "spot" when flat, "focus" when apart. With pins, a lit sheet also shows the numbers of its details
       const set = new Set([].concat(ks ?? []));
-      plate.classList.remove('spot', 'focus');
+      plate.classList.remove('spot', 'focus'); plate.classList.toggle('pinned', !!pins && !!cls);
       planes.forEach((pl, i) => pl.classList.toggle('on', set.has(i)));
       if (!cls || !count) return;
       const tone = tones ? tones.veil[[...set][0]] : 'night';      // the rest is veiled in the ground that shows the lit layer best
@@ -385,7 +385,7 @@ async function viewPoster(id, firstLook) {
     return el('div', { class: 'secs' }, r.secs.filter(s => s.kind === walk).map(secNode), rest.length > 0 && el('p', { class: 'alsohere' }, 'Also at this spot'), rest.map(secNode));
   };
   const same = ks => JSON.stringify(layersOn) === JSON.stringify(ks);
-  function pick(ks) { layersOn = same(ks) ? null : ks; P.light(layersOn ? 'focus' : null, layersOn); render(); }
+  function pick(ks) { layersOn = same(ks) ? null : ks; P.light(layersOn ? 'focus' : null, layersOn, true); render(); }
   function renderApart() {
     const is = ks => String(same(ks)), n = p.layers.length;
     const head = [el('p', { class: 'where' }, `${p.title}, pulled apart`), el('h2', { class: 'name' }, `${COUNT[n] || n} layers make this poster.`)];
@@ -532,7 +532,7 @@ async function viewPoster(id, firstLook) {
     const v = +P.input.value / 100;
     if (v > 0) P.wide(!narrow());
     stage(v > 0); sheet.classList.toggle('settled', v >= 0.72);            // the names appear once the sheets have room
-    if (v === 0) { layersOn = null; P.light(null); unturn(); } else if (layersOn) P.light('focus', layersOn);
+    if (v === 0) { layersOn = null; P.light(null); unturn(); } else if (layersOn) P.light('focus', layersOn, true);
     P.setOpen(v, 0.18); render();
   });
   if (P.glass) on(P.glass, 'click', () => {             // the magnifier goes to the detail being read, when there is one in view

@@ -91,6 +91,7 @@ body[data-view="collection"] #app, body[data-view="page"] #app, body[data-view="
 /* Each sheet carries the pins of the details that sit on it. They show only when the poster is apart. */
 .lpin { position: absolute; transform: translate(-50%, -50%); width: 42px; height: 42px; display: grid; place-items: center; border-radius: 50%; background: var(--route); color: var(--casing); border: 3px solid var(--casing); font-size: 22px; font-weight: 700; line-height: 1; opacity: 0; transition: opacity .3s ease; pointer-events: none; }
 .plate.wide.is-open .lpin { opacity: 1; transition-delay: .5s; }
+.plate.pinned:not(.wide).is-open .plane.on .lpin { opacity: 1; width: 31px; height: 31px; font-size: 17px; border-width: 2px; }   /* on a narrow screen the sheets stay stacked, so only a chosen sheet shows its pins */
 .plate.wide .plane.on .lpin { background: var(--casing); color: var(--route); border-color: var(--route); }
 /* Pulled apart across the page: every sheet turns the same way and stands beside the next, first layer on the left. */
 .plate.wide { perspective: none; }
