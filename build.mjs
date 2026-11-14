@@ -180,12 +180,32 @@ for (const p of posters) {
   p.sort = C < 0.045 ? 1000 + Math.round((1 - L) * 100) : Math.round((hueOf(p.ground) + 340) % 360);     // the spectrum from red round to pink, then the greys from light to dark
 }
 
+/* The line of threads on the opening page. Each thread wears a colour taken from one of its own three posters:
+   of the three, the one that keeps the whole line most varied. A quiet tint while it waits, a lit one while it is on show. */
+const mixHex = (a, b, t) => '#' + [1, 3, 5].map(i => Math.round(parseInt(a.slice(i, i + 2), 16) * t + parseInt(b.slice(i, i + 2), 16) * (1 - t)).toString(16).padStart(2, '0')).join('');
+function lineColours(themes) {
+  const options = themes.map(t => t.ids.map(id => onDark(byId[id].ground))), hues = options.map(o => o.map(hueOf));
+  let best = null, bestScore = -1;
+  const walk = (k, picked) => {
+    if (k === options.length) {
+      let low = Infinity, sum = 0;                       // the two nearest colours decide; neighbours in the line are held to a stricter mark
+      for (let i = 0; i < picked.length; i++) for (let j = i + 1; j < picked.length; j++) { const g = hueGap(hues[i][picked[i]], hues[j][picked[j]]); low = Math.min(low, g + (j - i === 1 ? 0 : 12)); sum += g; }
+      const score = low * 1000 + sum / 100;
+      if (score > bestScore) { bestScore = score; best = picked.slice(); }
+      return;
+    }
+    for (let c = 0; c < options[k].length; c++) walk(k + 1, [...picked, c]);
+  };
+  walk(0, []);
+  return themes.map((t, k) => { const c = options[k][best[k]]; return { from: t.ids[best[k]], q: mixHex(c, '#aaa59c', 0.55), l: mixHex(c, '#ffffff', 0.74) }; });
+}
+const line = lineColours(home.themes);
 const catalogue = {
   total: posters.length, tagline: TAGLINE, question: QUESTION, record: RECORD_URL,
   posters: posters.map(p => ({ id: p.id, n: p.n, title: p.title, when: p.when, yearNumber: p.yearNumber, country: p.country, countries: p.countries, category: p.category, creator: p.creator, ratio: p.ratio, ground: p.ground, ink: p.ink, dark: onDark(p.ground), blurb: p.blurb, alt: p.alt, layers: p.layers.length, on: p.on, pal: p.pal, fams: p.fams, sort: p.sort })),
   continents: continents.map(c => ({ id: c.id, name: c.name, colour: c.colour, dark: onDark(c.colour) })),
   families: FAMILIES,
-  themes: home.themes.map(t => ({ title: t.title, short: t.short, description: t.description, ids: t.ids, labels: t.labels, thread: (threads.find(x => x.name === t.short) || {}).id || null })),
+  themes: home.themes.map((t, k) => ({ title: t.title, short: t.short, description: t.description, ids: t.ids, labels: t.labels, thread: (threads.find(x => x.name === t.short) || {}).id || null, q: line[k].q, l: line[k].l })),
   threads: threads.map(t => ({ id: t.id, name: t.name, headline: t.headline, count: t.links.length,
     posters: new Set(t.links.map(l => l.poster)).size,
     places: new Set(t.links.flatMap(l => (byId[l.poster].countries && byId[l.poster].countries.length ? byId[l.poster].countries : [l.country]))).size,
@@ -510,3 +530,4 @@ console.log(`Built ${posters.length} poster pages, ${posters.reduce((n, p) => n 
 console.log(`Guided tours: ${posters.filter(p => p.tour.length).length} of ${posters.length} posters, ${posters.reduce((n, p) => n + p.tour.length, 0)} stops. Without a tour: ${posters.filter(p => !p.tour.length).map(p => p.id).join(', ') || 'none'}`);
 console.log(`Posters without layers: ${posters.filter(p => !p.layers.length).map(p => p.id).join(', ') || 'none'}`);
 console.log(`Pages whose text contrast is under 4.5 to 1: ${low.join(', ') || 'none'}`);
+console.log(`The line of threads: ${home.themes.map((t, k) => `${t.short} from ${byId[line[k].from].title}`).join(', ')}. Hardest name to read: ${Math.min(...line.flatMap(c => [contrast(c.q, '#101010'), contrast(c.l, '#101010')])).toFixed(1)} to 1.`);

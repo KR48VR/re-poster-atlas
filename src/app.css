@@ -279,6 +279,14 @@ body[data-view="home"] .bar-nav a:hover, .tab-toggle:hover { color: var(--ink); 
 .tab i { z-index: 1; background: var(--ink); transform: scaleX(0); transform-origin: left center; }
 .chooser.manual .tab[aria-pressed="true"] i { transform: scaleX(1) !important; }
 .tab-toggle { font-size: 15px; margin-bottom: 8px; }
+/* On the opening page the line is set like the thread links: small italics, each in a quiet tint from one of its own posters. The one on show is lit. */
+body[data-view="home"] .chooser .tab { font-family: var(--display); font-style: italic; font-weight: 500; font-size: clamp(15px, 1.32vw, 19px); letter-spacing: .01em; font-optical-sizing: none; font-variation-settings: "opsz" 10; opacity: 1; padding-bottom: 13px; color: #aaa59c; }
+body[data-view="home"] .chooser .tab::after, body[data-view="home"] .chooser .tab i { height: 3px; }
+body[data-view="home"] .chooser button.tab { color: var(--q, #aaa59c); }
+body[data-view="home"] .chooser button.tab:hover, body[data-view="home"] .chooser button.tab[aria-pressed="true"] { color: var(--l, var(--ink)); }
+body[data-view="home"] .chooser .tab[aria-pressed="true"] { font-weight: 700; }
+body[data-view="home"] .chooser button.tab i { background: var(--l, var(--ink)); }
+body[data-view="home"] .chooser a.tab:hover { color: var(--ink); }
 .trio { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); min-height: 0; }
 .col { position: relative; display: grid; place-items: center; min-height: 0; min-width: 0; overflow: hidden; background: var(--g); color: var(--i); --rule: color-mix(in srgb, var(--i) 36%, var(--g)); transition: opacity .35s ease; }
 .col { padding: 18px 14px 64px; }

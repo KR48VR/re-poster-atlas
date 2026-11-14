@@ -615,7 +615,7 @@ async function viewHome() {
     const th = cat.threads.find(x => x.id === t.thread);
     more.replaceChildren(...(th ? [tgo(`threads/${th.id}/`, 'Follow this thread'), el('span', { class: 'tfacts' }, `${th.posters} posters · ${th.places} countries · ${th.from} to ${th.to}`)] : []));
     tabs.replaceChildren(...cat.themes.map((x, k) => on(
-      el('button', { class: 'tab', type: 'button', 'aria-pressed': String(k === i) }, el('span', null, x.short), el('i', { 'aria-hidden': 'true' })),
+      el('button', { class: 'tab', type: 'button', 'aria-pressed': String(k === i), style: `--q:${x.q};--l:${x.l}` }, el('span', null, x.short), el('i', { 'aria-hidden': 'true' })),   // each thread wears a colour from one of its own posters
       'click', () => { setAuto(false); show(k); })));
     plates = t.ids.map((id, k) => {
       const p = byId[id], P = makePlate(p, { ticks: false });
