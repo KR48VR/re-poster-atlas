@@ -304,14 +304,76 @@ a.tab.more { display: block; text-decoration: none; padding-right: 6px; }
 .prose p { margin: 0 0 14px; }
 .prose .lead { font-size: 23px; }
 .prose ul { padding-left: 22px; }
-.prose h2[id] { scroll-margin-top: 24px; }
-.prose .tgo { font-size: 22px; }
-.prose .sig { font-family: var(--display); font-style: italic; font-weight: 600; font-size: 24px; margin: 6px 0 0; font-optical-sizing: none; font-variation-settings: "opsz" 10; }
-.prose .photos { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; margin: 28px 0 12px; }
-.prose figure { margin: 0; }
-.prose figure img { display: block; width: 100%; height: auto; }
-.prose figcaption { margin-top: 8px; font-size: 15px; }
-.prose .credit { font-size: 14px; max-width: 46em; }
+/* ---- the About page: bands of colour, each taken from a poster, like the colour fields on the opening page ---- */
+main.full { min-width: 0; }
+.abt { display: flex; flex-direction: column; margin: 6px 0 -14px; font-size: 20px; }
+.band { --rule: color-mix(in srgb, var(--ink) 36%, var(--ground)); --soft: color-mix(in srgb, var(--ink) 74%, var(--ground)); background: var(--ground); color: var(--ink);
+  margin-left: calc(-1 * max(20px, env(safe-area-inset-left, 0px))); margin-right: calc(-1 * max(20px, env(safe-area-inset-right, 0px)));
+  padding: clamp(36px, 5.5vw, 84px) max(20px, env(safe-area-inset-right, 0px)) clamp(36px, 5.5vw, 84px) max(20px, env(safe-area-inset-left, 0px)); scroll-margin-top: 0; }
+.abt h1, .abt h2, .abt blockquote, .tiles b, .fan b { font-family: var(--display); font-weight: 800; letter-spacing: -0.012em; font-optical-sizing: none; font-variation-settings: "opsz" 8; }
+.abt h1 { margin: 0; font-size: clamp(46px, 8.4vw, 128px); line-height: .92; font-variation-settings: "opsz" 22; }
+.abt h2 { margin: 0 0 16px; font-size: clamp(30px, 3.6vw, 54px); line-height: 1.02; text-wrap: balance; }
+.abt p { margin: 0 0 16px; max-width: 31em; line-height: 1.5; }
+.abt p:last-child { margin-bottom: 0; }
+.abt a { text-underline-offset: 4px; }
+.abt .tgo { font-size: clamp(21px, 1.9vw, 26px); }
+.band.hero { padding-top: clamp(20px, 3vw, 44px); }
+.hero .lead { margin: clamp(16px, 2vw, 26px) 0 0; font-size: clamp(21px, 2vw, 28px); line-height: 1.35; max-width: 27em; }
+/* The Atlas in six numbers. Each tile wears one poster's colour and says whose. */
+.tiles { list-style: none; margin: clamp(28px, 4.5vw, 60px) 0 0; padding: 0; display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); }
+.tiles li { display: flex; flex-direction: column; justify-content: space-between; gap: 26px; min-height: clamp(190px, 19vw, 290px); padding: 16px 16px 12px; background: var(--g); color: var(--i); }
+.tiles .fig { display: block; text-decoration: none; }
+.tiles b { display: block; font-size: clamp(40px, 4.9vw, 84px); line-height: .9; }
+.tiles .fig span { display: block; margin-top: 10px; font-size: 18px; font-weight: 600; line-height: 1.25; text-wrap: balance; }
+.tiles a.fig:hover span { text-decoration: underline; text-underline-offset: 4px; }
+.tiles small { font-size: 13px; line-height: 1.3; }
+/* How this began: King's words on the left, the book, the page and the poster on the right. */
+.band.story, .band.moon { display: grid; grid-template-columns: minmax(0, 27em) minmax(0, 1fr); gap: 28px clamp(28px, 5vw, 84px); align-items: start; }
+.story .tell p { font-size: clamp(20px, 1.55vw, 23px); }
+.abt .sig { margin: 10px 0 0; font-family: var(--display); font-style: italic; font-weight: 600; font-size: 28px; font-optical-sizing: none; font-variation-settings: "opsz" 10; }
+.plates { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; align-items: start; }
+.abt figure { margin: 0; }
+.abt figure img { display: block; width: 100%; height: auto; }
+.abt figcaption { margin-top: 8px; font-size: 15px; line-height: 1.35; }
+.plates .marked { position: relative; display: block; }
+.abt .credit { grid-column: 1 / -1; margin: 6px 0 0; max-width: none; font-size: 14px; line-height: 1.45; }
+/* The finger and the moon: the line itself, large, and a fine line that ends in a moon. */
+.moon .say { display: flex; flex-direction: column; gap: clamp(20px, 3vw, 40px); min-width: 0; }
+.abt blockquote { margin: 0; font-size: clamp(32px, 4.6vw, 72px); line-height: 1.02; text-wrap: balance; }
+.aim { display: flex; align-items: center; }
+.aim i { position: relative; flex: 1; height: 1px; background: currentColor; }
+.aim i::after { content: ""; position: absolute; right: 1px; top: -4px; width: 9px; height: 9px; border-top: 1px solid currentColor; border-right: 1px solid currentColor; transform: rotate(45deg); }
+.aim b { flex: none; width: clamp(54px, 7vw, 104px); aspect-ratio: 1; margin-left: 14px; border-radius: 50%; background: var(--moon, currentColor); }
+/* What the layers are: one real poster, standing in its sheets. */
+.fan { list-style: none; margin: clamp(22px, 3vw, 40px) 0 clamp(18px, 2.4vw, 30px); padding: 0; display: grid; grid-template-columns: repeat(var(--n, 6), minmax(0, 1fr)); gap: 22px 0; text-align: center; }
+.fan li { min-width: 0; display: flex; flex-direction: column; align-items: center; }
+.fan .sh { position: relative; display: block; width: 88%; max-width: 250px; aspect-ratio: var(--ratio, .7); margin-bottom: 14px; transform: perspective(1500px) rotateY(38deg); box-shadow: 0 0 0 1px var(--rule); }
+.fan .sh::before { content: ""; position: absolute; inset: 0; }
+.fan .sh.film-paper::before { background: var(--paper); opacity: .82; }
+.fan .sh.film-night::before { background: var(--night); opacity: .82; }
+.fan .sh img { position: absolute; inset: 0; width: 100%; height: 100%; filter: drop-shadow(0 10px 12px rgba(0, 0, 0, .3)); }
+.fan b { display: block; font-size: 22px; line-height: 1; }
+.fan .nm { display: block; margin-top: 4px; padding: 0 6px; font-size: 15px; line-height: 1.25; text-wrap: balance; }
+/* The practical part, three columns. */
+.band.facts { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 32px clamp(28px, 4vw, 64px); align-items: start; }
+.facts h2 { font-size: clamp(26px, 2.5vw, 38px); }
+.facts h2:not(:first-child) { margin-top: 32px; }
+.facts p { font-size: 18px; }
+.marks { list-style: none; margin: 20px 0 0; padding: 0; display: grid; gap: 12px; }
+.marks li { display: grid; grid-template-columns: 9.5em minmax(0, 1fr); gap: 2px 12px; align-items: baseline; font-size: 16px; line-height: 1.35; }
+.marks .ev { font-size: 15px; }
+@media (max-width: 1100px) {
+  .tiles { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .band.story, .band.moon, .band.facts { grid-template-columns: 1fr; }
+  .fan { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+@media (max-width: 560px) {
+  .abt { font-size: 18px; }
+  .tiles { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .tiles li { min-height: 150px; }
+  .plates { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .marks li { grid-template-columns: 1fr; }
+}
 /* King's own note on the poster where it all started. Set apart from the study notes, which are not King's words. */
 .began { margin: 0; max-width: 34em; padding-left: 14px; border-left: 2px solid var(--ink); font-size: 17px; }
 .began a { font-weight: 600; text-underline-offset: 4px; white-space: nowrap; }

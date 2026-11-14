@@ -165,7 +165,7 @@ cpSync(join(ROOT, 'src', 'fonts'), join(OUT, 'fonts'), { recursive: true });
 for (const f of ['app.css', 'app.js', 'favicon.svg']) cpSync(join(ROOT, 'src', f), join(OUT, f));
 write(join(OUT, '.nojekyll'), '');
 
-const page = ({ root, path, title, description, image, ground, ink, view, id, body }) => `<!doctype html>
+const page = ({ root, path, title, description, image, ground, ink, view, id, body, cls = 'plain' }) => `<!doctype html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -192,8 +192,8 @@ const page = ({ root, path, title, description, image, ground, ink, view, id, bo
 <body data-view="${view}"${id ? ` data-id="${id}"` : ''}>
 <a class="skip" href="#main">Skip to the content</a>
 <div id="app">
-<header class="bar"><a class="mark" href="${root}">Poster Atlas<span class="sub-mark">Posters, book covers &amp; more</span></a><nav class="bar-nav"><a href="${root}collection/">Collection</a><a href="${root}threads/">Threads</a><a href="${root}teachers/">For teachers</a></nav></header>
-<main id="main" class="plain">
+<header class="bar"><a class="mark" href="${root}">Poster Atlas<span class="sub-mark">Posters, book covers &amp; more</span></a><nav class="bar-nav"><a href="${root}collection/">Collection</a><a href="${root}threads/">Threads</a><a href="${root}teachers/">For teachers</a><a href="${root}about/">About</a></nav></header>
+<main id="main" class="${cls}">
 ${body}
 </main>
 </div>
@@ -273,30 +273,92 @@ prose('../', 'teachers/', 'For teachers', 'How to use Poster Atlas with a class:
 <p>Each poster has letters along the top and numbers down the side, like a map. "Look at D4" gets a whole room looking at the same place.</p>
 <p><a href="../collection/">Browse the collection</a></p>`);
 
-prose('../', 'about/', 'About', 'What Poster Atlas is, how its notes are sourced, and how it was made.', `
+/* ---------- the About page: bands of colour, each taken from a poster, like the opening's colour fields ---------- */
+{
+  const WR = byId[BEGAN.poster], line = WR.regions.find(r => r.id === BEGAN.region);
+  const place = c => (c === 'Türkiye' ? 'Turkey' : c);                       // one country, two spellings in the records
+  const places = new Set(posters.flatMap(p => (p.countries && p.countries.length ? p.countries : [p.country]).map(place))).size;
+  const years = [Math.min(...posters.map(p => p.yearNumber)), Math.max(...posters.map(p => p.yearNumber))];
+  const nf = n => n.toLocaleString('en-GB');
+  const hue = hex => ((oklch(hex).H * 180 / Math.PI) + 360) % 360;
+  const gap = (x, y) => Math.min(Math.abs(x - y), 360 - Math.abs(x - y));
+  const last = byId['the-piano'] || posters[7];                              // the closing band borrows this poster's colour
+  const vivid = posters.filter(p => p !== WR && p !== last).map(p => ({ p, ...oklch(p.ground), h: hue(p.ground) })).filter(x => x.C > 0.075 && x.L > 0.45 && x.L < 0.86);
+  const picked = [vivid.slice().sort((x, y) => y.C - x.C)[0]];              // six posters whose colours sit as far apart as the collection allows
+  while (picked.length < 6) {
+    const far = x => Math.min(...picked.map(q => gap(x.h, q.h)));
+    picked.push(vivid.filter(x => !picked.includes(x)).sort((x, y) => (far(y) + y.C * 60) - (far(x) + x.C * 60))[0]);
+  }
+  picked.sort((x, y) => x.h - y.h);                                          // then set out in the order of the rainbow
+  const tiles = [
+    [nf(posters.length), 'posters and book covers', '../collection/'],
+    [nf(posters.reduce((n, p) => n + p.regions.length, 0)), 'details, each with a note and a question', null],
+    [nf(posters.reduce((n, p) => n + p.layers.length, 0)), 'layers to pull apart', null],
+    [String(threads.length), 'threads to follow between posters', '../threads/'],
+    [String(places), 'countries and territories', null],
+    [String(years[1] - years[0]), `years, from ${years[0]} to ${years[1]}`, null],
+  ];
+  const band = (cls, c, html, id) => `<section class="band ${cls}"${id ? ` id="${id}"` : ''} style="--ground:${c[0]};--ink:${c[1]}">${html}</section>`;
+  const go = (href, text) => `<a class="tgo" href="${href}"><span>${text}</span><i aria-hidden="true"></i></a>`;
+  const body = `<article class="abt">
+<section class="band hero">
 <h1>About Poster Atlas</h1>
-<p class="lead">${posters.length} posters and book covers from ${Math.min(...posters.map(p => p.yearNumber))} to ${Math.max(...posters.map(p => p.yearNumber))}, each opened up detail by detail. Posters, book covers and more: it is an independent educational project by King.</p>
-<h2 id="began">How this began</h2>
+<p class="lead">${posters.length} posters and book covers from ${years[0]} to ${years[1]}, each opened up detail by detail. Posters, book covers and more: it is an independent educational project by King.</p>
+<ul class="tiles">${tiles.map(([n, label, href], k) => { const q = picked[k].p; return `<li style="--g:${q.ground};--i:${q.ink}">${href ? `<a class="fig" href="${href}">` : '<div class="fig">'}<b>${n}</b><span>${label}</span>${href ? '</a>' : '</div>'}<small>Colour from <a href="../posters/${q.id}/">${esc(q.title)}</a></small></li>`; }).join('')}</ul>
+</section>
+${band('story', [WR.ground, WR.ink], `<div class="tell">
+<h2>How this began</h2>
 <p>I was reading <i>Zen and Ghibli</i> by Toshio Suzuki, the producer at Studio Ghibli. He mentions the line on the poster for The Wind Rises, &ldquo;You must live&rdquo;, and says: &ldquo;I happened to write it with a brush, and the advertising producer said, &lsquo;Let&rsquo;s go with that.&rsquo;&rdquo;</p>
 <p>That made me curious. I had AI build a site to tease posters apart and mark them up, to help me understand the craft that went into different posters. The site it built was beautiful, but lacked the X-factor. I then had the idea of pulling a poster into its layers, so I can better see and understand how it is put together.</p>
-<p><a class="tgo" href="../posters/${BEGAN.poster}/#${BEGAN.region}"><span>See the brush-written line on The Wind Rises</span><i aria-hidden="true"></i></a></p>
+<p>${go(`../posters/${WR.id}/#${line.id}`, 'See the brush-written line on The Wind Rises')}</p>
 <p class="sig">&mdash; King</p>
-<div class="photos">
-<figure><img src="../img/about/zen-and-ghibli-cover.webp" width="1050" height="1400" loading="lazy" alt="A copy of the book Zen and Ghibli by Toshio Suzuki, lying on a green table. Its cover shows Totoro holding an umbrella above the treetops under a blue sky."><figcaption>The book.</figcaption></figure>
-<figure><img src="../img/about/zen-and-ghibli-page-21.webp" width="1050" height="1400" loading="lazy" alt="Page 21 of the book, held open with a thumb, with a yellow page marker at its edge. The last paragraph begins: The tagline for The Wind Rises was You must live. I happened to write it with a brush."><figcaption>Page 21. The brush is in the last paragraph.</figcaption></figure>
 </div>
-<p class="credit">Photographs by King. The book is <i>Zen and Ghibli: Life Lessons for Lasting Happiness from the Legendary Studio</i> by Toshio Suzuki, translated by Beth Cary, published in 2026. Its cover and text belong to their rights holders and are shown here only to say where this project began.</p>
+<div class="plates">
+<figure><img src="../img/about/zen-and-ghibli-cover.webp" width="1050" height="1400" alt="A copy of the book Zen and Ghibli by Toshio Suzuki, lying on a green table. Its cover shows Totoro holding an umbrella above the treetops under a blue sky."><figcaption>The book.</figcaption></figure>
+<figure><img src="../img/about/zen-and-ghibli-page-21.webp" width="1050" height="1400" alt="Page 21 of the book, held open with a thumb, with a yellow page marker at its edge. The last paragraph begins: The tagline for The Wind Rises was You must live. I happened to write it with a brush."><figcaption>Page 21. The brush is in the last paragraph.</figcaption></figure>
+<figure><a class="marked" href="../posters/${WR.id}/#${line.id}"><img src="../img/poster/${WR.id}.webp" width="${Math.round(900 * WR.ratio)}" height="900" alt="The Wind Rises poster, with the brush-written line at the top marked."><i class="box" style="left:${line.b[0]}%;top:${line.b[1]}%;width:${line.b[2]}%;height:${line.b[3]}%"></i><b class="pin now" style="left:${line.x}%;top:${line.y}%">1</b></a><figcaption>The line itself, on the poster.</figcaption></figure>
+<p class="credit">Photographs by King. The book is <i>Zen and Ghibli: Life Lessons for Lasting Happiness from the Legendary Studio</i> by Toshio Suzuki, translated by Beth Cary, published by G. P. Putnam&rsquo;s Sons, New York, in 2026. Its cover and text belong to their rights holders and are shown here only to say where this project began.</p>
+</div>`, 'began')}
+${band('moon', ['#f1ede4', '#141312'], `<div class="tell">
 <h2>The finger and the moon</h2>
-<p>On that same page, the priest Shinsuke Hosokawa tells Suzuki that a film's advertising is like a finger pointing at the moon: &ldquo;the way you point your finger is so that the eye can aim toward the moon.&rdquo;</p>
+<p>On that same page, the priest Shinsuke Hosokawa tells Suzuki that a film's advertising is like a finger pointing at the moon.</p>
 <p>A poster is that finger. Poster Atlas looks closely at the finger to see how it points. That is why every poster here opens with the same question: where does your eye go first?</p>
+<p>${go('../collection/', 'Start with any poster')}</p>
+</div>
+<div class="say">
+<blockquote>&ldquo;the way you point your finger is so that the eye can aim toward the moon.&rdquo;</blockquote>
+<div class="aim" aria-hidden="true" style="--moon:${picked.slice().sort((x, y) => gap(x.h, 100) - gap(y.h, 100))[0].p.ground}"><i></i><b></b></div>
+</div>`)}
+${band('fanband', WR.tones && WR.tones.stage === 'paper' ? ['#f1ede4', '#141312'] : ['#141312', '#f1ede4'], `<div class="tell">
+<h2>What the layers are</h2>
+<p>Every poster here can be pulled apart into the layers that make it. Layers analyse the visible artwork. They are not original production separations.</p>
+</div>
+<ol class="fan" style="--n:${WR.layers.length};--ratio:${WR.ratio}">${WR.layers.map((l, k) => `<li><span class="sh${WR.tones && WR.tones.film[k] ? ' film-' + WR.tones.film[k] : ''}"><img src="../img/layers/${WR.id}/${k}.webp" alt="" loading="lazy" width="${Math.round(600 * WR.ratio)}" height="600"></span><b>${k + 1}</b><span class="nm">${esc(l.label)}</span></li>`).join('')}</ol>
+<p>${go(`../posters/${WR.id}/`, 'Pull The Wind Rises apart yourself')}</p>`)}
+${band('facts', [last.ground, last.ink], `<div>
 <h2>What the notes are</h2>
 <p>Each poster has between ten and eighteen details. Every detail has a short note, a mark that says how sure the note is, and a question to take away. Sources, edition details and image credits are inside each poster's page.</p>
-<h2>What the layers are</h2>
-<p>Layers analyse the visible artwork. They are not original production separations.</p>
+<ul class="marks">
+<li><span class="ev documented"><i aria-hidden="true"></i>Documented</span><span>A source is given, and you can open it.</span></li>
+<li><span class="ev observation"><i aria-hidden="true"></i>In the image</span><span>Something anyone can check by looking.</span></li>
+<li><span class="ev interpretation"><i aria-hidden="true"></i>Visual reading</span><span>An interpretation. You are welcome to disagree with it.</span></li>
+<li><span class="ev uncertain"><i aria-hidden="true"></i>Uncertain</span><span>The record is unclear, and the note says so.</span></li>
+</ul>
+</div>
+<div>
 <h2>Images</h2>
 <p>Each poster page names the edition shown and credits its source. The images are reproduced for study and teaching.</p>
+<h2>For teachers</h2>
+<p>There is a quiet way to hold the notes back and let a class look first. ${'<a href="../teachers/">How to use Poster Atlas with a class</a>'}.</p>
+</div>
+<div>
 <h2>How this was made</h2>
-<p>King had the first Poster Atlas built with an AI tool, added the idea of pulling posters into layers, and rebuilt it here with Claude, an AI model. A record of every step, who did what, and how the work was checked is kept on a private page. <a href="${RECORD_URL}">How this was made</a> opens only for people King has shared it with.</p>`);
+<p>King had the first Poster Atlas built with an AI tool, added the idea of pulling posters into layers, and rebuilt it here with Claude, an AI model. A record of every step, who did what, and how the work was checked is kept on a private page. <a href="${RECORD_URL}">How this was made</a> opens only for people King has shared it with.</p>
+</div>`)}
+</article>`;
+  write(join(OUT, 'about', 'index.html'), page({ root: '../', path: 'about/', title: 'About · Poster Atlas', description: 'How Poster Atlas began, what its notes and layers are, and how it was made.',
+    image: 'img/full/' + share[first.id], ground: '#101010', ink: '#ffffff', view: 'page', cls: 'full', body }));
+}
 
 write(join(OUT, '404.html'), page({ root: '/re-poster-atlas/', path: '404.html', title: 'Not found · Poster Atlas', description: 'That page is not in the Atlas.', image: 'img/full/' + share[first.id], ground: '#f3f2ee', ink: '#141414', view: 'page',
   body: `<article class="prose"><h1>That page is not in the Atlas.</h1><p><a href="/re-poster-atlas/">Go to the opening page</a> or <a href="/re-poster-atlas/collection/">browse the collection</a>.</p></article>` }));
