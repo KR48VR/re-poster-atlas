@@ -165,10 +165,13 @@ table.wordlist td { padding: 7px 16px 7px 0; border-bottom: 1px solid var(--rule
 .home { height: 100%; display: grid; grid-template-rows: auto auto minmax(0, 1fr) auto; gap: 10px; min-height: 0; }
 /* On the opening page only the opening line and the current thread are full strength. Everything that supports them steps back. */
 body[data-view="home"] { --soft: color-mix(in srgb, var(--ink) 68%, var(--ground)); }
-body[data-view="home"] .sub-mark, body[data-view="home"] .bar-nav a, .chooser-label, .tab-toggle, .about span, .ask2 .hint { color: var(--soft); }
+body[data-view="home"] .sub-mark, body[data-view="home"] .bar-nav a, .chooser-label, .tab-toggle, .about-text span, .ask2 .hint { color: var(--soft); }
 body[data-view="home"] .bar-nav a:hover, .tab-toggle:hover { color: var(--ink); }
-.about { margin: 0; max-width: none; font-size: 17px; line-height: 1.4; display: flex; flex-wrap: wrap; align-items: baseline; gap: 2px 14px; }
-.about strong { font-size: clamp(19px, 1.7vw, 24px); }
+/* Two lines on each side: what the thread is, and the way along it. */
+.about { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: end; gap: 6px 48px; }
+.about-text { margin: 0; max-width: none; font-size: 17px; line-height: 1.4; }
+.about strong { display: block; font-size: clamp(19px, 1.7vw, 24px); line-height: 1.25; }
+.about-go { margin: 0; max-width: none; display: flex; flex-direction: column; align-items: flex-end; text-align: right; line-height: 1.4; }
 /* The threads sit right above the posters they change, as a row of choices. The line under the current one fills as its turn runs out. */
 .chooser { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 4px 28px; }
 .chooser-label { font-size: 16px; padding-bottom: 14px; white-space: nowrap; }
@@ -217,11 +220,20 @@ body[data-view="home"] .bar-nav a:hover, .tab-toggle:hover { color: var(--ink); 
 .tile .m { font-size: 15px; margin-top: -8px; }
 
 /* ---- threads ---- */
-.follow { border-top: 1px solid var(--rule); padding-top: 14px; display: flex; flex-direction: column; gap: 6px; max-width: 36em; align-items: flex-start; }
-.follow p { margin: 0; font-size: 17px; }
-.follow .go { font-size: 21px; font-weight: 700; text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 5px; padding: 6px 0; }
-.about-more { white-space: nowrap; }
-.about-more a { color: var(--ink); text-underline-offset: 4px; }
+.follow { border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); padding: 12px 0 10px; display: grid; gap: 2px; max-width: 36em; }
+.follow p { margin: 0; max-width: none; }
+.follow .ft { display: flex; flex-wrap: wrap; align-items: baseline; gap: 2px 12px; font-size: 17px; }
+.follow .ft strong { font-family: var(--display); font-weight: 800; font-size: 21px; font-optical-sizing: none; font-variation-settings: "opsz" 8; }
+.follow .fn { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 2px 24px; }
+/* A link drawn as a thread: the words, then a fine line that lengthens when you reach for it. */
+.tgo { display: inline-flex; align-items: center; gap: 14px; padding: 4px 0; font-family: var(--display); font-style: italic; font-weight: 600; font-size: 21px; line-height: 1.25; text-decoration: none; font-optical-sizing: none; font-variation-settings: "opsz" 10; }
+.tgo i { position: relative; flex: none; display: block; width: 44px; height: 1px; background: currentColor; transition: width .35s cubic-bezier(.3, .7, .2, 1); }
+.tgo i::after { content: ""; position: absolute; right: 0; top: -3px; width: 7px; height: 7px; border-top: 1px solid currentColor; border-right: 1px solid currentColor; transform: rotate(45deg); }
+.tgo:hover i, .tgo:focus-visible i { width: 76px; }
+.tfacts { font-size: 15px; font-variant-numeric: tabular-nums; }
+.tfacts a { text-underline-offset: 4px; }
+.about-go .tfacts { color: var(--soft); }
+a.tab.more { display: block; text-decoration: none; padding-right: 6px; }
 .evnote { margin: 0; font-size: 16px; max-width: 46em; }
 .evnote .ev { margin-right: 10px; }
 .tlink { font-weight: 700; padding: 8px 0; text-underline-offset: 5px; }
@@ -262,6 +274,8 @@ body[data-view="home"] .bar-nav a:hover, .tab-toggle:hover { color: var(--ink); 
   .col { height: 62vh; }
   .col:not(:first-child) { display: none; }
   .tabs { grid-auto-columns: max-content; gap: 22px; overflow-x: auto; }
+  .about { grid-template-columns: 1fr; }
+  .about-go { align-items: flex-start; text-align: left; }
   .wall { gap: 44px 20px; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
   .ask2 { text-align: left; }
   .bar-nav { gap: 16px; }

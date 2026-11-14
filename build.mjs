@@ -119,7 +119,7 @@ const threads = read(join(C, 'threads.json')).map(t => ({
 }));
 for (const t of threads) t.links.forEach((l, i) => {
   const next = t.links[(i + 1) % t.links.length];
-  byId[l.poster].regions.find(r => r.id === l.region).threads.push({ id: t.id, name: t.name, idea: t.idea, count: t.links.length,
+  byId[l.poster].regions.find(r => r.id === l.region).threads.push({ id: t.id, name: t.name, idea: t.idea, count: t.links.length, at: i + 1,
     next: { poster: next.poster, region: next.region, title: next.title, label: next.label } });
 });
 
@@ -131,7 +131,10 @@ const catalogue = {
   total: posters.length, tagline: TAGLINE, question: QUESTION, record: RECORD_URL,
   posters: posters.map(p => ({ id: p.id, n: p.n, title: p.title, when: p.when, yearNumber: p.yearNumber, country: p.country, countries: p.countries, category: p.category, creator: p.creator, ratio: p.ratio, ground: p.ground, ink: p.ink, dark: onDark(p.ground), blurb: p.blurb, alt: p.alt, layers: p.layers.length })),
   themes: home.themes.map(t => ({ title: t.title, short: t.short, description: t.description, ids: t.ids, labels: t.labels, thread: (threads.find(x => x.name === t.short) || {}).id || null })),
-  threads: threads.map(t => ({ id: t.id, name: t.name, headline: t.headline, count: t.links.length })),
+  threads: threads.map(t => ({ id: t.id, name: t.name, headline: t.headline, count: t.links.length,
+    posters: new Set(t.links.map(l => l.poster)).size,
+    places: new Set(t.links.flatMap(l => (byId[l.poster].countries && byId[l.poster].countries.length ? byId[l.poster].countries : [l.country]))).size,
+    from: t.links[0].year, to: t.links[t.links.length - 1].year })),
 };
 write(join(OUT, 'data', 'catalogue.json'), JSON.stringify(catalogue));
 for (const p of posters) write(join(OUT, 'data', 'posters', p.id + '.json'), JSON.stringify(p));

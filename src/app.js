@@ -33,6 +33,7 @@ function keyIcon() {
 /* ---------- what the site remembers while it is open ---------- */
 const S = { cat: null, posters: new Map(), memory: {}, leave: null, held: false, theme: null, threads: null };
 try { S.held = sessionStorage.getItem('pa-held') === '1'; } catch { /* private window: carry on without it */ }
+const tgo = (path, text) => link(path, { class: 'tgo' }, el('span', null, text), el('i', { 'aria-hidden': 'true' }));   // a link drawn as a thread: words, then a fine line that lengthens
 const setHeld = v => { S.held = v; try { sessionStorage.setItem('pa-held', v ? '1' : '0'); } catch { /* fine */ } document.dispatchEvent(new CustomEvent('pa-key')); };
 const getJSON = async p => { const r = await fetch(url(p)); if (!r.ok) throw new Error(p); return r.json(); };
 const loadPoster = async id => { if (!S.posters.has(id)) S.posters.set(id, await getJSON(`data/posters/${id}.json`)); return S.posters.get(id); };
@@ -250,15 +251,14 @@ async function viewPoster(id, firstLook) {
           el('p', { class: 'where' }, l.exact ? `Look ${mem.trail.length} · you went to ${here}`
             : `Look ${mem.trail.length} · you went to ${here}. Nothing is written about that exact spot yet. The nearest detail is at ${P.gridRef(r.x, r.y)}.`),
           el('h2', { class: 'name' }, r.label), el('p', { class: 'sum' }, r.sum),
+          S.held ? null : r.threads.map(t => el('div', { class: 'follow' },          // right under the detail's name, where it is seen without scrolling
+            el('p', { class: 'ft' }, el('span', { class: 'ev interpretation' }, el('i', { 'aria-hidden': 'true' }), 'Thread'), el('strong', null, t.name), el('span', null, t.idea)),
+            el('p', { class: 'fn' }, tgo(`posters/${t.next.poster}/#${t.next.region}`, `Next: ${t.next.title}`),
+              el('span', { class: 'tfacts' }, `${t.at} of ${t.count} · `, link(`threads/${t.id}/`, null, 'see them all'))))),
           el('div', { class: 'secs' }, r.secs.map(secNode)),
           S.held ? null : el('p', { class: 'question' }, el('small', null, 'A question to take with you'), r.q),
           also.length > 0 && el('div', { class: 'also' }, el('span', null, 'Connected on this plate'),
             also.map(a => on(el('button', { type: 'button' }, `${P.gridRef(a.x, a.y)} ${a.short}`), 'click', () => look(a.x, a.y, a)))),
-          r.threads.map(t => el('div', { class: 'follow' },
-            el('span', { class: 'ev interpretation' }, el('i', { 'aria-hidden': 'true' }), `Thread · ${t.name}`),
-            el('p', null, t.idea),
-            link(`posters/${t.next.poster}/#${t.next.region}`, { class: 'go' }, `Next on this thread: ${t.next.title}`),
-            el('p', { class: 'small' }, `${t.next.label}. `, link(`threads/${t.id}/`, null, `See all ${t.count} on this thread`)))),
           el('p', { class: 'next' }, mem.found.size === p.regions.length
             ? `You have found all ${p.regions.length} details on this plate.` : `Where next? ${mem.found.size} of ${p.regions.length} details found.`),
           again(), S.held ? null : extras()];
@@ -322,9 +322,11 @@ async function viewHome() {
   const title = el('strong'), desc = el('span');
   const words = (cat.tagline[1] || '').split(' ').map(w => el('span', { class: 'w' }, w));     // each word wears one poster's colour
   const toggle = el('button', { class: 'link tab-toggle', type: 'button' });
-  const more = el('span', { class: 'about-more' });
-  const chooser = el('div', { class: 'chooser' }, el('span', { class: 'chooser-label', id: 'chooser-label' }, 'Choose a thread'), tabs, calm ? null : toggle);
-  const home = el('div', { class: 'home' }, chooser, el('p', { class: 'about' }, title, desc, more), trio,
+  const more = el('p', { class: 'about-go' });
+  const rest = cat.threads.length - N;
+  const chooser = el('div', { class: 'chooser' }, el('span', { class: 'chooser-label', id: 'chooser-label' }, 'Choose a thread'), tabs,
+    rest > 0 ? link('threads/', { class: 'tab more', 'aria-label': `${rest} more threads` }, el('span', null, `${rest} more`)) : null, calm ? null : toggle);
+  const home = el('div', { class: 'home' }, chooser, el('div', { class: 'about' }, el('p', { class: 'about-text' }, title, desc), more), trio,
     el('div', { class: 'words' },
       el('h1', { class: 'tag' }, el('span', null, cat.tagline[0]), el('span', null, words.flatMap((w, k) => (k ? [' ', w] : [w])))),
       el('p', { class: 'ask2' }, cat.question, el('span', { class: 'hint' }, 'Tap a poster.'))));
@@ -348,7 +350,8 @@ async function viewHome() {
     const mine = ++turn, t = cat.themes[i];
     title.textContent = t.title; desc.textContent = t.description;
     words.forEach((w, k) => { w.style.color = byId[t.ids[k % t.ids.length]].dark; });
-    more.replaceChildren(t.thread ? link(`threads/${t.thread}/`, null, 'Follow this thread') : '', ' · ', link('threads/', null, `All ${cat.threads.length} threads`));
+    const th = cat.threads.find(x => x.id === t.thread);
+    more.replaceChildren(...(th ? [tgo(`threads/${th.id}/`, 'Follow this thread'), el('span', { class: 'tfacts' }, `${th.posters} posters · ${th.places} countries · ${th.from} to ${th.to}`)] : []));
     tabs.replaceChildren(...cat.themes.map((x, k) => on(
       el('button', { class: 'tab', type: 'button', 'aria-pressed': String(k === i) }, el('span', null, x.short), el('i', { 'aria-hidden': 'true' })),
       'click', () => { setAuto(false); show(k); })));
