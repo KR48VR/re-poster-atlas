@@ -36,7 +36,8 @@ const S = { cat: null, posters: new Map(), memory: {}, leave: null, held: false,
 try { S.held = sessionStorage.getItem('pa-held') === '1'; } catch { /* private window: carry on without it */ }
 const tgo = (path, text) => link(path, { class: 'tgo' }, el('span', null, text), el('i', { 'aria-hidden': 'true' }));   // a link drawn as a thread: words, then a fine line that lengthens
 const setHeld = v => { S.held = v; try { sessionStorage.setItem('pa-held', v ? '1' : '0'); } catch { /* fine */ } document.dispatchEvent(new CustomEvent('pa-key')); };
-const getJSON = async p => { const r = await fetch(url(p)); if (!r.ok) throw new Error(p); return r.json(); };
+const VER = document.querySelector('meta[name="pa-v"]')?.content || '';      // changes with every release, so saved copies of the data are never stale
+const getJSON = async p => { const r = await fetch(url(p) + (VER ? '?v=' + VER : '')); if (!r.ok) throw new Error(p); return r.json(); };
 const loadPoster = async id => { if (!S.posters.has(id)) S.posters.set(id, await getJSON(`data/posters/${id}.json`)); return S.posters.get(id); };
 function colours(ground, ink) {
   const r = document.documentElement.style; r.setProperty('--ground', ground); r.setProperty('--ink', ink);

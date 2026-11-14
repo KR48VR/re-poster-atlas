@@ -5,6 +5,7 @@
 import { readFileSync, writeFileSync, mkdirSync, readdirSync, cpSync, rmSync, existsSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { createHash } from 'node:crypto';
 
 const ROOT = dirname(fileURLToPath(import.meta.url));
 const C = join(ROOT, 'content');
@@ -125,6 +126,11 @@ for (const t of threads) t.links.forEach((l, i) => {
     next: { poster: next.poster, region: next.region, title: next.title, label: next.label } });
 });
 
+/* A short stamp of everything a visitor's browser might have kept from last time. It changes whenever the site does,
+   so a returning visitor always gets the new files and never a mix of old and new. */
+const VER = createHash('sha1').update(readFileSync(join(ROOT, 'src', 'app.js'))).update(readFileSync(join(ROOT, 'src', 'app.css')))
+  .update(JSON.stringify(posters)).update(JSON.stringify(threads)).update(JSON.stringify(home)).digest('hex').slice(0, 10);
+
 /* ---------- write the site ---------- */
 rmSync(OUT, { recursive: true, force: true });
 mkdirSync(OUT, { recursive: true });
@@ -175,7 +181,8 @@ const page = ({ root, path, title, description, image, ground, ink, view, id, bo
 <link rel="icon" href="${root}favicon.svg" type="image/svg+xml">
 <link rel="preload" as="font" type="font/woff2" href="${root}fonts/bodoni-moda-latin-normal.woff2" crossorigin>
 <link rel="preload" as="font" type="font/woff2" href="${root}fonts/instrument-sans-latin-normal.woff2" crossorigin>
-<link rel="stylesheet" href="${root}app.css">
+<meta name="pa-v" content="${VER}">
+<link rel="stylesheet" href="${root}app.css?v=${VER}">
 <meta name="pa-root" content="${root}">
 <style>:root{--ground:${ground};--ink:${ink}}</style>
 </head>
@@ -187,7 +194,7 @@ const page = ({ root, path, title, description, image, ground, ink, view, id, bo
 ${body}
 </main>
 </div>
-${view === 'page' ? '' : `<script type="module" src="${root}app.js"></script>`}
+${view === 'page' ? '' : `<script type="module" src="${root}app.js?v=${VER}"></script>`}
 </body>
 </html>
 `;
