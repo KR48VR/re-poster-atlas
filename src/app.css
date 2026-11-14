@@ -314,7 +314,7 @@ body[data-view="search"] .bar-nav a:hover { color: var(--ink); }
 .sq { font-size: 16px; color: var(--soft); }
 #sq { width: 100%; margin: 2px 0 0; padding: 0 0 6px; border: 0; border-bottom: 2px solid var(--rule); border-radius: 0; background: transparent; color: var(--ink); caret-color: var(--ink); -webkit-appearance: none; appearance: none;
   font-family: var(--display); font-weight: 800; letter-spacing: -0.012em; font-optical-sizing: none; font-variation-settings: "opsz" 22; font-size: clamp(36px, 7.4vw, 112px); line-height: 1.05; }
-#sq::placeholder { color: var(--ink); opacity: .34; }
+#sq::placeholder { color: var(--ink); opacity: .42; }
 #sq:focus { outline: none; border-bottom-color: var(--ink); }
 #sq:focus-visible { outline: none; }
 #sq::-webkit-search-cancel-button { -webkit-appearance: none; }

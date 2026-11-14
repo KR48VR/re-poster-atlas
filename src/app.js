@@ -588,7 +588,7 @@ async function viewSearch() {
       r.fixed.length && found.length ? ` Read as “${r.fixed.map(f => f[1]).join(' ')}”.` : '',
       r.missing.length && found.length ? ` Not in the notes: ${r.missing.join(', ')}.` : '');
     // A name, a place or a date was asked for: posters first. An idea was asked for: the details first.
-    const named = r.posters.some(x => x.got.every(g => ['title', 'maker', 'place'].includes(x.doc.best.get(g.term))));
+    const named = r.posters.some(x => x.got.every(g => g.how !== 'close' && ['title', 'maker', 'place'].includes(x.doc.best.get(g.term))));
     const posters = r.posters.length > 0 && el('section', null, el('h2', null, named ? 'Posters' : 'Posters that are about this as a whole'), el('div', { class: 'wall' }, r.posters.slice(0, 12).map(x => posterTile(x.doc.p))));
     const details = r.details.length > 0 && el('section', null, el('h2', null, 'Details'), el('div', { class: 'wall' }, r.details.slice(0, shown).map(detailTile)),
       r.details.length > shown && on(el('button', { class: 'link more24', type: 'button' }, `Show ${Math.min(24, r.details.length - shown)} more`), 'click', () => { shown += 24; draw(false); }));
@@ -630,7 +630,8 @@ async function route(state, first) {
     document.getElementById('main')?.prepend(el('p', { class: 'lead' }, 'This page could not be loaded. Reload to try again.'));
     throw e;
   }
-  if (!first) { scrollTo(0, 0); document.getElementById('main')?.focus({ preventScroll: true }); }
+  // After moving to a new view, the keyboard starts at its content. On the search page that means the line to type on.
+  if (!first) { scrollTo(0, 0); ((w.view === 'search' && !narrow() && document.getElementById('sq')) || document.getElementById('main'))?.focus({ preventScroll: true }); }
 }
 function go(path, state) { history.pushState(null, '', url(path)); route(state, false); }
 addEventListener('popstate', () => route(null, false));
