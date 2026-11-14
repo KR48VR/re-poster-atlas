@@ -3,6 +3,8 @@
 128 posters and book covers from 1891 to 2026, each one opened up detail by detail.
 Made for teachers and anyone who wants to look more closely.
 
+The site lives at https://kr48vr.github.io/re-poster-atlas/ and updates itself whenever this project changes.
+
 ## What is in this project
 
 | Folder or file | What it holds |
