@@ -16190,6 +16190,45 @@
      152
     ]
    ]
+  },
+  "the-wind-rises": {
+   "mode": "computed",
+   "width": 1064,
+   "height": 1500,
+   "labels": [
+    "Sky & open space",
+    "Clouds & depth",
+    "Aircraft & motion",
+    "Portrait & clothing",
+    "Upper lettering & logo",
+    "Title & small print"
+   ],
+   "shortLabels": [
+    "Sky",
+    "Clouds",
+    "Aircraft",
+    "Portrait",
+    "Lettering",
+    "Title + credits"
+   ],
+   "descriptions": [
+    "The blue field gives the image its scale and makes the lighter forms easy to distinguish.",
+    "Light and shadow give the clouds volume. Notice the contrast between soft cloud forms and straight wings.",
+    "The cropped wing and diagonal flight path bring motion into a still image.",
+    "The face, raised arm and clothing bring a human scale to the expanse of sky.",
+    "The slogan, dedication and studio mark create a second way of reading the space above the figure.",
+    "A vivid title works from a distance; cast, music and production credits reward a closer look."
+   ],
+   "sources": [
+    "/layers/studies/the-wind-rises/plane-0.png",
+    "/layers/studies/the-wind-rises/plane-1.png",
+    "/layers/studies/the-wind-rises/plane-2.png",
+    "/layers/studies/the-wind-rises/plane-3.png",
+    "/layers/studies/the-wind-rises/plane-4.png",
+    "/layers/studies/the-wind-rises/plane-5.png"
+   ],
+   "methodNote": "Split ahead of time with the same recipe the original site ran in the browser.",
+   "anchorLayer": 3
   }
  },
  "readings": {

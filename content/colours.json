@@ -1,0 +1,6 @@
+{
+  "vertigo": { "ground": "#c93d14", "ink": "#ffffeb" },
+  "normandie": { "ground": "#698b8a", "ink": "#171717" },
+  "moulin-rouge": { "ground": "#d7c45d", "ink": "#191919" },
+  "the-wind-rises": { "ground": "#195d94", "ink": "#f4f8fa" }
+}

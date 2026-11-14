@@ -76,7 +76,8 @@
     "related": [
      "director",
      "production"
-    ]
+    ],
+    "layerIndex": 4
    },
    {
     "id": "calligraphy",
@@ -142,7 +143,8 @@
      "title",
      "dedication",
      "sky"
-    ]
+    ],
+    "layerIndex": 4
    },
    {
     "id": "dedication",
@@ -208,7 +210,8 @@
      "aircraft",
      "portrait",
      "title"
-    ]
+    ],
+    "layerIndex": 4
    },
    {
     "id": "aircraft",
@@ -256,7 +259,8 @@
      "glasses",
      "dedication",
      "clouds"
-    ]
+    ],
+    "layerIndex": 2
    },
    {
     "id": "sky",
@@ -310,7 +314,8 @@
      "clouds",
      "calligraphy",
      "title"
-    ]
+    ],
+    "layerIndex": 0
    },
    {
     "id": "clouds",
@@ -356,7 +361,8 @@
      "sky",
      "aircraft",
      "portrait"
-    ]
+    ],
+    "layerIndex": 1
    },
    {
     "id": "portrait",
@@ -406,7 +412,8 @@
      "glasses",
      "dedication",
      "aircraft"
-    ]
+    ],
+    "layerIndex": 3
    },
    {
     "id": "glasses",
@@ -453,7 +460,8 @@
      "aircraft",
      "portrait",
      "clothing"
-    ]
+    ],
+    "layerIndex": 3
    },
    {
     "id": "hat",
@@ -493,7 +501,8 @@
      "title",
      "clothing",
      "sky"
-    ]
+    ],
+    "layerIndex": 3
    },
    {
     "id": "clothing",
@@ -543,7 +552,8 @@
      "title",
      "portrait",
      "hat"
-    ]
+    ],
+    "layerIndex": 3
    },
    {
     "id": "director",
@@ -599,7 +609,8 @@
      "studio",
      "title",
      "production"
-    ]
+    ],
+    "layerIndex": 5
    },
    {
     "id": "title",
@@ -682,7 +693,8 @@
      "calligraphy",
      "dedication",
      "sky"
-    ]
+    ],
+    "layerIndex": 5
    },
    {
     "id": "cast",
@@ -745,7 +757,8 @@
      "music",
      "director",
      "production"
-    ]
+    ],
+    "layerIndex": 5
    },
    {
     "id": "music",
@@ -800,7 +813,8 @@
      "cast",
      "title",
      "production"
-    ]
+    ],
+    "layerIndex": 5
    },
    {
     "id": "production",
@@ -854,7 +868,8 @@
      "director",
      "sponsors",
      "release"
-    ]
+    ],
+    "layerIndex": 5
    },
    {
     "id": "sponsors",
@@ -909,7 +924,8 @@
      "production",
      "release",
      "studio"
-    ]
+    ],
+    "layerIndex": 5
    },
    {
     "id": "release",
@@ -958,7 +974,8 @@
      "sponsors",
      "footer",
      "title"
-    ]
+    ],
+    "layerIndex": 5
    },
    {
     "id": "footer",
@@ -1017,7 +1034,8 @@
      "studio",
      "production",
      "release"
-    ]
+    ],
+    "layerIndex": 5
    }
   ],
   "sources": [
