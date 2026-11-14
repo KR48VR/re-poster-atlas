@@ -88,6 +88,13 @@ function makePlate(p, { ticks = true, pull = false } = {}) {
         later(() => { api.light(null); busy = false; done && done(); }, dur * 1000);
       }, dur * 1000 + hold);
     },
+    openNow(level) { if (!count) return; busy = true; if (input) input.value = Math.round(level * 100); api.setOpen(level, 0); },   // start layered
+    collapse(hold, dur, done) {            // then come together
+      later(() => {
+        api.setOpen(0, dur); if (input) input.value = 0;
+        later(() => { api.light(null); busy = false; done && done(); }, dur * 1000);
+      }, hold);
+    },
     spot(k, ms) { api.stop(); api.light('spot', k); later(() => api.light(null), ms); },
     stop() { timers.forEach(clearTimeout); timers = []; busy = false; },
     settle() { api.stop(); api.light(null); if (input) input.value = 0; api.setOpen(0, 0.4); },
@@ -99,13 +106,13 @@ function makePlate(p, { ticks = true, pull = false } = {}) {
 }
 
 /* ---------- the bar across the top, and putting a view on the page ---------- */
-function mount(view, node, mid) {
+function mount(view, node, mid, withKey) {
   document.body.dataset.view = view;
   const key = el('button', { class: 'key', type: 'button', 'aria-pressed': String(S.held), 'aria-label': 'Hold back the notes until you choose to reveal them' }, keyIcon());
   on(key, 'click', () => { setHeld(!S.held); key.setAttribute('aria-pressed', String(S.held)); });
   const bar = el('header', { class: 'bar' },
     link('', { class: 'mark' }, 'Poster Atlas', el('span', { class: 'sub-mark' }, 'Posters, book covers & more')),
-    el('span', { class: 'mid' }, key, mid),
+    el('span', { class: 'mid' }, withKey ? key : null, mid),
     el('nav', { class: 'bar-nav', 'aria-label': 'Site' }, link('collection/', null, 'Collection'), el('a', { href: url('teachers/') }, 'For teachers'), el('a', { href: url('about/') }, 'About')));
   const main = el('main', { id: 'main', tabindex: '-1' }, node);
   document.getElementById('app').replaceChildren(bar, main);
@@ -123,7 +130,7 @@ async function viewPoster(id, firstLook) {
   mount('poster', sheet, [
     link(`posters/${p.prev.id}/`, { class: 'step', 'aria-label': `Previous plate: ${p.prev.title}` }, '‹'),
     el('span', { id: 'plateno' }, `Plate ${String(p.n).padStart(2, '0')} of ${T} · ${p.title}`),
-    link(`posters/${p.next.id}/`, { class: 'step', 'aria-label': `Next plate: ${p.next.title}` }, '›')]);
+    link(`posters/${p.next.id}/`, { class: 'step', 'aria-label': `Next plate: ${p.next.title}` }, '›')], true);
 
   const mem = (S.memory[id] ||= { trail: [], found: new Set() });
   let revealed = false, welcomed = !!firstLook || mem.trail.length > 0 || calm, layersOn = null;
@@ -288,62 +295,87 @@ async function viewPoster(id, firstLook) {
   addEventListener('resize', size);
   S.leave = () => { P.stop(); document.removeEventListener('pa-key', onKey); removeEventListener('resize', size); };
 
+  const opening = !welcomed && P.count > 0;
+  if (opening) P.openNow(0.8);                      // arrive layered, then come together
   size(); render();
   await P.ready();
   if (firstLook) look(firstLook[0], firstLook[1]);
-  else if (!welcomed) setTimeout(() => P.flourish(0.8, 500, 0.9, null, () => { welcomed = true; render(); }), 250);
+  else if (opening) P.collapse(1300, 1.2, () => { welcomed = true; render(); });
+  else if (!welcomed) { welcomed = true; render(); }
 }
 
 /* ---------- the opening page: three posters, opened side by side ---------- */
-async function viewHome(play) {
-  const cat = S.cat, byId = Object.fromEntries(cat.posters.map(p => [p.id, p]));
+async function viewHome() {
+  const cat = S.cat, byId = Object.fromEntries(cat.posters.map(p => [p.id, p])), N = cat.themes.length, CYCLE = 9000;
   colours('#101010', '#ffffff');
-  document.title = 'Poster Atlas';
-  if (S.theme === null) S.theme = Math.floor(Date.now() / 864e5) % cat.themes.length;      // a different thread each day
-  const trio = el('div', { class: 'trio' });
-  const thread = el('p', { class: 'thread' });
-  const threads = el('div', { class: 'threads' });
-  const home = el('div', { class: 'home' + (play && !calm ? ' play' : '') }, trio,
+  document.title = 'Poster Atlas · Posters, book covers & more';
+  if (S.theme === null) S.theme = Math.floor(Date.now() / 864e5) % N;      // a different thread starts each day
+  const trio = el('div', { class: 'trio' }), tabs = el('div', { class: 'tabs', role: 'group', 'aria-labelledby': 'chooser-label' });
+  const title = el('h2', { class: 'thread-title' }), desc = el('p', { class: 'thread' });
+  const toggle = el('button', { class: 'link tab-toggle', type: 'button' });
+  const chooser = el('div', { class: 'chooser' }, el('span', { class: 'chooser-label', id: 'chooser-label' }, 'Choose a thread'), tabs, calm ? null : toggle);
+  const home = el('div', { class: 'home' }, chooser, trio,
     el('div', { class: 'words' },
       el('h1', { class: 'tag' }, cat.tagline.map(t => el('span', null, t))),
-      el('div', { class: 'side' }, el('p', { class: 'ask2' }, cat.question, el('span', { class: 'hint' }, ' Tap a poster.')), thread, threads)));
-  mount('home', home, el('span', null, `${cat.total} plates`));
-  let plates = [], timers = [];
+      el('div', { class: 'side' }, title, desc, el('p', { class: 'ask2' }, cat.question, el('span', { class: 'hint' }, ' Tap a poster.')))));
+  mount('home', home, null, false);
+
+  let plates = [], timers = [], auto = !calm, hovering = false, elapsed = 0, flat = calm, turn = 0;
   const later = (fn, ms) => { timers.push(setTimeout(fn, ms)); };
   const size = () => plates.forEach(({ P, col }) => {
     const w = col.clientWidth - 28, h = col.clientHeight - 84;
     const ph = Math.max(120, Math.min(h, (w * 0.72) / P.p.ratio));
     P.size(ph * P.p.ratio, ph);
   });
-  function show(i, animate) {
+  const setAuto = v => {
+    auto = v; chooser.classList.toggle('manual', !auto);
+    toggle.textContent = auto ? 'Pause' : 'Play';
+    toggle.setAttribute('aria-label', auto ? 'Stop the threads changing by themselves' : 'Let the threads change by themselves');
+  };
+  function show(i) {
     timers.forEach(clearTimeout); timers = []; plates.forEach(x => x.P.stop());
-    S.theme = i; const t = cat.themes[i];
-    thread.replaceChildren(el('strong', null, t.title + ' '), t.description);
-    threads.replaceChildren(el('span', null, 'Threads'), ...cat.themes.map((x, k) => on(
-      el('button', { type: 'button', 'aria-pressed': String(k === i) }, x.short), 'click', () => show(k, true))));
+    S.theme = i; elapsed = 0; flat = calm;
+    const mine = ++turn, t = cat.themes[i];
+    title.textContent = t.title; desc.textContent = t.description;
+    tabs.replaceChildren(...cat.themes.map((x, k) => on(
+      el('button', { class: 'tab', type: 'button', 'aria-pressed': String(k === i) }, el('span', null, x.short), el('i', { 'aria-hidden': 'true' })),
+      'click', () => { setAuto(false); show(k); })));
     plates = t.ids.map((id, k) => {
       const p = byId[id], P = makePlate(p, { ticks: false });
+      if (!calm) P.openNow(1);                                    // each poster arrives layered
       const col = el('div', { class: 'col', style: `--g:${p.ground};--i:${p.ink}` }, P.frame,
         el('p', { class: 'cap' }, el('b', null, t.labels[k]), `${p.title} · ${p.country} · ${p.when}`));
       on(P.plate, 'click', e => {
-        const [x, y] = P.pos(e);
-        timers.forEach(clearTimeout); plates.forEach(q => q.P.settle());
+        const [x, y] = P.pos(e), look = flat ? [x, y] : null;       // a tap on a layered poster just opens its page
+        timers.forEach(clearTimeout); plates.forEach(q => q.P.stop());
         col.classList.add('chosen'); trio.classList.add('leaving');
-        setTimeout(() => go(`posters/${id}/`, { look: P.busy ? null : [x, y] }), calm ? 0 : 320);
+        setTimeout(() => go(`posters/${id}/`, { look }), calm ? 0 : 320);
       });
       return { P, col };
     });
     trio.classList.remove('leaving'); trio.replaceChildren(...plates.map(x => x.col));
     size();
-    if (!animate || calm) return;
     Promise.all(plates.map(x => x.P.ready())).then(() => {
-      plates.forEach((x, k) => later(() => x.P.setOpen(1, 1.3), 450 + k * 260));       // they open one after another
-      later(() => plates.forEach(x => x.P.setOpen(0, 1.2)), 450 + 520 + 1300 + 1500);  // and close together
+      if (mine !== turn) return;
+      plates.forEach(x => x.col.classList.add('in'));
+      if (calm) return;
+      plates.forEach((x, k) => x.P.collapse(1500 + k * 140, 1.3));  // then they come together
+      later(() => { flat = true; }, 1500 + 280 + 1300);
     });
   }
+  on(toggle, 'click', () => setAuto(!auto));
+  on(trio, 'pointerenter', () => { hovering = true; });
+  on(trio, 'pointerleave', () => { hovering = false; });
+  const ticker = setInterval(() => {                                // move on to the next thread every few seconds
+    if (!auto || hovering || document.hidden) return;
+    elapsed += 100;
+    const bar = tabs.querySelector('.tab[aria-pressed="true"] i');
+    if (bar) bar.style.transform = `scaleX(${Math.min(1, elapsed / CYCLE)})`;
+    if (elapsed >= CYCLE) show((S.theme + 1) % N);
+  }, 100);
   addEventListener('resize', size);
-  S.leave = () => { timers.forEach(clearTimeout); plates.forEach(x => x.P.stop()); removeEventListener('resize', size); };
-  show(S.theme, true);
+  S.leave = () => { clearInterval(ticker); timers.forEach(clearTimeout); plates.forEach(x => x.P.stop()); removeEventListener('resize', size); };
+  setAuto(!calm); show(S.theme);
 }
 
 /* ---------- the collection ---------- */
@@ -370,7 +402,7 @@ async function viewCollection() {
     if (state.order === 'Title') list = [...list].sort((a, b) => a.title.localeCompare(b.title));
     count.textContent = `${list.length} of ${cat.total}`;
     wall.replaceChildren(...list.map(p => link(`posters/${p.id}/`, { class: 'tile' },
-      el('span', { class: 'sw', style: `--g:${p.ground}` }, el('img', { src: url(`img/thumb/${p.id}.webp`), alt: '', loading: 'lazy', width: Math.round(420 * p.ratio), height: 420 })),
+      el('span', { class: 'sw', style: `--g:${p.ground}` }, el('img', { src: url(`img/thumb/${p.id}.webp`), alt: '', loading: 'lazy' })),
       el('span', { class: 't' }, p.title), el('span', { class: 'm' }, `${p.country} · ${p.when}`))));
   }
   mount('collection', el('div', { class: 'coll' },
@@ -379,7 +411,7 @@ async function viewCollection() {
       select('Decade', 'decade', [['', 'Any decade'], ...decades.map(d => [String(d), d + 's'])]),
       select('Country', 'country', [['', 'Anywhere'], ...countries.map(c => [c, c])]),
       select('Order', 'order', [['Curated', 'Curated order'], ['Oldest', 'Oldest first'], ['Newest', 'Newest first'], ['Title', 'Title A to Z']])),
-    count, wall), el('span', null, `${cat.total} plates`));
+    count, wall), null, false);
   draw();
 }
 
@@ -398,7 +430,7 @@ async function route(state, first) {
     S.cat ||= await getJSON('data/catalogue.json');
     if (w.view === 'poster' && S.cat.posters.some(p => p.id === w.id)) await viewPoster(w.id, state?.look || null);
     else if (w.view === 'collection') await viewCollection();
-    else await viewHome(first);
+    else await viewHome();
   } catch (e) {
     document.getElementById('main')?.prepend(el('p', { class: 'lead' }, 'This page could not be loaded. Reload to try again.'));
     throw e;

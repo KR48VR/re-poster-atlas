@@ -1,0 +1,2448 @@
+[
+ {
+  "id": "colour",
+  "name": "Colour",
+  "headline": "Colour becomes a signal.",
+  "idea": "One strong colour, used sparingly, tells the eye where to go.",
+  "fromKing": true,
+  "links": [
+   {
+    "poster": "moulin-rouge",
+    "region": "moulin-rouge-name",
+    "title": "Moulin Rouge: La Goulue",
+    "country": "France",
+    "year": 1891,
+    "label": "A name repeated three times",
+    "sum": "The venue becomes a vertical rhythm.",
+    "fromKing": true
+   },
+   {
+    "poster": "mexico-1968",
+    "region": "rings",
+    "title": "Mexico 1968 Olympic Games",
+    "country": "Mexico",
+    "year": 1968,
+    "label": "Five linked rings",
+    "sum": "A familiar emblem is fitted into the numerals.",
+    "fromKing": true
+   },
+   {
+    "poster": "the-wind-rises",
+    "region": "title",
+    "title": "The Wind Rises",
+    "country": "Japan",
+    "year": 2013,
+    "label": "The title rises in pink",
+    "sum": "Literary words become the poster’s boldest colour accent.",
+    "fromKing": true
+   },
+   {
+    "poster": "book-my-name-is-red",
+    "region": "author",
+    "title": "My Name Is Red",
+    "country": "Türkiye",
+    "year": 2012,
+    "label": "A saturated red name",
+    "sum": "Orhan Pamuk is set in two large red lines above the painting.",
+    "fromKing": false
+   },
+   {
+    "poster": "skegness-is-so-bracing",
+    "region": "scarf",
+    "title": "Skegness is SO Bracing",
+    "country": "United Kingdom",
+    "year": 1908,
+    "label": "A red strip in the breeze",
+    "sum": "The strongest warm accent crosses the upper body.",
+    "fromKing": false
+   },
+   {
+    "poster": "breathless",
+    "region": "lips",
+    "title": "Breathless",
+    "country": "France",
+    "year": 1960,
+    "label": "The saturated mouth",
+    "sum": "A red-orange accent ends the face’s downward path.",
+    "fromKing": false
+   },
+   {
+    "poster": "tokyo-1964-first-poster",
+    "region": "disc",
+    "title": "Tokyo 1964 — First Official Poster",
+    "country": "Japan",
+    "year": 1961,
+    "label": "One solid red disc",
+    "sum": "The largest shape contains almost no internal division.",
+    "fromKing": false
+   },
+   {
+    "poster": "raise-the-red-lantern",
+    "region": "title",
+    "title": "Raise the Red Lantern",
+    "country": "China / Hong Kong / Taiwan",
+    "year": 1991,
+    "label": "The vertical red title",
+    "sum": "Words share the lanterns’ colour.",
+    "fromKing": false
+   },
+   {
+    "poster": "jaws",
+    "region": "title",
+    "title": "Jaws",
+    "country": "United States",
+    "year": 1975,
+    "label": "The red title",
+    "sum": "Four letters sit above the water.",
+    "fromKing": false
+   },
+   {
+    "poster": "the-third-man",
+    "region": "title",
+    "title": "The Third Man",
+    "country": "United Kingdom / United States",
+    "year": 1949,
+    "label": "A red line across black",
+    "sum": "Compact capitals hold the title together.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-human-acts",
+    "region": "panel",
+    "title": "Human Acts",
+    "country": "South Korea",
+    "year": 2014,
+    "label": "Orange title panel",
+    "sum": "One orderly shape interrupts the busy flowers.",
+    "fromKing": false
+   },
+   {
+    "poster": "mother-india",
+    "region": "mother-india-blouse",
+    "title": "Mother India",
+    "country": "India",
+    "year": 1957,
+    "label": "The magenta foreground",
+    "sum": "One concentrated colour holds the lower-right side.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-the-stone-virgins",
+    "region": "flower",
+    "title": "The Stone Virgins",
+    "country": "Zimbabwe",
+    "year": 2002,
+    "label": "Bright petals break the dark surface",
+    "sum": "A vivid pink flower spreads in from the left side.",
+    "fromKing": false
+   },
+   {
+    "poster": "bicycle-thieves",
+    "region": "title",
+    "title": "Bicycle Thieves",
+    "country": "Italy",
+    "year": 1948,
+    "label": "The tall red title",
+    "sum": "Narrow letters form a vivid horizontal band.",
+    "fromKing": false
+   }
+  ]
+ },
+ {
+  "id": "character",
+  "name": "Character",
+  "headline": "A character emerges.",
+  "idea": "A shape, an outline or a silhouette turns a figure into a presence.",
+  "fromKing": true,
+  "links": [
+   {
+    "poster": "le-chat-noir",
+    "region": "head",
+    "title": "Le Chat Noir — Prochainement",
+    "country": "France",
+    "year": 1896,
+    "label": "The face inside the silhouette",
+    "sum": "A frontal face interrupts a body turned sideways.",
+    "fromKing": true
+   },
+   {
+    "poster": "my-neighbor-totoro",
+    "region": "totoro",
+    "title": "My Neighbor Totoro",
+    "country": "Japan",
+    "year": 1988,
+    "label": "A broad body with delicate edges",
+    "sum": "Pointed ears, fine whiskers and small paws extend a massive form.",
+    "fromKing": true
+   },
+   {
+    "poster": "book-zoo-city",
+    "region": "birds",
+    "title": "Zoo City",
+    "country": "South Africa",
+    "year": 2014,
+    "label": "Small silhouettes leave the title",
+    "sum": "Small dark birds scatter above and between the upper letters.",
+    "fromKing": true
+   },
+   {
+    "poster": "vertigo",
+    "region": "woman",
+    "title": "Vertigo",
+    "country": "United States",
+    "year": 1958,
+    "label": "The outlined woman",
+    "sum": "An outline remains visible through overlap.",
+    "fromKing": false
+   },
+   {
+    "poster": "godzilla",
+    "region": "godzilla-head",
+    "title": "Godzilla",
+    "country": "Japan",
+    "year": 1954,
+    "label": "A head above the title",
+    "sum": "Teeth, an eye and a rough outline make the monster readable.",
+    "fromKing": false
+   },
+   {
+    "poster": "nosferatu",
+    "region": "body",
+    "title": "Nosferatu",
+    "country": "Germany",
+    "year": 1922,
+    "label": "The hunched silhouette",
+    "sum": "A body presses against the narrow sheet.",
+    "fromKing": false
+   },
+   {
+    "poster": "black-girl",
+    "region": "black-girl-hair",
+    "title": "Black Girl / La Noire de…",
+    "country": "Senegal / France",
+    "year": 1966,
+    "label": "The high dark silhouette",
+    "sum": "Hair gives the portrait an upright boundary.",
+    "fromKing": false
+   },
+   {
+    "poster": "tsotsi",
+    "region": "body",
+    "title": "Tsotsi",
+    "country": "South Africa / United Kingdom",
+    "year": 2005,
+    "label": "A folded dark silhouette",
+    "sum": "Bent knees and a jacket form a compact mass.",
+    "fromKing": false
+   },
+   {
+    "poster": "raise-the-red-lantern",
+    "region": "figure",
+    "title": "Raise the Red Lantern",
+    "country": "China / Hong Kong / Taiwan",
+    "year": 1991,
+    "label": "The seated silhouette",
+    "sum": "A still body balances the moving sequence.",
+    "fromKing": false
+   },
+   {
+    "poster": "taste-of-cherry",
+    "region": "tree",
+    "title": "Taste of Cherry",
+    "country": "Iran / France",
+    "year": 1997,
+    "label": "A canopy with a human face",
+    "sum": "A pink tree outline contains photographic features.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-the-handmaids-tale",
+    "region": "red",
+    "title": "The Handmaid’s Tale",
+    "country": "United States",
+    "year": 2025,
+    "label": "A small red silhouette",
+    "sum": "The more complete figure has a white head covering and a red cloak that widens towards the ground.",
+    "fromKing": false
+   },
+   {
+    "poster": "moulin-rouge",
+    "region": "moulin-rouge-audience",
+    "title": "Moulin Rouge: La Goulue",
+    "country": "France",
+    "year": 1891,
+    "label": "A crowd made from silhouettes",
+    "sum": "Repeated hats make the middle distance.",
+    "fromKing": false
+   },
+   {
+    "poster": "uncle-sam",
+    "region": "uncle-sam-coat",
+    "title": "I Want You for U.S. Army",
+    "country": "United States",
+    "year": 1917,
+    "label": "A broad blue silhouette",
+    "sum": "Dark sleeves and lapels give the upper image its weight.",
+    "fromKing": false
+   },
+   {
+    "poster": "amelie",
+    "region": "hair",
+    "title": "Amélie",
+    "country": "France / Germany",
+    "year": 2001,
+    "label": "The dark bob and fringe",
+    "sum": "A compact dark frame sharpens the face’s outline.",
+    "fromKing": false
+   },
+   {
+    "poster": "city-of-god",
+    "region": "city-of-god-wings",
+    "title": "City of God",
+    "country": "Brazil / Germany / France",
+    "year": 2002,
+    "label": "Wings wider than the body",
+    "sum": "A spread silhouette reaches both sides.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-ret-samadhi",
+    "region": "bird",
+    "title": "Ret Samadhi",
+    "country": "India",
+    "year": 2022,
+    "label": "Outlined bird",
+    "sum": "A small profile faces into the upper field.",
+    "fromKing": false
+   }
+  ]
+ },
+ {
+  "id": "gesture",
+  "name": "Gesture",
+  "headline": "A gesture carries the message.",
+  "idea": "A hand, an arm or a pose says it without words.",
+  "fromKing": true,
+  "links": [
+   {
+    "poster": "we-can-do-it",
+    "region": "we-can-do-it-sleeve",
+    "title": "We Can Do It!",
+    "country": "United States",
+    "year": 1943,
+    "label": "A hand gathers the fabric",
+    "sum": "The second hand makes the arm gesture practical.",
+    "fromKing": true
+   },
+   {
+    "poster": "culture-and-resistance",
+    "region": "raised",
+    "title": "Culture and Resistance",
+    "country": "Botswana",
+    "year": 1982,
+    "label": "The upright fingers",
+    "sum": "An open hand rises beneath the flame.",
+    "fromKing": true
+   },
+   {
+    "poster": "rrr",
+    "region": "hands",
+    "title": "RRR",
+    "country": "India",
+    "year": 2022,
+    "label": "Fingers and crossed sleeves",
+    "sum": "Small hand shapes make the gesture readable.",
+    "fromKing": true
+   },
+   {
+    "poster": "gismonda",
+    "region": "gismonda-hand",
+    "title": "Gismonda",
+    "country": "France",
+    "year": 1894,
+    "label": "Two different hand gestures",
+    "sum": "One hand carries the branch; the other rests near the chest.",
+    "fromKing": false
+   },
+   {
+    "poster": "mother-india",
+    "region": "mother-india-arm",
+    "title": "Mother India",
+    "country": "India",
+    "year": 1957,
+    "label": "The raised arm",
+    "sum": "An arm links the grip to the shoulder.",
+    "fromKing": false
+   },
+   {
+    "poster": "ilo-ilo",
+    "region": "gesture",
+    "title": "Ilo Ilo",
+    "country": "Singapore",
+    "year": 2013,
+    "label": "The pointing hand",
+    "sum": "A small finger sends attention leftward.",
+    "fromKing": false
+   },
+   {
+    "poster": "uncle-sam",
+    "region": "uncle-sam-finger",
+    "title": "I Want You for U.S. Army",
+    "country": "United States",
+    "year": 1917,
+    "label": "A finger points out of the sheet",
+    "sum": "The gesture supplies a visual equivalent of YOU.",
+    "fromKing": false
+   },
+   {
+    "poster": "kitchener",
+    "region": "finger",
+    "title": "Your Country Needs You",
+    "country": "United Kingdom",
+    "year": 1914,
+    "label": "A hand pointing out of the sheet",
+    "sum": "Foreshortening makes the fingertips appear near.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-the-stone-virgins",
+    "region": "hand",
+    "title": "The Stone Virgins",
+    "country": "Zimbabwe",
+    "year": 2002,
+    "label": "A warm hand meets the flower",
+    "sum": "A long-fingered, sculptural-looking hand extends diagonally from the right.",
+    "fromKing": false
+   },
+   {
+    "poster": "the-piano",
+    "region": "hand",
+    "title": "The Piano",
+    "country": "New Zealand / Australia / France",
+    "year": 1993,
+    "label": "The hand beside the cheek",
+    "sum": "Curved fingers introduce another scale of touch.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-metamorphosis",
+    "region": "figure",
+    "title": "The Metamorphosis",
+    "country": "Germany",
+    "year": 1916,
+    "label": "A face hidden by hands",
+    "sum": "The figure bends forward with both hands raised over the face.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-of-air-and-mirrors",
+    "region": "hand",
+    "title": "Of the Air and Mirrors",
+    "country": "Iran",
+    "year": 1974,
+    "label": "A pale hand meets the lower face",
+    "sum": "A large pale hand rises towards the mouth and chin.",
+    "fromKing": false
+   },
+   {
+    "poster": "city-of-god",
+    "region": "city-of-god-raised-arm",
+    "title": "City of God",
+    "country": "Brazil / Germany / France",
+    "year": 2002,
+    "label": "A gesture at the left edge",
+    "sum": "One raised arm breaks the row’s rhythm.",
+    "fromKing": false
+   },
+   {
+    "poster": "in-the-mood-for-love",
+    "region": "hands",
+    "title": "In the Mood for Love",
+    "country": "Hong Kong / France",
+    "year": 2000,
+    "label": "Hands near the collar",
+    "sum": "A small gesture interrupts the costume.",
+    "fromKing": false
+   },
+   {
+    "poster": "yeelen",
+    "region": "hands",
+    "title": "Yeelen",
+    "country": "Mali / France / West Germany / Burkina Faso",
+    "year": 1987,
+    "label": "Hands around a bright object",
+    "sum": "The palms and fingers support the central sphere.",
+    "fromKing": false
+   },
+   {
+    "poster": "moulin-rouge",
+    "region": "moulin-rouge-hand",
+    "title": "Moulin Rouge: La Goulue",
+    "country": "France",
+    "year": 1891,
+    "label": "The hand across the lower edge",
+    "sum": "A cropped gesture extends beyond the upright body.",
+    "fromKing": false
+   },
+   {
+    "poster": "touki-bouki",
+    "region": "hands",
+    "title": "Touki Bouki",
+    "country": "Senegal",
+    "year": 1973,
+    "label": "Hands on the handlebars",
+    "sum": "Small hands connect the bodies to the machine.",
+    "fromKing": false
+   },
+   {
+    "poster": "nosferatu",
+    "region": "hands",
+    "title": "Nosferatu",
+    "country": "Germany",
+    "year": 1922,
+    "label": "The crossing clawed hands",
+    "sum": "Long fingers stretch across the body.",
+    "fromKing": false
+   },
+   {
+    "poster": "ong-bak",
+    "region": "rear-arms",
+    "title": "Ong-Bak",
+    "country": "Thailand",
+    "year": 2003,
+    "label": "Raised arms",
+    "sum": "Bent limbs make strong diagonals across the stone.",
+    "fromKing": false
+   },
+   {
+    "poster": "oldboy",
+    "region": "hand",
+    "title": "Oldboy",
+    "country": "South Korea",
+    "year": 2003,
+    "label": "Open hand at lower right",
+    "sum": "A hand appears far below the smaller head.",
+    "fromKing": false
+   }
+  ]
+ },
+ {
+  "id": "framing",
+  "name": "Framing",
+  "headline": "A frame shapes the story.",
+  "idea": "Borders, crops and panels decide how near we stand.",
+  "fromKing": true,
+  "links": [
+   {
+    "poster": "book-i-am-a-cat",
+    "region": "frame",
+    "title": "I Am a Cat",
+    "country": "Japan",
+    "year": 1906,
+    "label": "Printed picture frame",
+    "sum": "A small boundary organises a large cover.",
+    "fromKing": true
+   },
+   {
+    "poster": "the-piano",
+    "region": "border",
+    "title": "The Piano",
+    "country": "New Zealand / Australia / France",
+    "year": 1993,
+    "label": "A worn-looking enclosure",
+    "sum": "Irregular pale edges enclose the warm image.",
+    "fromKing": true
+   },
+   {
+    "poster": "book-charlie-chan",
+    "region": "robot-panel",
+    "title": "The Art of Charlie Chan Hock Chye",
+    "country": "Singapore",
+    "year": 2026,
+    "label": "Colour comic panel",
+    "sum": "A printed frame introduces another visual register.",
+    "fromKing": true
+   },
+   {
+    "poster": "vertigo",
+    "region": "border",
+    "title": "Vertigo",
+    "country": "United States",
+    "year": 1958,
+    "label": "The pale outer margin",
+    "sum": "A narrow margin frames an intense interior.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-the-hobbit",
+    "region": "border",
+    "title": "The Hobbit",
+    "country": "United Kingdom",
+    "year": 1937,
+    "label": "A repeated angular frame",
+    "sum": "A narrow green and dark patterned border runs along the upper front panel, with matching treatment below.",
+    "fromKing": false
+   },
+   {
+    "poster": "jane-avril",
+    "region": "border",
+    "title": "Jane Avril",
+    "country": "France",
+    "year": 1893,
+    "label": "The enclosing curve",
+    "sum": "An instrument contour becomes a frame.",
+    "fromKing": false
+   },
+   {
+    "poster": "jaws",
+    "region": "frame",
+    "title": "Jaws",
+    "country": "United States",
+    "year": 1975,
+    "label": "The black surround",
+    "sum": "A dark border encloses a much lighter image.",
+    "fromKing": false
+   },
+   {
+    "poster": "a-separation",
+    "region": "scarf",
+    "title": "A Separation",
+    "country": "Iran",
+    "year": 2011,
+    "label": "A dark frame of fabric",
+    "sum": "Brown folds surround the face and descend toward the title.",
+    "fromKing": false
+   },
+   {
+    "poster": "nord-express",
+    "region": "border",
+    "title": "Nord Express",
+    "country": "France",
+    "year": 1927,
+    "label": "The railway-company frame",
+    "sum": "Institutional names surround the pictorial field.",
+    "fromKing": false
+   },
+   {
+    "poster": "the-third-man",
+    "region": "frame",
+    "title": "The Third Man",
+    "country": "United Kingdom / United States",
+    "year": 1949,
+    "label": "A black surround and pale window",
+    "sum": "The montage is held within a strongly bounded sheet.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-the-handmaids-tale",
+    "region": "frame",
+    "title": "The Handmaid’s Tale",
+    "country": "United States",
+    "year": 2025,
+    "label": "The pale margin keeps two worlds apart",
+    "sum": "The cream outer field surrounds the illustrated rectangle and continues behind the black lettering.",
+    "fromKing": false
+   },
+   {
+    "poster": "spirited-away",
+    "region": "small-pig",
+    "title": "Spirited Away",
+    "country": "Japan",
+    "year": 2001,
+    "label": "The partly hidden pig",
+    "sum": "A cropped animal makes the pen extend beyond the frame.",
+    "fromKing": false
+   },
+   {
+    "poster": "parasite",
+    "region": "parasite-legs",
+    "title": "Parasite",
+    "country": "South Korea",
+    "year": 2019,
+    "label": "The body outside the frame",
+    "sum": "A pair of legs enters without an accompanying face.",
+    "fromKing": false
+   },
+   {
+    "poster": "breathless",
+    "region": "face",
+    "title": "Breathless",
+    "country": "France",
+    "year": 1960,
+    "label": "The cropped upper face",
+    "sum": "A giant face meets the edge before the title begins.",
+    "fromKing": false
+   },
+   {
+    "poster": "divan-japonais",
+    "region": "performer",
+    "title": "Divan Japonais",
+    "country": "France",
+    "year": 1892,
+    "label": "A performer whose head is cropped",
+    "sum": "Long black gloves remain visible at the upper left.",
+    "fromKing": false
+   },
+   {
+    "poster": "oldboy",
+    "region": "foreground-face",
+    "title": "Oldboy",
+    "country": "South Korea",
+    "year": 2003,
+    "label": "Cropped foreground face",
+    "sum": "A face enters from the left edge at close range.",
+    "fromKing": false
+   },
+   {
+    "poster": "hope",
+    "region": "creature",
+    "title": "Hope",
+    "country": "South Korea",
+    "year": 2026,
+    "label": "A creature cut by the frame",
+    "sum": "Only part of an enormous head is visible.",
+    "fromKing": false
+   },
+   {
+    "poster": "pather-panchali",
+    "region": "circle",
+    "title": "Pather Panchali",
+    "country": "India",
+    "year": 1955,
+    "label": "The pale circular frame",
+    "sum": "A round field gathers separate portraits.",
+    "fromKing": false
+   }
+  ]
+ },
+ {
+  "id": "motion",
+  "name": "Motion",
+  "headline": "The page begins to move.",
+  "idea": "A diagonal, a lean or a sweep gives a still image momentum.",
+  "fromKing": true,
+  "links": [
+   {
+    "poster": "book-catcher-in-the-rye",
+    "region": "tail",
+    "title": "The Catcher in the Rye",
+    "country": "United States",
+    "year": 1951,
+    "label": "Fine movement over a red field",
+    "sum": "Long dark tail strokes run across the red upper field and approach the lower line of yellow title.",
+    "fromKing": true
+   },
+   {
+    "poster": "harder-they-come",
+    "region": "guns",
+    "title": "The Harder They Come",
+    "country": "Jamaica",
+    "year": 1972,
+    "label": "Two directions of action",
+    "sum": "One weapon points upward and another outward.",
+    "fromKing": true
+   },
+   {
+    "poster": "book-the-whale-rider",
+    "region": "tail",
+    "title": "The Whale Rider",
+    "country": "New Zealand",
+    "year": 2008,
+    "label": "The broad sweep narrows below",
+    "sum": "The lower section becomes a long tapering sweep.",
+    "fromKing": true
+   },
+   {
+    "poster": "vertigo",
+    "region": "man",
+    "title": "Vertigo",
+    "country": "United States",
+    "year": 1958,
+    "label": "The falling silhouette",
+    "sum": "A dense body interrupts the fine lines.",
+    "fromKing": false
+   },
+   {
+    "poster": "everything-everywhere-all-at-once",
+    "region": "left-man",
+    "title": "Everything Everywhere All at Once",
+    "country": "United States",
+    "year": 2022,
+    "label": "A sideways portrait at left",
+    "sum": "A tilted figure leans into the central title.",
+    "fromKing": false
+   },
+   {
+    "poster": "battle-of-algiers",
+    "region": "street-shadow",
+    "title": "The Battle of Algiers",
+    "country": "Algeria / Italy",
+    "year": 1966,
+    "label": "Diagonal light and shade",
+    "sum": "A diagonal boundary cuts through the architecture.",
+    "fromKing": false
+   },
+   {
+    "poster": "culture-and-resistance",
+    "region": "title",
+    "title": "Culture and Resistance",
+    "country": "Botswana",
+    "year": 1982,
+    "label": "Words on a rising diagonal",
+    "sum": "The event’s central idea tilts upward.",
+    "fromKing": false
+   },
+   {
+    "poster": "the-wind-rises",
+    "region": "aircraft",
+    "title": "The Wind Rises",
+    "country": "Japan",
+    "year": 2013,
+    "label": "Flight, beauty and responsibility",
+    "sum": "A diagonal machine opens a question about making.",
+    "fromKing": false
+   },
+   {
+    "poster": "daily-herald-early-bird",
+    "region": "trails",
+    "title": "Daily Herald — The Early Bird",
+    "country": "United Kingdom",
+    "year": 1918,
+    "label": "Long lower diagonals",
+    "sum": "Pale streak-like forms continue the flock’s movement.",
+    "fromKing": false
+   },
+   {
+    "poster": "musica-viva",
+    "region": "text-angle",
+    "title": "Musica viva",
+    "country": "Switzerland",
+    "year": 1958,
+    "label": "The shared diagonal of words",
+    "sum": "The text takes its direction from the large geometry.",
+    "fromKing": false
+   },
+   {
+    "poster": "manila-in-the-claws-of-light",
+    "region": "title",
+    "title": "Manila in the Claws of Light",
+    "country": "Philippines",
+    "year": 1975,
+    "label": "MAYNILA on a rising diagonal",
+    "sum": "The largest red word gives the lower sheet a strong direction.",
+    "fromKing": false
+   },
+   {
+    "poster": "breathless",
+    "region": "runner",
+    "title": "Breathless",
+    "country": "France",
+    "year": 1960,
+    "label": "The small moving torso",
+    "sum": "A smaller figure crosses the open middle.",
+    "fromKing": false
+   },
+   {
+    "poster": "jane-avril",
+    "region": "stage",
+    "title": "Jane Avril",
+    "country": "France",
+    "year": 1893,
+    "label": "The diagonal stage boards",
+    "sum": "Long lines carry the eye into the picture.",
+    "fromKing": false
+   },
+   {
+    "poster": "metropolis",
+    "region": "rays",
+    "title": "Metropolis",
+    "country": "Germany",
+    "year": 1927,
+    "label": "Gold wedges of light",
+    "sum": "Diagonal bands interrupt the vertical city.",
+    "fromKing": false
+   },
+   {
+    "poster": "nord-express",
+    "region": "engine",
+    "title": "Nord Express",
+    "country": "France",
+    "year": 1927,
+    "label": "The locomotive’s great diagonal",
+    "sum": "An enormous dark structure cuts across the page.",
+    "fromKing": false
+   },
+   {
+    "poster": "rrr",
+    "region": "right-pose",
+    "title": "RRR",
+    "country": "India",
+    "year": 2022,
+    "label": "Right dancer’s lean",
+    "sum": "The second figure answers the first without duplicating it.",
+    "fromKing": false
+   },
+   {
+    "poster": "bauhaus",
+    "region": "bar",
+    "title": "Bauhaus Exhibition, Weimar",
+    "country": "Germany",
+    "year": 1923,
+    "label": "The red diagonal bar",
+    "sum": "A broad accent separates two large black structures.",
+    "fromKing": false
+   },
+   {
+    "poster": "godzilla",
+    "region": "godzilla-beam",
+    "title": "Godzilla",
+    "country": "Japan",
+    "year": 1954,
+    "label": "A diagonal from the open mouth",
+    "sum": "An orange streak cuts across the upright forms.",
+    "fromKing": false
+   }
+  ]
+ },
+ {
+  "id": "scale",
+  "name": "Scale",
+  "headline": "Scale tells the story.",
+  "idea": "Something tiny makes something else enormous.",
+  "fromKing": true,
+  "links": [
+   {
+    "poster": "normandie",
+    "region": "birds",
+    "title": "Normandie",
+    "country": "France",
+    "year": 1935,
+    "label": "Tiny flock",
+    "sum": "Small familiar marks make a large machine measurable.",
+    "fromKing": true
+   },
+   {
+    "poster": "manila-in-the-claws-of-light",
+    "region": "title",
+    "title": "Manila in the Claws of Light",
+    "country": "Philippines",
+    "year": 1975,
+    "label": "MAYNILA on a rising diagonal",
+    "sum": "The largest red word gives the lower sheet a strong direction.",
+    "fromKing": true
+   },
+   {
+    "poster": "book-the-rabbits",
+    "region": "ship",
+    "title": "The Rabbits",
+    "country": "Australia",
+    "year": 2008,
+    "label": "A vast projecting ship form",
+    "sum": "A huge pale ship hull or bow projects across the upper left, with small square openings and a circular emblem.",
+    "fromKing": true
+   },
+   {
+    "poster": "jaws",
+    "region": "swimmer",
+    "title": "Jaws",
+    "country": "United States",
+    "year": 1975,
+    "label": "The small swimmer",
+    "sum": "A horizontal body crosses a vertical threat.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-three-body-problem",
+    "region": "moon",
+    "title": "The Three-Body Problem",
+    "country": "China",
+    "year": 2022,
+    "label": "A tiny pale disc changes the scale",
+    "sum": "A small pale circular disc appears near the right side of the title.",
+    "fromKing": false
+   },
+   {
+    "poster": "godzilla",
+    "region": "godzilla-city",
+    "title": "Godzilla",
+    "country": "Japan",
+    "year": 1954,
+    "label": "Architecture beneath the giant",
+    "sum": "Buildings provide a second scale comparison.",
+    "fromKing": false
+   },
+   {
+    "poster": "dune",
+    "region": "walker",
+    "title": "Dune",
+    "country": "United States",
+    "year": 2021,
+    "label": "The solitary walker",
+    "sum": "A tiny body changes the scale of the world.",
+    "fromKing": false
+   },
+   {
+    "poster": "the-raid",
+    "region": "tower",
+    "title": "The Raid",
+    "country": "Indonesia / France / United States",
+    "year": 2011,
+    "label": "Towering block",
+    "sum": "The architecture dominates the human scale.",
+    "fromKing": false
+   },
+   {
+    "poster": "musica-viva",
+    "region": "field",
+    "title": "Musica viva",
+    "country": "Switzerland",
+    "year": 1958,
+    "label": "The great pale diamond",
+    "sum": "An enormous quiet shape makes tiny marks matter.",
+    "fromKing": false
+   },
+   {
+    "poster": "star-wars",
+    "region": "mask",
+    "title": "Star Wars",
+    "country": "United States",
+    "year": 1977,
+    "label": "A face enlarged into a world",
+    "sum": "Vader’s mask occupies the scale of a background landscape.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-dekada-70",
+    "region": "date",
+    "title": "Dekada ’70",
+    "country": "Philippines",
+    "year": 2019,
+    "label": "Two huge numerals name a decade",
+    "sum": "The numerals ’70 occupy much of the upper-middle cover in pale thin strokes.",
+    "fromKing": false
+   },
+   {
+    "poster": "nord-express",
+    "region": "engine",
+    "title": "Nord Express",
+    "country": "France",
+    "year": 1927,
+    "label": "The locomotive’s great diagonal",
+    "sum": "An enormous dark structure cuts across the page.",
+    "fromKing": false
+   },
+   {
+    "poster": "mad-max-fury-road",
+    "region": "title",
+    "title": "Mad Max: Fury Road",
+    "country": "Australia / United States",
+    "year": 2015,
+    "label": "Giant MAD MAX",
+    "sum": "The name is the largest object on the page.",
+    "fromKing": false
+   },
+   {
+    "poster": "the-third-man",
+    "region": "face",
+    "title": "The Third Man",
+    "country": "United Kingdom / United States",
+    "year": 1949,
+    "label": "A face larger than the scene",
+    "sum": "The central portrait brings a human scale forward.",
+    "fromKing": false
+   },
+   {
+    "poster": "moulin-rouge",
+    "region": "moulin-rouge-man",
+    "title": "Moulin Rouge: La Goulue",
+    "country": "France",
+    "year": 1891,
+    "label": "A figure almost too close",
+    "sum": "The foreground body changes the scale of the whole room.",
+    "fromKing": false
+   },
+   {
+    "poster": "harder-they-come",
+    "region": "record-figure",
+    "title": "The Harder They Come",
+    "country": "Jamaica",
+    "year": 1972,
+    "label": "A person on the record stack",
+    "sum": "A small seated figure shares space with giant discs.",
+    "fromKing": false
+   },
+   {
+    "poster": "seven-samurai",
+    "region": "hillside",
+    "title": "Seven Samurai",
+    "country": "Japan",
+    "year": 1954,
+    "label": "A distant hillside",
+    "sum": "Tiny silhouettes extend the world above.",
+    "fromKing": false
+   }
+  ]
+ },
+ {
+  "id": "mood",
+  "name": "Mood",
+  "headline": "Colour sets the mood.",
+  "idea": "A palette, a glow or a shadow sets the feeling before a word is read.",
+  "fromKing": true,
+  "links": [
+   {
+    "poster": "skegness-is-so-bracing",
+    "region": "sand",
+    "title": "Skegness is SO Bracing",
+    "country": "United Kingdom",
+    "year": 1908,
+    "label": "A yellow field for the landing",
+    "sum": "Warm ground holds both the joke and the words.",
+    "fromKing": true
+   },
+   {
+    "poster": "taste-of-cherry",
+    "region": "yellow",
+    "title": "Taste of Cherry",
+    "country": "Iran / France",
+    "year": 1997,
+    "label": "A large yellow field",
+    "sum": "A bright ground surrounds reviews and the hybrid image.",
+    "fromKing": true
+   },
+   {
+    "poster": "barbie",
+    "region": "letter",
+    "title": "Barbie",
+    "country": "United States / United Kingdom",
+    "year": 2023,
+    "label": "A letter made into scenery",
+    "sum": "The oversized B appears to hold the people.",
+    "fromKing": true
+   },
+   {
+    "poster": "amelie",
+    "region": "ground",
+    "title": "Amélie",
+    "country": "France / Germany",
+    "year": 2001,
+    "label": "The green glow",
+    "sum": "A mottled field supplies atmosphere without a named location.",
+    "fromKing": false
+   },
+   {
+    "poster": "hope",
+    "region": "smoke",
+    "title": "Hope",
+    "country": "South Korea",
+    "year": 2026,
+    "label": "Haze, sparks and fire",
+    "sum": "A small orange corner interrupts the cool palette.",
+    "fromKing": false
+   },
+   {
+    "poster": "dune",
+    "region": "atmosphere",
+    "title": "Dune",
+    "country": "United States",
+    "year": 2021,
+    "label": "The teal haze",
+    "sum": "A shared colour joins many separate images.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-great-gatsby",
+    "region": "glow",
+    "title": "The Great Gatsby",
+    "country": "United States",
+    "year": 1925,
+    "label": "Hot lower glow",
+    "sum": "Warm light gathers near the foot.",
+    "fromKing": false
+   },
+   {
+    "poster": "raise-the-red-lantern",
+    "region": "ribs",
+    "title": "Raise the Red Lantern",
+    "country": "China / Hong Kong / Taiwan",
+    "year": 1991,
+    "label": "The lantern’s dark ribs",
+    "sum": "Thin dark curves organise the glow.",
+    "fromKing": false
+   },
+   {
+    "poster": "sepet",
+    "region": "sky",
+    "title": "Sepet",
+    "country": "Malaysia",
+    "year": 2004,
+    "label": "A warm open sky",
+    "sum": "A light field surrounds the title and faces.",
+    "fromKing": false
+   },
+   {
+    "poster": "in-the-mood-for-love",
+    "region": "rear-face",
+    "title": "In the Mood for Love",
+    "country": "Hong Kong / France",
+    "year": 2000,
+    "label": "The face behind",
+    "sum": "A second portrait enters from the shadow.",
+    "fromKing": false
+   },
+   {
+    "poster": "spirited-away",
+    "region": "lanterns",
+    "title": "Spirited Away",
+    "country": "Japan",
+    "year": 2001,
+    "label": "Red windows and lamps",
+    "sum": "Small lights colour the architecture.",
+    "fromKing": false
+   },
+   {
+    "poster": "tsotsi",
+    "region": "sky",
+    "title": "Tsotsi",
+    "country": "South Africa / United Kingdom",
+    "year": 2005,
+    "label": "A sky in warm bands",
+    "sum": "Amber clouds fill the upper half.",
+    "fromKing": false
+   },
+   {
+    "poster": "my-neighbor-totoro",
+    "region": "forest",
+    "title": "My Neighbor Totoro",
+    "country": "Japan",
+    "year": 1988,
+    "label": "Rain makes the dark field visible",
+    "sum": "Thin vertical marks reveal depth without filling every dark area.",
+    "fromKing": false
+   }
+  ]
+ },
+ {
+  "id": "writing",
+  "name": "Writing",
+  "headline": "Writing becomes a shape.",
+  "idea": "Letters drawn, built or bent until they act like pictures.",
+  "fromKing": true,
+  "links": [
+   {
+    "poster": "book-for-the-voice",
+    "region": "initial",
+    "title": "For the Voice",
+    "country": "Germany",
+    "year": 1923,
+    "label": "Monumental M",
+    "sum": "A letter becomes the largest structure.",
+    "fromKing": true
+   },
+   {
+    "poster": "festival-teatro-1968",
+    "region": "headline",
+    "title": "4to Festival de Teatro Internacional",
+    "country": "Puerto Rico",
+    "year": 1968,
+    "label": "The festival becomes a block of colour",
+    "sum": "The announcement changes colour within individual words.",
+    "fromKing": true
+   },
+   {
+    "poster": "siam-mashq",
+    "region": "title",
+    "title": "Siah Mashq",
+    "country": "Iran",
+    "year": 2004,
+    "label": "The large Persian title crosses the torso",
+    "sum": "Broad connected letterforms become a shape across the body.",
+    "fromKing": true
+   },
+   {
+    "poster": "the-wind-rises",
+    "region": "calligraphy",
+    "title": "The Wind Rises",
+    "country": "Japan",
+    "year": 2013,
+    "label": "The brush-written call to live",
+    "sum": "Four forceful syllables make the sky speak.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-bumi-manusia",
+    "region": "serifs",
+    "title": "Bumi Manusia",
+    "country": "Indonesia",
+    "year": 1980,
+    "label": "Broad feet anchor tall strokes",
+    "sum": "The large title letters end in wide horizontal feet and projecting terminals.",
+    "fromKing": false
+   },
+   {
+    "poster": "battleship-potemkin",
+    "region": "title",
+    "title": "Battleship Potemkin",
+    "country": "Soviet Union",
+    "year": 1925,
+    "label": "The ship type in large letters",
+    "sum": "Pale block letters follow the hull’s broad curve.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-call-to-arms",
+    "region": "letters",
+    "title": "Call to Arms",
+    "country": "China",
+    "year": 1926,
+    "label": "Uneven strokes within a strict frame",
+    "sum": "The title strokes vary in thickness and direction inside the straight rectangle.",
+    "fromKing": false
+   },
+   {
+    "poster": "normandie",
+    "region": "operator",
+    "title": "Normandie",
+    "country": "France",
+    "year": 1935,
+    "label": "Operator and script",
+    "sum": "Two different lettering voices name the service.",
+    "fromKing": false
+   },
+   {
+    "poster": "mother-india",
+    "region": "mother-india-hindi",
+    "title": "Mother India",
+    "country": "India",
+    "year": 1957,
+    "label": "A second title near the ground",
+    "sum": "Devanagari lettering changes the scale and script.",
+    "fromKing": false
+   },
+   {
+    "poster": "mexico-1968",
+    "region": "identity",
+    "title": "Mexico 1968 Olympic Games",
+    "country": "Mexico",
+    "year": 1968,
+    "label": "Mexico 68",
+    "sum": "The event name belongs to the pattern.",
+    "fromKing": false
+   },
+   {
+    "poster": "akira",
+    "region": "akira-title",
+    "title": "Akira",
+    "country": "Japan",
+    "year": 1988,
+    "label": "Two scripts in one compact block",
+    "sum": "Red Japanese strokes cross heavy black Roman letters.",
+    "fromKing": false
+   },
+   {
+    "poster": "metropolis",
+    "region": "title",
+    "title": "Metropolis",
+    "country": "Germany",
+    "year": 1927,
+    "label": "Letters like structures",
+    "sum": "The title occupies the skyline.",
+    "fromKing": false
+   },
+   {
+    "poster": "solidarnosc",
+    "region": "joins",
+    "title": "Solidarity. Poland ’80",
+    "country": "Poland / United Kingdom",
+    "year": 1980,
+    "label": "Where letters meet",
+    "sum": "Shared edges reduce the gaps.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-born-a-crime",
+    "region": "title",
+    "title": "Born a Crime",
+    "country": "South Africa",
+    "year": 2026,
+    "label": "White lettering bends above the head",
+    "sum": "BORN A CRIME follows a rising and falling white arc above the portrait.",
+    "fromKing": false
+   },
+   {
+    "poster": "kitchener",
+    "region": "you",
+    "title": "Your Country Needs You",
+    "country": "United Kingdom",
+    "year": 1914,
+    "label": "The largest personal word",
+    "sum": "Outlined capitals make the reader the verbal focus.",
+    "fromKing": false
+   },
+   {
+    "poster": "harder-they-come",
+    "region": "title",
+    "title": "The Harder They Come",
+    "country": "Jamaica",
+    "year": 1972,
+    "label": "A title that steps downward",
+    "sum": "Huge outlined words bend around the figure.",
+    "fromKing": false
+   },
+   {
+    "poster": "godzilla",
+    "region": "godzilla-title",
+    "title": "Godzilla",
+    "country": "Japan",
+    "year": 1954,
+    "label": "Three huge red characters",
+    "sum": "The name is another towering presence.",
+    "fromKing": false
+   }
+  ]
+ },
+ {
+  "id": "space",
+  "name": "Open space",
+  "headline": "Empty space does the work.",
+  "idea": "A field with almost nothing in it gives everything else room and weight.",
+  "fromKing": false,
+  "links": [
+   {
+    "poster": "the-wind-rises",
+    "region": "sky",
+    "title": "The Wind Rises",
+    "country": "Japan",
+    "year": 2013,
+    "label": "Blue space to look into",
+    "sum": "The emptiest part does some of the most important work.",
+    "fromKing": false
+   },
+   {
+    "poster": "uncle-sam",
+    "region": "uncle-sam-blank",
+    "title": "I Want You for U.S. Army",
+    "country": "United States",
+    "year": 1917,
+    "label": "Open space left for an address",
+    "sum": "A quiet lower area has a practical role.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-zoo-city",
+    "region": "white",
+    "title": "Zoo City",
+    "country": "South Africa",
+    "year": 2014,
+    "label": "Empty space keeps the words readable",
+    "sum": "White appears around the entire composition and inside the large letters.",
+    "fromKing": false
+   },
+   {
+    "poster": "culture-and-resistance",
+    "region": "paper",
+    "title": "Culture and Resistance",
+    "country": "Botswana",
+    "year": 1982,
+    "label": "The open paper field",
+    "sum": "Large blank areas keep black and red shapes apart.",
+    "fromKing": false
+   },
+   {
+    "poster": "akira",
+    "region": "akira-ground",
+    "title": "Akira",
+    "country": "Japan",
+    "year": 1988,
+    "label": "Pale space around the approach",
+    "sum": "An open field protects the three main forms.",
+    "fromKing": false
+   },
+   {
+    "poster": "chungking-express",
+    "region": "chungking-express-white",
+    "title": "Chungking Express",
+    "country": "Hong Kong",
+    "year": 1994,
+    "label": "A broad pause above the title",
+    "sum": "Open space separates reviews from the main identity.",
+    "fromKing": false
+   },
+   {
+    "poster": "rrr",
+    "region": "sky",
+    "title": "RRR",
+    "country": "India",
+    "year": 2022,
+    "label": "A pastel upper field",
+    "sum": "Cool open space prevents the title from crowding the dancers.",
+    "fromKing": false
+   },
+   {
+    "poster": "jaws",
+    "region": "water",
+    "title": "Jaws",
+    "country": "United States",
+    "year": 1975,
+    "label": "The blue interval",
+    "sum": "Open water gives the approach room.",
+    "fromKing": false
+   },
+   {
+    "poster": "tokyo-1964-first-poster",
+    "region": "field",
+    "title": "Tokyo 1964 — First Official Poster",
+    "country": "Japan",
+    "year": 1961,
+    "label": "Pale space between the signs",
+    "sum": "The empty bands control the pace of reading.",
+    "fromKing": false
+   },
+   {
+    "poster": "manila-in-the-claws-of-light",
+    "region": "space",
+    "title": "Manila in the Claws of Light",
+    "country": "Philippines",
+    "year": 1975,
+    "label": "Open white around the diagonal",
+    "sum": "Empty wedges make the slope easy to see.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-pedro-paramo",
+    "region": "open-field",
+    "title": "Pedro Páramo",
+    "country": "Mexico",
+    "year": 1955,
+    "label": "Paper makes the small image matter",
+    "sum": "A broad unprinted interval separates the horizontal rule from the top of the vignette.",
+    "fromKing": false
+   },
+   {
+    "poster": "oldboy",
+    "region": "black-field",
+    "title": "Oldboy",
+    "country": "South Korea",
+    "year": 2003,
+    "label": "Large black interval",
+    "sum": "Much of the upper half remains nearly empty.",
+    "fromKing": false
+   },
+   {
+    "poster": "aristide-bruant",
+    "region": "paper",
+    "title": "Aristide Bruant",
+    "country": "France",
+    "year": 1893,
+    "label": "The pale surrounding sheet",
+    "sum": "A large quiet area lets the profile face into space.",
+    "fromKing": false
+   },
+   {
+    "poster": "we-can-do-it",
+    "region": "we-can-do-it-yellow",
+    "title": "We Can Do It!",
+    "country": "United States",
+    "year": 1943,
+    "label": "The unoccupied yellow field",
+    "sum": "A strong flat colour lets the silhouette read clearly.",
+    "fromKing": false
+   }
+  ]
+ },
+ {
+  "id": "rhythm",
+  "name": "Rhythm",
+  "headline": "Repetition becomes rhythm.",
+  "idea": "The same mark again and again, until a still page has a beat.",
+  "fromKing": false,
+  "links": [
+   {
+    "poster": "moulin-rouge",
+    "region": "moulin-rouge-name",
+    "title": "Moulin Rouge: La Goulue",
+    "country": "France",
+    "year": 1891,
+    "label": "A name repeated three times",
+    "sum": "The venue becomes a vertical rhythm.",
+    "fromKing": false
+   },
+   {
+    "poster": "mexico-1968",
+    "region": "lines",
+    "title": "Mexico 1968 Olympic Games",
+    "country": "Mexico",
+    "year": 1968,
+    "label": "Lines to the edge",
+    "sum": "The identity spreads beyond its central band.",
+    "fromKing": false
+   },
+   {
+    "poster": "rrr",
+    "region": "right-pose",
+    "title": "RRR",
+    "country": "India",
+    "year": 2022,
+    "label": "Right dancer’s lean",
+    "sum": "The second figure answers the first without duplicating it.",
+    "fromKing": false
+   },
+   {
+    "poster": "everything-everywhere-all-at-once",
+    "region": "arms",
+    "title": "Everything Everywhere All at Once",
+    "country": "United States",
+    "year": 2022,
+    "label": "Repeated arms around the head",
+    "sum": "A fan of limbs turns anatomy into a pattern.",
+    "fromKing": false
+   },
+   {
+    "poster": "the-raid",
+    "region": "windows",
+    "title": "The Raid",
+    "country": "Indonesia / France / United States",
+    "year": 2011,
+    "label": "Repeated windows",
+    "sum": "A grid supplies both scale and texture.",
+    "fromKing": false
+   },
+   {
+    "poster": "delftsche-slaolie",
+    "region": "fabric",
+    "title": "Delftsche Slaolie",
+    "country": "Netherlands",
+    "year": 1894,
+    "label": "The patterned robe",
+    "sum": "Repeated flowers hold a tall silhouette together.",
+    "fromKing": false
+   },
+   {
+    "poster": "musica-viva",
+    "region": "motifs",
+    "title": "Musica viva",
+    "country": "Switzerland",
+    "year": 1958,
+    "label": "A scattered family of squares",
+    "sum": "Small diamonds repeat one orientation at different distances.",
+    "fromKing": false
+   },
+   {
+    "poster": "red-wedge",
+    "region": "red-wedge-red-bars",
+    "title": "Beat the Whites with the Red Wedge",
+    "country": "Soviet Russia",
+    "year": 1920,
+    "label": "Small red forms repeat the larger action",
+    "sum": "Short bars make a secondary cluster at the lower left.",
+    "fromKing": false
+   },
+   {
+    "poster": "ilo-ilo",
+    "region": "title",
+    "title": "Ilo Ilo",
+    "country": "Singapore",
+    "year": 2013,
+    "label": "Two repeated words",
+    "sum": "Black strokes make the name the largest message.",
+    "fromKing": false
+   },
+   {
+    "poster": "priester",
+    "region": "lower",
+    "title": "Priester Matches",
+    "country": "Germany",
+    "year": 1905,
+    "label": "The lower match shaft",
+    "sum": "A second red form repeats the first with a different angle.",
+    "fromKing": false
+   },
+   {
+    "poster": "la-revue-blanche",
+    "region": "dots",
+    "title": "La Revue Blanche",
+    "country": "France",
+    "year": 1895,
+    "label": "Irregular pale dots",
+    "sum": "Small repeated marks keep the dark garment active.",
+    "fromKing": false
+   },
+   {
+    "poster": "we-can-do-it",
+    "region": "we-can-do-it-scarf",
+    "title": "We Can Do It!",
+    "country": "United States",
+    "year": 1943,
+    "label": "A red scarf full of pale dots",
+    "sum": "Pattern interrupts the large blue and yellow areas.",
+    "fromKing": false
+   },
+   {
+    "poster": "battleship-potemkin",
+    "region": "upper-crowd",
+    "title": "Battleship Potemkin",
+    "country": "Soviet Union",
+    "year": 1925,
+    "label": "Figures on the upper deck",
+    "sum": "Small raised arms repeat across the curved deck.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-for-the-voice",
+    "region": "bars",
+    "title": "For the Voice",
+    "country": "Germany",
+    "year": 1923,
+    "label": "Three sloping bars",
+    "sum": "A small repeated gesture adds another angle.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-one-hundred-years-of-solitude",
+    "region": "plants",
+    "title": "One Hundred Years of Solitude",
+    "country": "Argentina",
+    "year": 1967,
+    "label": "Three emblems form a lower rhythm",
+    "sum": "Three broad black plant-like silhouettes stand along the foot of the image.",
+    "fromKing": false
+   },
+   {
+    "poster": "yeelen",
+    "region": "small-sphere",
+    "title": "Yeelen",
+    "country": "Mali / France / West Germany / Burkina Faso",
+    "year": 1987,
+    "label": "A second sphere on the sand",
+    "sum": "A smaller pale form repeats the central shape.",
+    "fromKing": false
+   },
+   {
+    "poster": "skegness-is-so-bracing",
+    "region": "reflection",
+    "title": "Skegness is SO Bracing",
+    "country": "United Kingdom",
+    "year": 1908,
+    "label": "A small echo in the pool",
+    "sum": "A dark vertical trace repeats the figure below.",
+    "fromKing": false
+   }
+  ]
+ },
+ {
+  "id": "smallprint",
+  "name": "The small print",
+  "headline": "The small print tells the business.",
+  "idea": "Credits, dates, prices and logos show who made it, who paid, and what you were meant to do next.",
+  "fromKing": false,
+  "links": [
+   {
+    "poster": "pulp-fiction",
+    "region": "pulp-fiction-price",
+    "title": "Pulp Fiction",
+    "country": "United States",
+    "year": 1994,
+    "label": "A price disc without a ticket offer",
+    "sum": "10¢ makes the sheet resemble a cheap publication.",
+    "fromKing": false
+   },
+   {
+    "poster": "the-third-man",
+    "region": "director",
+    "title": "The Third Man",
+    "country": "United Kingdom / United States",
+    "year": 1949,
+    "label": "The director and release line",
+    "sum": "The bottom closes with authorship and distribution.",
+    "fromKing": false
+   },
+   {
+    "poster": "yol",
+    "region": "award",
+    "title": "Yol",
+    "country": "Turkey / Switzerland / France",
+    "year": 1982,
+    "label": "Cannes award line",
+    "sum": "An award offers a second reason to take notice.",
+    "fromKing": false
+   },
+   {
+    "poster": "my-neighbor-totoro",
+    "region": "credits",
+    "title": "My Neighbor Totoro",
+    "country": "Japan",
+    "year": 1988,
+    "label": "A director’s name beside the small print",
+    "sum": "The large yellow credit is readable where the finer footer is not.",
+    "fromKing": false
+   },
+   {
+    "poster": "battle-of-algiers",
+    "region": "format",
+    "title": "The Battle of Algiers",
+    "country": "Algeria / Italy",
+    "year": 1966,
+    "label": "16 mm distribution line",
+    "sum": "A bottom imprint identifies a circulation format.",
+    "fromKing": false
+   },
+   {
+    "poster": "la-revue-blanche",
+    "region": "address",
+    "title": "La Revue Blanche",
+    "country": "France",
+    "year": 1895,
+    "label": "Paris address and imprint",
+    "sum": "The publication’s location appears below the prices.",
+    "fromKing": false
+   },
+   {
+    "poster": "godzilla",
+    "region": "godzilla-credits",
+    "title": "Godzilla",
+    "country": "Japan",
+    "year": 1954,
+    "label": "Names and a studio line below",
+    "sum": "The lower zone turns spectacle into a named production.",
+    "fromKing": false
+   },
+   {
+    "poster": "spirited-away",
+    "region": "studio",
+    "title": "Spirited Away",
+    "country": "Japan",
+    "year": 2001,
+    "label": "The small studio identity",
+    "sum": "A small white mark occupies the upper corner.",
+    "fromKing": false
+   },
+   {
+    "poster": "the-wind-rises",
+    "region": "studio",
+    "title": "The Wind Rises",
+    "country": "Japan",
+    "year": 2013,
+    "label": "The studio signs the image",
+    "sum": "A small mark brings a whole set of expectations.",
+    "fromKing": false
+   },
+   {
+    "poster": "culture-and-resistance",
+    "region": "imprint",
+    "title": "Culture and Resistance",
+    "country": "Botswana",
+    "year": 1982,
+    "label": "The collective imprint",
+    "sum": "A small line names Medu Art Ensemble.",
+    "fromKing": false
+   },
+   {
+    "poster": "le-chat-noir",
+    "region": "printer",
+    "title": "Le Chat Noir — Prochainement",
+    "country": "France",
+    "year": 1896,
+    "label": "The vertical printer line",
+    "sum": "A small edge inscription records a different role from the large advertised names.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-frankenstein-in-baghdad",
+    "region": "imprint",
+    "title": "Frankenstein in Baghdad",
+    "country": "Iraq",
+    "year": 2022,
+    "label": "Nabu mark at the foot",
+    "sum": "A compact publisher mark closes the cover.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-bumi-manusia",
+    "region": "imprint",
+    "title": "Bumi Manusia",
+    "country": "Indonesia",
+    "year": 1980,
+    "label": "The publisher signs quietly",
+    "sum": "HASTA MITRA appears beside the small emblem, with a much smaller line beneath it.",
+    "fromKing": false
+   },
+   {
+    "poster": "flow",
+    "region": "entry",
+    "title": "Flow",
+    "country": "Latvia / France / Belgium",
+    "year": 2024,
+    "label": "An awards-entry statement",
+    "sum": "The important word is entry.",
+    "fromKing": false
+   },
+   {
+    "poster": "festival-teatro-1968",
+    "region": "sponsor",
+    "title": "4to Festival de Teatro Internacional",
+    "country": "Puerto Rico",
+    "year": 1968,
+    "label": "The institution in the small print",
+    "sum": "Compact wording gives the announcement an institutional voice.",
+    "fromKing": false
+   },
+   {
+    "poster": "skegness-is-so-bracing",
+    "region": "railway",
+    "title": "Skegness is SO Bracing",
+    "country": "United Kingdom",
+    "year": 1908,
+    "label": "G.N.R. above the scene",
+    "sum": "A transport company’s initials lead the sheet.",
+    "fromKing": false
+   }
+  ]
+ },
+ {
+  "id": "surface",
+  "name": "Paper and surface",
+  "headline": "The object behind the image.",
+  "idea": "Folds, grain, wear and ink remind us this was a printed thing someone held.",
+  "fromKing": false,
+  "links": [
+   {
+    "poster": "book-macunaima",
+    "region": "wear",
+    "title": "Macunaíma",
+    "country": "Brazil",
+    "year": 1928,
+    "label": "Paper and scan edges",
+    "sum": "The reproduction retains its physical history.",
+    "fromKing": false
+   },
+   {
+    "poster": "battle-of-algiers",
+    "region": "folds",
+    "title": "The Battle of Algiers",
+    "country": "Algeria / Italy",
+    "year": 1966,
+    "label": "Paper folds and margins",
+    "sum": "Creases run across both pictures and type.",
+    "fromKing": false
+   },
+   {
+    "poster": "la-revue-blanche",
+    "region": "paper",
+    "title": "La Revue Blanche",
+    "country": "France",
+    "year": 1895,
+    "label": "Paper and reproduction",
+    "sum": "Grey paper and a narrow margin surround the figure.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-wonderful-wizard-of-oz",
+    "region": "cloth",
+    "title": "The Wonderful Wizard of Oz",
+    "country": "United States",
+    "year": 1900,
+    "label": "Worn cloth surface",
+    "sum": "The cover remains a physical book.",
+    "fromKing": false
+   },
+   {
+    "poster": "the-goddess",
+    "region": "surface",
+    "title": "The Goddess",
+    "country": "China",
+    "year": 1934,
+    "label": "Print wear and grain",
+    "sum": "A surviving reproduction is part of the evidence.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-bumi-manusia",
+    "region": "paper",
+    "title": "Bumi Manusia",
+    "country": "Indonesia",
+    "year": 1980,
+    "label": "The paper is not an empty colour",
+    "sum": "The pale field varies in warmth and texture, especially near the edges.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-i-am-a-cat",
+    "region": "paper",
+    "title": "I Am a Cat",
+    "country": "Japan",
+    "year": 1906,
+    "label": "Worn paper field",
+    "sum": "A broad tan surface surrounds the picture.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-mrs-dalloway",
+    "region": "paper",
+    "title": "Mrs Dalloway",
+    "country": "United Kingdom",
+    "year": 1925,
+    "label": "Pale paper and wear",
+    "sum": "The ground separates the dark groups.",
+    "fromKing": false
+   },
+   {
+    "poster": "siam-mashq",
+    "region": "sheet-edge",
+    "title": "Siah Mashq",
+    "country": "Iran",
+    "year": 2004,
+    "label": "The reproduction includes the object’s edges",
+    "sum": "The exact museum reproduction preserves the sheet and its surrounding dark margin.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-one-hundred-years-of-solitude",
+    "region": "pale-ground",
+    "title": "One Hundred Years of Solitude",
+    "country": "Argentina",
+    "year": 1967,
+    "label": "The paper remains part of the image",
+    "sum": "Cream paper shows around the upper lettering and through the thin blue hull lines.",
+    "fromKing": false
+   },
+   {
+    "poster": "yol",
+    "region": "sheet",
+    "title": "Yol",
+    "country": "Turkey / Switzerland / France",
+    "year": 1982,
+    "label": "Folds across the sheet",
+    "sum": "Horizontal creases cross unrelated parts of the design.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-great-gatsby",
+    "region": "surface",
+    "title": "The Great Gatsby",
+    "country": "United States",
+    "year": 1925,
+    "label": "Wear across the image",
+    "sum": "This is a reproduction of a particular jacket.",
+    "fromKing": false
+   },
+   {
+    "poster": "keep-calm",
+    "region": "folds",
+    "title": "Keep Calm and Carry On",
+    "country": "United Kingdom",
+    "year": 1939,
+    "label": "The visible horizontal creases",
+    "sum": "Surface lines interrupt an otherwise very regular design.",
+    "fromKing": false
+   },
+   {
+    "poster": "mad-max-fury-road",
+    "region": "letter-texture",
+    "title": "Mad Max: Fury Road",
+    "country": "Australia / United States",
+    "year": 2015,
+    "label": "Worn yellow surfaces",
+    "sum": "Small orange marks disturb the huge letterforms.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-norwegian-wood",
+    "region": "edition",
+    "title": "Norwegian Wood, lower volume",
+    "country": "Japan",
+    "year": 2004,
+    "label": "The specific paperback surface",
+    "sum": "The work’s date and this object’s date differ.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-for-the-voice",
+    "region": "margin",
+    "title": "For the Voice",
+    "country": "Germany",
+    "year": 1923,
+    "label": "Physical cover edge",
+    "sum": "The book remains a physical object.",
+    "fromKing": false
+   },
+   {
+    "poster": "pulp-fiction",
+    "region": "pulp-fiction-book",
+    "title": "Pulp Fiction",
+    "country": "United States",
+    "year": 1994,
+    "label": "A paperback inside a paperback-like poster",
+    "sum": "The prop echoes the design of the whole sheet.",
+    "fromKing": false
+   }
+  ]
+ },
+ {
+  "id": "circles",
+  "name": "Circles",
+  "headline": "A circle holds the eye.",
+  "idea": "Discs, rings, suns and spirals give the eye a place to rest, or nowhere to rest at all.",
+  "fromKing": false,
+  "links": [
+   {
+    "poster": "vertigo",
+    "region": "spiral",
+    "title": "Vertigo",
+    "country": "United States",
+    "year": 1958,
+    "label": "The white spiral",
+    "sum": "Repeated curves make an unstable centre.",
+    "fromKing": false
+   },
+   {
+    "poster": "tokyo-1964-first-poster",
+    "region": "rings",
+    "title": "Tokyo 1964 — First Official Poster",
+    "country": "Japan",
+    "year": 1961,
+    "label": "Five open rings",
+    "sum": "Open circles answer the solid circle above.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-three-body-problem",
+    "region": "moon",
+    "title": "The Three-Body Problem",
+    "country": "China",
+    "year": 2022,
+    "label": "A tiny pale disc changes the scale",
+    "sum": "A small pale circular disc appears near the right side of the title.",
+    "fromKing": false
+   },
+   {
+    "poster": "festival-teatro-1968",
+    "region": "central-eye",
+    "title": "4to Festival de Teatro Internacional",
+    "country": "Puerto Rico",
+    "year": 1968,
+    "label": "An orange circle at the top of a yellow sweep",
+    "sum": "The central circle repeats the eye motif with a warmer centre and a different setting.",
+    "fromKing": false
+   },
+   {
+    "poster": "le-chat-noir",
+    "region": "medallion",
+    "title": "Le Chat Noir — Prochainement",
+    "country": "France",
+    "year": 1896,
+    "label": "The red patterned circle",
+    "sum": "A delicate ring frames a dense black head.",
+    "fromKing": false
+   },
+   {
+    "poster": "ne-zha-2",
+    "region": "wheels",
+    "title": "Ne Zha 2",
+    "country": "China",
+    "year": 2025,
+    "label": "Glowing lower wheels",
+    "sum": "Circular light concentrates the lower movement.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-the-hobbit",
+    "region": "sun",
+    "title": "The Hobbit",
+    "country": "United Kingdom",
+    "year": 1937,
+    "label": "A circle interrupts the angles",
+    "sum": "A thin circular outline appears behind the mountain tips.",
+    "fromKing": false
+   },
+   {
+    "poster": "nord-express",
+    "region": "wheels",
+    "title": "Nord Express",
+    "country": "France",
+    "year": 1927,
+    "label": "The giant wheels",
+    "sum": "Circles are stretched and partly concealed by the viewpoint.",
+    "fromKing": false
+   },
+   {
+    "poster": "touki-bouki",
+    "region": "headlamp",
+    "title": "Touki Bouki",
+    "country": "Senegal",
+    "year": 1973,
+    "label": "The circular lamp",
+    "sum": "A round mechanical shape stabilizes the lower centre.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-for-the-voice",
+    "region": "ring",
+    "title": "For the Voice",
+    "country": "Germany",
+    "year": 1923,
+    "label": "Open ring",
+    "sum": "A rounded form balances the initial.",
+    "fromKing": false
+   },
+   {
+    "poster": "pather-panchali",
+    "region": "circle",
+    "title": "Pather Panchali",
+    "country": "India",
+    "year": 1955,
+    "label": "The pale circular frame",
+    "sum": "A round field gathers separate portraits.",
+    "fromKing": false
+   },
+   {
+    "poster": "mexico-1968",
+    "region": "rings",
+    "title": "Mexico 1968 Olympic Games",
+    "country": "Mexico",
+    "year": 1968,
+    "label": "Five linked rings",
+    "sum": "A familiar emblem is fitted into the numerals.",
+    "fromKing": false
+   },
+   {
+    "poster": "bauhaus",
+    "region": "circle",
+    "title": "Bauhaus Exhibition, Weimar",
+    "country": "Germany",
+    "year": 1923,
+    "label": "The red ring",
+    "sum": "A broad arc gives the upper-left area weight.",
+    "fromKing": false
+   },
+   {
+    "poster": "red-wedge",
+    "region": "red-wedge-circle",
+    "title": "Beat the Whites with the Red Wedge",
+    "country": "Soviet Russia",
+    "year": 1920,
+    "label": "The pale circle receives the point",
+    "sum": "A curved boundary meets a sharp intrusion.",
+    "fromKing": false
+   },
+   {
+    "poster": "nihon-buyo",
+    "region": "circle",
+    "title": "Nihon Buyo",
+    "country": "Japan",
+    "year": 1981,
+    "label": "The cyan circle",
+    "sum": "A complete curve balances the angular composition.",
+    "fromKing": false
+   },
+   {
+    "poster": "everything-everywhere-all-at-once",
+    "region": "medallion",
+    "title": "Everything Everywhere All at Once",
+    "country": "United States",
+    "year": 2022,
+    "label": "A title inside a circle",
+    "sum": "The most orderly words sit at the centre of the busiest image.",
+    "fromKing": false
+   },
+   {
+    "poster": "akira",
+    "region": "akira-wheels",
+    "title": "Akira",
+    "country": "Japan",
+    "year": 1988,
+    "label": "Two dark circles at opposite ends",
+    "sum": "Tyres bookend the vehicle’s red body.",
+    "fromKing": false
+   },
+   {
+    "poster": "my-neighbor-totoro",
+    "region": "eyes",
+    "title": "My Neighbor Totoro",
+    "country": "Japan",
+    "year": 1988,
+    "label": "Two light circles and a small nose",
+    "sum": "Sparse facial marks remain clear on a dark head.",
+    "fromKing": false
+   }
+  ]
+ },
+ {
+  "id": "gaze",
+  "name": "Faces and gaze",
+  "headline": "Where a face looks, we look.",
+  "idea": "Eyes that meet ours, or look away, and send our attention somewhere.",
+  "fromKing": false,
+  "links": [
+   {
+    "poster": "kitchener",
+    "region": "eyes",
+    "title": "Your Country Needs You",
+    "country": "United Kingdom",
+    "year": 1914,
+    "label": "A frontal gaze",
+    "sum": "Two eyes reinforce the direct address.",
+    "fromKing": false
+   },
+   {
+    "poster": "uncle-sam",
+    "region": "uncle-sam-eyes",
+    "title": "I Want You for U.S. Army",
+    "country": "United States",
+    "year": 1917,
+    "label": "A gaze beneath heavy brows",
+    "sum": "Two small dark points reinforce the pointing hand.",
+    "fromKing": false
+   },
+   {
+    "poster": "amelie",
+    "region": "eyes",
+    "title": "Amélie",
+    "country": "France / Germany",
+    "year": 2001,
+    "label": "The sideways glance",
+    "sum": "Dark eyes interrupt the light face.",
+    "fromKing": false
+   },
+   {
+    "poster": "obama-hope",
+    "region": "gaze",
+    "title": "Obama Hope",
+    "country": "United States",
+    "year": 2008,
+    "label": "Eyes angled upward",
+    "sum": "Averted eyes give the portrait an outward direction.",
+    "fromKing": false
+   },
+   {
+    "poster": "a-separation",
+    "region": "eyes",
+    "title": "A Separation",
+    "country": "Iran",
+    "year": 2011,
+    "label": "A gaze beyond the frame",
+    "sum": "Two dark eyes point toward an unseen subject.",
+    "fromKing": false
+   },
+   {
+    "poster": "black-girl",
+    "region": "black-girl-face",
+    "title": "Black Girl / La Noire de…",
+    "country": "Senegal / France",
+    "year": 1966,
+    "label": "A gaze outside the frame",
+    "sum": "The woman looks away from the reader.",
+    "fromKing": false
+   },
+   {
+    "poster": "taste-of-cherry",
+    "region": "eyes",
+    "title": "Taste of Cherry",
+    "country": "Iran / France",
+    "year": 1997,
+    "label": "The pair of eyes",
+    "sum": "Dark photographic features look outward.",
+    "fromKing": false
+   },
+   {
+    "poster": "breathless",
+    "region": "eyes",
+    "title": "Breathless",
+    "country": "France",
+    "year": 1960,
+    "label": "The sideways eyes",
+    "sum": "Dark horizontal accents cut through the warm face.",
+    "fromKing": false
+   },
+   {
+    "poster": "oldboy",
+    "region": "eye",
+    "title": "Oldboy",
+    "country": "South Korea",
+    "year": 2003,
+    "label": "One visible eye",
+    "sum": "A small bright area concentrates attention within the portrait.",
+    "fromKing": false
+   },
+   {
+    "poster": "heroic-guerrilla",
+    "region": "eyes",
+    "title": "Day of the Heroic Guerrilla",
+    "country": "Cuba",
+    "year": 1968,
+    "label": "The portrait’s eyes",
+    "sum": "A few dark marks establish a gaze.",
+    "fromKing": false
+   },
+   {
+    "poster": "ignorance-equals-fear",
+    "region": "eyes",
+    "title": "Ignorance = Fear / Silence = Death",
+    "country": "United States",
+    "year": 1989,
+    "label": "The figure covering its eyes",
+    "sum": "Crossed arms obscure the eye area.",
+    "fromKing": false
+   },
+   {
+    "poster": "parasite",
+    "region": "parasite-eyes",
+    "title": "Parasite",
+    "country": "South Korea",
+    "year": 2019,
+    "label": "A bar interrupts eye contact",
+    "sum": "A crucial portrait feature is withheld.",
+    "fromKing": false
+   },
+   {
+    "poster": "spirited-away",
+    "region": "girl-face",
+    "title": "Spirited Away",
+    "country": "Japan",
+    "year": 2001,
+    "label": "Chihiro looks outward",
+    "sum": "A small human face becomes the main point of contact.",
+    "fromKing": false
+   },
+   {
+    "poster": "the-color-of-pomegranates",
+    "region": "eye",
+    "title": "The Color of Pomegranates",
+    "country": "Armenia",
+    "year": 1969,
+    "label": "The lowered eye",
+    "sum": "A small dark accent interrupts the pale face.",
+    "fromKing": false
+   },
+   {
+    "poster": "project-hail-mary",
+    "region": "gaze",
+    "title": "Project Hail Mary",
+    "country": "United States",
+    "year": 2026,
+    "label": "Eyes directed beyond the frame",
+    "sum": "A sideways upward look points toward open space.",
+    "fromKing": false
+   },
+   {
+    "poster": "the-wind-rises",
+    "region": "portrait",
+    "title": "The Wind Rises",
+    "country": "Japan",
+    "year": 2013,
+    "label": "A human point of entry",
+    "sum": "A calm face draws us into an unsettled world.",
+    "fromKing": false
+   },
+   {
+    "poster": "book-born-a-crime",
+    "region": "face",
+    "title": "Born a Crime",
+    "country": "South Africa",
+    "year": 2026,
+    "label": "A direct portrait meets the reader",
+    "sum": "The photographic face looks outward from the lower half of the cover.",
+    "fromKing": false
+   }
+  ]
+ }
+]

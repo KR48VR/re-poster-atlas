@@ -20,7 +20,7 @@ def thumbs():
     n = 0
     for f in sorted(os.listdir(os.path.join(C, 'images', 'catalogue'))):
         im = Image.open(os.path.join(C, 'images', 'catalogue', f)).convert('RGB')
-        h = 420; w = round(im.width * h / im.height)
+        h = min(640, im.height); w = round(im.width * h / im.height)
         im.resize((w, h), Image.LANCZOS).save(os.path.join(out, f), 'WEBP', quality=80, method=5); n += 1
     return n
 
