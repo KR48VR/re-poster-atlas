@@ -133,6 +133,7 @@ for (const t of threads) t.links.forEach((l, i) => {
 
 /* A short stamp of everything a visitor's browser might have kept from last time. It changes whenever the site does,
    so a returning visitor always gets the new files and never a mix of old and new. */
+for (const f of readdirSync(join(C, 'images', 'full'))) { const p = posters.find(x => x.id === f.replace(/\.[^.]+$/, '')); if (p) p.full = f; }   // the largest picture we hold of each poster, for the closer look
 const VER = createHash('sha1').update(readFileSync(join(ROOT, 'src', 'app.js'))).update(readFileSync(join(ROOT, 'src', 'app.css'))).update(readFileSync(join(ROOT, 'src', 'search.js'))).update(readFileSync(join(ROOT, 'src', 'atlas.js'))).update(readFileSync(join(C, 'world.json'))).update(readFileSync(join(C, 'places.json')))
   .update(existsSync(join(C, 'ideas.json')) ? readFileSync(join(C, 'ideas.json')) : '')
   .update(JSON.stringify(posters)).update(JSON.stringify(threads)).update(JSON.stringify(home)).digest('hex').slice(0, 10);
@@ -327,6 +328,7 @@ ${band('facts', ['#f1ede4', '#141312'], `<div>
 <div>
 <h2>Guided tours</h2>
 <p>Every poster also has a tour: a prepared order through six or seven of its details. Choose &ldquo;take the tour&rdquo; under the opening question, then step through with Next, the arrow keys or a clicker.</p>
+<p>Teaching one subject? Open &ldquo;Index of this plate&rdquo; and choose one kind of note: words and meaning, colour and composition, people and history, or credits and business. The poster shows only those stops.</p>
 <p>With the key held, each stop shows its question first. A tap of your own leaves the tour. ${`<a href="../posters/${BEGAN.poster}/#tour">Try the tour of The Wind Rises</a>`}.</p>
 </div>
 <div>

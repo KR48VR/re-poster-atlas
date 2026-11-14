@@ -71,7 +71,7 @@ body[data-view="collection"] #app, body[data-view="page"] #app, body[data-view="
 .plate { grid-column: 2; grid-row: 2; position: relative; width: var(--pw, 300px); height: var(--ph, 460px); cursor: crosshair; perspective: 1700px; --open: 0; --dur: 1.3s; --shrink: 0.3; }
 .frame.bare .plate { grid-column: 1; grid-row: 1; }
 .plate.is-open { cursor: default; }
-.stack { position: absolute; inset: 0; pointer-events: none; transform-style: preserve-3d; transform: rotateY(calc(var(--open) * -40deg)) rotateX(calc(var(--open) * 5deg)) scale(calc(1 - var(--open) * var(--shrink))); transition: transform var(--dur) cubic-bezier(.3, .7, .2, 1); }
+.stack { position: absolute; inset: 0; pointer-events: none; transform-style: preserve-3d; transform: rotateY(calc(var(--open) * (-40deg + var(--uy, 0deg)))) rotateX(calc(var(--open) * (5deg + var(--ux, 0deg)))) scale(calc(1 - var(--open) * var(--shrink))); transition: transform var(--dur) cubic-bezier(.3, .7, .2, 1); }
 .plane { position: absolute; inset: 0; transform: translateZ(calc(var(--open) * var(--z) * 1px)); transition: transform var(--dur) cubic-bezier(.3, .7, .2, 1), opacity .45s ease; }
 .plane img, .flat { display: block; width: 100%; height: 100%; max-width: none; user-select: none; -webkit-user-drag: none; }
 .is-open .plane { box-shadow: 0 0 0 1px var(--rule); }
@@ -95,7 +95,7 @@ body[data-view="collection"] #app, body[data-view="page"] #app, body[data-view="
 /* Pulled apart across the page: every sheet turns the same way and stands beside the next, first layer on the left. */
 .plate.wide { perspective: none; }
 .plate.wide .stack { transform-style: flat; transform: translate(calc(var(--open) * var(--sx, 0) * 1px), calc(var(--open) * var(--sy, 0) * 1px)); }
-.plate.wide .plane, .plate.wide.focus .plane.on { transform: translateX(calc(var(--open) * var(--x, 0) * 1px)) scale(calc(1 - var(--open) * var(--shrink))) perspective(2400px) rotateY(calc(var(--open) * var(--turn, 38deg))); }
+.plate.wide .plane, .plate.wide.focus .plane.on { transform: translateX(calc(var(--open) * var(--x, 0) * 1px)) scale(calc((1 - var(--open) * var(--shrink)) * var(--us, 1))) perspective(2400px) rotateX(calc(var(--open) * var(--ux, 0deg))) rotateY(calc(var(--open) * (var(--turn, 38deg) + var(--uy, 0deg)))); }
 .plate.wide .veil { display: none; }
 .plate.wide .plane::before { opacity: clamp(0, calc((var(--open) - .5) * 1.64), .82); }
 .plate.wide.is-open .plane { pointer-events: auto; cursor: pointer; }
@@ -111,6 +111,46 @@ body[data-view="collection"] #app, body[data-view="page"] #app, body[data-view="
 .pin.ahead { width: 20px; height: 20px; font-size: 11px; opacity: .72; }   /* stops still to come on the guided tour */
 .box { position: absolute; border: 2px solid var(--route); box-shadow: 0 0 0 1px var(--casing), inset 0 0 0 1px var(--casing); pointer-events: none; }
 .ref { position: absolute; right: 0; bottom: 0; background: var(--casing); color: var(--route); padding: 2px 8px; font-size: 13px; font-variant-numeric: tabular-nums; pointer-events: none; }
+/* Turning the layers by hand. --uy and --ux are how far the visitor has turned and tilted them. */
+.plate.is-open { touch-action: pan-y; }
+.sheet.apart .plate.is-open { touch-action: none; }
+.sheet.apart { cursor: grab; }
+.sheet.apart .panel, .sheet.apart .caveat { cursor: auto; }
+.sheet.turning, .sheet.turning * { cursor: grabbing !important; user-select: none; -webkit-user-select: none; }
+.turner { margin: 8px 0 0; display: flex; flex-wrap: wrap; align-items: center; gap: 0 16px; font-size: 15px; }
+.turner .quiet { flex-basis: 100%; color: var(--soft, inherit); }
+.stepper { display: inline-flex; align-items: center; gap: 1px; font-weight: 700; }
+.stepper button { width: 28px; height: 30px; display: grid; place-items: center; }
+.stepper svg { width: 8px; height: 12px; }
+.stepper button:last-child svg { transform: rotate(180deg); }
+.stepper.pitch button:first-child svg { transform: rotate(90deg); }
+.stepper.pitch button:last-child svg { transform: rotate(-90deg); }
+.plate.wide.back .plane { z-index: calc(var(--z) * -1); }
+.turner .link { padding: 2px 0; border-bottom-width: 1px; font-size: 15px; font-weight: 600; }
+/* A closer look: a magnifier in the corner where the two rulers meet opens the poster on its own. */
+.loupe { grid-column: 1; grid-row: 1; width: 30px; height: 30px; margin: -8px 0 0 -8px; display: grid; place-items: center; border-radius: 50%; transition: opacity .3s ease; }
+.loupe svg { width: 19px; height: 19px; }
+.frame:has(.plate.is-open) .loupe { opacity: 0; pointer-events: none; }
+dialog.closer { width: 100vw; height: 100vh; height: 100dvh; max-width: none; max-height: none; margin: 0; padding: 0; border: 0; background: var(--ground); color: var(--ink); overflow: hidden; }
+dialog.closer::backdrop { background: var(--ground); }
+.cwrap { height: 100%; display: grid; grid-template-rows: minmax(0, 1fr) auto; background: var(--ground); transition: filter .9s ease; }
+.cwrap.grey { filter: grayscale(1); }
+.cview { display: grid; place-items: center; overflow: hidden; touch-action: none; user-select: none; -webkit-user-select: none; }
+.cview.can { cursor: zoom-in; }
+.cview.zoomed { cursor: grab; }
+.cview img { display: block; max-width: none; box-shadow: 0 0 0 1px var(--rule); }
+.cbar { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 30px; padding: 8px max(20px, env(safe-area-inset-right, 0px)) max(12px, env(safe-area-inset-bottom, 0px)) max(20px, env(safe-area-inset-left, 0px)); font-size: 15px; }
+.ctitle { margin-right: auto; font-weight: 700; }
+.czoom { flex: 0 1 300px; padding-top: 0; font-size: 12px; font-weight: 700; }
+.climit { font-size: 14px; }
+.cbar .link { padding: 6px 0 3px; border-bottom-width: 1px; font-weight: 600; }
+/* Following one kind of note. */
+.kinds { margin: 0 0 6px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 0 22px; font-size: 16px; }
+.kinds > span { font-weight: 700; }
+.kinds button { padding: 8px 0; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 4px; }
+.kinds button[aria-pressed="true"] { font-weight: 700; text-decoration-thickness: 2px; }
+.kinds .cnt { font-variant-numeric: tabular-nums; }
+.alsohere { margin: 0; padding-top: 14px; border-top: 1px solid var(--rule); max-width: 36em; font-size: 14px; font-weight: 700; }
 /* The pull bar sits under the plate like the scale bar on a map. */
 .pull { grid-column: 2; grid-row: 3; display: flex; align-items: center; gap: 12px; padding-top: 8px; }
 .pull input { flex: 1; min-width: 0; margin: 0; height: 28px; background: transparent; -webkit-appearance: none; appearance: none; cursor: ew-resize; }
@@ -564,5 +604,6 @@ main.full { min-width: 0; }
   .fade { animation: none; }
   .col .frame, .col .cap { transition: none; }
   .stack, .plane { transition: opacity .3s ease; }
+  .cwrap { transition: none; }
   .tile img { transition: none; }
 }

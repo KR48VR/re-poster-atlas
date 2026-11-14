@@ -10,6 +10,7 @@ const COLS = 6, LETTERS = 'ABCDEF', GAP = 62, TURN = 38, FAR = 2400;
 const CAVEAT = 'Layers analyse the visible artwork. They are not original production separations.';
 const COUNT = ['No', 'One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine'];
 const EV = { documented: 'Documented', observation: 'In the image', interpretation: 'Visual reading', uncertain: 'Uncertain' };
+const KINDS = [['language', 'Words & meaning'], ['design', 'Colour & composition'], ['context', 'People & history'], ['business', 'Credits & business']];   // the four kinds of note
 const SVG = 'http://www.w3.org/2000/svg';
 
 const el = (tag, attrs, ...kids) => {
@@ -30,6 +31,11 @@ function keyIcon() {
   s.append(sv('circle', { cx: '7.5', cy: '15.5', r: '4.5' }), sv('path', { d: 'M10.7 12.3 20 3' }), sv('path', { d: 'm17 6 3 3' }), sv('path', { d: 'm14 9 2.5 2.5' }));
   return s;
 }
+function loupeIcon() {
+  const s = sv('svg', { viewBox: '0 0 24 24', fill: 'none', stroke: 'currentColor', 'stroke-width': '2', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'aria-hidden': 'true' });
+  s.append(sv('circle', { cx: '10.5', cy: '10.5', r: '6.5' }), sv('path', { d: 'M15.4 15.4 21 21' }));
+  return s;
+}
 
 /* ---------- what the site remembers while it is open ---------- */
 const S = { cat: null, posters: new Map(), memory: {}, leave: null, held: false, theme: null, threads: null };
@@ -46,7 +52,7 @@ function colours(ground, ink) {
 }
 
 /* ---------- a plate: one poster that can come apart into its layers ---------- */
-function makePlate(p, { ticks = true, pull = false } = {}) {
+function makePlate(p, { ticks = true, pull = false, loupe = false } = {}) {
   const count = Array.isArray(p.layers) ? p.layers.length : (p.layers || 0);
   const rows = Math.round(COLS / p.ratio);
   const tones = p.tones || null;                    // what each layer needs behind it to be seen
@@ -59,7 +65,9 @@ function makePlate(p, { ticks = true, pull = false } = {}) {
   const marks = el('div', { class: 'marks' }), ref = el('span', { class: 'ref', hidden: true });
   const plate = el('div', { class: 'plate' }, stack, flat, trail, marks, ref);
   const input = pull && count ? el('input', { type: 'range', min: '0', max: '100', value: '0', 'aria-label': 'Pull the poster apart into its layers' }) : null;
+  const glass = loupe && ticks ? el('button', { class: 'loupe', type: 'button', 'aria-label': 'Look closer at the poster', title: 'Look closer' }, loupeIcon()) : null;   // in the corner where the two rulers meet
   const frame = el('div', { class: 'frame' + (ticks ? '' : ' bare') },
+    glass,
     ticks && el('div', { class: 'ticks-top', 'aria-hidden': 'true' }, [...LETTERS].map(c => el('span', null, c))),
     ticks && el('div', { class: 'ticks-left', 'aria-hidden': 'true' }, Array.from({ length: rows }, (_, k) => el('span', null, String(k + 1)))),
     plate,
@@ -67,7 +75,7 @@ function makePlate(p, { ticks = true, pull = false } = {}) {
   let timers = [], closing = null, busy = false;
   const later = (fn, ms) => { timers.push(setTimeout(fn, ms)); };
   const api = {
-    p, frame, plate, planes, marks, ref, casing, route, input, count,
+    p, frame, plate, planes, marks, ref, casing, route, input, count, glass,
     get busy() { return busy; },
     gridRef: (x, y) => LETTERS[Math.min(COLS - 1, Math.floor(x / 100 * COLS))] + (Math.min(rows - 1, Math.floor(y / 100 * rows)) + 1),
     size(pw, ph) { plate.style.setProperty('--pw', Math.round(pw) + 'px'); plate.style.setProperty('--ph', Math.round(ph) + 'px'); },
@@ -115,6 +123,84 @@ function makePlate(p, { ticks = true, pull = false } = {}) {
   return api;
 }
 
+/* ---------- a closer look: the poster on its own, as large as our picture of it allows ---------- */
+function closer(p, grey = false) {
+  const img = el('img', { src: url(`img/poster/${p.id}.webp`), alt: p.alt, draggable: 'false' });
+  const view = el('div', { class: 'cview' }, img);
+  const zin = el('input', { type: 'range', min: '0', max: '100', value: '0', 'aria-label': 'How close to look' });
+  const zoomBar = el('div', { class: 'pull czoom', hidden: true }, el('span', { 'aria-hidden': 'true' }, 'Whole'), zin, el('span', { 'aria-hidden': 'true' }, 'Close'));
+  const limit = el('span', { class: 'climit', hidden: true }, 'This is as large as our picture of it goes.');
+  const TONE = ['See it without colour', 'Bring the colour back'];
+  const tone = el('button', { class: 'link', type: 'button' }, TONE[+grey]), back = el('button', { class: 'link', type: 'button' }, 'Back to the plate');
+  const wrap = el('div', { class: 'cwrap' + (grey ? ' grey' : '') }, view, el('div', { class: 'cbar' }, el('span', { class: 'ctitle' }, p.title), zoomBar, limit, tone, back));
+  const dlg = el('dialog', { class: 'closer', 'aria-label': `A closer look at ${p.title}` }, wrap);
+  let z = 1, zmax = 1, tx = 0, ty = 0, fw = 0, fh = 0, tall = 0;   // tall: the height of the largest picture we hold, in its own dots
+  const can = () => zmax >= 1.2;                                   // there is more in the picture than the screen is showing
+  function set(nz, nx, ny, smooth) {
+    z = Math.max(1, Math.min(can() ? zmax : 1, nz));
+    const mx = Math.max(0, (fw * z - view.clientWidth) / 2 + (z > 1 ? 16 : 0)), my = Math.max(0, (fh * z - view.clientHeight) / 2 + (z > 1 ? 16 : 0));
+    tx = Math.max(-mx, Math.min(mx, nx)); ty = Math.max(-my, Math.min(my, ny));
+    img.style.transition = smooth && !calm ? 'transform .3s ease' : 'none';
+    img.style.transform = `translate(${tx.toFixed(1)}px, ${ty.toFixed(1)}px) scale(${z.toFixed(4)})`;
+    zin.value = can() ? Math.round(Math.log(z) / Math.log(zmax) * 100) : 0;
+    view.classList.toggle('zoomed', z > 1.01);
+  }
+  const at = (nz, cx, cy, smooth) => {                              // look closer while the spot under the pointer stays under it. cx and cy are measured from the middle of the view
+    nz = Math.max(1, Math.min(can() ? zmax : 1, nz)); const k = nz / z;
+    set(nz, cx - (cx - tx) * k, cy - (cy - ty) * k, smooth);
+  };
+  function fit() {
+    const W = view.clientWidth - 32, H = view.clientHeight - 32;
+    fh = Math.min(H, W / p.ratio); fw = fh * p.ratio;
+    img.style.width = fw.toFixed(1) + 'px'; img.style.height = fh.toFixed(1) + 'px';
+    zmax = tall ? Math.max(1, tall / fh) : 1;
+    zoomBar.hidden = !can(); limit.hidden = can() || !tall; view.classList.toggle('can', can());
+    set(z, tx, ty);
+  }
+  const mid = e => { const b = view.getBoundingClientRect(); return [e.clientX - b.left - b.width / 2, e.clientY - b.top - b.height / 2]; };
+  on(zin, 'input', () => at(Math.pow(zmax, zin.value / 100), 0, 0));
+  view.addEventListener('wheel', e => { e.preventDefault(); if (can()) at(z * Math.exp(-e.deltaY * 0.0016), ...mid(e)); }, { passive: false });
+  on(view, 'dblclick', e => { if (!can()) return; if (z > 1.05) set(1, 0, 0, true); else at(Math.min(zmax, 2.5), ...mid(e), true); });
+  const pts = new Map(); let held = null;                           // one finger drags the picture, two pinch it
+  const hold = () => { held = { z, tx, ty, pts: [...pts.values()] }; };
+  on(view, 'pointerdown', e => { view.setPointerCapture(e.pointerId); pts.set(e.pointerId, mid(e)); hold(); });
+  on(view, 'pointermove', e => {
+    if (!pts.has(e.pointerId)) return;
+    pts.set(e.pointerId, mid(e)); const now = [...pts.values()], was = held.pts;
+    if (now.length === 1) set(z, held.tx + now[0][0] - was[0][0], held.ty + now[0][1] - was[0][1]);
+    else if (now.length === 2 && was.length === 2 && can()) {
+      const d = a => Math.hypot(a[0][0] - a[1][0], a[0][1] - a[1][1]), c = a => [(a[0][0] + a[1][0]) / 2, (a[0][1] + a[1][1]) / 2];
+      const nz = Math.max(1, Math.min(zmax, held.z * d(now) / Math.max(1, d(was)))), k = nz / held.z, c0 = c(was), c1 = c(now);
+      set(nz, c1[0] - (c0[0] - held.tx) * k, c1[1] - (c0[1] - held.ty) * k);
+    }
+  });
+  const drop = e => { pts.delete(e.pointerId); hold(); };
+  on(view, 'pointerup', drop); on(view, 'pointercancel', drop);
+  on(dlg, 'keydown', e => {
+    e.stopPropagation();                                            // the page behind must not also answer the keys
+    if (e.target === zin || e.altKey || e.ctrlKey || e.metaKey) return;
+    const far = 90;
+    if (e.key === '+' || e.key === '=') at(z * 1.4, 0, 0, true);
+    else if (e.key === '-') at(z / 1.4, 0, 0, true);
+    else if (e.key === '0') set(1, 0, 0, true);
+    else if (e.key === 'ArrowLeft') set(z, tx + far, ty, true);
+    else if (e.key === 'ArrowRight') set(z, tx - far, ty, true);
+    else if (e.key === 'ArrowUp') set(z, tx, ty + far, true);
+    else if (e.key === 'ArrowDown') set(z, tx, ty - far, true);
+    else return;
+    e.preventDefault();
+  });
+  on(tone, 'click', () => { const g = wrap.classList.toggle('grey'); tone.textContent = TONE[+g]; });
+  on(back, 'click', () => dlg.close());
+  on(dlg, 'close', () => { removeEventListener('resize', fit); dlg.remove(); });
+  document.body.append(dlg); dlg.showModal(); fit(); addEventListener('resize', fit);
+  if (p.full) {                                                     // the page's own picture shows at once; the largest one takes its place when it has arrived
+    const big = new Image(); big.src = url('img/full/' + p.full);
+    big.decode().then(() => { if (!dlg.isConnected) return; tall = big.naturalHeight; img.src = big.src; fit(); }).catch(() => {});
+  }
+  return dlg;
+}
+
 /* ---------- the bar across the top, and putting a view on the page ---------- */
 function mount(view, node, mid, withKey) {
   document.body.dataset.view = view;
@@ -134,7 +220,7 @@ async function viewPoster(id, firstLook) {
   const p = await loadPoster(id);
   colours(p.ground, p.ink);
   document.title = `${p.title} · Poster Atlas`;
-  const T = S.cat.total, P = makePlate(p, { ticks: true, pull: true });
+  const T = S.cat.total, P = makePlate(p, { ticks: true, pull: true, loupe: true });
   const panel = el('section', { class: 'panel', 'aria-live': 'polite' });
   const sheet = el('div', { class: 'sheet' }, el('div', { class: 'stage' }, P.frame), panel, el('p', { class: 'small caveat' }, CAVEAT));
   mount('poster', sheet, [
@@ -145,6 +231,9 @@ async function viewPoster(id, firstLook) {
   const mem = (S.memory[id] ||= { trail: [], found: new Set() });
   let revealed = false, welcomed = !!firstLook || mem.trail.length > 0 || calm, layersOn = null, geo = null, staged = false;
   let tour = null;                                    // on the guided tour: which stop, counting from 0. Otherwise null.
+  let walk = null;                                    // the tour can also follow one kind of note. Which kind, or null for the prepared tour.
+  let uy = 0, ux = 0, drag = null, dragged = false;   // how far the layers have been turned and tilted by hand, in degrees
+  let indexOpen = false;
   const apart = () => P.input && +P.input.value > 0;
   const GROUNDS = { night: ['#141312', '#f1ede4'], paper: ['#f1ede4', '#141312'] };
   function stage(on) {                                // pulled apart, the poster stands on a quiet ground of its own, not on its own colour
@@ -156,11 +245,14 @@ async function viewPoster(id, firstLook) {
   const region = rid => p.regions.find(r => r.id === rid);
   const last = () => mem.trail[mem.trail.length - 1];
   const stops = (p.tour || []).map(rid => p.regions.find(r => r.id === rid)).filter(Boolean);    // the tour: a prepared order to walk the details in
+  const walks = Object.fromEntries(KINDS.map(([k]) => [k, p.regions.filter(r => r.secs.some(s => s.kind === k))]));    // every detail that has a note of one kind
+  const along = () => (walk ? walks[walk] : stops);                     // the stops being walked now
+  const kindName = () => KINDS.find(x => x[0] === walk)[1];
   const onLayer = k => p.regions.filter(r => r.layer === k);            // the details that sit on one layer
   p.regions.forEach(r => P.planes[r.layer]?.append(el('span', { class: 'lpin', style: `left:${r.x}%;top:${r.y}%` }, String(r.n))));   // each sheet carries the pins of its own details, seen when the poster is apart
   function showLayer(k) {                             // from a detail to its layer: pull the poster apart with that sheet lit
     if (!P.input) return;
-    tour = null; P.input.value = 100; layersOn = [k];
+    tour = null; walk = null; P.input.value = 100; layersOn = [k];
     P.input.dispatchEvent(new Event('input', { bubbles: true }));
   }
 
@@ -180,10 +272,20 @@ async function viewPoster(id, firstLook) {
     }
     P.size(pw, ph);
     spread(pw, ph);
+    if (uy || ux) turnTo(uy, ux, 0);                  // a turn made by hand is kept when the window changes size
     if (staged && sheet.classList.contains('apart') === narrow()) {       // the window crossed between wide and narrow while apart
-      sheet.classList.toggle('apart', !narrow()); P.wide(!narrow()); render();
+      sheet.classList.toggle('apart', !narrow()); P.wide(!narrow()); unturn(); render();
     }
   }
+  function turnTo(y, x, dur) {                        // turn and tilt the pulled-apart layers. Side by side each sheet turns where it stands; stacked, the whole stack turns
+    const wide = sheet.classList.contains('apart'), base = wide ? (geo ? geo.turn : TURN) : -40;
+    uy = Math.max((wide ? -58 : -72) - base, Math.min((wide ? 68 : 72) - base, y)); ux = Math.max(-16, Math.min(16, x));
+    const room = wide && geo ? Math.min(1, geo.pitch / (0.8 * geo.wide * Math.cos((base + uy) * Math.PI / 180))) : 1;   // turned to face us the sheets are wider, so they step back: none may hide more than a fifth of its neighbour
+    const st = P.plate.style; st.setProperty('--dur', dur + 's'); st.setProperty('--uy', uy.toFixed(1) + 'deg'); st.setProperty('--ux', ux.toFixed(1) + 'deg'); st.setProperty('--us', room.toFixed(4));
+    P.plate.classList.toggle('back', wide && base + uy < 0);       // turned past face-on, the sheets overlap the other way round
+    panel.querySelector('.straight')?.toggleAttribute('hidden', !uy && !ux);
+  }
+  function unturn() { if (uy || ux) turnTo(0, 0, 0.4); }
   function spread(pw, ph) {                           // where each sheet stands when the poster is pulled fully apart
     const n = P.count; geo = null;
     if (!n || narrow()) { P.plate.style.removeProperty('--shrink'); return; }
@@ -198,18 +300,18 @@ async function viewPoster(id, firstLook) {
     set('--shrink', (1 - s).toFixed(4)); set('--turn', turn.toFixed(1) + 'deg');
     set('--sx', (W / 2 - 22 - pw / 2).toFixed(1)); set('--sy', (ext + 4 + hs / 2 - ph / 2).toFixed(1));
     P.planes.forEach((pl, k) => pl.style.setProperty('--x', ((k - (n - 1) / 2) * pitch).toFixed(1)));
-    geo = { pitch, top: 22 + 4 + hs + ext * 2 + 14 };
+    geo = { pitch, turn, wide: pw * s, top: 22 + 4 + hs + ext * 2 + 14 };
     sheet.style.setProperty('--ptop', Math.round(geo.top) + 'px'); sheet.style.setProperty('--pitch', Math.round(pitch) + 'px');
     sheet.style.setProperty('--pully', Math.max(0, Math.round(H - 38 - 22 - ph)) + 'px');   // the pull bar goes to the foot of the page with the sheets' names above it
   }
   function drawMarks() {
     if (tour !== null) {                               // on the tour the plate shows the whole prepared route, and where we are on it
-      const way = stops.slice(0, tour + 1).map(r => r.x + ',' + r.y).join(' ');      // the line grows as the tour goes; stops still to come show as fainter pins
+      const way = along().slice(0, tour + 1).map(r => r.x + ',' + r.y).join(' ');      // the line grows as the tour goes; stops still to come show as fainter pins
       P.casing.setAttribute('points', way); P.route.setAttribute('points', way);
       P.marks.replaceChildren();
-      const b = stops[tour].b;
+      const b = along()[tour].b;
       if (!(S.held && !revealed)) P.marks.append(el('div', { class: 'box', style: `left:${b[0]}%;top:${b[1]}%;width:${b[2]}%;height:${b[3]}%` }));
-      stops.forEach((r, i) => P.marks.append(el('span', { class: 'pin' + (i === tour ? ' now' : i > tour ? ' ahead' : ''), style: `left:${r.x}%;top:${r.y}%` }, String(i + 1))));
+      along().forEach((r, i) => P.marks.append(el('span', { class: 'pin' + (i === tour ? ' now' : i > tour ? ' ahead' : ''), style: `left:${r.x}%;top:${r.y}%` }, String(i + 1))));
       return;
     }
     const pts = mem.trail.map(t => t.x + ',' + t.y).join(' ');
@@ -224,8 +326,11 @@ async function viewPoster(id, firstLook) {
   }
 
   /* the words beside the plate */
-  const indexList = () => el('details', { class: 'more index' },
+  const indexList = () => el('details', { class: 'more index', open: indexOpen },
     el('summary', null, `Index of this plate · ${mem.found.size} of ${p.regions.length} found`),
+    el('p', { class: 'kinds' }, el('span', null, 'Follow one kind of note'),           // the same details, sorted by what their notes are about
+      KINDS.map(([k, name]) => on(el('button', { type: 'button', 'aria-pressed': String(tour !== null && walk === k) }, name, el('span', { class: 'cnt' }, ` ${walks[k].length}`, el('span', { class: 'sr-only' }, walks[k].length === 1 ? ' stop' : ' stops'))),
+        'click', () => goTour(0, k)))),
     el('ol', null, p.regions.map(r => el('li', null, on(
       el('button', { type: 'button', 'aria-label': `${P.gridRef(r.x, r.y)}, ${r.label}${mem.found.has(r.id) ? ', found' : ''}` },
         el('span', { class: 'gr' }, P.gridRef(r.x, r.y)), el('span', { 'aria-hidden': 'true' }, mem.found.has(r.id) ? '●' : '○'), el('span', null, r.label)),
@@ -239,6 +344,7 @@ async function viewPoster(id, firstLook) {
   const coloursList = () => p.palette.length > 0 && el('details', { class: 'more' },
     el('summary', null, 'The colours in this poster'),
     el('ul', { class: 'swatches' }, p.palette.map(c => el('li', null, el('i', { style: `background:${c.hex}`, 'aria-hidden': 'true' }), el('b', null, c.name), el('span', null, c.role || c.hex)))),
+    el('p', null, on(el('button', { class: 'link', type: 'button' }, 'See the poster without its colour'), 'click', () => closer(p, true))),
     p.paletteNote && el('p', { class: 'small' }, p.paletteNote));
   const aboutPlate = () => el('details', { class: 'more' },
     el('summary', null, 'About this plate'),
@@ -268,19 +374,33 @@ async function viewPoster(id, firstLook) {
         el('summary', null, s.src.length === 1 ? '1 source' : `${s.src.length} sources`),
         s.src.map(q => el('p', null, q.url ? el('a', { href: q.url, target: '_blank', rel: 'noopener' }, q.title) : q.title, q.kind ? ` (${q.kind}). ` : '. ', q.note || q.summary || '')))));
 
+  const secsOf = r => {                               // following one kind of note, that kind is read first
+    if (tour === null || !walk) return el('div', { class: 'secs' }, r.secs.map(secNode));
+    const rest = r.secs.filter(s => s.kind !== walk);
+    return el('div', { class: 'secs' }, r.secs.filter(s => s.kind === walk).map(secNode), rest.length > 0 && el('p', { class: 'alsohere' }, 'Also at this spot'), rest.map(secNode));
+  };
   const same = ks => JSON.stringify(layersOn) === JSON.stringify(ks);
   function pick(ks) { layersOn = same(ks) ? null : ks; P.light(layersOn ? 'focus' : null, layersOn); render(); }
   function renderApart() {
     const is = ks => String(same(ks)), n = p.layers.length;
     const head = [el('p', { class: 'where' }, `${p.title}, pulled apart`), el('h2', { class: 'name' }, `${COUNT[n] || n} layers make this poster.`)];
     const small = el('p', { class: 'small' }, CAVEAT);
+    const chev = () => { const s = sv('svg', { viewBox: '0 0 8 12', fill: 'none', stroke: 'currentColor', 'stroke-width': '1.8', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'aria-hidden': 'true' }); s.append(sv('path', { d: 'M6.5 1 1.5 6l5 5' })); return s; };
+    const step = (name, cls, less, more, dy, dx) => el('span', { class: 'stepper ' + cls },
+      on(el('button', { type: 'button', 'aria-label': less }, chev()), 'click', () => turnTo(uy - dy, ux - dx, 0.3)),
+      el('span', { 'aria-hidden': 'true' }, name),
+      on(el('button', { type: 'button', 'aria-label': more }, chev()), 'click', () => turnTo(uy + dy, ux + dx, 0.3)));
+    const turner = el('p', { class: 'turner' },                              // the layers can be turned by hand, or with these
+      el('span', { class: 'quiet' }, sheet.classList.contains('apart') ? 'Drag the sheets to turn them.' : 'Swipe across the poster to turn it.'),
+      step('Turn', 'yaw', 'Turn left', 'Turn right', 12, 0), step('Tilt', 'pitch', 'Tilt back', 'Tilt forward', 0, -6),
+      on(el('button', { class: 'straight link', type: 'button', hidden: !uy && !ux }, 'Straighten'), 'click', () => turnTo(0, 0, 0.4)));
     const details = k => {                                                 // which details sit on a layer, each a way back to its note
       const rs = onLayer(k);
       return el('div', { class: 'also onit' }, el('span', null, rs.length === 1 ? 'One detail on this layer' : `${rs.length} details on this layer`),
         rs.map(r => on(el('button', { type: 'button' }, el('b', null, String(r.n)), ` ${r.short || r.label}`), 'click', () => look(r.x, r.y, r))));
     };
     if (!sheet.classList.contains('apart')) return [                       // a narrow screen: the layers stay stacked, with a list beside them
-      ...head,
+      ...head, turner,
       el('ol', { class: 'rows' }, p.layers.map((l, k) => el('li', null, on(
         el('button', { type: 'button', 'aria-pressed': is([k]) }, el('span', { class: 'num' }, String(k + 1)), el('strong', null, l.label), el('span', { class: 'd' }, `${l.desc} ${many(onLayer(k).length, 'detail')}.`)),
         'click', () => pick([k])), same([k]) ? details(k) : null))),
@@ -295,7 +415,7 @@ async function viewPoster(id, firstLook) {
         el('button', { type: 'button', 'aria-pressed': is([k]) }, el('span', { class: 'top' }, el('span', { class: 'num' }, String(k + 1)), el('span', { class: 'cnt' }, many(onLayer(k).length, 'detail'))), el('strong', null, l.label)),
         'click', () => pick([k]))))),
       el('div', { class: 'afoot' },
-        el('div', { class: 'ahead' }, head[1]),
+        el('div', { class: 'ahead' }, head[1], turner),
         el('div', { class: 'anote' }, one !== null ? [el('p', { class: 'where' }, `Layer ${one + 1} of ${n} · ${p.layers[one].label}`), el('p', { class: 'sum' }, p.layers[one].desc), details(one)]
           : way ? [el('p', { class: 'where' }, way.title), el('p', { class: 'sum' }, way.text)]
           : el('p', { class: 'sum quiet' }, 'Choose a layer to see it on its own, with the details that sit on it. The numbered pins are those details.')),
@@ -305,6 +425,7 @@ async function viewPoster(id, firstLook) {
 
   function render() {
     const hadFocus = panel.contains(document.activeElement);   // someone is using the keyboard inside the panel, which is about to be redrawn
+    const idx = panel.querySelector('details.index'); if (idx) indexOpen = idx.open;   // an index left open stays open when the panel is redrawn
     drawMarks();
     const l = last(), touring = tour !== null;
     let kids;
@@ -313,28 +434,28 @@ async function viewPoster(id, firstLook) {
     else if (!l && !touring) {
       kids = [el('h1', { class: 'ask fade' }, S.cat.question),
         el('p', { class: 'lead' }, 'Tap that spot on the poster. There is no wrong place to start.'),
-        stops.length > 0 && el('p', { class: 'tourin' }, tbtn(`Or take the tour: ${stops.length} stops`, () => goTour(0))),
+        stops.length > 0 && el('p', { class: 'tourin' }, tbtn(`Or take the tour: ${stops.length} stops`, () => goTour(0, null))),
         el('p', { class: 'meta' }, el('strong', null, p.title), el('br'), [p.creator, p.country, p.when].filter(Boolean).join(' · ')),
         S.held ? null : el('p', { class: 'meta' }, p.blurb),
         p.began && !S.held ? el('p', { class: 'began' }, 'This is the poster that started Poster Atlas. ', el('a', { href: url('about/') + '#began' }, 'How it began')) : null,
         S.held ? null : extras()];
     } else {
-      const r = touring ? stops[tour] : region(l.rid), here = touring ? P.gridRef(r.x, r.y) : P.gridRef(l.x, l.y);
-      const lastStop = touring && tour === stops.length - 1;
+      const r = touring ? along()[tour] : region(l.rid), here = touring ? P.gridRef(r.x, r.y) : P.gridRef(l.x, l.y);
+      const lastStop = touring && tour === along().length - 1, stopLine = touring && `${walk ? kindName() : 'Tour'} · stop ${tour + 1} of ${along().length} · ${here}`;
       const tourNav = () => el('div', { class: 'tournav' },              // the way along the tour, always in view
-        lastStop ? el('span', { class: 'tend' }, 'The tour ends here.') : tbtn(`Next: ${stops[tour + 1].label}`, () => goTour(tour + 1)),
+        lastStop ? el('span', { class: 'tend' }, walk ? 'That is every note of this kind here.' : 'The tour ends here.') : tbtn(`Next: ${along()[tour + 1].label}`, () => goTour(tour + 1)),
         tour > 0 && on(el('button', { class: 'link', type: 'button' }, '‹ Back'), 'click', () => goTour(tour - 1)),
         lastStop && on(el('button', { class: 'link', type: 'button' }, 'Start again'), 'click', () => goTour(0)),
         on(el('button', { class: 'link', type: 'button' }, lastStop ? 'Explore on your own' : 'Leave the tour'), 'click', leaveTour),
-        lastStop && tgo(`posters/${p.next.id}/#tour`, `Tour the next plate: ${p.next.title}`));
+        lastStop && (walk ? tgo(`posters/${p.next.id}/#tour-${walk}`, `${kindName()} on the next plate: ${p.next.title}`) : tgo(`posters/${p.next.id}/#tour`, `Tour the next plate: ${p.next.title}`)));
       if (S.held && !revealed) {
-        kids = [el('p', { class: 'where' }, touring ? `Tour · stop ${tour + 1} of ${stops.length} · ${here}` : `Look ${mem.trail.length} · ${here}`), el('p', { class: 'bigq fade' }, r.q),
+        kids = [el('p', { class: 'where' }, touring ? stopLine : `Look ${mem.trail.length} · ${here}`), el('p', { class: 'bigq fade' }, r.q),
           el('div', null, on(el('button', { class: 'key turn', type: 'button', 'aria-label': 'Reveal the note' }, keyIcon()), 'click', reveal)),
           touring && tourNav()];
       } else {
         const also = r.related.map(region).filter(Boolean);
         kids = [
-          el('p', { class: 'where' }, touring ? `Tour · stop ${tour + 1} of ${stops.length} · ${here}` : l.exact ? `Look ${mem.trail.length} · you went to ${here}`
+          el('p', { class: 'where' }, touring ? stopLine : l.exact ? `Look ${mem.trail.length} · you went to ${here}`
             : `Look ${mem.trail.length} · you went to ${here}. Nothing is written about that exact spot yet. The nearest detail is at ${P.gridRef(r.x, r.y)}.`),
           el('h2', { class: 'name' }, r.label), el('p', { class: 'sum' }, r.sum),
           touring && tourNav(),
@@ -343,7 +464,7 @@ async function viewPoster(id, firstLook) {
             el('p', { class: 'ft' }, el('span', { class: 'ev interpretation' }, el('i', { 'aria-hidden': 'true' }), 'Thread'), el('strong', null, t.name), el('span', null, t.idea)),
             el('p', { class: 'fn' }, tgo(`posters/${t.next.poster}/#${t.next.region}`, `Next: ${t.next.title}`),
               el('span', { class: 'tfacts' }, `${t.at} of ${t.count} · `, link(`threads/${t.id}/`, null, 'see them all'))))),
-          el('div', { class: 'secs' }, r.secs.map(secNode)),
+          secsOf(r),
           S.held ? null : el('p', { class: 'question' }, el('small', null, 'A question to take with you'), r.q),
           also.length > 0 && el('div', { class: 'also' }, el('span', null, 'Connected on this plate'),
             also.map(a => on(el('button', { type: 'button' }, `${P.gridRef(a.x, a.y)} ${a.short}`), 'click', () => look(a.x, a.y, a)))),
@@ -351,7 +472,7 @@ async function viewPoster(id, firstLook) {
             on(el('button', { type: 'button' }, `${p.layers[r.layer].label}, with ${onLayer(r.layer).length - 1 === 0 ? 'no other detail' : many(onLayer(r.layer).length - 1, 'other detail')}`), 'click', () => showLayer(r.layer))),
           el('p', { class: 'next' }, mem.found.size === p.regions.length
             ? `You have found all ${p.regions.length} details on this plate.` : `Where next? ${mem.found.size} of ${p.regions.length} details found.`),
-          !touring && stops.length > 0 && el('div', null, tbtn(`Take the tour: ${stops.length} stops`, () => goTour(0))),
+          !touring && stops.length > 0 && el('div', null, tbtn(`Take the tour: ${stops.length} stops`, () => goTour(0, null))),
           again(), S.held ? null : extras()];
       }
     }
@@ -363,23 +484,24 @@ async function viewPoster(id, firstLook) {
     }
   }
 
-  function goTour(i) {                                // step to a stop on the guided tour
-    if (P.busy || apart()) { P.settle(); stage(false); layersOn = null; }
-    tour = Math.max(0, Math.min(stops.length - 1, i)); const r = stops[tour];
+  function goTour(i, kind) {                          // step to a stop on the guided tour. A kind, when given, changes what is walked: null for the prepared tour, or one kind of note
+    if (kind !== undefined) walk = kind;
+    if (P.busy || apart()) { P.settle(); stage(false); layersOn = null; unturn(); }
+    tour = Math.max(0, Math.min(along().length - 1, i)); const r = along()[tour];
     mem.found.add(r.id); revealed = false; welcomed = true; render();
     if (!S.held) { P.spot(r.layer, 1150); mark(r.id); }
     if (narrow()) scrollTo({ top: 0, behavior: calm ? 'auto' : 'smooth' }); else panel.scrollTop = 0;
   }
-  function leaveTour() { tour = null; revealed = false; mark(last() ? last().rid : null); render(); }
+  function leaveTour() { tour = null; walk = null; revealed = false; mark(last() ? last().rid : null); render(); }
   const onTourKey = e => {                            // a clicker or the arrow keys walk the tour
     if (tour === null || e.altKey || e.ctrlKey || e.metaKey || /^(INPUT|SELECT|TEXTAREA)$/.test(e.target.tagName)) return;
-    if (e.key === 'ArrowRight' || e.key === 'PageDown') { e.preventDefault(); if (tour < stops.length - 1) goTour(tour + 1); }
+    if (e.key === 'ArrowRight' || e.key === 'PageDown') { e.preventDefault(); if (tour < along().length - 1) goTour(tour + 1); }
     else if (e.key === 'ArrowLeft' || e.key === 'PageUp') { e.preventDefault(); if (tour > 0) goTour(tour - 1); }
     else if (e.key === 'Escape') leaveTour();
   };
   function look(x, y, known) {
-    tour = null;                                       // a tap of your own leaves the tour
-    if (P.busy || apart()) { P.settle(); stage(false); layersOn = null; }
+    tour = null; walk = null;                          // a tap of your own leaves the tour
+    if (P.busy || apart()) { P.settle(); stage(false); layersOn = null; unturn(); }
     const hit = known ? { r: known, exact: true } : regionAt(x, y);
     mem.trail.push({ x: +x.toFixed(1), y: +y.toFixed(1), rid: hit.r.id, exact: hit.exact });
     mem.found.add(hit.r.id); revealed = false; welcomed = true; render();
@@ -388,7 +510,7 @@ async function viewPoster(id, firstLook) {
   }
   const mark = rid => history.replaceState(null, '', location.pathname + (rid ? '#' + rid : ''));   // the address always names the detail on show
   function reveal() {                                 // the teacher turns the key: the poster opens on the answer
-    const l = last(), r = tour !== null ? stops[tour] : l && region(l.rid); if (!r || P.busy) return;
+    const l = last(), r = tour !== null ? along()[tour] : l && region(l.rid); if (!r || P.busy) return;
     P.flourish(0.62, 1200, 1.0, r.layer, () => { revealed = true; mark(r.id); render(); });
     if (calm || !P.count) { revealed = true; mark(r.id); render(); }
   }
@@ -405,24 +527,40 @@ async function viewPoster(id, firstLook) {
     const v = +P.input.value / 100;
     if (v > 0) P.wide(!narrow());
     stage(v > 0); sheet.classList.toggle('settled', v >= 0.72);            // the names appear once the sheets have room
-    if (v === 0) { layersOn = null; P.light(null); } else if (layersOn) P.light('focus', layersOn);
+    if (v === 0) { layersOn = null; P.light(null); unturn(); } else if (layersOn) P.light('focus', layersOn);
     P.setOpen(v, 0.18); render();
   });
+  if (P.glass) on(P.glass, 'click', () => closer(p));
+  /* turning the layers by hand: drag across them once the poster is apart */
+  on(sheet, 'pointerdown', e => {
+    if (!apart() || P.busy || e.button > 0 || !e.isPrimary || e.target.closest('.panel, .pull, a, button, input')) return;
+    drag = { id: e.pointerId, x: e.clientX, y: e.clientY, uy, ux, moved: false };
+  });
+  on(sheet, 'pointermove', e => {
+    if (!drag || e.pointerId !== drag.id) return;
+    const dx = e.clientX - drag.x, dy = e.clientY - drag.y;
+    if (!drag.moved) { if (Math.hypot(dx, dy) < 6) return; drag.moved = true; sheet.classList.add('turning'); try { sheet.setPointerCapture(e.pointerId); } catch { /* fine without */ } }
+    turnTo(drag.uy + dx * 0.3, narrow() ? drag.ux : drag.ux - dy * 0.14, 0);
+  });
+  const letGo = e => { if (!drag || e.pointerId !== drag.id) return; if (drag.moved) { dragged = true; setTimeout(() => { dragged = false; }, 0); sheet.classList.remove('turning'); } drag = null; };
+  on(sheet, 'pointerup', letGo); on(sheet, 'pointercancel', letGo);
+  sheet.addEventListener('click', e => { if (dragged) { dragged = false; e.stopPropagation(); e.preventDefault(); } }, true);   // letting go after a turn is not a tap on a sheet
   P.planes.forEach((pl, k) => on(pl, 'click', e => { if (sheet.classList.contains('apart')) { e.stopPropagation(); pick([k]); } }));   // a sheet can be chosen by touching it
   const onKey = () => { revealed = false; welcomed = true; if (!P.busy) render(); };
   document.addEventListener('pa-key', onKey);
   addEventListener('resize', size);
   document.addEventListener('keydown', onTourKey);
-  S.leave = () => { P.stop(); document.removeEventListener('pa-key', onKey); document.removeEventListener('keydown', onTourKey); removeEventListener('resize', size); };
+  S.leave = () => { P.stop(); document.querySelector('dialog.closer')?.close(); document.removeEventListener('pa-key', onKey); document.removeEventListener('keydown', onTourKey); removeEventListener('resize', size); };
 
   const linked = region(decodeURIComponent(location.hash.slice(1)));     // a link can point straight at one detail
-  const toTour = location.hash === '#tour' && stops.length > 0;          // or straight at the start of the tour
+  const toWalk = (KINDS.find(([k]) => location.hash === '#tour-' + k && walks[k].length) || [null])[0];   // or at one kind of note
+  const toTour = (location.hash === '#tour' && stops.length > 0) || !!toWalk;          // or straight at the start of the tour
   const opening = !welcomed && !linked && !toTour && P.count > 0;
   if (opening) P.openNow(0.8);                      // arrive layered, then come together
   size(); render();
   await P.ready();
   if (firstLook) look(firstLook[0], firstLook[1]);
-  else if (toTour) { P.settle(); goTour(0); }
+  else if (toTour) { P.settle(); goTour(0, toWalk); }
   else if (linked) { P.settle(); look(linked.x, linked.y, linked); }
   else if (opening) P.collapse(1300, 1.2, () => { welcomed = true; render(); });
   else if (!welcomed) { welcomed = true; render(); }
